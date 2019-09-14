@@ -1,0 +1,1090 @@
+The Project Gutenberg EBook of The Art of Inventing, by Edwin J. Prindle
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Art of Inventing
+
+Author: Edwin J. Prindle
+
+Release Date: April 30, 2014 [EBook #45541]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE ART OF INVENTING ***
+
+
+
+
+Produced by Chris Curnow, Jana Palkova and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+
+
+
+
+
+
+
+THE ART OF INVENTING
+
+BY
+
+EDWIN J. PRINDLE, M.E., L.L.M., of the New York Bar.
+
+  A paper read at the 23d Annual Convention of the American Institute of
+  Electrical Engineers, Milwaukee, Wis., May 28-31, 1906.
+
+
+
+
+  _A paper presented at the 23d Annual Convention of the American
+  Institute of Electrical Engineers, Milwaukee, Wis., May 28-31, 1906._
+
+
+Copyright 1906. By A. I. E. E.
+
+
+
+
+THE ART OF INVENTING.
+
+BY EDWIN J. PRINDLE.
+
+
+There are many kinds of invention. The poet, the artist, the
+playwright, the novelist all exercise or may exercise invention in the
+production of their works. The merchant may exercise invention in the
+devising of a new method of selling goods. The department store was an
+invention of this class.
+
+The subject of my paper is, however, the art of making technical
+inventions, and particularly patentable inventions. And, first, of
+its commercial importance; for the engineer is concerned with things
+having a commercial value. By the art of inventing, wealth is created
+absolutely out of ideas alone. It usually takes capital to develop an
+invention and make it productive, but not always. A notable recent
+example is Professor Pupin's loaded telephone line. He received a
+very large sum of money, and his expenditures, as I understand, were
+comparatively trivial.
+
+The certificate of ownership of an invention is a patent, and the
+importance of the art of invention will be made apparent from a brief
+consideration of what rights a patent confers and of the part that
+patents play in the industries.
+
+A patent is the most perfect form of monopoly recognized by the law. As
+was said in a recent decision:
+
+    "Within his domain, the patentee is czar. The people must
+    take the invention on the terms he dictates or let it alone
+    for seventeen years. This is a necessity from the nature of
+    the grant. Cries of restraint of trade and impairment of the
+    freedom of sales are unavailing, because for the promotion of
+    the useful arts the constitution and statutes authorize this
+    very monopoly."
+
+There is an enormous amount of wealth in this country that is based
+upon patents. As an instance, might be mentioned the fact that the
+United Shoe Machinery Company is, by means of patents, able to control
+the sewing machines upon which ninety per cent. of the welt shoes
+in the United States are sewed. The Bell Telephone Company, and the
+Westinghouse Air Brake Company and many other corporations of the first
+importance built themselves up on patents. Patents have become so well
+recognized a factor in commerce that, in many lines of manufacture,
+concerns do not depend simply upon cheapness of manufacture, or
+quality of product, to maintain their trade, but they count on always
+having a product which is at least slightly better than that of their
+competitors, and which is covered by patents, so that they do not have
+to compete with an article of equal merit. And they keep a corps of
+inventors at work in a constant effort to improve the product, so that,
+when the patents now giving protection have expired, they will have a
+better article to offer, which shall also be protected by patents.
+
+Inventing has become almost a recognized profession. Many large
+concerns constantly employ a large corps of inventors, at liberal
+salaries. Besides the inventors employed by large corporations, there
+are many inventors who have maintained their independence, and are free
+lances, so to speak. Some inventors have become wealthy almost solely
+by their inventions, such as Edison, Bell, Westinghouse, Marconi,
+Pupin, Tesla, and Sprague. A considerable number of the smaller
+manufacturing concerns are built largely or wholly upon the inventions
+of their principal owners.
+
+Aside from the question of financial returns from inventing, the
+inventor has the satisfaction of knowing that he is a producer of
+the most fundamental kind. All material progress has involved the
+production of inventions. Inventors are universally conceded to be
+among the greatest benefactors of the human race.
+
+The art of invention is therefore one of great commercial and
+economical importance, and it becomes a matter of much interest to know
+how inventions are produced. It is my object to attempt an explanation
+of the manner of their production.
+
+If it be inquired on what grounds I offer an explanation of this
+apparently most difficult subject, I reply that, in the practice of
+patent law, I have often had occasion and opportunity to inquire into
+the mental processes of inventors, and that the subject is one to which
+I have given considerable attention.
+
+It seems to be popularly believed that the inventor must be born to his
+work, and that such people are born only occasionally. This is true,
+to a certain extent, but I am convinced there are many people who,
+without suspecting it, have latent inventive abilities, which could be
+put to work if they only knew how to go about it. The large percentage
+of inventors in this country compared with all other countries, shows
+that the inventive faculty is one which can be cultivated to some
+extent. The difference in ingenuity is not wholly a matter of race,
+for substantially the same blood exists in some other countries, but
+it is the encouragement of our patent laws that has stimulated the
+cultivation of this faculty.
+
+The popular idea seems to be that an invention is produced by its
+inventor at a single effort of the imagination and complete, as Minerva
+sprang full grown and fully armed from the mind of Jove.
+
+It is, undoubtedly, true that every inventor must have some imagination
+or creative faculty, but, as I shall seek to show, this faculty may
+be greatly assisted by method. While reasoning does not constitute
+the whole of an inventive act, it can, so to speak, clear the way and
+render the inventive act easier of accomplishment.
+
+Invention has been defined as "In the nature of a guess; the mind
+leaps across a logical chasm. Instead of working out a conclusion, it
+imagines it." The courts have repeatedly held that that which could be
+produced _purely_ by the process of reasoning or inference, on the part
+of one ordinarily skilled in the art is not patentable, but that the
+imaginative or creative faculty must somewhere be used in the process.
+The mind must somewhere leap from the known to the unknown by means of
+the imagination, and not by mere inference in making the invention. But
+the inventor, consciously or unconsciously, by proper method, reduces
+the length of this leap to much more moderate proportions than is
+popularly supposed.
+
+That reasoning and research frequently enter very largely into the
+inventive act in aid of the creative faculty is the opinion of Dr.
+Trowbridge, of Columbia University who said:
+
+    "Important inventions leading to widespread improvements
+    in the arts or to new industries do not come by chance, or
+    as sudden inspiration,  but are in almost every instance
+    the result of long and exhaustive researches by men whose
+    thorough familiarity with their subjects enables them to see
+    clearly the way to improvements. Almost all important and
+    successful inventions which have found their way into general
+    use and acceptance have been the products of well-balanced and
+    thoughtful minds, capable of patient laborious investigation."
+
+Judge Drummond, in a decision many years ago, said:
+
+    "Most inventions are the result of experiment, trial, and
+    effort, and few of them are worked out by mere will."
+
+Most inventions are an evolution from some previously invented form. It
+has been said:
+
+    "We know exactly how the human mind works. The unknown--or
+    unknowable--it always conceives in terms of the known."
+
+Even the imagination conceives in terms of what is already known; that
+is, the product of the imagination is a transformation of material
+already possessed. Imagination is the association in new relations of
+ideas already possessed by the mind. It is impossible to imagine that,
+the elements of which are not already known to us. We cannot conceive
+of a color which does not consist of a blending of one or more colors
+with which we are already familiar. This evolution of an invention is
+more or less logical, and is often worked out by logical processes to
+such an extent that the steps or efforts of imagination are greatly
+reduced as compared with the effort of producing the invention solely
+by the imagination.
+
+Edison is quoted as having said that "any man can become an inventor
+if he has imagination and pertinacity," that "invention is not so much
+inspiration as perspiration."
+
+There are four classes of protectable inventions. These are
+
+    Arts,
+    Machines,
+    Manufactures, and
+    Compositions of matter.
+
+In popular language an art may be said to be any process or series of
+steps or operations for accomplishing a physical or chemical result.
+Examples are, the art of telephoning by causing undulations of the
+electric current corresponding to the sound waves of the spoken voice.
+The art of casting car wheels, which consists in directing the metal
+into the mold in a stream running tangentially instead of radially,
+so that the metal in the mold is given a rotary movement, and the
+heavy, sound metal flows out to the rim of the wheel, while the light
+and defective metal is displaced toward the centre, where it is not
+subjected to wear.
+
+The term machine hardly needs any explanation. It may be said to be an
+assemblage of two or more mechanical elements, having a law of action
+of its own.
+
+A manufacture is anything made by the hand of man, which is neither a
+machine nor a composition of matter; such as, a chisel, a match, or a
+pencil.
+
+The term composition of matter covers all combinations of two or more
+substances, whether by mechanical mixture or chemical union, and
+whether they be gases, fluids, powders or solids; such as, a new cement
+or paint.
+
+These definitions are not legally exact, but serve to illustrate the
+meaning.
+
+In the making of all inventions which do not consist in the discovery
+of the adaptability of some means to an end not intentionally being
+sought after, the first step is the selection of a problem. The
+inventor should first make certain that the problem is based upon a
+real need. Much time and money is sometimes spent in an effort to
+invent something that is not really needed. What already exists is good
+enough or is so good that no additional cost or complication would
+justify anything better. The new invention might be objectionable
+because it would involve counter disadvantages more important than its
+own advantages, so that a really desirable object is the first thing to
+be sure of.
+
+Having selected a problem, the next step should be a thorough analysis
+of the old situation, getting at the reasons for the faults which
+exist, and in fact discovering the presence of faults which are not
+obvious to others, because of the tendency to believe that whatever is,
+is right.
+
+Then the qualities of the material, and the laws of action under which
+one must operate should be exhaustively considered. It should be
+considered whether these laws are really or only apparently inflexible.
+It should be carefully considered whether further improvement is
+possible in the same direction, and such consideration will often
+suggest the direction in which further improvement must go, if a change
+of direction is necessary. Sometimes the only possible improvement
+is in an opposite direction. A glance at the accounts of how James
+Watt invented the condensing steam-engine will show what a large part
+profound study of the old engine and of the laws of steam played in
+his invention, and how strongly they suggested the directions of the
+solutions of his difficulties.
+
+We now come to the constructive part of inventing, in order to
+illustrate which, I will seek to explain how several inventions were,
+or could have been, produced.
+
+The way in which the first automatic steam engine was produced was
+undoubtedly this--and it shows how comparatively easily a really great
+invention may sometimes be made. It was the duty of Humphrey Potter,
+a _boy_, to turn a stop-cock to let the steam into the cylinder and
+one to let in water to condense it at certain periods of each stroke
+of the engine, and if this were not done at the right time, the engine
+would stop. He noticed that these movements of the stop-cock handles
+took place in unison with the movements of certain portions of the beam
+of the engine. He simply connected the valve handles with the proper
+portions of the beam by strings, and the engine became automatic--a
+most eventful result.
+
+As one example of the evolution of an invention, I will take an
+instrument for measuring and recording a period of time, known as the
+calculograph, because it lends itself with facility, to an explanation
+from a platform and because my duties as a lawyer have necessitated
+my becoming very familiar with the invention, and have caused me to
+consider how it was probably produced.
+
+And first the problem: There was much occasion to determine and record
+the values of periods of elapsed time; such as, the length of time of
+a telephone conversation; as the revenue of the telephone companies
+depended upon the accuracy of the determination. All the previous
+methods involved the recording in hours and minutes the times of day
+marking the initial and the final limits of the period to be measured,
+and then the subtraction of the one time of day from the other. This
+subtraction was found to be very unreliable as well as expensive. The
+problem then was to devise some way by which the value of the period
+could be arrived at directly and without subtraction and also by which
+such value could be mechanically recorded.
+
+The prior machine from which the calculograph was evolved is the
+time-stamp, a printing machine having a stationary die like a clock
+dial and having a rotating die like the hand of the clock, as in
+Fig. 1. The small triangle outside the dial is the hour hand, it being
+placed outside the dial because it is necessary that the two hands
+shall be at the level of the face of the dial and yet be able to pass
+each other. The hour hand may be disregarded here, as the records
+needed are almost never an hour long. The manner of using the time
+stamp to determine the value of an interval was to stamp the time of
+day at the beginning of the period, and then to stamp the time of day
+at the close of the period at another place on the paper, as shown in
+Fig. 2, and finally mentally to subtract the one time of day from the
+other to get the value of the period.
+
+[Illustration: FIG. 1.
+
+Time Stamp Record.]
+
+The inventor of the new machine conceived the idea that, if the
+time-stamp were provided with guides or gauges so that the card could
+be placed both times in the same position, and the two records of the
+time stamp thus be superimposed concentrically (as illustrated in Fig.
+3), the value of the period would be represented by the arc marked off
+by the initial and final imprints of the minute hand, so that, instead
+of subtracting one record from another, he had only to find the value
+of the arc marked off by counting the corresponding number of minutes
+along the dial.
+
+The inventor had thus gotten rid of the subtraction, but there were
+several desirable qualities not yet obtained. First, he could not tell
+from the record alone, whether it was the longer or the shorter arc
+marked off that was the measure of the period. For instance, he could
+not tell whether the period was 7 or 53 minutes. This was because the
+two hand or pointer imprints were exactly alike except in position.
+So he conceived the idea of making the pointer imprints different in
+appearance, by providing the pointer die with a mark in line with the
+pointer, as illustrated in Fig. 4.
+
+The mark and pointer revolve together and either the dies or the platen
+are so arranged that the mark can be printed without the pointer at the
+initial imprint and the pointer at the final imprint as in Fig. 5, the
+mark being printed or not at the final imprint, as desired. This could
+be done either by allowing the pointer die or the corresponding portion
+of the platen to remain retracted from the paper during the first
+printing.
+
+[Illustration:
+
+            9:23           FIG. 2.           10:15
+  Initial Time Stamp Record.         Final Time Stamp Record.
+            Elapsed Time: 10:15-9:23 = 52 minutes.
+
+To read this record, hours and minutes must be subtracted from hours
+and minutes, an operation liable to much error.]
+
+It could thus be told with certainty from the record alone whether
+the longer or the shorter arc is the measure of the period, because
+the beginning of the arc is that indicated by the imprint of the mark
+without the pointer.
+
+There was still something to be desired. The counting of the minutes
+along the measuring arc was a waste of time, if the value of the arc
+could in some way be directly indicated. If the hand were set back
+to 12 o'clock for the initial imprint, the final imprint would show
+the hand pointing directly at the minute whose number on the dial is
+the value of the period, and it would not even be necessary to count.
+But the setting of the hand back to zero would prevent its making
+the final imprint of any previously begun record, so that the machine
+could only be used for one record at a time. It was desirable to have
+a machine that would record any number of overlapping intervals at
+the same time, so that one machine would record the intervals of all
+the telephone conversations under the control of a single operator,
+or rather of two operators, because both of them could reach the
+same machine. So it wouldn't do to set the hand back to zero, as the
+hand must rotate constantly and uniformly. Then why not set the zero
+up to the hand at each initial imprint? This meant making the dial
+rotatable, as well as the hand. It gave an initial record like that
+shown in Fig. 6.
+
+[Illustration: FIG. 3.
+
+Subtraction eliminated but counting still required and uncertainty
+whether elapsed period is 7 or 53 minutes.]
+
+[Illustration: FIG. 4.
+
+Hand and zero mark revolving within stationary dial.]
+
+The inventor then thought of securing the dial to the pointer die so
+that they would revolve together, the zero of the dial being in line
+with the pointer, as illustrated in Fig. 7. This would obviate the
+necessity of setting the zero of the dial up to the pointer at the
+initial imprint.
+
+[Illustration: FIG. 5.
+
+Initial imprint of zero mark alone and final imprint of hand (and
+zero). Elapsed time, 8 minutes. No subtraction and no uncertainty as to
+which imprint first, but counting still required.]
+
+But again the improvement involved a difficulty. As the dial rotated,
+its final impressions would never register with its initial impressions
+and would therefore always destroy them. As the first imprint of the
+dial was the only useful one, and as the second imprint only made
+trouble, the inventor conceived the idea of not making any imprint of
+the dial at the close of the period, and this he accomplished by making
+the annular portion of the platen covering the dial so that it could
+be advanced to print or not as desired. As the zero of the dial always
+marked the beginning of the measuring arc, it served the same purpose
+as the mark in line with the pointer, and the latter could now be
+omitted.
+
+The final machine then consists simply of a revolving die which, as
+shown in Fig. 8, consists of a graduated and progressively numbered
+dial, having a pointer revolving in line with the zero, and the machine
+has a platen consisting of an inner circular portion over the pointer
+and an annular portion over the dial, each portion being operated by a
+separate handle so that the dial can be printed at the beginning of the
+period and the pointer alone, at its close.
+
+The final record has an initial imprint of the dial, Fig. 9a, the
+zero of the dial showing the position of the pointer at the beginning
+of the period, and a final imprint of the pointer alone, as shown
+in Fig. 9b, the complete final record, Fig. 9c, consisting of the
+superimposition of these two records, and showing the pointer in line
+with that graduation whose number is the value of the period. Here is
+a record not only involving no subtraction and no uncertainty but not
+even, counting in its record, and, as it was made without disturbing
+the motions either of the pointer or dial, any number of records of
+other periods could have been begun or finished while the machine was
+measuring the period in question.
+
+[Illustration: FIG. 6.
+
+Dial moved up to initial position of zero mark. Elapsed time, 11
+minutes. No subtraction, no counting, no uncertainty; but only one
+record possible at a time.]
+
+Hiding all the intermediate steps in the evolution of this invention,
+it seems the result of spontaneous creation, but considering the
+steps in their successive order, it will be seen that the invention
+is an evolution from the time-stamp; that logic rendered the effort
+of the imagination at any one step small by comparison, and that the
+individual steps might be well within the capacity of a person to
+whom the spontaneous creation of the final invention might be utterly
+impossible.
+
+A most interesting example of the evolution of an invention is that of
+the cord-knotter of the self-binding harvester. The problem here was to
+devise a mechanism which would take place of the human hands in tying a
+knot in a cord whose ends had mechanically been brought together around
+a bundle of grain.
+
+[Illustration: FIG. 7.
+
+Dial with pointer at zero revolving together.]
+
+The first step was to select the knot which could be tied by the
+simplest motions. The knot which the inventor selected is that shown in
+Fig. 10, and is a form of bow-knot.
+
+[Illustration: FIG. 8.
+
+Dial with pointer at zero revolving together, zero mark on pointer
+being replaced by zero of dial.]
+
+The problem was to find how this knot could be tied with the smallest
+number of fingers, making the smallest number of simple movements. As
+anyone would ordinarily tie even this simple knot, the movements would
+be so numerous and complex as to seem impossible of performance by
+mechanism. The inventor, by study of his problem, found that this knot
+could be tied by the use of only two fingers of one hand, and by very
+simple movements. The knot will best be understood by following the
+motions of these fingers in tying the knot. Using the first and second
+fingers of the right hand, they are first swept outward and backward
+in a circular path against the two strands of the cord to be tied, as
+shown in Fig. 11.
+
+[Illustration: FIG. 9a.
+
+Initial Imprint.]
+
+[Illustration: FIG. 9b.
+
+Final Imprint.]
+
+[Illustration: FIG. 9c.
+
+Complete Record.
+
+Simple, direct-reading record. No subtraction, no counting, no
+uncertainty. Any number of overlapping periods recorded on one
+machine.]
+
+The fingers continue in their circular motion backward, so that the
+strands of the cord are wrapped around these fingers, as shown in Fig.
+12.
+
+[Illustration: FIG. 10.]
+
+Continuing their circular motion, the fingers approach the strands of
+the cord between the twisted portion and a part of the machine which
+holds the ends of the cord, and the fingers spread apart as shown
+in Fig. 13, so that they can pass over and grasp the strands thus
+approached, as shown in Fig. 14.
+
+The fingers then draw back through the loop which has been formed about
+them, the fingers holding the grasped portion of the strands, as shown
+in Fig. 15.
+
+The knot is finished by the completion of the retracting movement of
+the fingers through the loop, thus forming the bow of the knot as shown
+in Fig. 16.
+
+[Illustration: FIG. 11.]
+
+The inventor found that one finger could have a purely rotary movement,
+as if it were fixed on the arm and unable to move independently of the
+arm, and the movement being as if the arm rotated like a shaft, but
+the second finger must be further capable of moving toward and from
+the first finger to perform the opening movement of Fig. 13, and the
+closing movement of Fig. 14 by which it grasps the cord. The inventor
+accordingly, from his exhaustive analysis of his problem, and his
+invention or discovery of the proper finger motions, had further only
+to devise the very simple mechanical device illustrated in Fig. 17 to
+replace his fingers.
+
+The index finger of the hand is represented by the finger _S_, which
+is integral with the shaft _V_. The second finger of the hand is
+represented by the finger _U_, which is pivoted to the first finger by
+the pin _s_. The grasping movement of the finger _U_ is accomplished
+by a spring _V'_ bearing on the shank _U'_, and its opening movement
+is caused by the travel of an anti-friction roll _U"_, on the rear end
+of the pivoted finger, over a cam _V"_, on the bearing of the shaft.
+The shaft is rotated by the turning of a bevel pinion _W_ on the shaft
+through the action of an intermittent gear. The necessity of drawing
+the fingers backward to accomplish the movement between Figs. 14 and 16
+was avoided by causing the tied bundle to have a motion away from the
+fingers as it is expelled from the machine, the relative motion between
+the fingers and the knot being the same as if the fingers drew back.
+
+[Illustration: FIG. 12.]
+
+Thus the accomplishment of a seemingly almost impossible function was
+rendered mechanically simple by an evolution from the human hand, after
+an exhaustive and ingenious analysis of the conditions involved.
+
+It will be seen from the examples I have given that the constructive
+part of inventing consists of evolution, and it is the association of
+previously known elements in new relations (using the term elements
+in its broadest sense). The results of such new association may,
+themselves, be treated as elements of the next stage of development,
+but in the last analysis nothing is invented or created absolutely out
+of nothing.
+
+[Illustration: FIG. 13.]
+
+It must also be apparent, that pure reason and method, while not taking
+the place of the inventive faculty, can clear the way for the exercise
+of that faculty and very greatly reduce the demands upon it.
+
+Where it is desired to make a broadly new invention on fundamentally
+different lines from those before--having first studied the art to find
+the results needed, the qualities of the material or other absolutely
+controlling conditions should be exhaustively considered; but at the
+time of making the inventive effort, the details should be dismissed
+from the mind of how results already obtained in the art were gotten.
+One should endeavor to conceive how he would accomplish the desired
+result if he were attempting the problem before any one else had ever
+solved it. In other words, he should endeavor to provide himself with
+the idea elements on which the imagination will operate, but to dismiss
+from his mind as much as possible the old ways in which these elements
+have been associated, and thus leave his imagination free to associate
+them in original and, as to be hoped, better relations than before.
+He should invent all the means he can possibly invent to accomplish
+the desired result, and should then, before experimenting, go to the
+art to see whether or not these means have before been invented. He
+would probably find that some of the elements, at least, have been
+better worked out than he has worked them out. Of course, mechanical
+dictionaries, and other sources of mechanical elements and movements
+will be found useful in arriving at means for accomplishing certain of
+the motions, if the invention be a machine. Many important inventions
+have been made by persons whose occupation is wholly disconnected
+with the art in which they are inventing, because their minds were
+not prejudiced by what had already been done. While such an effort is
+likely to possess more originality than that on the part of a person in
+the art, there is, of course, less probability of its being thoroughly
+practical. The mind well stored with the old ways of solving the
+problem will, of course, be less likely to repeat any of the mistakes
+of the earlier inventors, but it will also not be as apt to strike
+out on distinctly original lines. It is so full, already, of the old
+forms of association of the elements as to be less likely to think of
+associating them in broadly new relations.
+
+[Illustration: FIG. 14.]
+
+[Illustration: FIG. 15.]
+
+[Illustration: FIG. 16.]
+
+Nothing should be considered impossible until it has been conclusively
+worked out or tried by experiments which leave no room for doubt.
+It is no sufficient reason for believing a thing won't work because
+immemorial tradition, or those skilled in the art, say it will
+not work. Many an important improvement has been condemned as
+impracticable, by those in the art, before it has been tried.
+
+A conception which an inventor has been striving for unsuccessfully
+will sometimes come to him at a time of unaccustomed mental
+stimulation. The slight stimulation of the movement of a train of cars,
+and the sound of music, have been known to produce this effect. The
+sub-conscious mind, after having been prepared by a full consideration
+of the problem to be solved, will sometimes solve the problem without
+conscious effort, on the part of the inventor.
+
+[Illustration: FIG. 17.
+
+The essential parts of the cord-knotter.]
+
+In inventing a machine to operate upon any given material, the logical
+way is to work from the tool to the power. The tool or tools should
+first be invented, and the motions determined which are to be given
+to them. The proper gearing or parts to produce from the power each
+motion for each tool should then be invented. It should then be
+considered if parts of each train of gearing cannot be combined, so
+as to make one part do the work of a part in each train; in short,
+to reduce the machine to its lowest terms. Occasionally a mechanism
+will be invented which is exceedingly ingenious, but which it is
+afterwards seen how to simplify, greatly at the expense of its apparent
+ingenuity. This simplification will be at the sacrifice of the pride
+of the inventor, but such considerations as cheapness, durability and
+certainty of action leave no choice in the matter. It will sometimes
+be found that a single part can be made to actuate several parts, by
+the interposition of elements which reverse the motion taken from such
+part, or which take only a component of the motion of such part, or
+the resultant of the motion of such part and some other part. Where a
+machine involves the conjoint action of several forces, it can be more
+thoroughly studied, if it is found there are positions of the machine
+in which one force or motion only is in operation, the effect of the
+others in such position being eliminated, and thus the elements making
+up the resultant effect can be intelligently controlled.
+
+The drawing board can be made a great source of economy in producing
+inventions. If the three principal views of all the essentially
+different positions of the parts of a machine are drawn, it will
+often be found that defects will be brought to light which would not
+otherwise have been observed until the machine was put into the metal.
+
+It is desirable to see the whole invention clearly in the mind before
+beginning to draw, but if that cannot be done, it is often of great
+assistance to draw what can be seen, and the clearer perception given
+by the study of the parts already drawn, assists the mind in the
+conception of the remaining parts.
+
+If the improvement which it is sought to make is a process, it should
+first be considered whether any radically different process can be
+conceived of, and if so, whether or not it is better than the old
+process, and the reason for its defects, and whether it is possible
+to cure those defects. If the old process appears to be in the right
+general direction, it should be considered whether one of the old steps
+cannot with advantage be replaced by a new one, or whether the order of
+performing the steps cannot be changed to advantage. I have in mind one
+process in which a reversal of the order of steps resulted in giving
+the product certain desirable qualities which had before been sought
+for, but could not be obtained.
+
+It is sometimes desirable not only to invent a good process of
+producing a product, but to control all feasible processes of producing
+the product. Such a case occurred where the product itself had been
+patented, and it was desirable to extend the monopoly beyond the time
+when the patent on the product should expire. There were two steps or
+operations which were essential to the production of the product, and
+the inventor, by reference to permutations, saw that there were but
+three orders in which those steps could be performed; first, the order
+A-B, then the order B-A, and then both steps together. The order A-B
+was the old order, which did not produce an article having the desired
+qualities. The inventor therefore, proceeded to invent ways by which
+the steps could be performed together, and then by which they could be
+performed in the reverse order, and the patenting such two processes
+would cover generically all possible ways of making the article and
+secure the desired result of putting himself in position to control the
+monopoly after the patent on the article had expired, because no one
+could make the article without using one of his two processes.
+
+In inventing compositions of matter there is one inventor who, if he
+is seeking for a certain result, will take a chemical dictionary and
+make every possible combination of every substance that could by any
+possibility be an ingredient of that which he desires to produce. It is
+as if he were seeking to locate a vein of mineral in a given territory,
+and, instead of observing the geographical and geological formation,
+and thus seeking to arrive at the most probable location of the vein,
+he should dig up every foot of earth throughout the whole territory,
+in order finally to locate the vein. This method is exceedingly
+exhaustive, but does not appeal to one as involving much exercise of
+the inventive faculties.
+
+Inventing has become so much of a science, that if one is willing
+to spend sufficient time and money to enable a competent corps of
+inventors to go at the matter exhaustively, almost any possible
+invention involving but a reasonable advance in the art can be
+perfected.
+
+
+
+
+Transciber's Notes:
+
+Punctuation errors repaired.
+
+The second copyright notice before the text begins has been changed
+from 1903 to 1906 to match the first notice on the title page.
+
+
+
+
+
+End of Project Gutenberg's The Art of Inventing, by Edwin J. Prindle
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE ART OF INVENTING ***
+
+***** This file should be named 45541.txt or 45541.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/5/5/4/45541/
+
+Produced by Chris Curnow, Jana Palkova and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

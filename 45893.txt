@@ -1,0 +1,719 @@
+The Project Gutenberg EBook of William Gilbert, and Terrestial Magnetism
+in the Time of Queen Elizabeth, by Silvanus P. Thompson
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: William Gilbert, and Terrestial Magnetism in the Time of Queen Elizabeth
+       A Discourse
+
+Author: Silvanus P. Thompson
+
+Release Date: June 5, 2014 [EBook #45893]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK WILLIAM GILBERT, TERRESTRIAL MAGNETISM ***
+
+
+
+
+Produced by Chris Curnow, Charlie Howard, and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+
+
+
+
+
+
+
+    WILLIAM GILBERT, AND TERRESTRIAL
+    MAGNETISM IN THE TIME OF
+    QUEEN ELIZABETH: A DISCOURSE
+    BY SILVANUS P. THOMPSON, F.R.S.
+
+
+
+
+  WILLIAM GILBERT AND TERRESTRIAL MAGNETISM IN THE TIME OF QUEEN
+    ELIZABETH.
+
+
+William Gilbert, the father of electrical science, was born in
+Colchester in 1540. Educated at St. John's College, Cambridge, where
+he took his degree as Doctor of Medicine in 1569, he settled, after
+four years of foreign travel, in London in 1573, and was admitted to
+the Royal College of Physicians, of which he became Censor, Treasurer,
+and, in 1599, President. He was in February, 1601, appointed personal
+Physician to the Queen, whom he attended in her last illness. He came
+of a well-known East Anglian family, and held extensive landed estates
+in Essex and Suffolk. He survived the Queen only eight months, dying
+November 30th, 1603.
+
+
+Gilbert's monumental work, the _De Magnete_, published in 1600, marks
+an era in magnetic science. For some four hundred years the employment
+of the magnetic needle in navigation had been known both in Northern
+and Southern Europe. While it is possible that the primitive use of
+the loadstone may be ascribed to the Baltic, it is certain that the
+employment of a pivotted needle, and the addition of a rose of the
+winds as a compass card both originated in the Mediterranean. The
+pivotted needle is described in the Epistle of Peter Peregrinus,
+written in 1269; while the earliest known compass-card marked with
+the initials of the names of the winds is that ascribed to Jachobus
+Giraldis, of 1426, in the Biblioteca Marciana in Venice. The manner of
+use in Elizabethan times of the loadstone and of the compass may be
+gathered from Olaus Magnus (_Historia de Gentibus Septentrionalibus_,
+1555), from Pedro de Medina (_Arte de Nauegar_, 1545), Martinus Cortes
+(_Breve compendio de la sphera_, 1556), Blundevile (_Exercises_, 1594),
+Norman (_Newe Attractive_, 1581), Borough (_A discours of the Variation
+of the Cumpas_, 1581), Pedro Nunez (_Instrumenta Artis Navigandi_,
+1592), Barlow (_The Navigators Supply_, 1597), Nautonier (_Mecometrie
+de l'Eyman_, 1602), and Stevin (_Die Havenvinding_, 1599).
+
+At the time when steering by the compass was introduced into
+navigation, the compass pointed in Middle Europe so nearly truly to the
+north that with the rough instrumental appliances at hand its deviation
+from the true north was seldom noticed, or if noticed ascribed to some
+error in the setting of the needle. Later the compass-makers began
+to set their needles slightly askew beneath the card, according to
+the variation in the place of origin. Norman (1581) states that those
+used in the Levant, made in Sicily, Genoa, or Venice, had the needles
+straight, while those used in Denmark and Flanders had them set at
+three-quarters of a point, or a whole point, to the eastward; while
+those made in Spain, Portugal, France, and England, had the needles set
+half a point to the east. Those for Russia were set at "three seconds
+of a point." Gilbert denounced these devices as tending to obscure
+the true facts. Gradually it became recognized, probably after the
+voyage of Columbus, when the manifest change in the declination of the
+needle nearly caused mutiny of the sailors, that the direction of the
+needle differs at different places; and accordingly navigators began to
+collect data. The record of the voyage of Columbus states that during
+his second voyage in 1496 he used for steering the observations made
+on the declination during his first voyage. The "secret" of Sebastian
+Cabot, which he declared when dying to be a divine revelation to
+him, can have been little else than the idea of using in navigation
+the local declinations of the compass. On the other hand, Pedro de
+Medina flatly denied the existence of the declination, adding that
+if the compass did not show the pole, the fault lay in the defective
+construction of the compass itself. Columbus had found a point 2-1/2 deg.
+east of Corvo, in the Azores, where there was "no variation," and other
+navigators explored the "agonic" lines which crossed the Atlantic and
+the Indian ocean. According to Humboldt, Alonzo de Santa Cruz in 1530
+constructed the first general variation chart. But along with this
+development of practical interest in the subject there grew up a crop
+of wild legends to account for the irregularities observed. The reason
+why the compass needle pointed north, and the reason why it did not
+point truly north, were alike proclaimed to be due to the stars, to
+the influence of spirits, or to the existence of loadstone mountains
+of uncertain locality and of fabulous power. The old traditions of the
+Arabian Nights, dressed in a newer setting, found themselves justified
+by the insertion in maps of loadstone rocks, the position of which
+changed at the fancy of the chartographer. Ptolemy had located them in
+the Manioles; Olaus Magnus declared them to be under the pole; Garzias
+ab Horto situated them in the region of Calcutta. The map of Johann
+Ruysch, which adorned the edition of Ptolemy, publisht at Rome in 1508,
+showed four magnetic islands in the Arctic Circle. Martinus Cortes
+placed the loadstone mountains in Sarmatia. Mercator in his great chart
+depicted two great rocks rising from the sea to the north of eastern
+Siberia, one being drawn on the supposition that at St. Michael the
+compass points due north, while the other is further north on the
+supposition that the compass points due north at Corvo. The map of
+Cornelius Wytfliet, 1597, shows the same phantom islands. Blundevile,
+writing in 1594 of the now lost map of Peter Plancius, mentions that
+he sets down the pole of the loadstone somewhat to southward of the
+islands that lie east of Groynelande.
+
+Meantime another significant fact had been discovered in 1576 by
+Robert Norman, of Limehouse, compass-maker, namely, the tendency of
+the magnetized needle to dip its northern end downwards. Noticing this
+as a circumstance that occasioned him some trouble in the construction
+of his compasses, he thereupon devised a dipping-needle, and measured
+the dip, "which for this Cyty of London I finde by exact obseruations
+to be about 71 degrees 50 mynutes." He attributed both the declination
+and the dip of the needle to the existence of a "poynt respective,"
+which the needle respected or indicated, but toward which it was not
+attracted. The first authoritative treatise on the variation of the
+compass was the tract by William Borough, comptroller to the Navy,
+who in 1580 found an eastward declination of 11 deg. 15' at Limehouse.
+Borough had himself travelled in northern regions and had found at
+Vaigats a westerly declination of 7 degrees, whereas by Norman's
+theory of the respective point there should have been an easterly
+declination of 49 deg. 22'. The great navigators were continually bringing
+home fresh information. Drake, Lynschoten, Cavendish, Hariot all
+contributed; as did lesser men such as Abraham Kendall, sailing-master
+to Sir Robert Dudley (the _soi-disant_ Duke of Northumberland), and
+afterward companion of Drake in his last voyage. Teachers of navigation
+such as Simon Stevin of Bruges and Edward Wright, lecturer to the
+East India Company, might record and tabulate: but a master-mind was
+wanting to forge some larger and consistent doctrine which should
+afford a grasp of the whole subject. Such an one arose in Dr. William
+Gilbert. Nurtured, as we have seen, in the Cambridge which had so
+recently been the home of Linacre and of Kaye--the Kaye who founded
+Caius College--Gilbert had, during his subsequent sojourn in Italy,
+conversed with all the learned men of his time. He had experimented
+on the magnet with Fra Paolo Sarpi: he had, there is reason to think,
+met Giordano Bruno: he was the friend and correspondent of Giovanni
+Francesco Sagredo. Being a man of means and a bachelor, he spent money
+freely upon books, maps, instruments, minerals, and magnets. For twenty
+years he experimented ceaselessly, and read, and wrote and speculated,
+and tested his speculations by new experiments. For eighteen years he
+kept beside him the manuscript of his treatise, which in the year
+1600 saw the light under the title of _De Magnete_, to which was added
+the sub-title: _magneticisque corporibus, et de magno magnete tellure,
+physiologia nova_. That which Gilbert had in fact perceived, and which
+none before him had glimpsed even dimly, was that the globe of the
+earth itself acted as a great loadstone, and that the tendency of
+the needle to point in a polar direction was due to the globe acting
+as a whole. So he boldly put into his title-page the statement that
+his new philosophy was concerning the great magnet the earth: and
+in chapter after chapter he set himself to describe the experiments
+upon which he founded his famous induction. The phrase _terrestrial
+magnetism_ does not occur in any of the prior treatises, because
+the idea had not presented itself. Gilbert piled proof upon proof,
+sometimes most cogently, as when he constructed loadstone globes, or
+_terrellas_ to serve as magnetic models of the earth; sometimes with
+indifferent logic, as when he pointed to the iron ore in the earth
+and reasoned that the magnet tended to conform to (_i.e._ turn itself
+toward) the homogenic substance of the body from which it had been dug.
+The local deviations of the compass he sought to account for by the
+irregularities of the earth's crust, and maintained that the compass
+tended always, at places off the coast of a continent, to be deflected
+somewhat toward that continent. His syllogism was based on the fact
+that at that date all the way up the Atlantic seaboard of Europe, from
+Morocco to Norway, the variation was eastward. He argued that this was
+a universal law. But even within one generation, as may be seen in
+_Purchas his Pilgrims_, in the narrative of the voyage of Bylot and
+Baffin, the generality of the law was questioned. Gilbert reasoned on
+such knowledge as he had, and this did not include any notion of the
+secular changes in the declination. In his time, as he tells us, the
+variation of the compass at London was 11-1/3 degrees. What he did not
+know was that this was a diminishing quantity which in fifty-seven
+years would be reduced to zero, to be succeeded by a westward
+declination that would last for nearly three hundred years. For the
+facts as known in the thirty years succeeding Gilbert's death, see the
+remarkable and scarce volume of Gellibrand: _A Discourse Mathematical
+on the Variation of the Magneticall Needle_ (1635).
+
+Gilbert's treatise is a skilful literary achievement in which there is
+no trace to reveal whether any part was written before the rest. It is
+divided systematically into six books. The sixth book only appears to
+suffer from some incompleteness. It relates not so much to the magnet
+as to the Copernican theory of the universe, which doctrine Gilbert had
+eagerly espoused, and which he was the first in England to proclaim.
+It is known from a letter to Barlow, printed in 1616, that he intended
+to add to it certain chapters descriptive of some of his instruments,
+but he had not completed these before his death. The first book treats
+of historic accounts of the loadstone, of its origin and properties,
+of iron ores in general, and of the fables and vain opinions which in
+the handling of Paracelsus and of the schoolmen had grown up around the
+magnet. The second book is on the magnetic motions, and primarily on
+the attractions and repulsions between loadstones, between loadstone
+and iron, and between magnetic needles. In this book occurs the notable
+digression upon the subject of amber and the electric forces of amber
+and of other substances which when rubbed show, as he discovered,
+similar electrical powers. An analysis of this part, and a summary of
+Gilbert's electrical discoveries will be found in the Notes printed for
+the Gilbert Club to accompany the English translation (1900) of the
+_De Magnete_. After this digression Gilbert returns to the attractive
+properties of the loadstone, and to the way they are affected by giving
+it different shapes. In the course of this enquiry, he announces
+his discovery of the augmentation of the power of the loadstone by
+arming it with iron caps, an invention which caused Galileo to say: "I
+extremely praise, admire, and envy this author for that a conception so
+stupendous should come into his mind. I think him moreover worthy of
+extraordinary applause for the many new and true observations that he
+has made." Gilbert further pointed out that the loadstone is surrounded
+by a sort of atmosphere or "orbe of virtue" within which the magnetical
+effects can be observed. Book 3, on the directive force of the magnet,
+is full of most instructive experiments, in which the terrella figures
+largely, relating to the question how one magnet influences another
+and tends to make it point toward it. All this was leading up to the
+theory of terrestrial magnetism; for we find him naming the parts of
+his loadstone globes with poles, equator and meridians. In this book
+he dilates on the observation that vertical iron rods, such as the
+finial on the Church of St. John at Rimini, spontaneously acquired
+magnetic properties. This he traced to the influence of the earth, and
+demonstrated the effect by magnetizing iron bars by simply hammering
+them on the anvil while they lay in a north and south position. Book 4
+deals with the Declination, or, as it was then called, the variation
+of the compass. He discusses its observation and measurement, the
+influence of islands, the results obtained by travellers to distant
+parts, Nova Zembla, the Guinea coast, the Canary Isles, Florida,
+Virginia, Cape Race, and Brazil. Then he recounts his experiments with
+terrellas having uneven surfaces to represent the irregularities of
+the earth's crust. He points out errors arising from the fallacious
+practice of setting the needle obliquely under the card. He considers
+in separate chapters the variations in Nova Zembla, in the Pacific,
+in the Mediterranean, and in the Eastern Ocean. The fifth book is on
+the Dip. Gilbert seized with avidity on Norman's discovery of this
+effect, and devised an improved form of dipping-needle. He experimented
+on the dip of compass-needles placed at different points over his
+terrella, and evolved a theory on the proportion which he conceived to
+exist between the latitude and the dip. Arguing from all too imperfect
+data, he propounded the view that the dip was the same in any given
+latitude; and proposed that seamen should ascertain their latitudes
+by simply observing the dip. He was aware that local irregularities
+might occur, as they do in the declination; but was not deterred by
+this knowledge from propounding his theory with much circumstance
+and considerable geometrical skill. After the publication of his
+book he developed the theory still further and gave it to Blundevile
+for publication. At Gilbert's suggestion Briggs of Gresham College
+calculated out a table of dip and latitude. It was, however, soon found
+that the facts deviated more or less widely from the theory. Further
+observations in other lands showed the method to be impracticable; and
+Gilbert's hope to give to the mariner a magnetic measure of latitude
+remained unfulfilled. Book 5 closes with an eloquent passage in which
+Gilbert affirmed the neo-Platonic doctrine of the animate nature of
+the universe, and asserted that Thales was right when he held (as
+Aristotle relates in the _De Anima_) that the loadstone was animate,
+being part of and indeed the choice offspring of its animate mother the
+earth. Book 6, as already mentioned, is devoted to Copernican ideas,
+and contains Gilbert's one contribution to the science of Astronomy, in
+his remark that the fixed stars (previously regarded as fixed in the
+eighth of the celestial spheres at one common distance from the central
+earth) were in reality set in the heavens at various distances from the
+earth.
+
+From this brief analysis it will be seen that Gilbert's claims to
+eminence rest not upon any particular discovery or invention, but upon
+his having built up a whole experimental magnetic philosophy on a truly
+scientific basis, in place of the vague and wild speculations which
+had previously been accepted. By his magnificent generalization from
+the small scale models to the globe itself, supported from point to
+point by experimental researches, he created the science of terrestrial
+magnetism. If from the imperfection of the data at his disposal he
+fell into sundry errors of detail, he yet founded the method of
+philosophizing by which those errors were in due time corrected. And if
+for nothing else than his masterly vindication of scientific method,
+and his rescue of the subject of magnetism from the pedantry and
+charlatanry into which in the preceding ages it had lapsed, his memory
+must be held in high honour.
+
+Alas that of the personality of so great a man so little should be
+known. A brief but characteristic biography of him is enshrined by old
+Fuller in his _Worthies_. The poet Dryden, and the epigrammatist Owen,
+celebrated him in still briefer verse. His portrait, which hung for
+nigh two hundred years in the Schools Gallery, at Oxford, disappeared a
+century ago, leaving only a poor engraving to perpetuate his scholarly
+countenance. Doubtless he is one of the four physicians depicted
+by the pencil of Camden in his famous cartoon (now in the British
+Museum), as walking in the funeral procession of Queen Elizabeth. Of
+his handwriting not a vestige was known until about five years ago,
+when a signature was unearthed in the Record Office. Subsequently four
+signatures were found in the books of St. John's College; and recently
+there has come to light a volume of Aristotle bearing Gilbert's own
+marginal notes. His will lies at Somerset House, but it is only a copy.
+Of his fine collection of minerals and loadstones, which with his maps,
+books, manuscripts, and correspondence with Sarpi and Sagredo and
+others, he bequeathed to the College of Physicians, nothing remains:
+they perisht in the Great Fire of London. In a quiet corner of the City
+of Colchester stands the quaint old house where he lived, and where,
+according to local tradition, he once received the Queen. And hard by
+it is the church of Holy Trinity, in which a mural tablet records his
+virtues and marks his last resting place. But his true monument is
+the immortal treatise in which he laid the foundations of terrestrial
+magnetism and of the experimental science of electricity.
+
+To the names of the men who made great the age of Queen Elizabeth, who
+added lustre to the England over which she ruled, and made it famous
+in foreign discovery, in sea-craft, in literature, in poetry, and in
+drama, must be joined that of the man who equally added lustre in
+science, Doctor William Gilbert.
+
+
+ This discourse on William Gilbert and terrestrial magnetism
+   in the time of Queen Elizabeth was delivered by Silvanus
+     P. Thompson at the meeting of the Royal Geographical
+        Society on March twenty-third MDCCCCIII on the
+         occasion of the tercentenary of the death of
+             Queen Elizabeth, and is now printed
+                    by Charles Whittingham
+                      and Company at the
+                       Chiswick Press.
+
+[Illustration]
+
+
+
+
+Transcriber's note: The original book used the long "s", which has been
+changed to the modern "s" here. Other archaic spellings have not been
+changed.
+
+The illustrations are small decorations.
+
+
+
+
+
+End of the Project Gutenberg EBook of William Gilbert, and Terrestial
+Magnetism in the Time of Queen Elizabeth, by Silvanus P. Thompson
+
+*** END OF THIS PROJECT GUTENBERG EBOOK WILLIAM GILBERT, TERRESTRIAL MAGNETISM ***
+
+***** This file should be named 45893.txt or 45893.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/5/8/9/45893/
+
+Produced by Chris Curnow, Charlie Howard, and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
