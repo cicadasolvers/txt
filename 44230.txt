@@ -1,0 +1,3542 @@
+Project Gutenberg's On Yachts and Yacht Handling, by Thomas Fleming Day
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: On Yachts and Yacht Handling
+
+Author: Thomas Fleming Day
+
+Release Date: November 18, 2013 [EBook #44230]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ON YACHTS AND YACHT HANDLING ***
+
+
+
+
+Produced by Mark C. Orton, Marc-André Seekamp and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+(This file was produced from images generously made
+available by The Internet Archive)
+
+
+
+
+
+
+
+
+
+[Illustration: MINERVA]
+
+
+
+
+                                  ON
+                                Yachts
+                                  AND
+                            Yacht Handling
+
+                                  BY
+
+                          THOMAS FLEMING DAY
+
+                            [Illustration]
+
+                         NEW YORK AND LONDON:
+                     THE RUDDER PUBLISHING COMPANY
+                                 1901
+
+
+
+
+                           COPYRIGHT, 1901,
+                                  BY
+                          THOMAS FLEMING DAY
+                         ALL RIGHTS RESERVED.
+
+
+
+
+                               TO THOSE
+                   WHO HAVE SPENT MANY HOURS WITH ME
+                       ROUND THE CLUBHOUSE FIRE
+
+
+
+
+_CONTENTS_
+
+
+  ON THIS BOOK                   13
+  ON SEAMANSHIP                  19
+  ON BOATS IN GENERAL            37
+  ON ONE-MAN BOATS               55
+  ON SEA-GOING BOATS             67
+  ON RIGS                        81
+  ON SAIL AS AN AUXILIARY       109
+  ON REEFING                    119
+  ON ANCHORS AND ANCHORING      129
+  ON RIGGING                    161
+  ON STRANDING                  175
+
+
+
+
+_ON THIS BOOK_
+
+
+"_Books were made that man might pass his knowledge to his fellows;
+through them he speaks to a vast audience, and his power to enlighten
+is only circumscribed by the ability to impart this knowledge in lucid
+and interesting language._"
+
+
+ON THIS BOOK
+
+My reason for writing this book is, that it is wanted; my excuse,
+thirty years' experience. In those years I have handled many boats,
+upon many waters.
+
+You will find this book very different from other works on the same
+subject. In the first place, I believe that all text-books should be
+written in a manner to please, as well as to instruct; that they should
+be agreeable reading; and, aside from their teaching value, have a
+certain excellence as a writing. Again, there is nothing in literature
+so interesting as the autobiography, real or fictional. Nearly all our
+great works of fiction are of this class. Robinson Crusoe's history
+from any other lips than those of the castaway would lose half its
+interest; Gil Blas in the third person would lack warmth and be wholly
+devoid of its peculiar zest. The flavor of the individual is lost
+when you speak for, and not as him. The puppet talks like a puppet.
+It is the difference between John Alden pleading the cause of Captain
+Standish and John Alden pleading the cause of Master John. Let a man
+talk to you and he will interest and amuse; let him write for you and
+he will prove trite and dull. Therefore, when imparting information, I
+like to talk, not write. I want to infuse into my words my person, to
+endeavor to give my ideas an I-am-with-you tone, so that it will be me
+and not the book that is present, and with whom you are in communion.
+
+But this method of handling a subject is apt to breed dogmatism,
+especially as the reader is unable to question or deny the statements
+made until they have been chilled into ink. So you will find in many
+of my chapters that I am exceedingly dogmatic. It is unintentional,
+simply being a manifestation of the spirit peculiar to this style of
+addressing an audience--one that must hear but cannot answer. Therefore
+let me warn you to question all my statements, and to accept only those
+that harmonize with your own conclusions, after you have carefully
+thought them over. Those that you cannot reconcile to your own
+knowledge and experience, lay on one side to be tried out at a future
+day.
+
+Never, no matter how high the authority, accept any man's coin by its
+minted face. It is as easy to strike a base as a sterling piece, and
+the king's head on the reverse and his arms on the obverse won't make
+lead silver, or copper gold. This in regard to statements made by those
+who set themselves up as authorities on a subject is particularly true,
+when the subject is one like this under discussion; one in which no
+fixed rules may be established, and where so much depends upon the
+man, the place and the means. I make a statement of practice; it was
+deduced from my personal experience, and in my case gave a perfect
+result; you follow it, but owing to certain complicating circumstances,
+in your case, it fails. For instance, I tell you, that when a vessel
+gets sternway on in a seaway to keep your helm amidships, and cast her
+with the headsails, and not to put your helm hard over. You accept my
+method as being the correct one, try it, and fail to cast your boat so
+as to fill away. This does not prove that I am wrong in making such a
+statement, but it shows that I am wrong in not having qualified it.
+It also shows that you are a lax thinker in not having questioned my
+method before putting it in practice. My error is the too frequent
+error of men who write on vessel handling; yours the too common error
+of men who study their books.
+
+The object of this book, of these talks, is not to fill you, parrot
+fashion, full of rules of action or methods of practice, but to furnish
+you with food for thought; to lay before you certain statements from
+which you must, to a large extent, deduce your own conclusions. Take
+what I say, mix it with your own knowledge and experience, and put into
+action the result.
+
+These talks are not intended for men who are what we may call seamen,
+men who are thoroughly versed in the art, nor are they intended for
+those who aspire to boats larger than forty feet over all. A boat
+above that size is too valuable to be trusted in the hands of an
+inexperienced or half-trained man. The owner of a large yacht, if he is
+not perfectly capable of handling her under all conditions, should hire
+some one who is. My sermons are addressed to the man who is learning to
+handle a small vessel, who wants to be a seaman, and who, to be free of
+all paid assistance, is willing to study the art thoroughly and make
+himself master of all its branches.
+
+
+
+
+_ON SEAMANSHIP_
+
+
+  "_The tar's a smart tar that can band, reef and steer,
+    That can nimbly cast off and belay;
+  Who in darkest nights finds each halyard and gear,
+    And dead reckoning knows well, and leeway;
+  But the tar to please me must more knowing be._"--
+
+                                                DIBDEN--(_Modernized_).
+
+
+ON SEAMANSHIP
+
+I have been all my life a lover of the sea; an observer of its natural
+and social conditions; a student of its phases and fabrics; but
+while my mind in its long and wide search has touched upon almost
+every subject connected with ocean life, the one that has constantly
+interested and fascinated me is that which relates to the care and
+government of sailing vessels. This art, which is called seamanship, is
+one of man's oldest and noblest attainments. What does the world owe to
+him who possessed it?
+
+To him the civilization of to-day owes its existence. Man cramped in
+the confines of a continent, a prisoner at low-water mark, a dwarf in
+a dwarf world, was released, lifted and enlightened by the Master of
+the Sail. It was he who found the universe upon the sea, and brought it
+home; a free gift, with the more costly but less valuable trophies of
+distant trade. It was he who, broadening the world's world, broadened
+the world's mind. With the spices and silks of the East, with the gold
+and tobaccos of the West, he laded his ships with the new knowledge, a
+commodity that paid no revenues to the crown, that added nothing to the
+wealth and glory of princes, but, flowing slowly and steadily into the
+minds of men, incited the intelligent few to broader, nobler and more
+splendid achievements, and filtering through the masses, long steeped
+in inveterate ignorance, uplifted, enriched and regenerated all.
+
+In the shadow of his sail hamlets became cities; wealth increased,
+suffering diminished. In his callous hands, the helm, that through
+daylight and darkness guided his vessel from land to land, was more
+marvelous in its powers than the famed ivory wand of the Eastern
+genii; and to all who sought to receive, his sail bore more jewels
+than ever burdened the magic carpet, or came into the hands of the
+daring and fortunate through the incantations of the Sons of the Hidden
+Light. While with one hand he struggled with chaffering Trade for her
+sordid coin, with the other he threw into the laps of Science and Art
+innumerable treasures. Impartial in his generosity as in his gifts, he
+gave to Astronomy new constellations, to Medicine rare and efficacious
+herbs, to Art fresh and invigorating colors, and to Literature a
+strange breed of heroes, novel situations and unfamiliar plots.
+
+The freedom that he found upon the high seas he brought back to cheer
+the slaves of the mart. Kings bargained for his services, nobles and
+merchants offered their purses to assist in his ventures. In return
+for three paltry vessels he presented Spain with an empire; to prove
+a chimera false he perished among the northern ices. No sea was too
+broad to daunt him; no land was too distant to escape his search. The
+miseries he endured, the hardships he underwent, were forgotten in the
+joys of a new discovery. He opened roads of trade that brought riches
+and power to his country, and sprinkled these pathways with the bones
+of his companions--victims of exposure, famine and disease.
+
+No reef lifts above the water, no shallow spreads its treacherous
+sands, but the frames of his vessel have been broken upon it. The
+hurricane and calm have taken toll of him; he has paid the penalty of
+recklessness and greed. He has given to the annals of war its most
+desperate and bloody conflicts; he has perished that nations might
+live, and that a people might be free.
+
+His life gave him strength and endurance; his art made him skillful and
+courageous. He created and used a language of his own, and his customs
+were not those of other men. The inventor of the sail, the user of
+the elements, the discoverer, the trader, the protector, the world's
+benefactor--the seaman.
+
+A noble art makes noble men, and there is no nobler art than
+seamanship. As free and changeful in its measures as are the elements
+it employs and combats, it is prolific of resource, fertile in
+expedient, and a prompter of mental activity. It promotes skill of hand
+and tenacity of muscle. Courage is bred in its duties, and the mind
+broadens in its services.
+
+It is this that makes the practice of seamanship so valuable to those
+who employ it only as a pastime. The care and handling of the sailing
+vessel furnishes most excellent training for the young. Aside from
+the skill it imparts, it takes men out into the open air; it offers
+to those whom the obligations of life keep at the counter and desk an
+opportunity to be free, to get away from and completely out of the
+business world. It gives the mart-worn mind a change and a rest. The
+sea has no postmen; no telegraph messengers. It prints no newspapers.
+The feet of society merely tread its borders. It is a place where man
+is really free, and where he can realize his freedom.
+
+Many have written upon this art. Some of these works are an addition
+to literature and of value to the seaman, but the majority are not. On
+that branch of seamanship, which we will call yachtmanship, and which
+is principally the art of sparring, rigging, canvasing and handling
+fore-and-aft vessels, there has been penned several large works and
+many small ones. The standard books are by Vanderdecken and Kemp,
+and the majority of the others, I am sorry to say, are in the most
+part copies of these two. In some cases the authors have lifted their
+information bodily, and have forgotten to acknowledge the indebtedness.
+While standard works of their time, both Vanderdecken and Kemp are now
+out of date, and, moreover, they deal largely with big vessels, and
+vessels of a type no longer employed in yachting.
+
+Among the smaller works there are several good ones, but they lack
+originality and do not properly cover the ground, nor do they contain
+the information which is most necessary to the beginner. Again, many of
+them have been written by men who are enslaved by one type, and are
+therefore considerably biased; others are from the pen of those who
+have had a special and not a general experience.
+
+But the crowning defect of all these books, to my mind, is that the
+authors in the portion relating to handling try to teach a man, instead
+of prompting him to learn. You cannot teach a man to sail--he may
+learn. In order to do so he must have the sailor instinct. Unless he
+has that he will never become a seaman. That is why some men can never
+learn to handle a boat, and why others will pick up the knowledge in a
+few months.
+
+Again, there are many men who learn to sail a boat; that is, become
+possessed of so much knowledge as will permit of their working a
+vessel from place to place, but yet never succeed in mastering the
+nicer or more difficult points of seamanship. These are the parrots of
+the profession--men who simply repeat what they see other men do. The
+skillful seaman is the man who thinks, who studies his profession, and
+who learns from his own experience what he cannot from the practice of
+others.
+
+It is often said that experience is the great teacher. To be sure it
+is; but even experience cannot teach one who will not learn. The most
+intense and varied experience is of no use to one who casts it aside
+without first fitting it into place in his life's record by turning it
+over and over in his mind. Spasmodic storage of experience is of no use
+whatever; it must be sorted, checked up, ticketed and stored away in
+its proper place in the next bin to that which it joins in the sequence
+of events. Unless this is done it will not be forthcoming when needed.
+
+Properly arranged and stored, experience is the mother of what is
+called "presence of mind," the most necessary mental part for a
+seaman to possess. Without it he will be a menace to his own safety
+and a threat of danger to others. Presence of mind is simply applied
+forethought. You do in an emergency without apparent reflection the
+right thing, and save your boat, your life, or somebody else's life.
+People who see the act, exclaim, "What wonderful presence of mind!" but
+would be more correct, if they exclaimed, "What perfect presence of
+plan!" You have simply executed at a moment's notice a plan of action
+that has been stored away in your mind, perhaps for years.
+
+When a boy, I frequently amused myself when skating by thinking out
+what I would do if a person fell through the ice. I pictured all
+possible situations and methods of rescue. One day the accident
+happened; a boy in skating across the head of a pond broke through the
+thin ice formed where the river entered the lake. From the hundred
+skaters present a yell of terror went up, and, as was the case when
+the immortal Mr. Pickwick met with a similar accident at Dingley
+Dell, everybody called for help, and nobody offered it. Though at
+some distance, my attention was drawn to the mishap by these cries.
+Instantly I responded. There was no mental preparation, no reflection;
+the proper plan flashed into my acting mind. I executed it, and the boy
+was saved.
+
+Now, if I had not had that plan stored in my mind, I should have been
+just as much at sea as the rest were. I should probably have joined
+them in shouting for a plank or rope, or, like Mr. Tupman, have cried
+fire, or performed some other senseless act, such as people do when
+brought suddenly face to face with a dangerous emergency.
+
+One day when running down wind I said to the young fellow at the wheel,
+who was anxious to learn the seaman's trade, "What would you do if one
+of us fell overboard?" "I don't know," he answered. "Haven't you ever
+thought, planned out, what you would do in such an emergency?" No, he
+hadn't. "Well," I said, "you think it out; put the boat in different
+positions and under different sail, and plan out what you would do if
+such an accident happened." A day or two after, while the same lad
+was at the wheel, we lost the dingey. Without calling me from below
+or hesitating, he wore round and recovered the boat, executing the
+manoeuvre in so clever a manner as to call praise from all the old
+hands. When, shortly after, I relieved him at the wheel, he said, "I
+thought that out the other day after you spoke about what to do if a
+man falls overboard."
+
+Again, I was on the bridge of a steamer chatting with the mate. "What
+do you do to pass away the long night watches?" I asked him. "Well,"
+he answered, "I spend hours thinking and planning out what I would
+do if certain things happened. I put the ship into every possible
+danger--fire, collision, shifting cargo, broken shaft, and unexpected
+land. I then plan how best to meet the emergency created. I place other
+ships in every position--green to port, red to starboard, lights dead
+ahead, lights on the beam, lights everywhere--then plan to work my ship
+clear of them. I have some run into me, am sinking, lower boats, save
+my own crew and rescue others. I pick up lame ducks, pass hawsers,
+make fast and tow them in. Everything that could possibly happen I
+have happen, and plan the ways and means of meeting them over and over
+again. That is how I while away my eight hours in the scuppers."
+
+There was a seaman who had prepared himself for an emergency; a
+commander who had ready for instant use a plan, so, let occasion demand
+it, he could stand forth the man of the hour.
+
+Let me advise you who would learn the seaman's art to copy that mate.
+Spend your idle hours thinking and planning. Never go into a difficult
+channel without first picturing what dangers may confront you, and how
+you can overcome them. Never pass through a fleet or come to anchor
+among vessels without planning beforehand your mode of action. Never
+turn in at night without first looking about you and outlining in your
+mind your position in regard to shore and craft, and forming a plan
+for getting away if anything should happen to oblige you to make sail.
+After a little practice this thinking ahead will become second nature,
+and your brain will plan and act with the regularity and cheerfulness
+of a good clock.
+
+The backbone of active seamanship is confidence--confidence in
+yourself, confidence in your craft, confidence in your crew. The first
+and most necessary of these is confidence in yourself. Without it the
+place for you is on shore, or in a subordinate position. No man should
+attempt to command who has shaken confidence in his own skill and
+judgment. I mean by confidence the true article, not the false, which
+is more commonly called conceit.
+
+Confidence is inspired by action and confirmed by success. You attempt
+a feat such as you have never attempted before and are successful,
+therefore you are sure that the skill or knowledge you used in
+performing it is reliable, and that you are possessed of a mastery over
+it sufficient to enable you to repeat the act. In plain English, you
+are sure you can do it again.
+
+Let us suppose it is a feat of navigation. By yourself you have never
+taken a yacht out of sight of land, but, having the opportunity, decide
+to attempt to run from one point to another across an open stretch of
+sea. You take the chart, find the magnetic course and distance, allow
+for leeway and current, and having thus found your compass course put
+the ship on it, and away you go. Land soon drops down astern, and you
+begin to feel a bit shaky. Suppose you have made a mistake in laying
+off the course; not allowed enough for leeway, too much for current.
+Suppose you should miss the distant cape. This and a dozen other things
+begin to haunt your mind. You go below, out with the chart, pass over
+your figures, remeasure the distance, get the same result for compass
+course--we will say N. E. by E.1/2E. You go back on deck confident that
+your course and distance are correct, and then begin to worry about
+the compass. You are sure it was correct yesterday, because you took
+several bearings and found it so, and it was also correct two weeks
+before, on your last cruise. Then you reason that it is very unlikely
+that it would go waltzing off into an excessive error just because it
+happened to have been taken out of sight of land for the first time,
+and so give it back your confidence and steer away N. E. by E.1/2E.
+
+Your crew now begin to worry, never having been out of sight of land
+before. They look at you as though they suspected you of contemplating
+their murder. They walk around uneasily, search the horizon ahead, and
+cast regretful glances at the one astern, pay repeated visits to the
+log and act generally like a set of condemned victims. Your confidence
+under this condition begins to wilt again. You take the log index, go
+below, and find that your passage is half made. You show this to the
+crew, and they appear half satisfied and half doubtful, despite your
+assumed air of implicit faith. They seem to know that your face is
+acting, and that your stomach is not backing up the play. Just then the
+helmsman calls out that a steamship is in sight ahead. The smoke-boat
+approaches rapidly, running almost on the back-bearing to the one your
+craft is on--S. W. by W., as near as you can make it. As she draws near
+you recognize her as a coaster running between the place you are bound
+to and the place you have left. Here is positive evidence that you are
+on the right track. You strut round the cockpit with the airs of an
+admiral, and the timid members of your crew shrink into their lower
+garments.
+
+But a few hours after passing the steamer, night comes on, and it
+begins to blow and get nasty. You call all hands, reef down, and thus
+check your speed, so that instead of making six knots you are only
+doing four. Then the wind hauls a bit more forward, and you have to
+flatten-in your sheets. This increases your leeway, and you decide to
+allow another point for it--making your course N. E., 1/2 E. Then you
+wonder if that is enough, and again begin to worry. By this time your
+crew have accepted their fate, and are in a profound state of despair,
+beyond even a murmur of insubordination, doing their work slowly and
+sullenly, as though every act was a part of a preparation to commit
+suicide.
+
+Down to the chart you go again; pass over the course, and pricking
+off the distance, find that you are by your reckoning still twenty
+miles from the landfall you expect to make. The light on it is visible
+fifteen miles. Laying out this on the chart, you see that you can
+hardly miss hitting that big circle, and are somewhat assured. Now the
+wind falls light, and instead of being within the range of visibility
+of the light in an hour or so, it is three before the log says you have
+run far enough. You carefully search the horizon for it. No light is
+visible. A cold sweat begins to break out. You are lost--lost at sea.
+You must have allowed too little for leeway and have passed far outside
+of the light. What had you better do, keep your course, or haul up?
+After thinking it over, and again consulting the chart, you decide to
+hold the course for an hour longer. How slowly that hour drags away! At
+its expiration the log shows three and one-half miles more. You are now
+by your reckoning eleven and one-half miles from the light. Certainly
+you must see it. A long search with the glass; no light. You decide to
+haul up and try for it to the north'rd and west'rd, but before doing
+so have one more look. Hello! there it is, a point on the starboard
+bow. That's the light, sure enough. It flashes; you count ten seconds,
+fifteen seconds, darkness; again it flashes ten seconds. "Light ho!"
+you shout.
+
+Has your log overrun that amount? You decide it has; but a few
+minutes later the light is lost again. That settles it--fog or mist
+inshore; the log is all right. So you stand boldly on, your whole
+mind aglow with the triumph you have just achieved--that of making
+a good landfall. The drama of Columbus at San Salvador is replayed,
+you taking the part of the great admiral, and your crew that of the
+conscience-stricken mutineers. You wonder why they ever doubted your
+skill and knowledge, forgetting that you doubted yourself.
+
+The next day your crew strut proudly about the port like a lot of
+mariners just returned from circumnavigating the globe. They are proud
+of you, proud of their vessel, and very proud of themselves. But what a
+change it has worked in you! You are a very different man to-day from
+what you were the hour you took your departure to make that passage.
+To-day you have confidence in your skill and knowledge, and in yourself
+as a user of those powers.
+
+I have written that little sketch to show you that knowing how to
+hand, reef and steer is not all that is needed to make a seaman. The
+knowledge of the methods of working sails and ship are only a part of
+the seaman's craft. His head as well as his hand must be trained. He
+must not only know his vessel thoroughly, but he must as thoroughly
+know himself.
+
+
+
+
+_ON BOATS IN GENERAL_
+
+
+  _"Is it come?" they said, on the banks of the Nile,
+    Who looked for the world's long-promised boat,
+  And saw that the lines he had drawn on a tile
+    Would make a good cruiser--if it would float,
+  Thro' pyramids, temples, and mummies stuffed,
+    We vainly search for this ideal plan;
+  We fear the Burgess of Pharaoh's bluffed--
+    Yet there was hope when that day began._
+
+
+ON BOATS IN GENERAL
+
+Men frequently come to me, and ask, "What sort of a boat would you
+recommend me to have?" My reply always is, "What for?" In that small
+phrase is contained the kernel of selection--what for? Do you want to
+cruise, go day-sailing, or race? Do you want it to go alone, or with a
+crew? Do you want to sail in rough or smooth water?
+
+A boat that is suitable for cruising is not the thing for racing or
+day-sailing; a boat that would fill the bill if used on land-locked
+waters would make a poor showing on an open sea or in rough stretches
+of tide-swept channel.
+
+Let us first consider the racing craft. Racing, as I have often told
+you, is a business, not a pastime. If you want to win, and those who
+race usually do, you must subordinate everything to that want. If you
+don't, you will never be a successful mug hunter. A racing boat must
+be built as lightly as the law allows. This not only means that her
+frame and planking must be kept down to eights, but she must be looted
+of everything that the rules will permit you to remove. She must have
+large, well-made and consequently expensive sails. Her gear must be of
+the finest and strongest make, and it must be kept up to the top notch
+of perfection by constant supervision and repair.
+
+[Illustration: KNOCKABOUT]
+
+Then you must give up all below comforts and consent to live on bare
+necessities. You must forego all other pleasures and concentrate all
+your faculties on one thing--your boat. If you are willing to do this,
+and have the racing skipper eye and hand, you may pull out all right on
+top.
+
+If, instead of racing, you just want a boat to knock round in during
+the day, your craft is far more easily chosen and secured. You won't
+have to read up several volumes of restrictions and rules, you won't
+have to nose through half a dozen classes to find the one in which the
+easiest-to-beat crowd harbor, before making up your mind and giving out
+your order. You can just suit yourself as to how long, how wide and how
+deep your craft is to be.
+
+[Illustration: CAPE CAT]
+
+A boat for day-sailing wants to be of strong and reasonable light
+construction. She needs much more cockpit than cabin, and if the
+latter is of the summer variety it will be far more comfortable and
+convenient. All boats should have some sort of a cuddy or cabin,
+especially if they are to be used to take out women and children.
+
+A day-sailing boat, if to be used for taking out shore people, should
+be absolutely uncapsizable and, if possible, fitted with tanks of
+sufficient power to float the ballast. Her rig should be simple, and
+her canvas of moderate expanse. The less gear and gewgaws she has
+about her the better, as it means a saving of work at all times, and
+especially in getting underway and coming to anchor.
+
+The two best rigs for this class of boat are the cat and knockabout.
+Both these rigs are quick and easy to handle, and having no bowsprit,
+they can be brought up to a landing anywhere where there is water
+enough to float them.
+
+There is no better day-sailing boat in the world than the cat that
+is used along our Eastern seaboard to take out fishing and sailing
+parties. I don't mean the over-canvased brute that is frequently met--a
+vessel that takes all hands to steer, and a double watch to shorten
+down, but the properly sparred and balanced boat. I have handled many
+of these boats, and under our ordinary summer conditions have found
+them to do what was expected of them in a boatly manner. In skillful
+hands they are as near being absolutely safe as it is possible for any
+water-borne fabric to be. One of their chief advantages is that they
+can be got under sail or be relieved of it quicker than any other type.
+They have but one sheet and two halliards to look after, and all these
+can be tended by one hand without leaving the cockpit.
+
+[Illustration: RACING POLE-MAST SLOOP]
+
+The knockabout has many of the cat's good qualities, and is in some
+respects a better rig, but the jib is apt to be a nuisance at times.
+The disadvantage of the knockabout is that, being a narrower model
+than the cat, you are cramped for room where it is most needed--aft.
+Owing to this latter rig being in fashion, the cat has fallen out of
+favor, but there is no better boat for the young sailor to begin his
+studies in. An open cat--that is, one half-decked, say of sixteen feet
+length--is just the thing for a boy to learn the sailor's trade in.
+
+Now for the cruiser, and its name is legion. But out of the lot there
+are more bad than good ones to be picked. A cruiser, in the first
+place, is a house--a home for days, and perhaps weeks and months.
+Therefore, she must furnish sleeping and eating accommodations. This
+means room to stretch and stand, or at least sit upright. A cruiser in
+which a man cannot live in comfort is no cruiser.
+
+Then first, in selecting a cruiser, the accommodation must be looked
+to; that is why when a man who knows anything starts to buy one he
+invariably puts the question, "What is her head room?" The answer
+generally tells the whole story. The next important query is, "What is
+her draught?" the third, "What is her rig?"
+
+Unless you can sit up and lie down comfortably the boat is no cruiser;
+you can at once make up your mind to that. While no man expects to
+spend the greater part of his time below, the time he does spend below
+is that in which he seeks rest, and must get it; this is impossible in
+cramped quarters.
+
+The importance of the draught depends largely upon where you want to
+sail and harbor. Your draft should never exceed the low-water depth of
+the channel you have to pass through in order to reach your anchorage.
+In our northern waters three feet is the minimum draught required; in
+southern waters less is almost necessary. In some localities three feet
+is the maximum draught. Short draught has the disadvantage of forcing
+the bulk of the boat above the water line, and the making of high
+houses, in order to get head room. This produces a boat that offers
+considerable resistance to the wind, and consequently makes excessive
+leeway. They are also unsteady at anchor, and hard on the ground tackle.
+
+Deep draught cuts you out from many harbors and sheltering places, and
+in getting from port to port along shore frequently obliges you to take
+the longest way round, but it has the advantage of giving a firm hold
+on the water and of keeping the weights and windages down low. But, as
+in everything, there is a happy medium--a betwixt and between.
+
+It may be stated that for all reasonable purposes on a cruising boat of
+40 feet and under to be used on our coast, a draught of five feet is
+sufficient. All over that will prove a cause of worry and a hindrance
+to pleasant voyaging. With this draught you can pass into nearly all
+our bar harbors and navigate with safety among the shoals in our sounds
+and channels. I prefer to limit my draught to three feet, but then it
+is my peculiar pleasure to sail where other men seldom venture.
+
+[Illustration: CUTTER RIG]
+
+It is difficult to get a weatherly keel boat on four or even five
+feet draught. A boat to be good to windward must have a deep plane
+of resistance. This makes it almost impossible to dispense with the
+centerboard in small boats. But as soon as you admit this contrivance
+into your plans you partly spoil your accommodations. Many designers
+have tried to get round this by combining the two forms. Putting in a
+half board that houses in the keel and does not come above the floor.
+Such of these as I have seen have proved to be poor makeshifts, and the
+result is the spoiling of what would have been a good keel boat.
+
+While fully aware of its disadvantages, I am a firm believer in the
+centerboard for small cruising boats. That it weakens a vessel there
+is no doubt, but with the modern method of building the trunk the
+injury to the fabric is very slight. The saying that "A centerboard
+boat always leaks" is more fact than fiction, but in several modern
+yachts that I have cruised in this is not so, the trunk having been
+constructed in such a way as to resist the strains which are the cause
+of leakage.
+
+Now to return to the subject of accommodations. A cruising boat should
+be of such shape as will give the largest interior possible in a given
+length. In this the older type of yacht was far superior to the modern.
+In the boats of to-day a man pays for a great deal of hull that is of
+no use to him, except for looks and speed. The long overhangs provide
+plenty of deck room, but they add nothing to the cabin and but little
+to the storage space. In an up-to-date boat all that is habitable is
+the middle third. In such a craft, 30 feet over all, you can get but
+10 feet for cabin. I have seen a 40-foot boat, which was advertised as
+a good cruiser, in which there was sleeping room for two. Compare this
+with the accommodations furnished by an old-fashioned plumb-ender, or
+with a Cape cat. One of these latter of 20 feet has more room than a
+modern 30-footer of the up-to-date model.
+
+The extreme overhangs are all right in racing craft, but they are a
+detriment and a danger in cruising craft. The same may be said of the
+extreme full bow. There never was, and probably never will be, a set of
+ends better adapted for all-around work than those carried by the boats
+of twenty years ago, as shown in Minerva and yachts of her day. This
+is what is known as the half-clipper or schooner bow.
+
+In boats of this type there is sufficient overhang to prevent their
+diving and to give them sufficient buoyancy to lift easily over a sea,
+at the same time the ends are not long enough to trip the vessel if
+running in large water. Again, the entrance and run are sharp enough
+to fall without pounding--a disagreeable habit that full modern boats
+are possessed of. The most serious objection to the modern boat with
+full and long overhangs is that it will not lay-to in heavy water
+bow-on. Just as soon as you put it to the wind and check its headway
+it will fall off in a trough and work around stern to the sea, a very
+dangerous proceeding. It is a splendid runner, and remarkably dry when
+so engaged; in fact, it seldom ships solid water when going either on
+or off the wind, and is less liable to pooping than the older types,
+but when brought to face a sea it pounds and sags and is exceedingly
+uncomfortable. To one who has never experienced the sensation it is
+impossible to picture the punishment these full-bowed vessels receive
+when driven against a head sea. This pounding brings a terrible strain
+on the spars and rigging and is very wearying to the crew. I have
+known a sea striking under the stern of one of these boats to throw
+the crew off their feet, badly injuring one man. The mate of a large
+English yacht who had crossed the Bay of Biscay in her on the way to
+Gibraltar told me that he had never in all his sea experience had such
+a terrible knocking about. Every man on board was a mass of bruises
+when the vessel made port, and the copper was torn off her bows back
+for eight or ten feet. Yet this boat's bow was nothing like so full as
+that of many of our yachts of to-day.
+
+[Illustration: JIB AND MAINSAIL CRUISING BOAT]
+
+If you go to the other extreme, and cut all end off a boat, giving
+her a straight up and down stem, she is a bad runner and very, very
+wet. The cutters of this type were most uncomfortable sea boats, being
+constantly deluged, but they would eat out to windward in heavy weather
+and lie-to a sea like birds. Between these two there is the end which
+is the one for the cruiser to use.
+
+The ideal end is one that will lift and lower slowly, allowing the
+vessel to fall and rise without jarring or jerking. This sort of end
+will, when falling, bring a vessel slowly to when the extreme point
+of the fall is reached. With the plumb stem a vessel is apt to go too
+far, deluging the decks, and in one with the full long bow, not far
+enough, jarring the whole fabric by suddenly checking the motion. It
+is of course impossible to have absolutely perfect ends on a vessel,
+as concessions have to be made to other purposes, but the ends of the
+majority of our modern yachts are decidedly bad for rough-water work.
+
+Another serious defect in many cruising boats is want of freeboard.
+There is no excuse for this. A low-sided boat is wet and uncomfortable,
+both inside and out. You see many boats of this description with scant
+freeboard and excessively high houses. The only object to be gained
+by keeping the freeboard down is to reduce the windage and weight,
+important items in racing craft, but of little matter in a cruiser.
+Farther on, in speaking of handling in rough water, I shall explain the
+advantages of freeboard.
+
+
+
+
+_ON ONE-MAN BOATS_
+
+
+  "_Alone, alone, all, all alone,
+  Alone on a wide, wide sea!_"
+
+                    COLERIDGE.
+
+
+ON ONE-MAN BOATS
+
+This is a subject upon which volumes of rot have been written by men
+who ought to have known better. We can forgive a man of no experience
+for writing absurdly upon a subject, but when those who have had
+experience in handling craft alone come out in print in advocacy of an
+utterly unsuitable type of vessel it is about time for somebody to call
+them down. It is the books of such men that have made common the idea
+that the single-hander's vessel must be a sort of enlarged toy boat; in
+consequence, whenever a single-hander is pictured, it is of that type.
+
+The principal cause of this error is that the men who have taken charge
+of the task of disseminating information regarding the single-hander
+are of a class that, as a class, look upon small things as making big
+things and not as big things being made of small things. Consequently
+they give more importance to any part than they do to the whole. Then
+they are the servants of an idea; this once firmly fixed they distort
+all out-doors to fit it. All evidence to confirm is at once admitted,
+while just as quickly the door is shut in the face of whatever does not
+go to prove their first and final conception to be correct.
+
+[Illustration: SINGLE-HANDER]
+
+Almost every man I know of who has contributed to the literature of the
+single-hander has first sat by the fireside and designed a craft and
+then built and sailed it to prove that it is the only perfect thing.
+
+Go over a fleet of this kind; what are they? Either big toy boats or
+small copies of large vessels. While they may perfectly fit the theory
+and be theoretically perfect, they are practically of no use, or else
+inferior in many ways to a boat of the same dimensions designed by
+experience. The earliest types of these boats were closely moulded
+upon the lines of fishing craft, being models built to withstand the
+rough usage of that trade, and suited to oar and sail alike. That a
+craft like this matured in a rough locality is the best for its purpose
+is frequently true, but that it is best for another purpose is as
+frequently false.
+
+This is an error common to many who have advocated some local type
+of boat for universal use. Having employed it successfully in certain
+waters, they imperatively assert that it will suit all waters, and
+having found it to answer one purpose, they are equally certain
+that it will answer all. It is the old story of the blind men and
+the elephant--that of forming a compound conclusion from a single
+observation.
+
+If a man cruise, and cruise without assistance, the first important
+thing is that his craft be one that he can handle without excessive
+muscular strain. Therefore she must not be heavy for her size, and her
+gear must be of such weight as will readily permit of his working it.
+The gear must be simple and of strength; the rig one that needs the
+least attention. This is exactly what the typical single-hander is not.
+
+The typical single-hander is a coarse-lined, heavily built craft, with
+complicated gear and divided canvas. She is generally very full-bodied
+and badly overloaded with ballast. Her initial stability is great, and
+her helm action slow. This is the type of craft advocated by nearly all
+who have written on this subject. One of the prime virtues of this type
+in the eyes of single-hander writers, is, that such craft are good sea
+boats. A few years ago boats of this description were more common than
+they are to-day, but many are still afloat. The favorite rig is that of
+cutter or yawl.
+
+These boats are safe--that is, they seldom capsize--and are good sea
+boats, if simple ability to float in rough water constitutes a good
+sea; but they are slow, awkward to handle, and utterly unable to make
+way in rough water and heavy winds.
+
+Off the wind in all weather they move slowly and steer badly and in
+light breezes are logs. One of these boats that I handled would yaw
+four points either way when running off in a following sea, and when
+close-hauled in a blow would lie down and sag off bodily to leeward. It
+was utterly impossible to get her to windward except under conditions
+of a smooth sea and steady breeze, weather in which any vessel will do
+her best.
+
+I remember once seeing a small cutter-rigged, single-hander trying for
+several hours to beat round Matinicock Point against a head sea and
+wind. This vessel, which was built after the plans of a celebrated
+single-hander's boat, was a failure on every point of sailing. Another
+time we passed a small cutter off Saybrook; she was jumping up and down
+and chopping waves at a great rate. Our consort, who had passed the
+same point two hours before, reported speaking the yacht in almost the
+same position, and no doubt she would be there yet if the wind and tide
+had not shifted and lifted her in.
+
+The essential element of safety in all vessels is the power to move
+forward under all conditions of weather. This is especially so of a
+sailing craft. There must also be a perfect and rapid obedience to the
+helm. A slow-moving or sluggish craft is a dangerous one. The smaller
+the vessel the more true this is.
+
+The other element of safety is the mobility of the rig. The ability
+to make, reduce and shift sail rapidly is essential to safety. This
+is only possible when the sails and spars are proportioned to the
+strength of those manipulating them, and the gear of the simplest and
+most direct description. The over subdividing of canvas is bound to
+complicate the gear; the keeping of the canvas in large sails to make
+the spars heavy and unwieldy.
+
+The most perfect type of boat and rig for one man to handle is the
+cat--in theory; but in practice it fails in many ways. If the weather
+was a constant it would be the ideal rig. But winds are changeable
+things in all localities. So long as a cat can carry her whole
+sail comfortably she is the safest and most easily handled rig in
+existence; but once reef her and she forfeits much of her ability. Then
+again, in strong winds, she is a bad runner, and her sail being large
+and well outboard she is difficult to reef. For windward work under
+favorable conditions the cat is unrivaled, and as a one-man boat she is
+for some purposes without a peer. But I do not recommend the rig for
+single-handed cruising.
+
+Let us next consider the sloop. This is, except for very small craft,
+an inferior rig for the purpose to the cat, it having all the latter's
+faults without any other advantages to compensate. In single-handers
+under 20 feet top measure the sloop rig will work very decently. But
+it is decidedly inferior to the knockabout, for the reason that in
+order to expand its canvas both the boom and bowsprit must be carried
+outboard. This latter rig, if kept down to reasonable proportions, is
+better than either cat, sloop or cutter for single-handers under 30
+feet top measure. But all these three rigs have the one objectionable
+feature, that in order to reef the boat must either leave her course
+or be hove-to while the operation is performed, a serious disadvantage
+under rough conditions.
+
+In a full-manned vessel, reefing, when the proper method is employed,
+is a simple affair, but reefing by one hand is always a long and
+troublesome job. If the vessel cannot be kept on her course and is
+brought to the wind the work is made much more difficult owing to
+the rolling and pitching. Not only is this the case, but it is very
+often dangerous to venture on a bowsprit at such a time or to hang out
+over the stern in order to secure the cringle-lashing. Any one who
+has reefed a jib when the boat is head to the wind and pitching into
+a steep sea will not deny this. Last summer in reefing down, owing
+to the weight of the wind, I was obliged to take the sail completely
+off my boat, as it was impossible to knot the points with the canvas
+straining; losing her way, she fell off into the trough of the sea,
+which was running very large, and rolled so heavily that she threw all
+hands off their feet. We could do nothing but hold on until at last we
+were obliged to run her off under the peak and reef her running. This
+manoeuvre cost us a good two miles of hard-won weather gauge.
+
+The three best rigs for single-man handling are the ketch, yawl or
+sharpie, or double cat, as it is sometimes called. The advantages of
+the yawl and ketch rig I have explained in another chapter. The double
+cat is also fairly good, but its chief objection is that the stepping
+of the foremast in the eyes of the boat makes it close work forward and
+the lack of a bowsprit increases the work of handling the anchor.
+
+As to the size of a single-hander. I have handled boats of 35 feet, top
+measure alone, but it was labor; the ground tackle for such a craft
+being a big lift for one man. The only advantage of a long boat is the
+increased speed and accommodation, but the latter is generally not
+wanted.
+
+I would recommend for this purpose a boat of not over 30 feet--25 is
+better--and of either yawl or ketch rig. A moderate sail plan, light
+spars and strong rigging, the iron work especially being extra heavy.
+The hull, while strongly built, should be clean-lined, and, above all,
+stiff and weatherly. The last is the prime necessity. She must be
+capable of going to windward under any set of sail. At least half her
+ballast should be inside, firmly secured. She should steer with a wheel.
+
+We can summon all this up in one sentence, that will concisely describe
+the ideal single-hander: A fast hull and a small rig.
+
+[Illustration: FULL-RIGGED SCHOONER]
+
+
+
+
+_ON SEAGOING BOATS_
+
+
+"_The sea and the wind are not our enemies. They seldom destroy our
+vessels without our connivance. It is our own folly, neglect or
+carelessness, that opens the way for the attack._"
+
+
+ON SEAGOING BOATS
+
+The first and absolute necessity of a seagoing boat is freeboard; the
+second is a complete deck and water-tight openings. Given these two
+things and you have an almost safe craft. There is no question of
+capsizing a well-designed yacht of to-day by power of the wind. Our
+outside ballasted boats cannot be kept wrong side up, so long as the
+water is kept out of them. They may be hove down on their sides and
+fill and sink, but they cannot be turned completely over so long as
+they retain their buoyancy. I have been in one of them, a boat carrying
+only about half the usual weight of lead for a vessel of her size,
+that was laid on her side in a squall with both mainsail and jib in
+the water; she remained in this position for nearly two minutes, and
+then righted when the force of the squall was spent. Her lead kept her
+from turning right over, and her large freeboard kept her from edging
+down. She simply made a bottom of her side and floated on it. That is
+one advantage of freeboard. Had she been a narrow-sided boat she would
+have been forced between the pressure of lead and wind deeper into
+the water, but as it was her displacement, owing to the bearing up of
+the sail and mast, was probably less when in that position than when
+standing upright.
+
+Again, freeboard increases the range of heel. This is of enormous
+advantage when sailing in a sea way with a strong breeze. The tripping
+power of the wave is exhausted before the rail is brought down, and
+the boat not receiving a load of water on her lee deck rights so much
+quicker. A low-sided boat when canted by a beam sea edges her rail
+under and shovels the water up on her deck as she recovers. For this
+reason seagoing craft should have their upper freeboard slightly
+tumbled home. Bulwarks and high rails are bad things, and combings
+should be kept well inboard, while raised cabin houses if fitted should
+not be carried too close to the waterways. Rails and bulwarks as far
+aft as the rigging can be raised to an advantage, as they prevent the
+water from coming in and not passing out. Water in breaking on board
+will always follow along anything like the side of a house, and when
+reaching a break spread in. This is how cockpits are so easily filled.
+The height is suddenly cut down from house to combing, and the sea
+having become crowded up to the height of the house in its passage aft,
+when it comes to the low place rushes into the cockpit. If the combing
+is carried up to the height of the house the water will pass along and
+go out over the stern.
+
+Ballasted boats should never go into rough water unless they have
+water-tight cockpits and water-tight companions and openings. But
+a water-tight cockpit, unless it is well-scuppered and really
+self-bailing, is of little use. In eight out of ten small yachts the
+cockpits are not, although they pretend to be, self-bailing. They will
+bail perfectly when at anchor. In order to bail quickly the floor must
+be at least ten inches above the load water line. Here again freeboard
+comes in. Again, the placing of the scuppers in the forward end of the
+cockpit and their outboard openings under the bilge is decidedly wrong.
+In the first place it keeps the water at all times in the forward end
+of the standing room against the cabin, just where you move about; in
+the second every drop that goes out through the lee pipe has to force
+its way against a pressure. This pressure is also constantly driving
+the water up and into the boat. The place for the scuppers is aft with
+the openings under the stern. Here there is constant suction so long as
+the boat is moving ahead, no matter to which side or how far she heels.
+Again, if the floor is sloped aft, whatever water is on the standing
+room will run aft and be out of the way, a measure of comfort that
+those who sail in rough water can appreciate. It is not generally known
+but a boat going at speed of four knots and over will, if equipped with
+proper scuppers, siphon, i. e., suck the water out.
+
+[Illustration: A SEAGOING BOAT]
+
+Another bad practice of builders is to put stationary seats around
+a cockpit with lockers beneath them. This never should be done. You
+cannot keep them tight, the wood being constantly subject to water and
+sun. Never put lockers of any kind in a boat with outboard openings.
+Another bad practice is that of putting in low companion thresholds.
+The threshold of the companion should be as high or higher than
+the side of the boat, and should on no account, no matter how high
+the cockpit floor is, be on a level with it. The usual manner of
+constructing companion doors is also open to objection. The new method
+in which the door slides down into a recess through a rubber-packed
+joint is far better than the old way of closing. Such a door can be
+made absolutely water-tight, and can be opened without being opened.
+This enables you to see into the cabin or out of it without running
+the slide back or risking getting a wash below by opening the doors.
+These may seem trivial details, but it is the neglect of such to whose
+account the loss of the majority of seagoing vessels must be placed.
+Poor hatches and low, badly protected engine room skylights are
+responsible for nearly all the steamships that go to sea, and are never
+heard of again. Keep the water out and you can live out anything in the
+way of sea or wind. Let it get in and everything that before made your
+craft seaworthy will be an aid to your ending. Your ballast will be a
+weight to sink you, and the empty space that gave you buoyancy so much
+room to quickly fill with water.
+
+After this, look to your pump. Where is it? In most yachts directly
+amidships, drawing out of a well over the lowest part of the keel.
+Where should it be? In the place where it can be used when most
+wanted--the bilge. You must have a means of drawing from the center,
+so you can pump out when at anchor or sailing upright. But all pumps
+should have a bilge intake. It would be a very simple matter to make
+such a connection with a cock to cut off the other intakes. How often,
+when he least wants to, has a man to let his boat up, so as to get the
+water amidships for the purpose of pumping it out. If he could pump
+from the bilges this coming up would be unnecessary. To kill a boat's
+way in a heavy beam or head sea, so as to get her on her keel, is a
+dangerous artifice; but it must be done with the pump amidships, if you
+want to get the water out, and keep a dry cabin. Every seagoing small
+yacht should have at least two fixed pumps, and a movable one. The
+fixed pumps should be constantly looked to, and the limbers kept clean.
+Never stow inside weight alongside of or over the intake, and never
+allow rubbish to be swept into the spaces between the floors. With a
+good pump a man can keep down all the water that will work into a tight
+boat through her bottom, topsides and deck.
+
+All seagoing yachts should have the rudder post boxed up and carried
+well above the water line. The neglect of this is the cause of much
+leakage. She should also have in her rudder blade a boring or rod in
+which to make fast emergency lines or chains. In craft that have their
+rudders well under them a rod must be used, but in shallow boats with
+broad blades a hole bored through the outer edge will do. These lines
+are extremely useful when anchored in a sea way; by hauling them taut
+over either quarter you can relieve the strain on the head of the post
+and gear attached to it. In case of a breakdown of the quadrant, wheel
+or post head, you can at once take control of the rudder and keep the
+boat under command.
+
+No boat should go into rough water for a long run unless she have
+ringbolts aft for the purpose of passing boom lashings, and also a
+fixed boom crotch, or at least one that can be made immovable. There is
+no other way of keeping a boom steady when the sail is lowered down.
+You cannot by any possible means do so with lashings, unless you can
+horn it in a crotch. A loose boom is a constant menace. Provision also
+should be made for the trysail sheets, and for body lashings for the
+crew, and lashings for the boat, even if you have davits. The principal
+weak spot in the rigging of a boat that is to be driven in heavy water
+is the bobstay. That piece of rigging is often carried away in a sea
+than any other, and usually it is the bolt that goes. Look to it, and
+look to it well; for if it parts, most likely you will lose your mast.
+The only safeguard lies in rigging a preventer stay that will set up
+with a tackle, the fall leading inboard. The stay should be of wire
+rope properly and strongly secured to the stem. Use either a gun tackle
+or luff tackle--the latter is preferable--and be sure to give it plenty
+of drift. When in use, set it up just scant of the strain, so that if
+the bobstay parts it will catch the strain before the spar gets a good
+spring. In boats that have a forestay set up to the stem head there is
+less likelihood of this accident happening; but it is always best to
+have a preventer fitted. Make the fall fast around the bitts or mast
+where you can readily get at it, and hold a turn to set it up. Seagoing
+boats should have two shrouds on a side and set up with lanyards in
+preference to rigging screws. If you fit the latter, have them about
+twice the size of those ordinarily put on by riggers. She should also
+have a heavy set of masthead runners and duplicate eyes to set them up
+to, one pair being placed well aft. Our modern full-bowed boats are
+very hard on their rigging and spars when in a sea way, and need to be
+heavily ironed.
+
+Outside of her ordinary sails a seagoing yacht needs a trysail, a
+small square sail, and a small jib or staysail, all made of heavy
+canvas. Particular attention should be paid to the roping and clews
+of these sails. It is of no use using heavy canvas if the clew irons
+are frail and the rope light. A gaff-headed trysail is better than a
+jib-headed, but it is more bother to set. Care should be taken to see
+that the cleat or ringbolt for the trysail sheet is in such a position
+as will allow the sail to be properly sheeted, for a trysail when used
+for riding must set flat, or else it will bang itself to pieces.
+
+In seagoing craft looks don't count, and therefore be not afraid to
+make all your rigging heavy and strong, and wherever possible have a
+fitting or tackle that can be instantly made to take the place of one
+that carries away. Always when in rough water or in heavy weather keep
+a vang or down-haul on the peak of the gaff. It is sometimes the only
+thing that will bring the sail down, and it gives you command of the
+spar, especially when the yacht is rolling heavily. The chafing of gear
+when in a sea way is constant and ruinous. To prevent it a close watch
+must be kept on all ropes where they pass through blocks or lie against
+spars or other ropes. If your halliards and sheet remain long in one
+place they must be canvased or armored with some sort of chafing stuff.
+
+One more important thing. Whenever you get far from land, lash the oars
+and rudder in the dingey. Then put in a good long coil of light line,
+a bucket, a jug or breaker of water, and enough food to last for a day
+or two. Lash these in so they cannot get out. Many a life has been lost
+and many a man has suffered horribly because these simple precautions
+have been neglected. Something suddenly happens to the yacht; it is a
+case of boat at once. The crew throw the boat over and jump in. Too
+late they find that the oars are gone or that there is no water or
+food. The bucket and rope are for use as a sea anchor.
+
+[Illustration: FULL-RIGGED SCHOONER]
+
+
+
+
+_ON RIGS_
+
+
+"_The present tendency of canvasing is to increase the number of sails
+on cruising yachts, and to decrease on racing craft. Experience teaches
+that in both cases we are doing the right thing. Ultimate speed is
+found in single sails; ease of handling, safety and mobility in divided
+sail._"
+
+
+ON RIGS
+
+In discussing rigs suitable for cruising we may at once dismiss from
+consideration several that are in common use, but which are not adapted
+for service in our waters, or are distinctly inferior by reason of
+being difficult to handle with small and unskillful crews. We will,
+also, dismiss the true cutter rig from our considerations, as it has
+almost passed out of use, its place being taken by the modern type of
+single-sticker, which is part cutter and part sloop. This combination
+rig is not in its full sparring suitable for boats under forty feet,
+but when stripped of the topmast it is in some ways an excellent type.
+
+We can also drop the cat, and what is called the cat-yawl, from our
+list. The four rigs to which I shall call your attention are the
+pole-mast sloop, yawl, ketch and schooner.
+
+The pole-mast sloop, of which the knockabout is the commoner specimen,
+is an excellent rig for use on a cruiser. The difference between
+the sloop proper and the knockabout is in the method of spreading
+the canvas; in the sloop the canvas is spread fore-and-aft, a large
+percentage being forward of the mast; in the knockabout the much
+greater part of the spread is in the mainsail, and the hoist is higher.
+The tall, narrow-peaked mainsail of the latter is its characteristic
+feature. The jib is small and tacked down to the stem head.
+
+The disadvantage of this rig is that sufficient canvas to drive
+a heavy, full-bodied boat cannot be spread; consequently, a true
+knockabout is a comparatively roomless craft.
+
+The false knockabout, a bastard craft that is becoming very common, is
+one in which the sail area is increased by extending the headsail on a
+bowsprit, and running the boom outboard.
+
+The pole-mast sloop has many warm advocates, and is without question
+a far better rig than the old sloop, hampered with topmast and lofty
+gear, but it shares with all single-masted vessels the faults that are
+common to the type. The most serious of these is, that you cannot
+shorten sail except by reefing. This can be done with the yawl, ketch
+and schooner rigs.
+
+I have heard many men, and men of experience, decry the yawl rig,
+giving as their opinion that it is inferior in every way to the
+short-rigged sloop. But I have generally found that these men have
+formed their judgment from the actions of one boat, and that failing to
+confirm preconceived opinions they have condemned the type, root, bole
+and branch.
+
+In an article upon the yawl rig, written some time back, I explained
+one of the reasons why this rig came into favor, and why it has lost
+favor with many who at first highly valued it. I cannot do better than
+reprint these remarks:
+
+It has been said that the worst enemy a man can have is his best
+friend. Howsoever this may be in the world of men, it is most certainly
+so in the world of things, and nowhere has unmeasured eulogy of the
+best friend wrought greater havoc than in the case of the yawl rig.
+Unfortunately for the yawl rig, it has been repeatedly chosen to drive
+the craft of the writing lonesome sailor, and consequently it has
+figured to a marked degree in yachting literature, and as these writers
+have lavished upon it page upon page of unqualified praise, the
+effect has been to lift the rig into a singular and prominent position,
+and to surround it with a glamour not the less charming because a
+sparkle of truth concentrates and enhances its delusive glitter.
+
+[Illustration: YAWL RIGS]
+
+There is no question but what narratives like those penned by the
+famous single-hand sailor McMillan were the cause of the yawl's sudden
+elevation to favor in American waters, and there is no question but
+what some books are responsible for much of the fabulous that envelopes
+the rig. There are few of us who would be ready to swallow all that a
+lover might say in praise of his mistress, and yet a man is just as
+likely to magnify the points and virtues of his vessel as he is those
+of his Dulcinea; therefore we cannot be too careful in accepting the
+evidence of the infatuated yachtsman or in adopting his finding as
+infallible precedents. For, often carried away by the good behavior
+of his craft, he jumps at a conclusion, attributing to one quantity
+that which should be adjudged to the fabric as a whole. This is often
+the case; and again, too frequently is the rig of the vessel blamed
+for results which are the sum of defects altogether foreign to a
+peculiar sparring and canvasing.
+
+[Illustration: YAWL RIGS]
+
+The unqualified praise which has been lavished on the yawl rig has,
+as is usual, awakened a no less unqualified storm of dispraise. While
+the yawlman has, with that noble effrontery which distinguishes the
+true crank, claimed for his favorite rig everything in sight, the
+recalcitrant unbeliever has as broadly denied it, even those common
+virtues which one supposed to be possessed by even the meanest and most
+primitive craft.
+
+I have no hesitancy in saying that so far as the driving value of the
+mizzen is concerned it is an unimportant quantity. This is especially
+so when on the wind. On most of the yawls I have handled there has
+been good cause for this. In the first place, the boomkins were too
+short, and the other spars too light. You cannot expect a sail to sit
+properly and hold its draught on buckling spars. The lead of the sheet
+is such that the boom cannot be kept rigid, and just as soon as it
+blows its end turns up like a pugdog's tail, throwing the canvas all
+out of shape. Then the back-wind from the mainsail makes it impossible
+to keep the mizzen full unless it is sheeted very flat. On yawls with
+gaff-headed mizzens the mast is frequently too short; consequently
+the head of the sail cannot be kept in place. With jib-headed mizzens
+the same spar is too light; in consequence when the sheet is brought
+down hard the mast buckles aft, throwing the head of the sail into a
+bag. How frequently you see a yawl on the wind with her mizzen all
+a-shiver. If you make the boomkin longer, the boom stouter, and give
+the mast a good head, you will get a better sitting and more efficient
+sail.
+
+[Illustration: YAWL RIGS]
+
+Now let us, in order to test the qualities of short-rigged sloop and
+yawl, place them in such situations as they are liable to get into
+when cruising. First they are caught in a heavy, sudden blow with a
+lee shore close aboard. It is necessary to shorten sail at once. The
+yawl simply lowers her mainsail and, holding way under mizzen and jib,
+forereaches along, while the crew, having secured the boom, proceed to
+tie in the reefs. The sloop is in such a situation that she cannot run
+off; she must either anchor, lower everything and drift, or else jolly
+along with head sheets flowed and the peak of the mainsail up. Having a
+part of the mainsail drawing increases the difficulty of reefing, and
+if there is any sea the lowering of the sail will cause her to roll,
+making it bad work securing the clew. The yawl's clew is inboard,
+where it can be readily handled, and owing to her jib and mizzen sheets
+being aft she is comparatively steady.
+
+[Illustration: SHARPIE]
+
+[Illustration: KNOCKABOUT]
+
+[Illustration: SHARPIE]
+
+[Illustration: RACEABOUT]
+
+Again, we will suppose that both these boats have come to anchor,
+sails stowed and awnings up. It comes on to blow, and it is necessary
+to shift berth to a more secure anchorage. The yawl hoists her jib
+and mizzen--a very easy matter--and beats up to a better anchorage.
+The sloop has to take in her awning, clear decks and perhaps reef the
+mainsail before hoisting it to follow. How many times has the cruising
+man remained in an uncomfortable berth because of the labor of making
+sail on his sloop after all has been snugged down?
+
+Now let us suppose these two boats are running off large, with a steep
+sea and heavy wind. The yawl takes in her mizzen and lets her boom
+broad off, its short length preventing the danger of tripping. The
+sloop has no mizzen to take in, but it has a long boom which must be
+watched carefully or else topped-up. And with a strong beam wind the
+yawl with jib and mizzen stowed will ratch along under reefed mainsail;
+very few sloops will do that.
+
+One time when coming down along shore with a yawl we had an unsteady
+northwest wind, blowing a good whole-sail breeze, with now and again
+tremendous heavy puffs, acting as wind off land frequently does. We
+made company with a sloop of about our own size, but a much faster
+boat. In the puffs it was necessary for both of us to let up, but the
+rest of the time we could carry our canvas without worrying. I put
+two hands on the main sheet with orders to spill the sail when a puff
+struck, and, keeping on my course, shivered her through. The sloop man
+first tried luffing out, but, losing distance by this, he resorted to
+starting sheet and bearing off; consequently he was all over the shop.
+Once or twice he had to drop his peak in order to keep control. Neither
+of us wanted to get offshore, as we had to haul up at the next point,
+so were hugging the beach rather close. At last he gave in, anchored
+and started to reef. We followed suit, but kept on our course under
+jib and mizzen, getting a two-mile lead and first home. He came aboard
+that evening and asked me what kind of yawl his sloop would make. As
+he flicked the oakum out of us the next day in a beat to windward I am
+afraid he didn't stay converted, but relapsed into the sloop heresy.
+
+[Illustration: CLIPPER DORY]
+
+[Illustration: CAT SLOOP]
+
+[Illustration: FISHING DORY]
+
+[Illustration: CAT]
+
+The ketch rig, which is very like the yawl, has all the latter's
+virtues and defects and a few of its own. The difference between the
+ketch and the yawl is this: in the yawl the mizzen-mast is stepped
+abaft the rudder post, and in the ketch forward of it. In the ketch
+this brings the mast just where it is most in the way, right at the
+forward end of the cockpit, generally obliging the putting of the
+companion on one side, or else taking the hatch well forward to the
+middle of the cabin. The ketch mainsail is narrow-footed, and longer
+on the hoist than that of the yawl. It is a very light and easy rig
+to handle, and for large boats is better than the yawl; and for small
+ones it is better than the schooner. In this country it is mostly used
+on shallow, flat-bottomed hulls, such as are employed in navigating
+Southern waters. In the British Isles it is a favorite rig for
+coasters, and I have heard it highly commended by coastwise skippers.
+Most of the sloops formerly used in that trade have been in late years
+converted into ketches. The most marked advantage it has over the yawl
+is that, if the largest sail be taken in, there is left in the head
+sails and mizzen a good spread of canvas; whereas, if the mainsail be
+taken off a yawl she is under too short sail to do satisfactory work.
+The advantage the ketch has over the schooner is in getting rid of the
+long main boom.
+
+Like the catboat, if the weather were a constant quantity, the schooner
+would be a rig without peer. In smooth water and when she can carry her
+sail, especially to windward, there is no rig to equal the schooner.
+She has the speed and weatherliness of the sloop, with lighter and
+easier sails to handle. She can be shortened down without reefing, and
+can spread plenty of light canvas in soft winds. Her defect is the
+defect of all fore-and-afters, although in her case it is aggravated by
+having the mainmast stepped further aft--she is a bad runner in heavy
+water.
+
+I have made a passage of twelve days in a schooner, during which time
+we never had the stops off the mainsail; during part of the time having
+no after-sail, and the rest of the time a trysail set. To have set the
+mainsail and squared off the boom would surely have brought about a
+disaster.
+
+[Illustration: JIB AND MAINSAIL]
+
+[Illustration: SLOOP RIG]
+
+Let me here repeat some former remarks on the subject: It is often
+a matter of wonder to landsmen why sailors continue to use square
+sails, when to all intents the fore-and-aft canvas is so much easier
+to handle. So it is in smooth water and under average conditions; so
+long as one of our typical fore-and-aft schooners can carry all sail
+and make progress in a windward direction there is no abler vessel
+afloat. But when obliged to shorten down or make a run for it, they
+are the worst craft in the world. So long as you can keep sail on them
+they will do all that a ship can be asked to do, but once they are
+stripped in a gale, good-bye to safety. Take a good look at an ordinary
+two-masted coaster, and you will comprehend at once why this is. These
+vessels have enormously long lower masts, and the spread of the rigging
+is in consequence small; their booms are long and heavy, and all the
+weight above deck is centered in a line over the keel. The pressure
+of canvas, except when the sails are winged, is all on one side,
+and is exerted so as to bring a twisting strain upon the supporting
+spars. There is not, as in the square-rigger, a balancing of weights
+and strains. The freer these vessels are sailing the more pronounced
+is this strain. The only relief the spar can find is to impart this
+strain to the hull, which in consequence forces the bow in the opposite
+direction and brings a pressure upon the helm. To prevent this action a
+reducing of the after canvas is necessary.
+
+[Illustration: POLE MAST SLOOP]
+
+[Illustration: CUTTER RIG]
+
+[Illustration: KETCH]
+
+[Illustration: SMALL SCHOONER]
+
+A close study of the fore-and-aft rigs used along our coast will show
+what devices have been resorted to in order to remedy this defect. In
+the first place, there was the subdividing of the mainsail--making a
+three-master; then a gradual reduction of the spanker, until on many of
+our three-masted schooners it is to-day the smallest of the three lower
+sails. At the same time the lower masts have been shortened and the
+hoists of the topsails increased. On the great lakes the fresh-water
+man has reduced his spanker to almost the proportions of a ketch's
+mizzen, the necessity of more constant jibing having forced him to this
+change. But alter as you please, the fore-and-after is still a bad
+runner when winds blow strong and seas run high.
+
+Our modern racing schooners are a particularly bad type. They are
+really large sloops with a fake foresail, this latter bit of canvas
+being more ornamental than useful. A good specimen of the rig proper
+are some of our large cruising schooners, with wide-footed foresails
+and short main booms. The pilot-boat and fisherman rigs are also
+excellent types.
+
+[Illustration: KETCH]
+
+[Illustration: FULL SCHOONER RIG]
+
+In a proper schooner the foresail should be in such a position as to
+allow the vessel to be handled under it alone, as it is the last sail
+to take off in heavy weather. It should be broad-footed in order to
+trim properly; you cannot trim a narrow-footed foresail so as to draw
+when going to windward unless it has a lug; this lug is a nuisance, as
+it obliges the tending of the sheet when tacking. The main boom should
+not go over the taffrail beyond easy reach. A forty-foot pole-mast
+schooner makes a very handy boat for two men to work. Her heaviest sail
+is lighter than the heaviest sail of a yawl or ketch of the same size.
+This is something you must always take into consideration when choosing
+a rig for cruising. The average yachtsman is a man who does not do
+manual labor for a living, and is consequently soft-muscled. Handling
+sails, unless you are constantly at it, is hard labor, and if a boat is
+short-handed is sometimes a heavy tax on the strength of the crew. Any
+one who has hoisted a heavy mainsail by himself will understand this.
+Many a time after making sail or reefing when alone I have lain down
+completely exhausted.
+
+A man who intends to employ a crew can afford to ignore this question,
+as he can suit his crew to his boat; but when you depend upon amateurs
+for help you cannot do so. One day you may have a double watch, and
+the next day nobody. So it is best to select a rig of such weight
+as you can handle yourself if necessary. This makes you to a certain
+extent independent of your friends.
+
+
+
+
+_ON SAIL AS AN AUXILIARY_
+
+
+  "_When blows the breeze we spread our sail
+    And save the gasoline,
+  But when the gentle zephyrs fail
+    We start the old machine;
+  And with a clank of shaft and crank
+    Go rattling into port--
+  And this is what, to be quite frank,
+    Some folks consider sport._"
+
+
+ON SAIL AS AN AUXILIARY
+
+One day, while standing talking to a builder, we were joined by the
+owner of a naphtha launch who was desirous of having his vessel rigged
+as a yawl, and had come to get the builder's opinion as to what the
+change would accomplish and cost. In response to an inquiry as to
+what speed he might expect to get out of the craft under canvas, the
+builder answered, "four miles." "Then," replied the owner in jubilant
+tones, "she will go eleven miles, as I get seven out of her now without
+any sail." He was greatly surprised, and rather suspicious of our
+knowledge, when we informed him that if sail increased the speed of his
+craft over her maximum to the extent of half-a-mile an hour, he might
+consider himself fortunate. Now, this man is by no means a lone bird
+in his belief; he shares the misconception with many launch-owners and
+others. Like some of our popular authors who write sea stories that are
+not sea stories, the average man firmly believes that steamships can
+and do sail, and it will take many years of pounding to get this idea
+out of the public's head. There are afloat steam vessels that can and
+do sail, but they are sailing vessels equipped with engines. In former
+times almost all ocean-going steam craft could work to leeward under
+canvas, but they, unlike the vessel of to-day, were heavily rigged,
+most of them carrying full sets of yards forward, and spreading many
+thousand feet of cloth. The steam vessel of this age, when put to using
+sail, simply drifts. Except as a check to rolling, the sails carried by
+steam vessels are of little use.
+
+Now, to the question of what use is sail as an auxiliary power. In
+vessels of a speed exceeding ten knots, it is of little or no use,
+except when due to the form of the hull, or for other reasons the slip
+of the screw is excessive. As, for instance, in a vessel towing others,
+such as sea-going tugs, where the actual speed is one-half of the screw
+speed, sail is an aid. Again, in a vessel of bad form, when, frequently
+owing to the weight on the engine it is unable to run at its highest
+working speed, sail is an aid, as it lifts some of the weight off the
+engine, and allows an increase of revolutions without an increase of
+fuel expenditure. For this purpose, fore-and-aft canvas is of doubtful
+utility, the square sail being far better. But in high-powered,
+fine-lined vessels auxiliary sail is of no use whatever. The little
+that might be gained by employing it under the most favorable
+circumstances is offset by the retarding effect of the windage under
+unfavorable circumstances.
+
+A vessel whose screw speed is eight knots and whose actual speed is six
+knots has a slip of twenty-five per cent. Supposing that her sail power
+is sufficient to drive her five knots or three knots in excess of the
+slip. Now, if her speed be increased to eleven knots by using canvas,
+it must not only take up the slip, but induce an acceleration of the
+engine, so as to give an additional screw speed of three knots--an
+increase of 37-1/2 per cent. over the working speed of the engine. This
+is practically impossible. No engine is built to run at a speed of
+37-1/2 per cent. over its working speed, yet unless the screw travels
+as fast as the hull, it is useless. It is exactly the same thing as
+when trying to row a boat running under sail; unless you move the oars
+faster through the water than the boat is moving you do not assist in
+the propulsion. Reasoning from this, we may lay it down as an axiom,
+that: When a vessel's maximum speed under power exceeds her maximum
+speed under canvas, the use of sail in conjunction with power will not
+increase the speed beyond the percentage of slip.
+
+When mechanical propulsion is the auxiliary power, we have a different
+problem. Take a vessel capable of being driven by sail at a speed of
+eight knots, and by her engines alone at four knots. Now, if she be
+sailing at a speed of eight knots, and we start her engine to make
+the number of revolutions necessary to induce a speed of four knots,
+the screw, not traveling as fast as the hull, will be dragged to
+the amount of the difference between its speed and the speed of the
+boat--four knots. In that the screw shall have a propulsive force it
+must be driven at a speed to exceed eight knots, an increase of over
+100 per cent. Reasoning from this, we may lay it down as an axiom,
+that: A vessel whose maximum speed under sail exceeds her maximum speed
+under power will not increase her speed by employing sail and screw
+conjointly.
+
+While auxiliary sail is of little or no value, auxiliary mechanical
+propulsion is. But its chief value lies in it as a substitute, and
+not as an auxiliary. The wind--the fuel of the sail--is not only a
+variable quantity, but frequently an absent one. A small vessel, such
+as are the majority of our cruising yachts, seldom exceeds a speed of
+eight knots, and as a general average taken through a summer's cruising
+do not log more than four, much of this low average is due to the hours
+spent in calms and light airs; and if we add the time lost in waiting
+for a breeze, the average will fall still lower. A yacht in sailing
+100 miles in the usual summer weather takes, we will say, twenty-five
+hours. Sixty miles of this is made in a fair breeze in ten hours, then
+six hours in which she makes ten miles, leaving nine hours in which to
+make the other thirty.
+
+    60 miles 10 hours.          6 miles an hour.
+    10  "     6  "              1-2/3 "   "
+    30  "     9  "              3-1/3 "   "
+    Average for 100 miles,      4     "   "
+
+Let us suppose that a similar craft is fitted with a motor to drive
+her at a speed of five miles an hour. She voyages 100 miles, the first
+sixty in ten hours. During the doldrums she uses her power for six
+hours, and makes thirty miles, and in sixteen hours has covered ninety
+miles against the sail yacht's seventy. Having made the distance at an
+average speed of 5-5/8 miles, she is within sight of her port when the
+other is thirty miles off.
+
+Last summer I ran thirty-eight miles in fourteen hours in a small
+sloop. Thirty-two miles of this distance was made in eight hours, the
+remaining six miles taking six hours to cover, and if you analyze a
+set of cruising runs you will see that mine was an exceptionally good
+performance. I usually, in cruising, figure on making an average of
+three miles, thirty miles being a fair day's work and forty a good
+one, while a fifty-mile run is possible only once or twice during the
+season. This is in a boat whose maximum speed is seven knots.
+
+I have not the slightest doubt but what a man with a yacht fitted with
+a motor capable of driving her at a speed of five miles, and using the
+engine only as a substitute for sail when the wind is dead or fickle,
+could cruise twice as far and see twice as much as one who depended
+solely upon canvas. This is a deal to promise, but no doubt those who
+have had a long experience in cruising in our Eastern waters will
+underwrite the opinion.
+
+But while auxiliary power has its advantages, it also has its
+disadvantages. It increases the expense; it takes up room in the boat;
+it is noisy, and, to a certain extent, disagreeable, due mostly to the
+use of a fuel which is not equal, odoriferously speaking, to genuine
+wood violets. But its chief drawback is that its use tends to make
+cruising less toilsome and hazardous. Like all modern
+
+    "Inventions that save our seamen's lives,
+    And murder the breed of sailor men,"
+
+its effect is to discount skill and pluck, to take away from voyaging
+that uncertainty which is the chief charm of the cruiser's existence.
+The fact that you leave port with a certainty of getting to your
+destination on time, barring accidents, makes somewhat monotonous an
+event that otherwise containing a large element of chance induces a
+corresponding degree of excitement. There is probably no pastime so
+tiresome to an active man as steam yachting, especially if it be in
+familiar waters. A steam yacht is a lazy man's palace and an active
+man's prison. Except when there is a race or a difficult bit of
+navigation, I would as soon run a trolley car as a power boat. But,
+then, happily for the world, we are not all taken off the same molds.
+Many men yacht for pleasure, and find such pleasure in idleness. I
+don't. I find my pleasure in physical exertion, and in opposing what
+skill and knowledge I may possess to the task of getting the better of
+the elements. But as age and rheumatism tighten their grip, my heart
+is being gradually weaned from the sail, and I find myself thinking
+seriously, if, after all, it will not be better to have a little power
+under the deck to fall back on at certain times.
+
+
+
+
+_ON REEFING_
+
+
+_Precaution is the mother of safety._
+
+
+ON REEFING
+
+This is a short chapter on a short subject, but one that is of interest
+to the green hand. Men often ask when it is time to reef? It is always
+time to reef when you think it is. The moment you would feel easier
+and your boat handle better by having less sail spread, is the time to
+shorten down. Never mind what anybody else is doing or what anybody
+else tells you. It is your boat, not some other boat that is worrying,
+and yourself, and not some other person, who is in charge. Never
+carry sail for the sake of carrying it; the ignorant may praise your
+recklessness and pluck, but the experienced man will call you either a
+lubber or a fool.
+
+Never let the action of another guide you in this particular, unless
+the action agrees with your own judgment. It is very common for
+young sailors to reef or not reef as they see some other man, and
+consequently to carry sail much to the risk of their vessel and lives.
+You must remember that these remarks of mine have nothing to do with
+racing. In racing, a man cannot reef when he wants to, but when he can;
+therefore, he frequently carries sail when he would give a good slice
+of his daily income to have it off, and often keeps in his reefs when
+he would like to shake them out, but does not for the same reason.
+Then, again, in racing, boats are always in company, and if an accident
+happens someone is close aboard to give assistance; but in cruising
+this is not so, and many a life has been lost for want of a reef in
+time.
+
+When I was young and fresh I had an idea that if anyone could carry
+sail on a boat I could do the same. One day I had a lesson that made
+me think, and partially cured me of the habit. I went with a clever
+old boatman across the Sound to bring home a new cat. We each took a
+crew, and, to return, he sailed the new boat, and I the one we had
+come over in. Halfway across it came on to blow very hard, and it was
+all I could do to keep my boat on her feet. My crew wanted me to stop
+and reef, but as the new boat kept on, I insisted upon following her,
+being afraid that the old man would laugh at me. In plain talk, I was
+afraid of being thought a coward, and for this I jeopardized my own
+and the lives of the other boys. When at last, after a struggle and
+half full of water, we reached port, the old man met me with a torrent
+of invectives, calling me a fool and several other hard names for not
+reefing.
+
+"But you didn't reef," I protested. "Reef!" he exclaimed. "No, for
+I couldn't; but I'd given fourteen dollars if I could have got that
+sail down. Do you think I was carrying whole sail for fun?" It seems
+the halliards, being new, had jammed, and they could not get the sail
+down, so had to lug it. This taught me a lesson, one that I have never
+forgotten; and oftentimes when I see a man struggling along under too
+much sail, I wonder if he, like the old boatman, wouldn't give fourteen
+dollars if he could get that sail down.
+
+The first thing when you get a crew is to break them in to a method
+of reefing. Give each man a place and teach him to keep it; this is
+the secret of rapid and efficient work. Let us suppose that you are in
+command of a small sloop, with a total crew of four. It comes on to
+blow, and you decide to reef. There is a bit of lee under the shore,
+and you go in for it. Now you have decided to reef without anchoring,
+and when close enough luff up and prepare to lower the mainsail. Your
+mate, your best hand, and the man in his watch go to the halliards, you
+stay at the helm and your watch-mate takes the sheet.
+
+Now, if you lower the mainsail all the way down, you will have to take
+in your headsail and drift; this will soon take you out of your kindly
+lee, but if you can keep some after-sail up, with the jib on an easy
+sheet, you can jolly her up to windward a bit and keep close inshore.
+Having decided on this you order the sail lowered down to the reef.
+The getting down of the sail quickly depends on your cleverness at
+the helm; you must spill just at the right moment. As the sail comes
+down your two men handle and lay the sail along the boom, the mate
+tending the halliards. When the tack cringle is low enough he belays
+the halliards and ties down the tack. By this time you have the pendant
+ready, and when the mate shouts "All fast," you haul out, one man
+helping you and the others shaking and lighting out the canvas. When
+this is handed out and made fast, the hands begin to tie the points,
+beginning in the middle and working forward and aft.
+
+Your business is to look after the dog-ear, to tie in the outboard
+points, and pass a lashing round the clew, wrapping it round the boom.
+The points are passed between the foot of the sail and the lacing,
+not between the lacing and the boom, a common error with green hands.
+Tie your points with a square bow knot; don't tie them too tight; try
+and put the same strain on all. Don't haul out your clew too hard,
+especially if it is raining or the water is flying. The pendant will
+shrink one way, the sail the other, and in consequence the canvas be
+pulled out of life. As soon as all the points are tied, look them over
+carefully to see that they belong to the proper reef, and are not tied
+cross-faced, and, if correct, hoist away.
+
+Lazy-jacks on a boom are of great assistance in taking a sail in, but
+they are in the way when reefing. Quarter-lifts as substitutes are
+better for small craft. The reef points should be made of different
+kinds of stuff, or else be dyed different colors, so as to be easily
+distinguishable. I prefer different kinds of stuff, as they can be told
+by the feel at night. The first reef being cotton line, the second
+manila, and the third cotton.
+
+If you are going to tie in more than one reef, it is best to tie in the
+first, then the next over it, and so on. This also makes a much neater
+looking job. Teach your men to roll the sail up tightly before tying
+in; nothing looks so bad as a reef made up of a series of bags.
+
+[Illustration: THE PROPER WAY TO TIE REEF-POINTS]
+
+If you are caught out in the open, and have to reef, it is best to
+lower all down and reef running off; by getting the boom firmly lashed
+amidships you can handle the sail, whereas if you lay-to the sea will
+make trouble. In running off carefully tend your helm, and keep the
+vessel moving, or you may get pooped. If anywhere near shore it is best
+to go in, anchor and reef in quiet, and at your leisure. The methods of
+reefing a sloop are the same for reefing a cat, but if you have a yawl,
+ketch or schooner, the work is much more simple and easy.
+
+Always, when anchored in an open roadstead, or in any place where you
+may have to get out in a hurry, reef your large sails before turning
+in. Then, if it comes on to blow in the night, you are ready for it.
+If you expect a squall to hit you, in a place where you cannot anchor,
+reef down, and do so in plenty of time. Before leaving harbor, if
+there is any question of weather outside, reef and carry them out with
+you, until you get the heft of the breeze; if it is lighter than you
+expected, it is a simple job to shake out.
+
+Reefed jibs are not much use; they seldom work well, and it is far
+better to shift headsails than to reef them. The jibs should be
+snap-hooked on the stay; in this way they can be quickly shifted.
+Reefing on a bowsprit in a seaway is a difficult and dangerous job. I
+shall speak further of this matter of head-sails in another chapter.
+
+
+
+
+_ON ANCHORS AND ANCHORING_
+
+
+  _"Let's forge a goodly anchor--a bower thick and broad;
+  For a heart of oak is hanging on every blow I bode;
+  And I see a good ship riding all in a perilous road--
+  The low reef roaring on her lee; the roll of ocean poured
+  From stem to stern, sea after sea; the mainmast by the board;"
+  The bulwarks down; the rudder gone; the boats stove at the chains;
+  But courage still, brave mariners--the bower yet remains!
+  And not an inch to flinch he deigns--save when ye pitch sky high;
+  Then moves his head, as though he said, "Fear nothing--here am I."_
+                                                        --FERGUSON
+
+
+ON ANCHORS AND ANCHORING
+
+One of man's oldest, simplest and most perfect instruments--the anchor.
+Like all early inventions, it obtained its present form by a slow
+process of evolution, and, as is the case with nearly all implements
+of the same nature, it is to-day to be found in use in every step-form
+which during the gradual process of development it assumed. The
+primal anchor of stone is still universally employed, its immediate
+successors, the stone-weighted net and log, are yet in use in the East,
+and iron forms that might have found their shape under the hammer blows
+of the sinewy Sidonian smiths still swing from the bows of vessels
+plying the Indian seas.
+
+As to who first forged anchors of iron there is some doubt, the
+ancient historians disagreeing on this point with amiable unanimity
+that characterizes all their statements in regard to the origin of
+things, both animate and inanimate. The balance of evidence appears
+to favor the Phrygians, a people of Asia Minor, whose most celebrated
+king, Midas, is well remembered as the avaricious monarch who had the
+unfortunate experience with gold, as related in a yarn which probably
+originated in the imaginative brain of some ancient free-silver orator.
+
+But whether these people or their contemporaries, the ingenious, rich
+and daring Phoenicians, first forged it, there is no question but what
+iron anchors were originally used by the maritime nations inhabiting
+the shore of the great tideless sea. The anchors were, as I have said,
+of stone and of wood weighted with stone and metal, such as are still
+used by the Chinese and Malays. It is easy to see how from the latter
+came the shape of the anchor of to-day. From the use of a straight balk
+of timber to one with a crook is a natural step. It is much easier to
+lash a stone to a crook of wood by placing it between the trunk and
+branch than it is to lash it to a straight stick.
+
+Evidence favors this as the step of progression; the first iron
+anchors having but one arm and no stock; being simply the wooden crook
+reproduced in metal. The next step was to add the bill or point, which
+very readily took its shape from the spear of that day or the spade,
+both of which implements were arrow-shaped. The next step forward
+was the adding of the second arm. The arms of ancient anchors were
+straight, not curved, as are the anchors of to-day. The curved arm
+being very modern. With the stock added, when and by whom it is not
+known, the anchor of the ancients continued to do its duty until early
+in the last century, when an Englishman named Pering greatly improved
+it by curving the arms and strengthening the crown and shank. At the
+same time the trip-hammer came into use for forging, allowing of a far
+more perfect welding of material than could be secured with hand-swung
+sledges.
+
+In order to understand the action of the anchor, which is perfect,
+it is only necessary to take the common pick, such as is employed by
+laborers in breaking up earth, and drive it into solid ground. Drive
+the arm of your pick right to the helve; now pull on it at right angles
+to the arm. You cannot move it; nor could the strongest man; simply
+lift the handle up and the arm will come out of the ground easily. Such
+is the action of the anchor. Is anything more simple or perfect?
+
+When out ahead this small arm will hold a great ship against wind and
+tide; when brought under foot it is broken from its hold by half a
+dozen men. An anchor weighing 2,000 pounds will hold a ship weighing
+5,000 tons, yet when brought to such a position as will permit of its
+being tilted up it can be broken-out by an engine of five horse-power.
+
+Since Pering's day many improved anchors have been patented; of these
+only two, the Rodgers and Trotman, are of any account. Of what are
+called "patent anchors," that is, anchors of peculiar shapes, there is
+this to say, they are inferior to the original form. The only argument
+in their favor is that they stow easier, and it is for this reason that
+the stockless variety is employed on steam vessels. This form can be
+hauled directly into the hawse pipe, thus doing away with the labor
+of catting and fishing, but they will not hold with the old form, and
+need a much longer scope of hawse. I have experimented with several of
+those built for yachts and have in every case found them inferior to
+the common anchor. They are useful sometimes as stern-holds, and for
+dropping on ragged bottom, where a common hook is liable to foul.
+
+For use where a vessel is anchored in a current, and is apt to be
+tide-rode, the Trotman is excellent. The peculiarity of this anchor
+is, that the arms are pivoted so that the fluke of the upper arm when
+the hook is biting is down on the shank; this prevents the hawser from
+fouling and upsetting the anchor if the yacht happens to ride over it.
+
+The average yacht anchor that is found on sale is an instrument that
+could be largely improved without adding to its cost or weight. A
+better distribution of the metal would add much to its value, but its
+worst feature is the method in which the stock is secured in the head.
+These pins are always a nuisance, frequently working out and more
+frequently being lost. There are anchors made in which the stock screws
+in, and others in which the stock passes through a slot with a lug,
+which, on being turned, engages with the side of the head, preventing
+its slipping back. Both these are better than the pin. Every yachtsman
+knows what it is to find the pin missing just when it is wanted and
+wanted in a hurry, and to have to substitute a nail or a penknife
+blade. There is a small fortune for the man who will bring out an
+anchor with a stock that can be shipped and unshipped quickly, and yet
+stay fast when down on the bottom.
+
+The strain on anchors when holding a vessel is nothing like what it
+is commonly supposed to be. If it was how could a vessel be drawn
+up to her anchor? It has to blow very hard when a man cannot draw a
+small yacht up to her hook. The reason of this is, that the windage
+of an anchored vessel is a comparatively small surface, so long as
+she lies head-on. It is the sum of the area of the widest section of
+the above-water hull, and the area of the rigging and spars, found by
+multiplying their diameters by their lengths. This is, as I have said,
+a comparatively small surface.
+
+In a strong blow, such as yachtsmen generally describe as a gale, the
+wind pressure is only about five pounds to the square foot, while in an
+ordinary breeze, such as usually blows in summer, the pressure is scant
+of a pound. So that a boat with a hundred square feet of windage would,
+in a yachtsman's gale, only be forced back by a pressure of 500 pounds.
+Some day, just for your own enlightenment, take a spring scale and put
+it on your hawse when the yacht is riding to a wind with no sea on.
+
+One day my boat was lying in a tide running at a rate of one mile.
+The bottom was a medium hard gravel and the water perfectly clear. In
+turning tides she had capsized the anchor and it was lying stock up and
+flukes flat. This anchor, weighing thirty pounds, by its weight and
+friction of the stock end on the bottom kept the boat stationary. Her
+displacement was just over four tons. The anchor was simply resisting
+the friction of the tide on the immersed hull. Reverse this and it
+shows how small is the power necessary to drive a vessel one mile an
+hour.
+
+The direct strain on anchors is of no consequence except in very high
+winds; it is the sea that causes them to leave their hold. Go back to
+our pick for an explanation. When given sufficient scope the anchor,
+like the pick, is resisting a pull at right angles, and stands fast,
+but the minute the sea begins to move the vessel up and down the handle
+of the anchor is worked up and down; the shorter the scope the more
+surely is this motion transmitted, and the more effective is it in
+breaking-out the arm. To prevent this in a heavy sea we resort to a
+practice called backing.
+
+The object of backing an anchor is to prevent this up and down motion
+from passing from the vessel to the anchor. In order to do this it
+is necessary to weight the cable, so as to prevent its lifting from
+the bottom, some distance inside of the anchor. This is done either
+by leading the cable through another anchor or by weighting the cable
+with ballast. The last is the better method, as it can be done from the
+vessel without disturbing the hawse.
+
+I find that few yachtsmen make a study of anchoring; mostly because
+they anchor in places where there is little to be feared either from
+wind or sea. It is only when they get into harbors where both are to be
+dreaded that they learn this part of the trade. To show how universally
+careless we are in this respect it is only necessary to recall the
+disastrous effects an unexpected summer gale has upon a fleet of our
+yachts. In August, 1893, a storm of this character swept the Eastern
+seaboard, and some eighty yachts were driven ashore and many of them
+totally wrecked. In the summer of 1897 a moderate gale came on the
+coast, and out of a fleet of some thirty yachts anchored and moored
+about the boat I was in, twelve went adrift. The same day, in and
+around Boston, the storm played havoc with the pleasure fleet.
+
+Another time we were caught off the Thimbles in Long Island Sound in
+company with a small fleet. Everything dragged and several were only
+saved by a lucky shift of wind from going on the rocks. Many of these
+boats had no spare anchors; some had the anchors and not sufficient
+cable; others had ground tackle much too light for their bulk. Few
+of the crews knew how to properly use what they did have. I was in a
+30-foot sloop of the old flat type, an exceedingly bad sea boat. We
+rode it out with two anchors and 300 pounds of ballast down ahead,
+but it was only by judicious management, and the addition of a new
+mainsheet to our scanty length of cable.
+
+Every boat should carry two anchors, and every boat that cannot readily
+make fast to a dock, three. The weight of anchors to be carried can
+only be approximated, as it depends largely upon the build of the
+vessel, the extent and prevailing conditions of her sailing waters and
+the service engaged in. A boat that is only used for day-sailing that
+finds shelter at night in a safe harbor and moors or makes fast, needs
+but light ground tackle. She can get along with an anchor weighing a
+half-pound to each foot of over-all length, and need never to resort
+to her spare hook except on extraordinary occasions.
+
+Narrow deep boats with sharp entrances are very light on their ground
+tackle and do not need nearly as heavy anchors as do broad shoal boats.
+Our modern full-bowed boats are very hard on all kinds of gear, and
+need especially heavy anchors and cables. Flat-bottomed craft, like
+sharpies and scow houseboats, are the hardest of all, and your hooks
+and hawsers can't be too heavy to make sure of holding them. High-sided
+and high-housed yachts are also hard riders, the windage having a
+tendency to keep them worrying at their hawse. All these things must
+be taken into consideration when selecting a weight of anchor and a
+size of cable or chain, but, as it is always best to err on the safe
+side, be less afraid of getting too heavy gear than of getting too
+light. A 20-foot boat will hold to a ten-pound anchor, if the hook is
+well proportioned and takes a good hold in good ground, but I should
+not feel comfortable in turning in on a rough night with only that
+weight of iron out ahead of me. An old fellow, who is a bit of a crank
+on the subject, once took me to task for carrying such heavy anchors
+and cables. To his mind they were totally unnecessary; ones half the
+weight and size would do as well. He used a twelve-thread line and an
+anchor about vest-pocket size on his boat.
+
+His argument was good from his side of the deck, but things had a
+different aspect from mine. In the first place, he always anchored
+where he wanted to, but I, being a roving bird, had frequently to
+anchor where I did not want to. In the second, if I turned in to sleep
+I had to do so feeling sure that my boat would be in the same place the
+next morning, or else I could not sleep peacefully. Again, a small line
+is awkward to handle and is easily chafed through; these are things to
+be considered as well as strength. The breaking strain of a cable used
+should always be at least four times the weight you expect to put on
+it. It is to the extra factor of safety that you must frequently trust
+for the odd trick and the game.
+
+A heavily-built cabin craft, or a yacht loaded with lead on the keel,
+needs an anchor at least a pound weight for each foot of her deck
+length. This is for a regular stand-by, something to be used whenever
+she comes to a halt. Such weight will, under all ordinary conditions,
+give sufficient hold, admitting that the bottom is suitable for
+anchoring. I have seen a 25-foot cabin sloop hang to a twenty-pound
+anchor in a gale of wind, in a place where there was no sea to bother
+her. But the sea is what troubles the anchor, not the direct strain.
+
+A yacht of 40 feet, used for cruising to distant ports and anchoring
+here, there, and everywhere, should carry four anchors. Of course you
+can get along with less, perhaps, for many seasons, but to have peace
+of mind and absolute security, you need four. Two of these anchors
+are for constant use and the other two for special work and dangerous
+emergencies.
+
+The two first are what are called on large vessels bowers, being the
+anchors hung at the bows, but we will sometimes speak of them as
+stand-bys, they being the instruments always ready for use. The third
+is a light fellow, exceedingly useful when needed, called a kedge.
+The fourth is the big-weight, whose services are only called upon as
+the last resource, and who passes the bulk of his days in idleness
+below--he is called the spare.
+
+The stand-bys for a 40-footer should weigh together twice the boat's
+length in pounds--80 pounds. This can either be evenly divided or
+unevenly, as you see fit. I prefer to divide the weight unevenly,
+having, say, one thirty-five and one forty-five-pound, or one thirty
+and one fifty-pound. These anchors should be galvanized and be
+uniformly strong throughout, the large one being of heavy shank and
+broad palm; the smaller, lighter in build, with narrow palm and sharp
+bill. This lighter anchor should always be ready for service under the
+bowsprit or at the cathead.
+
+On a cruiser the heavier stand-by should also be kept ready to shackle
+to the chain or bend to the hawser. It need not be kept hanging under
+the bowsprit or at the cathead, but can be lashed on the fore deck,
+so as to be available for instant use. I remember once going ashore
+because the owner insisted upon having the second anchor unshackled
+and stowed below; his reason being that it made the boat look untidy
+forward. When we rounded-to and let go the small one, the chain parted;
+and before the other could be brought on deck and bent on we were blown
+on the beach.
+
+The spare anchor is kept below, but not, as in most boats, in a place
+where you cannot get at it without hauling over a mass of dunnage. One
+time, when anchored in an open bight, we were joined at sunset by a
+large sloop; she letting go outside and to windward of us. During the
+night it came on to blow very hard, and at daylight we were riding to
+both anchors with a full hawse ahead. The big sloop was dragging badly,
+and, in response to their calls for help, I took my crew and went
+aboard her. She was in charge of her owner and three other amateurs.
+They had let go both her bowers and all the chain, but they failed to
+hold the yacht and she was slowly going for the beach.
+
+As soon as I got on board I asked if they had a spare anchor. The
+owner, who had just bought the boat and was taking her home, after a
+little thinking, said he thought it was mentioned in the inventory,
+but he had never looked to see. Taking my two hands I went below to
+the usual place and began a search. We pulled out sails in bags and
+sails out of bags, awnings and stanchions, old mops, holystones, rope,
+brooms, deck cushions and the devil knows what, before finally the
+spare hook was brought to light. Into a cabin, that looked like a South
+street junk shop, we at last lugged it and its cable, and from the
+looks of both, decided it was their first call to action. That as may
+be, when once overboard they did yeoman service and held the sloop in
+safety. I did not fail to read the owner a lesson on how not to keep
+his reserve ground tackle, and I guess the job of putting the dunnage
+back helped to impress it on his mind.
+
+[Illustration]
+
+The spare anchor occupies but little room if properly stowed, takes
+up the work of the same weight of ballast, and is a harmless but
+exceedingly useful creature. It inspires a feeling of safety that
+more than pays for its keep. This anchor should always be used with a
+hawser, and a long and stout one, and to make assurance doubly sure,
+should be fitted with three fathoms of chain and a stout ring to which
+to bend the rope. You can either have the chain permanently attached
+to anchor or hawser as you prefer, but keep both where the ends can be
+readily laid hands upon. The best place to stow it is aft under the
+cockpit floor, placing it in such a way as it will lie snug and not get
+adrift, no matter how the boat pitches or heels. If your compass is
+over it, you had better see that the placing of it does not affect that
+instrument, and if so, how much. Frequently compasses are thrown into
+error by the keeping of anchors and awning stanchions under the cockpit
+floor.
+
+The fourth anchor--the kedge--is a most useful piece of furniture.
+Being light and easy to handle it can be kept on the bows when racing
+or cruising. If it falls calm it is there to let go and hold you;
+if you go ashore it can be at once run out with a line to haul off,
+and if you miss a mooring it will enable you to hang on until a line
+can be carried to the buoy. It is useful when coming-to at a dock or
+when finding a berth in a basin or slip; light enough to be thrown
+over anywhere you can anchor by the stern or head with equal facility.
+Having it allows you in racing on tender trimming craft to keep the
+stand-by anchor below out of the way and where it will interfere least
+with the trim of the boat. Heavy weights hung on a boat's nose do not
+improve either its speed or its bad weather qualities. To a cruising
+man a kedge is invaluable; I would as soon be without my compass as my
+little hook. In boats under 35 feet the kedge takes the place of the
+smaller bower and performs its duties.
+
+To give good service a kedge must be a properly designed kedge,
+not simply a small anchor. The proper kedge is what is known as
+spider-built--long arms, long shank, long stock and narrow, sharp
+flukes. It is difficult to get these ready-made, but the shipsmith will
+make you one. The best substitute for a genuine kedge is the seine
+anchor.
+
+Now what is the best to use with these anchors--chain or rope? With an
+anchor like the stand-by, chain is best for all boats that have a place
+to stow it. Chain is more lasting, less dirty, and takes but little
+room in comparison with the same length of rope. Hawsers are always in
+the way, no matter how neatly they are coiled down. Besides they are
+expensive, owing to their short lives. In bad weather you cannot well
+keep them on deck, and they are wet and disagreeable cabinmates.
+
+For the kedge a long light line should be used, something that one man
+can readily handle. It is best to have it in two parts; one part being
+kept stowed away and the other always bent. Then you have less of a
+coil on deck or in the bow locker, but have, by bending on the second
+piece, a length that will enable you to kedge off or on to advantage.
+
+For the spare I prefer, and so will any man who has experience, a
+hawser. In heavy weather a boat will ride much easier to hemp than
+she will to chain; no matter how much of the latter you may pay out,
+she has the weight to lift every time she takes up the slack, and
+consequently rises slower and falls quicker. Hemp, until it gets well
+soaked, puts little of its weight on a riding vessel, and besides the
+give of the slack it stretches in itself.
+
+But whichever you use, be sure and have plenty of it. Remember this:
+that the first and all-important thing in anchoring is SCOPE.
+
+One night, not long ago, we wanted to anchor a yawl, as it was calm
+and the tide setting us away from our port. My companions let the
+anchor go without first sounding; it ran to the bitter end of the
+chain with no bottom. As the chart only gave 15 fathoms I was rather
+surprised and supposed I had miscalculated the yacht's position, but,
+as my bearings seemed to be correct, I overhauled the chain. How much
+chain do you think was on that anchor? The boat being an old-fashioned
+plumb-stemmer, 32 feet on top. Just 10 fathoms. Gaze on that--10
+fathoms of chain to anchor a boat of that size. Why, to make it hold in
+a breeze of wind you would have to be in eight feet of water.
+
+The former owner, who was responsible for this, was a man who never
+went ten miles from his home port, and I should judge knew very little
+about vessel handling. There are hundreds of other boats in just the
+same fix. And still we wonder why yachts blow ashore.
+
+Now, as we are through with the anchors, let us bear-off for a bit
+and tackle the subject of anchoring, which is the art of using them.
+Let me here remark that in all my experience I never had anchors fail
+to do their duty, when properly used and attended to, and that every
+scrape in this line that ever I got my boat into, was due to my own
+carelessness or laziness or somebody else's. I have had hawsers part
+and chains break, and I have broken arms of anchors and have lost them
+altogether, but in every case the accident was avoidable if proper
+forethought and precaution had been used.
+
+If you are rather new at the business, or have hands forward that you
+cannot rely upon, when making port have the hook cleared away early in
+the game. Then go forward and see that all is in order. When she comes
+to let it be at sufficient distance to leeward to kill all way before
+she reaches the selected berth. When stopped dead give your order to
+let go. Then comes in the judgment as to how much scope she needs.
+Whatever the decision, always lean to the side of more than less.
+
+Before anchoring in a strange place consult the chart, and know the
+bottom, depth, and fall of the tide, also its present height; this is
+of especial importance in places where there is a big rise. In light
+weather, for a short stay, six times the depth is sufficient; that is,
+in six feet of water give her six fathoms of cable.
+
+If it is blowing hard and a sea running, before letting go, if you are
+using a hawser, range a good length of it on deck clear for running
+out. Get a good turn round the bitts and after the hook has taken hold
+slack away handsomely, but at the same time keep full control. Let her
+take it out; don't give it to her. When the hawser has a lead that
+enters the water well ahead, make fast, and watch how she rides to it.
+
+You can tell by feeling the cable whether the anchor is biting or not.
+If it continues to drag and drags rapidly it is probably foul; if it
+drags slowly it is most likely bad bottom; your chart will tell you
+what kind.
+
+Never drop without first taking a range, either on shore or on a nearby
+vessel, for not only will it tell you if you are dragging, but it is
+the only sure way of locating an anchor if you lose it. The way to tell
+if you are dragging at night or when you cannot get a range is to drop
+the lead overside with a slack line; if she drags the line will trend
+out ahead.
+
+If your hook drags badly and you have sail on, get it up, and do the
+act over again. If you cannot, why then heave in rapidly on the first
+and when under foot let go your second. Do not, if you possibly can
+help it, let go the second while the foul anchor is out ahead, for
+if it should stick it will put you in the predicament of having an
+unreliable hold at the end of your longest cable.
+
+If the first anchor drags because the bottom is bad holding, then
+shorten up, let go your second, and pay out on both. If she still
+continues to drag get up the spare, and if you can, heave in on both
+to half-hawse, and then let the spare go. If she goes on dragging you
+have two hopes and one alternative. One hope is, that the weather will
+let up; the other, that as she drags she will get into better holding
+ground; the alternative I will attend to in another chapter.
+
+Many accidents are the result of haste and carelessness, when letting
+the hook go. A mate of mine once let the anchor drop without fitting
+the pin in the stock; it came on to blow in the night and we dragged
+down on another yacht. Dropping the hook while a vessel has headway
+on is another cause of anchors being foul. Frequently in small yachts
+carrying the hook under the bowsprit, the fluke will catch on the
+bobstay; instead of hauling it up and clearing it, a lubber will let
+the stock drop down and then lift the fluke up and let all go. What
+is the consequence? the arm falls across the cable and you have a foul
+anchor. Twice in my life I have had men anchor the boat on the bobstay.
+This happened at night and through my not going forward and looking to
+things myself. Instead of, like the unfortunate Wentworth, exclaiming:
+"Put not your trust in princes," let me cry, "Put not your trust in
+amateurs," especially coming to anchor at night. But the most frequent
+cause of mishap is in giving either too little or too much scope.
+Laziness stands impeached of the first, and over-caution of the second.
+
+Before turning in, if the weather looks at all dubious, but not
+threatening enough to warrant your going to the trouble of sending off
+another anchor, you can secure yourself from a sudden attack by these
+means. We will suppose you are riding to your heaviest bower. Down the
+second bower under the fore-foot, being careful to see that it falls
+clear, then take the end of your hawser from underneath the coil,
+and take a round-turn round the mast, securing the end with two half
+hitches over the standing part. See that it renders freely from the top
+of the coil. Pass it through either the chock on the bowsprit or the
+chock on the rail. If the yacht drags she will carry out the hawser
+and fetch-up when the end is reached. If you are using chain see that
+it is clear for running out. By employing your second anchor in this
+way, you will prevent fouling hawse if the yacht swings with the tide
+or wind.
+
+[Illustration: HOW TO ANCHOR WITH TWO HOOKS DOWN
+  A is the right way; B the wrong way.
+  C shows anchor backed with ballast.]
+
+Backing an anchor is done in several ways, but as it is only done in
+extreme cases you are generally obliged to do it the best way you
+can, using such materials as are at hand. Take two or four pigs of
+ballast, wrap them securely with a strong small line, and put on a
+shawl-strap handle over the chain and let them slide down with a small
+line attached to prevent their working right out to the anchor. A small
+piece of chain is better than rope to use on a chain hawse. If you can
+heave in you can lash the ballast to the chain, and then pay out again.
+
+Backing is usually done at the last call, and as it is wet and
+dangerous work on a small boat's head when she is pitching with a sea,
+the job is a hurry one and is frequently bungled. By putting a line on
+the ballast you can recover it if the lashing parts or frets through.
+
+A trip-line is made fast to an anchor with a clove hitch round the
+crown, and either buoyed or led on board. If led on board, it should be
+stopped down to the heel of the shank with a rotten stop and belayed
+with plenty of slack.
+
+Now I am going to give you ten rules for anchoring, but be pleased to
+remember that these rules are not fixed laws, and as such do not bind
+you to do anything against what judgment, experience, or a present
+difficulty may suggest.
+
+1. Never drop an anchor until you have first examined it.
+
+2. Never drop an anchor stock down.
+
+3. Never drop an anchor from the bows while the boat has headway,
+except for the purpose of preventing her going ashore or into something.
+
+4. With the wind and sea ahead give any amount of scope.
+
+5. In a tide-way give just sufficient to hold, no more, unless the
+conditions of wind and sea oblige a long lead; then watch your hawse
+when she shifts tides.
+
+6. When getting underway in a strong wind, do not shorten too much
+before everything is ready aloft; same when surrounded by other vessels.
+
+7. Be sure when you make fast, that you make fast. Always weather-bit
+your hawser before turning in. Don't make fast over an old set of
+turns when you shorten hawse. Always keep your riding-bits clear of
+everything but the hawser.
+
+8. Always examine the gear before leaving the yacht or turning in. If
+she is riding hard, feel if she is fast or dragging.
+
+9. Keep your hawsers or chains leading free of the bowsprit rigging.
+Look out for chafing and freshen the hawse frequently.
+
+10. Never anchor on rocky bottom without a trip line.
+
+
+WEIGHT OF ANCHORS
+
+  ===============+=========+=========+=========+=========
+      Length     |  Kedge  |1st Bower| 2d Bower|  Spare
+  ---------------+---------+---------+---------+---------
+   20 feet o. a. | 10 lbs. | 20 lbs. |  ----   | 30 lbs.
+   25  "     "   | 10  "   | 25  "   |  ----   | 40  "
+   30  "     "   | 15  "   | 30  "   |  ----   | 50  "
+   35  "     "   | 15  "   | 40  "   | 30 lbs. | 60  "
+   40  "     "   | 20  "   | 45  "   | 35  "   | 80  "
+  ===============+=========+=========+=========+=========
+
+These weights should be (excepting kedge) increased 25 per cent. when
+anchors are for use on a broad shoal model, and can be decreased if
+model is very sharp and the hull light. There is no advantage to be had
+by decreasing the weight of the spare in any case. Anchors are seldom
+forged to weigh exactly the above weights, but the matter of a few
+pounds either way will not effect the service.
+
+
+SIZE AND STRENGTH OF CHAIN
+
+  ======+===========+=======+==========+==========+=========
+   Size |  Average  | Proof | Average  | Suitable | Size of
+        |   Weight  |  Test | Breaking | for Yacht| Anchor
+        | Per Fathom|       |  Strain  |          |
+  ------+-----------+-------+----------+----------+---------
+  Inch  | In Pounds | Tons  |  Tons    |   Tons   | Pounds
+        |           |       |          |          |
+   3/16 |   3       |   1/2 |    7/8   |   1-1/2  |  20
+   1/4  |   4-1/2   |   3/4 |  1-1/4   |   2      |  30
+   5/16 |   6-1/2   | 1-1/2 |  2-1/2   |   4      |  50
+   3/8  |   9       | 2     |  4       |   8      |  75
+   7/16 |  12       | 3     |  5-1/2   |  18      | 100
+   1/2  |  15       | 4     |  6-1/2   |  30      | 150
+  ======+===========+=======+==========+==========+=========
+
+From Catalogue of A. S. Morss, Boston, Mass.
+
+
+SIZE AND STRENGTH OF HAWSERS
+
+  ==============+=========+===============+=========+=================
+      Size in   | Size in |   Weight of   | Breaking| Number of feet
+   Circumference| Diameter|  100 Fathoms  | Strength|   in 1 lb.
+                |         | Manila in lbs.|  in lbs.|
+  --------------+---------+---------------+---------+-----------------
+    6 thd.      | 3/16 in.|       12      |   540   |  50 feet,
+    9  "        |  1/4  " |       18      |   780   |  33  "    4 in.
+   12  "        |  6/16 " |       24      | 1,000   |  25  "
+   15  "        |  3/8  " |       30      | 1,280   |  20  "
+    1-1/4 in.   |  7/16 " |       37      | 1,562   |  17  "    8  "
+    1-1/2  "    |  1/2  " |       46      | 2,250   |  13  "
+    1-3/4  "    |  9/16 " |       65      | 3,062   |   9  "    3  "
+    2      "    |  5/8  " |       80      | 4,000   |   7  "    6  "
+    2-1/4  "    |  3/4  " |       98      | 5,000   |   6  "
+    2-1/2  "    | 12/16 " |      120      | 6,250   |   5  "
+    2-3/4  "    |  7/8  " |      142      | 7,500   |   4  "    3  "
+    3      "    |  1    " |      170      | 9,000   |   3  "    6  "
+  ==============+=========+===============+=========+=================
+
+From Catalogue of A. S. Morss, Boston, Mass.
+
+
+
+
+_ON RIGGING_
+
+
+  "_Then let his vessel feel the strain
+  When wars the gale along the main;
+  Strong in his trust of shroud and stay
+  The seaman holds his leeward way,
+  Spreads the reef'd sail on buckling mast
+  And proudly dares the stormy blast._"
+
+
+ON RIGGING
+
+When we speak of a vessel's rigging we mean everything that supports
+the spars and is employed in setting and trimming the sails. Rigging
+is divided into two classes--standing and running. The first is the
+portion that remains stationary, and whose office is to hold and
+strengthen the spars. The second is rove through blocks and moves; its
+office is to hoist, lower and trim the sails.
+
+Rigging has been much simplified of late years owing to the use of
+better proportioned fittings and stronger materials. The use of wire
+rope in place of hemp has reduced the size and weight of standing
+rigging, and what is of more importance, given a stable factor.
+
+In the old days when hemp was used, the shrouds and stays had to
+be constantly watched, as they varied in length every time there
+was a large change in the atmosphere. This was a frequent cause of
+dismasting. A vessel before leaving port would have her rigging set up
+in dry, cold weather; going to sea she would run into a warm region and
+everything would slack up. As it is now, the expansion and contraction
+of wire rigging is so small that a few turns of a screw will take it
+up or give it back. The only danger from wire is in setting it up too
+taut when at its full stretch, but this, in such length as go to make
+the shrouds of a yacht, is little to be feared. But the funnel guys of
+steam-yachts should be frequently looked to, as the expansion of the
+iron is liable to pull out the deck eye-bolts.
+
+I am not going to tell you how to rig a yacht, because you can learn
+that better and quicker by doing as the Yankee did who wanted to learn
+how to make clocks--took one apart and put it together again. Just
+strip a yacht, then re-rig her, and you will be in a fair way to learn
+all about it. What I am going to do, is to point out to you a few
+things in regard to rigging that may aid you in taking better care of
+what you have, and in making more secure and simple its use.
+
+The one axiom of the business is this, and I want you to engrave it on
+your memory, for the violation of its truth is the cause of nine out
+of ten breakdowns: The weakest part of any shroud, stay or tackle is
+its strongest part. If you take two pieces of chain capable of lifting
+a ton, and join them with a piece of rope capable of lifting five
+hundred pounds, your combination is only as strong as the rope, and
+will only lift the smaller weight. This is why shrouds so frequently
+give way; the wire rope is strong enough, the splice is firm, but the
+rigging-screw is only capable of bearing half the strain of those
+parts. Same with halliards; the tackle will lift a ton, the pin in the
+block or shackle not five hundred pounds. All parts of any tackle must
+be proportionately strong.
+
+The most unreliable portion of a yacht's rigging is the ironwork. In
+the first place, much of it is badly proportioned, and in the second
+place it is too light. There is no sense in making ironwork so light
+as is frequently done. The amount of weight saved, especially in those
+parts attached to the hull, is of no importance. Another source of
+weakness, especially in chain plates, is in making the straps too
+short; not giving room for the fastenings. Chain plates should be
+carried right down and be secured to the frame.
+
+The kingpin of the whole structure erected above the deck of a yacht
+is the bobstay. If that goes you are liable to lose everything, and
+it does go frequently. The principal cause of its parting is the over
+setting up of the headstays. Sometimes the bobstay itself is set up too
+taut, at other times the jib stay is strained. One way or another the
+spring of a spar is brought on it, and the vessel, getting into a head
+sea, begins to pitch; this causes a back-lashing and away goes a bolt
+or a plate.
+
+Not long ago we were trying to insure a yacht that was to go South.
+The underwriters refused the risk on the ground that the yacht would
+get dismasted, and be obliged to put back or be lost altogether.
+At the same time they willingly took a risk on two small topsail
+schooners bound to the West Indies. We all sailed within four days. The
+yacht went through all right, but both the schooners lost their fore
+topmasts, bowsprits, jib booms and other headgear, and had to return to
+New York for a refit. They ran into a high head sea, and the foremast,
+being set up on the bowsprit, the bobstay parted under the strain and
+away everything went.
+
+I have seen a small racing boat with a bronze rod of 3/8 inch diameter
+for a bobstay, and this secured to the stem with two one-inch screws.
+You cannot make your bobstay too strong or fasten it too securely. It
+was formerly a custom to fit two bobstays, a regular one and a smaller
+one, called a preventer. This latter was set up slack of the heavier
+one. For many reasons this was a poor practice, it being far better to
+put the strength of the two in one. In another chapter I have told you
+how to rig a tackle preventer for use when going to sea.
+
+Bowsprit shrouds should be made heavy, and carried as far aft as
+possible to get a spread. Care should be taken to set them up evenly.
+Foot ropes under a bowsprit are unsightly, and are not needed unless
+the spar is long. If your jib stay is carried through the spar and made
+fast to the stem, it should render freely in the bee hole. Unless it
+does it is liable to strain the spar. I nearly lost a mast once by the
+jib stay sawing into the wood and sticking. It parted in a sea-way, and
+the shock broke the bobstay shackle. Every cruising boat should have
+two shrouds to a side. On pole-mast boats one of these should run to
+the hounds and the other to the masthead. Don't set them up to bands;
+eye-splice and put them over the spar. You never can trust the eye in
+a band. The rigging screws should be just twice as heavy as what the
+average man will tell you to use. The screw is the weak part. Cutting
+the thread destroys the strength of the metal. The extra weight is
+nothing to speak of; the extra strength is everything. Although they
+are more trouble to care for I prefer lanyards.
+
+Always keep your shrouds set up bar-taut; the old notion that a mast
+should have play is a fallacy. The stiffer your spar the better it
+will carry sail. In our modern boats a mast should be kept plumb. From
+what I have seen all boats sail better with their masts plumb. Another
+thing, don't cut your sheer-poles too short; they are so cut on half
+the boats I have seen; the consequence is they are always working loose.
+
+On many yachts the rope used in the running rigging is too small. It
+may be plenty strong enough, but a man gets tired of picking up and
+pulling on shoestrings. This is a frequent fault with main-sheets;
+another is not having enough parts. A sheet tackle should be powerful
+enough to give one man control of the sail at any time. Weak travelers
+is another defect. This should be doubly strong, as it is frequently
+used to tow or make fast to. Every boat should have a strong ringbolt
+on each side in the quarters for boom lashings, etc.
+
+There are plenty of good blocks and plenty of bad ones. The modern
+metal blocks are good, but should be of a big passage, as the gear
+when wet is apt to jam in them. This is a fault with all blocks having
+small sheaves. The weak part of a block is either the pin or the
+shackle.
+
+On small boats a single topping lift is all that is needed, but on
+yawls and ketches, where the main boom is inboard and short, two lifts
+are better. Boats with heavy spars should have a jig fitted to the
+lift. Lazy jacks are useful on cruising boats, especially if you are
+sailing short handed, but they are a nuisance when reefing. The ends
+should be made fast in such a way as to allow of their being slacked
+up, but not so as to permit of their getting adrift. I have got into
+trouble several times through the lazy jacks getting adrift. The
+ends blew across the peak halliards, and fouled them in such way as
+to prevent the sail from coming down. If this happens at night when
+reefing you are liable to be in a fix. I may as well say here that the
+ends of all running gear should be made fast.
+
+If you have a pin-rail this is easily done. Take out the pin and slip
+the socket through the rope between the strands, shove it on the collar
+of the projection and put the pin back. If your halliards are belayed
+to cleats, marl them to the cleat. At night or in a blow the crew will
+let go one halliard to pick up another, and away goes the end flying
+out. If it is dark it can't be found, as more than likely it is wrapped
+round a shroud or lift, or is flying out from aloft like a pennant.
+I have had some anxious times hunting the ends of gear of a dark,
+windy night. When sailing in the dark or in bad weather make the end
+of your mainsheet fast; always keep a knot in it. Jib's sheet should
+be endless, running right round the cockpit. Then you can always find
+them, and the end won't wash overboard.
+
+It is the custom now to put bridles or spans on gaffs and booms in
+order to distribute the strain. They are good things if used in
+moderation, but it is extremely foolish to put a rig of this kind on a
+twenty-footer carried out in the lavish fashion of a cup defender. I
+have seen little boats knocking about with spans on the boom that would
+pretty nearly have held the Columbia's spar. Some of our designers have
+an especial fad for loading down boats with all kinds of gear, and seem
+to glory in bridling everything that offers the least excuse for such
+fittings. The first thing that a good racing man has to do when he
+gets one of these boats is to strip off about half the stuff and change
+leads all round.
+
+Complicated running rigging is a nuisance; it cannot be too simple so
+long as it is effective. The less strings you have to pull the quicker
+you can work. This is just as true on a cruiser as it is on a racer.
+A lot of line is also a nuisance round the decks; a clear deck is a
+sailor's blessing.
+
+One of the things I have helped to simplify is the gear on spinnakers.
+Long ago I pointed out that this sail could be used on small boats
+without outhauls and lifts, and that without them the sail was easier
+set and easier taken in. This method of handling that sail has since
+been practiced on the majority of our racing craft. Half the spinnaker
+poles are too heavy for their length, and the sails too big to be
+effective in anything but extremely light weather. All gear belonging
+to the pole should be snap-hooked, so that it can be attached or
+detached at once.
+
+Snap-hooks and sister-hooks are excellent contrivances, but beware of
+them. They have a trick of giving out just at the wrong time, and are
+to blame for many a lost spar. They should be extra large and strong
+if they are to be subjected to heavy and continued strains.
+
+All gear, especially the iron work, should be constantly examined, not
+only when at anchor, but while under way. Many men never look at their
+boat's gear from the time she is put overboard until she is hauled out.
+Here is a case that fell under my notice: A boat was being stripped
+for hauling out, when we noticed that her mast was shaky; on examining
+the step it was found that the heel of the spar was just in it and no
+more, allowing the mast to play. Taking her under the shears, we raised
+the spar, and found lying in the step a cold chisel that prevented the
+heel from dropping home. This boat had been sailed about all summer,
+and the owner admitted that he noticed something was wrong with the
+mast, but that he had never examined the step. Another time I was on a
+cutter that carried away her mast-head. When we examined the break it
+was found that the stick was completely rotted through. The damage was
+caused by hollowing of the wood above the upper band, which allowed the
+rain water to stand and soak into the grain.
+
+If I have a boat in charge I make it a duty to go aloft at least once
+a week when she is under way and take a careful survey of all the
+ironwork, blocks and splices. I also examine the bowsprit rigging
+thoroughly. The ironwork should be sounded with a hammer or heavy knife
+blade, just as railroad men sound carwheels. Blocks should be looked
+to and kept well oiled. Turnbuckles should also be kept oiled, and if
+you are out in much rough water they should be covered with a false
+parceling of painted canvas. If this is done they won't freeze, and
+when you want to tauten or slack the rigging you will be able to do so
+without using a lot of kerosene and hard twisting.
+
+On cruising boats with outboard booms reef-pendants for the two lower
+reefs are generally kept rove, but they are much of a nuisance. This
+can be obviated in a measure by having them in two lengths, keeping one
+part in the sail and the other in the locker when not in use. If the
+sail is heavy a small tackle is handy. Such a tackle should be carried
+on all boats; it saves a lot of hard labor, especially if you take
+ground and have to haul off.
+
+[Illustration: AUXILIARY CRUISER FOR SOUTHERN WATERS]
+
+
+
+
+_ON STRANDING_
+
+
+  _Borne o'er a latent reef the hull impends,
+  And thundering on a marble crag descends;
+  Her ponderous bulk the dire concussion feels,
+  And o'er upheaving surges wounded reels--
+  Again she plunges! hark! a second shock
+  Bilges the splitting vessel on the rock._
+                                          --FALCONER
+
+
+ON STRANDING
+
+This is a subject upon which I can pose as a master. If any man has
+been ashore more times than I have, I should like to meet him and spend
+an evening comparing notes. One of my favorite amusements is to sail
+into places where a man of sense has no business to go; consequently
+my boat is continually being hung up on rocks, shoals and bars. While
+this is not particularly good for the boat, it has done me no harm, as
+I have gathered a lot of knowledge and experience which, you willing, I
+will spread before you.
+
+Yachts, unlike merchant vessels, are seldom damaged by taking ground.
+This is because, in proportion to their weight, they are extremely
+strong fabrics. A merchant vessel when loaded has little reserve
+buoyancy, and when she strikes, she hits hard; but a yacht is almost as
+buoyant as an empty barrel, and unless she hits with a perpendicular
+portion, does so very lightly.
+
+Frequently when a yacht hits a rock it seems to those on board as if
+the end of things had come; but when an examination is made it will be
+found that little harm has been done.
+
+I once struck a rock with a small sloop. It was blowing a strong breeze
+and considerable sea running. When she struck, the blow was terrific;
+it threw me over the wheel to land on my head in the fore end of the
+cockpit, and knocked the rest off their pins. The centerboard was
+driven clear up out of the case against the cabin roof, the sloop
+making a jump over the stone and into deep water on the other side.
+
+We all thought the boat must be badly damaged, but as she made no
+water, we turned round and worked her home. When she was hauled out,
+the only sign of the blow was a dent in the lead keel just deep and
+wide enough to hold a finger.
+
+Another time I was in a bulb-fin boat, racing, when she struck a rock.
+She was close-hauled and going like a scared cat. It felt like banging
+up against a stone wall, the shock sending us all flying forward. The
+damage done amounted to a bruised bulb and a slightly bent fin; the
+hull was, so far as we could ascertain by superficial inspection,
+unhurt.
+
+Metal-shod keels are undoubtedly a great protection, and a yacht that
+strikes fairly on her iron or lead will seldom be damaged to such an
+extent as to endanger her safety. I have known boats to be sunk by
+striking rocks, but they hit either the side of the bow or the bilge
+and stove in the plank. For this reason, if you find yourself going on
+a rock, always take it stem-to. By this means I jumped a rock in Wood's
+Hole that was six inches out of water, and landed all right on the
+other side.
+
+The most dangerous thing to do, yet the thing that is most natural
+to do, is to put the helm up or down with the hopes of escaping;
+consequently your craft is carried on, and strikes broadside. This not
+only is liable to bilge her, but makes it far more difficult to get her
+off. It is especially dangerous if you go on with a weather wind or
+tide.
+
+Always remember that wounds in a hull are least dangerous at the
+ends, and most dangerous in the middle body. If a boat is pierced in
+her head or tail you may be able to trim the leak out, or save her
+from sinking by stranding and jacking the leaky end up, but if she is
+pierced amidships you cannot get at the hole unless you haul completely
+out. I remember seeing a sandbagger that had torn the plank away from
+her stem saved from sinking by trimming, the crew raising her head by
+piling all the bags aft.
+
+Luckily for the navigator, the sea by constant washing, and nature by
+a covering of seaweed and slime, prepares the majority of rocks for
+his reception, so that if he strikes the object fairly with sufficient
+way on, his craft will slide over. But sometimes he runs against a
+ragged reef, and then there is trouble. The reefs and lone rocks along
+our coast are generally worn smooth, and are not dangerous customers
+like the coral formations of warmer climes. One of the worst things to
+run on is a reef of small boulders, as you are liable to get one on
+either side just under the bilge. These places are the remains of a
+point or island, and are good places to fight shy of. The worst boats
+to take ground are flat-bottomed craft like sharpies; when they go on
+they generally make a perfect job of it. They are bad things to strand
+on a sand-bar or flat, the bottom of the boat sucking like a leech to
+a turtle's hindquarter. Unless you can get the tide to lift one of
+this kind off, it is either jettison the ballast or dig out. A man who
+knocks about a sandy land in a sharpie should always carry a shovel
+with him.
+
+The first rule of action upon stranding is to at once lower all sail.
+There is but one exception to this; I will state it later. You cannot
+drive a vessel off ground with her sails (you may back her off); at
+least I never could. The reason of this is that a boat under sail
+pressure drives down, and draws more water the harder you force her.
+Again, if you drive her off, or over bottom, with the sails, you are
+likely to damage the hull or break the rudder.
+
+After taking off sail run out a kedge against the wind or current,
+unless both are ahead; then take it out the way you came in. Give it
+all the line you can; the straighter the pull the less likely that your
+anchor will come home. As soon as it is down, heave taut, and keep the
+vessel's stern to the sea, current or wind, whichever is most powerful.
+This done, if on a rock, go below and see if she is making water. While
+you are doing this let the other hands sound round the craft to find
+how she lies.
+
+If she is not leaking, get all your beef on the hawser and heave away.
+Here is where a handy-billy or watch-tackle comes in. Sometimes you
+can use the windlass, but this is not as good as a tackle, because the
+hands have to stand forward to work it, and you want all the weight
+aft. If she refuses to budge under the pull, go below, and if you have
+inside weight shift it aft. If she still refuses to start, get out
+everything weighty, and either lighter it or heave it over-side.
+
+Sometimes you can start a boat off a rock by broadening off the
+main-boom, and sending a man out on it to roll her. Before you do this
+be sure and set up the topping lift, and weather preventer if one is
+fitted. The principal thing is to keep a constant and firm strain on
+the hawser.
+
+If there is any roll on, get the hawser set up fiddle-string taut with
+the tackle, then place all hands so as to surge it sideways every time
+she lifts on the sea. If the boat is one with a deep false keel you
+can gain a few inches off the draught by careening her. This is done
+by taking an anchor off at right angles to her lay and setting up the
+hawser by any of the mast-head tackles, either jib or peak halyards.
+Never do this if there is any sea on, as it is liable to strain the
+hull or break the false keel. I don't believe it is much good, and do
+not recommend its practice except as a last call.
+
+Another plan which I found to work well when a boat is stranded on a
+shelving bank of either mud or sand is to overhaul the throat halyards,
+and bend the gaff-block to a bight in the hawser, letting a tail of the
+hawser drop down from the block. Then set up hard on the halyard, using
+the windlass or watch-tackle. This done, let a man hang on the tail of
+the hawser, throwing his weight up and down so as to surge it, the rest
+taking in the slack. This makes the mast a lever to lift her, and if
+there is water under the stern she will surely start.
+
+In a boat with a deep sternpost and sloping keel you can sometimes do
+better by swinging it on its heel, and heaving off bow first, getting
+all your spare live weight out on the bowsprit to bring her by the
+head; but it depends on where she is hardest fast, and how much weight
+you have to trim with. If she is fast aft of midships this plan will
+work, but if forward of that point it will not.
+
+The most frequent strandings are when trying to enter the mouths of
+creeks or rivers; places beset with bars and flats. If the wind and
+tide are ahead you can easily get off, but if either is astern you are
+liable to be in a fix. If you strike carrying the tide and wind with
+you, down all sail instantly, lash the helm amidships, and get out the
+anchor and long warp.
+
+The minute a vessel strikes under these conditions she will swing
+broadside-to, and drive up higher, at the same time the tide will pile
+the sand or silt round her. If you can hold her stern to the tide, the
+current will cut the sand away, and the swell will help you to pull her
+off.
+
+Now comes the only exception to the rule of taking in sail: If you are
+going into an inlet with a fair wind and head-tide, and take ground
+on a soft bar, keep your sails full and hold the boat's nose to the
+current. If you can keep her steady, which you can best do by getting
+all your spare life weight forward, the current will cut a passage for
+you. The most dangerous stranding is with a strong in-running tide and
+a stern swell. A boat under these conditions is liable to be hove over
+on her side and flooded. A small steamship was lost last winter in the
+Bristol Channel by an accident of this kind; she struck on a shoal,
+swung beam to the tide, and rolled completely over.
+
+Several power boats have been wrecked in the same manner, as from the
+narrowness of their beam they are very liable to roll over when caught
+broadside-to by a current. Another thing that often damages launches
+is leaving them where, when the tide falls, they are broadside on
+a shelving bank. The water leaves them and they fall over; the tide
+returns, and not having sufficient buoyancy to lift before it rises to
+their coamings they are flooded and sunk.
+
+Years ago, when I was a lad, a very fast and narrow steam launch was
+left by her crew on a shelving bank close to where we were anchored.
+When the tide dropped she fell over, and as her crew did not return we
+tried to save her, but the bottom was too soft to allow working on, and
+she filled at the flood. On the next ebb we bailed her out, and with a
+little engineering and a lot of labor got her righted up.
+
+We took two big joists and lashed them across the boat, but so poorly
+fitted was she with cleats and other things to make fast to that we had
+to bore holes in the deck to pass the lashing and secure them to the
+frame. The ends of the joists stuck out about fifteen feet on the high
+side. Under these ends we laid another timber, parallel to the boat's
+length, in the mud and ballasted it with stones and iron. To this
+timber we lashed two tackles, one from each joist. Then as the tide
+made we hove slowly down on them, and she righted up.
+
+If the bottom had been hard we could have parbuckled her, but it was
+impossible to do it in the deep, soft mud. This boat had a high and
+heavy boiler, which made the work harder, as it levered her down.
+
+If you can float another boat alongside of a launch in this fix you can
+lift her by parbuckling, or you can do it from a dock if the wall is
+high and near enough. To do this, take a stout line, made fast, from
+the near side over the deck and right under the keel; then lay your
+floating boat alongside as close as possible, and bend this line to the
+latter's throat halyards. Heave taut on it and belay.
+
+If possible get two lines, one forward and one aft, having separate
+tackles. As the tide makes keep heaving in the slack, letting your
+floating boat draw in sideways to the launch. This strain will aid the
+water in lifting, as the launch will have to rise with the floating
+boat. If the launch is very heavy or of scant beam, like the steam
+craft I mentioned, you had better use joists or spars to help the
+leverage.
+
+I once took a launch off a rock by this same plan, when hours of
+heaving on hawsers had failed to move her. Another plan is to lift a
+boat by lashing empty barrels to the side by passing slings under the
+keel. If the boat is neaped so that sufficient tide cannot be got to
+lift her, you can fill and sink the barrels, bunghole up; then shorten
+up the slings and pump the barrels out with a hand-pump. This barrel
+trick is only performed when a boat is bilged and full of water.
+
+Let me say here that all small power boats that cruise in strange
+waters where the bottom is hard should carry either a screw or
+hydraulic jack, and a good stout piece of square timber. If you get
+aground in places where there is little or no rise of the tide you have
+something to start in the wrecking business with. A jack and timber are
+also useful if anything happens to the wheel and you want to get the
+stern raised.
+
+To show the danger of forcing a boat off a rock let me cite one
+instance: A 50-foot sloop of the old flat-floored centerboard model
+struck on a stone when going free with a moderate wind. The sailing
+master kept his sails up, and with this pressure and a warp dragged her
+over and off the rock bow first. She had no sooner gone clear than she
+filled and sank.
+
+When floated and docked it was found that she had a hole in her bilge
+big enough for a dog to crawl through. The first blow had started a
+butt; this caught, and in dragging over the plank was bent back and
+ripped away from the frames. Had he taken in sail, and pulled her off
+stern first, she would have floated long enough to have got into harbor.
+
+Having considered accidental stranding, let us now consider voluntary
+stranding--that is, the running of a vessel ashore to save the vessel
+or the life of her crew. Let us suppose that you are caught on a lee
+shore, and for some reason cannot claw off. You are bound to go ashore
+anyhow, and in order to give the boat and people a chance decide to run
+in and strand her.
+
+If the shore under your lee is rock I can do nothing for you. Your only
+chance is to pick out an opening or cleft and drive her in, and the
+minute she strikes jump for hard land. Such places are usually to be
+found on the rocky shores of our coast, but if the land is steep-to and
+sheer-faced, there is little hope for the boat or her people.
+
+There are two kinds of sandy shores on which you may have to strand
+your vessel--the gradual slope and the steep slope. The former is by
+far the more dangerous, as the broken water extends some distance from
+the beach.
+
+In running in breaking water--in fact, in running in all heavy
+seas--the rule for safety is this: Let the wave-crest pass you, not
+carry you. If you can hold the boat back, so that the wave-crest will
+split at her stern and rush by on each side, the boat will travel in
+safety. This is why it is dangerous in heavy water to carry sail when
+running. Many men do it for fear of pooping, but there is far less
+danger of pooping than there is tripping or being brought by-the-lee.
+Fore-and-aft canvas, particularly sails laced to booms, are bad
+things to run under; anything in the shape of a square sail is much
+better. Hundreds of vessels have been lost by running under a press of
+sail--probably ten times as many as have been destroyed by pooping.
+
+Now if you are obliged to strand on a flat beach, keep your vessel's
+stern to the swell and moving as slowly as possible. The best thing to
+do is to tow a hawser astern, or a small sail. This will check her way,
+and also prevent the sea swinging her stern round. Watch her closely
+as the sea strikes under the stern, and check the desire to broach
+with the helm. She can also be aided by having hands on a small jib or
+staysail sheet, and backing this sail either on one side or the other,
+as the threatened sheer requires. Get your weights out of the bow and
+keep her trimmed a bit by the stern. The idea is to have her strike
+bottom on her whole keel-length, and not on the forefoot.
+
+Here is where the luck comes in. If she strikes with her heel first and
+her head raised on a sea, you will probably land well up on the beach,
+but if she strikes with her forefoot first and her stern up in the air
+you will land--well, only good fortune can save you.
+
+I have seen fishing boats beached in this way in heavy surf, the crews
+dropping an anchor and checking the craft until the right moment, and
+then slacking away smartly. In this way they rode the boat in on the
+back of successive seas. With sharp-stern craft this can be done with
+safety, but I would not care to try it with a square stern or long
+after-overhang craft.
+
+I would advise the young seaman to take a small skiff or dingey to a
+beach where there is a small sea breaking and practice making-off and
+landing through the surf. He had better dress in a bathing suit, and
+try the game when the water is warm. In a day or two of this work you
+will learn more than I could teach you in seventy volumes.
+
+If the beach is steep-to, the sea breaking but a few rods from the
+strand, you can stand in under good way, keeping her end-on until close
+to. The instant you feel that she is going to strike put your helm over
+and bring her almost broadside to the sea. The wave rising under her
+weather bilge will throw her sideways on the beach, and each succeeding
+sea will drive her higher up.
+
+In running at any time in heavy water use oil, letting it drip from
+either bow. With a good thick slick in your wake you will be less
+likely to be washed by the crests.
+
+But better than all these directions is the advice to keep off rocks,
+shoals and shores. Don't go into places unknown to you unless you have
+a good chart or your lead going; especially keep away from dangerous
+places when the wind is brisk, the sea heavy or the tide strong. An
+ounce of precaution in this matter is worth tons of cure.
+
+Nine out of ten strandings or strikings are the result of carelessness
+or recklessness. The only thing a man is justified in hitting is a
+wreck or a lone rock; these things the lead will not announce, and they
+are frequently uncharted. Old familiar "didn't know it was there,"
+should more properly be "didn't know I was there." Rocks don't move,
+but you would think they did to hear many yachters explaining how it
+happened. I have hit a good many rocks in my day, but don't believe I
+could prove an alibi except in one case, when the boat ran on a stone
+that nobody had ever heard of before. We examined the stranger and
+found it was a rock sure enough, but where it came from or how it got
+there no man knew, but all hands stood ready to swear that they had
+sailed over the exact spot many times and never touched anything.
+
+I don't doubt but what there are thousands of uncharted rocks over
+which and alongside of which vessels constantly pass but do not happen
+to strike. Like the celebrated Daedalus Rock, they may lurk for years
+in the course of commerce, until the unfortunate boat comes sailing
+along that is destined to win immortality by striking and unmasking
+the danger. But it is not worth while to worry over these vigias while
+there are plenty of well-known dangers to keep the navigator busy. So
+proceed fearlessly but cautiously, trusting in your lead and chart, and
+hug and play with weather shores as much as you please, but give the
+lee ones a wide berth.
+
+Before entering an inlet, creek or river mouth, if you are not familiar
+with it, lay-off or anchor outside. Send in the dingey with a lead or
+pole, and sound for the deepest place on the bar; when this is found,
+let the dingey lie there or on a line inside of it to guide you in. You
+may lose a few minutes by so doing, but by the delay may save yourself
+hours of hard labor and anxiety.
+
+Never try to run inlets when a heavy swell is on; the open sea is far
+more merciful than a bar at such times. It is especially dangerous to
+attempt such places in small power boats.
+
+
+
+
+In a second book now in preparation I shall talk to you upon sails,
+ballast, sea-anchors, cruising, rough water, weather and other subjects
+of interest to the young mariner. I will be pleased to have my readers
+suggest themes the exposition of which would interest them, and if I am
+competent to discuss the subject I will be only too glad to do so.
+
+
+
+
+Technical and Practical
+
+
+Technical books are tools. No man can excel in a trade unless he has
+good tools; neither can a man expect to excel in a sport unless he has
+at hand, ready for reference, a good collection of books relating to
+its theory and practice.
+
+     We have in this list, gathered for the first time, all the
+     obtainable books on the subject of yachting and its kindred sports.
+
+     The yachtsman will find here those books which are invaluable as
+     guides to a higher knowledge of yachting, and which no yachtsman's
+     library is complete without.
+
+     Any book not here listed, if in print, we will obtain, no matter
+     in what language or land it is printed.
+
+     Send postal for complete catalogue.
+
+                                                  _THE RUDDER PUB. CO._
+                                        9 Murray St.   New York, U.S.A.
+
+
+
+
+Books for the Yachtsman's Library
+
+
+TECHNICAL AND PRACTICAL.
+
+  Amateur Sailing. By Biddle                                       $1.50
+  Amateur Sailor. By Alex. I. McLoed                                 .50
+  Boat Sailer's Manual. By E. F. Qualtrough                         1.50
+  Canoe Handling. By C. B. Vaux                                     1.00
+  Corinthian Yachtsman                                              1.50
+  Canvas Canoes--How to Build Them. By Field                         .50
+  Canoe Cruising and Camping. By P. D. Frazer                       1.00
+  Canoe and Camera. By Steele                                       1.00
+  Canoe and Boat Building for Amateurs. By Stephens                 2.00
+  Canoe and Camp Cookery. By Seneca                                 1.00
+  Electrical Boats and Navigation. Illustrated                      2.50
+  Elements of Navigation. By Henderson                              1.00
+  Fore and Aft Seamanship                                            .50
+  Handbook of Naval Gunnery. By Radford                             1.50
+  How to Swim. By Capt. Dalton                                      1.00
+  How to Build a Racer for $50                                      1.00
+  How to Build a Skip Jack                                          1.00
+  Illustrated Coast Pilot. By N. L. Stebbins            $1; by mail 1.25
+  Ropes, their Knots and Splices                                     .50
+  Log of Yachts                                                      .50
+  Model Engines and Small Boats. By Hopkins                         1.25
+  Model Yachts. By Grosvenor                                        2.00
+  Manual of the Canvas Canoe. By Webb                               1.25
+  Marine Engineers--How to Become One. By E. G. Constantine         2.50
+  Navigation for Yachtsmen. By V. J. English, R.N.                  7.50
+  Practical Boat Building. By Nelson                                1.00
+  Practical Boat Building and Sailing. By Nelson, Kemp and Davies   3.00
+  Practical Boat Sailing. By Davies                                 2.00
+  Supplements to Small Yachts. By Stephens                          4.00
+  Sails and Sailmaking                                              1.25
+  Steam Yachts and Launches. By Kunhardt                            3.00
+  Sailing Alone Around the World. By Capt. Joshua Slocum            2.00
+  Small Yachts--Their Design and Construction. By C. R. Kunhardt   10.00
+  Torpedoes and Torpedo Vessels. By Armstrong                       1.25
+  The Pilot. How to do the work, a Text Book for Navigators         1.00
+  The Rudder--Volumes 5, 7, 8, 9, 10                           each 3.50
+  Yacht Etiquette. By Patterson                                     1.00
+  Yachting Wrinkles. By A. J. Kenealy                               1.00
+  Yacht Designing. By Biddle                                        1.00
+  Yacht and Boat Sailing. By Dixon Kemp                            10.00
+  Yacht Architecture, Designing and Building. By Dixon Kemp        16.80
+
+_Any of the above sent postpaid in United States or Canada on receipt
+of price_
+
+  THE RUDDER PUB. CO.      9 Murray St., New York, U.S.A.
+
+
+
+
+How to Build a Motor Launch
+
+                            By C. D. Mower
+                    Designing Editor of THE RUDDER
+
+
+A simple and practical work in every detail, showing how to construct a
+launch hull suitable for use with any description of motor.
+
+     Each step of the work is clearly and thoroughly explained, both by
+     text and drawings, so that a man who has never even seen a boat
+     built will have no difficulty in understanding the process.
+
+     The author, a self-taught boat builder, thoroughly comprehends
+     what a novice does not know, and is, therefore, able to point out
+     the hard places, and to show the amateur builder how to get over
+     or around them.
+
+     In the after part of the book are given the designs of several
+     launches, from 18 to 50 feet in length.
+
+     The whole is heavily illustrated, and is the most complete
+     treatise on launch building yet published.
+
+                                                  _THE RUDDER PUB. CO._
+                                       9 Murray St.    New York, U.S.A.
+
+     Bound in cloth, price $1
+     Same size and style as "How to Build a Skipjack" and "How to Build
+     a Racer for $50"
+
+
+
+
+_On Marine Motors & Motor Launches_
+
+                      A handy book for yachtsmen
+                        By E. W. Roberts, M. E.
+
+
+A reprint in a handy form of Mr. Robert's instructive and interesting
+RUDDER articles. In it the author explains what a gasoline motor is,
+and points out in understandable language the difference between the
+types, and shows what is a good motor and what is a bad one.
+
+     He gives valuable information to the buyer, and also explains
+     how to run a motor, how to prevent breakdowns, and how to remedy
+     defects.
+
+     To the novice, the chapter on _gasoline_ is alone worth the price
+     of the book, as it explains the properties of that fluid, and the
+     proper manner in which to handle it so as to prevent accidents.
+
+     No motor man should be without a copy of this book; it will save
+     him time, trouble and expense.
+
+                                                  _THE RUDDER PUB. CO._
+                                       9 Murray St.    New York, U.S.A.
+
+Bound in cloth, price $1
+
+
+
+
+[Illustration]
+
+HOW TO BUILD A SKIPJACK
+
+
+Complete plans and directions for building a 19-ft. sloop, the material
+for which will cost less than $100; and pictures of numerous boats that
+have been built in all parts of the world from these plans. Bound in
+blue cloth and gold, uniform with "How to Build a Racer for $50."
+
+        PRICE ONE DOLLAR POSTPAID
+
+  _THE RUDDER PUBLISHING COMPANY_
+      _9 Murray Street, New York_
+
+
+
+
+HOW TO BUILD A RACER FOR $50
+
+[Illustration]
+
+
+Simplest, safest and fastest boat that can be built. The working plans
+are such that a boy can build from them. The plans were published in
+1898, and since then some 500 boats have been built from them. The book
+has numerous illustrations of boats in and after construction, and also
+gives experience of builders in all parts of the world. Blue cloth and
+gold, uniform with "How to Build a Skipjack."
+                                                PRICE, POSTPAID, $1.00.
+
+       THE RUDDER PUBLISHING COMPANY, 9 Murray Street, New York.
+
+
+
+
+_The Rudder_
+
+
+The policy of THE RUDDER is to give to yachtsmen a thoroughly practical
+periodical, dealing with the sport of yachting in all its phases,
+and especially to furnish them with the designs and plans of vessels
+adapted to their wants in all localities.
+
+     In each issue is a design of a sailing or power craft, and at
+     least four times a year a complete set of working drawings is
+     given, so that the unskilled can try a hand at building with a
+     certainty of making a success of the attempt.
+
+     In the last two years over 500 boats have been built from designs
+     printed in the magazine, and in almost every case have given
+     satisfaction.
+
+     Outside of the strictly practical, the magazine has always a cargo
+     of readable things in the way of cruises and tales, while its
+     illustrations are noted for their novelty and beauty.
+
+     The editor desires to increase the size of the magazine and to add
+     to its features. In order to do this it is necessary that it be
+     given the hearty support of all who are interested in the sport.
+     The cost of a subscription, $2 a year rolled or $2.50 mailed flat,
+     is as low as it is possible to make it and furnish a first-class
+     publication, and he asks yachtsmen to subscribe, as in that way
+     they can materially assist him in keeping the magazine up to its
+     present standard of excellence.
+
+                                                  _THE RUDDER PUB. CO._
+                                       9 Murray St.    New York, U.S.A.
+
+
+
+
+                          Vol. XI, The Rudder
+                           FOR THE YEAR 1900
+                            [Illustration]
+
+
+                            TO BE HAD FROM
+                     THE RUDDER PUBLISHING COMPANY
+         9 Murray St., New York      143 Strand, London, W. C.
+                                 OR AT
+
+Damrell & Upham, 283 Washington St., Boston, Mass.; Koelling &
+Klappenbach, 100 Randolph St., Chicago, Ill.; Lowman & Hanford
+Stationery and Printing Co., 616 Front St., Seattle, Wash.; Wm. Foster
+Brown, 2323 St. Catherine St., Montreal, Canada; Levant & Chevalier, 50
+Quai St. Jean Baptiste, Nice, France; Swain & Co., Munroe St., Sydney,
+Australia; and all booksellers throughout the world.
+
+It contains 460 pages, 24 full-page supplements, 500 other
+illustrations, over 100 designs and plans. Bound in blue cloth; gold
+top and lettering.
+
+Price, postpaid, $3.50; 15 Shillings; 20 Francs
+
+       *       *       *       *       *
+
+Transcriber's Note:
+Obvious typographical and punctuation errors were repaired.
+
+
+
+
+
+End of Project Gutenberg's On Yachts and Yacht Handling, by Thomas Fleming Day
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ON YACHTS AND YACHT HANDLING ***
+
+***** This file should be named 44230.txt or 44230.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/4/2/3/44230/
+
+Produced by Mark C. Orton, Marc-André Seekamp and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+(This file was produced from images generously made
+available by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

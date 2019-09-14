@@ -1,0 +1,2575 @@
+The Project Gutenberg EBook of On the Development and Distribution of
+Primitive Locks and Keys, by Augustus Pitt-Rivers
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: On the Development and Distribution of Primitive Locks and Keys
+
+Author: Augustus Pitt-Rivers
+
+Release Date: October 25, 2013 [EBook #44022]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PRIMITIVE LOCKS AND KEYS ***
+
+
+
+
+Produced by Chris Curnow and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+
+
+
+
+Transcriber's Note: Minor typographical errors have been corrected
+without note. Irregularities and inconsistencies in the text have
+been retained as printed. Words printed in italics are noted with
+underscores: _italics_.
+
+
+ON THE DEVELOPMENT AND DISTRIBUTION
+
+OF PRIMITIVE LOCKS AND KEYS.
+
+
+
+BY
+
+LIEUT.-GENERAL PITT-RIVERS, F.R.S.
+
+_ILLUSTRATED BY SPECIMENS IN THE PITT-RIVERS COLLECTION._
+
+[_The materials for this paper, together with the rest of the Museum,
+have been in course of Collection since the year 1851, and some of the
+specimens illustrated have been exhibited to the public at Bethnal
+Green and South Kensington for some years._]
+
+LONDON:
+CHATTO AND WINDUS, PICCADILLY.
+
+1883.
+
+LONDON:
+HARRISON AND SONS, PRINTERS IN ORDINARY TO HER MAJESTY,
+ST. MARTIN'S LANE.
+
+
+
+
+ON THE DEVELOPMENT AND DISTRIBUTION OF PRIMITIVE LOCKS AND KEYS.
+
+
+Etymology of words for Locks and Keys:--"Klu," the Greco-Italian base,
+to lock (FICK), from the Sanskrit "Klu," to move (BENFEY and MONIER
+WILLIAMS); "Klavi," key (FICK); "[Greek: kleis]," Greek, a key;
+"[Greek: kleistron]," Greek, a bolt or bar; "Claustrum," Latin, a
+lock, bar, or bolt; "Claudo," Latin, to close or shut; "Clausum,"
+Latin, an enclosed space; "Clausura," Latin, a castle; "Clavis,"
+Latin, a key; "Clavus," Latin, a nail; "Clef," French, a key; "Clou,"
+French, a nail; "Clo," Gaelic, a nail, pin, or peg; "Clo," Irish, a
+nail or pin; "Glas," Irish, a lock; "Clo," Welsh, a lock; "Clar,"
+Bourguignon, a key; "Clau," French provincial, a key; "Clav," old
+Spanish, a key; "Chiave," Italian, a key; "Chave," Portuguese, a key;
+"Close," English, to shut. From the same root, "Klu," to move, comes
+also "Sklu" (SKEAT), from which is derived the Teutonic "Slut," to
+shut, and from thence the Dutch "Slot," a lock, and also a castle,
+from "Sluiten," to shut; old Friesic "Slot," from "Sluta," to shut;
+Low German "Slot." Thus also the English provincial word "Slot," a
+bolt; "Schloss," German, a lock, and also a castle; "Schluessel,"
+German, a key. From the Latin "Sero," to put, comes "Sera," Latin, a
+movable bar or bolt; "Serrure," French, a lock; "Serratura," Italian,
+a lock. The French word "Verrou," a bolt; Wallon "Verou" or "Ferou;"
+Bourguignon "Varullo;" Provincial "Verroth," "Berroth," and "Ferroth;"
+Portuguese "Ferrolho." The forms in "f" appear to indicate a
+derivation from the Latin "ferrum," iron. The English word "Lock" is
+derived from the Teutonic base, "Luck," to lock (FICK); "Loc,"
+Anglo-Saxon, a lock; "Lock," Friesic, a lock; "Lukke," Danish, a lock;
+"Loca," Icelandic, a lock or latch, or the lid of a chest; "Lock,"
+Swedish, a lid; "Loke," Wallon; "Luycke," Flemish; "Loquet," French, a
+catch. In Early English it was pronounced "loke" (SKEAT). The English
+word "Latch" is probably the same as the Danish "Laas," a lock; "Las,"
+Swedish, a lock; "Luchetto," Italian, a latch. SKEAT derives it from
+the Anglo-Saxon word "loeccan," to seize; in Early English it was
+pronounced "Lacche," and he suggests the probability of its being
+derived from the Latin word "Laqueus," a snare, but this is doubtful.
+"Hasp," English, is derived from the Teutonic base, "Hapsa;" "Haepsa,"
+Anglo-Saxon; "Hespa," Icelandic; "Haspe," Danish; "Haspe," Swedish;
+"Haspe," German. "Moraillon," the French word for "hasp," is of
+uncertain origin, but LITTRE supposes it to be derived from the
+provincial "Mor," a muzzle, probably the French word "Mors," a bit;
+"Morsum," Latin, a bit or a little piece; "Morsus," Latin, a bite, as
+well as the English "Muzzle" and "Nozzle," are all derived from the
+same root. "Clef benarde," a key that is not piped (foree) (HAMILTON
+and LEGROS) or furnished with grooves, and which can be opened from
+both sides, is from "Bernard," which in old French signifies a fool,
+hence a "clef bernarde" or "benarde" is an inferior kind of key
+(LITTRE). The English word "Key" was derived from the Anglo-Saxon
+"Caeg" by the change of "g" into "y;" old Friesic "Kai" and "Kei." The
+English word "Bolt," which is now applied to the most primitive form
+of the mechanism, and probably the one from which the others took
+their origin, appears to have been obtained from the Anglo-Saxon word
+"Bolt," a catapult. Thus we have the Danish "Bolt," an iron pin;
+"Bout," Dutch, a bolt or pin; "Bolz," German, and it appears to have
+been adopted from its resemblance to the bolt or arrow used with the
+catapult. CRABB ('Technical Dictionary of Arts and Sciences') thinks
+it comes from the Latin "Pello," to drive, and the Greek "Ballo," to
+cast, and that it has thus been applied to anything shooting, as a
+bolt of a door, or a bird bolt, whilst SKEAT supposes it to have been
+named like "bolster" from its roundness.
+
+The word "Padlock" is important in relation to our subject. This kind
+of lock is especially suitable as a fastening for baskets and saddle
+bags; being a hanging lock, less liable to injury from knocks than a
+fixed lock, it is used in preference to this day for travelling
+purposes. The word "Pad" is a provincial Norfolk word used for
+"Pannier" (HALLIWELL and SKEAT). It hangs about all words relating to
+early modes of travelling, thus we have, "Pad," a stuffed saddle for
+carrying a pannier on horseback; "Pad-nag," a road horse; "Pad," a
+thief on the high road; "Pad," Dutch, a path, "Paeth," Anglo-Saxon, a
+path; "Pfad," German, a path, which latter English word is also itself
+cognate with pad; "Pod," a bag carried on horseback; "Pedlar," a
+travelling hawker. The word "Padlock" therefore means "Road lock," and
+it is significant in relation to the way in which padlocks of like
+form may have become distributed over wide areas in early times. The
+French word "Cadenas," a padlock, comes from the Latin "Catena," a
+chain, and the connection is obvious; "Catenaccio," Italian; "Candado"
+and "Cadena," Spanish; "Cadenat," French provincial; Berry "Chadaine,"
+a cord; Picard "Cagne" and "Caine;" hence also the French word
+"Chaine," and the English "Chain."
+
+
+We see from this, that, as is usual in like cases, the words have
+followed lines of their own, and afford but little evidence of the
+forms of the objects to which they have been applied, excepting in so
+far that the common word "Klu" or "Clo" for lock and pin, and its
+connection with the base "Klu," to move, implies that the earliest
+form consisted of a movable bolt. But, in any case, whether we take
+the Latin word "Sero", to put, or the Sanskrit "Klu," to move, as
+independent origins of words for locks, we are carried back to a time
+when it consisted of a simple bar or bolt put up or slipped through
+staples to close a door. The passage in the 'Odyssey,' so often quoted
+in relation to the construction of Greek door locks, does not in
+reality throw much light upon the subject so long as it is unassisted
+by archaeological discoveries. It has been variously translated,[1] and
+we are left very much to conjecture for the forms of the most
+primitive kinds of locks which preceded those of which the relics are
+to be found in our collections of antiquities. It is noteworthy,
+however, that the earliest vestiges of apparatus connected with door
+fastenings in metal, that are discovered, consist of keys, which leads
+to the inference that the locks themselves may have been made of wood,
+and have therefore perished. But we have survivals of primitive wooden
+locks in use at the present time in different countries, which show
+us, with great probability, the uses to which the keys were put, and
+it is to these that we must turn in any attempt to trace back the
+history of the mechanism from the commencement. The process is one,
+the merits and demerits of which have been too often discussed to need
+comment here. In the absence of direct archaeological evidence we have
+no alternative but to avail ourselves of survivals as far as possible.
+The materials, however, in the case of locks are so abundant that it
+will not be necessary to tax our imagination unduly in order to fill
+in the links that are found wanting.
+
+          [1] 'Odyssey,' xxi., 46-50. See translations by POPE, and by
+          BUTCHER and LANG. I put aside all mention of knots and
+          strings which as Mr. SYER CUMING has observed ('Journal of
+          the British Archaeological Association,' vol. xii., p. 117)
+          must have formed the fastenings employed by dwellers in
+          tents, and of which the Gordian knot was a complicated
+          example. In early times seals must often have served as
+          substitutes for locks, as we know was frequently the case in
+          ancient Egypt and Assyria. The wooden door must have given
+          rise to a totally different contrivance. It is possible,
+          however, that something analogous to the Japanese book
+          fastening, represented in fig. 1, Plate I., may have been
+          employed under both systems.
+
+Of the bar, whether of wood or iron, used for fastening up the door on
+the inside, little need be said, nor are we at a loss for a
+commencement in the common door bolt. Figs. 2 and 3, Plate I.,
+represent the inside view and section of a wooden bolt now in use on
+barns and outhouses at Gastein, in Austria, and like many of the
+ordinary appliances which in most countries are now made of metal, it
+is there constructed entirely of wood, and is such a bolt as might
+have been used in the most primitive state of society. It is intended
+to open from the outside, where the handle, consisting of a flat
+oblong piece of wood (fig. 3, _a_, Plate I.), communicates, by means
+of a neck of wood, with the bolt _b_ on the inside, and when shoved
+home to fasten the door, the neck moves along a slit in the door shown
+by the dotted line, fig. 2, _c c_, Plate I. Such a bolt can of course
+be opened by any one whether from within or without, and it has the
+further insecurity of being liable to be forced open accidentally by
+anything that might catch the handle, there being no fastening within
+to keep it securely in its place when shut. The simplest contrivance
+for remedying this latter defect would be to insert a peg or pin into
+the bolt, which might be left hanging by a string fastened to a staple
+when the door is open, and when bolted, inserted vertically into a
+hole in the top of the bolt in front of the upright guide or staple
+through which the bolt slides, as represented in figs. 4 and 5, Plate
+I., and it could be got at from without through a hole in the door. By
+this means the bolt would be kept securely in its place when shut, but
+it would require two motions both in opening and shutting the door.
+
+Anything calculated to save time in a process of such ordinary
+occurrence as the opening and shutting of a door would be speedily
+adopted, and it would soon be found that by fixing the pin vertically
+in a slide, so as to fall freely, and making the lower end smooth, so
+as to slide along the upper surface of the bolt as the latter was
+drawn back, it might easily be so contrived that when shut it should
+fall by its own weight into the hole in the bolt, as represented in
+figs. 6, 7, 8, Plate I.; in the former of which it is shown open, and
+in fig. 7, shut, with the pin down in the hole, so as to secure it
+from being drawn back until the pin is raised, which might be done
+from the outside by means of a hole in the door, through which the
+string might be made to pass, as shown in the section, fig. 8. By this
+contrivance the bolt would only require one motion to shut it
+securely, and it might also be placed in the inside; but to open it
+again two motions would be necessary as before.
+
+Still, however, the fastening would be accessible to everyone, and in
+a condition of society in which property must always have been
+insecure, it would become a great desideratum to construct a bolt
+which could be drawn back only by the use of a key, which the owner
+might carry about with him, and thereby secure his goods and chattels
+whilst he himself was absent in the fields, or in the hunting grounds.
+So necessary a requirement of every day life must have forced itself
+upon the notice of the greater part of mankind, and it is not
+surprising, therefore, to find that this stage of the development of
+the lock forms the point of trifurcation of three separate branches of
+improvement. Two of these are of the nature of tumbler locks, and
+consist of apparatus for raising the pin or pins by which the bolt is
+secured when they fall into the holes provided for them on the upper
+surface of it. It was for this reason that they were termed
+_tumblers_, because they tumble into the holes when the lock is
+closed. The third branch led off in another direction.
+
+In order that the mind may not wander from the lines of continuity
+whilst I treat each of these three branches separately, I shall class
+them as A, B, and C in the diagrams, at the same time allowing the
+numbers of the figures to run on continuously from this point of
+departure. By this means I shall be best able to show the
+ramifications into which this mechanism, like all similar contrivances
+to which these papers relate, separate as they increase in complexity.
+
+The common door bolt (figs. 2 and 3, Plate I.) having continued to be
+available as an inside fastening, in addition to more complex
+contrivances for securing doors, has continued to be universally
+employed up to the present time, and may be compared in nature to
+those fossil species, which, having never become unsuited to their
+environment, have survived throughout successive geological periods,
+whilst the forms represented in figs. 4 to 8, Plate I., being
+makeshifts, have disappeared as soon as they were superseded, and thus
+they constitute the "missing links" of our developmental series.
+
+The two great desiderata in the stage of the lock that we are now
+considering were security and rapidity, both of which must have forced
+themselves on the notice of the primeval householder each time he
+crossed the threshold of his door. I shall begin with branch A in
+which security only appears to have been aimed at, and then proceed to
+those in which security and rapidity were combined. The first idea
+which suggested itself was to put a bolt in a box, so that no one
+could get at it to lift the tumbler without a key especially adapted
+to enter the box and raise it, but as long as only one tumbler was
+used it must have been very easy to pick such a lock by raising the
+tumbler with any sharp-pointed instrument that might be introduced
+into the hole. By using two tumblers, it would be impossible to raise
+them both at once, except by a key constructed with projections or
+teeth to fit into notches or holes in the tumblers, which teeth must
+necessarily be at the same distance apart as the notches, and as the
+tumblers were hidden in the box, no one unacquainted with the
+contrivance could make a key to fit the lock, which by this means
+afforded to some extent the security that was requisite.
+
+Scandinavia appears to have been the headquarters of this class of
+locks, or at any rate the part of the world in which they have chiefly
+survived at the present time; one of the simplest of which is
+represented in figs. 9A, 10A, and 11A, Plate I., from the Faroe
+Islands. _e_ is the wooden block into which is cut a horizontal groove
+for the bolt _a_, and two vertical grooves in which the pins or
+tumblers, _d d_, play, and when the bolt is shut to, they fall of
+their own accord into the holes _f f_. The key, _c_, is passed
+horizontally into another groove cut for it in the block, above and
+parallel to the one for the bolt. Two notches are cut in the tumblers
+to enable the key to pass, and when pressed in horizontally as far as
+it will go, the teeth of the key, _b b_, coincide exactly with the
+notches in the tumblers, so that when the key is afterwards raised
+vertically, it raises the tumblers, by means of the notches, out of
+the holes, _f f_, on the upper surface of the bolt, and the bolt can
+then be drawn out by the hand. It will be seen that this lock requires
+as many motions as the bolt (figs. 6, 7, and 8, Plate I.). It requires
+only one motion to shut it, when the two tumblers fall into the holes
+and keep it fast, but to open it, it is necessary to use both hands,
+one to raise the key and the other to draw out the bolt. It may
+therefore be termed for distinction a hand-drawn lock. No time is
+saved by this process, but the lock, for such we must now begin to
+call it rather than bolt, is rendered more secure. Different kinds of
+these locks, but all on the same principle, are in use in out of the
+way parts of Scotland. Figs. 12A to 17A, Plate I., similar to the last
+but having a slight difference in the shape of the notches, is a
+Scotch wooden lock in the Patent Museum at South Kensington, a
+facsimile of which is in my collection. Figs. 18A to 22A, Plate II.,
+is another, also in the Patent Museum, in which three tumblers instead
+of two are raised by the same key, as shown in the sections, figs. 21A
+and 22A, Plate II. Mr. ROMILLY ALLEN, who has written a paper on
+Scotch tumbler locks in the 2nd volume, New Series, of the
+'Proceedings of the Society of Antiquaries of Scotland,' figures
+several others of the same class. One from North Ronaldsay has four
+tumblers in line; another from the Faroe Islands has three tumblers in
+line; another from Snizort, in Skye, has six tumblers working
+independently of each other but raised with the same key, and consists
+simply of two ordinary locks put face to face with the bolt between
+them; another from Harris is still more complicated in its
+construction, and is formed by five tumblers in line with two holes
+running through the whole of them, and the key has two limbs, one for
+each line of holes.
+
+It is unnecessary for my present purpose to describe all these locks
+in detail. Though varying in character they are all constructed on one
+principle. As with the more complicated contrivances in metal,
+hereafter noticed, variety is an element of security, the greater the
+variety, the greater the difficulty of making a key which will fit
+them all; and this is another point in which the processes of the arts
+resemble the processes of nature, variety adapts the mechanism to a
+wider sphere of utility, and by encouraging change, promotes
+improvement. In the one, as in the other, variation is a necessary
+element of progress.
+
+I see no reason to suppose that this class of locks was confined to
+Scotland or to Scandinavia. They may probably have existed in other
+parts of Europe, where, being made entirely of wood, they have long
+since decayed, and their representations may have survived only on the
+outskirts of civilisation. The law of geographical distribution is
+inexorable--nothing can make the North of Scotland or of Norway or the
+West of Ireland centres of the arts, and it is to such places we must
+look for the survival of primitive contrivances. A precisely similar
+key to those here described, but of iron, was found with Roman remains
+near Gloucester, and is figured in LYSONS'S 'Magna Britannia,' vol.
+ii., Plate 11, showing that a wooden lock of this kind must have been
+in use in England at that time. Figs. 23A to 25A, Plate II., is a
+similar lock used in Norway, and copied by me from a specimen in the
+Hazilius Museum at Stockholm.[2] Figs. 26 to 28A, Plate II., is
+another in the Museum at Kew Gardens, copied by permission of Sir
+JOSEPH HOOKER; it was made by the negroes in Jamaica. Figs. 29A to
+31A, Plate II., is a similar one from British Guiana, in the CHRISTY
+Collection. One is tempted by the presence of these locks in the West
+Indies to suppose that they may have been carried by the negroes from
+their African homes, and the resemblance commonly attributed to them
+to the Egyptian wooden lock, constructed on nearly the same principle,
+might lead to the inference that they may have passed in that way to
+the West Indies; but it will be seen hereafter that they differ in
+detail from the Egyptian pin-locks. They are of the Scotch or
+Scandinavian type, and in all probability were imported into the New
+World by Scotchmen rather than negroes.
+
+          [2] Mr. JOHN CHUBB in a paper read before the Institution of
+          Civil Engineers, April 9, 1850, quotes a work by L. MOLINUS,
+          "De Clavibus veterum," the date of which is, however, not
+          mentioned, in which that author states that the use of keys
+          was in his time still unknown in many parts of Sweden.
+
+It is now necessary to return to figs. 6 and 7, Plate I., which
+represent the bolt with the single pin or tumbler, in order to trace
+the origin and development of Class B. Whilst in Scandinavia and the
+north of Europe, the key was applied to the upper part of the
+tumblers, above the bolt, as shown in the preceding examples of the
+hand-drawn lock; in Egypt, Asia, and probably in parts of Europe also,
+another system combining rapidity with security was introduced. A key
+with a single tooth was inserted beneath the bolt, and by raising the
+tooth vertically and applying it to the lower end of the tumbler, the
+latter was pressed out of the hole and raised clear of the bolt, and
+the tooth occupying its place in the hole, the key itself was made to
+hook back the bolt, so that the whole operation was performed with one
+hand holding the key. Fig. 9B, Plate II., represents this kind of
+lock, which may be termed a key-drawn, as distinct from a hand-drawn
+lock. As with the tumbler locks of the north of Europe so with the
+southern variety, security was obtained by multiplying the number of
+tumblers and varying their position. Figs. 10 to 12B, Plate II., are
+drawings of a wooden pin-lock and key obtained by myself in Egypt,
+which is of the kind habitually in use there at the present time. It
+has two tumblers in line. In fig. 10B the lock is represented with the
+key, A, in it and the tumblers raised, preparatory to drawing the bolt
+B. Fig. 11B is the key, and in fig. 12B the lock is shown shut, with
+the tumblers down and the key lowered preparatory to withdrawing it
+from the lock. Mr. ROMILLY ALLEN, in the paper already referred to,
+gives an illustration of one precisely similar which he obtained in
+Persia. Figs. 13B and 14B, Plate III., shows an exactly similar lock
+in the India Museum, obtained by Sir DOUGLAS FORSYTH at Yarkand, a
+facsimile of which is in my collection. This kind of lock is also used
+in Turkey; their identity throughout the region here spoken of is such
+as to leave no doubt of their having been copied from one another, and
+indicates the area of their distribution, about which something will
+be said further on.
+
+It appears doubtful whether or not this pin-lock was known to the
+ancient Egyptians. RHIND[3] states that he discovered one on a door in
+the interior of an ancient Egyptian tomb, but its date, from the
+description given in the text, appears doubtful. The tomb had
+certainly been opened in Roman times, if not later. DENON also says
+that he saw one sculptured in the Temple of Carnac, but he took no
+drawing of it, and the evidence of the existence of this kind of lock
+in ancient Egyptian times certainly requires confirmation.[4] Sir
+GARDNER WILKINSON is of opinion that the earliest example of a key
+with pins such as might be used with the pin-lock, is of the Roman
+period, in the reign of TRAJAN, A.D. 90, and the earliest known
+mention of any key at all is in the third chapter of Judges, viz.,
+1336 B.C.[5] If the pin-lock was in use in ancient Egypt it was
+certainly exceptional, as all the sculptures represent the doors as
+being fastened by simple bolts.
+
+          [3] 'Thebes, its Tombs and their Tenants,' by A. H. RHIND,
+          F.S.A., London, 1862, p. 94.
+
+          [4] Mr. BONOMI states that he found a similar lock in one of
+          the Palaces at Khorsabad. The word used for lock in the
+          Scriptures, 'Muftah,' he says is the same in use in the East
+          at the present time. ('Nineveh and its Palaces,' by JOSEPH
+          BONOMI, F.R.S.L.)
+
+          [5] WILKINSON'S 'Manners and Customs of the Ancient
+          Egyptians,' vol. i., p. 355. The date of this passage in
+          Judges is open to question. INMAN ('Ancient Faiths,' vol.
+          ii., p. 193) puts the earliest introduction of locks amongst
+          the Jews at about 300 B.C.
+
+Whether the modern Egyptian lock is a survival of an ancient Egyptian
+form, or whether it is of Roman origin, it is certain, from the relics
+of Roman bronze and iron keys and bolts found in various parts of
+Europe, that the Roman lock was constructed on the same principle.
+Figs. 15B to 20B, Plate III., may be taken as illustrations of the
+Roman lock when put together. It is a reproduction from original
+fragments preserved in the Museum at Mainz. Fig. 20B is the bronze
+key; it has four teeth which, besides being at variable distances
+apart, are also of different forms, some being triangular and others
+square. Fig. 19B is the bronze bolt, made with apertures to fit the
+key, and also to admit of similarly formed tumblers, shown in fig.
+18B. The way in which these are put together is represented in the
+section of the lock, figs. 16B and 17B. The key _a_ is put into the
+keyhole _d_, fig. 15B, with the bar of the key containing the teeth in
+a vertical position, as represented by the dotted line _a_, fig. 16B.
+It is then turned round, and the teeth brought up beneath the bolt
+_b_. When pressed up vertically, the tumblers are driven up out of the
+bolt, and replaced by the teeth of the key, which hold the bolt so
+that it can be forced back by moving the key to the right. When the
+bolt is withdrawn, it releases the hasp _e_, fig. 15B. Of such hasps,
+fig. 21B is a drawing of an original in my collection, found at
+Hetternheim. By reference to fig. 16B, it will be seen that the
+tumblers, _f f_, are vertical, and would therefore fall into their
+places in the bolt, like those of the Egyptian and Scandinavian
+specimens; but being so small, and being probably made of wood, their
+weight would be insufficient to secure certainty of action, if
+dependent on weight alone; they are therefore pressed down by a flat
+plate _h_, figs. 16B and 17B, acting under the influence of a spring
+_g_, figs. 16B and 17B. This is an important addition, for it is
+evident that as soon as the spring comes into use, the tumblers can
+easily be made to press into the bolt horizontally, by means of a
+spring at the side, thereby enabling the lock to be used in any
+position in which it may be required; and there seems to be little
+doubt that some of the bolts and tumblers were so constructed in Roman
+locks. The existence of a spring in Roman locks is determined by the
+discovery of one with the spring in it, which is figured in M. LIGER'S
+work 'La Ferronnerie.'[6]
+
+          [6] 'La Ferronnerie, Ancienne et Moderne,' par F. LIGER,
+          Paris, 1875, tome i., p. 266, fig. 213.
+
+The teeth of the key of the Roman lock described above, it will be
+seen, are made to fit exactly the holes in the bolt; and this may
+perhaps have served to give the first idea of the ward system, which
+was so greatly depended upon for security in later times; but the same
+fallacy attaches to the use of these fitting teeth which attached to
+the ward system generally, for it is evident that any form of tooth
+small enough to go into the holes, and of the proper length, would
+have sufficed to lift the tumblers and draw the bolt; and accordingly
+we find that, in the Roman key usually discovered, the teeth are
+merely round pins, and have no particular form given to them for
+fitting purposes.
+
+The distribution of this class of lock may be determined by the
+localities in which the keys and bolts have been found. Fig. 22B,
+Plate III., is a bronze bolt of this description in my collection,
+from Oppenheim, and obtained by me at Mayence. Fig. 23B, Plate III.,
+is another of bronze, also in my collection, from Heddernheim. Similar
+ones have been found repeatedly in France, Italy, Germany,
+Switzerland, and England. The keys with teeth are even more widely
+distributed, and have been found in all those countries which have
+been occupied by the Romans. Fig. 24B, Plate III., is a large iron key
+of this description in my collection, found in the Rhine, at Mayence.
+The earliest known example of a key with teeth, according to M. LIGER,
+is one represented on a coin of the PAPIA family, dating about the end
+of the 2nd century B.C.[7]
+
+          [7] 'La Ferronnerie,' tome i., p. 261, fig. 208.
+
+But the ward system appears to have developed itself still further in
+connection with these locks and before the revolving key was
+introduced. Fig. 25B, Plate III., is a specimen of a class of keys
+frequently discovered with Roman remains, in which a plate is attached
+at right angles to the pins. This plate is pierced with slits of
+various forms, apparently intended to admit of the passage of wards
+placed vertically beneath the bolt to prevent any but the proper key
+from rising to lift the tumblers. The direction in which these keys
+were raised is shown by the flat part of the handle of the key being
+always at right angles to the pins and in the same plane as the ward
+plate.
+
+Besides the bolts with several tumbler holes in them, others adapted
+for single tumblers have been discovered. Of these fig. 26B, Plate
+III., drawn from M. LIGER'S work, and found in the forest of
+Compiegne, is an example, and fig. 27B, Plate III., from the same
+work, and found at Nonfous, in Switzerland (Bonstetten) is a key
+adapted to fit such a bolt.
+
+Other iron keys are found in England and France, the application of
+which is more doubtful. They are found chiefly in connection with
+Celtic remains, and by some have been supposed to be keys for opening
+doors fastened with a simple latch on the inside.[8] Such latches were
+certainly employed amongst the earliest systems of door-fastenings,
+and the keys in question might have served the purpose of opening
+them, but they might also have been used to open locks with a single
+wooden tumbler; the simpler kinds resemble somewhat our modern
+pick-locks, of which fig. 28B, Plate III., is a specimen. Fig. 29B,
+Plate III., in my collection is from a Germano-Roman tomb near
+Niderolm, and was obtained at Mayence; its possible use, in the manner
+represented in fig. 9B, Plate II., is obvious. Figs. 30B and 31B,
+Plate III., are two Anglo-Saxon keys found at Sarr, in Kent.[9] Figs.
+32B, 33B, Plate III., are two keys of the Iron Age from Bornholm, in
+the Baltic,[10] attributed by M. VIDEL to the 3rd or 4th century of
+our era. Fig. 34B, Plate IV., is a somewhat similar one from Caerwent,
+in Wales.[11] It has a flat handle and appears to be adapted to be
+pressed downwards as if for opening a latch. Figs. 35B, 36B, Plate
+IV., are nearly similar ones, and were discovered in the Roman Villa
+at Hartlip, in Kent.[12]
+
+          [8] Ibid., p. 320.
+
+          [9] Paper by JOHN BRENT, Esq., in the fifth volume of
+          'Archaeologia Cantiana,' p. 312.
+
+          [10] 'Memoires de la Societe Royale des Antiquaries du
+          Nord,' 1872-77, Plate VIII., figs. 1 and 2.
+
+          [11] 'Isca Silurum,' by JOHN E. LEE, F.S.A., Plate XXXVI.,
+          fig. 1.
+
+          [12] C. ROACH SMITH'S 'Collectanea Antiqua,' vol. ii., Plate
+          VI., figs. 2 and 3, p. 20.
+
+Figs. 37B and 38B, Plate IV., are from drawings taken by me in the
+Musee de Saint Germain, and were found at St. Pierre-en-Chastre, Oise;
+others are figured in M. LIGER'S 'La Ferronnerie.'[13] Fig. 39B, Plate
+IV., is in the British Museum, and was found within the entrenchments
+at Spettisbury, near Blandford; it was presented to the Museum by Mr.
+J. Y. AKERMAN. Figs. 40B and 41B, Plate IV., are two found by me in
+pits in the interior of Mount Caburn Camp, near Lewes.[14] Fig. 41B is
+of large size, 8 inches in length, and sickle-shaped. All the objects
+discovered in this camp proved it to be of the late Celtic period; the
+tin coins found associated with these remains, the bone combs,
+pottery, and other objects belong to an age anterior to the Roman
+conquest. Fig. 42B, Plate IV., is a similar one found by Mr. PARK
+HARRISON in similar pits in the neighbouring camp of Cissbury,[15] in
+Sussex, which has been shown to have been occupied by people of the
+same age as Mount Caburn, viz.: the late Celtic period. It will be
+seen that some of these keys, all of which are of iron, have a small
+return or pin at the end, which is adapted to fit into a hole, and in
+the Cissbury specimen this end is flattened, as if to enable it to fit
+an aperture of special dimensions.
+
+          [13] 'La Ferronnerie,' tome i., p. 320.
+
+          [14] 'Archaeologia,' vol. xlvi., Plate XXIV., "Excavations in
+          Mount Caburn, conducted by General PITT-RIVERS, F.R.S., in
+          September and October, 1877, and July, 1878."
+
+          [15] 'Journal of the Anthropological Institute,' vol. vii.,
+          p. 425, Plate XI., fig. 12.
+
+But for whatever purpose these crooked keys were used, whether as
+latch-keys, as keys for single-tumbler pins, or as hooks to pull back
+a plain iron or wooden bolt, the large size of some of them,
+especially that from Caburn, fig. 41B, and sickle shape, corresponds
+with remarkable accuracy to the description of a Greek key given by
+EUSTATHIUS, and quoted in PARKHURST'S 'Hebrew Lexicon.' He says that
+they were "in the shape of a sickle, and that not being easily carried
+in the hand on account of their inconvenient form they were carried on
+the shoulder, as we see our reapers carry on their shoulders at this
+day their sickles, joined and tied together." CALLIMACHUS, in his hymn
+to CERES, says that the goddess, having assumed the form of NICIPPE,
+her priests carried a key, [Greek: katomadios], that is, fit to be
+borne on the shoulder.[16] This also explains, I presume, the passage
+in Isaiah, "and the key of the House of DAVID _will I lay upon his
+shoulder_; so he shall open, and none shall shut; and he shall shut,
+and none shall open."[17] It will be seen that the specimen found by
+me in Mount Caburn corresponds exactly with the description given in
+the above quotations, the curved portion of the key being 7-1/4 inches
+in diameter, a bundle of them tied together would exactly fit the
+shoulder, as represented in fig. 43B, Plate IV. As we know from the
+researches of Mr. EVANS and others that imitations of the coins of
+Greece spread throughout Gaul and Britain, some of which, of very
+debased form and cast in tin, were found in the camp at Caburn in
+association with the sickle-shaped keys, and others have been found in
+connection with relics of the same period elsewhere, there is no
+inherent improbability in the supposition that the keys may have
+followed a like route.[18] Should further discoveries tend to confirm
+this connection, it would be a remarkable testimony to the value of
+archaeological investigation if the well-known passage in the 'Odyssey'
+about the key of PENELOPE were to find its definite interpretation on
+the shores of Sussex.[19]
+
+          [16] This passage is quoted from a paper "On the
+          Construction of Locks and Keys," read before the Institution
+          of Civil Engineers by Mr. JOHN CHUBB, April 9, 1850, and is
+          extracted from PARKHURST'S 'Hebrew Lexicon,' 5th edit., p.
+          600. London, 1807.
+
+          [17] Isaiah xxii, 22. It has been suggested that this
+          passage in Isaiah was introduced subsequently to the rest of
+          the book, and dates from a period when keys came into
+          general use amongst the Jews.
+
+          [18] Since the discovery that these objects were keys, I
+          have reason to think that other things found in the same
+          place and represented in the same plate, as for instance
+          figs. 9 and 14, may have been door fastenings.
+          'Archaeologia,' vol. xlvi., Plate XXIV.
+
+          [19] Mr. BONOMI gives an illustration of the way in which
+          the modern Egyptian keys are carried by merchants at Cairo
+          on the shoulder at the present time; these keys however are
+          straight, and are hung to a stick over the shoulder, and are
+          not sickle-shaped as described by EUSTATHIUS.
+
+
+We must now return to fig. 2, Plate I., in order to trace the third
+class, C, of locks and padlocks fastening with a spring catch. It
+seems probable that fixed locks may have preceded hanging ones,
+although, on the other hand, the want of some contrivance for securing
+property must have been felt in connection with saddle-bags, panniers,
+and other appliances of nomadic life, and in a condition of society
+which preceded the use of fixed abodes. Be this as it may, it seems
+possible to trace the employment of spring locks by means of survivals
+from the common door-bolt.
+
+The origin of the spring padlock, in the present state of my knowledge
+on the subject, is doubtful. The sequence which I here assume is only
+tentative, and it is probable that connecting links with more
+primitive contrivances may be supplied hereafter. The defect of the
+common bolt, as I have already shown, was its insecurity as an outside
+fastening; in fact it afforded no security at all, and to remedy this
+defect and make it inaccessible, except by means of a key, several
+different contrivances appear from the first to have suggested
+themselves; amongst others, one of the simplest was adopted in
+connection with the Scandinavian bolt, a specimen of which, probably a
+modern survival of an ancient form, was exhibited in the Scandinavian
+Section of the Exhibition of 1867, and is figured in M. LIGER'S
+work.[20] We must suppose the handle in fig. 2, Plate I., and its neck
+connecting it with the bolt, to be removed, leaving only the slit in
+the door along which the neck of the handle slid, and that a similar
+slit was made in the bolt also. The key, which was of iron, was
+T-shaped; it was inserted from the outside through the slit in the
+door, and in the bolt, with the arms of the T in a horizontal plane;
+it then received a quarter turn so that the arms of the T were brought
+into a vertical plane, and it was then pulled back, when the returns
+of the T were made to fit into two holes provided for them on either
+side of the slit in the bolt, on the inside, figs. 1C and 2C, Plate
+IV. By this means the key obtained a grip of the bolt, and it was only
+necessary to press it to one side in order to shoot it. This bolt,
+which is taken from M. LIGER'S work, so closely resembles the next one
+to be described, that if he had been a less careful writer one might
+suppose that it was the same lock, and that he had omitted to
+represent the spring which alone constitutes the improvement shown in
+figs. 3C, 4C, and 5C, Plate IV., which was presented to me by Dr.
+ENGELHARDT, at Copenhagen. It is still in use on barn and outhouse
+doors in Norway, and was first brought to notice by Professor O. RYGH,
+of Christiania. The key, which is of the same form as the last, enters
+the slit in the same manner, and after receiving the quarter turn is
+pressed home into the holes on the inside surface of the bolt like the
+last. In so doing, when firmly pulled back, it presses down a straight
+flat steel spring, the fixed end of which is attached to the door
+between it and the bolt, and the free end of which, when released,
+catches in a notch in the bolt so as to keep it securely in its place
+when shut. When the free end of this spring is pressed down by the
+returns of the key, it clears the edges of the notch, and the bolt can
+then be drawn back by pressing the key sideways. Both these specimens
+are therefore key-drawn as in Class B. Assuming this modern Norwegian
+lock to be a survival of an ancient form, one might naturally expect
+that the wooden portions of the ancient locks would have perished. The
+springs, which are the only metallic portions of this lock, would
+certainly become detached from the wood; their uses, when discovered
+separately, would not be recognised, and nothing to identify the
+mechanism with a door fastening would remain but the iron keys.
+
+          [20] 'La Ferronnerie,' tome ii., p. 229.
+
+We must therefore judge of the distribution of this class of lock by
+the localities in which keys of this form are found. They are of two
+kinds, one T-shaped as in the preceding examples, and the other,
+serving the same purpose, but having the two teeth on one side of the
+shank; both are found together mainly in northern countries, which
+have been subject to Scandinavian influence. Notwithstanding which,
+however, the evidence is insufficient to establish the fact of their
+being of Scandinavian origin. They appear certainly to have been used
+in Roman times in England and elsewhere, and the influence of southern
+civilization upon the Scandinavian arts of the iron age is well
+established. It is always necessary to be on one's guard against
+inferring that forms originated of necessity in the regions in which
+they are most widely distributed, for, as we have seen, and have
+reason to believe, the wooden Scotch lock was carried to the West
+Indies and used by negroes on account of the facility with which it
+was constructed and the materials of which it was composed, so in all
+ages the more simple forms of contrivances must have found acceptance
+and survived longer on the outskirts of civilization than in those
+countries in which they were quickly superseded by new improvements.
+
+Figs. 6C, and 7C, Plate IV., are iron keys of these two kinds obtained
+by me at Clermont-Ferrand, in Auvergne, France. Figs. 8C, and 9C,
+Plate IV., are two similar specimens from Colchester, which are
+figured in WRIGHT'S 'Uriconium,' where he supposes them to be latch
+keys, and he says that two similar ones were found at Wroxeter.[21]
+Fig. 10C, Plate IV., another in my collection from Jordan Hill, near
+Weymouth. Fig. 11C, Plate IV., was discovered in a Roman building at
+Caudebec-les-Elbeuf, by the Abbe COCHET, in 1864,[22] together with an
+iron lock plate, fig. 12C, Plate IV., showing the slit through which
+the key entered, and which is similar to the modern Scandinavian
+specimen above described. Figs. 13C, and 14C, Plate IV., are two
+similar specimens discovered in a Roman villa at Hartlip, in Kent, and
+are taken from ROACH SMITH'S 'Collectanea.'[23] Figs. 15C, 16C, and
+17C, Plate IV., are similar keys found in Anglo-Saxon graves at Sarr,
+in Kent, where the presence of these keys on the left side of the
+skeleton usually denoted a female grave.[24] A similar occurrence of
+keys in the graves of females has been noticed in the Island of
+Bjoerkoe. According to an old Scandinavian custom they were the badges
+of the lady of the house, who was said to be married to lock and keys,
+and from certain law texts of the Middle Ages, it appears that two of
+them were suspended from the girdle.[25] Keys of this shape of both
+bronze and iron were found at Sarr, corroded together. It is worthy of
+remark that in these Saxon graves some fragments of Roman pottery were
+found, pointing to the influence of the earlier Roman period. Fig.
+18C, Plate IV., is a bronze key from Gotland, and is taken from Mr.
+MONTELIUS'S 'Antiquites Suedoises,'[26] where it is described as being
+of the late iron age, perhaps as late as the 10th century. Figs. 19C,
+and 20C, Plate IV., are from Bjoerkoe, in the Gulf of Bothnia, found in
+association with relics of the 8th century of our era.
+
+          [21] 'Uriconium,' by T. WRIGHT, p. 270; see also
+          'Archaeologia Cambrensis,' vol. vi., 1860, p. 312.
+
+          [22] 'La Seine Inferieure,' by M. L'Abbe COCHET, p. 223.
+
+          [23] 'Collectanea Antiqua,' vol. ii., Plate VII., figs. 2
+          and 4.
+
+          [24] Paper by J. BRENT, 'Archaeologia Cantiana,' vol. vi., p.
+          175, vol. vii., Plate XIII.
+
+          [25] 'Scandinavian Arts,' by HANS HILDEBRAND, p. 129.
+          Amongst the Romans also keys were regarded as the symbol of
+          the wife's authority in her husband's household.
+
+          [26] 'Antiquites Suedoises,' p. 145.
+
+Whether or not the lock which has been described in the preceding
+paragraph was the origin of the spring padlock, constructed entirely
+of metal, may perhaps be doubtful; but it is evident that the
+principle of its construction was the same. In both systems the bolt
+was secured by the end of a spring catch. It is only necessary to
+transfer the fixed end of the spring from the door to the bolt, and
+the notch from the bolt to the door, to make it resemble the spring
+catch of the Roman padlock about to be described.
+
+The Roman iron padlock and key represented in figs. 21C to 22C, Plate
+V., which is put together from specimens in my collection obtained
+partly from Jordan Hill, near Weymouth, and other sources, consisted
+of a square box, having a bar, _d_, on the top, and parallel to it,
+which was attached to one end of the box by means of a curved portion.
+The bolt _a_ was provided with two perpendicular bars, _b b_, at the
+end of which were rings, _c c_, which slipped on to the parallel bar
+_d_. At the end of the bolt were two or more catch springs, _e_, put
+on like the barbs of an arrow. These, being placed into the hole of
+the tube _f_, at the same time that the rings were slipped along the
+bar, collapsed and sprung open again, after having passed the opening,
+thereby fixing the bolt in the tube. To open the lock, a pin or key,
+_g_, having a return at the end, in which was a slit made to fit the
+springs, was pressed in at the opposite end, so as to close up the
+springs, after which the bolt could be drawn out of the box. This
+action is better shown in the succeeding examples of modern spring
+locks of the same kind. The case of a similar padlock to the above was
+found with Roman remains at Irchester, near Wellingborough,
+Northampton, by the Rev. R. BAKER, in 1878, and is figured in the
+Associated Architectural Society's Reports, vol. xv., plate iv., 1879.
+
+This padlock was therefore a hand-drawn, and not a key-drawn, lock.
+Its origin is at present uncertain, but it is here no doubt
+represented in its more complete and developed state, after having
+already undergone prior modifications. The absence of simpler
+contrivances of the same kind suggests the inference that its
+forerunners may have been made of perishable materials. Be that as it
+may, its progress onward from this point of perfection can be traced
+with some degree of certainty. Already in Roman times it had undergone
+changes. Amongst the Roman antiquities discovered in 1854 by the
+Honourable RICHARD NEVILLE (since Lord BRAYBROOKE), at Great
+Chesterford, in Essex,[27] were two kinds of this padlock: one,
+represented in fig. 23C, Plate V., is of the form already described;
+the other (figs. 24C and 25C, Plate V.) was constructed on what,
+judging by those which succeeded it, must probably have been regarded
+as an improved form, or it may have been merely adapted to a different
+purpose. The bolt _a_, instead of having perpendicular bars and rings
+to slip over the parallel bar, was simply a plain straight bolt with
+the catch springs attached to it. The horizontal parallel bar of the
+lock, after passing along the top of the box or tube, was curved down
+over the mouth of the lock, at a short distance from it, and
+terminated in a ring, leaving a space between it and the mouth of the
+tube to admit of the passage of the chain or staple, or whatever was
+intended to be secured by means of the padlock, as shown in fig. 25C,
+Plate V. The bolt was slipped through this ring, and on into the tube,
+the barbed springs flying out and catching after they entered the box,
+so as to fill up this space and secure the bolt, which was opened and
+withdrawn in the same manner as before, as shown in fig. 24C, Plate V.
+
+          [27] 'Archaeological Journal,' vol. xiii., p. 7, Plate II.,
+          figs. 24 to 27.
+
+A further modification of this takes place in the Swedish padlock,
+figs. 26C and 27C, Plate V., in which the parallel bar _d_, instead of
+being a fixture, is made to turn upon a hinge at _h_. When shut, the
+other end of the bar, instead of coming down over the mouth of the
+tube, and at a distance from it, as in the preceding example of a
+Roman padlock, is made to enter the side of the tube at _j_, and the
+bolt passes through the ring of the bar, after entering the mouth of
+the lock and inside, instead of outside of it. By this means we arrive
+at the ordinary hinge of the padlock which with further modification
+of form and mechanism is in use on carpet bags in this country at the
+present day. This Swedish spring padlock was in use in Scandinavia
+until towards the end of last century. There is one in the Museum at
+Kiel, which was found with iron spear-heads of the 11th century;
+others are attributed to the 15th century in that country. Figs. 31C
+and 32C, Plate V., is a specimen of an English fetterlock of the same
+construction as the Swedish one, obtained at Epping, near London, and
+we have evidence that a lock constructed on this principle continued
+in use throughout the Middle Ages. In 1829 a fragment of an iron
+padlock, consisting of the tube or box with its parallel bar attached
+to it, was found in association with some extended skeletons at
+Lagore, near Dunshaughlin, in the county of Meath, in Ireland. It is
+figured in the sixth volume of the 'Archaeological Journal,' where it
+is described as an iron pipe, its use being apparently unknown to the
+writer. It was found in connection with iron leaf-shaped spear heads,
+broad double-edged swords, bronze pins, and enamelled ornaments, and
+the post-Roman period of the find is attested by the presence of the
+fallow deer amongst the associated animal remains. Figs. 28C, 29C,
+30C, Plate V., is a Russian bronze padlock, believed to date between
+the 1st and 4th centuries, greatly resembling the Oriental ones to be
+hereafter described. It is in the Museum of St. Petersburg, and is
+copied from M. LIGER'S work. Fig. 33C, Plate V., is a fragment of one
+containing the springs and curved bar, found by me in excavations made
+in the Norman Camp at Folkestone. It was discovered in the body of the
+rampart, and in a position to prove that it was of the age of the
+construction of the camp, or of the period of its early
+occupation.[28] Fig. 34C, Plate V., is a later example very much
+resembling the Russian padlock, fig. 29C, Plate V., and of the same
+kind as the last. The curved bar of the bolt fits into a socket in the
+parallel bar, in which respect it resembles some of the Indian ones to
+be hereafter described. It was found at Swanscombe, in Kent, and is
+probably of the 15th century. It is extracted from the 'Archaeological
+Journal.'[29] Part of a padlock similar to this was lately found by
+Mr. JAMES WILSON in the ditch of Bedford Castle, and was exhibited at
+the Society of Antiquaries. Another similar one was found near
+Devizes, and is figured in Dean MEREWETHER'S 'Diary of a Dean,' fig.
+18. Both of these last, like the Russian bronze one, represented in
+fig. 29C, are ornamented on the outside of the case with lines of
+zigzags, resembling Norman tracery; and coupled with the precise
+resemblance in the construction of the locks, this ornamentation
+appears to prove an eastern connection during the first four centuries
+of our era. The fetterlock figures as the badge of the family of the
+LONGS of Wraxall, dating from the 15th century, and it is at the
+present time the badge of the 14th Company of the Grenadier Guards, an
+illustration of which is given in the accompanying woodcut. It was one
+of the badges assumed by EDWARD IV., and an account of it is given in
+Sir F. HAMILTON'S history of that Regiment.[30]
+
+          [28] 'Archaeologia,' vol. xlvii.
+
+          [29] 'Archaeological Journal,' vol. xxxi., 1874, p. 78.
+
+          [30] 'History of the Grenadier Guards,' by Lieut.-General
+          Sir F. HAMILTON, K.C.B., vol. i., p. 61.
+
+[Illustration: Badge of the 14th Company Grenadier Guards.]
+
+All the spring padlocks hitherto described have the defect of being in
+two parts; the bolt, being entirely detached from the tube when open,
+was liable to be lost, and to remedy this defect, modifications were
+introduced by which the bolt became a fixture in the tube and was
+opened by means of a key.
+
+Fig. 35C, Plate V., is a lock which I found attached to one of my
+gates at Rushmore, in South Wilts. Externally, it exactly resembles
+the spring fetterlock, but within, the bolt which fixes the
+semicircular bar in its position when locked, is retained there by a
+spiral spring. To unlock it, a key with a female screw is put in at
+the end in the same position as the key of the Roman lock, and after
+seizing the male screw within, the bolt is screwed back against the
+spring, thereby releasing the semicircular bar or staple, which is
+then turned upon its hinge and drawn out of the opening on the side of
+the tube.
+
+Fig. 36C, Plate V., is a precisely similar lock from Paris. Fig. 37C,
+Plate V., is another from Germany. Our modern handcuffs retain the
+form of the fetterlock, having the tubular case for the lock, which
+otherwise is not precisely the form most suitable to fit the human
+wrist. Fig. 38C, Plate V., is a section of an old handcuff obtained in
+Wiltshire, the bolt of which is forced out of the eye, not by means of
+a screw, but by a key of the ordinary form of a door key, inserted in
+the side of the tube, which when turned forces the bolt back against
+the spiral spring and releases the semicircular bar.
+
+Whilst in some of the more modern contrivances the external form of
+the Roman spring padlock was retained, the interior mechanism having
+undergone changes, in others the interior mechanism is retained, the
+external form having adapted itself to the more modern uses. Figs.
+39C, 40C, and 41C, Plate VI., is an old padlock which I obtained in
+Paris, the date of which I have been unable to determine, but a
+precisely similar one is attached to the iron chest of the Royal
+Society, which was presented to the Society in the year 1665, and for
+the knowledge of which I am indebted to Dr. JOHN EVANS, F.R.S., the
+Treasurer of the Society. Externally it resembles the modern padlock,
+but both ends of the semicircular staple are provided with springs on
+the principle of the Roman padlock. It is opened by means of a
+revolving key of modern form, which is inserted into the side of the
+padlock, and which, when given a quarter turn presses back the three
+springs upon the bolts, and the staple is then withdrawn bodily from
+the body of the lock. In this case, the staple, being quite separate
+from the lock, would be liable to be lost, as with the spring of the
+Roman padlock; so to remedy this defect we see in figs. 42C and 43C,
+Plate VI., obtained at Clermont-Ferrand, in Auvergne, an improvement
+in which one of the arms of the staple passes down through the padlock
+and out at the bottom of it, where it terminates in a button, intended
+to prevent its being drawn entirely out and separated from the lock.
+The other arm is furnished with a spring as in the last example and,
+like it, is opened by a revolving key. When the spring is pressed back
+it is drawn out and merely turned upon its longer arm as a pivot.
+
+Up to this point I have endeavoured to trace the gradual development
+of the European padlock from the earliest contrivance of Roman times
+up to the present time. In order to show its distribution and the
+varieties it has undergone in other parts of the world we must now
+return to the spring padlock in its earliest form. Figs. 44C, 45C, and
+46C, Plate VI., represents an iron padlock from the Gate of Moultan,
+in India, now in the India Museum. It is in all respects similar to
+the Roman lock shown in figs. 21C to 23C, Plate V., and needs no
+further description. Figs. 47C and 48C, Plate VI., is a padlock
+obtained by me of a vendor of old iron in the streets of Cairo in
+1881. It is constructed on precisely the same principle as the last,
+and is opened by a key thrust in longitudinally at the end of the
+tube, like the Roman key, but the opposite end of the bolt instead of
+being guided by a ring slipping along the parallel bar of the lock is
+curved round and inserted into a tube or socket in the parallel bar,
+like the Russian specimen and that from Swanscombe, in Kent. Figs. 49C
+and 50C, Plate VI., is another specimen obtained by me at Cairo; it
+also resembles the Roman lock in its construction, except that the key
+instead of being thrust in at the end of the tube is put in underneath
+at right angles to the tube, and having enclosed the springs by means
+of an opening cut in the side of the key, in order to compress them,
+it is thrust sideways along the tube, the neck being guided by a slit
+along the bottom of the tube. Figs. 51C and 52C, Plate VI., shows
+another specimen in my possession from India, which so precisely
+resembles the last that one is tempted to suppose they must both have
+been made in the same place, were it not for certain peculiarities
+which identify it as Indian. The key in closing on the springs is
+guided by two slits along the bottom of the tube instead of one, and
+beneath the tube is a projecting piece in the form of a Greek cross
+which fits into corresponding slits in the key so that none but the
+proper key can pass by it to compress the springs. This contrivance is
+therefore of the nature of a ward. Figs. 53C, 54C, and 55C, Plate VI.,
+is another from India, now in the India Museum, the locality of which,
+viz., Myhere, is attached to it. Figs. 56C and 57C, Plate VI., is an
+Egyptian manacle in my collection fastened in the same manner. Figs.
+58C, 59C, and 60C, Plate VII., is a similar lock from Abyssinia, now
+in the British Museum, affording additional evidence that the key,
+with the lateral movement inserted at right angles to the lock, is
+African as well as Indian. Two padlocks precisely similar to this are
+in my collection from Mogadore, on the West Coast of Africa, having on
+them the peculiar Moorish ornamentation in brass which is
+characteristic of that country.
+
+We have now to go to China for evidence of the continued distribution
+eastwards of this particular kind of spring padlock with the lateral
+key. Figs. 61C, 62C, and 63C, Plate VII., is a brass Chinese padlock
+and key in my collection. To the north of India we have figs. 64C,
+65C, 66C, 67C, Plate VII., representing a padlock from Yarkand
+obtained by Sir DOUGLAS FORSYTH, and now in the India Museum. It has
+also the key with the lateral action. Mr. THOMAS WRIGHT says that he
+possesses a similar padlock, given him by the British Vice-Consul at
+Jacmel, and obtained from Hayti, which he says was probably a century
+old, and either made in one of the Spanish colonies or imported from
+Spain.[31] Sir GARDNER WILKINSON also mentions one from Meroe Island,
+in Egypt,[32] and Mr. H. SYER CUMING speaks of one as having been
+obtained in Western Africa, but the locality is not stated.[33]
+
+          [31] 'Excavations at Wroxeter and Uriconium,' by T. WRIGHT,
+          F.S.A., p. 273.
+
+          [32] 'Caillaud, Voyage a Meroe,' Plate LXVI., Sir G.
+          WILKINSON, vol. i., p. 355.
+
+          [33] "History of Keys," by H. SYER CUMING, Esq., 'Journ.
+          British Archaeological Association,' vol. xii., p. 117. The
+          keys of this description mentioned in the paper as having
+          been found at Thebes are in all probability modern, judging
+          by their entire resemblance to modern forms.
+
+In order to show the modifications that this lock has undergone during
+its eastern migrations, I have represented (figs. 68C, 69C, and 70C,
+Plate VII.) a steel lock from Indore, India. It is furnished with a
+staple with two arms like the European specimen, fig. 39C, Plate VI.,
+one of which only has springs attached to it; it is now in the India
+Museum. Figs. 71C, 72C, 73C, 74C, Plate VII.--also in the India
+Museum: the bolt with its springs is attached to plates forming an
+outside casing to one side of the lock, by which means the opening is
+concealed, and the opening for the key is also concealed in a casing
+for the other side, and opens also with a catch spring released by the
+pressure of a straight pin or wire introduced through a hole beneath
+the lock. Figs. 75C, 76C, and 77C, Plate VIII., is another variety,
+from Burmah; the key is introduced at the end of the tube by means of
+a male screw, formed somewhat like the propeller of a screw steamship.
+This screw is merely for the purpose of introducing the key into the
+tube by a half-twist; once in, it is pressed straight forward, and
+compresses the springs in the usual manner. Fig. 78C, Plate VIII., is
+the opening and key of a similar lock obtained by me in Nuremberg. It
+is constructed precisely on the same principle as the last, and with a
+similar object; it has all the appearance of being European, but I
+have no certain evidence that it may not have been imported from
+India. In figs. 79C, 80C, and 81C, Plate VIII., from Indore, India, we
+see the screw principle developed. Whether this originated in a lock
+of the last-mentioned form--and the screw, from having at first been
+used as a ward, was ultimately employed to release the bolt by a screw
+motion--I know not; but it exactly resembles in its construction the
+lock shown in fig. 35C, Plate V., from the gate at Rushmore, Wilts,
+and those of like form from France and Germany already figured and
+described. The bolt is retained in its place when locked by a spiral
+spring, and withdrawn by a screw key inserted at the end. Whether this
+is an independent growth in the two hemispheres, or copied the one
+from the other, I have no present means of determining. Unfortunately,
+when the objects in the India Museum at South Kensington were
+transferred from the old India Museum their history was lost; but I
+have figured none except those which have the localities attached to
+them. Figs. 82C, 83C, and 84C, Plate VIII., is a steel lock from India
+of similar external form to fig. 71C, Plate VII.; but the screw
+principle appears here to have entirely superseded the spring, which
+is altogether wanting, and it is dependent for its action entirely on
+a screw key inserted at the end, and by means of which the bolt (which
+itself formed the staple) is screwed up or screwed back again as
+required. As a parallel to this, the specimen in my collection
+represented in figs. 85C, 86C, 87C, 88C, and 89C, Plate VIII., may be
+given. It was obtained by me in Brussels, and resembles the tubular
+lock only in external form. The staple is secured to the tube at each
+end by eyes let into the side of the tube, through which a pin is
+passed, and screwed up or unscrewed by a key put in at the end of the
+tube. When unscrewed the pin is withdrawn and the staple taken out
+bodily. In this, as in the Indian specimen last described, the
+original spring mechanism has entirely disappeared; but, although
+resembling each other in this respect, there is nothing analogous in
+the two systems, which, from differences in the details of their
+construction, appear to be quite independent contrivances. Figs. 90C,
+91C, and 92C, Plate VIII., represent a padlock and key from Toomkoor,
+Mysore, India. It is a barbed spring padlock of the ordinary kind, but
+the springs are closed preparatory to being withdrawn by means of a
+common revolving key inserted in the side and having a broad slit in
+the middle of the revolving plate. By giving the key a quarter-turn
+the slit in the key-plate compresses the springs, and they are then
+withdrawn from the lock. The action of the key in this specimen
+resembles exactly that of the padlock from Paris (fig. 39C, Plate VI.)
+and that of the Royal Society chest, except that in the Paris and
+Royal Society specimens two springs are compressed by means of a solid
+plate, whilst in the Toomkoor example a single-barbed spring is
+compressed by the action of a slit in the key. Barbed tubular spring
+locks of precisely the same form as the Chinese ones are also used in
+Japan, of which figs. 93C, 94C, 95C, and 96C, Plate IX., represent a
+specimen in my collection. Of these, some of the keys entered at the
+end of the tube; others are put in at the side, as shown in fig. 97C,
+Plate IX. The key, which, like the lock, is of brass, is placed in a
+handle, which shuts up like the handle of a knife (as shown in fig.
+96C, Plate IX.) for convenience of transport. Another specimen from
+Japan (represented in figs. 98C and 99C, Plate IX.) resembles exactly
+the Toomkoor specimen from India, the springs being compressed by
+means of a revolving key. This must certainly be regarded as the first
+stage of improvement upon the original Roman lock, and its employment
+in Europe, India, and Japan is noteworthy.
+
+Amongst the specimens of these tubular spring locks, which appear to
+show evidence of connection over wide areas, are those which are
+constructed in the forms of animals. Figs. 100C and 101C, Plate IX.,
+is a representation of a bronze padlock in the form of a fish, now in
+the Louvre, at Paris, figured by M. LIGER. It is there described,
+though not without hesitation, as an Egyptian lock; if so, it is
+probably of the Romano-Egyptian period: the springs enter at the mouth
+of the fish, and are released by a key put in at the tail. Figs. 102C,
+103C, 104C, Plate IX., represents a precisely similar fish-shaped
+padlock of iron from India, and now in the India Museum. Figs. 105C
+and 106C, Plate IX., is a Roman bronze lock in the form of a lion or
+horse, in the possession of Dr. JOHN EVANS, F.R.S., and here copied by
+his permission; a similar one is in the British Museum. Figs. 107C,
+108C, and 109C, Plate IX., is another, also in the form of a lion, and
+about the same size, from China, in the collection of Mr. CHUBB, the
+well-known locksmith. In all these the springs enter at the stern of
+the animal, and the other end of the bolt turns up and back in the
+form of a tail, and enters the neck of the animal behind the head. The
+key in the Chinese specimen has a peculiar secret contrivance to
+prevent its being inserted in the hole for it by anyone not acquainted
+with its construction. The head of the key will not enter the keyhole
+unless the handle end is put in first and slipped along the shank of
+the key, as represented in the drawing, fig. 109C, Plate IX. Mr.
+ROMILLY ALLEN, whose work on Scotch wooden tumbler locks I have
+already quoted, refers incidentally in his paper to spring locks, and
+says that he has himself seen them used in Persia in the forms of
+animals. We are thus led to infer that the practice of making them in
+these forms may have existed, or may still exist, continuously
+throughout the region referred to, and that, like the mechanism
+itself, and like many other articles of commerce, they may have passed
+by traffic from place to place, and been copied and adopted in the
+localities in which they are found. Fig. 110C, Plate IX., is a padlock
+obtained by me at Cairo; similar ones are in common use on out-houses
+at Naples, the long bar at the top denoting its descent from the Roman
+padlock, although the construction of the lock is different.
+
+We now come to the principle of the revolving key in common use at the
+present time. It has been already shown that in using the Roman lock
+(figs. 15B to 20B, Plate III.) the part of the key containing the pins
+had to be put in vertically, and then turned a quarter circle, so as
+to bring the teeth horizontally beneath the tumblers previously to
+lifting them. It is possible that this may have suggested the first
+idea of employing the twist thus given to the key to the shooting of
+the bolt. Fig. III, Plate IX., taken from M. LIGER'S work,[34]
+represents a Roman key found in London; it has a plate furnished with
+teeth, evidently intended to raise tumblers, and the stem of the key
+is piped for the purpose of fitting into a broach or pin, so that the
+plate with the teeth, when the key is turned round on its pivot, may
+fit into its proper place beneath the bolt and raise up the tumblers.
+Fig. 112, Plate IX., is a drawing of another key similarly formed,
+having two teeth and a piped stem; it was found in Lothbury, in
+London, 16 feet beneath the surface, and is figured in Mr. SYER
+CUMING'S paper on keys in the 'Journal of the Archaeological
+Association.'[35] These keys appear hardly to admit of any doubt as to
+their mode of use, and may therefore be regarded as the earliest
+specimen of revolving keys, although applied to a different purpose
+from the revolving key of our own time. The most primitive kind of
+lock with a revolving key that I have met with is one represented in
+figs. 113, 114, 115, 116, Plate X. It is from India, and is in the
+India Museum. The key is applied to a square vertical tumbler of the
+Scandinavian type with two arms to fit into two notches in the bolt;
+the lower end of the tumbler terminates behind the bolt, in a
+semicircular form; the key, when turned upon its broach or pin, as the
+case may be, impinges upon the sides of the semicircular portion and
+raises the tumbler out of the notches on the top of the bolt, and
+afterwards the end of the key-plate passes into one of a series of
+notches on the under side of the bolt and moves it, whilst the tumbler
+is, at the same time, raised clear of the bolt. The key being turned
+several times continues the movement, pushing the key forward notch
+after notch, until the tumbler again falls into other holes provided
+for it, and keeps the bolt secure. All here is of wood, except the
+key, which is of metal, and it is provided with slits to pass the
+wards, adjusted to them in the revolution of the key-plate upon its
+pivot. It might be supposed from this that it was a modern adaptation
+to an ancient system of vertical tumblers, had not a very similar, but
+simpler, lock existed in China. The drawing (figs. 117, 118, 119, 120,
+121, Plate X.) of a Chinese lock was kindly sent me by Mr. ROMILLY
+ALLEN. In this specimen the bolt is shot in nearly the same manner as
+the last specimen, but the tumblers are raised independently by means
+of a T-shaped key (fig. 121, Plate X.), similar to that used with the
+Scandinavian lock (fig. 3C, Plate IV.). The key from the outside is
+put into the vertical slit between the tumblers, when it is turned a
+quarter circle so as to bring the arms of the T in a horizontal plane.
+It is then pressed back, when the returns of the T enter notches
+provided for them in the tumblers. The tumblers are then raised, and
+the key or handle, _a_, turned. From the inside the tumblers are
+raised with the two fingers before shooting the bolt.
+
+          [34] 'La Ferronnerie,' tome ii., p. 236, fig. 492.
+
+          [35] 'Journal of the Archaeological Association,' vol. xii.,
+          p. 121, Plate XIV., fig. 1.
+
+M. LIGER supposes that the lifting key of the Roman lock was of
+Asiatic origin, and that the revolving key came into use amongst the
+Romans about the commencement[36] of our era, and many of the keys
+from Pompeii are constructed on this principle having slits for the
+passage of wards. Fig. 122, Plate X., is a Roman key of this kind in
+my collection. The ward system came into general use afterwards and
+was much relied upon to the exclusion of others in the Middle Ages.
+The ward system may be defined as a system of lock in which
+obstructions are placed to prevent any but the proper key from
+entering to turn the bolt; as such it is distinct from the tumbler
+system, in which security depends on obstruction introduced to prevent
+the bolt from being drawn by the key. The tumbler is, in fact, a bolt
+of a bolt. Reference to fig. 10B, Plate II., representing the Egyptian
+lock, will show that besides the two pins with which the key is
+provided for lifting the tumblers, there is a pin attached to the
+under side of the lock opening, which enters a hole in the key. This
+is of the nature of a ward, since none but a key with a hole in the
+proper place could be raised up high enough to lift the tumblers clear
+of the holes in the bolt. Mr. ROMILLY ALLEN also mentions that in one
+of the Scotch locks from Snizort, a notch is placed in the key and a
+corresponding pin in the lock, to prevent the lock from being picked,
+and that the key-hole is divided by a thin iron plate which is the
+only thing approaching a ward that appears in any of the wooden locks
+of Scotland. The peculiar shape of the tumblers and tumbler-holes in
+the bolts of the Roman lock, already described, with teeth made
+especially to fit them, must be regarded as a kind of ward, although
+applied to tumblers, since their object is to prevent any but the
+proper form of key from entering.
+
+          [36] 'La Ferronnerie,' tome i., p. 264.
+
+The further development of the ward-system in the Roman tumbler-locks,
+though it certainly existed, is involved in uncertainty, since none of
+the wards appear to have been preserved, but the fact of some kind of
+ward having been used is evident from the slits in the keys
+represented in fig. 122, Plate X., which are of common occurrence. The
+cross-shaped wards beneath the Indian spring padlock already described
+in connection with figs. 53C, 54C, and 55C, Plate VI., must certainly
+be considered to be wards, although open to view, and not concealed
+beneath the lock-plate. There are also found in association with Roman
+remains, keys of which fig. 123, Plate X., from Chalons, fig. 124,
+Plate X., from the Museum at Saumur, and fig. 125, Plate X., from the
+Museum at Saint Germain, are examples.[37] These keys so greatly
+resemble the Asiatic keys used with the spring padlock, that it is
+difficult to believe they were not employed in the same way, but as
+they also resemble the Roman perforated plates of the tumbler-lock
+keys that are provided with teeth, it is probable they may have been
+intended for raising tumblers in some way not yet explained. No
+tubular spring lock adapted to be opened with a key inserted
+underneath, and opened with a lateral movement like the Indian and
+Egyptian ones, has to my knowledge been found amongst Roman remains.
+Fig. 126, Plate X., is a modern English latch-key of similar form,
+furnished with a ward-plate and used for raising a common latch: they
+are now generally disused, from being unsafe. With the revolving keys
+resembling the modern form, found at Pompeii and elsewhere, slits for
+fixed wards are common, and show that the Roman keys of the
+commencement of the present era resembled our own. During the Middle
+Ages reliance was placed almost entirely on the ward system, and many
+complicated contrivances were introduced, of which fig. 127, Plate X.,
+is a specimen, until the close of the last century, when their
+insecurity led to the re-introduction of tumbler-locks.
+
+          [37] 'La Ferronnerie,' tome ii., Plate LV., E, G, K, p. 238.
+
+It is not known exactly when this took place, but probably at some
+time during the 18th century, and possibly earlier. This time, the
+tumblers instead of being vertical (as was the case during what may be
+called the early tumbler period) were horizontal, resting on a pivot
+above the bolt and kept down by a spring. Figs. 128, 129, and 130,
+Plate X., is a tumbler lock in the possession of Mr. CHUBB, found
+whilst repairing an old house at Funtley, Hants, said to be 200 years
+old. If so it must be regarded as the earliest specimen of the second
+tumbler period. The tumbler moves on a pivot, and is kept down by a
+spring, the revolving key raises the tumbler by pressing up the curved
+bar attached to it, which raises the stud of the tumbler out of the
+notch provided for it on the upper side of the bolt, thereby freeing
+the bolt, so that by further turning the key it is enabled to shoot
+the bolt. The tumbler, it will be seen, cannot be raised too high. If
+the plate of the key is long enough to raise the stud of the tumbler
+out of the notch, a key with a longer plate will answer the same
+purpose. To remedy this defect and necessitate the employment of a key
+of exactly the proper size, Mr. BARRON, about the year 1778,
+introduced an improvement known by his name, represented in fig. 131,
+Plate X., in which the bolt is provided with a slit along the middle
+just wide enough to allow the stud to pass; the slit has notches both
+above and below, so that if the stud is raised too high by a key with
+too long a plate it is forced into the upper notch and the bolt
+continues immovable. He also introduced two tumblers requiring to be
+raised to different heights in order to coincide with the slit in the
+bolt by means of different projections on the edge of the key plate,
+so that the bolt could only be shot by means of a key with a plate
+expressly constructed to fit the lock, and having two projections of
+the requisite length. This principle of employing two or more tumblers
+is the one on which nearly all subsequent improvements have been
+effected. Those who desire to prosecute the subject further will find
+a variety of modern tumbler locks in my collection introduced during
+the latter half of the last and commencement of the present century.
+They are all, in the main, varieties of one principle, terminating in
+the CHUBB and HOBBS locks of the present time. As this paper relates
+only to primitive locks I do propose to describe them here. The
+continuity which pervades all the ramifications of the modern lock is
+not less complete than in the earlier forms, and would well bear
+treating in the same manner as those which I have described. The
+Bramah lock, though in external appearance differing from the others,
+is no less based upon the earlier forms, and may be described as a
+union between the _ward_ and the _tumbler_ systems. It is a ward
+system, because the obstructions introduced into the mechanism are
+intended to prevent the turning of the key to shoot the bolt by any
+but a key of the proper construction. It is a tumbler system because
+the impediments so placed upon the turning of the key are in fact
+tumblers packed round the cylinder of the key (retained by springs),
+and allowing the passage of the key-plate only when pressed down to
+the various depths to which each separate tumbler is adapted in order
+to provide an open passage for the key-plate all round. This union of
+ideas developed separately in different branches of the same trade,
+device or industry, corresponds to the crossing of individuals and
+breeds in nature, which is so necessary to reproduction. The analogy,
+as I have already intimated elsewhere, might be carried even further
+and closer if space permitted. It is a necessary condition of the
+absence of creative power in nature, and applies equally to all the
+processes of evolution whether of species or of ideas, but the subject
+requires broader treatment than can be given to it here. My object in
+writing this paper being to trace the development of particular forms
+rather than to generalise, I must leave the philosophy of the subject
+for separate treatment.
+
+From the foregoing description of the various kinds of primitive locks
+in use in different countries it will, I think, have been made evident
+that some of them most certainly have been derived from a common
+centre. The wooden key-drawn pin-locks have spread over the region
+extending from Egypt to Yarkand. The Scandinavian wooden locks of the
+same kind, though differing in the details of their construction, we
+have seen are common to Norway and Scotland, and by some means have
+been carried to the West Indies and British Guiana, whilst the tubular
+spring padlock of the Roman age in Europe is the same that is found
+throughout the whole region extending from Italy to China and Japan on
+the east, northward into England and Scandinavia, southward into
+Abyssinia, and westward into West Africa and Algeria, Spain, and on as
+far as the West Indies.
+
+It is sometimes thought when simple contrivances such as weapons of
+stone and bronze, some of the simpler kinds of ornaments, and of tools
+obviously adapted to primeval life are found to extend over wide
+areas, and in places very remote from one another, that the few ideas
+necessary for the construction and use of them might easily have
+suggested themselves independently in different places. To the student
+of primitive culture who has become impressed with the persistency of
+art forms, this independent origin of such things does not appear so
+certain even in the case of the most simple contrivances. But when we
+come to a complex piece of mechanism, such as a spring padlock having
+several parts--the spring, the case, the parallel bar, and the key, in
+all of which the resemblance is maintained in distant countries, and
+which, with slight modification and continuously progressive
+improvements, are put together in the same manner in all parts of the
+world--such a supposition cannot be admitted, the necessity for a
+common origin is apparent, and the study of the periods and the
+circumstances connected with the distribution of it cannot be set
+aside as superfluous.
+
+Assuming that the tumbler pin-lock and the spring padlock cannot be
+traced back earlier in Europe than the commencement of our era, it is
+by no means certain that they may not have existed earlier elsewhere.
+The commerce carried on with the East in early times was of a nature
+to render it very probable that any contrivance for securing goods
+should have spread from place to place with the merchandise exported
+and imported between China, India, and Europe. A brief survey of the
+trade relations between different countries will be sufficient to show
+this.
+
+The expedition of ALEXANDER gave rise to intercourse which was kept up
+by the Greek kingdom of Bactria, and recent Indian discoveries both of
+coins and sculptures prove more and more the great influence which
+Greek art exercised in India up to the commencement of our era. STRABO
+says that, about B.C. 22, NICOLAUS DAMASCENUS fell in with three
+Indian ambassadors at Antioch Epidaphne on their way to the Court of
+AUGUSTUS, and that their credentials were in the Greek language.
+DIODORUS quoting IAMBULUS speaks of King PALIBOTHRA in the early part
+of the 1st century as a lover of the Greeks. DIO CHRYSOSTOM mentions
+that the poems of HOMER were sung by the Indians, and AELIAN says that
+not only the Indians but the kings of Persia translated and sang them.
+If the travels of APOLLONIUS and DAMIS are to be credited, the Greek
+language was spoken in the Punjaub in the first half-century of our
+era, and frequent intercourse appears to have taken place between that
+country and Egypt.[38] PLINY in the 1st century A.D. says, on the
+authority of VARRO, that under the direction of POMPEY it was
+ascertained that it took seven days to go from India to the River
+Icarus, believed to be the modern Roscha, in the country of the
+Bactri, which discharges itself into the Oxus, and that the
+merchandise of India being conveyed from it through the Caspian Sea
+into the Cyrus, might be brought by land to Phasis in Pontus in five
+days at most.[39] The best steel used in Rome was imported from
+China.[40] ARRIAN, in the 2nd century A.D., speaks of a frequented
+way, [Greek: leophoros odos], extending in the direction of India
+through Bactria; after which four embassies from the East are noticed
+by ancient writers, one to TRAJAN, A.D. 107; another to ANTONINUS
+PIUS, A.D. 138-161; a third to JULIAN, A.D. 361; and the fourth to
+JUSTINIAN, A.D. 530. These are but scant memorials of an intercourse
+which must have been frequent between India and Rome, and which
+reached its highest development during the reigns of SEVERUS and
+CARACALLA, in the commencement of the 3rd century A.D.
+
+          [38] 'The Indian Travels of Apollonius of Tyana,' by OSMOND
+          DE BEAUVOIR PRIAULX.
+
+          [39] PLINY, Book vi., chap. 19.
+
+          [40] 'Ancient Bronze Implements,' by JOHN EVANS, D.C.L.,
+          &c., p. 19; PLINY'S 'Nat. History,' Book xxxiv., chap. 41.
+
+Turning now to the southern route of communication with India, PLINY
+describes Taprobane (Ceylon), and mentions an embassy sent from thence
+to the Emperor CLAUDIUS. The discovery of the monsoons during the 1st
+century was the means of creating a great trade between India and
+Alexandria. STRABO says that in the time of the PTOLEMIES some 20
+ships only ventured upon the Indian seas, but that this traffic had so
+greatly increased that he himself saw at Myos Hormos, on the Arabian
+Gulf, 120 ships destined for India. PLINY gives in detail the route
+from Alexandria to India in his time, and says that it was well worthy
+of notice because in each year India drained the empire of at least
+550 sestertii, estimated at L1,400,000 of English money, giving back
+in exchange her own wares, which were sold at fully one hundred times
+their original cost, and he says that the voyage was made every year
+by the following route:--Two miles distant from Alexandria was the
+town of Juliopolis, supposed to be Nicopolis. The distance from thence
+to Coptos up the Nile was 308 miles, and the voyage was performed with
+a favourable wind in 12 days. From Coptos the journey was made on
+camels to Berenice, a seaport on the southern frontier of Egypt, 257
+miles, in another 12 days. Here the passengers generally set sail at
+midsummer, and in about 30 days arrived at Ocelis, in Arabia, now
+called Gehla, or at Cane, supposed to be Cava Canim Bay. From hence,
+if the wind called hippaulus happened to be blowing, it was possible
+to arrive at Muzitis, the modern Mangalore, which was the nearest
+point in India, in 40 days. This, however, was not a convenient port
+for disembarking, and Barace was therefore preferred. To this place
+pepper was carried down in dug-out canoes made out of a single trunk
+from Cottonara, supposed to be Cochin or Travancore. The return voyage
+was usually made in January, taking advantage of the south-east
+monsoon, by which means they were able to go and return the same year.
+But when PLINY wrote, the trade with India was only in its infancy,
+afterwards Greek factories were probably established at the Indian
+seaboards, which accounts for the Greek names for some of the towns on
+that coast.
+
+But the people of Alexandria having become insolent in their
+prosperity, HADRIAN was led to encourage the route through Palmyra,
+which was the most direct road to India. Even in the 2nd century A.D.
+the trade between Rome and India through Palmyra must have been
+considerable, for it drew the attention of the Chinese. Their annals
+speak of it as carried on principally by sea; they mention Roman
+merchants in relations of commerce with and visiting Burmah, Tonquin,
+and Cochin China, and they have preserved the memory of an embassy
+from the Roman emperor, which in the year A.D. 166 was received by the
+Chinese sovereign. Arab or native vessels appear to have brought the
+produce of India up the Persian Gulf to the mouth of the Euphrates. At
+Teredon they discharged their cargoes, and the merchandise was then
+carried to Vologesia by camels; at this place the merchants of Palmyra
+took it up and it was here exchanged for the produce of Europe. Even
+as late as the 5th century, ships from India and China are mentioned
+lying at Hira on the Euphrates, a little to the south of Babylon.
+Through the influence of this trade Palmyra grew rapidly into wealth
+and power until the widow of GALBERIUS threw off her allegiance to
+Rome. This led to the destruction of the city by AURELIAN, A.D. 275,
+which put an end to the Roman trade with India through the Persian
+Gulf. The Alexandrian trade with India fell off about the same time,
+and the barbarians occupied Coptos, the port of embarkation for India,
+about A.D. 279.
+
+After the fall of Palmyra the Indian trade was transferred to Batne,
+near the Euphrates, but it lasted only a short time, and in the 4th
+and 5th centuries may be regarded as having become extinct in so far
+as Roman merchants were concerned. The trade, however, was still kept
+up by the Arabs. EPIPHANIUS, about A.D. 375, gives an account of trade
+carried on through Berenice, by which the merchants of India imported
+their goods into the Roman territory, and there is also Chinese
+authority for believing that a great trade between Rome and India
+existed in the 6th century. MA-TOUAN-LIN, A.D. 1317, in his researches
+into antiquity, affirms that in A.D. 500-516 India carried on a
+considerable commerce by sea with Ta-Tsin, the Roman Empire, and with
+the Ansi the Syrians,[41] but Arab and not Roman vessels were
+employed. MASOUDI says that in the early part of the 7th century the
+Indian and Chinese trade with Babylon was principally in the hands of
+the Indians and Chinese. The usual passage after rounding the Point de
+Galle was to creep up the Madras coast during the S.W. monsoon and
+take a point of departure from Masulapatam towards the leading opening
+of the Ganges.[42] Meanwhile the overland trade between Europe and
+India in the 3rd and 4th centuries was carried on by the Sassanidae,
+who in the 4th century entered into commercial relations with China,
+to which country they sent frequent embassies in the 6th century, and
+through this route silk was imported into Europe. In A.D. 712 Sind was
+conquered by the Arabs, and in addition to the kingdom of Mansurah and
+Multan, other independent Muslim governments were established at Bania
+and Kasdar.[43] There is also the evidence of the merchant SULAMIN and
+the researches of Mr. EDWARD THOMAS into the coins of the Balhara to
+prove the continuance of Arab intercourse with India during the 9th
+century.
+
+          [41] PRIAULX, p. 244.
+
+          [42] "The Indian Balhara and Arabian intercourse with India
+          in the Ninth and Following Centuries," by E. THOMAS, F.R.S.,
+          'Numismata Orientalia,' vol. iii., 1882.
+
+          [43] "Coins of the Arabs in Sind," by E. THOMAS, F.R.S., in
+          the 'Indian Antiquary.'
+
+During all this time the relations between Scandinavia and Rome appear
+to have been scarcely less extensive. Although the Romans never
+succeeded in penetrating Scandinavia, the discovery of coins, vases in
+bronze and glass, and other objects of art, is sufficient to prove
+that Scandinavian art was greatly influenced by intercourse with Rome
+during the first part of the 2nd century of our era. In the early
+stages of society, communication by sea offered greater facilities for
+traffic than land journeys, and for this reason the Island of Gotland,
+now so isolated and rarely visited except by antiquaries, appears to
+have served as a portal for the entry of Roman and Oriental goods and
+civilization into Scandinavia.[44] After the fall of the Roman empire,
+Scandinavia was left to its own resources, aided by occasional
+intercourse with Byzantium, until in the later iron age, extending
+from the 8th century to the middle of the 11th century, another line
+of communication was established with the East, still entering
+Scandinavia mainly through the Island of Gotland. Mr. HILDEBRAND
+records the discovery of 20,000 Arab coins in Sweden and Gotland, and
+traces the channel of their transmission by Russian finds from the
+states near the Caspian, through Russia to the shores of the Baltic,
+and thence, thanks to the commerce established by the inhabitants of
+Gotland, over to that island. From Gotland, and probably also by
+direct intercourse with Russia, the Mahomedan coins were spread over
+Scandinavia, being more common in the eastern provinces of Sweden than
+in the west or in Norway. The greater part of these coins appear to
+have come into Sweden between the years 880 and 955, but the latest
+belongs to the year 1010. On the line of communication here indicated,
+iron keys of the kind adapted both to the tumbler lock and the spring
+padlock have been discovered in the governments of Vladimir and
+Jaroslav, in the graves of the Neriens,[45] dating about the 8th
+century A.D., showing that in all probability it was by this line that
+the use of these locks were imported into Sweden. The key of the
+padlock found here was of the form of the Roman key, (fig. 21C, Plate
+V.), the Indian one (fig. 46C, Plate VI.), and the modern one from
+Cairo (fig. 47C, Plate VI.). It also resembles that of the Swedish
+lock (fig. 26C, Plate V.), and belongs to the most primitive form of
+the mechanism.
+
+          [44] 'La Suede Prehistorique,' by O. MONTELIUS.
+
+          [45] "Antiquites du Nord Finno-Ougrien," par J. R.
+          ASPELIN, 'Age du Fer,' iii., figs. 977, 980, 981.
+
+Whilst this traffic was being carried on between Scandinavia and the
+East, the intercourse of the Vikings was kept up with Britain,
+Ireland, and the coasts of the English Channel, commencing in 787 and
+continuing to the 11th century. These Western relations, like those
+with the East, appear to have taken place chiefly through Gotland; and
+the number of Anglo-Saxon coins found in that Island and the East of
+Sweden greatly exceed those discovered in Norway and the West.
+
+The foregoing summary of the evidence of commercial relations between
+Southern Europe and the East and North during the early part of the
+Christian Era is sufficient to show that ample facilities existed for
+the spread of early forms of locks and keys. The padlock, more
+especially--which, as I have said when referring to the etymology of
+the word "pad," was the class of lock associated with portable
+merchandise--must have been carried into all those parts of the world
+between which commercial relations had been established.
+
+At what time and through what particular channels the various kinds of
+locks were distributed can only be determined after more extended
+inquiry into the archaeology of padlocks. Some points may, however, I
+think be considered to be more or less established by the evidence I
+have adduced. The particular form of padlock represented in fig. 44C,
+Plate VI., from India, and fig. 21C, Plate V., from the Roman period
+of Europe, must in all probability have been communicated in Roman
+times, as I am not aware that this precise form of padlock was in use
+in Europe later than the Roman age, having been superseded by the more
+modern improvements which have been described in this paper. The use
+of padlocks in the forms of animals in Egypt, Persia, and China, must
+also very probably belong to the same period. The Chinese and Japanese
+padlocks appear to belong to a more advanced stage of the development
+of the mechanism, and correspond to the form used in Europe in the
+Middle Ages; whilst the use of the revolving key in Europe, India, and
+Japan, to compress the springs, as shown in figs. 39C, Plate VI., 90C,
+Plate VIII., and 98C, Plate XI., must date from a still later phase in
+the art; and unless they are to be regarded as improvements introduced
+independently in those countries, the idea must have spread by means
+of Arab traders, if not still more recently. In like manner, the
+adoption of the screw principle with these locks must either have been
+conveyed by traders, or applied independently in different countries
+to the form of padlock already in use. The hinge of the staple, as
+seen in figs. 26C and 31C, Plate V., though derived from the earlier
+form of the parallel bar, which has a wide distribution, has not been
+universally adopted, but is used chiefly in Sweden and Europe, and is
+an improvement introduced, no doubt, in modern times. Further
+information is needed to enable us to trace the distribution of all
+these different varieties more continuously, before any satisfactory
+judgment can be formed as to the date of connection. In Scandinavia we
+find the padlock in use in Gotland, in Bjoerkoe, and in Sweden; and HANS
+HILDEBRAND, in his work on 'The Industrial Arts of Scandinavia,'[46]
+published by the South Kensington Museum, says that they were already
+known in that region in Pagan times. It is to be hoped that this
+announcement may be only a prelude to some more detailed publication
+of his researches into a subject to which the present paper can only
+be regarded as a first introduction--not previously attempted, that I
+am aware of, in its ethnological and commercial bearings. Local
+archaeologists must work out the rest. Enough has, I trust, been said
+to show that a large field lies open to the student of the archaeology
+of locks and keys, and that whenever the history of this mechanism is
+traced in Scandinavia, Persia, India, and China, in the same way that
+I have endeavoured to trace it in Europe, much light will thereby be
+thrown on the ramifications of trade and the commercial relations of
+distant countries in non-historic times.
+
+          [46] 'The Industrial Arts of Scandinavia,' by HANS
+          HILDEBRAND, 1883.
+
+  [Illustration: PLATE I.
+
+  Fig. 1. Japanese book fastening derived from the common pin.
+
+  Figs. 2 and 3. Common wooden bolt used at Gastein, in Austria, at
+  the present time.
+
+      Fig. 2. Front view.
+
+      Fig. 3. Transverse section on A B.
+
+          _a._ Handle. _b._ Bolt. _c c._ Slit for handle, _a._
+
+  Figs. 4 and 5. Wooden bolt with pin fastening (supposed form).
+
+      Fig. 4. Front view.
+
+      Fig. 5. Transverse section on A B.
+
+  Figs. 6 to 8. Wooden single tumbler bolt (supposed form).
+
+      Fig. 6. Front view (open).
+
+      Fig. 7. Front view (closed).
+
+      Fig. 8. Transverse section on A B.
+
+  Figs. 9A to 11A. Wooden double tumbler lock from the Faroe Islands.
+
+      Fig. 9A. Front view.
+
+      Fig. 10A. Longitudinal section.
+
+      Fig. 11A. Transverse section.
+
+          _a._ Bolt. _b b._ Teeth of key, _c._ _d d._ Tumblers.
+          _e e e._ Block. _f f._ Holes in bolt.
+
+  Figs. 12A to 17A. Old Scottish wooden tumbler lock (Patent Museum).
+
+      Fig. 12A. Front view.
+
+      Fig. 13A. Side view.
+
+      Fig. 14A. Longitudinal section.
+
+      Fig. 15A. Transverse section.
+
+      Fig. 16A. Section through A B.
+
+      Fig. 17A. Section through C D.]
+
+  [Illustration: PLATE I.
+                _Wyman & Sons, Printers, Gt. Queen St. London, W.C._]
+
+  [Illustration: PLATE II.
+
+  Figs. 18A to 22A. Old Scottish treble wooden tumbler lock (Patent
+  Museum).
+
+      Fig. 18A. Front view.
+
+      Fig. 19A. Side view.
+
+      Fig. 20A. Longitudinal section.
+
+      Fig. 21A. Transverse section.
+
+      Fig.22 A. Section through A B (fig. 21A).
+
+  Figs. 23A to 25A. Wooden tumbler lock from Norway (Hazilius Museum,
+  Stockholm).
+
+      Fig. 23A. Front view.
+
+      Fig. 24A. Longitudinal section.
+
+      Fig. 25A. Transverse section on A B.
+
+  Figs. 26A to 28A. Wooden tumbler lock made by negroes of Jamaica
+  (Museum, Kew Gardens).
+
+      Fig. 26A. Front view.
+
+      Fig. 27A. Longitudinal section.
+
+      Fig. 28A. Transverse section on A B.
+
+  Figs. 29A to 31A. Wooden tumbler lock from British Guiana (CHRISTY
+  Collection).
+
+      Fig. 29A. Front view.
+
+      Fig. 30A. Longitudinal section.
+
+      Fig. 31A. Transverse section.
+
+  Fig. 9B. Probable use of fig. 29B, Plate III., as a key for a single
+  tumbler lock.
+
+  Figs. 10B to 12B. Modern Egyptian wooden tumbler or pin-lock in use
+  at the present time.
+
+      Fig. 10B. Longitudinal section showing pegs raised by key A
+      preparatory to withdrawing the bolt B.
+
+      Fig. 11B. Key A.
+
+      Fig. 12B. Longitudinal section showing pegs down and bolt
+      locked.]
+
+  [Illustration: PLATE II.
+                _Wyman & Sons, Printers, Gt. Queen St. London, W.C._]
+
+  [Illustration: PLATE III.
+
+  Figs. 13B and 14B. Modern wooden tumbler or pin-lock from Yarkand
+  (India Museum).
+
+      Fig. 13B. Longitudinal section showing pegs raised by key A
+      preparatory to withdrawing the bolt B.
+
+      Fig. 14B. Longitudinal section showing pegs down and bolt
+      locked.
+
+  Figs. 15B to 20B. Reproduction of Roman tumbler lock (Mainz Museum)
+  (Lindenschmit).
+
+      Fig. 15B. Front view.
+
+      Fig. 16B. Longitudinal section.
+
+      Fig. 17B. Transverse section on C D.
+
+      Fig. 18B. Section through A B.
+
+      Fig. 19B. Bolt (top view).
+
+      Fig. 20B. Key.
+
+          _a._ Key. _b._ Bolt. _c._ Block, _e._ Hasp. _f f._ Tumblers.
+          _g._ Spring. _h._ Plate of spring.
+
+  Fig. 21B. Ancient hasp from Hetternheim, Roman.
+
+  Fig. 22B. Bronze bolt from Oppenheim, Roman.
+
+  Fig. 23B. Bronze bolt from Heddernheim, Roman.
+
+  Fig. 24B. Iron key found in the River Rhine at Mayence,
+  Roman.
+
+  Fig. 25B. Key for tumbler lock with ward plate, Roman ('La
+  Ferronnerie').
+
+  Fig. 26B. Bolt for single tumbler found in the Forest of
+  Compiegne, Roman ('La Ferronnerie').
+
+  Fig. 27B. Key to raise single tumbler lock found at Nonfous,
+  Switzerland, Roman ('La Ferronnerie').
+
+  Fig. 28B. Modern pick-lock.
+
+  Fig. 29B. Key found in Germano-Roman tomb at Niderolm (probable use
+  shown in fig. 9B, Plate II.).
+
+  Fig. 30B. } Anglo-Saxon keys found at Sarr, in Kent ('Archaeologia
+  Fig. 31B. } Cantiana').
+
+  Fig. 32B. } Two keys from Bornholm, in the Baltic ('Memoires
+  Fig. 33B. } de la Societe Royale es Antiquaries du Nord').]
+
+  [Illustration: PLATE III.
+                _Wyman & Sons, Printers, Gt. Queen St. London, W.C._]
+
+  [Illustration: PLATE IV.
+
+  Fig. 34B. Key found at Caerwent, in Wales ("Isca Silurum").
+
+  Fig. 35B. } Two keys found in Roman villa at Hartlip, Kent
+  Fig. 36B. } ('Collectanea Antiqua').
+
+  Fig. 37B. } Two keys found at St. Pierre-en-Chastre, Oise.
+              Gaulish. From drawings taken by Gen. PITT-RIVERS,
+  Fig. 38B. } in the Musee de Saint Germain.
+
+  Fig. 39B. Key found at Spettisbury, near Blandford. British.
+  (British Museum.)
+
+  Fig. 40B. } Two keys found in Mount Caburn Camp, near Lewes,
+  Fig. 41B. } by the Author. British. ('Archaeologia.')
+
+  Fig. 42B. Key found in Cissbury Camp, Sussex. British. ('Journal
+  Anthropological Institute.')
+
+  Fig. 43B. Represents the ancient mode of carrying keys on shoulder,
+  adapted to the British key found in Caburn. (Fig. 41B.)
+
+  Figs. 1C and 2C. Modern Scandinavian bolt and key ('La
+  Ferronnerie').
+
+      Fig. 1C. Front view.
+
+      Fig. 2C. Transverse section on A B.
+
+  Figs. 3C to 5C. Modern Scandinavian bolt and key, with spring A.
+  From a model presented by Dr. ENGELHARDT, and used in Norway.
+
+      Fig. 3C. Longitudinal section.
+
+      Fig. 4C. Transverse section.
+
+      Fig. 5C. View showing keyhole.
+
+  Fig. 6C. } Two iron keys from Clermont-Ferrand, Auvergne,
+  Fig. 7C. } France.
+
+  Fig. 8C. } Two iron keys from Colchester, Essex, ("Uriconium").
+  Fig. 9C. }
+
+  Fig. 10C. Iron key from Jordan Hill, near Weymouth.
+
+  Fig. 11C. Iron key from Caudebec-les Elbeuf ('La Ferronnerie').
+
+  Fig. 12C. Iron lock-plate found with above (fig. 11C).
+
+  Fig. 13C. } Two iron keys from Roman villa, at Hartlip, Kent
+  Fig. 14C. } ('Collectanea Antiqua').
+
+  Fig. 15C. } Three keys from Anglo-Saxon graves at Sarr, Kent
+  Fig. 16C. } ('Archaeologia Cantiana').
+  Fig. 17C. }
+
+  Fig. 18C. Bronze key from Gotland, Iron Age ('Antiquites
+  Suedoises').
+
+  Fig. 19C. } Two keys from Bjoerkoe, in the Gulf of Bothnia, 8th
+  Fig. 20C. } or 9th Century A.D.]
+
+  [Illustration: PLATE IV.
+                _Wyman & Sons, Printers, Gt. Queen St. London, W.C._]
+
+  [Illustration: PLATE V.
+
+  Figs. 21C and 22C. Portions of Roman padlock found at Jordan Hill,
+  Weymouth.
+
+      Fig. 21C. Side view of lock-case and parallel bar.
+
+      Fig. 22C. Side view of bolt with spring catch. _a._ Bolt. _b b._
+      Perpendicular bars of bolt _c c._ Rings to slip over parallel
+      bar _d._ _e._ Catch springs. _f._ Hole in tube through which
+      bolt is passed. _g._ Key.
+
+  Figs. 23C to 25C. Roman padlocks found at Great Chesterford, Essex
+  ('Archaeological Journal').
+
+      Fig. 23C. Side view of supposed original form.
+
+      Fig. 24C. Improved form showing bolt, _a_.
+
+      Fig. 25C. Improved form without bolt.
+
+  Figs. 26C and 27C. Old Swedish padlock.
+
+      Fig. 26C. Longitudinal section.
+
+      Fig. 27C. Side view of bolt and springs.  _d._ Parallel bar
+      turning on hinge at _h_, and entering tube case at _j_.
+
+  Figs. 28C to 30C. Old Russian bronze padlock, St. Petersburg ('La
+  Ferronnerie').
+
+      Fig. 28C. Side view of bolt and springs.
+
+      Fig. 29C. Side view of tube case.
+
+      Fig. 30C. End of case showing aperture for springs.
+
+  Figs. 31C and 32C. Old English fetterlock, from Epping, near London.
+
+      Fig. 31C. Longitudinal section.
+
+      Fig. 32C. Side view of bolt and springs A. Side and end views of
+      key shown above.
+
+  Fig. 33C. Fragment of bolt with springs, found in rampart in
+  excavations at the Norman Camp, Folkestone ('Archaeologia').
+
+  Fig. 34C. Iron padlock found at Swanscombe, Kent, 15th Century
+  ('Archaeological Journal').
+
+  Fig. 35C. Longitudinal section (with key) of modern padlock, from
+  Rushmore, Wiltshire, spiral spring action.
+
+  Fig. 36C. Side view of modern padlock, from Paris, spiral spring
+  action.
+
+  Fig. 37C. Side view of modern padlock, from Germany, with spiral
+  spring action.
+
+  Fig. 38C. Longitudinal section of modern handcuff, from Wiltshire,
+  with spiral spring action, unlocked by a revolving key.]
+
+  [Illustration: PLATE V.
+                _Wyman & Sons, Printers, Gt. Queen St. London, W.C._]
+
+  [Illustration: PLATE VI.
+
+  Figs. 39C to 41C. Padlock, from Paris, probably 17th Century, spring
+  lock, unlocked by a revolving key.
+
+      Fig. 39C. Front view.
+
+      Fig. 40C. Transverse section.
+
+      Fig. 41C. Longitudinal section.
+
+  Figs. 42C and 43C. Old iron padlock, from Clermont-Ferrand, France.
+
+      Fig. 42C. Front view.
+
+      Fig. 43C. Side view.
+
+  Figs. 44C to 46C. Iron padlock, from the Gate of Moultan, India, of
+  similar construction to the Roman padlock (India Museum).
+
+      Fig. 44C. Side view.
+
+      Fig. 45C. Side view of springs.
+
+      Fig. 46C. Side view of key.
+
+  Figs. 47C and 48C. Modern iron padlock, from Cairo; the bolt
+  entering a socket in the parallel bar.
+
+      Fig. 47C. Longitudinal section.
+
+      Fig. 48C. End and side views of key.
+
+  Figs. 49C and 50C. Modern padlock from Cairo; key with lateral
+  action.
+
+      Fig. 49C. Side view.
+
+      Fig. 50C. End view.
+
+  Figs. 51C and 52C. Modern padlock from India; key with lateral
+  action and ward; the bolt entering a socket in the parallel bar.
+
+      Fig. 51C. Side view.
+
+      Fig. 52C. End view.
+
+  Figs. 53C to 55C. Modern padlock, from Myhere, India (India Museum).
+
+      Fig. 53C. Side view.
+
+      Fig. 54C. Longitudinal section.
+
+      Fig. 55C. Transverse section.
+
+  Figs. 56C and 57C. Old Egyptian manacle.
+
+      Fig. 56C. Side view.
+
+      Fig. 57C. Longitudinal section.]
+
+  [Illustration: PLATE VI.
+                _Wyman & Sons, Printers, Gt. Queen St. London, W.C._]
+
+  [Illustration: PLATE VII.
+
+  Figs. 58C to 60C. Modern padlock, from Abyssinia (British Museum),
+  the bolt entering a socket in the parallel bar.
+
+      Fig. 58C. Side view.
+
+      Fig. 59C. Side view of bolt and springs.
+
+      Fig. 60C. Front view of key.
+
+  Figs. 61C to 63C. Modern brass Chinese padlock.
+
+      Fig. 61C. Side view.
+
+      Fig. 62C. Side view of bolts and springs.
+
+      Fig. 63C. Transverse section.
+
+  Figs. 64C to 67C. Modern brass padlock, from Yarkand (India Museum).
+
+      Fig. 64C. Side view.
+
+      Fig. 65C. Side view of bolts and springs.
+
+      Fig. 66C. Transverse section.
+
+      Fig. 67C. Longitudinal section (looking down).
+
+  Figs. 68C to 70C. Modern steel lock, from Indore, India (India
+  Museum).
+
+      Fig. 68C. Side view.
+
+      Fig. 69C. Longitudinal section.
+
+      Fig. 70C. End view (showing keyhole).
+
+  Figs. 71C to 74C. Modern steel lock, from India (India Museum).
+
+      Fig. 71C. Side view.
+
+      Fig. 72C. Longitudinal section.
+
+      Fig. 73C. End view.
+
+      Fig. 74C. End and side view of key.]
+
+  [Illustration: PLATE VII.
+                _Wyman & Sons, Printers, Gt. Queen St. London, W.C._]
+
+  [Illustration: PLATE VIII.
+
+  Figs. 75C to 77C. Modern padlock from Burmah, with screw ward (India
+  Museum).
+
+      Fig. 75C. Side view.
+
+      Fig. 76C. Longitudinal section.
+
+      Fig. 77C. End view (showing keyhole).
+
+  Fig. 78C. Portion of modern padlock from Nuremberg, with screw ward.
+  End view, showing keyhole, with side and end views of key to same.
+
+  Figs. 79C to 81C. Modern steel lock from Indore, India, with spiral
+  spring action (India Museum).
+
+      Fig. 79C. Side view.
+
+      Fig. 80C. Longitudinal section.
+
+      Fig. 81C. End view.
+
+  Figs. 82C to 84C. Modern steel lock from India, with screw action
+  (India Museum).
+
+      Fig. 82C. Side view.
+
+      Fig. 83C. Longitudinal section.
+
+      Fig. 84C. End view.
+
+  Figs. 85C to 89C. Modern iron lock from Brussels, with screw action.
+
+      Fig. 85C. Side view.
+
+      Fig. 86C. Longitudinal section.
+
+      Fig. 87C. Side view of staple.
+
+      Fig. 88C. End view of staple.
+
+      Fig. 89C. Side view of key.
+
+  Figs. 90C to 92C. Modern padlock from Toomkoor, Mysore, India, with
+  spring action compressed by a revolving key (India Museum).
+
+      Fig. 90C. Side view.
+
+      Fig. 91C. Longitudinal section (looking down).
+
+      Fig. 92C. Side view of key.]
+
+  [Illustration: PLATE VIII.
+                _Wyman & Sons, Printers, Gt. Queen St. London, W.C._]
+
+  [Illustration: PLATE IX.
+
+  Figs. 93C to 97C. Modern Japanese brass padlocks.
+
+      Fig. 93C. Side view.
+
+      Fig. 94C. Side view of bolt and springs.
+
+      Fig. 95C. End view (showing keyhole).
+
+      Fig. 96C. Side and end view of key.
+
+      Fig. 97C. Side view (showing keyhole).
+
+  Figs. 98C and 99C. Modern Japanese brass padlock, the springs
+  compressed by a revolving key.
+
+      Fig. 98C. Side view (showing keyhole).
+
+      Fig. 99C. End view, with side view of key.
+
+  Figs. 100C and 101C. Ancient bronze fish-shaped padlock ('La
+  Ferronnerie'), believed to be from Egypt, in the Louvre, at Paris.
+
+      Fig. 100C. Side view.
+
+      Fig. 101C. Longitudinal section.
+
+  Figs. 102C to 104C. Modern steel fish-shaped padlock, from India
+  (India Museum).
+
+      Fig. 102C. Side view.
+
+      Fig. 103C. Longitudinal section.
+
+      Fig. 104C. End view of key.
+
+  Figs. 105 and 106. Ancient Roman bronze lock, in the form of a
+  horse, belonging to Dr. JOHN EVANS, F.R.S.
+
+      Fig. 105C. Side view.
+
+      Fig. 106C. End, showing apertures for springs.
+
+  Figs. 107C to 109C. Modern brass Chinese padlock in the form of a
+  lion, the springs entering behind, belonging to Mr. CHUBB.
+
+      Fig. 107C. Side view.
+
+      Fig. 108C. Side view of bolt and springs.
+
+      Fig. 109C. Front view, showing method of inserting the key.
+
+  Fig. 110C. Front view of iron padlock from Cairo, also in common
+  use in Naples at the present time.
+
+  Fig. 111. Revolving key for raising tumblers, found in London ('La
+  Ferronnerie').
+
+  Fig. 112. Revolving key for raising two tumblers, found in Lothbury,
+  London ('Archaeological Journal').]
+
+  [Illustration: PLATE IX.
+                _Wyman & Sons, Printers, Gt. Queen St. London, W.C._]
+
+  [Illustration: PLATE X.
+
+  Figs. 113 to 116. Modern wooden tumbler lock, adapted to a revolving
+  key, from India (India Museum).
+
+      Fig. 113. Front view. A, bolt.
+
+      Fig. 114. Longitudinal section.
+
+      Fig. 115. Transverse section.
+
+      Fig. 116. Key.
+
+  Figs. 117 to 121. Modern wooden Chinese tumbler lock, the tumblers
+  raised by a T-shaped key; the bolt shot with a revolving key, or
+  handle, _a_.
+
+      Fig. 117. Front view.
+
+      Fig. 118. Transverse section, A B.
+
+      Fig. 119. Longitudinal section.
+
+      Fig. 120. Top view of bolt.
+
+      Fig. 121. Top view of key.
+
+  Fig. 122. Roman iron key, found in London.
+
+  Fig. 123. Key from Chalons ('La Ferronnerie').
+
+  Fig. 124. Key from Museum at Saumur ('La Ferronnerie').
+
+  Fig. 125. Key from Museum at Saint Germain ('La Ferronnerie').
+
+  Fig. 126. Modern English latchkey.
+
+  Fig. 127. Lock with complex wards, used in the Middle Ages.
+
+  Figs. 128 to 130. Modern tumbler lock found at Funtley, Hants,
+  belonging to Mr. CHUBB.
+
+      Fig. 128. Longitudinal section.
+
+      Fig. 129. End view and section.
+
+      Fig. 130. Top view of bolt.
+
+  Fig. 131. BARRON'S tumbler lock (TOMLINSON 'On Locks and Keys').]
+
+  [Illustration: PLATE X.
+                _Wyman & Sons, Printers, Gt. Queen St. London, W.C._]
+
+
+
+
+
+
+End of the Project Gutenberg EBook of On the Development and Distribution of
+Primitive Locks and Keys, by Augustus Pitt-Rivers
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PRIMITIVE LOCKS AND KEYS ***
+
+***** This file should be named 44022.txt or 44022.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/4/0/2/44022/
+
+Produced by Chris Curnow and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

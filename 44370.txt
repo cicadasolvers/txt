@@ -1,0 +1,3248 @@
+The Project Gutenberg eBook, Handy War Guide for My Company, by André
+Godefroy Lionel Hanguillart, Edited by Louis Joseph Alexandre Mercier,
+Translated by Louis Joseph Alexandre Mercier
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+
+
+
+Title: Handy War Guide for My Company
+       Handy Company Commander's Guide
+
+
+Author: André Godefroy Lionel Hanguillart
+
+Editor: Louis Joseph Alexandre Mercier
+
+Release Date: December 6, 2013  [eBook #44370]
+
+Language: English
+
+Character set encoding: ISO-646-US (US-ASCII)
+
+
+***START OF THE PROJECT GUTENBERG EBOOK HANDY WAR GUIDE FOR MY COMPANY***
+
+
+E-text prepared by Emmy and the Online Distributed Proofreading Team
+(http://www.pgdp.net) from page images generously made available by
+Internet Archive (https://archive.org)
+
+
+
+Note: Project Gutenberg also has an HTML version of this
+      file which includes the original illustrations.
+      See 44370-h.htm or 44370-h.zip:
+      (http://www.gutenberg.org/files/44370/44370-h/44370-h.htm)
+      or
+      (http://www.gutenberg.org/files/44370/44370-h.zip)
+
+
+      Images of the original pages are available through
+      Internet Archive. See
+      https://archive.org/details/handywarguidefor00hang
+
+
+Transcriber's note:
+
+      Text enclosed by underscores is in italics (_italics_).
+
+      Text enclosed by equal signs is in bold face (=bold=).
+
+
+
+
+
+HANDY WAR GUIDE FOR MY COMPANY
+
+Handy Company Commander's Guide
+
+Written at the front by
+
+CAPTAIN HANGUILLART
+
+of the French Army
+
+Translated and edited by
+
+Louis J. A. Mercier, A.M.
+
+First Lieutenant, Harvard R. O. T. C.
+Interpreter with British Expeditionary Force on the
+French Front 1914-17.
+
+"_DASH UNDER DISCIPLINE_"
+
+
+
+
+
+
+
+Copyright, 1918
+by
+R. D. Cortina Company.
+
+The Cortina Academy of Languages
+New York
+1918
+
+
+
+
+TABLE.
+
+
+    Preface                                     5
+
+
+    Part I.
+
+    Trench Life and Trench Warfare
+
+    Taking over the Trenches                   11
+    Care and Improvement of the Trenches       14
+    The Watch from the Trenches                17
+    Patrolling                                 22
+    Interrogating Prisoners                    25
+    Devices to draw the Enemy's Fire           28
+    An Attack, the Repulse                     32
+    The Counter-Attack                         34
+    Precautions against Enemy's Artillery      36
+    Use of Trench Artillery                    37
+    Field Artillery Cooperation                39
+    Daily Schedule                             41
+    Turning over the Trenches                  43
+    Out of the Trenches                        44
+    Topical Questions on Part I                46
+
+
+    Part II.
+
+    French Infantry Combat Principles.
+
+    Open Warfare                               53
+    The Approach                               55
+    Precautions against Silent Artillery       58
+    Crossing a Bombarded Zone                  59
+    Use of Woods as Shelter                    64
+    To Cross a Crest                           65
+    The Fire Attack                            69
+    Precautions against Cavalry                65
+    The Termination of the Approach            67
+    Use of Machine Guns                        71
+    The Company Supports                       72
+    The Companies in Support                   73
+    The Charge and the Pursuit                 73
+    Attack of a Wood                           75
+    Attack of a Village                        76
+    Attack of a Defile                         77
+    Night Attacks                              77
+    Defense of Woods                           80
+    Defense of a Village                       81
+    Defense of a Defile                        82
+    Night Defense of a Position                83
+    The Counter Attack                         83
+    Topical Questions on Part II               86
+
+
+    Appendix
+
+    A Division Front in Trench Warfare.
+
+    The Trench System
+    The Back Areas
+
+
+
+
+Printed in the United States of America
+by the International Press
+150 Lafayette Street
+New York City
+
+
+
+
+PREFACE.
+
+
+The first part of Captain Hanguillart's little book "_Petit Guide
+pratique de Guerre pour ma compagnie_" has been incorporated in the new
+manuals of instruction published for the young recruits of the French
+army by the official military publishing house "Librairie Militaire
+Berger-Levrault," the editors of the "Annuaire officiel de l'Armee."[A]
+
+Its special value comes from the fact that it was written at the front
+and is wholly based on the orders which Captain Hanguillart drew up for
+the instruction of his own company and tested repeatedly through actual
+experience.
+
+Thus its very omissions are significant.
+
+The text as it stands represents essentials.
+
+Its every paragraph is a unit of tried advice.
+
+=It embodies the practical data that has secured results.=
+
+=It sums up the cautions that have saved lives.=
+
+In the second part, Captain Hanguillart has merely reproduced the
+French Infantry Combat principles long published in the official manual
+for the instruction of platoon leaders.
+
+In presenting this little work, no claim is made that it is adequate to
+the complete instruction of company commanders.
+
+    Its obvious supplements are such works as: Colonel Paul
+    Azan--_The War of Position_.
+
+    _The Army War College_--Translation of the French
+    Manual for Commanders of Infantry Platoons.
+
+    Cole and Schoonmaker--_Military Instructors Manual_.
+
+    Major J. A. Moss--_Manual of Military Training_.
+
+    _U. S. A. Infantry Drill Regulations._
+
+Captain Hanguillart's book should be carefully compared with these.
+But because of its peculiar origin it has for the officer a value not
+possessed by other books on this subject.
+
+It gives what a company commander =actually found essential=.
+
+Furthermore, it corresponds to the booklets published in France which
+are placed in the hands of every recruit.
+
+Every officer should have full knowledge of his specialty, but =every
+private= should understand the essential concerns of his officers so as
+to appreciate orders the more readily.
+
+The army of democracy should be an intelligent thinking army.
+
+Such little books have helped to give the French poilu his famed
+self-reliance and resourcefulness.
+
+It is the hope of the publishers that this translation may help to do
+the same for his American comrades.
+
+The publishers also believe that the book offers just the information
+needed by civilians to follow intelligently reports of military
+operations and of life at the front.
+
+The editor has felt it his duty in rearranging the loose notes of
+Captain Hanguillart to respect scrupulously the text, though, at times,
+the best way to do so was through a free translation.
+
+The paragraphs have been numbered and questions and diagrams added to
+facilitate assimilation.
+
+    Cambridge, Mass.
+
+    L.J.A.M.
+
+FOOTNOTE:
+
+[A] Cf Chapuis. _Instruction theorique et generale du soldat pour la
+periode de guerre._ 27e edition, January 1917.
+
+
+
+
+    Part I.
+
+    Trench Life and Trench
+    Warfare.
+
+
+
+
+TRENCH LIFE AND TRENCH WARFARE.
+
+
+
+
+TAKING OVER THE TRENCHES.
+
+
+1.--Leaving Billets.
+
+The battalions of a Brigade occupying a given sector of the front are
+billeted when out of the trenches, in the villages closest to their
+sector. Cf. appendix.
+
+When their turn comes to relieve the battalions in the trenches, the
+officers in charge should have the following instructions carried out:
+
+
+2.--On the day before the relief make sure:
+
+    That the rifles, bayonets, etc., are in good condition.
+
+    That the ammunition and reserve rations are supplied.
+
+    That the equipment of every man is complete.
+
+    That all officers and N.C.O.'s watches are set to
+      division time.
+
+
+3.--On the day of the relief, one hour before departure:
+
+    Have rifles stacked and equipment laid out outside the
+      billets.
+
+    Make sure that nothing is left behind, that premises
+      are cleaned, all rubbish burnt, and latrines filled.
+
+    Have rifles loaded and with the safety lock turned to
+      the safe.
+
+    Assign an energetic N. C. O. to act as file closer of
+      each platoon to prevent straggling.
+
+    Call the roll and have it duly forwarded to the company
+      commander.
+
+
+4.--On the way to the trenches:
+
+    If under fire, have units march at proper intervals
+      (Cf. par. 117ff.)
+
+    Adopt marching order best suitable to avoid blocking
+      the road.
+
+    At night do not allow smoking.
+
+    Exact silence when nearing the trenches.
+
+    Take special precaution at all times to maintain
+      constant communication between units, especially at
+      night and when crossing woods.
+
+    If enemy aeroplanes appear, stop and keep out of sight
+      as much as possible. (Cf. par. 120.)
+
+
+5.--On reaching the trenches:
+
+    The relief should be completed in silence--without
+      hurry.
+
+    Carefully ascertain the orders of the battalion
+      relieved.
+
+    Check up and assign to each unit the supplies taken
+      over.
+
+    Requisition at once additional supplies and ammunition
+      wanted.
+
+    Each platoon should be assigned its special duties,
+      the duty roster drawn up for all sentry and patrol
+      duties, details, etc.
+
+    Have all the men locate the enemy trench as they come
+      on duty and give them the range.
+
+    Inspect the dugouts and assign them.
+
+    Forbid all digging under the parapet.
+
+    Inspect the latrines. Give strict order that small
+      amount of dirt be thrown in after use and that lime
+      be sprinkled in daily.
+
+    See that the men are provided with ammunition.
+
+    Communication should be insured between the various
+      units to the right and left and with the rear.
+
+
+
+
+CARE AND IMPROVEMENT OF THE TRENCHES.
+
+
+6.--Improvements:
+
+    Investigate the work under way for the improvement
+      of defense and prepare plans for further work if
+      necessary.
+
+    Obvious improvements are: making additional
+      communication trenches, repairing or completing
+      shelters, listening posts, mining tunnels, wire
+      entanglements.
+
+
+7.--Ammunition shelters:
+
+    See that there are a sufficient number of shelters
+      for rifle ammunition, grenades, rockets and other
+      supplies.
+
+
+8.--Loopholes and Parapet:
+
+    Ascertain the conditions of all the loopholes and
+      have them repaired if need be. (They should cut the
+      parapet diagonally and be concealed in every way
+      possible with vegetation, branches, and the opening
+      blocked when not in use.)
+
+    Have all damages to the parapet and to the ground
+      underneath quickly attended to.
+
+    See that in each section there are small ladders to
+      permit of easy access to the top of the parapet.
+
+    See that means are provided to fire above the parapet
+      in case of an attack.
+
+
+9.--Drainage:
+
+    Attend carefully to the drainage. Have the trench
+      bottom kept convex with small gutters on either side
+      running into pits lined with gabions. If trench
+      bottom is lined with board walks, keep it in repair.
+      Have water pits emptied if necessary.
+
+
+10.--Sanitation:
+
+    Have latrines kept in perfect sanitary order.
+
+    Have them filled up and others dug =if need be=.
+
+    Have all rubbish collected and carried out.
+
+
+11.--Precautions against capture of fire-trench.
+
+    Prepare for the obstruction of the communicating
+      trenches in case the enemy should capture the fire
+      trench: Have piles of sand bags above the entrance of
+      each trench ready to be dumped into it. Have chevaux
+      de frise lined up on one parapet of the trench and
+      all held up in such a way by a single wire that when
+      the wire is cut they will fall into the trench. Mines
+      can also be prepared to blow up the trench when
+      invaded. The communicating trench between the fire
+      trench and the listening post should be covered with
+      barbed wire screens or be tunnelled.
+
+
+
+
+THE WATCH FROM THE TRENCHES.
+
+
+12.--Trench Warfare an outpost duty.
+
+Trench warfare, the inevitable form of modern warfare, is a continuous
+series of outpost duty. Hence it is based wholly on eternal vigilance.
+The patrols correspond to the scouts; the listening posts to the
+sentinels; the firing trench to the outguards; the cover trench to the
+supports. The safety of the sector depends entirely on the vigilance
+of the advanced elements and the rapidity with which supports and the
+reserves can be summoned.
+
+Watching is thus the fundamental duty in trench warfare.
+
+The following points should be kept in mind:
+
+
+
+
+AT ALL TIMES
+
+
+13.--Number of men in the fire trench.
+
+There must be as many sentinels in each section as is necessary to
+cover completely the sector to be watched, no more, no less, each
+sentinel being given the exact limits (such as tree, copse, post,
+etc.) at each end of the line he should watch.
+
+
+14.--Fix bayonets.
+
+The men on duty should have bayonets fixed as, in case of a possible
+surprise, they are needed for defense. Otherwise too, fixing bayonets
+would be an indication to the enemy of an impending raid.
+
+
+
+
+DURING THE DAY.
+
+
+15.--Observation of open terrain.
+
+When the terrain opposite is open country, the necessary observation
+may be done by the smallest possible number of men. Fire only, if any
+of the enemy are sighted. Then, have two rounds fired, then three. But
+keep fire under strict control. (If enemy continues to approach. Cf.
+par. 52 ff.)
+
+
+16.--Observation of covered terrain.
+
+When the terrain is covered (high brush wood, copses, trees, etc.) a
+sharpshooter in each section should fire occasionally into the trees,
+etc., which may be observation or sharpshooters' posts but this should
+not be overdone.
+
+
+
+
+AT NIGHT.
+
+
+17.--Double sentinels.
+
+Post double sentinels in each section, each man watching in turn, the
+other resting but within call.
+
+
+18.--Silence.
+
+They should refrain from making the least noise so as to hear and not
+be heard.
+
+
+19.--No firing when fired upon.
+
+There should be no firing when the enemy fires since when the enemy
+fires, he does not advance.
+
+
+20.--Look and listen.
+
+They should keep a sharp lookout but listen even more attentively.
+
+
+21.--In the listening posts.
+
+Sentinels in the listening posts should listen especially for the noise
+of crushed branches, stirring leaves, slight noise of arms or utensils.
+
+If enemy is detected, these sentinels should hasten back to fire trench
+to give the alarm quietly so that the enemy may be surprised.
+
+They should fire only if they are themselves caught unawares.
+
+Listening posts should not be too numerous, about two per battalion.
+
+If there are no listening posts, patrols should be sent out to
+favorable spots especially at sundown and before sunrise.
+
+
+22.--Enemy sighted or heard, fire.
+
+If the night is clear and the terrain is open, proceed as during the
+day: If the enemy is sighted or heard, fire in short volleys. In case
+of doubt throw grenades with the first volley.
+
+
+23.--Otherwise no firing.
+
+Otherwise, absolute silence should be observed. No firing whatever.
+
+
+24.--Unless night is dark.
+
+If the night is dark, to avoid surprise, keep up firing: One man per
+section should fire in turn, from time to time varying the direction.
+
+
+25.--Digging by enemy.
+
+If digging by the enemy is reported, cease firing. Have it located,
+throw bombs followed by volleys. Notify sappers for counter mining.
+
+
+26.--Watch for light of enemy's fire.
+
+If enemy fires, note where light appears.
+
+
+27.--Posting of sharpshooters.
+
+Locate sharpshooters in advantageous posts behind the trenches (trees,
+etc.). Have them fire into the enemy's listening posts and into the
+enemy's trench, especially wherever light appears. These posts should
+not be occupied during the day.
+
+
+28.--Patrols.
+
+Send out patrols, stationary or mobile.
+
+
+
+
+PATROLLING.
+
+
+29.--Functions of Patrols.
+
+The aim: to supplement the work of the listening posts and of the
+sentinels through more forward observation. To discover the movements
+and the operations of the enemy. To locate his emplacements.
+
+To keep in close touch with the enemy so as to take advantage of his
+possible weaknesses: lack of watchfulness, of ammunition, of sufficient
+troops. To verify, repair and complete advance defences. To get the
+exact range of enemy's positions. To bring back prisoners.
+
+
+30.--Time to patrol.
+
+Patrols should be on duty through the night but be specially watchful
+before sunrise.
+
+
+31.--Assignment of patrol duty.
+
+N. C. O. and men should be assigned to patrol duty by roster or as
+volunteers. In the former case, if there is reason to think that a
+patrol has not done its best to secure information, the same men should
+be sent out again.
+
+
+32.--Sentinels should know about patrols.
+
+Neighboring companies should be notified of the departure, route and
+probable time of return of patrols. If several patrols are sent out at
+the same time they should know one another's itinerary.
+
+
+33.--Dress and equipment of patrols.
+
+The men (3 to 5 commanded by N. C. O.) should carry no impediments
+and their dress should not interfere with ease of movements: sweaters
+should be worn instead of overcoats. The woolen cap or comforter should
+be worn as they cover most of the face. Slits should be cut for the
+ears that hearing be not interfered with. The helmet should always be
+worn over comforter. Also dark gloves to hide the hands. No equipment
+save the rifle, the bayonet fixed or carried in the hand, (no bayonet
+scabbard), a few hand grenades.
+
+
+34.--Method of advance.
+
+Patrols should crawl forward or advance by short dashes, silently, stop
+often and for long periods, listen intently.
+
+
+35.--Under flare light.
+
+If the enemy sends up lighting rockets (flares) or fires volleys, lie
+flat on the ground until he stops.
+
+
+36.--Against an hostile patrol.
+
+If a small hostile patrol approaches, do the same, throw a stone or two
+so as to turn its attention away and take advantage of this to surprise
+it. If men of enemy's patrol give the alarm, kill them--lie flat on
+ground during enemy's volleys which will follow. Then strip bodies of
+distinctive uniform badges, and search for papers, etc. Otherwise bring
+men back as prisoners.
+
+
+37.--Need of initiative.
+
+Patrols should exercise initiative, take advantage of circumstances, in
+devising ways of bringing back the greatest possible amount of useful
+information.
+
+
+
+
+INTERROGATING PRISONERS.
+
+
+38.--Information from prisoners.
+
+One of the chief aims of patrolling is to bring back prisoners from
+whom information may be gathered.
+
+
+39.--Its use by General Staff.
+
+The General Staff is interested to know the nationality, the division,
+the age, etc. of prisoners captured in a given sector.
+
+
+40.--Its use by company commander.
+
+But these are of little value to the battalion or company commander.
+Hence, when possible, they should ask the prisoners questions more
+pertinent to the organization of the enemy sector opposite:
+
+
+41.--Questions to ask.
+
+How strongly are your various lines held?
+
+Where are the C. O. Post and the officers' dugouts?
+
+When and by what routes are the reliefs made, how often and on what
+days and at what time. Ask the same questions for the fatigues.
+
+At what time are rations brought or served?
+
+What is the actual muster of the company?
+
+How many regular army officers, how many reserve officers? What do the
+men think of their officers?
+
+How many advanced posts? How many men in each, by day and by night? Do
+they have grenades and how are they relieved?
+
+How many men are sent out on patrol, how often, at what time, by what
+route coming and going? How are they dressed and armed? What are their
+instructions?
+
+What does the enemy know about our own patrols?
+
+Are snipers placed in trees during the day and at night? If so, what
+trees are used. What parts of our sectors can they see?
+
+Are they planning any raids? Do they anticipate raids by us?
+
+What work are they carrying on during the day and at night?
+
+Have they any idea of our own activities?
+
+What is the nature and the location of their accessory defences?
+
+What is the location of their machine guns, trench mortars?
+
+Have they any asphyxiating gas or liquid fire apparatus?
+
+Have they abundant supplies of hand grenades, etc., etc.
+
+
+
+
+DEVICES TO DRAW THE ENEMY'S FIRE.
+
+
+42.--To make enemy waste ammunition.
+
+Any devices which lead the enemy to waste ammunition or to expose
+themselves is a clear gain.
+
+Many may be readily devised and officers and men should be encouraged
+to do so. The following have often proved successful:
+
+
+43.--Pretend abandoning trench.
+
+Remain absolutely quiescent during several days. This may lead the
+enemy to send out patrols or raiding parties which may be the more
+surely destroyed. They should be allowed to approach to the wire
+entanglements before a shot is fired.
+
+
+44.--Pretend a raid.
+
+On dark nights, have all firing stop. Throw stones by hand or with
+slings, a dozen at a time toward the enemy's trench. This will lead
+him to fire repeated volleys and waste ammunition in his fear of an
+attack, especially if the trenches are in wooded terrain and there are
+leaves on the ground. Repeat several times during the night.
+
+Patrols may also tie strings to the enemy's barb wire. On dark nights
+pulling on the string may lead the enemy to fire.
+
+
+45.--Use decoys.
+
+Decoys may be arranged in trees or stuck up momentarily over the
+parapet. They will draw the enemy's fire.
+
+
+46.--Pretend a fire attack.
+
+If the enemy's trenches are near enough for the sound to carry,
+whistles may be blown all along the line before a volley. They may
+be blown again after the command to omit the volley. The enemy may
+continue to fire indefinitely.
+
+
+47.--Watch out for enemy's ruses.
+
+Let the aim of all these devices be to make the enemy waste ammunition
+and to save your own. On the other hand, the enemy is likely to attempt
+like ruses and many others which are not permissible such as the use of
+white flags or raising hands to indicate pretended surrender.
+
+
+48.--His use of blank cartridges.
+
+A legitimate ruse, of which the enemy is fond and which should be
+guarded against, consists in their firing blank cartridges to mask an
+advance of their men. It is clear that men do not advance while bullets
+are fired from their own trenches. Nor does one fire in retaliation
+until the enemy's fire ceases. A little attention will be sufficient to
+spoil this plan as, when only blank cartridges are fired, no bullets
+will whiz by. As long as the enemy fires blank cartridges, withhold
+your own fire, be on guard against the appearance of patrols and be
+ready to receive them when they draw near.
+
+
+49.--His use of flares.
+
+In case the enemy sends up flares, patrols should lie flat and
+motionless till after the volley which often follows. The sentinels in
+the fire trench should note spot where flare was sent up and abstain
+from firing unless enemy is sighted out of his trenches.
+
+
+50.--His machine guns.
+
+If a machine gun opens fire from the trench opposite, try to locate it
+through the light and sound at night, through sound and actual sight
+during the day.
+
+Fire a converging volley of two rounds in its direction, and repeat,
+but not over six rounds if unsuccessful.
+
+At the same time let trench mortars fire bombs in the same direction.
+
+
+51.--His field and trench artillery fire.
+
+If enemy's artillery fires upon trenches (Cf. par. 69 ff.)
+
+
+
+
+AN ATTACK.
+
+
+
+
+THE REPULSE.
+
+
+52.--A threatened raid.
+
+As has been stated (par. 15 and 22) in case enemy patrols approach,
+volleys of two, then of three rounds should be fired. Keep cool. Do not
+fire prematurely.
+
+
+53.--Fire above parapet.
+
+The firing should be done over the parapet and not through the
+loopholes.
+
+
+54.--When alarm is given.
+
+If the sentinels report that an attack is developing, every one on duty
+takes his post.
+
+
+55.--Flares.
+
+Flares are sent up from each section.
+
+
+56.--Trench Mortars.
+
+Trench mortars fire bombs with the first volley.
+
+
+57.--How to repulse an attack.
+
+If the attack materializes, repeat volleys and trench mortar discharge
+and open fire with the machine guns.
+
+(On dark nights, in covered terrain, the machine guns should be fired
+with the first volley.)
+
+
+58.--Use of hand grenades.
+
+Hand grenades should be thrown as soon as the enemy is within 30 yards.
+
+The grenadiers of the odd number squads should aim to throw their
+grenades upon the assailants while those of the even number squads
+should try to establish a barrage by throwing behind the assailants.
+
+
+59.--Use of trench mortars.
+
+The trench mortars are aimed at the enemy's trench.
+
+
+60.--Use of the machine guns.
+
+The machine guns fire directly at the assailants, with slight
+differences in height of aim, (knee high, waist high, etc.) according
+to the directions previously given to each man.
+
+
+61.--Fire Control.
+
+Carefully keep fire rifle under control and avoid wasting ammunition.
+
+Never fire without aiming. If the ground ahead is flat, aim waist-high;
+if it slopes down, aim close to the soil; if it slopes up, aim at
+height of chest.
+
+
+62.--Repulse with the bayonet.
+
+If some of the enemy reach the trench, dispose of them with the bayonet.
+
+
+63.--Save ammunition.
+
+Cease firing and abstain from further firing as soon as the attack is
+repulsed.
+
+
+
+
+THE COUNTER ATTACK.
+
+
+64.--Immediate.
+
+It should follow immediately upon the successful repulse of the attack.
+
+
+65.--Counter attack formation.
+
+It should be developed in the following formation:
+
+1st. Grenadiers armed only with a bayonet, a bowie knife, a revolver
+and a full stock of grenades. With them a few men with pliers for wire
+cutting.
+
+2nd. Next a skirmish line of riflemen with a full supply of ammunition.
+
+3rd. Lastly, a line of men with entrenching tools.[B]
+
+
+66.--Method of advance.
+
+Proceed by short leaps making use of available protection and crawl
+flat on the ground in approaching the enemy's trench.
+
+
+67.--Capture of the enemy's fire trench.
+
+After the defenders in the fire trench are killed, jump in, throw bombs
+into the dugouts, pursue the enemy into the support and communication
+trenches.
+
+
+68.--Organize it against the enemy.
+
+Let then the engineers block up to the right and left the captured
+trench and organize it rapidly against the enemy, making it face about
+(through changing the parados into a parapet). The enemy is pursued as
+far as possible and kept away while fatigue parties from the rear bring
+up all necessary ammunition, sand bags, barbed wire, etc., carrying
+back all the captured enemy material. Other fatigue parties start at
+once to connect the former fire trench with the captured trench by
+communication trenches.
+
+FOOTNOTE:
+
+[B] Modifications of this formation have since been adopted. Cf. Works
+cited in preface.
+
+
+
+
+CONCERNING ARTILLERY.
+
+
+
+
+PRECAUTIONS AGAINST ENEMY'S ARTILLERY.
+
+
+69.--Artillery Bombardment.
+
+Whether preliminary to, in connection with, or independent of an
+infantry attack, the enemy may make use of his artillery.
+
+This bombardment may be directed against the fire trench or back of the
+fire-trench.
+
+
+70.--Case I.--Bombardment of the Fire Trench.
+
+
+71.--All in shelter except sentinels.
+
+Leave in the fire trench the necessary sentinels.
+
+Station all the other men in the shelters of the support trench, or
+along the communication trench, if there are no shelters, but fully
+equipped and ready to jump to their places in the fire trench as soon
+as the enemy's artillery fire will stop or lengthen to allow his
+infantry to advance.
+
+
+72.--Fire to impede observation.
+
+All through the bombardment, the sentinels should fire at all objects
+in the distance which may be used as observation posts. The machine
+guns should cooperate with a slow sweeping fire.
+
+
+73.--Case II.--Bombardment back of Fire Trench.
+
+
+74.--Watch for infantry attack.
+
+All should stand to in the fire trench watching for a possible infantry
+attack and for a possible shortening of the enemy's bombardment. If it
+occurs, proceed as in Case I.
+
+
+75.--Prevent observation.
+
+Fire against possible observation posts as in Case I.
+
+
+
+
+USE OF TRENCH ARTILLERY.
+
+
+76.--Use with a purpose.
+
+Whatever trench artillery appliances are provided, bomb-throwers,
+trench mortars, catapults, etc., they should never be used hap-hazard,
+but always with great deliberation and forethought.
+
+Have a distinct end in view and watch for the best opportunity to
+attain it.
+
+Such definite aims may be: to interfere with a relief, a fatigue, a
+trench construction or repair, to destroy accessory defences, etc.
+
+
+77.--Keep it ready.
+
+Let the mortars, etc., be kept loaded and trained on the target
+selected, ready to be fired instantly. The crews should be near at hand
+and a sentinel posted to watch for a favorable opportunity.
+
+
+78.--Save ammunition.
+
+Until this opportunity occurs, do not fire.
+
+
+79.--Have several emplacements.
+
+Several emplacements should be provided so that mortars, etc., may be
+removed as soon as they have obtained desired results or been located
+by the enemy.
+
+The trench mortar commander should make it his business to study
+carefully all possibilities for effective emplacements and should
+inspire his men to be alert and quick to improve opportunities.
+
+
+80.--Use of machine guns.
+
+The machine guns should likewise be handled as a mobile weapon and
+not be used merely from elaborate carefully concealed emplacements
+commanding otherwise uncovered ground or enfilading communication
+trenches, etc.[C]
+
+
+81.--Use of hand grenades.
+
+Hand grenades may be listed as trench artillery. The temptation is to
+use them too freely. Like other ammunition they should never be wasted
+and always used with a definite aim.
+
+FOOTNOTE:
+
+[C] Captain Hanguillart treats this important subject very summarily.
+Cf. Cole & Schoonmaker's Military Instructor's Manual p. 319. He also
+barely mentions Gas attacks. Cf. very complete treatment in same work,
+p. 356 to 370.
+
+
+
+
+FIELD ARTILLERY COOPERATION.
+
+
+82.--Communications with the artillery.
+
+Should be permanent so that it may cooperate whether to repulse an
+enemy's attack, to silence his artillery, to damage his defences or to
+prepare and protect an attack or a counter attack.
+
+
+83.--Observations posts.
+
+To avoid a waste of ammunition, and attain the desired result as well
+as to prevent the artillery fire from falling short upon one's own
+trenches, artillery observation posts should be provided in the fire
+trench or at one of the outposts.
+
+
+84.--Artillery fire falling short.
+
+In case artillery fire does fall short upon one's own trenches,
+communicate at once with artillery commander and proceed as when
+bombarded by enemy. (Cf. 69 ff.)
+
+
+85.--Artillery preparation of infantry attack.
+
+Special caution should be exercised in the case of a raid against the
+enemy's trench. Make sure that the artillery preparation has secured
+the desired result. Synchronize carefully the infantry advance and the
+lengthening of the artillery fire.
+
+
+
+
+DAILY SCHEDULE.
+
+
+86.--Rosters and schedules.
+
+Throughout the stay in the trenches, the various fatigues should be
+assigned by roster and carried out according to schedule. The following
+schedule has been found practical:
+
+
+
+
+7 A.M. (6 A.M. in summer).
+
+
+87.--Cleaning of trenches.
+
+Have trenches cleaned of all rubbish, latrines disinfected, drinking
+water supplied.
+
+
+88.--Collecting of broken equipment.
+
+All cartridge shells, broken tools, etc. should be collected.
+
+
+89.--Requisition Report.
+
+A list of the supplies and ammunition needed should be drawn up.
+
+
+90.--Report on night activities.
+
+Full report should be brought to the company commander, covering the
+work of the patrols and of the fatigue parties, and giving full details
+of all that has happened during the night.
+
+
+91.--Report on casualties.
+
+Also the list of casualties in the last twelve hours with full names
+and nature of wound if possible.
+
+
+92.--Disposal of property of dead and wounded.
+
+The arms and complete equipment of the wounded should be sent out
+with them. The arms and equipment of the killed should be sent to
+the battalion commander. Their personal effects; money, papers,
+letters, etc., should be carefully collected, listed, and sent to the
+sergeant-major.
+
+
+
+
+8 A.M.
+
+
+93.--Sick Parade.
+
+The men able to walk are taken to the doctor's dugout by an N.C.O.
+
+
+
+
+4 P.M.
+
+
+94.--Assignment of patrols.
+
+Assign night patrols from roster. Point out itinerary while light
+permits. Have neighbouring sectors advised of same.
+
+
+
+
+(8. P.M.)
+
+
+95.--Inspections.
+
+Inspection of sentinels in fire trench. Inspection of ammunition
+supplies.
+
+
+
+
+TURNING OVER THE TRENCHES.
+
+
+
+
+THE RELIEF.
+
+
+96.--In the afternoon and in each section:
+
+Have all the tools and supplies collected and list drawn up ready to
+hand over to successor against receipt for same.
+
+Inspect equipment of men that they may be taken out completely.
+
+Check up exact itinerary of relief in and out.
+
+
+97.--At the time of relief:
+
+Have rifles inspected and emptied.
+
+Give strict orders for silence.
+
+Follow same marching order as when coming in.
+
+Have officer march in rear.
+
+
+98.--On reaching billets.
+
+Have the roll called and sent to the officer of the day.
+
+Have rifles inspected.
+
+
+
+
+THE DAY AFTER THE RELIEF.
+
+
+99.--Replace equipment.
+
+Have all arms cleaned and oiled.
+
+Have broken arms turned in and others issued.
+
+Inspect shoes, clothes, equipment, tools, and replace when needed.
+
+Have special inspection of gas-masks and replace if needed.
+
+
+100.--Sanitation.
+
+Have underwear washed, and personal cleanliness attended to, baths,
+hair-cuts, etc.
+
+Have premises kept clean and latrines disinfected daily.
+
+
+
+
+OUT OF THE TRENCHES.
+
+
+101.--Specialists' Instruction.
+
+While in rest billets: Have all specialists' instruction continued:
+sharpshooters, bomb-throwers, signallers, etc.
+
+
+102.--Bayonet exercises.
+
+Should be given special attention.
+
+
+103.--Close and extended order drill
+
+and marching give the men needed exercise.
+
+
+104.--Relaxation.
+
+should also be provided: in the form of games, contests,
+entertainments, etc. They help to keep the men "fit."
+
+
+105.--Efficiency.
+
+The company commander should make it is his constant concern that his
+men be kept at the highest possible point of efficiency.
+
+
+
+
+QUESTIONS.
+
+
+    The following questions are topical. Supplements to the
+    answers found in this book should be looked for in the
+    larger works referred to in the preface.
+
+
+Trench Life and Trench Warfare.
+
+1.--What inspections should be made on the day before the relief?
+
+2.--State orders to be issued one hour before departure.
+
+3.--What may be the marching orders, on the way to the trenches?
+
+4.--Describe precautions to be taken against enemy's fire, against
+aeroplanes.
+
+5.--What other precautions should be taken?
+
+6.--What should the company commander attend to on reaching the
+trenches?
+
+7.--What possible improvements of trenches are obviously called for?
+
+8.--What special attention should be given the parapet?
+
+9.--Give rules for drainage and sanitation.
+
+10.--What precautions may be taken against capture of fire-trench?
+
+11.--What does trench warfare correspond to in open warfare?
+
+12.--What does the safety of a sector depend on?
+
+13.--What is the fundamental duty in trench warfare?
+
+14.--What rule determines the number of men to be posted in the
+fire-trench?
+
+15.--Sum up their orders about firing before open terrain, before
+covered terrain.
+
+16.--What is meant by double sentinels?
+
+17.--Why is listening attentively even more important than keeping a
+sharp look out?
+
+18.--Why should the sentinels refrain from answering the enemy's fire?
+
+19.--What is expected of the men in the listening posts?
+
+20.--When should the sentinels fire on a clear night? When, on a dark
+night?
+
+21.--What should the sentinels do, if they hear the enemy's digging?
+
+22.--When and where are sharpshooters posted and what is their duty?
+
+23.--What information may patrols bring back?
+
+24.--When should patrols be sent out and how should they be assigned?
+
+25.--What should the sentinels along a sector know about the patrols,
+and the several possible patrols know about one another?
+
+26.--Describe dress and equipment of men on patrols.
+
+27.--Describe their method of advance.
+
+28.--What should they do on encountering a hostile patrol?
+
+29.--What should be the motto of men on patrol?
+
+30.--What are some of the most useful informations about the enemy, you
+should try to obtain?
+
+31.--What motto should you have about ammunition?
+
+32.--Describe several ways of leading enemy to waste ammunition.
+
+33.--What is the distinction between legitimate and illegitimate ruses?
+
+34.--On what principle is the enemy's ruse of the use of blank
+cartridges based?
+
+35.--How may this ruse be foiled?
+
+36.--What should the sentinels, and what should the men on patrol do,
+when the enemy sends up flares?
+
+37.--How should the enemy's machine gun fire be answered?
+
+
+An Enemy's Attack.
+
+38.--Describe procedure when enemy's patrols are sighted by sentinels
+and when an attack develops.
+
+39.--When are the trench mortars and the machine guns fired?
+
+40.--How are hand grenades thrown?
+
+41.--Where should the rifle fire be aimed?
+
+42.--When are bayonets used?
+
+43.--Is it sufficient to repulse an attack?
+
+44.--What formation should be adopted for the counter attack?
+
+45.--How is the advance made and the counter attack carried out?
+
+46.--Describe what is meant by organization of a newly conquered trench.
+
+47.--What should be done, if the enemy bombards the fire-trench?
+
+48.--What should the sentinels do?
+
+49.--What should be done if the bombardment is back of the fire-trench?
+
+50.--What general rule applies to the use of all trench artillery?
+
+51.--What are its ordinary objectives?
+
+52.--How are trench mortars handled?
+
+53.--What is meant by calling trench-artillery mobile weapons?
+
+54.--Give a general caution for the use of all ammunition.
+
+55.--What is essential to secure effective artillery fire?
+
+56.--What should be done if one's own artillery fire falls short upon
+one's own trenches?
+
+57.--How is coordination between artillery and infantry secured in case
+of a raid?
+
+58.--What are the principal items of the morning schedule, of the
+afternoon schedule?
+
+59.--Describe the preparations for leaving the trenches.
+
+60.--What orders are given at the time of relief?
+
+61.--What is done before the men are dismissed to their billets?
+
+62.--How should the days in rest billets be utilized?
+
+63.--Describe a typical day in the trenches.
+
+64.--Describe a typical day in rest billets.
+
+65.--What should be the supreme aim alike of men and officers?
+
+
+
+
+    Part II.
+
+    French Infantry Combat
+    Principles.
+
+
+
+
+FRENCH INFANTRY COMBAT PRINCIPLES.
+
+
+
+
+OPEN WARFARE.
+
+
+106.--Is open warfare probable?
+
+It is improbable that in this war trench warfare will definitely give
+place on all sectors of the front to open warfare.
+
+But the tactics that have forced several retirements will force others.
+
+If sufficient troops are available, tried and fit and resolute, with
+the necessary quantities of ammunition and improved artillery, we shall
+see German arrogance and brutality in victory become again cringing
+fear and demoralization in defeat; the experience of the Marne will
+be repeated and the invaders will be driven out of the territory they
+swarmed over through treacherous breaking of treaties.
+
+
+107.--The need of training in Infantry Combat Principles.
+
+That day the infantry will come again unto its own and its dash and
+resolution will insure victory.
+
+To achieve it, it must be a well trained infantry, in the old sense
+of the word. Officers, non-commissioned officers and men must have a
+thorough and practical knowledge of Infantry Combat Principles.
+
+These should be practiced in the intervals of trench service when the
+battalion is in rest billets.
+
+Their theory should be thoroughly mastered by all on whom may devolve
+responsibility.
+
+
+108.--The two phases of the Combat.
+
+We shall study here the two principal phases of the combat: the
+approach and the attack, from the point of view of the company
+commander.
+
+
+109.--The Defense.
+
+We shall also consider the Combat from the standpoint of the Defense.
+
+
+
+
+THE APPROACH.
+
+
+110.--All maneuvering at close range impossible.
+
+In the attack, the infantry can proceed only straight ahead. Under
+infantry fire all maneuvering is impossible. Therefore by "approach" is
+meant all maneuvering preparatory to the attack: It brings the troops
+directly in front of and as near as possible to the objective.
+
+
+
+
+PRELIMINARY DISPOSITIONS TO START THE APPROACH.
+
+
+111.--The orders to attack.
+
+The company commander will receive his orders from the battalion
+commander.
+
+
+112.--Equipment and Liaison.
+
+In the meanwhile let the lieutenants:
+
+    a) make sure that the men are fully equipped and
+    provided with full allotment of ammunition;
+
+    b) appoint and parade connecting files (runners) to
+    await orders.
+
+
+113.--Distribution of Orders.
+
+The company commander having received his orders from the battalion
+commander, will then call his subordinates and issue his own orders
+accordingly, including the formation to be adopted.
+
+
+114.--Combat patrols.
+
+He will make sure that there are combat patrols on the exposed flank or
+flanks and to the front and rear if need be.
+
+It is well to have combat patrols detach automatically. It may be
+understood, once for all, that, without further orders, the first squad
+will cover in front, the second to the right, the third to the left,
+the fourth to the rear, whenever needed. Still, the officer in charge
+should make sure that this arrangement is carried out.
+
+A combat patrol, if not a full advance guard, will thus always precede
+a unit and be the first to take contact with the enemy.
+
+
+115.--Officers as guides.
+
+The officers serve as guides to their units, until deployment, a
+mounted officer in liaison with the advance guard or advanced combat
+patrol checking up the itinerary.
+
+
+116.--Keep Close Order as long as possible.
+
+The advance of a company into an engagement is conducted in close
+order, preferably columns of squads, until possible observation by the
+enemy or encountering of hostile fire makes it advisable to deploy.
+
+Deployment should not be premature and should always follow upon the
+conditions arising during the progress of the advance.
+
+
+
+
+PRECAUTIONS AGAINST HOSTILE ARTILLERY.
+
+
+
+
+AGAINST SILENT ARTILLERY.
+
+
+117.--Nearing artillery which may open fire.
+
+About two or three miles from the positions liable to be occupied by
+the enemy's field artillery, precautions should be taken against the
+possibility of its opening fire.
+
+
+118.--Deployment.
+
+Deployments should be adopted best suited to escape observation:
+
+
+119.--To escape direct observation:
+
+March in single or double file, the whole section[D] keeping closed up
+so as to diminish the number of files seen from the front.
+
+
+120.--Under aeroplane observation:
+
+Avoid especially the center of roads as they show white, utilize on the
+contrary the spaces between cultivated fields of different colors,
+make use of all possible cover, trees, shrubs, ditches, embankments.
+Always walk in the shade when possible. If hostile aeroplanes are
+flying low, halt and lie down on left side, hiding face in elbow.
+
+FOOTNOTE:
+
+[D] The French "section" comprises 54 men. It is thus equivalent to 7
+squads, and may be considered as 2 platoons.
+
+
+
+
+CROSSING A BOMBARDED ZONE.
+
+
+121.--Case I. Artillery opening fire to register.
+
+A registering fire is easily recognized as the German artillery
+registers either with a single percussion shell at a time, or with two
+time-shells at three seconds interval.
+
+In the German field gun, the setting of the angle of sight[E] and of
+the elevation[F] involves two operations.
+
+
+122.--Oblique to right then to left.
+
+Therefore infantry under registering fire should oblique forward
+rapidly.
+
+
+123.--Case II: Artillery opening fire for effect.
+
+The zone has necessarily been previously registered. Such a zone is
+easily recognized by the presence of shell holes.
+
+
+124.--Avoid Zone if possible.
+
+It should be avoided and the advance made on its outskirts.
+
+
+125.--The five cases of fire for effect.
+
+If this cannot be done and the fire for effect materializes five cases
+are to be distinguished as the shells may be:
+
+    1. Shrapnel shells bursting at right height;
+
+    2. Shrapnel shells bursting high;
+
+    3. Time-Fuse high explosive shells bursting at right
+    height;
+
+    4. Time-Fuse high explosive shells bursting high;
+
+    5. Percussion high explosive shells.
+
+
+126.--Case 1. Burst Area of Shrapnel shells bursting at right height.
+
+The area of burst is about 250 to 300 yards in length and 30 yards in
+width, half the bullets falling on the first 50 yards of the beaten
+zone.
+
+
+127.--Protective Formation against Shrapnel.
+
+Advance in line of section, in single or double file keeping as closed
+up as possible with 30 yards intervals between sections.
+
+The second line should be 250 to 300 yards behind the first.
+
+
+128.--Case 2. Shrapnel shells bursting high.
+
+Much less dangerous than when bursting at right height as initial speed
+of bullets is spent. Same formation as for Case 1.
+
+
+129.--Case 3. Burst area of Time-fuse high explosive shells bursting at
+right height.
+
+The area of burst is opposite to that of shrapnel: short depth, large
+width, only 7 to 10 yards depths as opposed to 60 to 100 yards in width.
+
+
+130.--Protective Formation against Time-fuse high explosives.
+
+Advance in line of section, single or double file, keeping as closed up
+as possible with 60 to 100 yards intervals between sections.
+
+The second line may be 15 yards behind the first.
+
+
+131.--Case 4. High explosive shells bursting high.
+
+The depth of the area of burst is longer than when shells burst at the
+right height; therefore widen interval between the lines.
+
+
+132.--Case 5. Burst area of percussion high explosive shells.
+
+The radius of the explosion is only about 25 yards but the local effect
+is intense and the displacement is effective in more than double the
+radius.
+
+
+133.--Protective Formation against percussion high explosive shells.
+
+Advance in line of section in double file, keeping as closed up as
+possible, with about 100 yards intervals between sections.
+
+The second line may be about 50 yards behind the first.
+
+FOOTNOTES:
+
+[E] Inclination of the line of sight to the horizontal.
+
+[F] The vertical inclination of the gun.
+
+
+
+
+GENERAL RECOMMENDATIONS AGAINST ALL TYPES OF EFFECTIVE FIRE.
+
+
+134.--Dangerous to stop, useless to run.
+
+Do not stop in a zone under fire for effect as lying down only provides
+a larger target. If absolutely obliged to stop, remain standing
+and packed together like sardines, maintaining above formations and
+intervals. It is useless to run, but, as much as possible, advance
+steadily.
+
+
+135.--Protective Formation against all types of shells.
+
+As may appear from the study of the above the following formation
+and intervals will afford the best protection against all types and
+combinations of types of shells, as a shell will never affect more than
+one section.
+
+Advance in lines of sections in double file, keeping as closed up as
+possible, with 85 to 110 yards intervals[G] between sections.
+
+The second line should be 250 to 300 yards behind the first.
+
+FOOTNOTE:
+
+[G] All through this chapter, maximum intervals are given. They may
+have to be shortened to secure closer order at the expense of greater
+safety.
+
+
+
+
+SPECIAL FEATURES OF THE APPROACH.
+
+
+
+
+USE OF WOODS AS SHELTER ON THE ADVANCE.
+
+
+136.--Avoid if small.
+
+They should be used to advance or halt only if they are of considerable
+size. Then, they hide movements and provide some shelter from fire. On
+the contrary, when they are small, they are to be avoided as they draw
+artillery fire and do not offer sufficient protection.
+
+
+137.--Liaison difficult.
+
+When advancing in woods, special care should be taken to keep all
+fractions connected.
+
+
+138.--Exit quickly at one time.
+
+To exit from wood, take all necessary dispositions under cover so that,
+on the signal of the commander, all fractions may be ready to spring
+out together. They should continue to advance forward, as rapidly as
+possible, to avoid the enemy's likely shelling of the outskirts.
+
+
+138.--Otherwise exit in different places.
+
+If the exit cannot be made by all fractions at one time, the elements
+of the second line should avoid coming out at the same point as those
+of the first line.
+
+
+
+
+TO CROSS A CREST.
+
+
+139.--Cross altogether and rapidly.
+
+Let the line of sections assemble at top of crest, crouching carefully
+below the sky line. Then, upon concerted signal, all should leap
+quickly across and down the descending slope, making as extended bounds
+as possible.
+
+This makes crossing fairly safe as even the infantry will have to
+modify both its elevation and angle of sight for every new position of
+this quickly moving target.
+
+
+
+
+PRECAUTIONS AGAINST CAVALRY.
+
+
+140.--Cavalry Patrols.
+
+During the whole "approach" watch should be kept for possible cavalry
+patrols. The elements acting as advance guard and flank guards or
+as combat patrols have as part of their special mission to keep the
+cavalry away from the main body.
+
+
+141.--Face and Fire.
+
+To repulse cavalry, the infantry must be able to face quickly toward
+the charging horsemen and furnish a heavy fire.
+
+
+142.--Protective formations.
+
+If cavalry patrols are expected ahead, deployment as skirmishers will
+secure this, if on the flanks, deploy in columns of squads marching in
+double file. A formation in echelon is effective at all times.
+
+
+143.--Repulsing the charge.
+
+If cavalry appears, stop, face the charge quickly, fix bayonets and
+fire at will, the section leaders controlling the fire.
+
+
+144.--In case of surprise.
+
+If surprised, deploy quickly and lie down.
+
+
+
+
+THE ATTACK.
+
+
+
+
+THE TERMINATION OF THE APPROACH.
+
+
+145.--The Objective.
+
+The standard objective of a battalion is a maximum front of 550 yards.
+
+
+146.--Determination of the Objective.
+
+On nearing the objective the battalion commander reconnoiters rapidly
+to determine the number of companies to put in the front line and the
+part of the objective to be assigned to each.
+
+
+147.--Horses sent back.
+
+Mounted officers now send back their horses to reserve battalion.
+
+
+148.--Assignment of position to companies.
+
+The battalion commander assigns to each company its part of the
+objective and the position from which it is to start the attack.
+
+
+149.--Getting into position for the attack.
+
+The orders are given verbally by the battalion commander to the
+captains and by the captains to the company usually through the platoon
+leaders as the company is not in close order.
+
+
+150.--Deployment before infantry fire.
+
+As soon as the zone swept by the infantry fire of the enemy is reached
+(about 1000 yards) deployment as skirmishers becomes imperative.
+
+
+151.--Methods of advance.
+
+Keep on advancing toward positions for the attack by fractions, varying
+method according to the terrain; short rushes, crawling, making use of
+all possible cover.
+
+
+152.--Position of officers.
+
+The battalion commander and the captains march with the supports, the
+battalion commander controlling the despatch of reinforcements. As
+soon as the supports are all sent forward they march with the fraction
+nearest the enemy.
+
+
+153.--Liaison.
+
+A connecting file (runner) accompanies the battalion commander and each
+of the captains.
+
+
+
+
+THE FIRE ATTACK.
+
+
+154.--The time to fire.
+
+It is determined by the casualties.
+
+
+155.--The order to fire.
+
+It is given by the captains; (only in case of extreme emergency by a
+subaltern.)
+
+
+156.--Fire Control.
+
+The section leaders, under the direction of the captain; control the
+fire: classes of firing, volley firing, firing at will; the target (the
+nearest hostile troops within the sector of the objective being the
+usual target); the range, the opening and cessation of fire in volley
+fire.
+
+
+157.--Fire observation.
+
+The section leaders are helped in their observation of the fire effect
+by observers standing besides them. The fire is usually directed
+independently by section or half section.
+
+
+158.--Verification of range.
+
+In principle, the corporals do not take part in the fire but verify
+the range and direction of the fire of their respective squads.
+
+
+
+
+ADVANCING THE FIRING LINE.
+
+
+159.--Methods of advance.
+
+To advance the firing line in attack, all means are good: by section,
+half-section, squad, the only condition being that it be by commanded
+fractions.
+
+
+160.--Closing in to replace casualties.
+
+As men fall, the rest close in toward the section leader, the sections
+rectifying intervals on the sections furthest advanced (the captain is
+with this section, all sections being now in line.)
+
+
+161.--Closing in on the battalion front.
+
+The several companies rectify intervals in the same way on the furthest
+advanced company (the battalion commander being with this company).
+
+
+162.--Seize every opportunity to advance.
+
+Every propitious occasion to advance should be seized at once by the
+various elements of the line: greater effectiveness of the neighboring
+section's fire, slackening fire of the enemy, effects of artillery,
+etc.
+
+
+163.--Each fraction protects advance of neighbor.
+
+The movement forward of each fraction of the line should be protected
+by the fire of the neighboring fraction.
+
+
+164.--Keep fit to fire accurately.
+
+The fraction leader, after each rush forward, should give time to the
+men to get back their breath so that they may fire with careful aim.
+
+
+165.--Liaison with the Captain.
+
+The captain should be kept informed by a conventional signal as to the
+need of ammunition, etc.
+
+
+
+
+USE OF MACHINE GUNS IN THE ATTACK.
+
+
+166.--During the Approach.
+
+Use them judiciously but boldly. They should advance as first units.
+
+
+167.--During the fire attack.
+
+Strive to keep abreast or ahead of the most advanced elements
+especially on the flanks.
+
+
+168.--During the charge.
+
+Try to have them reach the objective with the firing line and
+contribute to the pursuit.
+
+
+
+
+THE COMPANY SUPPORTS.
+
+
+169.--In liaison with the captain.
+
+The sections kept in support are at the disposition of the captain.
+
+
+170.--Method of advance.
+
+Under the command of the section leader, they advance, in double file,
+at proper intervals or deployed, according to their proximity to the
+enemy and according to the terrain (covered or uncovered).
+
+
+171.--Distance from the firing line.
+
+They should be about 250 yards behind the firing line to whose
+movements they conform.
+
+
+172.--Supplying the firing line.
+
+The section leaders keep in sight of the captain and upon his signaled
+command advance into the firing line either to fill up a gap or to
+reinforce a section.
+
+
+173.--When filling a gap.
+
+They advance as far as possible ahead of the line.
+
+
+174.--Reinforcing.
+
+They come up with a rush and shout to rehearten the line.
+
+
+
+
+THE COMPANIES IN SUPPORT.
+
+
+175.--Position.
+
+They are kept out of range of the enemy's fire upon the firing line but
+near enough to interfere as soon as called upon.
+
+
+176.--Liaison with battalion commander.
+
+The captains keep in touch with the battalion commander.
+
+
+177.--Advance into action.
+
+These companies advance into the fire zone with the necessary
+precautions, either by fractions or entire, taking advantage of
+favorable conditions: inefficiency of the enemy's fire, effectiveness
+of the firing line, etc.
+
+
+
+
+THE CHARGE.
+
+
+178.--The final aim.
+
+The charge is the final aim of the whole attack. Its success means the
+defeat of the enemy.
+
+
+179.--Caution.
+
+It should not be launched too soon.
+
+
+180.--By whom ordered.
+
+The order may come directly from the commander of the attacking line or
+be solicited by any of his subordinates.
+
+
+181.--Method of advance.
+
+Fix bayonets, advance, stop to fire, advance again, but always so as to
+arrive on the enemy's position without being out of breath.
+
+
+
+
+THE PURSUIT.
+
+
+182.--One essential rule.
+
+It should be vigorously pressed.
+
+
+183.--Organize new position.
+
+In the meanwhile the conquered position should be organized.
+
+
+
+
+SPECIAL FEATURES OF THE ATTACK.
+
+
+
+
+ATTACK OF A WOOD.
+
+
+184.--First objective.
+
+In the attack of a wood, the first objective should be the outskirts.
+Concentrate the first effort on the salients.
+
+
+185.--Method of Advance.
+
+As soon as the wood is penetrated, advance quickly forward, utilizing
+all roads, paths and trails. The company advances by sections or half
+sections, in single or double file, preceded by strong patrols.
+
+Every effort should be made to close in with the bayonet.
+
+
+186.--Outflanking.
+
+The companies or fractions on the flank strive to outflank the enemy so
+as to attack him on the flank or from behind.
+
+
+187.--Frontal Attack.
+
+The companies or fractions in the center try to get across the wood as
+quickly as possible, or, at least, to reach a clearing.
+
+
+
+
+ATTACK OF A VILLAGE.
+
+
+188.--First Objective.
+
+In the attack of a village, the first objective should be the nearest
+outskirt.
+
+
+189.--Organize.
+
+Consolidate this first position as soon as conquered. Signal to the
+artillery to lengthen the range.
+
+
+190.--Frontal attack.
+
+Then try to gain as rapidly as possible the opposite end.
+
+
+191.--Outflanking.
+
+The flanking units endeavor to encircle the objective.
+
+
+192.--Against interior defense.
+
+If the defense has been strongly organized inside the village, fight
+forward step by step. Blow up the obstacles with explosives.
+
+
+193.--Cooperation of Artillery.
+
+Have artillery bring up a few guns within close range.
+
+
+
+
+ATTACK OF A DEFILE.
+
+
+194.--When defended in front.
+
+If it is defended in front, try to advance rapidly by one or both
+flanks, small fractions only attacking on the valley bottom, while the
+greater part of the attacking force progresses on the heights on either
+side, the flanks striving to keep forward so as to reach the other end
+before the defenders and encircle them.
+
+
+195.--When defended in rear.
+
+If the defile is defended at the farther end, as in the case of a
+bridge, echelon units (properly covered) for heavy concentrated fire
+from the bank held and cross the bridge on the run and in small groups.
+
+
+
+
+NIGHT ATTACKS.
+
+
+196.--Of limited scope.
+
+They must be confined to simple movements over easy ground.
+
+
+197.--Orders to be given.
+
+They must be carefully prepared secretly beforehand in every detail.
+The orders must include detailed particulars on the role of each unit
+or fraction of units, precise data on the rallying points and on the
+signals to be used.
+
+
+198.--Small units used.
+
+For many reasons, chief among which is the difficulty of handling large
+units at night and maintaining contact, small units should be used.
+
+
+199.--A battalion the maximum.
+
+The fire of the adversary being negligible at night, there is seldom
+any advantage in putting more than a battalion in line against a given
+objective, the quality, discipline and cohesion of the troops making up
+for the number.
+
+
+200.--Special precaution.
+
+Before beginning the approach, carefully secure all arms and utensils
+so as to prevent noise. Fix bayonets.
+
+
+201.--Method of advance.
+
+Walk in double files on sides of roads, never in the center. Otherwise
+as long as practicable, in columns of squads.
+
+
+202.--Liaison.
+
+Commands are to be transmitted in a low voice by connecting files.
+
+
+203.--To secure surprise.
+
+Keep absolute silence. Forbid all lights. No smoking allowed.
+
+
+204.--Reconnaissance.
+
+The itinerary should be reconnoitered beforehand, if possible, and
+index stakes planted; otherwise an officer should precede with a
+luminous compass and men to plant the stakes.
+
+
+205.--No fire before charge.
+
+Do not answer the enemy's fire until the charge.
+
+
+206.--Quickness essential.
+
+Success depends above all on the rapidity and continuity of the
+advance. Get there as quickly as possible.
+
+
+
+
+THE DEFENSE.
+
+DEFENSE OF POINTS d'APPUIS: WOODS, VILLAGES, DEFILES.
+
+
+
+
+DEFENSE OF WOODS.
+
+
+207.--Distribution of Troops.
+
+The commander should distribute his command so as to provide a defense
+of the outskirts, an interior defense and reserves for a counter attack.
+
+
+208.--The outskirt defense.
+
+The outskirts defense troops should organize their positions and remain
+hidden near the combat emplacements until the attack is announced as
+impending by their sentinels.
+
+
+209.--The interior defense.
+
+The interior defense troops should organize their positions (abatis,
+barb-wire) on the edges of clearings and other open spaces so as to
+secure convergent fire.
+
+
+210.--The Reserves.
+
+The counter-attack reserves should be placed in the rear and on the
+outside of the flank best suited for launching a counter attack. They
+should proceed to organize the ground so as to prevent the enemy from
+issuing from the wood, and should strive to keep on.
+
+
+
+
+DEFENSE OF A VILLAGE.
+
+
+211.--Distribution of Troops.
+
+The same as for the defense of a wood.
+
+
+212.--The exits.
+
+The outskirts defense organization should include trenches and
+accessory defences before all the exits. These should be strongly
+barricaded.
+
+
+213.--Interior strong point.
+
+The interior defense should be organized about the houses most strongly
+built and least visible to the enemy's artillery. It should include
+hidden communications between these strong points, thus facilitating a
+prolonged defense.
+
+
+214.--Special precautions.
+
+The streets should be barricaded and loopholes provided in the walls of
+the houses. Precautions should be taken against fire: pails of water,
+boxes of sand provided in the houses.
+
+
+
+
+DEFENSE OF A DEFILE.
+
+
+215.--To keep the exits open for an advance.
+
+If the aim is to keep the exits open so as to permit the advance of
+troops, the defense should be organized at some distance in front of
+the defile: far enough to permit the unimpeded progress of the advance.
+
+
+216.--To keep exits open for a retreat.
+
+If the aim is to keep the exits open so as to cover the retreat of
+troops, the roads at the bottom of the defile should be left free and
+the defense troops so placed as to draw the enemy's fire on other
+points.
+
+
+217.--To block the defile.
+
+If the aim is to block the defile, the defense should be organized
+in the interior of the defile on both sides of the place of greatest
+width, so as to secure convergence of fire. Echelon detachments all
+along the defile to act as a rear guard in case a retreat is necessary.
+Keep the flanks well protected.
+
+
+
+
+NIGHT DEFENSE OF A POSITION
+
+
+218.--Precautions against attack.
+
+Attack should be guarded against by accumulating obstacles and the
+defense further prepared by previous reconnoitering of the best ground
+for counter-attacks.
+
+
+219.--Receive with violent fire and immediate counterattacks.
+
+The enemy's charge should be met with a violent fire at the shortest
+possible range, followed immediately by counter-attacks with the
+bayonet, especially on the flanks.
+
+
+
+
+THE COUNTER ATTACK.
+
+
+220.--Confine to definite Objective.
+
+Indicate the objective very definitely including the position to be
+reached but not gone beyond.
+
+Its direction should not interfere with the fire of neighboring troops.
+
+
+221.--Necessary Reconnaissance.
+
+The Counter Attack should be prepared cautiously and the itinerary
+carefully, even if rapidly, reconnoitered. (This may have been done as
+part of the preparation of the defense. It should be done with special
+care if the counter-attack is to take place at night.)
+
+
+222.--Watch for opportunity.
+
+It may be decided upon independently of the incidents of the defense or
+to take advantage of the mistakes or weakness of the adversary.
+
+
+223.--Counter from short distance.
+
+The most favorable moment is when the enemy is within a short distance
+and its artillery consequently obliged to stop or to lengthen its fire.
+
+
+224.--Sudden and intense fire.
+
+It should be launched suddenly so as to surprise the enemy and pushed
+vigorously, the fire being increased to great intensity along the whole
+front.
+
+
+225.--Rapid and continuous advance.
+
+Rapidity and continuity of advance is essential.
+
+
+226.--Bayonet charge.
+
+Its culmination is the bayonet charge against the prescribed definite
+objective.
+
+
+227.--Stop!
+
+Hold this objective once conquered but do not go beyond.
+
+
+228.--Dash under Discipline.
+
+Let the motto be always, but here especially: "DASH UNDER DISCIPLINE."
+
+
+
+
+QUESTIONS.
+
+
+    The following questions cover the principles of
+    combat in open warfare. These principles have been
+    supplemented rather than changed in the light of
+    experience since 1914. In their original form, as
+    given in this book, they still may be considered as
+    fundamental. Compare them carefully with the treatment
+    of the same topics in the larger works recommended. The
+    questions are shaped to cover the topics supplemented.
+
+1.--What is the difference between "trench warfare" and "open warfare"?
+
+2.--What is meant by the "combat"?
+
+3.--What are the two phases of the combat?
+
+4.--What is the distinction between "the approach" and the "attack"?
+
+5.--Why is maneuvering impossible under infantry fire?
+
+6.--What is the purpose of the approach?
+
+7.--How are orders issued?
+
+8.--How is liaison secured?
+
+9.--What were the original functions of combat patrols?
+
+10.--When should close order be abandoned for deployment?
+
+11.--At what distance from the enemy does deployment become imperative?
+
+12.--What is the last formation to escape direct observation?
+
+13.--What precautions may be taken against aeroplane observations?
+
+14.--What is the difference between a registering fire and fire for
+effect?
+
+15.--How may the German registering fire be recognized?
+
+16.--What precaution may be taken against it and why is it effective?
+
+17.--What preliminaries are necessary to open fire for effect?
+
+18.--What is an easy way to recognize whether fire for effect may be
+expected?
+
+19.--What five cases of fire may be distinguished?
+
+20.--What is the burst area of a shrapnel shell?
+
+21.--What is the safest protective formation against shrapnel?
+
+22.--What is the difference between a shrapnel shell, a time-fuse high
+explosive shell and a percussion high explosive shell?
+
+23.--What is the burst area of a time-fuse high explosive shell?
+
+24.--What is the safest protective formation against it?
+
+25.--What is the burst area of percussion high explosive shells, and
+what precautions can be taken against them?
+
+26.--What is the safest protective formation against all types of
+shells?
+
+27.--What objections may it be open to?
+
+28.--What is the safest way and direction to go when under artillery
+fire?
+
+29.--Why should small woods be avoided?
+
+30.--In large woods, what precautions must be taken to secure a steady
+advance?
+
+31.--How should the exit from a wood be made?
+
+32.--Describe method of crossing a crest.
+
+33.--What are good protective formations against cavalry and how is it
+repulsed?
+
+34.--What elements have the mission to deal with cavalry patrols?
+
+35.--What is meant by "the objective" in attack?
+
+36.--What is the distinction between determining the objective and the
+position from which to start the attack?
+
+37.--What is the distinction between "the approach" and getting into
+position for the attack?
+
+38.--At what distance from the enemy does deployment as skirmishers
+become imperative?
+
+39.--Describe method of advance toward positions for the attack.
+
+40.--Where should the officers be during this advance?
+
+41.--How is liaison (communication) secured between the various
+commands?
+
+42.--What is meant by the fire attack?
+
+44.--How is the time to fire determined?
+
+45.--How are fire control and fire effect secured?
+
+46.--How is the firing line advanced?
+
+47.--How is it rectified?
+
+48.--Why should care be taken not to have men out of breath?
+
+49.--How should machine guns be made to contribute to the approach,
+the fire attack, the charge?
+
+50.--How far should the company supports be from the firing line?
+
+51.--Who commands them?
+
+52.--How is the firing line reinforced?
+
+53.--Describe the company supports going into the line to fill up a
+gap, to reinforce a section.
+
+54.--Describe position and behavior of companies in support.
+
+55.--What is the final stage of the whole attack?
+
+56.--Who orders the charge and how is it made?
+
+57.--What is the difference between the charge and the pursuit?
+
+58.--What should be done with a newly conquered position?
+
+59.--What is the first objective in attacking a wood?
+
+60.--How does the aim of the troops on the wings differ from that of
+those in the center?
+
+62.--Distinguish the different objectives in the attack of a village.
+
+63.--Describe the attack to proceed through a defile in which the enemy
+is located.
+
+64.--Describe the attack of a bridge.
+
+65.--Why should night attacks be of limited scope?
+
+66.--What special precautions should be taken?
+
+67.--What is the largest unit advisable?
+
+68.--How is surprise secured?
+
+69.--Describe the methods of reconnaissance, advance and liaison for a
+night attack.
+
+70.--Should the enemy's fire be answered in a night attack?
+
+71.--What does the success of a night attack chiefly depend on?
+
+72.--How should troops be distributed for the defense of woods and what
+is the function of each?
+
+73.--Describe the distribution of troops for the defense of a village.
+
+74.--How should the outskirts defense be organized?
+
+75.--Describe the interior defense.
+
+76.--How can a defile be kept open for an advance?
+
+77.--How can a defile be safeguarded for a retreat?
+
+78.--Give necessary orders for the blocking of a defile.
+
+79.--Why should reconnoitering for counter attacks always be part of
+the organization for defense.
+
+80.--Describe repulse of a night attack.
+
+81.--Is an attack ever advisable without previous reconnaissance?
+
+82.--Explain the importance of understanding the exact objective in a
+counterattack.
+
+83.--What is the best time to launch a counter attack?
+
+84.--What precautions must be taken to secure the success of a counter
+attack?
+
+85.--What is a good motto under all conditions, but especially in the
+attack?
+
+
+
+
+    Appendix.
+
+    A Division Front in
+    Trench Warfare.
+
+
+
+
+EXPLANATION OF PLATE I.
+
+
+The following may be considered a standard scheme of distribution of
+troops, for trench warfare, in a fully developed trench system.
+
+An infantry division is composed of two brigades, each brigade of two
+regiments, each regiment of three battalions. Each brigade thus has six
+battalions, each battalion numbering 1026 officers and men, normally
+divided into four companies.
+
+One battalion occupies about 1000 yards in ordinary trench warfare. As
+reliefs must be frequent, three battalions of each brigade will be on
+duty, while the other three are in rest-billets, at least two miles
+back of the trenches.
+
+Two of the battalions on duty occupy the trenches, the third is
+stationed about a mile back, in reserve.
+
+A brigade can therefore hold about 2000 yards of trenches: two
+battalions in front line trenches, one battalion in reserve, and three
+battalions in rest billets.
+
+Hence a division (two brigades) will hold a front of about 4000 yards.
+
+Within each 1000 yards front, the distribution may be as follows:
+
+Three platoons of Companies A, B, and C occupy the dugouts of the cover
+trench and of the support trench and post sentinels by roster in the
+fire trench.
+
+Platoon No. 4 of each company occupy the dugouts of the reserve trench,
+together with the entire Company D.
+
+Platoons and companies then relieve one another according to roster,
+a platoon of each company and an entire company, in turn, enjoying
+comparative rest in the reserve trench even during the stay of the
+battalion in the trenches.
+
+
+
+
+EXPLANATION OF PLATE II.
+
+
+The following is a description of the back areas of a divisional sector
+in which there has been no great changes since 1915. There are still
+several hundred miles of such sectors.
+
+The line at the top marks the beginning of the trench-system described
+in Plate I. being the entrance to the communication trenches.
+
+Road a, b, with the river c, d, run at the bottom of a small valley
+surrounded by hills of about 80 ft. elevation. A branch of the river
+runs from c. to e. and a railroad beside it, along road h, i, and
+crossing road j, k. A good size village is at D, a smaller one at C,
+hamlets at A and B. The latter are about one mile back of the trenches,
+village C. about two miles and village D. between three and four.
+
+Hamlets A and B have probably been heavily bombarded at the time line
+was established and have been evacuated by the civilians. Village
+C. has received shells, but, if there has been no big attack in the
+sector, is in fair shape and some of the inhabitants remain. Village D.
+may also have suffered from shells but probably most of the inhabitants
+remain. Such villages may be clusters of farms or of cottages,
+depending upon the region. If village is made up of cottages, farm
+houses will be found along the roads at frequent intervals. The fields
+are likely to be under cultivation almost as far as road k, l.
+
+Villages A, B, C are used to billet the battalion in reserve of each
+brigade. Village D. and the nearest villages further back are used as
+rest-billets by the battalions of the brigades who will relieve those
+in the trenches.
+
+Near or in villages A, B and C or near hill E and G are located the
+transports of the infantry battalions in the trenches. Supplies are
+sent daily to the trenches from this headquarters of the quartermaster
+and transport officer.
+
+Somewhere along road k, l, or about hills E and G are hidden in gun
+pits the batteries of field artillery attached to the division. The men
+live in dugouts alongside. The camps for the horses, wagons and supply
+headquarters of these batteries are hidden in the woods or on the
+further slopes of hills E, F, G.
+
+In village D are very likely located the Brigades' headquarters
+and such services as the Field Ambulance and the Divisional Supply
+Departments. The Y. M. C. A. recreation centers, divisional theatre,
+football fields, army canteens etc., are also located in village D
+or just back of it. If the houses in the villages do not provide
+enough billets, huts and tents are erected. Otherwise the officers are
+billeted in the houses of the inhabitants and the men in the barns.
+
+The Divisional Headquarters, the Ammunition Column, the Artillery
+Brigade Headquarters, the Engineers, the Ammunition Dumps, etc., are
+strung out in the villages and along the roads just back of village D.
+The heavier artillery is also posted back of this line.
+
+In sectors that have been the scenes of offensives the several elements
+remain in the same relation, but as the villages have been obliterated,
+shelters must be provided. [The Editor.]
+
+[Illustration: PLATE I--DIVISION FRONT--4000 yards (Trench System)]
+
+[Illustration: PLATE II--DIVISION FRONT (Back Areas)]
+
+
+
+
+       *       *       *       *       *
+
+
+
+
+Transcriber's note:
+
+Varied hyphenation was retained, for example as fire trench and
+fire-trench, and counter attack, counterattack and counter-attack.
+
+Obvious punctuation errors were corrected.
+
+Page 3, Table of Contents, "74" changed to "73" to reflect the heading
+of "THE CHARGE."
+
+Page 3, Table of Contents, "78" changed to "77" to reflect the heading
+of "NIGHT ATTACKS."
+
+Page 3, Table of Contents, "74" changed to "83" to reflect the heading
+of "THE COUNTER ATTACK."
+
+Page 7, "resourcefulnes" changed to "resourcefulness" (and
+resourcefulness)
+
+Page 12, final item under "3.--On the day of the relief" was formatted
+to match the rest of the items. In the original it was typeset as a
+paragraph instead of as an item with a hanging indent.
+
+Page 26, "offlcers" changed to "officers" (many reserve officers)
+
+Page 56, "preceed" changed to "precede" (always precede a unit)
+
+Page 63, a footnote marker was added to the text (110 yards
+intervals[G] between)
+
+Page 66, "controling" changed to "controlling" (the section leaders
+controlling)
+
+Page 68, "controling" changed to "controlling" (commander controlling
+the)
+
+Page 78, "or" changed to "of" (files on sides of)
+
+Page 87, "shapnel" changed to "shrapnel" (shrapnel shell, a time-fuse)
+
+Page 89, there is no question 43 on the list. This was retained as
+printed.
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK HANDY WAR GUIDE FOR MY COMPANY***
+
+
+******* This file should be named 44370.txt or 44370.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/4/4/3/7/44370
+
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

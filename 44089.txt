@@ -1,0 +1,3038 @@
+The Project Gutenberg EBook of A dissertation on the inutility of the
+amputation of limbs, by Johann Ulrich Bilguer
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: A dissertation on the inutility of the amputation of limbs
+
+Author: Johann Ulrich Bilguer
+
+Translator: S. A. D. Tissot
+
+Release Date: November 1, 2013 [EBook #44089]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK A DISSERTATION ***
+
+
+
+
+Produced by Fay Dunn and the Online Distributed Proofreading
+Team at http://www.pgdp.net (This file was produced from
+images generously made available by The Internet Archive)
+
+
+
+
+
+Transcriber's Note
+
+
+In this plain text version of A Dissertation on the Inutility of the
+Amputation of Limbs:
+
+  Words in italics are marked with _underscores_.
+  Small capital letters are shown in upper case.
+  The oe ligature is represented by [oe].
+
+Original spellings, punctuation, inconsistencies and all apparent
+printers' errors are retained (see note at end of book for exceptions).
+
+Footnotes have been moved to the end of sections.
+
+
+
+
+    A DISSERTATION ON THE INUTILITY OF THE
+
+             Amputation of Limbs.
+
+
+    Written in Latin, by M. BILGUER, Surgeon General
+      to the Armies of the King of PRUSSIA. Augmented
+      with the Notes of Mr. TISSOT, Physician at
+      LUSANNE.
+
+      Now first Translated into ENGLISH,
+
+                  By a SURGEON.
+
+                     LONDON:
+
+    Printed for R. BALDWIN, at the Rose, in
+      Paternoster-Row, and T. BECKET and P. A. DE
+      HONDT, in the Strand.
+
+                    MDCCLXIV.
+
+
+
+
+ADVERTISEMENT,
+
+By the ENGLISH Translator.
+
+
+It is with particular pleasure I present the English reader with a
+translation of Mr. Bilguer's celebrated performance: It will meet, I
+doubt not, with the approbation of those, who have the true honour of
+surgery at heart, and are at the same time friends to humanity. After
+what is said by so eminent a judge as Dr. Tissot, as well as many
+others who are an ornament to the profession, I shall not launch out
+into any eulogium on the author: there is a spirit of modesty, candour
+and ingenuity runs through the whole, that to every sensible reader
+will prove a sufficient recommendation of the work.----If it in the
+least contributes to check the cruel and precipitate practice of taking
+off limbs that might be saved, thereby preserving the lives, as well as
+preventing the mutilation of numbers of our fellow creatures, I shall
+think myself amply recompenced for the labour I have taken in thus
+endeavouring to render Mr. Bilguer's beneficent design more extensively
+known.
+
+
+
+
+      _Speedily will be published_,
+
+                    A
+
+    Translation of Dr. TISSOT'S last Work,
+
+                 ENTITLED,
+
+        Avis au Peuple sur sa Sante.
+
+         By JAMES KIRKPATRICK, M. D.
+
+
+
+
+                    TO
+
+               DR. PRINGLE,
+
+  Physician in Ordinary to Her Majesty, Fellow of the Royal Society, &c.
+
+
+  SIR,
+
+Your excellent work on the _Diseases of the Army_, so useful to
+physicians in general, will always be considered as a standard for
+the practice of those in particular, who are intrusted with the
+important office of superintending the health of the soldiery. Mr.
+Bilguer has performed, on his part, what you have so ably done on
+yours, in pointing out to his colleagues and successors, the plan
+which they ought to follow. It has given me pleasure to translate his
+Dissertation, and you must derive a peculiar satisfaction from the
+perusal of it, because, from the extensive and painful experience you
+have had of the bad consequences resulting from the operation this able
+Surgeon so warmly opposes, you can more readily perceive the usefulness
+and value of this little work. It is therefore my duty to address it
+to you, and I eagerly embrace so favourable an opportunity of thus
+publicly declaring the sentiments of esteem and particular respect,
+with which I have the honor to be,
+
+  SIR,
+  Your most humble, and
+  Most obedient Servant,
+
+  TISSOT.
+
+  Lausanne,
+  1 April, 1764.
+
+
+
+
+PREFACE,
+
+By DR. TISSOT.
+
+
+An extract of the Dissertation, of which I now publish a Translation,
+had given me a very high opinion of it; but on a perusal of the whole,
+I found it still better than I had imagined: It seemed to me one of the
+most useful and best executed performances on Surgery, and I hoped it
+would very soon be translated into French.
+
+Eighteen months having elapsed without any such translation appearing,
+I thought of procuring one. I then endeavoured to find a translator,
+but failing in that, I determined to do the office my self. I imagined,
+that, in thus dedicating a few hours of my time to this work, I should
+do a considerable service to many unfortunate people. I shall rest
+well satisfied if, by rendering this excellent book more common, I
+prove the means of adding to its influence, and of inducing a great
+number of surgeons, who may now read it, to quit the cruel and fatal
+practice of amputation, for the method which Mr. Bilguer proposes, with
+a degree of sincerity and precision which leaves no room for doubt.
+
+The title of the original is, _Dissertatio inauguralis
+medico-chirurgica, de membrorum amputatione, rarissime administranda aut
+quasi abroganda, quam, pro gradu doctoris medecinae et precipue chirurgiae
+rite consequendo, die vigesima una Martii, A. S. 1761. In alma Regia
+Fridericiana speciminis loco, publicae eruditorum censurae submisit_,
+JOHANNES ULRICUS BILGUER, curia-rh[oe]tus _generalis praefectus
+chirurgorum exercitus regii Borussici_.
+
+This work contains a much greater variety of matter than its title
+implies, for it not only shews the inutility and danger of amputation,
+by several arguments, to which many others might be added; but not
+satisfied with levelling a tottering edifice, Mr. Bilguer frames and
+describes a plan for preventing and curing those accidents, which
+oblige surgeons to have recourse to amputation; and this is properly
+the most considerable and most essential part of the performance, which
+is, in fact, a treatise on gunshot wounds.
+
+I have scarcely done Mr. Bilguer justice with regard to style: I
+hope, however, I have given his meaning, without depriving it of its
+perspicuity or strength. This work will begin a new aera in Surgery, and
+will reach posterity. I should have been sorry in any shape to have
+disfigured it.
+
+It will give me very great pleasure, if the pains I have taken, and the
+notes I have added, prove agreeable to the author. He may be convinced
+that, being engaged in business as I am, his performance must have
+appeared to me extremely well executed, and much wanted, before I
+undertook to translate it.
+
+I am informed he has lately published a work on Surgery, in the German
+language; I am persuaded it contains much valuable matter: He seems
+to me to have a genius for discovering new expedients to lessen the
+sufferings of human kind. I would have given this book the title of a
+_Manual for the Surgeons of the Army_, which it deserves to be, were
+there not already another so called[1], which, although very little
+known, is by no means contemptible. The author had, even at that time,
+remarked that wounds of the tendons are not troublesome, owing to
+their want of sensibility, that the actual cautery is seldom proper;
+and some other facts, almost forgotten since that time. He describes
+wounds near the articulations with dislocation and fracture, he points
+out the accidents attending gunshot wounds, and, what deserves notice,
+he only admits of amputation in one case; namely, that of an incurable
+mortification, and mentions it as a cruel and doubtful expedient. I
+shall here cite his own words; they plainly shew that, if he lived in
+our time, he would be one of the most zealous encouragers of the new
+method, since he was so sensible of the defects, and grieved at the
+barbarity of the old. "If, unfortunately," says he, "a mortification,
+from whatever cause it proceeds, gains ground in such a manner as
+to baffle all our care and applications, there is then no expedient
+left but that of taking off the limb; the success of which is very
+uncertain, for if it be dubious in a healthful subject, it must be
+much more so in one which is otherwise: It is, however, the only
+method, dreadful as it is, of putting astop to the ailment, and saving
+the rest of the body. This nevertheless ought not to be done, except
+when the consent, age and strength of the patient permit us to try so
+dangerous an experiment."
+
+This author's manner of thinking is very far from being established as
+might be wished, amputations being still too frequent. Mr. Bilguer's
+work ought at this time to be so much the more favourably received,
+as a celebrated company, whose decisions ought to have great weight
+in matters relating to surgery, has formally declared, about seven
+years ago, _That amputation is absolutely necessary in gunshot wounds,
+complicated with fracture of the bones_; and have left unfortunate
+wounded men no other alternative, but that of losing the injured limb
+on the spot, or a few hours later. That line of Juvenal seems very
+applicable on the occasion:
+
+    _Nulla unquam de morte hominis cunctatio longa est._
+
+FOOTNOTES:
+
+[1] _Le Manuel du Chirurgien d'Armee_; or, The Art of methodically
+curing Gunshot Wounds, &c. By L. L. M. C. Printed for Houry, at Paris.
+My edition is the second, published 1693.
+
+
+
+
+A TABLE OF THE SECTIONS.
+
+
+  _Inutility of amputation of the limbs._
+
+  I. _The author's design in this treatise._         _Page_ 1
+
+  II. _What afforded him the first hints._                  2
+
+  III. _What encouraged his inquiries._                     3
+
+  IV. _Motives which induced him to write this treatise._   4
+
+  V. _Subject of the dissertation._                         6
+
+  VI. _Accidents which are supposed to render amputation
+    necessary, viz. mortification, shattered limbs,
+    violent contusion, wounds of the large vessels, caries
+    of the bone, cancer._                                   7
+
+  VII. _Internal medicines; remarks on the use of the bark
+    in mortifications. Questions by M. Tissot with respect
+    to two cases._                                          9
+
+  VIII. _External applications; incisions on the parts
+    affected, manner of performing them._                  12
+
+  IX. _Separation of the dead from the sound flesh,
+    without cutting to the quick; nicety of this
+    operation._                                            15
+
+  X. _Manner of dressing the wounds, and the bones, when
+    affected._                                             17
+
+  XI. _Continuation._                                      19
+
+  XII. _Scarifications round the mortified Part._       Ibid.
+
+  XIII. _Doctrine of the ancients and several moderns
+    with respect to fomentations, confirmed. Forms
+    answering to different intentions._                 Ibid.
+
+  XIV. _Alteration of the condition of wounds; time to
+    administer the bark._                                  25
+
+  XV. _Manner of giving it._                            Ibid.
+
+  XVI. _Sequel of the external treatment; formation
+    of pus._                                               27
+
+  XVII. _Conjecture on S. G.'s manner of performing
+    cures._                                                30
+
+  XVIII. _Reflections on the abuse of amputation, its
+    inexpediency when the mortification proceeds from an
+    internal cause._                                       31
+
+  XIX. _Of a mortification in consequence of an external
+    accident; impropriety of amputation demonstrated; the
+    proper treatment._                                     33
+
+  XX. _Shattered limbs the second case, fracture of the
+    bone; common treatment._                               39
+
+  XXI. _Method proposed by Mr. Bilguer; external
+    applications._                                         42
+
+  XXII. _Remarks on the same subject; internal medicines._ 46
+
+  XXIII. _Fevers, their cause, danger, method of cure._    47
+
+  XXIV. _Gunshot wounds, wounds of the joints._            50
+
+  XXV. _Sequel of the method of cure._                     54
+
+  XXVI. _Success of the author's method._                  57
+
+  XXVII. _Calculation in his favour._                      59
+
+  XXVIII. _Sequel of the calculation._                     63
+
+  XXIX. _Of the amputation of the thigh._               Ibid.
+
+  XXX. _Of contusion, the third case._                     68
+
+  XXXI. _Sequel of contusion._                             69
+
+  XXXII. _Method of cure._                                 74
+
+  XXXIII. _Continuation of the method of cure._            75
+
+  XXXIV. _Impatience of the sick under the new method;
+    steady perseverance of the surgeon requisite; care of
+    his Prussian Majesty to prevent useless mutilations of
+    the soldiers[2]._                                      77
+
+  XXXV. _Limbs carried off; wounds of the large blood
+    vessels, the fourth case requiring amputation._        78
+
+  XXXVI. _Cases which confirm Mr. Bilguer's method._       91
+
+  XXXVII. _Continuation._
+
+  XXXVIII. _Caries of the bone, fifth case; the cure._     92
+
+  XXXIX. _Different ways of relieving this ailment._       96
+
+  XL. _Cancer of the parts, sixth case; inutility of
+    amputation._                                           98
+
+  XLI. _Conclusion of the work._                          102
+
+FOOTNOTES:
+
+[2] It was rumoured at Paris during the war, that the King of Prussia
+forbid the mutilation of his soldiers from other motives than those
+of humanity. Idle people spent their time in declaiming against such
+barbarity, and thus ignorantly prejudiced the minds of people against
+Mr. Bilguer's method. I have heard able surgeons hint this objection,
+when I spoke to them concerning the present work. They acknowledged,
+nevertheless, that amputations had been too common in the French
+armies. I hope the publication of this little book will have two
+effects; the first is, to re-establish the truth, and the second is, to
+awaken in those surgeons, the feelings of humanity.
+
+
+
+
+A DISSERTATION ON THE Inutility of Amputation.
+
+
+Having resolved some little time since to publish in this learned
+university a Dissertation which might serve as a specimen of my Medical
+Acquirements, the subject which appeared the most suitable to my
+purpose, is one, that may improve the art of surgery, which I practised
+for several years during the heat of the late bloody wars, and may
+at the same time wipe away the old aspersion, first broached at Rome
+against Archagates, and so often repeated since, that surgeons are
+executioners, who cut and burn without mercy.
+
+The cutting off a limb being the severest means employed in surgery
+for the relief of mankind, an operation which every one beholds with
+horror, I cannot, I imagine, more effectually accomplish my design, or
+do a greater service, than by demonstrating, _that the cases wherein
+amputation is necessary, are much less frequent than has been hitherto
+supposed, and that it may even be almost totally dispensed with_.
+
+
+SECT. II.
+
+My first thoughts on this subject arose from observing what passed
+under my own inspection in the military hospitals.
+
+In the first place I remarked, that in a very great number of cases,
+where amputation was judged necessary by the physicians and surgeons
+of the army, and even by the wounded themselves, in order to preserve
+life, it seldom or almost never answered the end.
+
+In the second place, I saw and had under my immediate care, a great
+number of patients whose limbs had been carried off by cannon balls,
+and in such a manner too, that all those who adhere to, and are afraid
+to deviate from established rules, would have performed a fresh
+amputation on the remaining stumps, whom I cured, as far as they were
+capable of being cured, without having recourse to such disagreeable
+means.
+
+And lastly; many others, whose limbs were not intirely separated
+off, but so much detached, wounded, shattered and contused, that the
+ablest surgeons deemed it necessary to take them wholly off, were
+nevertheless, by my endeavours, contrary to the general opinion, cured
+without amputation.
+
+
+SECT. III.
+
+This success, partly owing to the efforts of nature, and partly to the
+means employed by art, strongly encouraged me almost never to have
+recourse to amputation, but to try every kind of remedy, internal as
+well as external, calculated to preserve the lives as well as the
+limbs of the unfortunate sufferers. My first attempts, so far from
+being unfavourable, confirmed me more and more in the opinion, that
+parts which have sustained the most considerable injuries, will much
+oftener get well than what is commonly believed: And although this
+opinion does not seem to be countenanced by many eminent physicians and
+surgeons; although I do not flatter myself I shall be able to induce
+them to alter their sentiments, I hope nevertheless, that some others,
+encouraged by my example, and this account of my success, will have
+the courage to follow the same method, and that their authority may
+afterwards contribute to convince the most incredulous.
+
+
+SECT. IV.
+
+But supposing, what I do not apprehend can be the case, that all
+the gentlemen of the profession should agree in declaring my method
+absolutely useless, the rest of mankind at least, will be obliged to
+me for my endeavours to mutilate the wounded as little as possible; as
+most people are shocked at the mention of any amputation, or at the
+sight of a poor creature who has lost an hand, an arm, a foot or leg,
+wretchedly crawling along upon crutches or a wooden leg; and consider
+the total privation of a limb, as a much greater misfortune than when
+it is preserved, though perhaps unshapely, and uncapable of performing
+several of its primitive functions. If one reflects how much every body
+dreads the pain occasioned by the slightest incision, he will easily
+conceive the degree of horror a person must feel at the thought of
+amputation, and why many patients chuse rather to die than to submit
+to it[3]. Hence it is so uncommon to find men, like count Mansfeld,
+so famed in the war that lasted thirty years, who caused his wounded
+arm to be taken off amidst the sound of trumpets and beating of drums;
+or like the country fellow, whom Dr. Schaarschmid, late an eminent
+physician at Berlin, mentions in his collection of observations and
+remarks on physic and surgery, who cut off his own mortified leg with a
+saw, very unfit for such an operation[4].
+
+FOOTNOTES:
+
+[3] I would not chuse to lay much stress on this argument; for if
+one weighs the circumstances of pain, the amount of what the patient
+suffers from the treatment necessary for saving the limb, will often be
+equal to that arising from amputation. But the two strongest reasons
+for prefering Mr. Bilguer's method is, the saving the limb as well
+as the life of the patient; the loss of which is often occasioned by
+amputation, but never by the pain of an incision. It is also true, that
+pain when slighter, though longer continued, is more easily supported
+by the patient. TISSOT.
+
+[4] To these instances may be added, that of the son of Thomas
+Koulichan, a captain in the Austrian service, who, being wounded in the
+leg, and the bones shattered, in one of the latter battles of the war,
+held a candle with one hand and extracted the splinters with the other.
+He exhibited many other proofs, not only of courage in the field, but
+also of that fortitude in bearing pain which is very different from the
+other, and much more seldom met with. TISSOT.
+
+
+SECT. V.
+
+But lest I should be charged with being weakly influenced by the cries
+of the patient, and with wanting that kind of fortitude which Celsus[5]
+thinks requisite in a surgeon, in treating of this operation, I shall
+take it for granted that the patients are men like those I have just
+now mentioned, and that an inordinate desire of life, an uncommon
+strength of mind, religion, and other moral reasons, induce them to
+consider pain as nothing, when it affords them any hope of preserving
+life.
+
+It is foreign to my plan to inquire who was the first who attempted
+this operation, or to trace the history of it in the works of the
+ancients. I shall only take notice, that such wounded men as recovered,
+after having lost a limb by some accident, without doubt, shewed the
+possibility, and suggested the first hint of trying this operation.
+Neither shall I dwell upon the various methods of performing it from
+the infancy of the art to the present time; they are described in
+other books[6], and I do not purpose giving a compleat treatise on
+amputation. I shall not even touch upon what is already generally known
+on this subject, but as little as I possibly can: This is the best way
+of handling any particular point; and I hope all those who pay more
+regard than I do to scholastic form, will pardon my inattention to
+regularity of method and stile, when they are informed how much my time
+is engaged; others will excuse me, when they call to mind the remark of
+Celsus, that diseases are cured by proper remedies, not by a display of
+eloquence.
+
+FOOTNOTES:
+
+[5] _Celsus de re medica_, l. 7. praef. Nevertheless Mr. Dionis, in
+his course of operations, (_Demonstr. 2, Art. 9._) acknowleges, that
+even the most intrepid surgeons tremble at the instant they are going
+to perform this operation. Of all the operations, says he, that which
+occasions the greatest horror, is the amputation of a thigh, a leg
+or an arm. When a surgeon is about to take off a limb, and reflects
+on the cruel means he must employ, he cannot help feeling a tremour,
+and pitying the misfortune of the poor patient, who is under a fatal
+necessity of being deprived, for life, of a part of his body. And in
+another place he says, This operation ought rather to be performed by a
+butcher than by a surgeon.
+
+[6] Memoirs of the Royal Academy of Sciences, 1732. Art. 7.
+
+
+SECT. VI.
+
+To prove what I have advanced, I shall begin with enumerating those
+accidents for which amputation has been hitherto deemed necessary. I
+shall reduce them to six.
+
+First, A mortification, which spreads till it reaches the bone.
+
+Secondly, Any limb so greatly hurt, whether by fracture or
+dilaceration, that there is room to dread the most fatal consequences,
+a mortification and death.
+
+Thirdly, A violent contusion of the soft parts, which has at the same
+time shattered the bones.
+
+Fourthly, Wounds of the larger vessels, which convey the blood into the
+limb, either, as the only means of stopping the hemorrhage, or through
+the apprehension the limb should perish for want of nourishment.
+
+Fifthly, An incurable caries of the bone.
+
+Sixthly, If any part is either attacked with a cancer, or is in danger
+of being so, it is customary to take it off.
+
+I shall treat of these different accidents more or less particularly,
+in proportion to the number of observations I have made on each of
+them, as no method of cure, however doubtful and alarming, should
+be rejected, till a better can be pointed out. Thus, this treatise
+contains only, in effect, an account of the methods I successfully
+employed in the military hospitals, for the relief of the above
+disorders; together with a few observations, and still fewer
+hypothetical reasonings, which induced me to condemn the use of
+amputation.
+
+
+SECT. VII.
+
+I shall begin with an account of the means I make use of, internal
+as well as external, when a limb is mortified, the effects of which
+have convinced me, that in such cases amputation is not necessary;
+and here I shall first gratify the curiosity of those readers who,
+doubtless, are desirous to know what I have learned from the extensive
+opportunities I must necessarily have had, with respect to the use of
+the Peruvian bark.
+
+Experience has taught me, that this admirable medicine is possessed of
+a singular and specific virtue in mortifications.
+
+I know that several physicians and surgeons only recommend it in
+those which proceed from weakness. I have heard it reported by
+others, that they found it of little service after the famous battle
+of Dettingen[7]. But perhaps the other circumstances, with regard to
+the treatment of the patient, did not contribute to promote those
+good effects which I always observed attended it when judiciously
+administered. And I make no doubt, but every practitioner who, in
+prescribing it in cases of mortification, observes the rules laid
+down by Dr. Pringle, Dickins, Wade, Cheselden, Douglas, Rushworth,
+Amyand, Shipton and some others, will find it very efficacious. I
+do not mean, nevertheless, that it should be considered as the only
+internal medicine; there are, doubtless, other bitters which are
+sometimes extremely proper on these occasions. I must add, that the
+bark appears to me to possess that quality which Celsus requires in
+medicines, whether in a solid or liquid form, adapted to the cure of
+a mortification, to bind the belly moderately, and brace the whole
+system. After having treated of the external applications, I shall
+point out the method in which I administered the bark.
+
+FOOTNOTES:
+
+[7] Mr. Ranby, however, who was one of the surgeons of the British
+troops at the time of the battle of Dettingen, lays great stress upon
+the bark: It is true, that in one of his cases, having ordered it to
+an officer of seventy years of age, whose leg had been amputated, _on
+account of his ancle, with the neighbouring parts, having been terribly
+shattered by a cannon ball_, it did not keep the sore from growing
+worse, or prevent the patient's death. But that we may form a just
+estimate of the merit of the bark, and the effects of amputation at
+the same time, it will be necessary to compare this case with the one
+which precedes it. This comparison will, I imagine, be of use.----I
+shall quote the author's own words. "An Austrian officer, who had his
+hand miserably shattered by a cannon ball, was, by some accident, left
+in a wood near the field of battle, destitute of any manner of help,
+from Thursday till the Sunday following, when he was brought to Hanau.
+The next morning I was carried to see him, and to assist in taking off
+his arm. On viewing it, I found it mortified almost to the elbow, with
+a great swelling and inflammation quite up to the shoulder. As it was
+by no means adviseable to attempt an amputation in such circumstances,
+I proposed giving him the bark; which being no ways objected to, he
+entered upon immediately. The next day he was rather better: But, on
+the third, was evidently so. The inflammation was less, the swelling
+began to subside, and the edges of the mortification were separating.
+The arm was fomented and wrapped up in the oatmeal and stale beer
+poultice, with theriaca: And the dreadful symptoms which forbad the
+operation, were now so much abated, that his surgeons did not at all
+hesitate to take it off. But this was done to very little purpose;
+for three or four days after the amputation, being attacked with
+convulsions, he expired."
+
+I shall here subjoin five questions.
+
+Would Mr. Bilguer have amputated in these two instances?
+
+Would not his method have saved both these patients, especially the
+last?
+
+Does not amputation seem to have contributed to their death?
+
+Does it not evidently appear, that in the latter of these two cases,
+amputation destroyed the good effects of the bark, which seemed to
+conduct the patient to a speedy cure; and that in the former case, the
+bark had not power sufficient to repair the mischief occasioned by the
+amputation?
+
+Does it not follow from these two observations, that however salutary
+the effects of the bark may be, those of amputation are hurtful in a
+greater degree? TISSOT.
+
+
+SECT. VIII.
+
+Whenever a mortification attacks any part of the body, whether it be
+owing to an outward hurt, or proceeds from an internal cause, as often
+happens in persons afflicted with the scurvy, dropsy, a vitiated state
+of the blood, phagedenic sores, or very aged people, who begin, as it
+were, to die in the extremities: Whenever, I say, the mortification
+begins to appear, it requires immediate help. We must begin by making
+incisions on the part affected, in order to procure a discharge of
+the corrupted matter, and to assist the action of the medicines. I
+make long incisions, not only on the mortified parts, but on those
+adjacent, which would soon be so; I make several of them, as nearly as
+the large trunks of the blood vessels, and more considerable branches
+of nerves will allow, not above an inch distant from each other. We
+ought always to cut to the quick; and if the bone be affected, the
+periosteum must be cut through, and the bone laid bare. These incisions
+should follow the direction of the greater number of fibres of the
+muscles that happen to be thus cut upon; but when the gastrocnemii,
+the glutei or deltoid muscles have been wounded by a ball, they must
+be cut cross-ways, otherwise convulsions, particularly the spasmus
+cynicus, will probably ensue. Several aponeuroses, especially that of
+the biceps, ought likewise to be cut transversally: It is true, if the
+longitudinal incisions are sufficiently long and numerous, they take
+off the tension of these membranes so much as to render the transversal
+ones unnecessary.
+
+Neither ought the tendons to be spared; they must be boldly cut through
+transversally.
+
+If a wound, or any other ailment, happens near the articulations, I
+also, without fear, make large incisions through the ligaments.
+
+It will easily be understood that these incisions must differ from
+each other in length and depth; they must be longer in those parts
+of the sore where the disease has spread the widest, and shorter in
+others. Both must be more superficial at their extremities, and deeper
+in the middle, in the place where the complaint began, and where the
+mortification reaches deepest.
+
+The number of incisions, and their distance, must also vary, as they
+may be found necessary; so that a skilful surgeon may make three, four,
+six or eight, as the case may require.
+
+It is obvious, that in an operation of this kind, a surgeon should not
+be too precipitate; and when he does not know the depth of the ailment,
+he should not go too deep with his incision: he may repeat it if he
+finds he has not reached the quick.
+
+
+SECT. IX.
+
+After these incisions are made, we must carefully examine how far the
+part which is absolutely mortified, and which it is impossible to
+restore to life, may reach. This may be distinguished by the stench
+which exhales from it, by its change of colour, and want of feeling.
+These mortified parts ought immediately to be separated from the sound,
+and removed by means of a bistory in the same manner as one muscle is
+divided from another in an anatomical dissection. In order to do this,
+the dead flesh must be cut through cross-ways, which puts the patient
+to no kind of pain. But care must be taken in this operation, not to
+separate such parts as may be somewhat affected by the mortification,
+yet not totally corrupted, as it often happens, after the removal of
+what is entirely dead, that they recover, by proper assistance, their
+natural state.
+
+In making these incisions, we should take all imaginable care, as I
+have already remarked, not to wound the larger blood vessels or more
+considerable nerves; for this purpose, the gangrened parts which
+lie near them, should be separated with great caution: It is even
+better to leave behind a small portion of the mortified flesh which
+may adhere to them, and to trust for its separation to the ensuing
+dressings, which they will not fail to accomplish. The reason for this
+rule is, that we often see the vessels remain sufficiently sound,
+while the other parts are very much corrupted. We find for example,
+in the arm, near the joint of the elbow, near the wrist, and even in
+the lower extremities, the vessels intire, although the mortification
+of the parts which surround them be so considerable, as to oblige us
+to make our incisions to the bone; and it is these vessels, after the
+extirpation of the dead parts, that must keep up life in those which
+remain: We ought to preserve the greatest number we can, not only of
+the larger vessels, but even of the smaller ones: It was with a view to
+this particular, that I recommended not to make our incisions rashly,
+but with a good deal of caution, both with respect to the place where
+they were made, their direction and their distance. In operating with
+this circumspection, we shall avoid incurring the censure of Platnerus,
+who remarks, that we ought not to separate the dead from the sound
+parts with violence, "Because," says he, "incisions which cause an
+effusion of blood, often renew the inflammation." Now in my method,
+there is neither any violence, nor incisions attended with blood.
+
+
+SECT. X.
+
+When the incisions are made, if the neighbouring parts appear somewhat
+tainted, we must, by gentle compression, squeeze out the corrupted
+humour which may harbour there, and wipe it off with a bit of soft
+linnen rag. Afterwards, whether it may have been necessary to extract,
+either with the fingers, a scalpel, or with the instrument called a
+myrtle leaf[8], any bony splinters too much detached from the substance
+of the bone itself to hope for a re-union, a circumstance which often
+requires a considerable dilatation of the fleshy parts; or whether
+the bones appear carious, or spoiled in any other shape; or, lastly,
+whether we may have been obliged to make deep incisions, even to
+the bone: In all these cases, we must at first employ such external
+applications as are proper for the bones, and for the soft parts that
+have a tendency to mortification, although they may have discharged a
+sufficient quantity of blood during these operations.
+
+The bone, whether the periosteum be sound or destroyed, must be dressed
+with the following medicine: _Of frankincense, mastick, sarcocolla and
+myrrh finely pounded, true balsam of Peru, and genuine essential oil
+of cloves, of each equal parts; of balsam of Fioraventi, as much as
+may, in mixing all the ingredients over a very gentle fire, form a thin
+liniment_; which must be warmed when used, and which must be poured
+plentifully into the wounds I am speaking of, so that the bone may be
+well moistened therewith.
+
+This medicine is of service in all cases where the bone is affected.
+When the bone is covered with it, some dry lint may be laid over it,
+and the soft parts dressed by sprinkling upon this lint a powder
+composed of _an ounce of myrrh finely pounded, half an ounce of sal
+ammoniac, camphor and nitre, each a dram_. After the first layer of
+lint is thus covered, fresh lint must be applied, and again sprinkled
+with the powder, till in this manner the cavity of the wound is quite
+filled up with alternate layers of lint, and this vulnerary powder.
+
+FOOTNOTES:
+
+[8] See Dionis's surgery, page 18. 4th edition.
+
+
+SECT. XI.
+
+If the bone is not affected, or the periosteum laid bare, the balsam or
+thin liniment may be omitted. And the dressings may only consist of the
+layers of dry lint and vulnerary powder applied alternately.
+
+
+SECT. XII.
+
+Besides the dressings I have mentioned (Sec. X. and Sec. XI.) for these
+kinds of wounds, we must likewise make slight scarifications upon the
+neighbouring parts, and sprinkle them with the powder; after this
+treatment, embrocate all the sores with oil of turpentine, and then
+lightly bandage up the whole with plain linnen cloth, which must be
+kept moistened, night and day, with warm fomentations.
+
+
+SECT. XIII.
+
+It is in following this method only, (Sec. X, XI, XII.) that these
+fomentations, so much recommended both by the antients and moderns,
+will be found truly serviceable and efficacious. Mr. Heister has
+collected a sufficient number of these forms, in treating of
+mortifications, in his excellent system of surgery, which is in every
+body's hands. It will be an easy matter for a surgeon, who understands
+the nature of the ailment and the quality of the medicines, to select
+such as will be most suitable to the case he happens to treat. Thus,
+for example, the fomentation consisting of a _pint of lime water,
+three ounces of camphorated spirit of wine, and an ounce or half an
+ounce of sal ammoniac_, is very useful in mortifications which are
+the consequences of high inflammation, as it relieves the inflamed
+parts that lie round those which are already mortified. The same
+effect may be obtained from the fomentation made with the _balsam of
+life_; namely, _soap, salt of tartar, and oil of turpentine, mixed and
+dissolved in lime-water_; and from the _cataplasm_, composed of the
+herbs called _species pro cataplasmate_, and _venice soap and saffron_
+added thereto[9].
+
+If, without any considerable inflammation preceding, a part is found
+mortified, or a beginning mortification appears attended with a
+swelling, which frequently happens to dropsical people, to those
+afflicted with [oe]dematous tumours, and to aged persons, and whenever
+the ailment proceeds from a defect rather than an excess of the vital
+motions; the following fomentations are more proper.
+
+ 1. _Take of water germander, wormwood, southernwood, rue, of each two
+   handfulls; chamomile flowers, one handfull: Boil them together, and to
+   two pints of the strained liquor add four ounces of treacle spirit,
+   two ounces of venice soap, and half an ounce or even an ounce of sal
+   gem._
+
+ 2. _Take of water germander, wormwood, feverfew, of each two
+   handfulls; of mint and southernwood, of each a handfull: Boil them
+   together in oxycrate, so as to have four pints of the strained liquor,
+   to which may be added half an ounce of sal gem, and afterwards from
+   two to four ounces of treacle spirit._
+
+ 3. _Take of martial ball[10] two ounces, sal ammoniac one ounce;
+   dissolve them in about eight pints of spring water, and add two pints
+   of rectified spirit of wine._
+
+ 4. _Take of crude alum, and white vitriol, each two ounces and two
+   drams; lytharge of silver and myrrh, each an ounce; Aleppo galls, two
+   ounces; juniper and bay berries, each an ounce; savin and rue, each
+   two pugils; oak leaves, a handfull and a half; verdegris, half an
+   ounce; camphor, two drams; calamin, six drams[11]. After having mixed
+   and reduced all these ingredients to powder, let two ounces of the
+   composition be boiled with four pints of water, or with two of water
+   and two of vinegar._
+
+The following embrocations applied to parts already mortified, will
+stop the further progress of the mortification; where it is just
+beginning they will prevent it, and will also help nature to separate
+the dead parts from the sound.
+
+ 1. _Spirit of wine, three ounces; myrrh and aloes powdered, of each
+   half an ounce; AEgyptian ointment, three drams[12]._
+
+ 2. _Vinous decoction of scordium, twelve ounces; vinegar of rue and of
+   roses, of each four ounces; spirit of treacle, three ounces; and one
+   ounce of sal ammoniac._
+
+ 3. _Lime water, four pints; treacle spirit, or that of feverfew, two
+   pints; white wine vinegar, one pint; elixir proprietatis, six ounces;
+   AEgyptian ointment, two ounces._
+
+ 4. _Decoction of elder flowers, six ounces; wine, eight ounces;
+   vinegar, camphorated spirit of wine, treacle spirit, or that of
+   feverfew, each two ounces; spirit of salt, two drams._
+
+Lastly, in order to soften the parts, separate the sloughs, and promote
+suppuration, the following application may be used.
+
+ _Water germander, two handfulls; mallows and marshmallows, each
+   a handfull; flower of linseed, three ounces; Venice soap and sal
+   ammoniac, of each two ounces; linseed oil, an ounce. Let these
+   ingredients be boiled together, in vinegar and water, to the
+   consistence of a poultice._
+
+It may be in general observed with regard to fomentations, that such
+as are emollient are serviceable, when hard dry crusts prevent a
+discharge; those which abound with acid, when there is a considerable
+degree of putrefaction; and, lastly, those which are spirituous, saline
+or strengthening, are most proper when swellings are flabby, and the
+body abounds with aqueous humours.
+
+FOOTNOTES:
+
+[9] These two last applications are not in Heister: The _species
+pro cataplasmatic_, consists of _yarrow, wormwood, water germander,
+southernwood, chamomile, sage, hysop, rue, elder, St. John's wort, and
+red roses_.
+
+It is quite unnecessary to make use of all these ingredients at one
+time. TISSOT.
+
+[10] As the composition of the martial ball may not be generally known,
+I shall describe it in this place: _Take of filings of iron one part;
+white tartar two parts: Let them be reduced to a fine powder, and put
+into a matrass with as much French brandy as will swim about an inch
+above the powder; exhale to dryness, either in the heat of the sun or
+in that of a water bath. Pour fresh brandy upon the remainder, and
+evaporate them in this manner several times successively, till the mass
+appears resinous; then form it into balls nearly of the bigness of an
+egg._
+
+I do not exactly know what quantity Mr. Bilguer means by _sextarius_;
+that measure, among the ancients, contained twenty four ounces, but
+here I believe it denotes somewhat less. If we suppose it to be about a
+pint, the medicine will be extremely good.
+
+[11] This composition is commonly called _species pro decocto nigro_,
+or the species for the black decoction.
+
+[12] In using the external vulnerary medicines, in which aloes is an
+ingredient, it must be remembered, what Mr. Bilguer remarks in another
+place, that they often prove purgative.
+
+
+SECT. XIV.
+
+The diligent use of these fomentations will alter, in the space of
+twelve hours, the condition of gangrened wounds for the better; at
+the end of which, the lint and vulnerary powder, with which they were
+filled, may be removed, and at the same time, all the detached pieces
+of mortified flesh may be extracted, and the same dressings (Sec. X, XI,
+XII.) applied, which must be renewed every twelve hours. The third
+or fourth dressing, the wound will discharge matter of a favourable
+aspect, so as to afford hopes of a cure: Then it will only be necessary
+to give the bark internally, and to dress the sore in the manner I
+shall mention by and bye. Sec. XVI.
+
+
+SECT. XV.
+
+The bark may be given by itself, in powder, or made into an electuary
+with rob of elder, or with the syrup of quinces, cinnamon, orange-peel,
+or any other cordial syrup; if it purges when taken in substance, it
+must be administered in the infusion or extract. If the fever be
+strong, the heat considerable, and the patient thirsty, the bark will
+be of no service[13]; but recourse must be had to medicines which
+may abate the fever and allay the heat, such as are commonly called
+temperants.
+
+If the bark be judged necessary, it may be given in doses of half a
+dram or two scruples, at first every hour, afterwards every two hours,
+and at length, once every three or four hours: To each dose may be
+added a few drops of spirit of sea salt, or of dulcified spirit of
+vitriol, or a few grains of alum or catechu. If the patient be very
+weak, a small glass of some acid wine may be ordered with the medicine,
+such as Rhenish, Neckar or Moselle wine, &c. When it is thought proper
+to promote perspiration, an infusion of chamomile may be drank, as is
+recommended by Dr. Pringle. Let the strength be supported by the plain
+regimen, directed by that physician in the same treatise.
+
+Let the drink be water and vinegar, weak veal and chicken broth, gruels
+of barley or oatmeal, acidulated with vinegar or juice of lemons,
+&c. I have not room, in this place, to enter into a more particular
+discussion.
+
+FOOTNOTES:
+
+[13] Mr. Bilguer might have even said hurtful; the only true temperants
+are, repeated bleedings and the acids, which are preferable to nitre,
+which is not very proper wherever there is reason to apprehend a
+mortification. Absorbents, which in some parts of the country where Mr.
+Bilguer writes, are still ranked in the class of temperants, are very
+hurtful in the present case, and never afford any relief to wounded
+patients.
+
+
+SECT. XVI.
+
+I now return to the external treatment. When the dressings described,
+Sec. X, XI, XII. have begun to procure a discharge of matter, the use of
+the vulnerary powder and oil of turpentine must be laid aside; but
+we must continue to assist and promote the suppuration for several
+days, sometimes even to the eighth; by dressing with the digestive,
+I shall hereafter mention, by keeping the parts constantly covered
+with emollient fomentations, and by avoiding to cleanse the wound
+too much, either by too strong compression, or by wiping it with
+too much exactness each time of dressing. We ought to be very much
+on our guard with respect to these two last points, till there be a
+sufficient suppuration; afterwards a somewhat stronger compression may
+be allowed, and the sore may be wiped with more exactness, but still,
+nevertheless, but very gently. For suppuration is the work of nature,
+an effort of the sound parts, by which they throw off whatever is
+vitiated and noxious; and it is the business of the surgeon to assist
+this salutary operation, by removing, with his instruments, such parts
+as are intirely corrupted; but this ought to be done, at least as much
+as possible, without causing any discharge of blood[14]. He must not,
+however, confine his attention to the soft parts only, but must have an
+eye likewise to the bones; and, after having examined them carefully,
+and even made what dilatations may be necessary for this examination,
+he must remove, at each dressing, whatever is carious, and all the
+splinters that can be extracted without violence; after which they
+may be covered with the balsam for the bones, Sec. X. and the soft parts
+dressed, as circumstances may indicate, either with dry lint, or with
+some digestive ointment, especially that which I shall describe bye and
+bye, quickened with a little essence of myrrh.
+
+All these dressings should be finished as expeditiously as possible,
+in order not to leave the sore too long exposed to the air, especially
+the cold air, which may be avoided by dressing the patient in a room
+moderately warm, and by holding a few live coals near the part which is
+dressed.
+
+When there is a large suppuration the wound must be dressed twice a
+day, beginning always, as I said before, with carefully examining
+the state of the bone, with removing such shivers as are separable,
+with rasping and trepanning where there may be occasion; leaving to
+nature, assisted by the balsam, Sec. X. what cannot be extracted by manual
+assistance.
+
+The digestive ointment for the fleshy parts, which I commonly use, and
+which I have already recommended, is the following; _Oil olive, half
+a pint, and an ounce of red saunders boiled together, till the oil
+acquire a deep red colour; when it is strained, add a pound of yellow
+wax, and a pound and a half of turpentine; when the whole is mixed
+and melted together over a gentle fire, a little balsam of Peru may be
+added._
+
+This medicine is principally of service in cases where, on account
+of the proximity of the bones, we would not chuse too plentiful a
+suppuration.
+
+FOOTNOTES:
+
+[14] This precept, of which the very reverse is but too frequently
+practised, is of very great consequence: It is founded upon this, that
+a discharge of blood proves that an incision has reached the quick;
+now every such incision produces an inflammation, which retards the
+suppuration already begun, and hence we interrupt this operation of
+nature which we meant to promote, and, as it is the means of preventing
+a mortification, whatever interrupts it contributes to the disease: It
+cannot, therefore, be too often repeated, that in general, incisions
+which cause a discharge of blood, ought never to be practised after a
+suppuration is begun. TISSOT.
+
+
+SECT. XVII.
+
+It was probably by some such application, that S** G**** cured a man
+whose arm was mortified, and whom the physicians and surgeons had
+given up; a cure which appears to me much less wonderful than what
+is imagined. The physicians and surgeons despaired of his recovery,
+and quitted him, because he would not submit to amputation, at the
+very time when, doubtless, the separation of the sound and mortified
+parts began to take place, owing either to the force of nature or the
+medicines they had administered, and when granulations of new flesh
+began to shoot. It was easy for S** G****, called in at this instant,
+to effect a cure, by means of his quieting powders and balsam. What is
+most astonishing in this case, and deserves at the same time to excite
+our indignation, is the obstinacy and the cruelty of the physicians;
+but they were sufficiently punished for it.
+
+
+SECT. XVIII.
+
+This is not the only instance of patients in whose cases physicians
+and surgeons have pronounced amputation to be unavoidable, and who,
+upon their refusing to submit to it, have afterwards been cured by very
+simple treatment. This ought to be a lesson for us never to be too
+precipitate in having recourse to this operation.
+
+But what must be done, they will say, when every medicine has failed?
+Is it not better, in such a situation, to try a doubtful remedy, as
+Celsus expresses it, than to do nothing?
+
+As what is called a doubtful remedy, is for the most part no remedy at
+all, I look upon such an argument as very fallacious; I shall explain,
+what I think on this point. Every mortification is the consequence
+either of some internal morbid cause, or an external accident. In the
+first case, amputation can be of no service while the morbid cause
+remains; and who can hope, in so short a time, to remove a consumption,
+the scurvy, a decay from old age, a dropsy, or cachexy? And if these
+cannot be removed before amputation, it is to very little purpose to
+operate on the sound part, as it would only be killing the patient. Is
+there a physician or surgeon but would conclude he occasioned the death
+of a dropsical person, were he to cut his mortified leg off above the
+knee? What is true in a dropsical case, is equally so with respect to
+others: To amputate, is only to give needless pain, and to accelerate
+the patient's death. It may be further asked, Must we then in such a
+situation intirely abandon the patient? I answer, No; but we ought to
+direct our efforts against the morbid cause, and at the same time,
+employ the most effectual applications externally, lopping off whatever
+is absolutely mortified, without cutting to the quick, lest the pain,
+and other accidents which are the consequence of such incisions, should
+hasten death. After this treatment, the remainder may be left to
+nature, assisted with the most efficacious medicines, internal as well
+as external; and if the patient dies, we may rest satisfied that the
+disease was beyond the resources of art.
+
+FOOTNOTES:
+
+[15][15] I hardly ever knew any old officers who have not been witnesses
+of some examples of this kind; and I have seen several people who have
+themselves been in such a situation.
+
+
+SECT. XIX.
+
+When a mortification in a healthy constitution is the consequence of
+an external accident, the point is not so easily determined; I will
+venture, nevertheless, to remove the difficulty.
+
+It must first be inquired into, if the ailment has been properly
+treated at the begining, and if sufficient care has been taken with
+respect to the cause. If there appears any default in these points, we
+must first endeavour to repair it, before we think of amputation. If,
+on the contrary, the treatment has been judicious, we must examine if
+the mortification continues to spread, or if it be stopt, and its edges
+begin to discover themselves.
+
+If it continues to spread, it is improper to amputate, for several
+reasons. In the first place, because the whole habit is in a bad
+state, and there must be a fever and general inflammation, which would
+be greatly increased by an operation which, of itself, is sufficient
+to bring on the death of the healthiest man. In the second place,
+amputation cannot be performed on the sound part, in the manner as is
+generally imagined, as the infection is very often more deeply seated
+than it appears to be: We may judge of this by observing what happens
+very frequently in whitlows of a bad kind, where the matter quickly
+insinuates itself along the arm, and is pent up there, inflaming
+sometimes even the axillary glands; as an inflammation of the toes,
+in a short time, brings on that of the glands in the groin: Thus
+the disease having taken root in the place where the operation is
+performed, would of course be increased by the ligatures, which are
+indispensably necessary in this operation, unless we would suffer the
+patient to perish by an hemorrhage. In such a case then, amputation
+is not a dubious remedy, but it is no remedy at all[16]; and if the
+patient sometimes does escape, it must be acknowledged that nature has
+effected the cure; that she has got the better both of the disease and
+of the bad treatment, and has thus overcome a double enemy.
+
+It is evident, from what I have said, that while the mortification
+gains ground, the method I have proposed, Sec. VII. XVI. should be
+followed. When its progress is stopt, it must be considered whether
+the limb can be preserved or not. We may entertain hopes[17] of its
+preservation, if all the corrupted parts cast off, and the sound parts,
+and even the bones, begin to produce granulations of new flesh. I
+cannot here omit remarking, that Mr. Haller's late experiments, which
+prove to the satisfaction of many eminent anatomists, the insensibility
+of the periosteum, render the sign of a mortification derived from such
+insensibility very doubtful. My experiments on this subject agree with
+his, excepting in this, that I always found the pericranium extremely
+sensible[18]. Whatever weight may be laid on these experiments, this
+consequence may at least be deduced from them, that we ought not
+immediately to conclude that the bones and periosteum are affected,
+because we prick, cut or tear the periosteum without giving pain; nor,
+in like manner, from this symptom, ought we to neglect the medicines
+indicated Sec. VII. XVI.
+
+If the rottenness of the bone demonstrates that the limb cannot be
+saved, which almost always happens, if the patient has been improperly
+treated, we must amputate, if the strength of the patient be sufficient
+to support this dreadful expedient, and amputate on the sound parts.
+It is true, that amputation in this case is a doubtful remedy, but
+nevertheless as there is no other, and as there is no symptom in the
+patient that forbids its use, it is a remedy. If the patient be weak,
+the case is desperate, as he is not able to support the operation
+on the sound parts, and as nature is not in a condition to effect a
+separation of the dead from the live flesh, if only the mortified part
+be cut off.
+
+In so dangerous a case, the method I would take, would be, after
+providing against any hemorrhage of the larger vessels by a proper
+ligature, to lop off all the gangrened useless mass, not actually
+through the quick itself, but very near it; afterwards I would
+endeavour to stop the progress of the infection by internal medicines
+and suitable dressings. I would support his strength by a proper
+regimen; if it increases, we may be sure a separation of the soft parts
+that are mortified will ensue naturally; after which, it will be easy
+to saw off the little stump of dead bone that was left. The wound may
+then be cicatrised, by means of epulotic applications, and such as we
+have recommended for bones when laid bare, Sec. X.
+
+This practice is not only conformable to sound reason, but what is
+more, it is confirmed by repeated experience; since we find among the
+collectors of observations, but few instances of amputation succeeding,
+when it was performed while a mortification continued to gain ground,
+or while the patient was feverish; but a much greater number of
+successful cases, when amputation was performed late, and when the
+disease had abated naturally: A variety of examples may be seen in the
+work of Mr. Schaarschmid[19], which I have already quoted.
+
+It will, perhaps, be objected to me, that I am inconsistent with
+myself, since I have just proposed one method, and actually follow
+another; but this objection will vanish, if it be considered in the
+first place, that if a person has been thus judiciously treated
+from the beginning, and does not recover, a cure will almost never
+be effected, after the cruel expedient of amputation. In the second
+place, that all those who are under a necessity of submitting to this
+dangerous operation, on account of their having neglected themselves,
+or having been unskilfully treated, have no reason to complain of the
+art, or of those who understand it, but of their own negligence, or of
+the ignorance of those into whose hands they have had the misfortune
+to fall. And in the third place, that in opposing amputation on the
+sound parts, and in testifying my abhorrence against the needless pain
+which accompanies it, I do not at all condemn the amputation of what is
+absolutely mortified.
+
+I have however sufficiently expatiated on this point, which ought to
+be considered before the others, as being more general. I now proceed
+to examine the accidents that induce surgeons to amputate in order
+to prevent a mortification. There are some who have carried their
+precipitation, in this respect, to such a length, as to cut off limbs
+upon the spot, that have been considerably bruised, before they tried
+any other remedy: A piece of cruelty I cannot in any shape approve
+of[20].
+
+FOOTNOTES:
+
+[16] Mr. Sharp, to the best of my recollection, was the first who
+solidly proved the impropriety of operating on the sound part, while
+the mortification continued to gain ground. This excellent doctrine not
+being as yet universally acknowledged, it is very much to be wished,
+that the additional authority of so judicious a surgeon as Mr. Bilguer,
+may contribute to give it fresh weight, in order to render it general.
+TISSOT.
+
+[17] I shall transcribe Mr. Bilguer's own words. _Quo quidem loco
+non possumus, quin observemus, signum illud corruptionis quod a
+deffectu sensus desumi solet, per illustris Halleri experimentis,
+quodam modo incertum redditum esse, quibus quippe evictam periosteorum
+insensibilitatem esse multi clarioque viri putant. Nostra de his rebus
+experimenta fere cum Halleri doctrina congruunt, nisi Pericraneum
+numquam non sensibilissimum deprehendimus_.
+
+[18] See, on this subject, the memoir of M. Haller, on the sensible and
+irritable parts, T. 1. 4.
+
+[19] Sammlungen, &c. a performance which ought to be generally read.
+
+[20] This practice has also been condemned by others. See the
+collection of pieces which put in for the prize conferred by the royal
+academy of surgery. T. 3. p. 490. It is there observed that every
+amputation performed immediately after the hurt, is generally dangerous
+in its consequences.
+
+I know that a soldier, who had his arm cut off in the field of battle,
+after the affair of Prague, died the third or fourth day after the
+operation.
+
+
+SECT. XX.
+
+I shall treat at present of large contusions of the limbs, especially
+of those where the fleshy parts, as well as the bones, are extremely
+bruised and shattered, as commonly happens, when the hand, the foot,
+the elbow, the leg, arm or thigh, have been bruised by a large stone,
+a beam of wood, a cart-wheel, a screw, a press, &c. In such cases,
+shall the patient get sooner well by amputating or not amputating this
+shattered limb? I answer, by not amputating; the worst consequences
+that can be apprehended, is a mortification or an hemorrhage. With
+regard to the mortification, unless every thing I have hitherto said
+concerning it be intirely groundless, we ought not to be afraid of
+it; and it is much easier to prevent than to cure it. With respect
+to the hemorrhage, it is no doubt to be dreaded, but this dread can
+be no reason for instantly taking off the limb: To be convinced of
+this, we need only examine those wounded men who have had an arm or
+leg carried off by a ball, and the stump so shattered, that the bone
+has been shivered into several pieces, and the large blood vessels
+most shockingly torn, who have, notwithstanding, been cured without
+amputation, and with whom the bleeding has stopt, even without the
+assistance of a surgeon. Nevertheless, every body knows that contusions
+of this kind have been hitherto, by most surgeons, accounted a
+sufficient cause for amputation; and that when the hand or foot have
+been shattered, they have carried their inhumanity so far, as to take
+off, not only the leg or fore-arm, but even sometimes above the knee or
+joint of the elbow.
+
+Those who follow this method, amputate within a few days of the
+accident, while the patient is vigorous, and without waiting for the
+event of any other kind of treatment; for if the patient be weak, old
+or very ill, even with the consequences of the wound, they do not
+venture upon the operation.
+
+It would however, in my opinion, be much better not only not to take
+off an arm, a thigh, or a leg, which are unhurt, but even to endeavour
+to save the foot or hand which are shattered, in obviating, by medicine
+and diet, as well as by external applications, the accidents that may
+ensue; and thus prevent a person who has already suffered so severely,
+from meeting with a treatment still more severe.
+
+It will be asked, if the thing be possible? The following observations
+will furnish an answer. I publish them with so much the more
+confidence, as they are known, not only by the patients themselves, but
+by a great number of the physicians and surgeons of the army. They must
+be decisive in favour of preserving contused and shattered limbs, in
+opposition to amputation.
+
+
+SECT. XXI.
+
+When a patient is brought to our military hospitals, who has had his
+foot, leg, hand or arm shattered by a ball, or any other violent cause,
+whether the parts are intirely carried off, or adhere by a little
+flesh and skin, but in such a manner that there is not any hope of a
+re-union; in this last case, we begin by cutting through these slender
+attachments which keep the part suspended, and thus intirely separate
+it from the body. In both cases, when pieces of the extremities of the
+bones jut out, and may prove hurtful, they must be sawed off with a
+convenient saw, whether they be moveable or still firmly adhere to the
+limb: When they are moveable, they must be held by an assistant. I hope
+no man in this treatment, will pretend to see any thing like what is
+properly called amputation, which I condemn.
+
+After this first operation, I carefully examine if there be still any
+small splinters left, and whether they are only held by the fleshy
+parts, or still adhere to the bone; I remove all those, with the
+fingers, or with instruments, that can be separated without violence
+or a fresh effusion of blood.
+
+After removing as many splinters as I can, I slightly compress the limb
+between my hands, gently stroking it lengthways, from above downwards,
+endeavouring, at the same time, to restore, as much as possible, its
+natural shape; I dress the sore with a digestive, to which I add a
+little essence of myrrh, or solution of mastic: I cover the whole with
+dry lint; applying the same bandage as after artificial amputation,
+sufficiently tight, without, however, running the risque of causing
+pain or increasing the inflammation: Afterwards I moisten the whole
+with as much spirit of wine as may penetrate to the parts affected;
+taking care to keep the limb extended in a right line, and laid soft.
+
+The first days, till the suppuration becomes plentiful, I only dress
+it once every twenty-four hours, sometimes seldomer; but when the
+suppuration is begun, I renew the dressings twice a day; and such of
+them as immediately touch the bone, or fleshy parts of the wound, I
+cover with lint dipt in solution of mastic, balsam of Fioraventi, or
+some other balsamic essence, in order, by that means, to prevent too
+large a suppuration. I likewise remove, each dressing, all the little
+shivers of bone which do not reunite, and which, though they could not
+be separated at the first dressing, may in the succeeding ones.
+
+With respect to the larger fragments, which must form the stump of the
+bone, I not only take care not to loosen them, but even, as I already
+remarked, endeavour to promote their coalition, by light compression
+with the hands, and binding the bandage somewhat tighter than I would
+otherwise do. If, at the expiration of a month, a fragment of this
+kind is not coalesced, but on the contrary, is become more loose,
+without however being intirely so; in that case, by shaking it gently,
+moving it upwards and downwards, and loosening the fleshy parts that
+hold it, I endeavour to bring it away intirely. If there are some of
+them cracked as high as the articulation, I give myself no concern
+about them, but leave them to nature[21]. But as to the small, short,
+pointed shivers which do not re-unite with the bone, I take care, as
+I have already observed, to remove them as soon as possible, commonly
+in the first seven or eight dressings; and at each dressing, I gently
+stroke down the muscular flesh towards the end of the stump; I keep
+the whole firm, by giving a proper degree of tightness to the bandage;
+moistening it, as long as the dressings are necessary, two or three
+times a day with spirit of wine. By these means, such kind of patients,
+at the end of four or five months, are as compleatly cured as the
+nature of the accidents will admit of.
+
+FOOTNOTES:
+
+[21] Felix Wurz and G[oe]uey cured, as may be seen in Heister's Surgery,
+t. 1. p. 183. the longitudinal fissures of the bone, by a suitable
+dressing, which is mentioned in the same place. If it should happen,
+what I have never yet had an opportunity of seeing, that the bone
+was split longitudinally as far as the joint, and that it appeared
+impossible to procure its coalition by means of proper dressings, I
+would make, taking care to avoid the blood vessels, two incisions, from
+the extremity of the stump to the joint, that should go as deep as the
+bone, and whose distance must depend on the breadth of the splinter to
+be extracted. I would raise up from the bone the flesh included between
+the two incisions, with a scalpel or myrtle-leaf, avoiding to hurt the
+blood vessels as much as possible; then, having detached the splinter,
+by means of the scalpel, from its adhesion with the ligaments of the
+joint, I would bring it away.
+
+If the hemorrhage were considerable, before I extracted the bone, I
+would tie the vessels of the fleshy part which adhered to it; and after
+having removed the bone, I would undo the ligatures, restore the flesh
+to its place, take care of the small wounds made by the needles, and
+would dress the whole part in the manner already mentioned in this
+section.
+
+
+SECT. XXII.
+
+Besides what I have already said, I must further add some other useful
+remarks.
+
+If the patient, as is generally the case, be weakened by the discharge
+of blood, his strength must be supported with broths, with herbs boiled
+in them, and with wine and water. Further, I order him every four hours
+half a dram of the bark, till the pulse is sufficiently raised, and a
+laudable suppuration comes on; he may then be allowed some meat, herbs,
+and food of different kinds of grain; water, acidulated with vinegar or
+spirit of vitriol, may serve for drink.
+
+When the suppuration is too plentiful, and the wound appears disposed
+to heal, I purge once or twice with Epsom salt, having previously for
+a few days administered some absorbent powders. During the day I make
+him drink a slight decoction of the bark, before and after meals a
+little strengthening acid elixir; and in the evening, a small dose
+of bark, mixed with a fourth part of an absorbent powder[22]. The
+following is the composition of the strengthening elixir; _Half an
+ounce of the extract of wormwood; of that of gentian, lesser centaury,
+green oranges, and buckbean, of each a dram; rectified spirit of wine,
+four ounces; and spirituous mint water, one ounce: Let the extracts be
+dissolved in the spirits, over a gentle fire; strain them, then add to
+the strained liquor, half an ounce of dulcified spirit of nitre, and
+thirty drops of oil of vitriol_.
+
+FOOTNOTES:
+
+[22] I do not easily comprehend of what service absorbents can be to
+wounded patients; but it appears obvious to me, that they must impair
+the efficacy of the acids, which are clearly indicated with respect to
+the fever, inflammation and gangrene: The only circumstance in which I
+imagine they can be of use, is, when the stomach, by taking the acids
+for several days, is a little disordered, which may happen when the
+patient has been much reduced by the hemorrhage; then a few doses of
+absorbents would remove this slight inconvenience. Otherwise, I am
+convinced, by repeated experience, there is no occasion for them, when
+the bark is joined with acids, as is judiciously done by Mr. Bilguer.
+TISSOT.
+
+
+SECT. XXIII.
+
+It sometimes happens that these patients, Sec. XXII. are seized with a
+fever, it begins with great cold, sometimes even with a chattering of
+the teeth, which lasts half an hour, an hour, or sometimes longer, and
+is succeeded by a gentle heat, which terminates in about three or four
+hours, in a moderate sweat. The interval lasts two or three hours, at
+the expiration of which the fit returns; sometimes it is accompanied
+with a diarrh[oe]a.
+
+The most common causes of these fevers, are either in the first place,
+a bad digestion when a person has taken too much food, or the food is
+greasy, indigestible, and subject to putrefaction; or, secondly, a
+reabsorption of purulent matter, which taints and inflames the blood;
+or, thirdly, a bad air, such as is very often that of an hospital,
+notwithstanding all the precautions that can be taken.
+
+It is of consequence immediately to stop this fever, lest it should
+dissolve and corrupt the blood, and become a putrid fever: If it is
+not accompanied with a diarrh[oe]a, a vomit of ipecacuan may be given,
+joined with a few grains of rhubarb: If there is a looseness, the same
+medicine may be repeated the following morning, and even sometimes the
+third day. Through the day may be given a little of the strengthening
+elixir described in the preceding section; and in the evening, when
+the patient has had a vomit in the morning, half a dram or two scruples
+of the following anodyne powder may be administered; _Virginian
+snakeroot, zedoary, of an eleosaccharum made with the essential oil
+of fennel, of each two scruples; calcined hartshorn, sixteen grains;
+cynogloss pills, four and twenty grains_. Afterwards I gave every day
+some of the strengthening elixir, a compounded powder of the bark, and
+a strengthening decoction. The powder consists of _two drams of bark,
+one dram of sal ammoniac, and a dram of an eleosaccharum, made with
+the essential oil of fennel_. The ingredients for the strengthening
+decoction are as follow: _The herbs of fluellin, baum and yarrow, of
+each half an ounce; of that of mint, two drams; chamomile flowers,
+an ounce; those of red poppy, half an ounce; orange peel, two drams;
+shavings of sassafras, cassia lignea, carvy seed, of each a dram; bark,
+four ounces; and Virginian snakeroot, one ounce_. These ingredients
+must be properly cut small, bruised and mixed together. By the above
+medicines the fever is commonly relieved[23].
+
+FOOTNOTES:
+
+[23] Mr. Bilguer having seen the good effects of this composition,
+inserts it according to the form he made use of; and without doubt,
+it is a very efficacious medicine: But it might be rendered much
+more simple without imparing its virtues; and simple medicines, in
+my opinion, are preferable on every occasion, but particularly so in
+hospitals. TISSOT.
+
+
+SECT. XXIV.
+
+I have treated hitherto of limbs intirely divided; I shall now examine
+what ought to be done, when a ball, or any piece of iron or lead, has
+so greatly injured the bones of the hand, arm, foot or leg, that,
+although they are not quite broke through, and the part suspended by
+a small portion of flesh and skin, as in the former case, Sec. XXI. are
+nevertheless so much shattered that the part may be moved any way,
+and seems to hang useless. In these circumstances, we must dilate
+the aperture made by the ball, or by whatever body has inflicted the
+wound, and separate the flesh from the bone; in a word, we must make
+the wound sufficiently large, in order to lay the shattered bones bare,
+especially where they are broken across, that they may be more easily
+managed by the fingers; then as many splinters as possible must be
+extracted, as well as the ball and other extraneous bodies. If there
+be the apertures of two balls, they must both be treated in the same
+manner: When it is expedient to make counter openings, they may be
+made indifferently, whether there be one or two openings, and these
+artificial wounds must be made sufficiently large, to admit of the
+extracting of the splinters and other extraneous matters. In other
+respects, the dressings must be the same as Sec. XXI. Every time they
+are renewed, the splinters must be extracted as they become loose and
+can be easily separated; if there be some large fragments which must
+be removed, we may begin by dividing them from the fleshy parts, then
+sawing them through with a very small saw, whose blade is extremely
+thin and narrow, crooked or straight, in order to push it from above
+downwards, or from below upwards, or sideways, as may be convenient.
+This method answered so well with me for the bones of the leg and arm,
+that I have often, in this manner, separated pieces three or four
+inches in length, and even longer. As for the smaller bones, such as
+those of the hands or feet, I have divided and extracted them entire,
+when they were broken and shattered, and sometimes even when they were
+not.
+
+If a bullet has penetrated into the cavity of a bone, such bone must be
+laid bare, either on the side by which the bullet has made its way, or
+on the opposite one; afterwards it must be pierced with two or three
+trepans, and the extraneous body, and the shivers of the bone extracted.
+
+If the bullet has made its way into one side of the joint of the elbow
+or knee, and by that means shattered several bones at one stroke, I
+treat it in the same manner, dilating the wound and extracting the
+splinters as before, and the wounds get well like the others.
+
+I cured a patient who had been wounded by a bullet which entered the
+cavity of the os humeri; he would not consent to have it extracted,
+which did not however prevent his recovery, nor has he felt any further
+inconvenience from it than a small protuberance on the place where the
+ball is still lodged[24].
+
+It will perhaps be asked, if it be possible that a ball should enter
+the cavity of a bone without splitting or breaking it, as seems to have
+happened in the case I have just mentioned? and where that circumstance
+will appear still less feasible, when I affirm, that the bones of
+this man were strong, hard and compact; and that on some occasions,
+fissures and the other accidents of bones, I have been treating of,
+are often the consequences of slight wounds, as of more considerable
+ones. But be that as it may, I treat these kinds of wounds in this
+manner: I dress the bone partly with dry lint, and partly with balsamic
+essences, and sometimes I throw in injections: I apply a digestive to
+the fleshy parts, and moisten all the dressings with spirit of wine,
+as in Sec. XXI. I check the suppuration a little, preserving, as much as
+possible, the boney fragments which adhere together, so as to leave
+room to hope for their coalition, sustaining them in their natural
+position, and covering them again as much as possible with the flesh
+and skin: If there be any pointed splinters, I endeavour to promote
+their separation by proper applications, such as the balsamic essences,
+and different powders, particularly that mentioned Sec. X.
+
+I fix the limb in its natural position, suspending the arm in a sling,
+or half-cylinder adapted for the purpose. For the leg, I use Mr.
+Petit's machine, or splints, made of wooden rods covered with straw,
+and wrapped up in linnen cloth; and in the dressings, my chief aim is
+to keep them sufficiently tight above and below the wound, to promote
+the consolidation of the larger pieces of bone, by keeping them firm
+in their places, and preventing the re-absorption of pus. The diet and
+medicines are the same as in Sec. XXII. By this method a very great number
+of wounded men have been restored to health, in two, three or four
+months; and some not before the expiration of eight. My observations
+confirm those of Horstius, who remarks, that a man who has lost a great
+portion of the tibia and fibula, may nevertheless, after his cure, walk
+with ease, and halt but very little[25].
+
+FOOTNOTES:
+
+[24] He was a soldier in the guards, and is doing his duty in the field
+at the very time I write this.
+
+[25] HORSTII _observationes medicae_, part ii. 1. 4. obs. 10. Mr. de
+Frengler, captain lieutenant in the regiment of Anhalt Bernbourg, is an
+instance of a most successful cure of a wound of the leg of this kind.
+In the sequel of this dissertation may be seen, several striking cases
+of an extraordinary loss of substance in the bones being again repaired.
+
+
+SECT. XXV.
+
+Such kind of wounds, however, are not without danger; the patient is
+not only very liable to be seized with such a fever as I have spoken of
+Sec. XXIII. but he also runs a risque from the wound itself. It is true,
+that these two dangers, that attending the fever, and that from the
+wound, which I shall mention by and bye, are connected, and generally
+accompany each other. It sometimes happens of a sudden, and without
+the patient, or the physicians and surgeons having any suspicion of
+it, that the wounds dry up, become corrupted, and exhale an infectious
+stench; the neighbouring parts are very much inflamed for some days,
+after which the inflammation goes off, leaving a kind of [oe]dematous
+tumour, which produces an abscess, with a laudable discharge, or
+degenerates into a malignant sore, without any abscess. Sometimes these
+sores are beset with swarms of maggots.
+
+The treatment of the fever is the same I have described Sec. XXIII. that
+of the wound, in this troublesome situation, ought to be to endeavour
+intirely to remove the inflammation, which readily terminates in
+suppuration, and forms large cavities full of matter, which must be
+opened.
+
+A moderate compression of the neighbouring parts, in this case, as in
+those I have already mentioned, contributes to prevent the reabsorption
+of the purulent matter. If the inflammation runs high, and the patient
+is young, it should be moderated by bleeding, and other medicines
+calculated to check and resolve the inflammatory denseness of the
+blood[26].
+
+If the cause of the inflammation be obvious, it must be removed; thus
+every pointed splinter of a bone must be separated with a knife or saw;
+whatever occasions a compression must be taken away, and if there be
+any fibrous part causing too great a stricture, it must be cut through,
+dilating the wound by incisions of a convenient depth.
+
+The dryness and putrefaction of the wound, may be remedied by dressing
+it with the powder composed of sal ammoniac and camphor, mentioned Sec.
+X. and by moistening it afterwards with oil of turpentine; or, I cause
+the wounds, both the original ones, and those made by the surgeon, to
+be dressed with pledgets, dipt in a balsam composed of _four ounces
+spirit of wine, half an ounce spirit of turpentine, and three drams
+spirit of sal ammoniac_: Afterwards, having first applied the dressings
+very thin, the parts must be constantly fomented with some of the
+compositions mentioned Sec. XXI.
+
+The maggots may be destroyed, by frequently shifting the bandages,
+linnen, cloaths, and coverings of the bed; by the application of the
+balsams I have already spoken of, which destroy these insects and
+prevent putrefaction; by constantly keeping on the bed-clothes, a
+linnen cloth dipt in tincture of aloes or vitriol. But care must be
+taken that the tincture of aloes does not touch the affected limb,
+much less the sores themselves, lest part of it should be absorbed,
+and occasion a diarrhaea; although in other respects aloes powerfully
+resists putrefaction, and is sometimes a useful vulnerary.
+
+FOOTNOTES:
+
+[26] At present, since we know that pus is only a corruption of the
+crassamentum of the blood, it is easier, perhaps, than formerly, to
+explain why an inflammatory denseness of the blood terminates sometimes
+in an abscess, and at other times in a compleat recovery without one.
+Dr. Pringle, to whom we are indebted for so many useful discoveries,
+which have thrown a new light on the theory and practice of physic,
+was the first who pointed out the true manner in which pus was formed,
+concerning which so many conjectures had been made; and Mr. Gaber
+has demonstrated it very particularly by a number of very curious
+experiments. TISSOT.
+
+
+SECT. XXVI.
+
+I have had under my care, during the course of this late bloody war, a
+great number of wounded limbs, torn and shattered by cannon and musket
+balls, by the bursting of bomb-shells and grenades, by grape-shot,
+&c. I cured them without ever performing amputation, by the method
+described in the two preceding sections, although there were bones
+broken and shattered, large blood vessels divided, the flesh miserably
+lacerated, and limbs carried off in the manner I have described Sec. XXI.
+Others, such as I have described Sec. XXIV. in which the bones were split
+up as high as the articulation; all which circumstances might make us
+reasonably apprehend a tedious and difficult cure, too plentiful a
+suppuration, hemorrhages, violent inflammation, excessive corruption,
+mortification and death.
+
+It will perhaps be asked me, Of those men so terribly wounded, whom
+you attempted to cure without the means of amputation, did none die? I
+shall return an answer by and bye. It will be further objected to me,
+that I have not taken notice of the os humeri, or the thigh bone being
+shattered; and it will be asked me, What must be done in cases where
+either of these bones are fissured as far as their upper extremities,
+in such a manner that we cannot hope to procure their coalition by
+means of any bandage? And finally, it will be remarked, I have not
+mentioned the wounding the brachial or crural arteries, or the large
+branches of these which pass between the radius and ulna, or tibia and
+fibula, called in both parts the inter-osseous arteries, whether these
+wounds be accompanied with a fracture of the bones, or otherwise. I
+shall reply to these two last objections, after having answered the
+first question in the following section.
+
+
+SECT. XXVII.
+
+I had at one time, during the war, in a military hospital, six
+thousand six hundred and eighteen wounded patients, who were all
+treated according to my direction, and part of whom I attended myself;
+of these, five thousand five hundred and fifty-seven were perfectly
+cured, and in a condition to support all the fatigues of the service;
+a hundred and ninety-five were able to do duty in garrison, what they
+call half-invalides[27], or to work at any trade; two hundred and
+thirteen remained incapable of any labour, civil or military, what they
+call grand invalides[28]; and six hundred and fifty-three died.
+
+These hundred and ninety-five half-invalides, and the two hundred
+and thirteen grand invalides, in all, four hundred and eight, were
+of the number of those who had their bones bruised, broken and
+shattered; of those, in a word, whose wounds were called complicated
+and dangerous[29]: For it is well known that with us, a man is not
+put on the list of invalides for a wound of the head, or of the
+fleshy parts; if, after wounds of this kind are healed up, there
+remains any weakness, stiffness, or tension of the part, we employ
+various medicines, both internal and external, ointments, liniments,
+fomentations, warm baths, by means of which they are commonly
+compleatly cured.
+
+Let us at present suppose, that of the six hundred and fifty-three
+who died, no more than two hundred and forty-five died from the
+consequences either of a violent concussion, from wounds of the head,
+thorax, lower belly or spine; from a complicated fracture of the os
+femoris, or from putrid fevers, fluxes and other inward diseases, which
+often happen in military hospitals, even in cases of slight wounds,
+from the bad air which is breathed there; there will remain four
+hundred and eight, who may have died from the consequences of wounds
+with shattered bones; and this number is equal to that of those who
+were cured without amputation, although their wounds had been of the
+same kind[30]. If, after making these calculations, we compare them
+with the prodigious number of wounded men, who, at the beginning of
+the war, had their limbs taken off on account of dangerous wounds, of
+whom scarce one or two escaped with their lives; we may very safely
+conclude, that much the greater part of those four hundred and eight
+men cured and sent to the invalides, would have died if amputation had
+been performed on them, and this mocking artificial wound added to
+what they had already received. It would be trifling to pretend that
+amputation would have saved a great many of those who died, had it been
+timeously and properly performed[31].
+
+Further, if it be considered, that many of those who died, might
+have recovered, had they been taken care of any where else than in an
+hospital, where the air is very bad; and if it be called to mind at
+the same time, what some very eminent surgeons have observed, that two
+thirds of those die who have their limbs cut off[32], I hope it will
+be readily acknowledged, that my method of treating wounded limbs, by
+saving them, is highly preferable to that of amputation.
+
+FOOTNOTES:
+
+[27] _Halbe Invaliden._
+
+[28] _Ganze Invaliden._
+
+[29] _Schwerfracturirte._
+
+[30] It is obvious that Mr. Bilguer has not made his calculations in so
+favourable a manner for himself, as he might have done; I am persuaded
+that in 6618 wounded men, a much greater number than 245 must have
+died from the consequences of concussion, large flesh wounds, fevers,
+fluxes, and other diseases, owing to a bad habit, bad air, the season
+of the year, &c. TISSOT.
+
+[31] Such a pretence would in effect be absurd: The reasoning would
+amount to this; it is demonstrated that the danger arising from
+amputation, joined to that attending wounds of themselves curable, has
+killed a great many patients; therefore the danger arising from this
+operation, joined to that attending wounds which have proved incurable,
+would have saved a great many patients: Only the most blinded obstinacy
+could reason in such a manner. TISSOT.
+
+[32] See the memoirs of the Academy of Surgery, t. 2. p. 256. where Mr.
+Boucher, in speaking of gunshot wounds, with the bone shattered near
+the articulation, shews that amputation commonly proves fatal, and that
+of three patients on whom it is performed, generally two die; whereas
+out of an hundred and sixty-five who had had the bones shattered, on
+whom amputation had not been performed, not one died. A degree of
+success which he ascribes, it must be owned, to the management of the
+surgeon; who, instead of spirituous applications, only made use of
+emollients, light digestives and anodynes.
+
+
+SECT. XXVIII.
+
+Finally, I must add, that the greater number of those who died in our
+hospitals, in consequence of wounded limbs, were of those who had the
+os femoris shattered near its upper articulation; and as we are not
+at present acquainted with any means of relieving that accident; and
+as it has not as yet been attempted to amputate at that part, if we
+deduct these cases from the number mentioned in the preceding section
+who died, we shall see that the number of those whose lives were saved
+without amputation, considerably exceeds that of those who died. Since
+wounds near the superior part of the thigh bone, or shoulder, where the
+bones are shattered, ought always to be looked on as desperate.
+
+
+SECT. XXIX.
+
+With respect to the os femoris, I do not know that any person hitherto
+has attempted to amputate it at its upper extremity with success: The
+arm has been successfully taken off at the shoulder, though but very
+rarely[33]. Every body knows that the most able surgeons only allow of
+the amputation of the thigh at its lower part, a little above the knee;
+but even supposing it could be safely taken off in the middle, when the
+bone is neither shattered, nor fissured higher up, the operation will
+prove useless when it is done, as has so often been the case with our
+wounded men.
+
+The difficulty attending the amputation of the upper parts of the
+thigh, is so considerable, that surgeons rather chuse to abandon
+to their fate those wounded men where it appears necessary, than
+to undertake it; and I own I am of the same opinion with them. If,
+nevertheless, a case occured, wherein the death of the patient
+appeared certain if amputation was not performed, and if the operation
+could afford any hope, I would even prefer taking the limb off at
+the articulation, rather than at any other place; for although it be
+extremely difficult, it prevents, at least, the inconveniences and
+accidents which a stump might occasion[34].
+
+But as there can be no necessity for this operation, but in consequence
+of the large arteries being wounded, by following the method I shall
+point out Sec. XXXV. it will be rendered unnecessary, and disputes
+concerning it may be laid aside: For it is very certain, that the most
+dangerous accidents even of this part, may be remedied, like those
+in other parts, by joining to the method of treatment I have already
+mentioned, the operation I shall describe Sec. XXXV. providing it be
+performed in time, before the patient be exhausted, and almost dying,
+from the effects of the hurt being too long left to itself. But the
+apprehension which patients have of the pain which deep incisions into
+the fleshy parts would occasion, prevents extracting the pieces of
+bone which compress or irritate the parts around; as also from cutting
+through the membranes that are overstretched, and cause a constriction;
+from giving a vent to impacted matter, and from conveying the medicines
+to the parts where they ought to be applied. The consequence of all
+this is, that the proper remedies are applied too late, and the
+patient sinks under the pressure of the accident.
+
+But if nature were even able to get the better of these difficulties,
+there are others to which our[35] wounded men are subject, lodged
+together in too great number in military hospitals, where the state of
+wounds is rendered worse by a concurrence of several causes, and the
+cure of those of the most simple kind is retarded. The principal of
+these causes are want of cleanliness, an improper regimen, inconvenient
+beds, a continual noise, which hinders sleep, bad air, frequent
+removals from one place to another, and conducted in an inconvenient
+manner; these circumstances greatly contribute to make the instances
+of people recovering who are severely wounded near the upper part of
+the thigh, where the bone is shattered, so uncommon. But if any should
+pretend to say that there are none cured by the method described
+Sec. XXXV. I shall only, in answer, produce the invalide soldiers
+themselves, who are at present, some in the country, others in the
+hospitals, whose recovery demonstrates the contrary. I acknowledge that
+this method is difficult and tedious, and that more die than recover;
+these, however, are not sufficient reasons for declaiming against, or
+intirely condemning it, as it is the only expedient left, amputation at
+the shoulder, or upper part of the thigh, being an operation not only
+difficult, but highly precarious.
+
+FOOTNOTES:
+
+[33] M. Morand, the father, was the first who took off the arm at
+the joint of the shoulder. Mr. Le Dran performed it soon after in
+the presence of the most eminent surgeons of Paris, Messieurs Petit,
+Marechal, La Peyronie, Arnaud, &c. which number of witnesses, making
+his operation more extensively known, that of Morand has, as it
+were, been forgotten, and Mr. Le Dran has passed for having been the
+inventor. Mr. Bromfield performed it successfully within these few
+years at London; but notwithstanding a few cases whose event has
+been favourable, it is a very dangerous operation, and has sometimes
+miscarried. Dr. Home, an eminent physician at Edinburgh, equally a
+promoter of agriculture, medicine, and the arts, relates, that in the
+former war, he saw Mr. Mitchel perform the operation on two soldiers,
+where the os humeri was fractured as high as the joint, and who both
+died a few days after: It is true, he remarks that they were both in
+a bad way when the amputation was performed; but he adds, that this
+operation appears extremely dangerous, even when performed with every
+favourable circumstance. _Medical facts and experiments, p. 114_. With
+respect to the thigh, there is little room to hope that the struggle
+that is made to determine, when and how it should be taken off at
+the articulation, can be attended with the success which some people
+seem to expect from it. If such an operation should take place, it
+will perhaps very soon be asked, whether it ought not to be publicly
+condemned? TISSOT.
+
+[34] I am of opinion, that if one had the misfortune of being reduced
+to the necessity of chusing between amputating at the upper part of
+the thigh, or at the articulation itself, one reason for prefering the
+latter, would be the greater ease there is in stopping the hemorrhage
+of the crural artery.
+
+A surgeon and anatomist, who has been in repute, observes, _That an
+hemorrhage of the crural artery is what is chiefly to be dreaded, but
+the operation requires too short a time, for such an hemorrhage to be
+fatal_. It is surprizing to see him mention this operation as one that
+is very familiar; I make this remark, because, as he is not the only
+person who may allow himself to talk in this manner, a bold pretender
+to the art, on reading such a passage, might undertake an operation as
+easy and common, which has never yet been performed. TISSOT.
+
+[35] What Mr. Bilguer says with respect to the wounded Prussians, is
+but too applicable to those of every army.
+
+
+SECT. XXX.
+
+I ought now to say something concerning a contusion, or echymosis; I
+shall confine my remarks particularly to that kind where there is a
+great quantity of extravasated fluid diffused under the skin, such as
+we often see, when a ball, without breaking the skin, injures it to
+such a degree, that it looks like a mortified eschar, and at the same
+time dislocates, fractures, or shatters the bones belonging to the
+part. When a surgeon meets with a contusion of this kind, the treatment
+is not greatly different from that recommended in a mortification; for
+the skin must be treated exactly like a mortified slough, must be laid
+open by several deep incisions, dressed with the powder mentioned Sec.
+X. covered with a digestive ointment mixed with a little essence of
+myrrh, and the part affected, as well as all around it, kept constantly
+bathed with emollient fomentations, without any ingredient, either
+stimulating or astringent. With regard to the shattered bones, the
+same method may be followed as in Sec. XX. If any of them are luxated,
+they must be reduced, without, however, confining them by the bandages
+used in ordinary luxations, and which, in this case, would make the
+necessary incisions uneasy, would prevent the gangrenous sloughs
+from casting off, and hinder the formation of pus: It is therefore
+sufficient, after having replaced the bone, to let it remain quite
+undisturbed; and when the corrupted slough is come off, the sore may be
+dressed like wounds of the fleshy parts.
+
+
+SECT. XXXI.
+
+Some imagine that these violent contusions, accompanied with fractures,
+require amputation, as the properest method of cure[36]. I shall
+mention, what seems to me strongly against this opinion. In the first
+place we must reflect, that the danger of dying, in these cases, does
+not arise solely from the fluids extravasated in the contused part,
+but from the violent concussion, which gives a shock, and occasions a
+general compression of the vessels over all the body, especially the
+internal ones[37]; and from the vessels being compressed, obstructed
+or ruptured, proceed extravasation, inflammation and suppuration.
+
+This commotion of the whole body, depends on the external air, which
+being compressed, condensed, and rapidly pushed on by a ball, moving
+with vast velocity, acts on the body with greater force, and causes a
+more violent contusion, than any other substance, even the heaviest
+has ever done. From thence proceed contusions of the viscera, spitting
+and vomiting of blood, oppression, cough, pains, inflammations and
+suppurations internally, a fever, and other complaints which happen
+after contusions, seemingly slight, and confined to some particular
+part, but which are, in fact, the consequences of this general, and
+what may be called invisible, contusion of the whole body[38].
+
+The amputation of the limb does not remedy those accidents; on the
+contrary, it increases them, by means of the dread the patient feels at
+the thoughts of amputation, and by the excruciating pain which attends
+it; thus accelerating that death it was meant to prevent. I therefore
+boldly affirm, that amputation cannot be of service in those cases,
+wherein the nature of the parts and the state they are in, forbid it;
+that in many, it is hurtful, and hastens death; and that in others,
+even where the patient recovers, it is likewise improper, if he could
+be cured and the limb preserved; a surgeon is unpardonable who employs
+it in such a case.
+
+FOOTNOTES:
+
+[36] Can it be called curing a limb to take it off altogether?
+
+[37] It has been known long since, that this concussion, or what may
+be called a general contusion, is one of the principal causes of the
+danger arising from gunshot wounds, and more or less from those of all
+kinds of fire arms; but at present I do not recollect to have seen the
+mechanism of this effect so well explained as in this performance.
+The rapidity with which the air strikes, compensates what it wants in
+density: Those who love to reduce every thing to calculation, will
+be able exactly to determine this effect by the rule of proportion:
+Supposing on one hand, a stream of air, which has acquired, by the
+motion of the ball, a given velocity, and which acts upon a man with
+this degree of velocity; supposing on the other hand, a man falling
+upon a floor, likewise with a given degree of velocity, the effect
+will be equal, if the velocity of air, is to the man who falls, as
+the density of the board is to that of the air; or, more briefly, if
+the contusing bodies be in an inverse ratio of their densities. I am
+even induced to believe, that when the velocity is augmented to a
+certain degree, its effect is augmented in a greater proportion than
+its increase; or, to speak algebraically, that its effects ought to be
+expressed by some quality of its degrees; thus the effect of a velocity
+of 150 degrees, would be to the effect of a velocity of 125, not as
+150 : 125 or as 6 : 5 but as the square, or perhaps some other quality
+of 150, to the square or the correspondent quality of 125.
+
+There are physical reasons that induce us to believe that the case
+is so, and there are several observations which seem to confirm it.
+Those who have served in time of war, have all been witnesses of some
+singular instance or other of the effects of the percussion of the
+air; there are instances of people killed on the field, without being
+touched by the ball. I was told by officers, men of veracity, that at
+the battle of Fontanoy, a ball broke the thigh bone of a soldier in the
+Dutch army, without touching him; another saw a man who was rendered
+paralytic on one side, by a ball whizing past him. Curious observers
+know, that nothing so greatly fatigues an army as a high wind, even
+the centinels are tired, without marching; the reason is, that a high
+wind occasions a kind of general contusion, which of course produces
+weariness. I do not know but some of the effects of lightening may be
+imputed to the same cause. I shall add nothing to what Mr. Bilguer says
+concerning the effects of a contusion; he is sufficiently explicit on
+this head; and as I have already treated the subject pretty largely in
+my book termed _Advice to the People_, I shall only observe, that in
+the wounds made by musket-ball, the effect of the general concussion
+is not very considerable, but the danger, in such cases, proceeds from
+the topical contusion accompanying the wound, the small quantity of
+blood commonly discharged from it; and lastly, as Mr. Le Dran remarks,
+because the instant a man receives a gunshot wound, he is struck with a
+sudden dread he cannot possibly resist. There seems to me to be three
+reasons for this dread, of which even the wounded person himself is not
+altogether conscious; in the first place, the idea that gunshot wounds
+are dangerous; secondly, because the degree of the hurt is not known;
+thirdly, the instantaneous effect of the concussion, which renders
+a man much more susceptible of fear. There is a point of time when
+courage is useless. I shall beg leave, in this place, to insert a case
+I had from the eye-witnesses, and which demonstrates the bad effect
+of apprehension on wounded patients. Two officers, in the service of
+France, were wounded in the last campaign but one; one of them very
+dangerously, the other, who had been a prisoner a little time before,
+and had been extremely ill used, but very slightly; they were carried
+to the same place, and lodged in the same apartment; the first expected
+to die, but nevertheless recovered in a short time; the second hoped
+to be cured very quickly, and his wound, a superficial one in the leg,
+did not discover the least sign of danger. The place they were in was
+surprized, and they were informed they were made prisoners; the idea of
+what he had suffered, made so strong an impression on the latter, that
+he instantly found himself indisposed; the following dressing the wound
+appeared mortified, every remedy proved useless, and he died in a few
+days. TISSOT.
+
+[38] The troublesome symptoms which I have here enumerated, happen
+seldomer when the limb is entirely carried off by the ball, although
+the concussion caused by the compression of the air must be greater in
+this case, than when the ball has only grazed; a circumstance which
+might induce one to call in question the justness of my remarks in
+this section. But these doubts will vanish, when we reflect, that
+in a contusion there is no discharge of blood, whereas it is very
+considerable in cases where the limb is intirely carried off; and thus,
+the remedy is here a consequence of the accident itself, since this
+hemorrhage effects what we would wish to effect by artificial bleeding;
+in contusions, where there is no discharge of blood, it removes
+obstructions, and disperses the extravasated humours, which are the
+consequences of concussion.
+
+
+SECT. XXXII.
+
+As I object to the amputation of contused limbs, it is reasonable I
+should point out the method of treating such contusions: I prevent
+the troublesome symptoms they produce, or disperse them if they have
+already appeared, by frequent bleedings, and by the exhibition of
+such medicines as attenuate the blood, resolve what is too gross,
+remove what is obstructed, and render fit to be reabsorbed what is
+extravasated. I join with them such as, by gently evacuating by stool,
+unload the vessels; and I afterwards give such things as brace up the
+fibres, and restore the natural crasis of the blood.
+
+I have found no medicine more effectual to attenuate the blood, and
+resist the febrile disposition, than a powder, consisting of nitre,
+Epsom salt, cream of tartar, and true Armenian bole[39].
+
+FOOTNOTES:
+
+[39] I have not experienced a better medicine in such cases, than the
+plentiful use of oxymel. TISSOT.
+
+
+SECT. XXXIII.
+
+The external applications for a contused limb should vary, according
+to circumstances, or according as the contusion has caused a mortified
+slough, or has not. If it has not, but nevertheless the bone is
+fractured, the applications should be of a very mild nature. In such
+a case I make no incisions, but I endeavour to bring the two ends
+of the bone together, to place them in their natural position, and
+to keep them in it, by means of compresses and bandages, as in the
+common simple fractures: I constantly stupe the whole dressings with
+discutient and vulnerary fomentations[40], and exactly follow the plan
+laid down Sec. XIV. by which means I have almost always happily cured
+contusions of this kind.
+
+If the contusion has caused a mortified slough, and has at the same
+time shattered the bone, we must begin by separating the dead slough
+from the sound parts, with a scalpel; we must make deep incisions, and
+neglect no means proper for promoting the discussion or suppuration;
+and the fracture of the bone must be treated agreeably to the method
+recommended Sec. XXIV. This case requires great vigilance in the care of
+it, and we find ourselves amply recompensed for our labour, by the
+pleasure of accomplishing the cure of these unfortunate patients,
+either compleat, or at least as much so, as can possibly be obtained in
+their situation.
+
+There is at present at the hospital at Torgau, a soldier who had been
+grievously wounded; the shoulder and arm were very bad, from the
+extravasation the contusion had occasioned; the scapula and clavicle
+were entirely shattered; the head of the os humeri dislodged from the
+glenoid cavity, and pushed downwards; the ligaments having been too
+violently stretched, now hung loose; and the neighbouring parts, deeply
+bruised, were covered with a black slough, like a mortification. The
+contusion and double fracture of the shoulder blade and clavicle are
+compleatly cured, the head of the os humeri never could be kept in its
+articulation, on account of the relaxation of the ligaments; the other
+symptoms are happily removed, but he has a cough, and almost constant
+fever, with its concomitant symptoms; whence we may conclude that
+matter is formed in some bowel, probably in the lungs, a consequence
+resulting from the contusion of the internal parts.
+
+FOOTNOTES:
+
+[40] An infusion of water-germander, and yarrow in water, with the
+addition of about a sixth or eighth of vinegar, is one of the most
+proper fomentations in such cases. TISSOT.
+
+
+SECT. XXXIV.
+
+Every one will easily conceive, that this method of curing limbs that
+are wounded, fractured and shattered by gun-shot, such as I have been
+hitherto describing, is accompanied with a great deal of pain, and
+with murmurs and impatience on the part of the sick; that it requires
+a very judicious surgeon, and gives him abundance of trouble, care and
+anxiety; besides, I do not pretend that every patient was saved by it:
+The following lines are applicable on the occasion:
+
+  _Non est in medico semper relevetur ut aeger,
+  Interdum docta plus valet arte malum._
+
+But as they are oftener applicable with respect to amputation, the
+expediency of the method I have recommended, stands nevertheless on a
+solid foundation. To alleviate the pains and sooth the murmurs of the
+sick, we must flatter them with hope; as for the wounds made by the
+incisions, they are commonly necessary at a time when they do not
+think of complaining or opposing them, and they are much less severe
+than the horrible gash made by amputation. The objections arising
+from the difficulty attending this method are happily removed in our
+hospitals, by the care and humane vigilance which Frederick the Great
+has exerted to provide his victorious armies with surgeons capable of
+putting it in practice.
+
+
+SECT. XXXV.
+
+I shall here add that with regard to those who have had the thigh or
+arm carried off by a cannon ball, I do not recollect that any of the
+first have been brought to our hospital; they doubtless died instantly
+in the field of battle, in consequence of the hemorrhage. Several of
+those who had the arm carried off were brought, but the camp surgeons
+had previously stopt the bleeding, and applied the dressings commonly
+used after amputation, and we cured them afterwards by the method
+mentioned in Sec. XXXI. The men wounded in this manner afford me an
+opportunity of inserting in this place, what I had to say with respect
+to the necessity of amputation in consequence of an hemorrhage; but
+I shall be very brief, as in these times, when surgery makes such
+progress, there is no artist but knows, and is familiarly acquainted
+with the different methods of stopping a bleeding. Therefore,
+although the interosseous, the brachial and crural arteries, near the
+articulations of the elbow or knee, or any other branches of arteries
+when divided, may give the surgeon a good deal of trouble, he is not
+obliged on that account to take off the limb; for in whatever situation
+we suppose the artery to be injured, the surgeon may always, by proper
+dilations, come at the wound, and stop the bleeding by the application
+of astringents, among which agaric and spirit of turpentine has, with
+us, very often succeeded, or by compression or ligatures, or lastly by
+all these means united; thus amputation ought never to be performed
+on account of an hemorrhage. It is even astonishing to conceive
+how surgeons should think of such an expedient, as frequently the
+difficulty of stopping the bleeding after amputation is greater than on
+any other occasion, especially if it be performed below the knee[41].
+I therefore persist in my opinion, whether the wound of the arteries
+be only accompanied with one in the soft parts, or whether at the same
+time the bone be fractured or shattered: In this last case, I should
+join the treatment mentioned in this section to that of Sec. XXIV.
+
+It will here perhaps be objected, that all these means would be to no
+purpose, if the brachial or crural arteries are wounded at a certain
+height, because, in such a case, the limb must waste away for want of
+nourishment. I shall return an answer in a few words, with respect
+to the crural artery at the upper part of the thigh, which is, that
+whether my method can, or cannot be adopted in this case, there is no
+alternative; no surgeon as far as I know having ventured to perform
+amputation at this part, because every body would dread the patient's
+expiring during the operation[42]: Neither would the wounds of the
+brachial artery induce me to take off the arm at its upper part,
+although it be practicable, because I think every expedient is to
+be tried before we have recourse to this; and as from several cases
+we learn, that after the operation for the aneurism the member has
+recovered its heat, motion, and strength[43], even when the trunk of
+the brachial artery has been cut through; I think when it is wounded,
+we ought to tie it without fear, and afterwards provide for the
+preservation of the limb, by aperient spirituous fomentations and
+by gentle frictions, which contribute to open and enlarge the small
+vessels, and by that means to restore heat and life to the parts[44].
+If we observe, the first or second day after the operation, a little
+swelling or heat below the wound, we may conceive great hopes that the
+whole limb will revive: If, on the contrary, whatever is below the
+wound shrivels, grows cold and dry, then we may think of amputation,
+without, however, being precipitate; as a mortification in this case is
+always slow, and sometimes the limb recovers heat and motion very late.
+But I am convinced this case will very rarely require amputation. In
+conformity to the plan I have proposed, I should now mention the two
+last circumstances wherein amputation is deemed necessary, a caries of
+the bone, and a cancerous disposition of the part; but I imagine it
+will be better first to relate some instances of cures effected without
+amputation, wherein this operation to many surgeons would have appeared
+indispensable.
+
+The first case I shall relate is very remarkable, of a soldier in
+his royal highness prince Henry's regiment, whom my friend M.
+Kretchmer, an able artist, and principal surgeon of the hospital, and
+Mr. Sterneman one of the ordinary surgeons, had the care of under my
+direction, and cured compleatly to the surprize of every body. The left
+arm was terribly shattered by four different pieces of iron shot, the
+os humeri was broke through the middle, and the arm pierced with eight
+holes, and at the joint of the elbow there was a true aneurism, of the
+bigness of a large fist. Mr. Kretchmer began by applying the tourniquet
+at the armpit in order to stop the bleeding; then of the eight wounds
+or apertures, he chose two nearest to the fracture, and dilated them
+in such a manner as to lay the bone bare; he likewise dilated a
+little the six others; after these dilatations he extracted several
+large splinters, he then brought the two ends of the bone together,
+placed them in their proper position, in which he made them be kept
+by assistants, while he moistened all the wounds with equal parts of
+spirit of wine and arquebusade water, and covered them with lint; he
+wrapped up the whole arm in linnen cloth, and fastened the bandage
+moderately tight: he next applied gradual compresses to the aneurism,
+and bound it up with a roller by itself; after which he moistened
+the whole with the same mixture of spirit of wine and arquebusade
+water, and as much martial ball as he could dissolve in it, and
+applied over the bandage for the aneurism the fomentation which I have
+already mentioned, made with the species for the black decoction[45].
+He slackened the tourniquet every two hours, drawing it tight again
+immediately; he removed it altogether at the end of a few days,
+contenting himself with compressing the artery under the armpit with
+bolsters and a bandage which did not hinder the dressing of the wounds.
+He dressed them every day, but the bandage for the aneurism he renewed
+only every other day, although two of the openings lay under it. In
+this manner he persevered with great assiduity for a considerable time.
+All this while he made the hand and fore arm be secured in a cylinder
+of strong pasteboard, and suspended in a sling. He bled the patient
+frequently, gave him vinegar and water for his drink, and made him take
+from time to time the powders which I mentioned before, consisting
+of nitre, Epsom salt, cream of tartar, and true Armenian bole[46].
+By these means only, he restored this arm, which was so bad that it
+could not even be taken off, to such a state, that in the course of
+three months, after having removed some splinters, the aneurism was
+dispersed, and the fracture and wounds were perfectly cured.
+
+We cured another soldier belonging to the regiment of Brandenburgh
+Bareith, whose elbow was miserably torn by five pieces of iron shot,
+some of which stuck fast in the part, and where both bones of the fore
+arm were shattered.
+
+After having dilated the wounds, we extracted some splinters, sawed off
+a piece of the cubital bone about four inches long, and in dressing the
+wounds endeavoured to avoid too large a suppuration.
+
+In the ordinary method amputation would certainly have been performed,
+as the fore-arm was shattered, and the upper arm which was untouched
+could admit of the operation, but we saved the arm and made a perfect
+cure without having recourse to such an expedient, which are so many
+evidences that give their testimony in favour of our method, which we
+can produce to the partisans of amputation.
+
+M. de Sass, colonel commandant of a regiment belonging to the garrison
+of Lattorf, and who is at present commandant at Brieg, received at the
+battle fought near Czeslau, a musket shot in the leg, which shivered
+the two bones into several fragments, of which some of four or five
+inches in length were extracted. The surgeons thought amputation
+necessary, and pressed him to submit to it; he refused however and
+recovered; although the limb is bent outwards he can walk and go about
+his business with ease.
+
+A soldier of the regiment of Cuirassiers of Gessler, called Lukrafka,
+was wounded in the going through the exercise with the regiment, in
+such a manner that the two bones were fractured in the middle, with
+several fissures lengthways. After having laid the fissures of the
+bone bare, I sawed through a piece of the tibia about five inches in
+length, which I removed together with the marrow; I separated with a
+pair of forceps the useless parts of the fibula which jutted out, then
+I placed the bones in their natural position, and at the expiration of
+four months the patient was cured. This limb was somewhat shorter than
+the other, he could nevertheless walk and leap with ease.
+
+M. de Franckenberg, a captain in Hulsen's regiment of foot, was
+terribly wounded by a musket ball at the battle of Loboschitz; all the
+bones of the tarsus were broke and shattered in such a manner that it
+seemed almost necessary to take away the whole number; which being
+done, and the parts of the foot brought close together, it recovered
+so far that this gallant officer, with the help of a double heel, can
+walk conveniently, and is able to do duty along with his regiment in
+garrison at Alt-Sydow.
+
+M. de Alvensleben, ensign in the guards, received at Torgau a wound
+above the foot which shattered the tibia and fibula, and the splinters
+forced by the violence of the shot formed three distinct layers; I
+was obliged to make a great many deep incisions, and in a little time
+he was so much better, that I could venture to entrust the remainder
+of the cure to the surgeon of the regiment. A soldier of Sybourg's
+regiment of foot, named Mieke, seventy years of age, received near
+Miessen in 1759, a musket shot which shattered the shoulder bone two
+fingers breadth below the articulation; a splinter was taken out five
+inches long; he was nevertheless perfectly cured at the end of nine
+months, and left Wittemberg to go to the hospital of Invalids at Berlin.
+
+M. de Stabenwol, captain lieutenant of Grabow's regiment of foot, at
+the battle of Kunnersdorf, received a musket shot which shattered the
+head of the os humeri close to its articulation with the scapula; he
+was perfectly cured in the space of eight months, and went from Stettin
+to Berlin[47].
+
+M. de Rottkirk, commandant of the margrave Charles's regiment, and
+M. de Krockow, captain in Schlabrendorf's regiment of Cuirassiers,
+received each of them a wound through the joint of the shoulder, and
+were both compleatly cured at the expiration of about ten months.
+
+M. de Britzke, commandant of Knobloch's regiment of foot, was wounded,
+near Dresden, by a musket ball which pierced the articulation at the
+elbow, and shattered the three bones which join at that place. Several
+splinters were extracted; this officer nevertheless in about two years
+was compleatly cured, and at present does his duty gloriously at the
+head of his regiment.
+
+I shall finish the account of these cases with that of a prince
+wounded at the battle of Kunnersdorf. A musket ball wounded him very
+badly, passing through his foot at the articulation of the tarsus and
+metatarsus in such a manner, that all the metatarsal bones excepting
+one were shattered. Proper incisions and the other remedies already
+mentioned effected his cure, and restored him to the nation and the
+army to their great joy, although the wound was of that kind, for which
+surgeons were accustomed to amputate not above fifty years ago[48].
+
+FOOTNOTES:
+
+[41] Memoirs of the Academy of Sciences at Paris, for the year 1732.
+
+[42] I have not yet read the Dissertation on this subject, which
+obtained the prize from the royal Academy of Surgery; but by persons
+arrived from Paris, I have been informed, that the author carried a dog
+with him to the Academy, whose thigh he had cut off at the articulation.
+
+_Note by Tissot._ There must be a mistake in this place, since the
+writers of these pieces for the prize never make themselves known. Not
+that I make any doubt of the possibility of taking off the thigh of a
+dog, but I don't apprehend that such a fact can be at all conclusive
+with respect to the same operation on the human species.
+
+[43] See Heister's Surgery, t. i. part i. ch. 13. Edinburgh Medical
+Essays, vol. ii. art. 15. vol. v. art. 17. The Promptuar. Hamburg. and
+the Collections of Breslau, in several places.
+
+[44] Anatomy, observations in surgery, and the opening of dead bodies,
+concur to establish Mr. Bilguer's opinion.
+
+The anatomical proofs are drawn from the inspection of the arteries. I
+am persuaded, that unless the crural artery is wounded almost at its
+egress from the arch formed by the tendons of the abdominal muscles,
+where it loses the name of iliac, its being destroyed will very seldom
+occasion the loss of the limb; besides three small branches which
+it sends off almost at its egress, and on which, I own, should have
+no great reliance, for the nourishment of so large a limb, both on
+account of their smallness and their distribution, at about two or
+three inches distance from the artery, it sends off other branches much
+more considerable, among others, two called the muscular arteries,
+especially the external one, descends pretty large down the thigh, and
+very evidently contributes to the nourishment of the muscular parts;
+although their trunks have not been traced so far as the leg, I make
+no doubt but it may be discovered that their branches reach that part,
+and which, though scarcely visible in their natural state, would not
+fail to become larger, when the blood was thrown into them in greater
+abundance; besides, the anastomosis of any considerable branch with
+the trunk of the crural artery, conveys so much blood to it, that it
+may again become useful: Experience demonstrates that this happens in
+the arm, and it is highly probable that the same thing may take place
+in the thigh; the number of branches which spring from the brachial
+artery, almost from its beginning, and their distribution being very
+analogous to what we see in the crural artery.
+
+The surgical observations which demonstrate the recovery of heat in
+the parts after the operation for the aneurism, although the brachial
+artery has been tied very high, are common, and may be found among
+other observators besides those quoted by Mr. Bilguer, and there are
+doubtless few physicians or surgeons who have not had opportunities of
+seeing such cases themselves.
+
+It is a sight extremely interesting, to observe the gradual return of
+heat, strength and colour, to an arm on which the operation for the
+aneurism has been performed. I do not know that this operation was ever
+performed in the thigh, the artery being so guarded in this part, that
+an aneurism rarely forms here. I have seen the operation succeed very
+well in the inferior part of the leg, on the tibialis anterior, and the
+foot suffered but very little for a few days; it is true it is supplied
+with several other branches.
+
+Some curious dissections of dead bodies afford a third argument, as the
+crural artery has been found quite obliterated in the upper part of the
+thigh, in consequence of a morbid cause, without the leg having been
+deprived of its nourishment, though supplied perhaps more imperfectly.
+
+Warm water baths, in these cases where the circulation is to be
+promoted through the smaller vessels, and their diameters enlarged, are
+among the most efficacious remedies. TISSOT.
+
+[45] See Sec. XIII.
+
+[46] Sec. XXXII. It is long since the bolar earths have had the reputation
+of being useful in contusions, but this I am afraid is founded on a
+mistake; I have never, in any case, experienced the least effect from
+them that could induce me to think they possessed the virtues ascribed
+to them. True bole armenic might prove somewhat astringent in the
+first passages, but could not do any service in this way; or might
+suffer perhaps a small portion of the vitriolic acid it contains, to
+disengage itself; but four or five drops of the spirit of sulphur,
+would be more useful in this respect than a dose of the bole: Thus I
+am almost convinced it is of very little benefit in this composition,
+and if of any, it must be by blunting the action of the neutral salts,
+and preventing the uneasiness they sometimes occasion to persons of
+delicate stomachs. TISSOT.
+
+[47] I have seen an officer, a captain in the French service, who
+received a musket shot, with the muzzle of the piece close to the
+part; the ball shattered the humeral bone near its head, close to
+the articulation: had the wound been somewhat lower, that is less
+dangerous, his arm would have been taken off; the impossibility, or
+the difficulty of the operation prevented it; he suffered all the
+inconveniencies that a wound can occasion, for a considerable time
+several splinters were extracted, at length at the end of five months
+he was cured. This case appears to me of consequence, because here we
+see a very bad wound of that kind for which amputation is performed
+every day, and the danger aggravated by the nature of the part where
+it is inflicted, where they do not amputate, because it cannot be
+done, yet it was cured. If this officer had been so fortunate as to be
+wounded a few inches lower, he would have had the misfortune of having
+his arm taken off. TISSOT.
+
+[48] _Fifty years_, a compliment which Mr. Bilguer pays surgeons of a
+more modern date.
+
+M. le Conte de B... a general officer in the Austrian service, received
+a wound much of the same kind, at Hochirken, and had the good fortune
+to be compleatly cured by M. Brunet, without amputation, which appeared
+indispensably necessary. He only continued a little weak, which in a
+man of his age and constitution generally goes off of itself: He was
+advised to go to the baths at Baden in Austria, and on his return was
+seized with an inflammatory fever, which proved mortal. TISSOT.
+
+
+SECT. XXXVII.
+
+I might enumerate the cases of a great number of wounded men cured in
+this way, but the instances I have mentioned may suffice to make it
+known; I shall only add, that even while I am writing, there are a
+great many patients in the hospitals at Torgau, whose bones were so
+broken and shattered, that hitherto surgeons would not have conceived
+that it was possible to cure them without amputation, and who are all
+nevertheless in the way of recovery, by the method I have recommended.
+There are very few surgeons of the army, who have not seen instances
+in our hospitals of patients whose limbs were to have been cut off,
+where to their great dread, every thing was ready, and they placed in
+order to undergo the operation, when, either from their fainting or
+their resistance, it has been put off, and recourse has been had to
+the method I have just pointed out, by which, contrary to the general
+opinion, they have been cured, have saved their limb, and used it
+afterwards with convenience. If we compare this with what has been
+said, Sec. XXVII. it will readily appear, that for the most part it is
+extremely wrong to amputate the limbs.
+
+
+SECT. XXXVIII.
+
+I have treated hitherto of accidents which quickly carry off the
+patients; I come now to consider those where the danger is not so
+pressing, and which terminate in death by slow degrees, a caries of the
+bone, and a cancerous state of the parts; for it is well known, that in
+these circumstances amputation is often deemed necessary.
+
+A caries of the bone is either superficial or deep seated, recent
+or inveterate, occasioned by a vicious state of the fluids, or the
+consequence of some external hurt.
+
+When it is recent and inconsiderable, whatever be the cause, there is
+no room to think of amputation at all, but the bone must be laid bare
+according to the extent of the caries, and scraped with a scalpel, or
+perforated in sundry places with the spike of a trepan; when the caries
+has gained the opposite part of the bone, we must then use the crown
+of the trepan, in order to take out the entire piece. I do not however
+propose entering into a detail of the manner of performing these
+operations.
+
+With respect to the medicines proper in a caries of the bone, without
+the application of instruments, or which finish what the instruments
+have begun, we are furnished with a great many, of which it would be
+too tedious to give a list: I must only give a caution not to employ
+the mineral acids, even the anodyne mineral liquor of Hoffman, so much
+boasted of by some practitioners in diseases of the bones; for they
+all do hurt. It is well known that when these acids are used for the
+teeth, they whiten them, but at the same time destroy their substance,
+rendering them crumbly and friable like limestone; now the other bones
+being less solid and hard than the teeth, there is so much the more
+reason to apprehend the same effect, by their penetrating from the
+affected part of the bone, where they are applied, to that which is
+sound. In consequence of this, the bones which appear mended after the
+use of these liquors, are, in a short time, worse than before[49].
+
+The real method of doing service to bones consumed by a caries, is like
+what happens to boards joined together with nails, if you make them
+excessively dry, the nails fall out of themselves; and doubtless it is
+this notion that has given rise to the practice of employing hot irons,
+and acid liquors, as driers, to promote the exfoliation of bones. But
+both these methods are attended with the inconvenience I have already
+mentioned, with respect to acids, of acting with so much violence on
+the diseased parts, that they extend their action in a dangerous
+manner, to those that are sound. We may nevertheless employ hot irons
+with success in constitutions abounding with moisture, or when it
+is of consequence immediately to stop the progress of the disease.
+The following medicines act efficaciously, but with less violence,
+frankincense, mastich, myrrh, balsam of Peru, and essential oil of
+cloves; but this oil should be used with moderation, since when it is
+employed for carious teeth, they become friable, and crumble away by
+degrees in a short time[50].
+
+When the caries is removed, in order to compleat the cure, we ought to
+prescribe a nourishing diet, but not too oily; broth, in which viper
+flesh is boiled, is very useful[51]. The dressing should then only
+consist of dry lint, taking all imaginable care to hinder the contact
+of the external air. When the caries is accompanied with a vitiated
+state of the blood, the external treatment is the same, and succeeds
+equally, provided internal medicines, suitable to the nature of the
+ailment, be joined with it; with this precaution, a caries from a
+venereal cause, may be cured like any other.
+
+FOOTNOTES:
+
+[49] I saw two patients who had each of them a troublesome caries, the
+one on the tibia, the other on the external protuberance of the fibula;
+their complaints, they told me, were of long standing, and that they
+were cured by a travelling quack, the one in six weeks, the other in a
+somewhat longer time. What I learned of the colour of the medicine, its
+properties, and of its effects on the ailment, induced me to think it
+was an acid spirit. This incident confirms what I was told by others,
+and what Mr. Bilguer now remarks. TISSOT.
+
+[50] I have seen several times, as well as Mr. Bilguer, the teeth
+crumble away by degrees, after using the oil of cloves; I have seen the
+same thing happen without the use either of it or of acids; I have, at
+other times, employed it without any such effect, and although I am
+convinced that it does hurt sometimes, it is only, I imagine, when the
+caries is very considerable, and the tooth much wasted: This is not,
+however, sufficient reason to give up, entirely, a medicine often very
+serviceable in many cases of carious teeth. TISSOT.
+
+[51] The indiscriminate use of viper broth is not proper at all times,
+or in all cases of carious bones.
+
+
+SECT. XXXIX.
+
+It will certainly be asked, What must be done when the best
+applications fail, and must we not amputate when the caries is very
+extensive? I answer, that amputation is to no purpose if the caries be
+attended with a bad habit of body, and while the morbid cause remains;
+when this is removed, we ought not to despair of a cure, although
+the greater part of the bone be carious, as the cases I have already
+related plainly demonstrate[52]. We ought therefore to try other means,
+and trepan the bone in several places, till whatever is rotten be
+taken away. There are many bones, whereon amputation, even if it were
+of use, is not practicable; if, for instance, the caries has attacked
+the upper parts of the humeral, or thigh-bone, the jaw-bone, &c. The
+method of treating the diseases of the bones, may be learned from the
+cases of so many soldiers wounded at the articulations of the elbow,
+knee, &c. and who, by the care bestowed on them in our hospitals, had
+their limbs saved, notwithstanding they lost very large pieces of bone;
+some of which were separated by nature, and some by the help of the
+surgeon: And as no person will deny that the wounds made by a surgeon,
+with an exceeding sharp instrument, and with much circumspection, in
+order to remove the pieces of corrupted bone, are more easily cured
+than wounds that are lacerated and contused, by means of a ball,
+grape-shot, or splinters, &c. If the habit of body allows of any hope
+of curing the caries, the method I have pointed out Sec. XX. may also be
+practiced in this case. It is true, the limb often remains deformed
+after it, but this does not always happen; and frequently the callus
+fills up the whole vacuity left by the part of the bone which is taken
+out, however considerable it may have been. We read of successful
+cures, where even the loss of the entire bone has been supplied by
+means of a callus[53]; besides, the deformity of the limb does not
+take away the total use of it[54].
+
+FOOTNOTES:
+
+[52] The observations of M. Muzel, p. 83. confirm my opinion, where he
+says, that all those on whom amputation was performed on account of
+carious bones, died in consequence of it.
+
+[53] Such is that mentioned by Scultetus, _Armentar. Chirurgicum_,
+_obs._ 81. in which we see a callus supply the place, not only of
+the tibia, but also of a part of the fibula, which he had extracted,
+and at the close of the cure, the patient walked without the help
+of a staff.----See also the Medical Essays of Edinburgh, vol. i. p.
+312.----_Ubersatzt durch D. Carl. Cristian Krausen_, _p. 51_. And the
+same Essays, vol. v. p. 371. mention one much more surprizing, "for
+the whole tibia of one leg came out, and the tibia of the other leg
+separated in small pieces. Nevertheless the patient, who was a boy
+of 10 or 11 years of age, in four months was able to walk without
+crutches, with his legs straight, and continued well afterwards, and
+fit for country work." These cases are so much the more decisive in
+favour of the method I employ, as the callus much more easily repairs
+the fragments of bone taken away by the surgeon after an external hurt,
+and where there is no morbid cause, which was very considerable in the
+case I have cited.
+
+[54] See Sec. XXXVI.
+
+
+SECT. XL.
+
+It now remains, that I should say something concerning cancers; on
+which subject I shall be brief, as it has been treated of by very able
+hands[55]. If the complaint be recent, the constitution good, if
+internal medicines and outward applications have produced no effect,
+the vitiated part must be extirpated before the disease takes root, and
+communicates the infection farther. But the greater number of those
+who have the misfortune to be attacked with this disease, putting off
+the amputation from time to time, it happens when they do resolve on
+it, either that it accelerates their death, or the humour falls upon
+another part: For this reason, the operation for extirpating it, should
+be performed much more seldom than it is[56]; and it were greatly to
+be wished, that physicians would endeavour to find out some remedy for
+this horrid disease, without having recourse to amputation; but it is
+not my intention to dwell on this topic.
+
+FOOTNOTES:
+
+[55] See the Dissertation of M. Kattschmied, on this subject.
+
+[56] When the cancer is evidently the consequence of an external
+accident, neglected or injudiciously treated, amputation performed in
+time, may effect a cure; but when the disease has come on gradually,
+without being able to assign any external cause for it, I have almost
+constantly observed, although it be performed in time, it accelerates
+the patient's death; and sometimes after having been made undergo a
+degree of torture more painful than that of the cancer itself. It
+is hoped, that the virtues of hemlock will make the frequency of
+amputation in these cases be discontinued: It appears, however, by the
+conclusion of the section, that Mr. Bilguer had not seen Dr. Stork's
+pamphlet.
+
+
+SECT. XLI.
+
+I have now finished what I had most material to say, against the
+practice which still prevails, of too precipitately taking off the
+limbs when they are contused or shattered.
+
+Are my reasons well-founded, or does the method I propose deserve to
+be adopted? This I leave to be determined by the judicious reader; for
+my own part, I shall never experience any sensation more agreeable,
+than the recollection of having saved the lives and preserved the limbs
+of so many unfortunate men in our hospitals, whose wounds were of the
+kind for which practitioners hitherto have had recourse to amputation;
+and it were to be wished, that so many cures happily effected, might
+repress that kind of folly, by which, in some countries, surgeons are
+excited, and even encouraged by public rewards, to perform frequent
+amputations. Another advantage will accrue from this publication, which
+is, that all those who judged unfavourably of the surgeons of our
+hospitals, on hearing they never employed amputation, will, I hope, lay
+aside their prejudices on this score, and may even derive benefit from
+our example.
+
+  FINIS.
+
+
+
+
+Transcriber's Note
+
+
+Original spellings, punctuation, inconsistencies and all apparent
+printers' errors are retained, with two exceptions:
+
+  In section 6, "hat" has been changed to "that"
+    ("...that there is room to dread...").
+  In section 24, "endeavovour" has been changed to "endeavour"
+    ("If there be any pointed splinters, I endeavour to...").
+
+The heading for Section 36 is missing from this translation. In
+Tissot's translation the missing Section 36 heading is at the top
+of page 83, before the sentence: "In conformity to the plan I have
+proposed...".
+
+
+
+
+
+End of the Project Gutenberg EBook of A dissertation on the inutility of the
+amputation of limbs, by Johann Ulrich Bilguer
+
+*** END OF THIS PROJECT GUTENBERG EBOOK A DISSERTATION ***
+
+***** This file should be named 44089.txt or 44089.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/4/0/8/44089/
+
+Produced by Fay Dunn and the Online Distributed Proofreading
+Team at http://www.pgdp.net (This file was produced from
+images generously made available by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
