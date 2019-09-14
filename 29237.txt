@@ -1,0 +1,2009 @@
+The Project Gutenberg eBook, An Essay on Satire, Particularly on the
+Dunciad, by Walter Harte
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+
+
+
+Title: An Essay on Satire, Particularly on the Dunciad
+
+
+Author: Walter Harte
+
+
+
+Release Date: June 25, 2009  [eBook #29237]
+Most recently updated: November 29, 2011
+
+Language: English
+
+Character set encoding: ISO-646-US (US-ASCII)
+
+
+***START OF THE PROJECT GUTENBERG EBOOK AN ESSAY ON SATIRE, PARTICULARLY
+ON THE DUNCIAD***
+
+
+E-text prepared by Chris Curnow, Stephanie Eason, Joseph Cooper, and the
+Project Gutenberg Online Distributed Proofreading Team
+(http://www.pgdp.net)
+
+
+
+Transcriber's note:
+
+      Text in italics is enclosed between underscores (_italics_).
+
+
+
+
+
+The Augustan Reprint Society
+
+WALTER HARTE
+
+AN ESSAY ON SATIRE,
+
+Particularly on the DUNCIAD.
+
+(1730)
+
+Introduction by
+
+THOMAS B. GILMORE
+
+
+
+
+
+
+
+Publication Number 132
+William Andrews Clark Memorial Library
+University of California, Los Angeles
+1968
+
+       *       *       *       *       *
+
+
+  GENERAL EDITORS
+
+  George Robert Guffey, _University of California, Los Angeles_
+  Maximillian E. Novak, _University of California, Los Angeles_
+  Robert Vosper, _William Andrews Clark Memorial Library_
+
+
+  ADVISORY EDITORS
+
+  Richard C. Boys, _University of Michigan_
+  James L. Clifford, _Columbia University_
+  Ralph Cohen, _University of Virginia_
+  Vinton A. Dearing, _University of California, Los Angeles_
+  Arthur Friedman, _University of Chicago_
+  Louis A. Landa, _Princeton University_
+  Earl Miner, _University of California, Los Angeles_
+  Samuel H. Monk, _University of Minnesota_
+  Everett T. Moore, _University of California, Los Angeles_
+  Lawrence Clark Powell, _William Andrews Clark Memorial Library_
+  James Sutherland, _University College, London_
+  H. T. Swedenberg, Jr., _University of California, Los Angeles_
+
+
+  CORRESPONDING SECRETARY
+
+  Edna C. Davis, _William Andrews Clark Memorial Library_
+
+
+       *       *       *       *       *
+
+
+
+INTRODUCTION
+
+
+Since the first publication of Walter Harte's _An Essay on Satire,
+Particularly on the Dunciad_,[1] it has reappeared more than once: the
+unsold sheets of the first edition were included in _A Collection of
+Pieces in Verse and Prose, Which Have Been Publish'd on Occasion of
+the Dunciad_ (1732), and the _Essay_ is also found in at least three
+late eighteenth- or early nineteenth-century collections of poetry.[2]
+For several reasons, however, it makes sense to reprint the _Essay_
+again. The three collections are scarce and have forbiddingly small
+type; I know of no other twentieth-century reprinting; and, perhaps
+most important, Aubrey Williams claims that "the critical value for
+the _Dunciad_ of Harte's poem has not been fully appreciated."[3] Its
+value can best be substantiated, or disputed, if it is rescued from
+its typographical limbo in the collections and reprinted from its more
+attractive first edition.
+
+Probably the immediate reason for the _Essay_ was Harte's admiration
+for Pope, which arose in part from personal gratitude. On 9 February
+1727, Harte wrote an unidentified correspondent that "Mr. Pope was
+pleased to correct every page" of his forthcoming _Poems on Several
+Occasions_ "with his own hand." Furthermore, Harte may have learned
+that Pope had petitioned Lady Sarah Cowper, in 1728, to use her
+influence to obtain him a fellowship in Exeter College, Oxford.[4]
+
+But however appealing the _Essay_ may be as an installment on Harte's
+debt to Pope, there must obviously be better reasons for reprinting
+it. Harte himself doubtless had additional reasons for writing it. To
+understand them and the poem, we must also understand, at least in
+broad outline, the two traditional ways of evaluating satire which
+Harte and others of his age had inherited. One of them was distinctly
+at odds with Harte's aims; to the other he gave his support and made
+his own contribution.
+
+One tradition stressed the "lowness" of satire, in itself and compared
+with other genres. This tradition, moreover, had at least two sources:
+the practice of Elizabethan satirists and the critical custom of
+assigning satire to a middle or low position in the hierarchy of
+genres.
+
+From the time of _Piers Plowman_, it was characteristic of English
+satirists "to taxe the common abuses and vice of the people in rough
+and bitter speaches."[5] This native character was reenforced by the
+Elizabethan assumption that there should be similarities between
+satire and its supposed etymological forebears--the satyrs, legendary
+half men, half goats of ancient Greece. Believing that the Roman
+satirists Persius and Juvenal had imitated the uncouth manners and
+vituperative diction of the satyrs, Elizabethan satirists likewise
+strove to be as rough, harsh, and licentious as possible.[6] Despite
+the objections to the satire-satyr etymology stated by Isaac
+Casaubon,[7] scurrilous satire, especially as a political weapon, was
+a recognizable subspecies in England at least to 1700. The anonymous
+author, for instance, of _A Satyr Against Common-Wealths_ (1684)
+contended in his preface that it is "_as disagreeable to see a Satyr
+Cloath'd in soft and effeminate Language, as to see a Woman scold and
+vent her self in_ Billingsgate _Rhetorick in a gentile and
+advantageous Garb_." But as Harte certainly realized, _The Dunciad_
+differed greatly from unvarnished abuse, and thus required different
+standards of critical judgment.
+
+Harte also rejected the critical habit of giving satire a relatively
+low rank in the scale of literary genres. This habit can be traced to
+Horace, who belittled the literary status of his own satires,[8] and
+it was prominent in the Renaissance. The place of satire in a
+hierarchical list of Julius Caesar Scaliger is perhaps typical: "'And
+the most noble, of course, are hymns and paeans. In the second place
+are songs and odes and scolia, which are concerned with the praises of
+brave men. In the third place the epic, in which there are heroes and
+other lesser personages. Tragedy together with comedy follows this
+order; nevertheless comedy will hold the fourth place apart by itself.
+After these, satires, then exodia, lusus, nuptial songs, elegies,
+monodia, songs, epigrams.'"[9] Similar rankings of satire frequently
+recurred in the neo-classical period,[10] as did the Renaissance
+supposition that each genre has a style and subject matter appropriate
+to it. This supposition discouraged any "mixing" of the genres: in
+Richard Blackmore's words, "all comick Manners, witty Conceits and
+Ridicule" should be barred from heroic poetry.[11] The influence of
+the genres theories even after Pope's death may be shown by the fact
+that Pope, for the very reason that he had failed to work in the major
+genres, was often ranked below such epic or tragic poets as Spenser,
+Shakespeare, and Milton.[12]
+
+One senses the foregoing critical assumptions about satire behind much
+of the early comment on _The Dunciad_. Most of the critics, to be
+sure, were anything but impartial; in many instances they were
+smarting from Pope's satire and sought any critical weapons available
+for retaliation. But it will not do to dismiss these men or their
+responses to _The Dunciad_ as inconsequential; they had the weight of
+numbers on their side and, more important, the authority of
+long-established attitudes toward satire.
+
+Although it is frequently impossible to determine exactly which
+critics Harte was answering in his _Essay_, brief illustration of two
+prominent types of attack can indicate what he had to vindicate _The
+Dunciad_ against. One of those types resembled Blackmore's objection
+to a mixing of genres. If satire should be barred from heroic poetry,
+the reverse, for some critics, was also true, and Pope should not have
+used epic allusions and devices in _The Dunciad_. Edward Ward, for
+one, thought the poem an incongruous mixture "against all rule."[13]
+Pope's violation of "rule" seemed almost a desecration of epic to
+Thomas Cooke; of the mock-heroic games in Book II of _The Dunciad_, he
+complained that "to imitate _Virgil_ is not to have Games, and those
+beastly and unnatural, because _Virgil_ has noble and reasonable
+Games, but to preserve a Purity of Manners, Propriety of Conduct
+founded on Nature, a Beauty and Exactness of Stile, and continued
+Harmony of Verse concording with the Sense."[14]
+
+The other kind of attack accused Pope of wasting his talents in _The
+Dunciad_, but palliated blame by reminding him of his demonstrated
+ability in more worthy poetical pursuits. This was one of Ward's
+resources; perhaps disingenuously, he professed amazement that a poet
+with Pope's "_sublime Genius_," born for "an Epick Muse," "sacred
+Hymns," and "heav'nly Anthems," would lower himself to mock at
+"_trifling Foibles_" or "the Starvlings of _Apollo's_ Train."[15] More
+concerned with Pope's potentialities than with his recent ignominy,
+George Lyttelton nevertheless made essentially the same point: Pope
+could never become the English Virgil if he "let meaner Satire ...
+stain the Glory" of his "nobler Lays."[16] And Aaron Hill wrote an
+allegorical poem to show Pope the error of _The Dunciad_ and to
+suggest means of escape from entombment "in his _own_ PROFUND."[17] In
+such censure we perhaps glimpse an opinion attributable to the still
+influential genres theories: a poet of "_sublime Genius_" should work
+in a more sublime poetic genre than satire.
+
+In opposing this low view of satire, Harte drew upon ideas more
+congenial to his purposes and far more congenial to _The Dunciad_.
+Originating with the Renaissance commentaries on the formal verse
+satire of the Romans, their lineage was just as venerable as that of
+the low view. These critical concepts were probably just as
+influential too, for they continued to be reiterated by commentaries
+down to and beyond Pope's time.
+
+Whatever their quarrels, the Renaissance commentaries were virtually
+united in regarding satire as exalted moral instruction and satirists
+as ethical philosophers. Casaubon's choice for this sort of praise was
+Persius; Heinsius and Stapylton likened their respective choices,
+Horace and Juvenal, to Socrates and Plato; and Rigault considered all
+three satirists to be philosophers, distinguished only by the
+different styles which their different periods required. The satirist
+might disguise himself as a jester, but only to make his moral wisdom
+more easily digestible; peeling away his mask, "we find in him all the
+Gods together," "_Maxims or Sentences, that like the lawes of nature,
+are held sacred by all Nations_."[18]
+
+Dryden's _Discourse Concerning the Original and Progress of Satire_
+drew heavily and eclectically upon these commentaries, investing their
+judgments with a new popularity and authority. Although Dryden
+condemned Persius for obscurity and other defects, he agreed with
+Casaubon that Persius excels as a moral philosopher and that "moral
+doctrine" is more important to satire than wit or urbanity. Dryden
+knew, moreover, that the satirist's inculcation of "moral doctrine"
+meant a dual purpose, a pattern of blame and praise--not only "the
+scourging of vice" but also "exhortation to virtue"--long recognized
+as a definitive characteristic of formal verse satire.[19] But if
+Dryden insisted on the moral dignity of satire, he laid equal stress
+on the dignity attainable through verse and numbers. After
+complimenting Boileau's _Lutrin_ for its successful imitation of
+Virgil, its blend of "the majesty of the heroic" with the "venom" of
+satire, Dryden speaks of "the beautiful turns of words and thoughts,
+which are as requisite in this [satire], as in heroic poetry itself,
+of which the satire is undoubtedly a species"; and earlier in the
+_Discourse_ he had called heroic poetry "certainly the greatest work
+of human nature."[20]
+
+It is clear that Harte's _Essay_ belongs in the tradition of criticism
+established by the commentaries on classical satire and continued by
+Dryden. Like these predecessors, Harte believes that satire is moral
+philosophy, teaching "the noblest Ethicks to reform mankind" (p. 6).
+Like them again, he believes that to fulfill this purpose satire must
+not only lash vice but recommend virtue, at least by implication:
+
+  Blaspheming _Capaneus_ obliquely shows
+  T'adore those Gods _Aeneas_ fears and knows, (p. 10)[21]
+
+But perhaps Harte's overriding concern was to do for satire (with _The
+Dunciad_ as his focus) what Dryden's _Discourse_ had done: to reassert
+its dignity and majesty.
+
+Although Harte is quite careful to distinguish satire from epic
+poetry, the total effect of his _Essay_ is to blur this distinction
+and to raise _The Dunciad_ very nearly to the level of genuine epic.
+The term "_Epic Satire_" (p. 6) certainly seems to refer to the
+wedding of two disparate genres in _The Dunciad_, lifting it above
+satire that is merely "rugged" or "mischievously gay" (p. 8). (The
+epithet is also, perhaps, a thrust at Edward Ward, who had pinned it
+on _The Dunciad_ with a sneer.)[22] Harte's claim that
+
+  _Books and the Man_ demands as much, or more,
+  Than _He who wander'd to the Latian shore_ (p. 9)
+
+has a similar effect. The greatest epic poets and satirists have
+always transcended rules to follow "Nature's light"; Pope,
+over-topping them all, has "still corrected Nature as she stray'd"
+(pp. 19, 21). But perhaps Harte's most successful attempt to elevate
+_The Dunciad_ comes in section two of his poem. Unlike Dryden, in
+whose _Discourse_ the account of the "progress" of satire is confined
+almost exclusively to a few Roman writers, Harte begins his account of
+its progress with Homer and brings it down to Pope. Deriving the
+ancestry of _The Dunciad_ from Homer, the greatest epic poet,
+obviously enhances Pope's satire. Perhaps less obviously, by extending
+Dryden's account to the present, Harte makes _The Dunciad_ not only a
+chronological _terminus ad quem_ but, far more important, the fruit of
+centuries of slowly accumulating mastery and wisdom.
+
+The strategies mentioned thus far constitute one series of answers to
+critics who charged Pope with debasing true epic. But Harte also
+addressed himself to such critics more directly. Although Aubrey
+Williams (p. 54) has clearly demonstrated Harte's awareness that the
+world of _The Dunciad_ does in one sense sully epic beauties, at the
+same time, I think, Harte knew that the epic poems to which _The
+Dunciad_ continually alludes remain fixed, unsullied polestars;
+otherwise the reader of the poem would lack a way of measuring the
+meanness of its characters and principles. The "charms of _Parody_" in
+_The Dunciad_ provide a contrast between its dark, fallen world and
+the undimmed luster of epic realms (p. 10). By using the ambiguous
+word _parody_, which in the eighteenth century could mean either
+ridicule or straight imitation,[23] Harte skillfully suggests the
+complex purpose of Pope's epic backdrop. The dunces, not Pope,
+ridicule the epic world by their words and deeds; but in turn, this
+world ridicules them simply by being "imitated" and incorporated in
+_The Dunciad_. And its incorporation is by no means equivalent to the
+pollution of epic. That, Harte hints, is the achievement of scribblers
+like Blackmore (p. 12). It is they who inadvertently write mock-epics,
+parodies which degrade their great models; Pope, nominally writing
+mock-epic, actually approaches epic achievement.
+
+Harte's reply to those who believed Pope had wasted his talent in
+attacking "the Refuse of the Town" centers in the stanza beginning on
+p. 24 but can be found elsewhere as well. Literary "Refuse," he
+realized, could not safely be ignored, for he at least came close to
+understanding that it was "the metaphor by which bigger
+deteriorations," social and moral, "are revealed" (Williams, p. 14).
+
+  ... Rules, and Truth, and Order, Dunces strike;
+  Of Arts, and Virtues, enemies alike. (p. 24)
+
+Ultimately, then, Harte seemed aware that the dunces pose a colossal
+threat, a threat which warrants Pope's numerous echoes of _Paradise
+Lost_. Harte's _Essay_, in fact, contains several echoes of the same
+poem. Though, like most of Pope's, these Miltonic echoes are given a
+comic turn which indicates a wide gap between the real satanic host
+and its London auxiliary, there is little doubt that Harte grasped the
+underlying seriousness of his mentor's analogies and his own.
+
+       *       *       *       *       *
+
+A few words remain to be said about Boileau's _Discourse of Satires
+Arraigning Persons by Name_, which so far as I know appeared with all
+early printings of Harte's _Essay_.
+
+The _Discourse_ was first published in 1668, with the separately
+printed edition of Boileau's ninth satire; in the same year it was
+included in a collected edition of the satires. It was occasioned,
+evidently, by a critic's complaint that the modern satirist, departing
+from ancient practice, "offers insults to individuals."[24]
+
+The only English translation of the _Discourse_ that I have discovered
+before 1730 appears in volume two (1711) of a three-volume translation
+of Boileau's works. This, however, is not the same translation as the
+one accompanying Harte's _Essay_; it is noticeably less fluent and
+lacks (as does the French) the subtitle "arraigning persons by name."
+
+The 1730 translation is faithful to the original, and the subtitle
+calls attention to the aptness of the _Discourse_ as a defense of
+Pope's satiric practice.[25] It is so apt, indeed, that one could
+almost suspect Pope himself of making the translation and submitting
+it to Harte or his publisher. Pope had already invoked Boileau's name
+and precedent in the letter from "William Cleland"; nothing could be
+more logical than for Pope to turn the esteemed Boileau's
+self-justification to his own ends.
+
+Cornell College
+
+
+
+NOTES TO THE INTRODUCTION
+
+[1] Robert W. Rogers, _The Major Satires of Alexander Pope_, Illinois
+Studies in Language and Literature, XL (Urbana, 1955), p. 140, dates
+the Essay January 7-14, 1731, N. S., on the evidence of _The
+Grub-Street Journal_; No. 484 of _The London Evening-Post_ (Saturday,
+January 9, to Tuesday, January 12, 1731) advertises its publication
+for the following day.
+
+[2] Rogers, p. 141. Thomas Park, _Supplement to the British Poets_
+(London, 1809), VIII, 21-36; Alexander Chalmers, _The Works of the
+English Poets_ (London, 1810), XVI, 348-352; Robert Anderson, _A
+Complete Edition of the Poets of Great Britain_ (London, 1794), IX,
+825-982 [_sic_].
+
+[3] _Pope's "Dunciad": A Study of Its Meaning_ (Baton Rouge, 1955), p.
+54n.
+
+[4] _The Correspondence of Alexander Pope_, ed. George Sherburn
+(Oxford, 1956), II, 430 n., 497.
+
+[5] George Puttenham, _The Arte of English Poesie_ (1589), in
+_Elizabethan Critical Essays_, ed. G. Gregory Smith (Oxford, 1904),
+II, 27.
+
+[6] Alvin Kernan, _The Cankered Muse: Satire of the English
+Renaissance_, Yale Studies in English, CXLII (New Haven, 1959), pp.
+55, 58, 62; Oscar James Campbell, _Comicall Satyre and Shakespeare's
+"Troilus and Cressida"_ (San Marino, 1959), pp. 24-25, 27, 29-30.
+
+[7] _De Satyrica Graecorum Poesi, & Romanorum Satira Libri Duo_
+(Paris, 1605).
+
+[8] J. F. D'Alton, _Roman Literary Theory and Criticism: A Study in
+Tendencies_ (London, New York, and Toronto, 1931), pp. 356, 414 and
+n.; George Converse Fiske, _Lucilius and Horace: A Study in the
+Classical Theory of Imitation_, University of Wisconsin Studies in
+Language and Literature, No. 7 (Madison, 1920), p. 443.
+
+[9] Bernard Weinberg, _A History of Literary Criticism in the Italian
+Renaissance_ (Chicago, 1961), II, 745. For similar appraisals of
+satire, see also I, 148-149; II, 759, 807; and Puttenham, pp. 26-28.
+
+[10] E.g., John Dennis, "The Grounds of Criticism in Poetry" (1704),
+in _The Critical Works_, ed. Edward Niles Hooker (Baltimore,
+1939-1943), I, 338; Joseph Trapp, _Lectures on Poetry Read in the
+Schools of Natural Philsophy at Oxford_ (London, 1742), p. 153.
+
+[11] _Essays upon Several Subjects_ (London, 1716-1717), I, 76.
+
+[12] Paul F. Leedy, "Genres Criticism and the Significance of Warton's
+Essay on Pope," _JEGP_, XLV (1946), 141.
+
+[13] _Durgen. Or, A Plain Satyr upon a Pompous Satyrist_ (London,
+1729), p. 48.
+
+[14] "The Battel of the Poets," in _Tales, Epistles, Odes, Fables,
+etc._ (London, 1729), p. 138n. Though the poem was first published in
+1725, it was revised to attack _The Dunciad_; Cooke claims ("The
+Preface," p. 107) that not more than eighty lines in the two versions
+are the same.
+
+[15] _Durgen_, pp. [i], 19, 40-41.
+
+[16] _An Epistle to Mr. Pope, from a Young Gentleman at Rome_ (London,
+1730), pp. 6-7.
+
+[17] _The Progress of Wit_ (London, 1730), p. 31. Two months after
+Harte's Essay appeared Hill's _Advice to the Poets_, which complements
+the earlier allegory by urging Pope to shun "_vulgar Genii_" and
+emulate "Thy own _Ulysses_" (pp. 18-19).
+
+[18] Daniel Heinsius, "De Satyra Horatiana Liber," in _Q. Horati
+Flacci Opera_ (1612), pp. 137-138; Sir Robert Stapylton, "The Life and
+Character of Juvenal," in _Mores Hominum. The Manners of Men,
+Described in Sixteen Satyrs, by Juvenal_ (London, 1660), p. [v];
+Nicolas Rigault, "De Satira Juvenalis Dissertatio" (1615), in _Decii
+Junii Juvenalis Satirarum Libri Quinque_ (Paris, 1754), p. xxv; and
+Andre Dacier, _An Essay upon Satyr_ (London, 1695), p. 273.
+
+[19] _Essays of John Dryden_, ed. W. P. Ker (Oxford, 1900), II, 75,
+104-105; Howard D. Weinbrot, "The Pattern of Formal Verse Satire in
+the Restoration and the Eighteenth Century," _PMLA_, LXXX (1965),
+394-401; Causaubon, _De Satyrica Graecorum Poesi, & Romanorum Satira
+Libri Duo_, pp. 291-292; Heinsius, pp. 137-138.
+
+[20] _Essays_, II, 43, 107-108.
+
+[21] See Weinbrot, p. 399.
+
+[22] _Durgen_, p. 3.
+
+[23] Howard D. Weinbrot, "Parody as Imitation in the 18th Century,"
+_AN&Q_, II (1964), 131-134.
+
+[24] Boileau, _Oeuvres Completes_, ed. Francoise Escal (Editions
+Gallimard, 1966), p. 924.
+
+[25] Numerous protests against Pope's use of names made such a defense
+desirable. See, for example, Ward (p. 9) and "A Letter to a Noble
+Lord: Occasion'd by the Late Publication of the Dunciad Variorum," in
+_Pope Alexander's Supremacy and Infallibility Examin'd_ (London,
+1729), p. 12. Boileau's _Discourse_ is a particularly apposite reply
+to the latter, which had contrasted Pope's satiric practice with that
+of Horace, Juvenal, and Boileau.
+
+
+
+
+BIBLIOGRAPHICAL NOTE
+
+The text of this edition is reproduced from a copy in the University
+of Illinois Library.
+
+
+
+
+  AN
+  ESSAY,
+  ON
+  SATIRE,
+
+  Particularly on the DUNCIAD.
+
+  (Price One Shilling.)
+
+
+
+
+Speedily will be Published,
+
+The Works of VIRGIL Translated into Blank Verse by _J. Trapp_, D. D.
+in Three Volumes in 12 with Cuts.
+
+
+
+
+  AN
+  ESSAY
+  ON
+  SATIRE,
+
+  Particularly on the
+  DUNCIAD.
+
+  BY
+  Mr. _WALTER HARTE_
+
+  of St. _Mary-Hall_, Oxon.
+
+  To which is added, A
+  DISCOURSE _on_ SATIRES,
+  _Arraigning Persons by Name_.
+
+  By Monsieur BOILEAU.
+
+  _LONDON:_
+
+  Printed for LAWTON GILLIVER at _Homer's_ Head
+  against St. _Dunstan's_ Church, in _Fleetstreet_,
+  MDCCXXX.
+
+
+
+
+THE CONTENTS.
+
+
+I. _The Origine and Use of_ Satire. _The Excellency of_ Epic Satire
+_above others, as adding Example to Precept, and animating by_ Fable
+_and sensible Images. Epic Satire compar'd with Epic Poem, and wherein
+they differ: Of their_ Extent, Action, Unities, Episodes, _and the
+Nature of their_ Morals. _Of_ Parody: _Of the_ Style, Figures, _and_
+Wit _proper to this Sort of Poem, and the superior Talents requisite
+to Excel in it._
+
+II. _The_ Characters _of the several Authors of Satire. 1. The
+Ancients;_ Homer, Simonides, Archilochus, Aristophanes, Menippus,
+Ennius, Lucilius, Varro, Horace, Persius, Petronius, Juvenal, Lucian,
+_the Emperor_ Julian. _2. The Moderns;_ Tassone, Coccaius, Rabelais,
+Regnier, Boileau, Dryden, Garth, Pope.
+
+III. _From the Practice of all the best Writers and Men in every Age
+and Nation, the_ Moral Justice _of_ Satire _in General, and of this
+Sort in Particular, is Vindicated. The_ Necessity _of it shewn in_
+this Age _more especially, and why bad Writers are at present the_
+most proper Objects of Satire. _The_ True Causes _of bad Writers._
+Characters _of several Sorts of them now abounding; Envious Critics,
+Furious Pedants, Secret Libellers, Obscene Poetesses, Advocates for
+Corruption, Scoffers at Religion, Writers for Deism, Deistical and_
+Arrian-_Clergymen._
+
+_Application of the Whole Discourse to the_ DUNCIAD _concluding with
+an Address to the Author of it._
+
+
+
+
+  AN
+  ESSAY
+  ON
+  SATIRE.
+
+
+  T' Exalt the Soul, or make the Heart sincere,
+  To arm our Lives with honesty severe,
+  To shake the wretch beyond the reach of Law,
+  Deter the young, and touch the bold with awe,
+  To raise the fal'n, to hear the sufferer's cries,
+  And sanctify the virtues of the wise,
+  Old Satire rose from Probity of mind,
+  The noblest Ethicks to reform mankind.
+
+    As _Cynthia's_ Orb excels the gems of night:
+  So _Epic Satire_ shines distinctly bright.
+  Here Genius lives, and strength in every part,
+  And lights and shades, and fancy fix'd by art.
+  A second beauty in its nature lies,
+  It gives not _Things_, but _Beings_ to our eyes,
+  _Life_, _Substance_, _Spirit_ animate the whole;
+  _Fiction_ and _Fable_ are the Sense and Soul.
+  The _common Dulness_ of mankind, array'd
+  In pomp, here lives and breathes, a _wond'rous Maid_:
+  The Poet decks her with each unknown Grace,
+  Clears her dull brain, and brightens her dark face:
+  See! Father _Chaos_ o'er his First-born nods,
+  And Mother _Night_, in Majesty of Gods!
+  See _Querno's Throne_, by hands Pontific rise,
+  And a _Fool's Pandaemonium_ strike our Eyes!
+  Ev'n what on C----l the Publick bounteous pours,
+  Is sublimated here to _Golden show'rs_.
+
+    A _Dunciad_ or a _Lutrin_ is compleat,
+  And _one_ in action; ludicrously great.
+  Each wheel rolls round in due degrees of force;
+  E'en _Episodes_ are _needful_, or _of course_:
+  _Of course_, when things are virtually begun
+  E'er the first ends, the Father and the Son:
+  Or else so _needful_, and exactly grac'd,
+  That nothing is _ill-suited_, or _ill-plac'd_.
+
+    True Epic's a vast World, and this a small;
+  One has its _proper_ beauties, and one _all_.
+  Like _Cynthia_, one in _thirty days_ appears,
+  Like _Saturn_ one, rolls round in _thirty years_.
+  _There_ opens a wide Tract, a length of Floods,
+  A height of Mountains, and a waste of Woods:
+  _Here_ but one Spot; nor Leaf, nor Green depart
+  From Rules, e'en Nature seems the Child of Art.
+  As _Unities_ in Epick works appear,
+  So must they shine in full distinction here.
+  Ev'n the warm _Iliad_ moves with slower pow'rs:
+  That forty days demands, This forty hours.
+
+    Each other Satire humbler arts has known,
+  Content with meaner Beauties, tho' its own:
+  Enough for that, if rugged in its course
+  The Verse but rolls with Vehemence and Force;
+  Or nicely pointed in th' _Horatian_ way
+  Wounds keen, like _Syrens_ mischievously gay.
+  Here, All has _Wit_, yet must that Wit be _strong_,
+  Beyond the Turns of _Epigram_, or _Song_.
+  The _Thought_ must rise exactly from the vice,
+  _Sudden_, yet _finish'd_, _clear_, and yet _concise_.
+  _One Harmony_ must _first_ with _last_ unite;
+  As all true Paintings have their _Place_ and _Light_.
+  _Transitions_ must be _quick_, and yet _design'd_,
+  Not made to fill, but just retain the mind:
+  And _Similies_, like meteors of the night,
+  Just give one flash of momentary Light.
+
+    As thinking makes the Soul, low things exprest
+  In high-rais'd terms, define a _Dunciad_ best.
+  _Books and the Man_ demands as much, or more,
+  Than _He_ who _wander'd to the Latian Shore_:
+  For here (eternal Grief to _Duns_'s soul,
+  And _B_----'s thin Ghost!) the _Part_ contains the _Whole_:
+  Since in Mock-Epic none succeeds, but he
+  Who tastes the Whole of Epic Poesy.
+
+    The _Moral_ must be clear and understood;
+  But finer still, if negatively good:
+  Blaspheming _Capaneus_ obliquely shows
+  T' adore those Gods _Aeneas_ fears and knows.
+  A _Fool's_ the _Heroe_; but the _Poet's_ end
+  Is, to be _candid_, _modest_, and a _Friend_.
+
+    Let _Classic Learning_ sanctify each Part,
+  Not only show your Reading, but your Art.
+
+    The charms of _Parody_, like those of Wit,
+  If well _contrasted_, never fail to hit;
+  One half in light, and one in darkness drest,
+  (For contraries oppos'd still shine the best.)
+  When a cold Page half breaks the Writer's heart,
+  By this it warms, and brightens into Art.
+  When Rhet'ric glitters with too pompous pride,
+  By this, like _Circe_, 'tis un-deify'd.
+  So _Berecynthia_, while her off-spring vye
+  In homage to the Mother of the sky,
+  (Deck'd in rich robes, of trees, and plants, and flow'rs,
+  And crown'd illustrious with an hundred tow'rs)
+  O'er all _Parnassus_ casts her eyes at once,
+  And sees an hundred Sons--_and each a Dunce_.
+
+    The _Language_ next: from hence new pleasure springs;
+  For _Styles_ are dignify'd, as well as _Things_.
+  Tho' Sense subsists, distinct from phrase or sound,
+  Yet _Gravity_ conveys a surer wound.
+  The chymic secret which your pains wou'd find,
+  Breaks out, unsought for, in _Cervantes'_ mind;
+  And _Quixot_'s wildness, like that King's of old,
+  Turns all he touches, into _Pomp_ and _Gold_.
+  Yet in this Pomp discretion must be had;
+  Tho' _grave_, not _stiff_; tho' _whimsical_, not _mad_:
+  In Works like these if _Fustian_ might appear,
+  Mock-Epics, _Blackmore_, would not cost thee dear.
+
+    We grant, that _Butler_ ravishes the Heart,
+  As _Shakespear_ soar'd beyond the reach of Art;
+  (For Nature form'd those Poets without Rules,
+  To fill the world with _imitating Fools_.)
+  What _Burlesque_ could, was by that Genius done;
+  Yet faults it has, impossible to shun:
+  Th' unchanging strain for want of grandeur cloys,
+  And gives too oft the horse-laugh mirth of Boys:
+  The short-legg'd verse, and double-gingling Sound,
+  So quick surprize us, that our heads run round:
+  Yet in this Work peculiar Life presides,
+  And _Wit_, for all the world to glean besides.
+
+    Here pause, my Muse, too daring and too young!
+  Nor rashly aim at Precepts yet unsung.
+  Can Man the Master of the _Dunciad_ teach?
+  And these new Bays what other hopes to reach?
+  'Twere better judg'd, to study and explain
+  Each ancient Grace he copies not in vain;
+  To trace thee, Satire, to thy utmost Spring,
+  Thy Form, thy Changes, and thy Authors sing.
+
+    All Nations with this Liberty dispense,
+  And bid us shock the Man that shocks Good Sense.
+  Great _Homer_ first the Mimic Sketch design'd
+  What grasp'd not _Homer's_ comprehensive mind?
+  By him who _Virtue_ prais'd, was _Folly_ curst,
+  And who _Achilles_ sung, drew _Dunce the First_.[26]
+
+    Next him _Simonides_, with lighter Air,
+  In Beasts, and Apes, and Vermin, paints the _Fair_:
+  The good _Scriblerus_ in like forms displays
+  The reptile Rhimesters of these later days.
+
+    More fierce, _Archilochus_! thy vengeful flame;
+  Fools read and _dy'd_: for Blockheads then had _Shame_.
+
+  The Comic-Satirist[27] attack'd his Age,
+  And found low Arts, and Pride, among the Sage:
+  See learned _Athens_ stand attentive by,
+  And _Stoicks_ learn their Foibles from the Eye.
+
+    _Latium's fifth Homer_[28] held the _Greeks_ in view;
+  Solid, tho' rough, yet incorrect as new.
+  _Lucilius_, warm'd with more than mortal flame
+  Rose next[29], and held a torch to ev'ry shame.
+  See stern _Menippus_, cynical, unclean;
+  And _Grecian Cento_'s, mannerly obscene.
+  Add the last efforts of _Pacuvius'_ rage,
+  And the chaste decency of _Varro_'s page.[30]
+
+    See _Horace_ next, in each reflection nice,
+  Learn'd, but not vain, the Foe of Fools nor Vice.
+  Each page instructs, each Sentiment prevails,
+  All shines alike, he rallies, but ne'er rails:
+  With courtly ease conceals a Master's art,
+  And least-expected steals upon the heart.
+  Yet _Cassius_[31] felt the fury of his rage,
+  (_Cassius_, the _We----d_ of a former age)
+  And sad _Alpinus_, ignorantly read,
+  Who murder'd _Memnon_, tho' for ages dead.
+
+    Then _Persius_ came: whose line tho' roughly wrought,
+  His Sense o'erpaid the stricture of his thought.
+  Here in clear light the _Stoic_-doctrine shines,
+  Truth all subdues, or Patience all resigns.
+  A Mind supreme![32] impartial, yet severe:
+  Pure in each Act, in each Recess sincere!
+  Yet _rich ill_ Poets urg'd the _Stoic_'s Frown,
+  And bade him strike at _Dulness_ and a _Crown_[33].
+
+    The Vice and Luxury _Petronius_ drew,
+  In _Nero_ meet: th' imperial point of view:
+  The Roman _Wilmot_, that could Vice chastize,
+  Pleas'd the mad King he serv'd, to satirize.
+
+    The next[34] in Satire felt a nobler rage,
+  What honest Heart could bear _Domitian_'s age?
+  See his strong Sense, and Numbers masculine!
+  His Soul is kindled, and he kindles mine:
+  Scornful of Vice, and fearless of Offence,
+  He flows a Torrent of impetuous Sense.
+
+    Lo! Savage Tyrants Who blasphem'd their God
+  Turn Suppliants now, and gaze at _Julian_'s Rod.[35]
+
+    _Lucian_, severe, but in a gay disguise,
+  Attacks old Faith, or sports in learned Lyes;[36]
+  Sets Heroes and Philosophers at odds;
+  And scourges Mortals, and dethrones the Gods.
+
+    Then all was Night--But _Satire_ rose once more
+  Where _Medici_ and _Leo_ Arts restore.
+  _Tassone_ shone fantastic, but sublime:
+  And He, who form'd the _Macaronique_-Rhime:
+
+    Then _Westward_ too by slow degrees confest,
+  Where boundless _Rabelais_ made the World his Jest;
+  _Marot_ had Nature, _Regnier_ Force and Flame,
+  But swallow'd all in _Boileau_'s matchless Fame!
+  Extensive Soul! who rang'd all learning o'er,
+  Present and past--and yet found room for more.
+  Full of new Sense, exact in every Page,
+  Unbounded, and yet sober in thy Rage.
+  Strange Fate! _Thy solid_ Sterling _of two lines,_
+  _Drawn to our_ Tinsel, _thro' whole Pages shines!_[37]
+
+    In _Albion_ then, with equal lustre bright,
+  Great _Dryden_ rose, and steer'd by Nature's light.
+  Two glimmering Orbs he just observ'd from far,
+  The Ocean wide, and dubious either Star,
+  _Donne_ teem'd with Wit, but all was maim'd and bruis'd,
+  The periods endless, and the sense confus'd:
+  _Oldham_ rush'd on, impetuous, and sublime,
+  But lame in Language, Harmony, and Rhyme;
+  These (with new graces) vig'rous nature join'd
+  In one, and center'd 'em in _Dryden_'s mind.
+  How full thy verse? Thy meaning how severe?
+  How dark thy theme? yet made exactly clear.
+  Not mortal is thy accent, nor thy rage,
+  Yet mercy softens, or contracts each Page.
+  Dread Bard! instruct us to revere thy rules,
+  And hate like thee, all Rebels, and all Fools.
+
+    His Spirit ceas'd not (in strict truth) to be;
+  For dying _Dryden_ breath'd, O _Garth!_ on thee,
+  Bade thee to keep alive his genuine Rage,
+  Half-sunk in want, oppression and old age;
+  Then, when thy pious hands repos'd his head,[38]
+  When vain young Lords and ev'n the Flamen fled.
+  For well thou knew'st his merit and his art,
+  His upright mind, clear head, and friendly heart.
+  Ev'n _Pope_ himself (who sees no Virtue bleed
+  But bears th' affliction) envies thee the deed.
+
+    O _Pope_! Instructor of my studious days,
+  Who fix'd my steps in virtue's early ways:
+  On whom our labours, and our hopes depend,
+  Thou more than Patron, and ev'n more than Friend!
+  Above all Flattery, all Thirst of Gain,
+  And Mortal but in Sickness, and in Pain!
+  Thou taught'st old Satire nobler fruits to bear,
+  And check'd her Licence with a moral Care:
+  Thou gav'st the Thought new beauties not its own,
+  And touch'd the Verse with Graces yet unknown.
+  Each lawless branch thy level eye survey'd.
+  And still corrected Nature as she stray'd:
+  Warm'd _Boileau_'s Sense with _Britain_'s genuine Fire,
+  And added Softness to _Tassone_'s Lyre.
+
+    Yet mark the hideous nonsense of the age,
+  And thou thy self the subject of its rage.
+  So in old times, round godlike _Scaeva_ ran
+  _Rome_'s dastard Sons, a _Million_, and a _Man_.
+
+    Th' exalted merits of the Wise and Good
+  Are seen, far off, and rarely understood.
+  The world's a father to a Dunce unknown,
+  And much he thrives, for Dulness! he's thy own.
+  No hackney brethren e'er condemn him _twice_;
+  He fears no enemies, but dust and mice.
+
+    If _Pope_ but writes, the Devil _Legion_ raves,
+  And meagre Critics mutter in their caves:
+  (Such Critics of necessity consume
+  All Wit, as Hangmen ravish'd Maids at _Rome_.)
+  Names he a Scribler? all the world's in arms,
+  _Augusta_, _Granta_, _Rhedecyna_ swarms:
+  The guilty reader fancies what he fears,
+  And every _Midas_ trembles for his ears.
+
+    See all such malice, obloquy, and spite
+  Expire e're morn, the mushroom of a night!
+  Transient as vapours glimm'ring thro' the glades,
+  Half-form'd and idle, as the dreams of maids,
+  Vain as the sick man's vow, or young man's sigh,
+  Third-nights of Bards, or _H_----'s sophistry.
+
+    These ever hate the Poet's sacred line:
+  These hate whate'er is glorious, or divine.
+  From one Eternal Fountain _Beauty_ springs,
+  The Energy of _Wit_, and _Truth of Things_,
+  That Source is GOD: From _him_ they downwards tend,
+  Flow round--yet in their native center end.
+  Hence Rules, and Truth, and Order, Dunces strike;
+  Of Arts, and Virtues, enemies alike.
+
+    Some urge, that Poets of supreme renown
+  Judge ill to scourge the Refuse of the Town.
+  How'ere their Casuists hope to turn the scale,
+  These men must smart, or scandal will prevail.
+  By these, the weaker Sex still suffer most:
+  And such are prais'd who rose at Honour's cost:
+  The Learn'd they wound, the Virtuous, and the Fair,
+  No fault they cancel, no reproach they spare:
+  The random Shaft, impetuous in the dark,
+  Sings on unseen, and quivers in the mark.
+  'Tis Justice, and not Anger, makes us write,
+  Such sons of darkness must be drag'd to light:
+  Long-suff'ring nature must not always hold;
+  In virtue's cause 'tis gen'rous to be bold.
+  To scourge the bad, th' unwary to reclaim,
+  And make light flash upon the face of shame.
+
+    Others have urg'd (but weigh it, and you'll find
+  'Tis light as feathers blown before the wind)
+  That Poverty, the Curse of Providence,
+  Attones for a dull Writer's want of Sense:
+  Alas! his Dulness 'twas that made him poor;
+  Not _vice versa_: We infer no more.
+  Of Vice and Folly Poverty's the curse,
+  Heav'n may be rigid, but the Man was worse,
+  By good made bad, by favours more disgrac'd,
+  So dire th' effects of ignorance misplac'd!
+  Of idle Youth, unwatch'd by Parents eyes!
+  Of Zeal for pence, and Dedication Lies!
+  Of conscience model'd by a Great man's looks!
+  And arguings in religion--from No books!
+
+    No light the darkness of that mind invades,
+  Where _Chaos_ rules, enshrin'd in genuine Shades;
+  Where, in the Dungeon of the Soul inclos'd,
+  True Dulness nods, reclining and repos'd.
+  Sense, Grace, or Harmony, ne'er enter there,
+  Nor human Faith, nor Piety sincere;
+  A mid-night of the Spirits, Soul, and Head,
+  (Suspended all) as Thought it self lay dead.
+  Yet oft a mimic gleam of transient light
+  Breaks thro' this gloom, and then they think they write;
+  From Streets to Streets th' unnumber'd Pamphlets fly,
+  Then tremble _Warner_, _Brown_, and _Billingsly_.[39]
+
+    O thou most gentle Deity appear,
+  Thou who still hear'st, and yet art prone to hear:
+  Whose eye ne'er closes, and whose brains ne'er rest,
+  (Thy own dear Dulness bawling at thy breast)
+  Attend, O _Patience_, on thy arm reclin'd,
+  And see Wit's endless enemies behind!
+
+    And ye, _Our Muses_, with a _hundred tongues_,
+  And Thou, O _Henley!_ blest with _brazen lungs_;
+  Fanatic _Withers!_ fam'd for rhimes and sighs,
+  And _Jacob Behmen!_ most obscurely wise;
+  From darkness palpable, on dusky wings
+  Ascend! and shroud him who your Off-spring sings.
+
+    The first with _Egypt_'s darkness in his head
+  Thinks Wit the devil, and curses books unread.
+  For twice ten winters has he blunder'd on,
+  Thro' heavy comments, yet ne'er lost nor won:
+  Much may be done in twenty winters more,
+  And let him then learn _English_ at threescore.
+  No sacred _Maro_ glitters on his shelf,
+  He wants the mighty _Stagyrite_ himself.
+  See vast _Coimbria_'s comments[40] pil'd on high,
+  In heaps _Soncinas_,[41] _Sotus_, _Sanchez_ lie:
+  For idle hours, _Sa_'s[42] idler casuistry.
+
+    Yet worse is he, who in one language read,
+  Has one eternal jingling in his head,
+  At night, at morn, in bed, and on the stairs ...
+  Talks flights to grooms, and makes lewd songs at pray'rs
+  His Pride, a Pun: a Guinea his Reward,
+  His Critick _G-ld-n_, _Jemmy M-re_ his Bard.
+
+    What artful Hand the Wretch's Form can hit,
+  Begot by _Satan_ on a _M----ly_'s Wit:
+  In Parties furious at the great Man's nod,
+  And hating none for nothing, but his God:
+  Foe to the Learn'd, the Virtuous, and the Sage,
+  A Pimp in Youth, an Atheist in old Age:
+  Now plung'd in Bawdry and substantial Lyes,
+  Now dab'ling in ungodly Theories;
+  But so, as Swallows skim the pleasing flood,
+  Grows giddy, but ne'er drinks to do him good:
+  Alike resolv'd to flatter, or to cheat,
+  Nay worship Onions, if they cry, _come eat_:
+  A foe to Faith, in Revelation blind,
+  And impious much, as Dunces are by kind.
+
+    Next see the Master-piece of Flatt'ry rise,
+  Th' anointed Son of Dulness and of Lies:
+  Whose softest Whisper fills a Patron's Ear,
+  Who smiles unpleas'd, and mourns without a tear.[43]
+  Persuasive, tho' a woful Blockhead he:
+  Truth dies before his shadowy Sophistry.
+  For well he knows[44] the Vices of the Town,
+  The Schemes of State, and Int'rest of the Gown;
+  Immoral Afternoons, indecent Nights,
+  Enflaming Wines, and second Appetites.
+
+    But most the Theatres with dulness groan,
+  Embrio's half-form'd, a Progeny unknown:
+  Fine things for nothing, transports out of season,
+  Effects un-caus'd, and murders without reason.
+  Here Worlds run round, and Years are taught to stay,
+  Each Scene an Elegy, each Act a Play.[45]
+  Can the same Pow'r such various Passions move?
+  Rejoice, or weep, 'tis ev'ry thing for _Love_.
+  The self-same Cause produces Heav'n and Hell:
+  Things contrary as Buckets in a Well;
+  One up, one down, one empty, and one full:
+  Half high, half low, half witty, and half dull.
+  So on the borders of an ancient Wood,
+  Or where some Poplar trembles o'er the Flood,
+  _Arachne_ travels on her filmy thread,
+  Now high, now low, or on her feet or head.
+
+    Yet these love Verse, as Croaking comforts Frogs,[46]
+  And Mire and Ordure are the Heav'n of Hogs.
+  As well might Nothing bind Immensity,
+  Or passive Matter Immaterials see,
+  As these shou'd write by reason, rhime, and rule,
+  Or we turn Wit, whom nature doom'd a Fool.
+  If _Dryden_ err'd, 'twas human frailty once,
+  But blund'ring is the Essence of a Dunce.
+
+    Some write for Glory, but the Phantom fades;
+  Some write as Party, or as Spleen invades;
+  A third, because his Father was well read,
+  And Murd'rer-like, calls Blushes from the dead.
+  Yet all for Morals and for Arts contend----
+  They want'em both, who never prais'd a Friend.
+  More ill, than dull; For pure stupidity
+  Was ne'er a crime in honest _Banks_, or me.
+
+    See next a Croud in damasks, silks, and crapes,
+  Equivocal in dress, half-belles, half-trapes:
+  A length of night-gown rich _Phantasia_ trails,
+  _Olinda_ wears one shift, and pares no nails:
+  Some in _C----l_'s Cabinet each act display,
+  When nature in a transport dies away:
+  Some more refin'd transcribe their Opera-loves
+  On Iv'ry Tablets, or in clean white Gloves:
+  Some of Platonic, some of carnal Taste,
+  Hoop'd, or un-hoop'd, ungarter'd, or unlac'd.
+  Thus thick in Air the wing'd Creation play,
+  When vernal _Phoebus_ rouls the Light away,
+  A motley race, half Insects and half Fowls,
+  Loose-tail'd and dirty, May-flies, Bats, and Owls.
+
+    Gods, that this native nonsense was our worst!
+  With Crimes more deep, O _Albion!_ art thou curst.
+  No Judgment open Prophanation fears,
+  For who dreads God, that can preserve his Ears?
+  Oh save me Providence, from Vice refin'd,
+  That worst of ills, a _Speculative Mind_![47]
+  Not that I blame divine Philosophy,
+  (Yet much we risque, for Pride and Learning lye.)
+  Heav'n's paths are found by Nature more than Art,
+  The Schoolman's Head misleads the Layman's Heart.
+
+    What unrepented Deeds has _Albion_ done?
+  Yet spare us Heav'n! return, and spare thy own.
+  Religion vanishes to _Types_, and _Shade_,
+  By Wits, by fools, by her own Sons betray'd!
+  Sure 'twas enough to give the Dev'l his due,
+  Must such Men mingle with the _Priesthood_ too?
+  So stood _Onias_ at th' Almighty's Throne,
+  Profanely cinctur'd in a Harlot's Zone.
+
+    Some _Rome_, and some the _Reformation_ blame;
+  'Tis hard to say from whence such License came;
+  From fierce Enthusiasts, or Socinians sad?
+  _C----ns_ the soft, or _Bourignon_ the mad?
+  From wayward Nature, or lewd Poet's Rhimes?
+  From praying, canting, or king-killing times?
+  From all the dregs which _Gallia_ cou'd pour forth,
+  (Those Sons of Schism) landed in the _North_?--
+  From whence it came, they and the D----l best know,
+  Yet thus much, _Pope_, each Atheist is thy Foe.
+
+    O Decency, forgive these friendly Rhimes,
+  For raking in the dunghill of their crimes.
+  To name each Monster wou'd make Printing dear,
+  Or tire _Ned Ward_, who writes six Books a-year.
+  Such vicious Nonsense, Impudence, and Spite,
+  Wou'd make a Hermit, or a Father write.
+  Tho' _Julian_ rul'd the World, and held no more
+  Than deist _Gildon_ taught, or _Toland_ swore,
+  Good _Greg'ry_[48] prov'd him execrably bad,
+  And scourg'd his Soul, with drunken Reason mad.
+  Much longer, _Pope_ restrain'd his awful hand,
+  Wept o'er poor _Niniveh_, and her dull band,
+  'Till Fools like Weeds rose up, and choak'd the Land.
+  Long, long he slumber'd e'er th' avenging hour;
+  For dubious Mercy half o'er-rul'd his pow'r:
+  'Till the wing'd bolt, red-hissing from above
+  Pierc'd Millions thro'----For such the Wrath of _Jove_.
+  _Hell_, _Chaos_, _Darkness_, tremble at the sound,
+  And prostrate Fools bestrow the vast Profound:
+  No _Charon_ wafts 'em from the farther Shore,
+  Silent they sleep, alas! to rise no more.
+
+    Oh POPE, and Sacred _Criticism!_ forgive
+  A Youth, who dares approach your Shrine, and live!
+  Far has he wander'd in an unknown Night,
+  No Guide to lead him, but his own dim Light.
+  For him more fit, in vulgar Paths to tread,
+  To shew th' Unlearned what they never read,
+  Youth to improve, or rising Genius tend,
+  To Science much, to Virtue more, a Friend.
+
+
+
+Footnotes:
+
+[26] Margites.
+
+[27] Aristophanes.
+
+[28] Ennius.
+
+[29] ----clarumq; facem praeferre pudori, _Juv. S._ 1.
+
+[30] _See_ Varro_'s Character in_ Cicero_'s Academics._
+
+[31] _Epode_ 6.
+
+[32] _Alludes to this Couplet in his second Satire_,
+
+      Compositum jus fasq; animi, sanctiq; recessus,
+      Mentis, & incoctum generoso pectus honesto.
+
+[33] _See his first Satire of_ Nero_'s Verses,_ &c.
+
+[34] Juvenal.
+
+[35] _The_ Caesars _of the Emperor_ Julian.
+
+[36] Lucian_'s True History._
+
+[37] Roscommon, _Revers'd._
+
+[38] _Dr_. Garth _took care of Mr._ Dryden_'s Funeral, which
+some Noblemen, who undertook it, had neglected._
+
+[39] Three Booksellers.
+
+[40] Coimbria_'s comments._ Colleg. Conimbricense, _a Society in_ Spain,
+_which publish'd tedious explanations of_ Aristotle.
+
+[41] Soncinas, _a Schoolman._
+
+[42] Sa (Eman. de) _See_ Paschal_'s Mystery of Jesuitism._
+
+[43]
+  Pompeius, tenui jugulos aperire susurro. Juv. S. 4.
+  Flet, si lacrymas aspexit amici, Nec dolet. S. 3.
+
+[44]
+                  ------Noverat ille
+  Luxuriam Imperii veteris, noctesq; Neronis
+  Jam medias, aliamq; famem.  Juv. S. 4.
+
+[45] Et chaque Acte en fa piece & una piece entiere. _Boil._
+
+[46]_'When a poor Genius has labour'd much, he judges well not to expect
+the Encomiums of the Publick: for these are not his due. Yet for fear
+his drudgery shou'd have no recompense, God (of his goodness) has
+given him a personal Satisfaction. To envy him in this wou'd be
+injustice beyond barbarity itself: Thus the same Deity (who is equally
+just in all points) has given Frogs the comfort of Croaking, &c.'_
+
+                                    Le Pere Gerasse Sommes Theol. L. 2.
+
+[47] Plato _calls this an Ignorance of a dark and dangerous Nature,
+under appearance of the greatest Wisdom._
+
+[48] Gregory Nazianz: _a Father at the beginning of the Fourth Century.
+He writ two most bitter Satires (or Invectives) against the Emperor_
+Julian.
+
+
+
+
+  A
+  DISCOURSE
+  OF
+  SATIRES
+
+  _Arraigning Persons by Name_.
+  By Monsieur BOILEAU.
+
+
+When first I publish'd my Satires, I was thoroughly prepar'd for that
+Noise and Tumult which the Impression of my Book has rais'd upon
+_Parnassus_. I knew that the Tribe of Poets, and above all, Bad Poets,
+are a People ready to take fire; and that Minds so covetous of Praise
+wou'd not easily digest any Raillery, how gentle soever. I may farther
+say to my advantage, that I have look'd with the Eyes of a Stoick
+upon the Defamatory Libels that have been publish'd against me.
+Whatever Calumnies they have been willing to asperse me with, whatever
+false Reports they have spread of my Person, I can easily forgive
+those little Revenges; and ascribe 'em to the Spleen of a provok'd
+Author, who finds himself attack'd in the most sensible part of a
+Poet, I mean, in his Writings.
+
+But I own I was a little surpriz'd at the whimsical Chagrin of certain
+_Readers_, who instead of diverting themselves with this Quarrel of
+_Parnassus_, of which they might have been indifferent Spectators,
+chose to make themselves Parties, and rather to take pet with Fools,
+than laugh with Men of Sense. 'Twas to comfort these People, that I
+compos'd my ninth Satire; where I think I have shewn clearly enough,
+that without any prejudice either to one's Conscience or the
+Government, one may think bad Verses bad Verses, and have full right
+to be tir'd with reading a silly Book. But since these Gentlemen have
+spoken of the liberty I have taken of _Naming_ them, as an Attempt
+unheard-of, and without Example, and since Examples can't well be put
+into Rhyme; 'tis proper to say one word to inform 'em of a thing of
+which they alone wou'd gladly be ignorant, and to make them know, that
+in comparison of all my brother Satirists, I have been a Poet of great
+Moderation.
+
+To begin with _Lucilius_ the Inventer of Satire; what liberty, or
+rather what license did he not indulge in his Works? They were not
+only Poets and Authors whom he attack'd, they were People of the first
+Quality in _Rome_, and Consular Persons. However _Scipio_ and
+_Laelius_ did not judge that Poet (so determin'd a Laugher as he was)
+unworthy of their Friendship; and probably upon occasion no more
+refus'd him, than they did _Terence_, their advice on his Writings:
+They never thought of espousing the part of _Lupus_ and _Metellus_,
+whom he ridicul'd in his Satires, nor imagin'd they gave up any part
+of their own Character in leaving to his Mercy all the Coxcombs of the
+Nation.
+
+              ----_num_ Laelius, _aut qui_
+  _Duxit ab oppressa meritum Carthagine nomen,_
+  _Ingenio offensi, aut laeso doluere_ Metello
+  _Famosisve_ Lupo _co-operto versibus?_
+
+
+In a word, _Lucilius_ spar'd neither the Small nor the Great, and
+often from the Nobles and the Patricians he stoop'd to the Lees of the
+People.
+
+  _Primores populi arripuit populumq; tributim._
+
+
+It may be said that _Lucilius_ liv'd in a Republick where those sort
+of liberties might be permitted. Look then upon _Horace_, who liv'd
+under an Emperor in the beginnings of a Monarchy (the most dangerous
+time in the world to laugh) who is there whom he has not satiriz'd by
+name? _Fabius_ the great Talker, _Tigellius_ the Fantastick,
+_Nasidienus_ the Impertinent, _Nomentanus_ the Debauchee, and whoever
+came at his Quill's end. They may answer that these are fictitious
+Names: an excellent Answer indeed! As if those whom he attack'd were
+no better known; as if we were ignorant that _Fabius_ was a _Roman_
+Knight who compos'd a Treatise of Law, that _Tigellius_ was a Musician
+favour'd by _Augustus_, that _Nasidienus Rufus_ was a famous Coxcomb
+in _Rome_, that _Cassius Nomentanus_ was one of the most noted Rakes
+in _Italy_. Certainly those who talk in this manner, are not
+conversant with ancient Writers, nor extreamly instructed in the
+affairs of the Court of _Agustus_. _Horace_ is not contented with
+calling people by their _Names_; he seems so afraid they should be
+mistaken, that he gives us even their Sir-names; nay tells us the
+Trade they follow'd, or the Employments they exercis'd. Observe for
+Example how he speaks of _Aufidius Luscus_ Praetor of _Fundi_.
+
+  Fundos Aufidio Lusco _Praetore libenter_
+  _Linquimus, insani ridentes praemia scribae_
+  _Praetextam & latum clavum,_ &c.
+
+
+_We were glad to leave_ (says he) _the Town of_ Fundi _of which one_
+Aufidius Luscus _was Praeator, but it was not without laughing heartily
+at the folly of this man, who having been a Clerk, took upon him the
+Airs of a Senator and a Person of Quality._ Could a Man be describ'd
+more precisely? and would not the Circumstances only be sufficient to
+make him known? Will they say that _Aufidius_ was then dead? _Horace_
+speaks of a Voyage made some time since. And how will my Censors
+account for this other passage?
+
+  _Turgidus_ Alpinus _jugulat dum_ Memnona, _dumque_
+  _Diffingit_ Rheni _luteum caput: haec ego ludo_.
+
+
+_While that Bombast Poet_ Alpinus, _murders_ Memnon _in his Poem, and
+bemires himself in his description of the_ Rhine, _I divert my self in
+these Satires._ 'Tis plain from hence, that _Alpinus_ liv'd in the
+time when _Horace_ writ these Satires: and suppose _Alpinus_ was an
+imaginary Name, cou'd the Author of the Poem of _Memnon_ be taken for
+another? _Horace_, they may say, liv'd under the reign of the most
+Polite of all the Emperors; but do we live under a Reign less polite?
+and would they have a Prince who has so many Qualities in common with
+_Augustus_, either less disgusted than he at bad Books, or more
+rigorous towards those who blame them?
+
+Let us next examine _Persius_, who writ in the time of _Nero_: He not
+only Raillies the Works of the Poets of his days, but attacks the
+Verses of the Emperor himself: For all the World knows, and all the
+Court of _Nero_ well knew, that those four lines,
+
+  _Torva Mimalloneis_, &c.
+
+which _Persius_ so bitterly ridicules in his first Satire, were
+_Nero_'s own Verses; and yet we have no account that _Nero_ (so much a
+Tyrant as he was) caus'd _Persius_ to be punish'd; Enemy as he was to
+Reason, and fond as every one knows of his own Works, he was gallant
+enough to take this Raillery on his Verses, and did not think that the
+Emperor on this occasion should assert the Character of the Poet.
+
+_Juvenal_, who flourish'd under _Trajan_, shews a little more respect
+towards the great Men of his age; and was contented to sprinkle the
+gall of his Satire on those of the precedent reign. But as for the
+_Writers_, he never look'd for them further than his own time. At the
+very beginning of his Work you find him in a very bad humor against
+all his _cotemporary Scriblers_: ask _Juvenal_ what oblig'd him to
+take up his Pen? he was weary of hearing the _Theseide_ of _Codrus_,
+the _Orestes_ of this man, and the _Telephus_ of that, and all the
+Poets (as he elsewhere says) who recited their Verses in the Month of
+_August_,
+
+  _----&_ Augusto _recitantes Mense Poetas._
+
+
+So true it is that the right of blaming bad Authors, is an ancient
+Right, pass'd into a Custom, among all the Satirists, and allow'd in
+all ages.
+
+       *       *       *       *       *
+
+To come from the Ancients to the Moderns. _Regnier_ who is almost the
+only Satirical Poet we have, has in truth been a little more discreet
+than the rest; nevertheless he speaks very freely of _Gallet_ the
+famous Gamester, who paid his Creditors with _Sept_ and _Quatorze_,
+and of the _Sieur de Provins_ who chang'd his long Cloak into a
+Doublet, and of _Cousin_ who run from his house for fear of repairing
+it, and of _Pierre de Puis_, and many others.
+
+What will my Critics say to this? When they are ever so little
+touch'd, they wou'd drive from the Republick of Letters all the
+Satirical Poets, as so many disturbers of the Peace of the Nation. But
+what will they say of _Virgil_; the wise, the discreet _Virgil_? who
+in an Eclog where he has nothing to do with Satire, has made in one
+Line two Poets for ever ridiculous.
+
+  _Qui_ Bavium _non odit, amet tua carmina_ Moevi.
+
+
+Let them not say that _Bavius_ and _Moevius_ in this place are
+_suppos'd names_, since it would be too plainly to give the Lye to the
+learned _Servius_, who positively declares the contrary. In a word,
+what would my Censors do with _Catullus_, _Martial_, and all the Poets
+of Antiquity, who have made no more scruple in this matter than
+_Virgil_? What would they think of _Voiture_ who had the conscience to
+laugh at the expence of the renowned _Neuf Germain_, tho' equally to
+be admir'd for the Antiquity of his Beard, and the Novelty of his
+Poetry? Will they banish from _Parnassus_, him, and all the ancient
+Poets, to establish the reputation of Fools and Coxcombs? If so, I
+shall be very easy in my banishment, and have the pleasure of very
+good company. Without Raillery, wou'd these Gentlemen really be more
+wise than _Scipio_ and _Lelius_, more delicate than _Augustus_, or more
+cruel than _Nero_? But they who are so angry at the Critics, how comes
+it that they are so merciful to bad Authors? I see what it is that
+troubles them; they have no mind to be undeceiv'd. It vexes them to
+have seriously admir'd those Works, which my Satires have expos'd to
+universal Contempt; and to see themselves condemn'd, to forget in
+their old Age, those Verses which they got by heart in their Youth, as
+Master-pieces of Wit. Truly I am sorry for 'em, but where's the help?
+Can they expect, that to comply with their particular Taste, we
+should renounce common Sense? applaud indifferently all the
+Impertinencies which a Coxcomb shall think fit to throw upon paper?
+and instead of condemning bad Poets (as they did in certain Countries)
+to lick out their Writings with their own Tongue, shall Books become
+for the future inviolable Sanctuaries, where all Blockheads shall be
+made free Denizens, not to be touch'd without Profanation? I could say
+much more on this subject; but as I have already treated it in my
+ninth Satire, I shall thither refer the Reader.
+
+_FINIS._
+
+
+
+
+_BOOKS printed for_ LAWTON GILLIVER _at_ HOMER'S HEAD,
+_against St._ DUNSTAN'S _Church,_ Fleetstreet.
+
+
+Two Epistles to Mr. _POPE_, concerning the Authors of the Age. By the
+Author of the Universal Passion.
+
+_Imperium Pelagi_: A Naval Lyrick; Written in Imitation of _Pindar_'s
+Spirit. Occasion'd by His Majesty's Return, _Sept. 1729_, and the
+succeeding Peace. By the same Author.
+
+Just publish'd, The SECOND EDITION of the DUNCIAD Variorum, 8 with
+some additional NOTES and EPIGRAMS.
+
+The ART of POLITICKS, in Imitation of _Horace_'s Art of Poetry, with a
+curious Frontispiece. _Risum Teneatis Amici._
+
+M. HIERONYMI VIDAE OPERA OMNIA POETICA, quibus adjicitur ejusdem de
+dignitate Rei-publicae recensione. Dialogus. R. Russel, A. M. Two Toms,
+12.
+
+Quintus Horatius Flaccus. Compedibus Metricorum numerorum solutus: In
+usum Tyronum. Opera & Studio N. Bailey.
+
+The Adventures of Telemachus in twenty-four Books. Done into English
+from the last Paris Edition, by Mr. Littlebury and Mr. Boyer: Adorn'd
+with twenty-four Plates, and a Map of Telemachus's Travels; all
+curiously engraven by very good Hands. The Twelfth Edition, 2 Vols.
+8_vo._
+
+A few remaining Copies of Dr. Hickes's Thesaurus Ling. Vett.
+Septentrionalium. Three Toms, Folio. Printed at Oxford.
+
+ARRIAN'S History of ALEXANDER'S Expedition and Battles: To which is
+added, A Criticism on Q. Curtius, as a fabulous Historian. By M. le
+Clerc, in two Vols, 8_vo._
+
+The History of the COUNCIL of CONSTANCE. Written in French by James
+Lenfant. Done into English from the last Edition, printed at Amsterdam
+1727. Adorned with twenty Copper Plates, curiously Engraven by the
+best Hands. Two Vols, 4to.
+
+The NURSE'S GUIDE: Or, The right Method of bringing up Young Children:
+To which is added, An Essay on preserving Health, and prolonging Life.
+With a Treatise of the Gout, and Receipts for the Cure of that
+Distemper. By an Eminent Physician, 8_vo._
+
+POMONA: Or, The Fruit-Garden illustrated. Containing sure Methods for
+improving all the best Kinds of Fruits now extant in England. By Batty
+Langley, of Twickenham.
+
+Thirty-nine Sermons on several Occasions. By the late Reverend Mr.
+John Cooke, A. M. one of the Six Preachers of the Cathedral Church of
+Canterbury, in two Vols. 8_vo._
+
+_Where may be had the_ Spectators, Tatlers, Guardians, Freeholder,
+Lover, _and_ Reader, _&c. Books in the_ LAW, _and other_
+SCIENCES; _with great Variety of single_ PLAYS.
+
+
+
+THE AUGUSTAN REPRINT SOCIETY
+
+  WILLIAM ANDREWS CLARK MEMORIAL LIBRARY
+  UNIVERSITY OF CALIFORNIA. LOS ANGELES
+
+PUBLICATIONS IN PRINT
+
+
+1948-1949
+
+16. Henry Nevil Payne, _The Fatal Jealousie_ (1673).
+
+18. Anonymous, "Of Genius," in _The Occasional Paper_, Vol. III, No.
+10 (1719), and Aaron Hill, Preface to _The Creation_ (1720).
+
+
+1949-1950
+
+19. Susanna Centlivre, _The Busie Body_ (1709).
+
+20. Lewis Theobald, _Preface to the Works of Shakespeare_ (1734).
+
+22. Samuel Johnson, _The Vanity of Human Wishes_ (1749), and two
+_Rambler_ papers (1750).
+
+23. John Dryden, _His Majesties Declaration Defended_ (1681).
+
+
+1950-1951
+
+26. Charles Macklin, _The Man of the World_ (1792).
+
+
+1951-1952
+
+31. Thomas Gray, _An Elegy Wrote in a Country Churchyard_ (1751), and
+_The Eton College Manuscript_.
+
+
+1952-1953
+
+41. Bernard Mandeville, _A Letter to Dion_ (1732).
+
+
+1962-1963
+
+98. _Select Hymns Taken Out of Mr. Herbert's Temple_ (1697).
+
+
+1963-1964
+
+104. Thomas D'Urfey, _Wonders in the Sun_; or, _The Kingdom of the
+Birds_ (1706).
+
+
+1964-1965
+
+110. John Tutchin, _Selected Poems_ (1685-1700).
+
+111. Anonymous, _Political Justice_ (1736).
+
+112. Robert Dodsley, _An Essay on Fable_ (1764).
+
+113. T. R., _An Essay Concerning Critical and Curious Learning_
+(1698).
+
+114. _Two Poems Against Pope_: Leonard Welsted, _One Epistle to Mr.
+A. Pope_ (1730), and Anonymous, _The Blatant Beast_ (1742).
+
+
+1965-1966
+
+115. Daniel Defoe and others, _Accounts of the Apparition of Mrs.
+Veal_.
+
+116. Charles Macklin, _The Covent Garden Theatre_ (1752).
+
+117. Sir George L'Estrange, _Citt and Bumpkin_ (1680).
+
+118. Henry More, _Enthusiasmus Triumphatus_ (1662).
+
+119. Thomas Traherne, _Meditations on the Six Days of the Creation_
+(1717).
+
+120. Bernard Mandeville, _Aesop Dress'd or a Collection of Fables_
+(1704).
+
+
+1966-1967
+
+122. James MacPherson, _Fragments of Ancient Poetry_ (1760).
+
+123. Edmond Malone, _Cursory Observations on the Poems Attributed to
+Mr. Thomas Rowley_ (1782).
+
+124. Anonymous, _The Female Wits_ (1704).
+
+125. Anonymous, _The Scribleriad_ (1742). Lord Hervey, _The Difference
+Between Verbal and Practical Virtue_ (1742).
+
+126. _Le Lutrin: an Heroick Poem, Written Originally in French by
+Monsieur Boileau: Made English by N. O._ (1682).
+
+
+Subsequent publications may be checked in the annual prospectus.
+
+Publications #1 through 90, of the first fifteen years of Augustan
+Reprint Society, are available in bound units at $14.00 per unit of
+six from:
+
+    KRAUS REPRINT CORPORATION
+    16 East 46th Street
+    New York, N.Y. 10017
+
+
+Publications in print are available at the regular membership rate of
+$5.00 yearly. Prices of single issues may be obtained upon request.
+
+
+William Andrews Clark Memorial Library: University of California, Los
+Angeles
+
+THE AUGUSTAN REPRINT SOCIETY
+
+_General Editors_: George Robert Guffey, University of California, Los
+Angeles; Maximillian E. Novak, University of California, Los Angeles;
+Robert Vosper, William Andrews Clark Memorial Library.
+
+_Corresponding Secretary_: Mrs. Edna C. Davis, William Andrews Clark
+Memorial Library.
+
+
+The Society's purpose is to publish reprints (usually facsimile
+reproductions) of rare seventeenth and eighteenth century works. All
+income of the Society is devoted to defraying costs of publication and
+mailing.
+
+Correspondence concerning memberships in the United States and Canada
+should be addressed to the William Andrews Clark Memorial Library,
+2520 Cimarron St., Los Angeles, California. Correspondence concerning
+editorial matters may be addressed to any of the general editors at
+the same address. Manuscripts of introductions should conform to the
+recommendations of the MLA _Style Sheet_. The membership fee is $5.00
+a year in the United States and Canada and 30--in Great Britain and
+Europe. British and European prospective members should address B. H.
+Blackwell, Broad Street, Oxford, England. Copies of back issues in
+print may be obtained from the Corresponding Secretary.
+
+
+PUBLICATIONS FOR 1967-1968
+
+127-128. Charles Macklin, _A Will and No Will, or a Bone for the
+Lawyers_ (1746). _The New Play Criticiz'd, or The Plague of Envy_
+(1747). Introduction by Jean B. Kern.
+
+129. Lawrence Echard, Prefaces to _Terence's Comedies_ (1694) and
+_Plautus's Comedies_ (1694). Introduction by John Barnard.
+
+130. Henry More, _Democritus Platonissans_ (1646). Introduction by P.
+G. Stanwood.
+
+131. John Evelyn, _The History of ... Sabatai Sevi ... The Suppos'd
+Messiah of the Jews_ (1669). Introduction by Christopher W. Grose.
+
+132. Walter Harte, _An Essay on Satire, Particularly on the Dunciad_
+(1730). Introduction by Thomas B. Gilmore.
+
+
+ANNOUNCEMENTS:
+
+Next in the series of special publications by the Society will be a
+volume including Elkanah Settle's _The Empress of Morocco_ (1673) with
+five plates; _Notes and Observations on the Empress of Morocco_ (1674)
+by John Dryden, John Crowne and Thomas Shadwell; _Notes and
+Observations on the Empress of Morocco Revised_ (1674) by Elkanah
+Settle; and _The Empress of Morocco. A Farce_ (1674) by Thomas Duffet,
+with an Introduction by Maximillian E. Novak. Already published in
+this series are reprints of John Ogilby's _The Fables of Aesop
+Paraphras'd in Verse_ (1668), with an Introduction by Earl Miner and
+John Gay's _Fables_ (1727, 1738), with an Introduction by Vinton A.
+Dearing. Publication is assisted by funds from the Chancellor of the
+University of California, Los Angeles. Price to members of the
+Society, $2.50 for the first copy and $3.25 for additional copies.
+Price to non-members, $4.00.
+
+
+  THE AUGUSTAN REPRINT SOCIETY
+  William Andrews Clark Memorial Library
+  2520 CIMARRON STREET AT WEST ADAMS BOULEVARD,
+  LOS ANGELES, CALIFORNIA 90018
+
+Make check or money order payable to THE REGENTS OF THE UNIVERSITY OF
+CALIFORNIA.
+
+
+
+
+       *       *       *       *       *
+
+
+
+
+Transcriber's note:
+
+  The elongated "s" has been modernized.
+  Footnote marker placement has been made consistent.
+  Misprint "oe r" was corrected to "oe'r" (page 31).
+  Extra line spacing is intentional to represent both the end of a quote
+    and the beginning of a new paragraph as presented in the original.
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK AN ESSAY ON SATIRE, PARTICULARLY ON
+THE DUNCIAD***
+
+
+******* This file should be named 29237.txt or 29237.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/2/9/2/3/29237
+
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.gutenberg.org/fundraising/pglaf.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://www.gutenberg.org/about/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:
+http://www.gutenberg.org/fundraising/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
