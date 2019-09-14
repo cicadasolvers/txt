@@ -1,0 +1,3168 @@
+Project Gutenberg's The Passaic Flood of 1903, by Marshall Ora Leighton
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Passaic Flood of 1903
+
+Author: Marshall Ora Leighton
+
+Release Date: November 20, 2006 [EBook #19878]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE PASSAIC FLOOD OF 1903 ***
+
+
+
+
+Produced by Chuck Greif, Mark C. Orton, Linda McKeown and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+Water-Supply and Irrigation Paper No. 92
+Series M, General Hydrographic Investigations, 8
+
+DEPARTMENT OF THE INTERIOR
+UNITED STATES GEOLOGICAL SURVEY
+CHARLES D. WALCOTT, DIRECTOR
+
+THE PASSAIC FLOOD OF 1903
+
+BY
+
+MARSHALL ORA LEIGHTON
+
+[Illustration]
+
+WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1904
+
+
+
+
+CONTENTS.
+
+
+                                                                Page.
+Letter of transmittal                                              7
+
+Introduction                                                       9
+
+Precipitation                                                     11
+
+Descent of flood                                                  14
+  Highland tributaries and Central Basin                          14
+  Flood at Macopin dam                                            15
+  Flood at Beattie's dam, Little Falls                            16
+  Flood flow over Dundee dam                                      17
+
+Damages                                                           23
+  General statements                                              23
+  Highland tributaries                                            23
+    Ramapo River                                                  23
+    Pequanac and Wanaque rivers                                   24
+  Central Basin                                                   25
+  Lower Valley                                                    25
+    Paterson                                                      26
+    Passaic and vicinity                                          27
+
+Preventive measures                                               28
+  General discussion                                              28
+  Lower valley improvements                                       29
+  Flood catchment                                                 31
+    Pompton reservoir                                             31
+    Ramapo system                                                 33
+    Wanaque system                                                34
+      Midvale reservoir                                           34
+      Ringwood reservoir                                          35
+      West Brook reservoir                                        35
+    Pequanac system                                               35
+      Newfoundland reservoir                                      36
+      Stickle Pond reservoir                                      36
+    Rockaway system                                               37
+      Powerville reservoir                                        37
+      Longwood Valley reservoir                                   37
+      Splitrock Pond                                              38
+    Upper Passaic Basin                                           38
+      Millington reservoir                                        38
+    Saddle River                                                  39
+    Summary of flood-catchments projects                          40
+  Preferable reservoir sites                                      40
+
+General conclusions                                               44
+
+Index                                                             47
+
+
+
+
+ILLUSTRATIONS.
+
+
+                                                                Page.
+PLATE I. _A_, Beattie's dam, Little Falls, N. J., in flood; _B_,
+Flood-water lines in residence district, Paterson, N. J.          16
+
+II. _A_, Pompton Lakes dam and water front of Ludlum Steel and Iron
+Company; _B_, Dry bed of Pompton Lake                        24
+
+III. Flood district of Paterson, N. J.                            24
+
+IV. _A_, Washout at Spruce street, Paterson, N. J.; _B_,
+River street, Paterson, N. J., after flood                        26
+
+V. _A_, Effects of flood in mill district, Paterson, N. J.; _B_,
+The wreck of a hotel in Paterson, N. J.                           26
+
+VI. _A_, Devastation in Hebrew quarter, Paterson, N. J.; _B_,
+A common example of flood damage                                  28
+
+VII. _A_, Inundated lands at Passaic, N. J.; _B_, Undamaged bridge
+across Passaic River after partial subsidence of flood            28
+
+FIG. 1. Comparative flood run-off at Dundee dam, March, 1902, and
+October, 1903                                                     18
+
+2. Diagram of flood flow at Dundee dam, flood of 1903             20
+
+
+
+
+LETTER OF TRANSMITTAL.
+
+DEPARTMENT OF THE INTERIOR,
+UNITED STATES GEOLOGICAL SURVEY,
+HYDROGRAPHIC BRANCH,
+
+_Washington, D. C., December 4, 1903._
+
+
+SIR: I have the honor to transmit herewith a manuscript entitled,
+"Passaic Flood of 1903," prepared by Marshall Ora Leighton, and to
+request that it be published as one of the series of Water-Supply and
+Irrigation Papers.
+
+This paper is a continuation of Water-Supply and Irrigation Paper No.
+88, by George B. Hollister and Mr. Leighton, and describes the flood of
+October, 1903, which was higher and far more disastrous than the flood
+of 1902. The occurrence of two great floods in the same basin during so
+short a period makes the subject worthy of attention, especially as the
+district is, from a manufacturing and commercial standpoint, one of the
+most important along the Atlantic coast.
+
+Very respectfully,
+
+F. H. NEWELL,
+_Chief Engineer_.
+
+HON. CHARLES D. WALCOTT
+_Director United States Geological Survey_.
+
+
+
+
+THE PASSAIC FLOOD OF 1903.
+
+By MARSHALL O. LEIGHTON.
+
+
+INTRODUCTION.
+
+In the following pages is given a brief history of the disastrous flood
+which occurred in the Passaic River Basin in October, 1903. In the
+report by George Buell Hollister and the writer, entitled "The Passaic
+Flood of 1902," and published by the United States Geological Survey as
+Water-Supply and Irrigation Paper No. 88, are discussed the principal
+physiographic features of the drainage basin and their general relations
+to the stream flow. This report will not repeat this information, and
+the discussion will be confined to the flood itself. References to local
+features will be made without explanation, the presumption being that
+this publication shall accompany the earlier one and be, as it is, a
+continuation of it. In the present report more attention is given to an
+estimate of damages than in the earlier work, and remedies by which
+devastation may be avoided are briefly considered.
+
+Passaic River overflowed its banks on October 8, 1903, and remained in
+flood until October 19. Between these dates there occurred the greatest
+and most destructive flood ever known along this stream. Ordinarily the
+channel of the lower Passaic at full bank carries about 12,000 cubic
+feet of water per second, but at the height of this flood it carried
+about 35,700 cubic feet per second.
+
+The flood period for the entire stream can not be exactly stated, as the
+overflow did not occur at the same time in different parts of the basin.
+For example, the gage-height records at Dundee dam show that the flood
+began to rise on October 8 at 6.30 a. m., and reached a maximum of 9-1/2
+inches over the dam crest at 9 p. m. on October 10. Similarly, on
+Beattie's dam at Little Falls the flood began to rise at midnight on
+October 7, and reached its maximum at 2 p. m. on October 10, or about
+thirty-eight hours after the initial rise, the height of the water being
+1.29 inches over the crest of the dam.
+
+The flood rose on the highland tributaries as follows: On Ramapo River
+the flood crest passed Hillborn at about 10 a. m. on October 9 and
+reached Pompton, at the mouth of the river, shortly after noon of the
+same day.
+
+The highest reading recorded on the Geological Survey gage at the feeder
+of Morris Canal, in Pompton Plains, was 14.3 feet, at about 6 o'clock on
+the morning of October 10. As this gage is read only once daily it is
+probable that this reading does not represent the height of the flood
+crest. Evidence shows that it passed this point on the previous day.
+Records of the Newark water department show that the flood on Pequanac
+River began to rise at Macopin dam on October 8 at noon, and rose
+rapidly to the maximum of 6,000 cubic feet per second at 4 p. m. on
+October 10.
+
+No records are available with reference to the rise of flood on Wanaque
+River.
+
+Observations made on Pompton Plains on the morning of the 11th show that
+Pompton River was well within its banks at that time; therefore the
+Ramapo, Wanaque, and Pequanac must have discharged their flood waters
+some time previous to this hour. The fact is important when considered
+in connection with the height of water in the main stream at that
+period. This observation was made only eighteen hours after the maximum
+height over Beattie's dam at Little Falls, and twelve hours after the
+flood crest passed Dundee dam. The conditions here outlined illustrate
+the rapidity with which flood waters are discharged from the Pompton
+drainage area, and the deterring effect of Great Piece Meadows upon the
+flood.
+
+The rise of the flood on Rockaway River at Old Boonton was almost
+coincident with that on Pequanac River at Macopin dam. The maximum flow
+occurred fourteen hours later than the maximum on the Ramapo at Pompton.
+
+The flood crest did not reach Chatham on upper Passaic River until the
+morning of October 11, or about twenty-four hours later than the flood
+heights in Pompton and Rockaway rivers, and about twelve hours later
+than the maximum over Dundee dam.
+
+Adequate reasons for these differences in flood periods between
+neighboring points are abundant. They are apparent after a review of the
+physiographic conditions described in Water-Supply Paper No. 88.
+
+The flood of 1903 was the immediate result of an enormous rainfall, and
+not, as is often the case in north temperate latitudes, the combined
+effect of rainfall and the rapid melting of accumulated snows. The
+records of weather-observation stations in northern New Jersey and New
+York fail to show, throughout their entire observation periods, as great
+an amount of precipitation in so short a period. The storm which was the
+immediate cause of the flood occurred principally between October 8 and
+11. During that interval rain fell to an average depth of 11.74 inches
+over the Passaic Basin.
+
+The Passaic Basin is fairly well supplied with storage facilities,
+which, under ordinary circumstances, would temper the severity of floods
+by holding back a large amount of water. In this case no such effect was
+produced, as the reservoirs, lakes, and ponds on the drainage area were
+filled, or practically so, at the beginning of the storm, and there was
+consequently no available space in which to hold back even an
+appreciable part of the run-off water. Over some of the dams in the
+highland region a comparatively small amount of water was being
+discharged at the beginning of the storm. Therefore, while these storage
+basins may have had a certain deterring effect upon the rate of flood
+accumulation, they could not, in the end, assist materially in
+preventing damages in the lower part of the drainage area.
+
+
+PRECIPITATION.
+
+The precipitation records for June, July, August, and September are
+given below:
+
+_Precipitation, in inches, in Passaic Valley and vicinity, June to
+September, 1903._
+
+-----------------+--------------+--------------+--------------+------------
+                 |    June.     |    July.     |   August.    |  September.
+-----------------+--------------+--------------+--------------+------------
+                 |Normal.       |Normal.       |Normal.       |Normal.
+                 |     Observed.|     Observed.|     Observed.|   Observed.
+-----------------+--------------+--------------+--------------+------------
+Highland region: |      |       |      |       |      |       |      |
+  Dover          | 3.29 | 15.02 | 5.54 | 5.47  | 5.08 |  9.04 | 4.02 | 3.39
+  Chester        | 3.48 | 12.80 | 6.42 | 7.59  | 5.16 |  9.35 | 4.60 |  ...
+  Charlotteburg  | 3.52 |  9.45 | 5.54 | 3.97  | 4.98 |  7.78 | 4.80 | 3.29
+  Ringwood       |  ... | 10.13 |  ... | 3.08  |  ... |  6.17 |  ... | 3.06
+Red Sandstone    |      |       |      |       |      |       |      |
+plain:           |      |       |      |       |      |       |      |
+  Paterson       | 4.31 | 11.17 | 5.32 | 5.40  | 4.31 | 10.89 | 4.86 | 2.88
+  Hanover        | 3.32 |   ... | 5.23 | 5.40  | 5.20 |  9.40 | 4.52 |  ...
+  River Vale     | 3.17 | 10.62 | 4.87 | 3.41  | 4.17 |   ... | 3.61 | 2.90
+  Essex Fells    | 3.08 |   ... | 7.03 |  ...  | 5.95 |   ... | 3.67 | 1.80
+  Newark         | 3.60 | 11.51 | 4.48 | 4.27  | 4.75 | 14.54 | 3.83 | 4.56
+  South Orange   | 3.57 |  9.28 | 5.43 | 4.22  | 5.05 | 13.75 | 4.04 | 3.80
+  New York City  | 3.13 |  7.42 | 4.26 | 3.23  | 4.70 |  5.96 | 3.72 | 2.60
+  Plainfield     | 3.62 | 10.14 | 5.86 | 4.70  | 4.37 |  6.87 | 4.42 | 7.10
+  Elizabeth      | 3.68 |  8.76 | 5.74 | 4.31  | 4.26 |  7.15 | 4.14 | 4.38
+-----------------+--------------+--------------+------|-------+------+-----
+
+An examination of the above table shows that throughout the summer of
+1903 the precipitation was considerably above normal. The records for
+June and August indicate extremely wet months, and the July figures are
+slightly above while the September figures are somewhat below normal.
+The important fact shown by this table is that disastrous floods may
+occur after long periods of abundant rains. It has been observed that
+heavy precipitation may be expected after protracted periods of drought.
+Such a belief is not altogether fanciful. In the northeastern part of
+this country the total amount of precipitation is approximately uniform
+from year to year. The variations, comparatively speaking, are not very
+wide, and we are therefore led to expect that there are in operation
+influences which serve to compensate for excesses or deficiencies in our
+annual rainfall. Therefore after the abundant precipitation of the
+summer of 1903, an observer might have had some measure of justification
+in predicting a normally or abnormally dry fall. In view of the actual
+events the fact must be emphasized that in adopting measures to prevent
+floods the margin of safety must be extremely wide. The extraordinary
+rainfall of those three October days can not with assurance be accepted
+as the maximum.
+
+_Precipitation, in inches, in Passaic Valley and vicinity, October 7 to
+11, 1903._
+
+---------------------+------------------+------------------+--------
+                     |   From--         |    To--          |
+Station.             +------+-----------+------+-----------+ Amount.
+                     | Day. |  Hour.    | Day. |  Hour.    |
+---------------------+------+-----------+------+-----------+--------
+Highland region:     |      |           |      |           |
+    Dover            |   7  |           |  11  | 9 p.m.    | 10.13
+    Little Falls     |   7  | 4 a.m.    |  11  | 7 a.m.    | 14.13
+    Charlotteburg    |   7  |           |  10  |           | 12.67
+    Ringwood         |   8  | 11 a.m.   |   9  | 8 p.m.    | 10.63
+                     |      |           |      |           |
+Red Sandstone plain: |      |           |      |           |
+    Paterson         |   7  | 5 a.m.    |   9  | 3.45 p.m. | 15.04
+    River Vale       |   8  | 8 a.m.    |  11  | 6 p.m.    | 12.55
+    Essex Fells      |   8  |           |   9  | 4 p.m.    | 10.66
+    Newark           |   8  | 8.30 a.m. |  11  | 5 a.m.    | 12.09
+    South Orange     |   8  | 6 a.m.    |  10  | Night     | 10.48
+---------------------+------+-----------+------+-----------+--------
+
+The extremely rapid rate of precipitation during the crucial part of the
+storm is shown by the recording gages placed at observation stations in
+Newark and New York City.
+
+_Hourly records of precipitation at New York observation station,
+October 8 and 9, 1903_.
+
+                                  Inches.
+
+Oct. 8, 9 to 10 a. m.              0.08
+        10 to 11 a. m.              .02
+        11 to 12 m.                 .32
+        12 m. to 1 p. m.            .10
+        1 to 2 p. m.                .05
+        2 to 3 p. m.                .06
+        3 to 4 p. m.                .34
+        4 to 5 p. m.                .01
+        5 to 6 p. m.                .10
+        6 to 7 p. m.                .02
+        7 to 8 p. m.                .93
+        8 to 9 p. m.                .32
+        9 to 10 p. m.               .24
+        10 to 11 p. m.              .27
+        11 to 12 p. m.              .26
+     9, 12 to 1 a. m.               .30
+Oct. 9, 1 to 2 a. m.               0.25
+        2 to 3 a. m.                .75
+        3 to 4 a. m.                .34
+        4 to 5 a. m.                .46
+        5 to 6 a. m.                .41
+        6 to 7 a. m.                .29
+        7 to 8 a. m.                .51
+        8 to 9 a. m.               1.38
+        9 to 10 a. m.              1.04
+        10 to 11 a. m.              .08
+        11 to 12 m.                 .23
+        12 m. to 1 p. m.            .24
+        1 to 2 p. m.                .31
+        2 to 3 p. m.                .32
+        3 to 4 p. m.                .01
+                                  _____
+          Total                    6.92
+
+_Hourly record of precipitation at Newark observation station, October
+8-11, 1903_.
+
+                                   Inches.
+
+Oct. 8, 8.25 to 9 a. m.            0.05
+        9 to 10 a. m.               .04
+        10 to 11 a. m.              .00
+        11 to 12 m.                 .00
+        12 m. to 1 p. m.            .14
+        1 to 2 p. m.                .72
+        2 to 3 p. m.                .49
+        3 to 4 p. m.                .11
+        4 to 5 p. m.               1.05
+        5 to 6 p. m.                .45
+        6 to 7 p. m.               1.20
+        7 to 8 p. m.                .60
+        8 to 9 p. m.                .24
+        9 to 10 p. m.               .24
+        10 to 11 p. m.              .13
+        11 to 12 p. m.              .17
+     9, 12 to 1 a. m.               .29
+        1 to 2 a. m.                .33
+        2 to 3 a. m.                .62
+        3 to 4 a. m.                .29
+        4 to 5 a. m.                .35
+        5 to 6 a. m.                .26
+        6 to 7 a. m.                .13
+Oct. 9, 7 to 8 a. m.               0.29
+        8 to 9 a. m.                .69
+        9 to 10 a. m.               .69
+        10 to 11 a. m.              .39
+        11 to 12m.                  .20
+        12m. to 1 p. m.             .39
+        1 to 2 p. m.                .28
+        2 to 3 p. m.                .34
+        3 to 3.25 p. m.             .13
+        11.50 to 11.55 p. m.        .01
+    10, 3 to 4 a. m.                .02
+        7 to 8 p. m.                .07
+        8 to 9 p. m.                .09
+        9 to 10 p. m.               .02
+        10 to 11 p. m.              .04
+        11 to 12 p. m.              .04
+    11, 12 to 1 a. m.               .06
+        1 to 2 a. m.                .09
+        2 to 3 a. m.                .03
+        3 to 4 a. m.                .05
+        4 to 5 a. m.                .01
+                                  _____
+         Total                    11.83
+
+From the above tables it may be seen that the maximum rate of
+precipitation per hour was 1.38 inches at New York and 1.2 inches at
+Newark. Comparison of the tables on pages 11 and 12 gives an excellent
+idea of the intensity of the storm. The amount of water falling in a
+single storm is nearly equal to the total for June, a month of unusual
+precipitation.
+
+The average of the total amounts of precipitation recorded at the
+various stations in the Passaic area is 11.74 inches. These totals are
+fairly uniform, none of them varying widely from the average. Therefore
+the figure 11.74 represents a conservative mean for a calculation of
+total amount of water over the drainage area. Assuming this as the
+correct depth, the amount of water which fell on each square mile of the
+Passaic drainage area during the storm was 27,273,000 cubic feet, or for
+the whole Passaic drainage area over 27,000,000,000 cubic feet, weighing
+about 852,000,000 tons. This amount of water would, if properly stored,
+fill a lake with twenty times the capacity of Greenwood Lake, would
+cover Central Park in New York City, which has an area of about 1.5
+square miles, to a height of 645 feet, and, at the present rate of water
+consumption in the city of Newark, N. J., would supply the city with
+water for twenty years.
+
+
+DESCENT OF FLOOD.
+
+HIGHLAND TRIBUTARIES AND CENTRAL BASIN.
+
+A description of the descent of flood waters from the highland
+tributaries into the Central Basin has been given in Water-Supply Paper
+No. 88. It has been shown that the lands of the Central Basin are
+covered even in ordinary freshets, and that in the event of a great
+flood the waters merely rise higher, being, for the greater extent,
+almost quiescent, and beyond the flooding of houses and barns and the
+destruction of crops, little damage is done. In other words, the flood
+along this portion is not torrential in character.
+
+During the flood of 1903 the water fell so quickly all over this basin,
+and was collected so rapidly by the small tributaries, that a lake was
+formed at once which served as a cushion against which the raging
+torrent of the highland tributaries spent itself without doing
+extraordinary damage in that immediate region. Bridges which might have
+been lost in a smaller flood like that of 1902 were actually standing in
+slack water by the time the mountain torrents appeared in force. These
+streams caused much destruction higher up in the mountains, but in the
+Central Basin their energy became potential--a gathering of forces to be
+loosed upon the lower valley. A discussion of the effects of this will
+be taken up under the heading "Damages."
+
+In Water-Supply Paper No. 88 is given the proportion of flood waters
+contributed to the Central Basin by each of the tributaries. These
+figures were computed from the results of gagings maintained for a
+period sufficient to afford this information within a reasonable
+approximation. In the case of the storm which resulted in the flood of
+1903 it is probable that data referred to can not be safely applied.
+
+The flood of 1902 was the result of abundant rains following upon and
+melting a heavy snow. Weather Bureau records show that neither the depth
+of the snow nor the amount of subsequent rainfall was uniform, or even
+approximately so, over the Passaic drainage area. Indeed, so marked was
+the variation that it was believed that the mean rainfall for all the
+observation stations on the basin did not bear sufficient relation to
+observed run-off to allow of any reliable deductions. In the case of the
+October storm, however, the distribution of rainfall was more nearly
+uniform, and the run-off from the highland tributaries into the Central
+Basin must have been proportionately different in amount from that
+indicated in the upland tributary tables in the report of the previous
+flood. The data given for the 1902 flood can not, therefore, in the case
+of the highland tributaries, be applied to the conditions which obtained
+in the flood of 1903.
+
+
+FLOOD AT MACOPIN DAM.
+
+Mr. Morris R. Sherrerd, engineer of the Newark city water board, has
+furnished flow computations over Macopin intake dam, which is the head
+of the Newark pipe line. As about 73 per cent of the Pequanac drainage
+area lies above this intake, the table on page 16 shows roughly an
+equivalent percentage of the flow contributed by Pequanac River to the
+Central Basin of the Passaic. In consulting this table it should be
+borne in mind that the entire run-off of the drainage area above Macopin
+is about 25,000,000 gallons per day more than the amounts presented in
+this table. All reservoirs and ponds connected with the conservancy
+system of the Newark water supply were filled except that at Oakridge,
+which was about 1.5 feet below the crest of the spillway.
+
+_Flow of Pequanac River over Macopin dam, October 7-24, 1903._
+
+[From Newark water department.]
+
+                                   Cubic feet.
+Oct. 8, 6 a. m. to 12 m.               240,600
+        12m. to 4 p. m.                347,600
+         4 to 6 p. m.                  842,200
+
+    8-9, 6 p. m. to 6 a. m.         40,110,000
+
+      9, 6 a. m. to 12 m.           51,870,000
+        12m. to 1 p. m.             15,100,000
+        1 to 5 p. m.                62,430,000
+        5 to 10 p. m.               89,040,000
+        10 to 11 p. m.              19,520,000
+
+    9-10, 10 p. m. to 8 a. m.      201,350,000
+
+    10, 8 a. m. to 12 m.            75,670,000
+        12 m. to 6 p. m.           103,650,000
+        6 to 12 p. m.               73,530,000
+
+    11, 12 to 6 a. m.               56,820,000
+        6 a. m. to 12m.             41,440,000
+        12 m. to 6 p. m.            32,755,000
+        6 to 12 p. m.               25,665,000
+
+    12, 12 to 6 a. m.               23,800,000
+        6 a. m. to 12m.             20,725,000
+        12 m. to 6 p. m.            18,450,000
+        6 to 12 p. m.               15,105,000
+    13, 12 to 6 a. m.               13,370,000
+        6 a. m. to 12 m.            11,890,000
+        12 m. to 6 p. m.            11,230,000
+        6 to 12 p. m.               11,230,000
+
+    14, 12 to 6 a. m.                9,626,000
+        6 a. m. to 12 m.             8,690,000
+        12 m. to 6 p. m.             8,022,000
+        6 to 12 p. m.                7,353,000
+
+    15, 12 to 6 a. m.                6,952,000
+        6 a. m. to 6 p. m.          12,700,000
+       15-16, 6 p. m. to 6 a. m.    10,965,000
+
+    16, 6 a. m. to 6 p. m.          10,025,000
+       16-17, 6 p. m. to 6 a. m.     9,091,000
+
+    17, 6 a. m. to 6 p. m.           8,690,000
+       17-18, 6 p. m. to 6 a. m.     9,893,000
+
+    18, 6 a. m. to 6 p. m.          10,565,000
+       18-19, 6 p. m. to 6 a. m.     8,690,000
+
+    19, 6 a. m. to 6 p. m.           6,952,000
+       19-20, 6 p. m. to 6 a. m.     6,150,000
+
+    20, 6 a. m. to 6 p. m.           5,882,000
+       20-21, 6 p. m. to 6 a. m.     5,749,000
+
+    21, 6 a. m. to 6 p. m.           5,481,000
+       21-22, 6 p. m. to 6 a. m.     5,214,000
+
+    22, 6 a. m. to 6 p. m.           4,144,000
+       22-23, 6 p. m. to 6 a. m.     3,677,000
+
+    23, 6 a. m. to 6 p. m.           3,877,000
+       23-24, 6 p. m. to 6 a. m.     5,749,000
+
+    24, 6 a. m. to 6 p. m.           5,615,000
+
+
+FLOOD AT BEATTIE'S DAM, LITTLE FALLS.
+
+The flow over Beattie's dam at Little Falls, has been calculated
+according to coefficients used for the same dam in Water-Supply Paper
+No. 88. Recorded gage heights show that over the main dam there was a
+maximum depth of 11.12 feet, which continued from 2 to 8 p. m., on
+October 10, representing a maximum flow of 31,675 cubic feet per second.
+(See Pl. I, A.) In the following table is set forth the flow of the
+river over Beattie's dam during the flood, and for purposes of
+comparison, the figures for the flood period of March, 1902. It should
+be borne in mind in consulting this table, that in the case of the flood
+of 1903 exact dates and hours are given, while the figures for the 1902
+flood represent flow determinations at six-hour intervals, beginning
+with the initial rise of that flood.
+
+       *       *       *       *       *
+
+U. S. GEOLOGICAL SURVEY WATER-SUPPLY PAPER NO. 92 PL. I
+
+[Illustration: _A._ BEATTIE'S DAM, LITTLE FALLS, N. J., IN FLOOD.]
+
+
+[Illustration: _B._ FLOOD-WATER LINES IN RESIDENCE DISTRICT, PATERSON,
+N. J.]
+
+       *       *       *       *       *
+
+_Flood flow over Beattie's dam during floods of 1902 and 1903._
+
+-----------------+------------+------------+
+Date and hour.   |    1903.   |   1902.[A] |
+-----------------+------------+------------+
+                 | Sec.-feet. | Sec.-feet. |
+Oct. 8. 12 p.m   |    1,645   |      490   |
+     9.  6 a.m.  |    4,235   |      700   |
+        12 m.    |    8,560   |    1,350   |
+         6 p.m.  |   15,755   |    2,120   |
+        12 p.m.  |   23,927   |    3,540   |
+     10. 6 a.m.  |   28,370   |    4,250   |
+        12 m.    |   31,305   |    4,600   |
+         6 p.m.  |   31,675   |    5,000   |
+        12 p.m.  |   30,770   |    6,500   |
+     11. 6 a.m.  |   29,840   |    7,600   |
+        12 m.    |   28,950   |    8,250   |
+         6 p.m.  |   26,960   |    9,000   |
+        12 p.m.  |   25,530   |   10,200   |
+     12. 6 a.m.  |   24,435   |   11,450   |
+        12 m.    |   22,625   |   14,700   |
+         6 p.m.  |   20,810   |   18,150   |
+        12 p.m.  |   18,655   |   20,650   |
+     13. 6 a.m.  |   17,930   |   22,200   |
+        12 m.    |   16,190   |   22,700   |
+         6 p.m.  |   14,900   |   23,400   |
+        12 p.m.  |   13,615   |   23,300   |
+     14. 6 a.m.  |   12,340   |   22,950   |
+         12 m.   |   11,740   |   22,650   |
+          6 p.m. |   10,975   |   22,350   |
+         12 p.m. |    9,820   |   22,100   |
+     15.  6 a.m. |    9,180   |   21,150   |
+         12 m.   |    8,330   |   19,900   |
+          6 p.m. |    7,700   |   18,900   |
+         12 p.m. |    7,005   |   17,350   |
+     16.  6 a.m. |    6,695   |   15,750   |
+         12 m.   |    5,920   |   13,900   |
+          6 p.m. |    5,620   |   13,300   |
+         12 p.m. |    5,360   |   11,800   |
+     17.  6 a.m. |    4,855   |   10,650   |
+         Below full bank      |    8,900   |
+             Do.              |    8,500   |
+             Do.              |    8,100   |
+             Do.              |    8,200   |
+             Do.              |    7,000   |
+             Do.              |    6,250   |
+             Do.              |    5,900   |
+             Do.              |    5,300   |
+             Do.              |    5,200   |
+             Do.              |    4,900   |
+-----------------+------------+------------+
+[Footnote A: At six-hour intervals.]
+
+
+FLOOD FLOW OVER DUNDEE DAM.
+
+The flood, as indicated by gage heights at Dundee dam, lasted from about
+6.30 p. m. October 8 to about midnight October 18. Although the maximum
+recorded gage height was 19 inches higher than during the flood of 1902,
+the actual time during which the river was out of its banks was
+forty-five hours less than at the earlier flood. Examination of fig. 1
+shows that the flood of 1903 was decidedly more intense than that of
+1902, the maximum height being reached in 1903 in about sixty hours,
+while in 1902 the maximum was not reached until the expiration of about
+one hundred and twenty hours.
+
+At Dundee dam the familiar break in the progress of the flood took place
+about thirty-five hours after the initial rise. It occurred before the
+time of the maximum gage height at the mouth of Pompton River, and there
+is nothing to indicate that it was caused, as has been claimed, by slack
+water from the Pompton flood being forced back into Great Piece Meadows.
+There is no doubt that a part of the Pompton flood was so diverted, but
+there was maintained throughout at Little Falls a steady pressure, which
+constantly increased to maximum. This flood check, at Dundee dam was
+observed in 1902, but it could not be shown to arise from the frequently
+mentioned phenomena at the mouth of Pompton River. It is important to
+prove or disprove this hypothesis. If it were found to be true, it
+could be advantageously taken into consideration in connection with
+measures for the prevention of flood damages. As the Pompton had no such
+effect upon the flood flow at Dundee dam in two consecutive historic
+floods, the writer is inclined to believe that the idea is entirely
+erroneous.
+
+[Illustration: FIG. 1.--Comparative flood run-off at Dundee dam, March,
+1902, and October, 1903.]
+
+Since the flow curves in fig. 1 were drawn it has been found by careful
+observation that the depressions which occur in the rise of every flood
+over Dundee dam are probably due to the carrying away of the flashboards
+which are placed upon the dam crest in times of low water. A review of
+the gage heights recorded by floods for several years past shows that
+the break occurs when the height of water over the dam crest reaches
+from 40 to 60 inches. The flashboards used upon this dam are usually 18
+inches wide, and as they are supported by iron rods, which are of
+approximately the same strength and are placed upon the dam by one crew
+of workmen, it may be safely assumed that they are of approximately
+equal stability and might be expected to fail almost simultaneously
+along the length of the dam crest. So sudden a decrease in the effectual
+height of the dam must lower the water on the dam crest markedly, and as
+every other probable cause has been eliminated in the case of the recent
+flood, the explanation of the check in the progress of floods over this
+dam may be safety accepted as due to carrying away of flashboards. This
+effect should be apparent in the gage-height records only.
+
+In the flow diagrams (figs. 1 and 2) the effect would not be the same,
+but the curve would rise more sharply. Similarly, the measurements at
+the beginning are not correct, as they are calculated according to gage
+heights measured from the stone crest of the dam. Therefore, a true
+flood curve at this point would be much flatter at the beginning and
+rise sharply at a period coincident with the carrying away of the
+flashboards.
+
+An important difference between the two floods is that the earlier
+continued longer, but the later one was much higher. The flood of 1902
+was caused by the turning of an equivalent of approximately 6 inches of
+precipitation into the main channel during a period of six days. In the
+deluge of 1903 there fell 11.74 inches of rain, the greater part of
+which was precipitated in 36 hours. Thus it is seen that there was in
+the flood of 1903 a larger rainfall during a much shorter period than in
+the flood of 1902. Computation shows that the total run-off from the
+drainage area above Dundee dam during the earlier flood was
+13,379,000,000 cubic feet, and that on account of the frozen condition
+of the ground at that time this amount of water represented practically
+all of the precipitation. During the flood of 1903 there was a total
+run-off for the same area of 14,772,000,000 cubic feet, which represents
+about 66 per cent of the observed precipitation. According to these
+figures the total amount of run-off in the 1903 flood was only 10 per
+cent greater than that in 1902, while the actual flood height during the
+1903 flood was 27 per cent higher than during the flood of 1902. The
+above comparison shows, in a striking manner, the effect of the
+condition of the surface. In the case of the later flood we had, as has
+been stated in previous pages, an area which had been well watered
+during the previous summer, and the observed ground-water levels were
+fairly high. There was, however, sufficient storage capacity in the
+basin to retain about 34 per cent of the precipitation occurring between
+October 7 and 11. This water must have been largely absorbed by the
+earth. The general relations of the floods of 1903 and 1902 can
+therefore be briefly stated as follows:
+
+_General relations of floods of 1903 and 1902._
+
+-----+--------------+--------------+-------------+------------->
+     |Average       |  Duration of | Maximum     | Total
+     |precipitation.|precipitation.| flood flow. | run-off.
+     |              |              |             |
+-----+--------------+--------------+-------------+------------->
+     |  _Inches._   |   _Days._    |_Sec.-feet._ | _Cubic feet._
+1902 |      6       |      6       |   24,800    |13,379,000,000
+1903 |     11.74    |      3       |   35,700    |14,772,000,000
+-----+--------------+--------------+-------------+------------->
+
+<-----------+-------------
+Run-off.    | Duration of
+            | flood at
+            | Dundee dam.
+<-----------+-------------
+ _Per cent._| _Hours._
+  [B]100    |    270
+     66     |    225
+<-----------+-------------
+[Footnote B: Approximately]
+
+
+In the following table and fig. 2 are recorded gage heights taken at
+hourly intervals during the crucial part of the flood and the amount of
+water expressed in cubic feet per second flowing over the crest of the
+dam at each gage height.
+
+[Illustration: FIG. 2.--Diagram of flood flow at Dundee dam, flood of
+1903.]
+
+_Flow of Passaic River at Dundee dam, 1903._
+
+-------------------------------------------
+Date and hour.       | Gage. |   Flow.
+---------------------+-------+-------------
+                     |_Feet._| _Sec.-feet._
+ Oct. 8. 6.30 a. m.  |  0.66 |      780
+         1 p. m.     |  1.50 |    3,175
+         6.30 p. m.  |  2.17 |    5,500
+         8 p. m.     |  2.59 |    7,300
+         10 p. m.    |  3.00 |    9,125
+         11 p. m.    |  3.33 |   10,700
+         12 p. m.    |  3.50 |   11,525
+      9. 1 a. m.     |  3.50 |   11,550
+         2.30 a. m.  |  3.59 |   11,950
+         4 a. m.     |  3.50 |   11,525
+         6 a. m.     |  3.66 |   12,300
+         8.30 a. m.  |  3.75 |   12,775
+         9.40 a. m.  |  4.00 |   14,075
+         10.55 a. m. |  4.66 |   17,650
+         12 m.       |  4.75 |   18,200
+         1 p. m.     |  5.25 |   21,050
+         2 p. m.     |  5.37 |   21,750
+         3 p. m.     |  5.45 |   22,250
+         3.45 p. m.  |  5.37 |   21,750
+         4.25 p. m.  |  5.29 |   21,300
+         5 p. m.     |  5.23 |   20,950
+         5.45 p. m.  |  5.19 |   20,700
+         6.30 p. m.  |  5.17 |   20,600
+         7 p. m.     |  5.11 |   20,250
+         8 p. m.     |  5.13 |   20,350
+         9 p. m.     |  5.17 |   20,600
+         10 p. m.    |  5.21 |   20,750
+         11 p. m.    |  5.27 |   21,150
+         12 p. m.    |  5.4  |   21,950
+     10. 1 a. m.     |  5.5  |   22,500
+         2 a. m.     |  5.66 |   23,500
+         3 a. m.     |  5.73 |   23,900
+         4 a. m.     |  5.91 |   25,050
+         5 a. m.     |  6.00 |   25,650
+         6 a. m.     |  6.2  |   26,900
+         7 a. m.     |  6.33 |   27,700
+         8 a. m.     |  6.4  |   28,150
+         9 a. m.     |  6.6  |   29,400
+         10 a. m.    |  6.83 |   30,750
+         11 a. m.    |  6.89 |   31,250
+         11.35 a. m. |  6.97 |   31,750
+         12 m.       |  6.93 |   31,450
+         1 p. m.     |  6.95 |   31,650
+         2 p. m.     |  7.13 |   32,800
+         3 p. m.     |  7.19 |   33,150
+         4 p. m.     |  7.25 |   33,500
+         5 p. m.     |  7.39 |   34,450
+         6 p. m.     |  7.39 |   34,450
+         7 p. m.     |  7.40 |   34,500
+         8 p. m.     |  7.54 |   35,350
+         9 p. m.     |  7.62 |   35,800
+         10 p. m.    |  7.60 |   35,700
+         11 p. m.    |  7.57 |   35,500
+         12 p. m.    |  7.43 |   34,650
+     11. 1 a. m.     |  7.47 |   34,950
+         2 a. m.     |  7.5  |   35,100
+         3 a. m.     |  7.42 |   34,700
+         4 a. m.     |  7.3  |   34,450
+         5 a. m.     |  7.3  |   34,150
+         6 a. m.     |  7.3  |   34,150
+         7 a. m.     |  7.37 |   34,300
+         8 a. m.     |  7.33 |   34,100
+         9 a. m.     |  7.31 |   33,900
+         10 a. m.    |  7.23 |   33,450
+         11 a. m.    |  7.25 |   32,525
+         12 m.       |  7.18 |   33,100
+         1 p. m.     |  7.18 |   33,100
+         2 p. m.     |  7.17 |   33,300
+         3 p. m.     |  7.08 |   32,450
+         4 p. m.     |  7.00 |   31,950
+         5 p. m.     |  6.96 |   31,700
+         6 p. m.     |  6.89 |   31,250
+         7 p. m.     |  6.86 |   31,050
+         8 p. m.     |  6.83 |   30,850
+         9 p. m.     |  6.79 |   30,600
+         10 p. m.    |  6.81 |   30,700
+         11 p. m.    |  6.73 |   30,200
+         12 p. m.    |  6.71 |   30,100
+     12. 1 a. m.     |  6.63 |   29,600
+         2 a. m.     |  6.59 |   29,350
+         3 a. m.     |  6.55 |   29,100
+         4 a. m.     |  6.51 |   28,800
+         5 a. m.     |  6.42 |   28,250
+         6 a. m.     |  6.42 |   28,250
+         7 a. m.     |  6.39 |   28,100
+         8 a. m.     |  6.39 |   28,100
+         9 a. m.     |  6.25 |   27,200
+         10 a. m.    |  6.21 |   26,950
+         11 a. m.    |  6.17 |   26,700
+         12 m.       |  6.05 |   26,100
+         1 p. m.     |  6.06 |   26,050
+         2 p. m      |  5.93 |   25,200
+         3 p. m.     |  5.89 |   24,950
+         4 p. m.     |  5.87 |   24,800
+         5 p. m.     |  5.79 |   24,300
+         6 p. m      |  5.77 |   24,150
+         7 p. m.     |  5.75 |   24,250
+         8 p. m.     |  5.73 |   23,950
+         9 p. m      |  5.63 |   23,300
+         10 p. m.    |  5.59 |   23,100
+         11 p. m.    |  5.54 |   22,750
+         12 p. m.    |  5.49 |   22,450
+     13. 1 a. m.     |  5.44 |   22,200
+         2 a. m.     |  5.39 |   21,000
+         3 a. m.     |  5.35 |   21,650
+         4 a. m.     |  5.30 |   21,350
+         5 a. m.     |  5.24 |   21,000
+         6 a. m.     |  5.21 |   20,850
+         7 a. m.     |  5.16 |   20,525
+         8 a. m.     |  5.13 |   20,350
+         9 a. m.     |  5.08 |   20,100
+         10 a. m.    |  5.04 |   19,800
+         11 a. m.    |  5.00 |   19,560
+         12 m.       |  4.94 |   19,200
+         1 p. m.     |  4.89 |   18,900
+         2 p. m.     |  4.85 |   18,700
+         3 p. m.     |  4.84 |   18,650
+         4 p. m.     |  4.75 |   18,200
+         5 p. m.     |  4.71 |   17,900
+         6 p. m.     |  4.66 |   17,650
+         7 p. m.     |  4.64 |   17,550
+         8 p. m.     |  4.59 |   17,250
+         9 p. m.     |  4.54 |   17,000
+         10 p. m.    |  4.51 |   16,750
+         11 p. m.    |  4.49 |   16,700
+         12 p. m.    |  4.37 |   16,000
+     14. 1 a. m.     |  4.37 |   16,000
+         2 a. m.     |  4.35 |   15,925
+         3 a. m.     |  4.35 |   15,925
+         4 a. m.     |  4.33 |   15,800
+         5 a. m.     |  4.34 |   15,850
+         6 a. m.     |  4.31 |   15,700
+         7 a. m.     |  4.27 |   15,500
+         8 a. m.     |  4.25 |   15,300
+         9 a. m.     |  4.17 |   14,900
+         10 a. m.    |  4.08 |   14,500
+         11 a. m.    |  4.05 |   14,325
+         12 m.       |  4.02 |   14,150
+         1 p. m.     |  4.02 |   14,150
+         2 p. m.     |  4.01 |   14,100
+         3 p. m.     |  3.97 |   13,900
+         4 p. m.     |  3.94 |   13,750
+         5 p. m.     |  3.85 |   13,300
+         6 p. m.     |  3.75 |   12,775
+         7 p. m.     |  3.75 |   12,775
+         9 p. m.     |  3.71 |   12,550
+         12 p. m.    |  3.66 |   12,300
+     15. 6.30 a. m.  |  3.50 |   11,525
+         1 p. m.     |  3.41 |   11,050
+         6.30 p. m.  |  3.41 |   11,050
+     16. 6.30 a. m.  |  3.00 |    9,125
+         1 p. m.     |  3.00 |    9,125
+         6.30 p. m.  |  2.91 |    8,700
+     17. 6.30 a. m.  |  2.5  |    6,900
+         1 p. m.     |  2.5  |    6,900
+         6.30 p. m.  |  2.5  |    6,900
+     18. 6.30 a. m.  |  2.5  |    6,900
+         1 p.m.      |  2.41 |    6,500
+         6.30 p. m.  |  2.33 |    6,200
+     19. 6.30 a. m.  |  2    |    4,900
+         1 p. m.     |  2    |    4,900
+         6.30 p. m.  |  2    |    4,900
+
+
+
+
+DAMAGES.
+
+GENERAL STATEMENTS.
+
+
+Estimates of flood damages are always approximations only. It is
+possible to determine with a fair degree of assurance the cost of
+replacing structures which have been carried away, to estimate the value
+of goods destroyed--especially if they be commodities stored in shops or
+warehouses--to calculate the amount of operatives' wages lost, and in
+the case of general mercantile business to estimate the damages incurred
+through consequent reduction of trade. Destruction by flood, however
+vast, is incomplete. It differs materially from destruction by fire, for
+often destructible property is of value after floods have passed.
+Buildings which are inundated still retain value, and many kinds of
+merchandise are not totally destroyed. Therefore when the amount of
+damages is calculated there is always to be taken into consideration the
+fact that a part of the material which has been flooded can be
+reclaimed, and retains some proportion, at least, of the value which it
+had previously possessed. Furthermore, damages by flood enter into
+practically every detail of social and business affairs. There are
+losses which are severe to one or more persons, and which can not be
+appreciated except by those whom the floods have actually overtaken.
+Therefore estimations of flood damages can be only approximate, and
+while a measure of accuracy may be reached with respect to a part of the
+losses, there remains a necessity for approximation which can not be
+classed with carefully computed damages along other lines.
+
+
+HIGHLAND TRIBUTARIES.
+
+Along the three northern tributaries, the Ramapo, Wanaque, and Pequanac,
+and at their confluence with the Pompton, the destruction by flood
+waters was far greater than along the Rockaway, Whippany, and upper
+Passaic, or in that area described as the Central Basin. In the drainage
+areas of the three tributaries last mentioned the waters were higher
+than in the flood of 1902, but the general effects were of the same
+nature, and consisted principally of flooded lands, houses, and
+washouts. There were few radical cases of complete destruction like
+those which marked the course of the flood in the northern tributaries.
+The principal interest is therefore confined to the Pompton and the
+three highland tributaries which discharge into it.
+
+_Ramapo River._--The greatest destruction was along the Ramapo. It is
+the largest of the upland branches, and was therefore the heaviest
+contributor to the main stream. Throughout the flood period the stream
+was especially violent, causing great apprehension in the lower valley.
+
+The destruction along several stretches of the valley was almost
+complete. Nearly all the dams failed, and every bridge across the river,
+with one exception, was carried away. Some small villages were swept
+bare, and the damages to realty value and personal property were
+excessive.
+
+It was only by strenuous measures that the dam impounding the waters of
+Tuxedo Lake was saved. If this had failed the destruction along the
+entire course of the river, even to the cities in the lower valley,
+would have been enormously increased.
+
+The dam at Cranberry Pond, in Arden, failed in the early part of the
+storm, the flood waters disabling the Tuxedo electric-light plant and
+inundating the Italian settlements along the river below. The failure of
+the dam conserving the waters of Nigger Pond, which lies at the head of
+a small tributary emptying into the Ramapo below Tuxedo, resulted in the
+inundation of Ramapo village. The village of Sloatsburg was practically
+obliterated.
+
+The damage at Pompton Lakes was especially severe. During the early part
+of the flood the timber dam of the Ludlum Steel and Iron Company, which
+raised the water to a height of 27 feet, and afforded 7.04 horsepower
+per foot fall, was carried away with a part of the headrace. (See Pl.
+II, _A._) This sudden emptying of Pompton Lake, an expanse of 196 acres
+(see Pl. II, _B_), was extremely destructive to Pompton Plains, and the
+destruction of the dams above on Ramapo River, which followed some time
+after the bursting of the lower dam, refilled Pompton Lake above its
+former level, and caused greater damage than that which resulted from
+the failure of Pompton dam itself. The large iron bridge just below the
+dam was carried away, with the stores of the Ludlum Steel and Iron
+Company. The river front along this company's property was destroyed,
+along with coal docks at the head of Morris Canal feeder. The channel of
+the river below the dam is filled with debris, which will raise the
+height of the water in the tailrace, and unless it is cleared will
+diminish the available power at the iron works. It has been
+authoritatively announced, however, that the power facilities will not
+be restored, as the Ludlum Steel and Iron Company is preparing to use
+steam power exclusively.
+
+_Pequanac and Wanaque rivers._--Along Pequanac River the principal
+damage consisted of washed-out roads and destroyed bridges. The large
+ponded area in this basin was practically full at the time of the flood,
+and, as measurements at Macopin dam show, the run-off per square mile
+was extremely large. In the Wanaque drainage area the storage facilities
+afforded at Greenwood Lake were probably useful in holding back a part
+of the water for a brief period, but the damages along the stream are
+comparable to those of the Pequanac.
+
+The effect of the flow from these two streams, added to that of the
+Ramapo, was particularly disastrous over the Pompton Plains. Three
+
+       *       *       *       *       *
+
+U. S. GEOLOGICAL SURVEY WATER-SUPPLY PAPER NO. 92 PL. II
+
+[Illustration: _A._ POMPTON LAKES DAM AND WATER FRONT OF LUDLUM STEEL
+AND IRON COMPANY.]
+
+[Illustration: _B._ DRY BED OF POMPTON LAKE.]
+
+U. S. GEOLOGICAL SURVEY WATER-SUPPLY PAPER NO. 92 PL. III
+
+[Illustration: FLOOD DISTRICT OF PATERSON, N. J.]
+
+       *       *       *       *       *
+
+bridges at Pompton station, over Wanaque and Pequanac rivers, were
+carried away, and in the end one bridge only remained over Pompton
+River, that at Pequanac station. In all about 100 houses were inundated
+on Pompton Plains, and the damage to roads and culverts was particularly
+severe.
+
+The total loss in the drainage area of Pompton River was $350,000.
+
+
+CENTRAL BASIN.
+
+Over the Central Basin there was the usual impounding of flood waters,
+but the effects were not materially different from those described in
+the report on the flood of 1902. The damage along this basin from floods
+of this character is accumulative by reason of the fact that the
+presence of water over the land for so long a period kills the desirable
+feed grasses and fosters in their place the coarse meadow grass. This
+effect has been observed for some years, particularly since the flood of
+1896. It is estimated that over the Central Basin the damage to crops
+and arable land alone arising from the floods of 1902 and 1903 amounts
+to $300,000. A statement of the damage arising from the later flood can
+not separately be made, as its effect upon the fertility of the meadow
+lands can not be determined without the experience of a planting season.
+
+
+LOWER VALLEY.
+
+The flow of the stream through the constricted channel at Little Falls
+and on to Great Falls at Paterson is given in the weir measurements on
+page 17. It was attended by comparatively large damages, the features of
+which were not materially different from those described in the previous
+report. The pumping station of the East Jersey Water Company, situated
+just below Little Falls dam, did not suffer as severely as during the
+previous flood, by reason of the fact that extensive and effective
+barricades were placed so as to keep a large part of the water away from
+the pumps. This was not accomplished in the flood of 1902. The total
+damage in this district amounted to nearly $200,000.
+
+The channel contours were changed somewhat in this portion of the
+stream. In the river at the pumping station of the East Jersey Water
+Company there was completed a somewhat interesting cycle of changes,
+described in the following extract of a letter from Mr. G. Waldo Smith,
+chief engineer for the New York aqueduct commissioners, and formerly
+engineer and superintendent of the East Jersey Water Company:
+
+"No better illustration of the old adage, 'The river claims its own,'
+could be given than that offered by the action of Passaic River at
+Little Falls, New Jersey, at the point where the works of the East
+Jersey Water Company have been constructed. These works were built
+between 1897 and 1900. In the course of the work the river channel for a
+distance of several thousand feet down stream from the power house was
+drained and improved, so that the head on the wheels at the ordinary
+stage of the river was increased about 6 feet. From the time this
+improvement was completed to March, 1902, through the action of the
+ordinary flow of water and moderate floods, this head had been reduced
+about one-third. The great freshet of March, 1902, cut off about another
+third, and the recent flood has completed the cycle and entirely wiped
+out the benefit due to the river improvement, and the water at the
+pumping station stands now at almost precisely the same level that it
+stood before any improvements were undertaken. New bars were formed in
+approximately the same location as they existed before, and, so far as
+possible, except for the changed conditions brought about by the
+building of the power station, the condition of the river is not
+dissimilar to that existing when the work was commenced.
+
+"In this connection it might be well to state that a New Jersey drainage
+commission, in blasting out a channel below the Little Falls dam some
+years ago, dumped a considerable portion of the excavation in the deep
+water under the Morris Canal viaduct.
+
+"The action of the two great floods, March, 1902, and October, 1903, has
+washed a large part of this material out of this deep hole and piled it
+up in the river about 300 feet below where the river widens, and reduces
+the force of the current.
+
+"I have made no estimate of the amount of material deposited in the
+river, but offhand should say that it would be at least 100,000 yards."
+
+_Paterson._--The flood district in the city of Paterson (see Pl. III)
+comprised 196 acres and involved the temporary obstruction of 10.3 miles
+of streets. Along the streets close to the river banks the height of
+water was 12 feet, sufficient to inundate the first floors of all the
+buildings (see Pl. I, _B_), and in some cases to reach to the second
+floor. During this flood period householders who remained at their homes
+were compelled to use boats, while in the more exposed places the danger
+was too great to admit of remaining, and at one time 1,200 persons were
+housed and fed in the National Guard armory at Paterson.
+
+The bridges crossing Passaic River in Passaic, Essex, and Bergen
+counties were almost completely destroyed, and the damage amounted to
+$654,811. Within the limits of Paterson, below Great Falls, all of the
+highway bridges except two were either severely damaged or completely
+carried away. West street bridge, the first below the falls, was a Melan
+concrete, steel-arch structure, built in 1897, and costing $65,000. It
+was composed of three spans, each about 90 feet long. The flood
+practically split two spans longitudinally, the upstream side of each,
+equal to about one-third of the width of the bridge, being carried
+
+       *       *       *       *       *
+
+U. S. GEOLOGICAL SURVEY WATER-SUPPLY PAPER NO. 92 PL. IV
+
+[Illustration: _A._ WASHOUT AT SPRUCE STREET, PATERSON, N. J.]
+
+[Illustration: _B._ RIVER STREET, PATERSON, N. J., AFTER FLOOD.]
+
+U. S. GEOLOGICAL SURVEY WATER-SUPPLY PAPER NO. 92 PL. V
+
+[Illustration: _A._ EFFECTS OF FLOOD IN MILL DISTRICT, PATERSON, N. J.]
+
+[Illustration: _B._ THE WRECK OF A HOTEL IN PATERSON, N. J.]
+
+       *       *       *       *       *
+
+away. This structure was built to conform to the established grades of
+streets on both sides of the river and was completely inundated, forming
+a barrier for floating debris and practically making a dam in the river.
+Main street bridge is a 3-span, steel-arch structure, which was
+completely covered during the flood, but was only slightly injured. Arch
+street bridge, built in 1902 to take the place of a structure carried
+away by the March flood, was a concrete-arch bridge of three spans. It
+was undermined at the north pier and collapsed, being practically
+destroyed. The original cost of this bridge was $34,000. Its piers
+presented a serious obstruction to the flow of the stream, especially as
+the channel is very narrow at this point. In addition to this, the
+bridge was of low grade and admirably adapted for deterring flood flow.
+Below Arch street bridge all the other structures crossing the Passaic
+were of iron and were carried away, with the exception of Sixth avenue
+and Wesel bridges. Those destroyed were designated as follows: Straight
+street, Hillman street, Moffat, Wagaraw, Fifth avenue, East Thirty-third
+street, and Broadway bridges. All these structures were built too low,
+and were inundated during the early stages of the flood.
+
+The damage to real property, stock, and household goods in the city of
+Paterson amounted, according to certified returns, to about $2,700,000.
+It is impossible to secure correct figures, because merchants and
+manufacturers refuse to give details of losses, fearing that the
+publication thereof would affect their credit. General ideas concerning
+the destruction by the flood can be gathered from Pls. I, _B_, III, IV,
+V, and VI.
+
+_Passaic and vicinity._--Below the city of Paterson destruction was as
+complete as in Paterson, although the damage was not as great because
+the improvements were not as valuable. Damage to property, exclusive of
+public works, in this region, amounted to about $1,250,000. This
+estimate does not take into consideration losses by manufacturers
+arising from destruction of raw materials or finished products. The
+flood was about 4-1/2 feet higher than that of 1902. (See Pl. VII, _A._)
+
+On the right bank of Passaic River, in the city of Passaic, the damage
+was severe, especially to manufacturing plants. In addition to the flood
+in the Passaic itself, the bursting of Morris Canal, a few miles east of
+Passaic, flooded Wesel Brook, which in Passaic is used as the tail-race
+of the Dundee Power Company. The capacity of Wesel Brook channel is
+limited, and the extraordinary amount of water which was turned into it
+carried away all culverts and bridges from Richfield to Passaic.
+
+Below Passaic, along the river front of Essex County, the damages to
+bridges amounted to $50,000. (See Pl. VII, _B._) The loss due to
+washouts in roads throughout the county amounted to $15,000. The
+effects of the flood were apparent along the entire length of the river
+and into Newark Bay. The damage from inundation in Newark and vicinity
+amounted to $753,199.
+
+The figures above given with reference to damage along Passaic River are
+uncommonly accurate, being for the most part the result of a
+house-to-house canvass by the northern New Jersey flood commission. As
+has been stated above, tradesmen are reluctant to give full details with
+reference to their losses through fear of injured credit. Roughly
+estimating the damage as a whole, and taking into consideration factors
+which were given to the writer confidentially, the damage throughout the
+drainage area from this flood will amount to not less than $7,000,000.
+
+
+PREVENTIVE MEASURES.
+
+GENERAL DISCUSSION.
+
+In the consideration of means of preventing damages by floods every plan
+proposed falls under one of two general heads--the storage of flood
+waters or an increase in the capacity of the streams.
+
+The first plan involves the construction at selected localities of
+reservoirs of sufficient size to hold all or a greater part of the
+waters which run over the surface during and after storms. This plan is
+not practicable except where valleys or plains are inclosed by high
+ridges and these ridges approach sufficiently near each other to admit
+of the economical construction of a bank or dam across the gorge or bed
+of the stream which flows through, so that the inclosure will be
+complete and form a water-tight basin. Where such a reservoir exists the
+water can be held back and gradually let down through properly provided
+gates so that the channel will not be flooded.
+
+For flood purposes alone it would be necessary to provide reservoirs of
+sufficient capacity to contain the run-off waters resulting from the
+largest storms. With such provisions it would be necessary to entirely
+empty the reservoir as soon as possible after a storm had passed and
+leave its full capacity available for the next storm. It is therefore
+better, wherever possible, to provide a reservoir capacity considerably
+larger than that represented by the run-off from the heaviest storms, so
+that water may be stored for use as power or domestic supply. With such
+provision it is necessary merely to draw from the reservoir water to a
+depth equivalent to the stream run-off in the drainage area above.
+
+The second plan for prevention of flood damages involves provisions for
+letting the flood water out rapidly by removing obstructions to its flow
+by straightening and deepening the channels and providing long
+embankments, dikes, or levees which rise above the ordinary river level
+to a height exceeding that of the stream during its highest floods. This
+plan is most generally followed in the case of large rivers like
+
+       *       *       *       *       *
+
+U. S. GEOLOGICAL SURVEY WATER-SUPPLY PAPER NO. 92 PL. VI
+
+[Illustration: _A._ DEVASTATION IN HEBREW QUARTER, PATERSON, N. J.]
+
+[Illustration: _B._ A COMMON EXAMPLE OF FLOOD DAMAGE.]
+
+U. S. GEOLOGICAL SURVEY WATER-SUPPLY PAPER NO. 92 PL. VII
+
+[Illustration: _A._ INUNDATED LANDS AT PASSAIC, N. J.]
+
+[Illustration: _B._ UNDAMAGED BRIDGE ACROSS PASSAIC RIVER AFTER PARTIAL
+SUBSIDENCE OF FLOOD.]
+
+       *       *       *       *       *
+
+the Mississippi, where the contributing area is enormous and the
+conservation of the waters would be impracticable even if the nature of
+the country would admit of the construction of reservoirs. In
+Switzerland, where the torrents occasioned by the rapidly melting snows
+are especially destructive, the flood waters are confined by a series of
+parallel dikes on each side of the river, which have the effect of
+dividing the flow into several parallel streams. As the main river
+channel fills and overflows the inner dikes, the overflow water collects
+into the first series of parallel channels, and when a height is reached
+at which the second dikes are overflowed the water collects into the
+third, and so on. This gives an enormous carrying capacity, the limit of
+which is approached slowly, and therefore abundant opportunity is
+afforded for preparation upon the part of the riparian owner.
+
+The drainage basin of Passaic River is admirably adapted to the
+development of the conservation system. At its headwaters in the
+mountains of northern New Jersey are numerous sites for reservoirs. The
+comparatively limited area draining into Passaic River makes such a
+scheme relatively inexpensive. On the other hand there is abundant
+opportunity for effective work in removing obstructions and
+straightening and deepening the channel of the lower river. So that, all
+things considered, the prevention of flood damages in the Passaic Basin
+can be best accomplished by a combination of the two general methods
+above outlined.
+
+
+LOWER VALLEY IMPROVEMENTS.
+
+The channel of Passaic River below Great Falls, at Paterson, is of
+limited capacity. To anyone making an inspection, especially within the
+city of Paterson, it is readily apparent that the river bed has for
+years been considered a legitimate field for encroachment. Owners of
+lands fronting on the river have increased their holdings by filling in
+beyond the channel line. Buildings have been erected upon these tracts
+and the builders have not hesitated to extend retaining walls still
+farther into the river bed. Refuse from the city's streets, light and
+unstable in character, has been freely deposited upon the bank to be
+carried out into the river. Thus the channel has been constricted
+laterally, the bottom raised, and there is left for the flood waters no
+alternative than that of extending themselves in the upward direction.
+It would seem that this, at least, should have been unobstructed. Such,
+however, is not the case.
+
+The bridges across the Passaic have apparently been erected without
+reference to channel capacity. The authorities have evidently considered
+it more important to retain established approach levels than to provide
+proper capacity for river water. As an example the following instance
+may be cited: During the flood of 1902 a steel truss bridge across the
+river in Paterson was carried away. The point of crossing was one of
+the narrowest places in the stream and it should have been clear to
+everyone that the space beneath the bridge was not large enough to carry
+flood waters. It should have been apparent that a new bridge, if erected
+at that point, must be higher than the old one, to be thoroughly safe.
+Notwithstanding, the new bridge was erected at the level of the old one,
+and in addition to this, it was a concrete arch structure, and the great
+piers and low arch springs reduced the former channel capacity about 15
+per cent. This new bridge, as might be expected, collapsed during the
+October flood.
+
+Along the entire course of the stream in the lower valley we find a
+continuation of instances of unreasonable encroachment and
+ill-considered bridge engineering, and there is opportunity for
+relieving a large part of the purely local obstructions by straightening
+the channel at chosen points.
+
+Although this matter has not been thoroughly investigated it is readily
+apparent to one traversing the river bank that considerable relief may
+be secured in this manner. Damage, however, can not be prevented by this
+means alone. It would, of course, be possible to erect high and
+resistant levees along the entire course of the river, but this would be
+extremely expensive and would destroy the water front for commercial
+purposes. In fact, such a plan is quite visionary. At the present time
+there are no obstructions in lower Passaic River the removal of which
+would give relief in the event of floods like those of 1902 and 1903.
+When one considers the amount of water which was carried into the lower
+valley, the heights which it reached, and the area which it inundated,
+the futility of any local improvement except levee construction is
+emphasized. The present channel of the river will not carry without
+damage the amount of water recently thrown into it, and while it is
+important to provide regulations which will in the future prevent
+encroachment, and which will correct the evils now present along the
+channel, these measures can not, operating of themselves, give relief
+from flood devastation. Immunity from flood destruction in the Passaic
+must come, if it ever comes, from the construction of flood-catchment
+reservoirs in the uplands.
+
+It is not necessary to spend any great amount of time in determining the
+cause of floods upon the Passaic. A review of the flood history of this
+river shows that in every case floods arise from extraordinary
+precipitation. High waters occur through the melting of snows and during
+periods of abundant rain. The heavy floods which have been regarded as
+extraordinary are clearly the result of unusual conditions of
+precipitation. The river carries the usual flood waters, and no damage
+is done until the water poured into it is far beyond its carrying
+capacity. Therefore the provisions which are made for preventing damage
+by floods must, if they be effective, be designed to meet extraordinary
+conditions, and means which would prove effectual in ordinary cases
+will not stand the test. In order to appreciate the extent of the flood
+in the lower valley it is necessary to visit the flooded area and
+observe the points of flood height. Unless one does this he will be very
+readily deceived when he considers means of flood prevention.
+
+
+FLOOD CATCHMENT.
+
+Among the highland tributaries of Passaic River there are three
+principal areas where storage reservoirs for flood catchment may be
+placed: (1) The Ramapo, Wanaque, and Pequanac drainage basins, from
+which the waters are carried into the central basin by Pompton River;
+(2) the Rockaway drainage basin, and (3) the upper Passaic drainage
+basin. The remaining principal tributary of Passaic River, the Whippany,
+is not well provided with storage reservoir sites. The combined capacity
+of catchment reservoirs which could be constructed in these drainage
+areas is considerably more than the volume of the heaviest known
+rainfall, that of October 8-11, 1903.
+
+In the description of reservoir possibilities in the following pages the
+data with reference to many of the basins are computed from planimeter
+and other measurements, the United States Geological Survey topographic
+maps being used as a base. The measurements are therefore not of refined
+accuracy but suffice for the purpose in view--that of showing flood
+catchment possibilities.
+
+
+POMPTON RESERVOIR.
+
+There are in the Pompton system several sites on Ramapo, Wanaque, and
+Pequanac rivers which, if utilized, would afford sufficient storage for
+flood catchment purposes, but the entire flow of the river system may be
+conserved in what has been described as the Pompton reservoir. This
+project was first presented by Mr. C. C. Vermeule in the year 1884, the
+details being described at some length in the Engineering News, of April
+12 of that year, pages 169-171. In this article Mr. Vermeule presented
+the possibilities of Pompton reservoir for use as an additional water
+supply for the city of New York, at the time when the Quaker Bridge
+reservoir on the Croton watershed was being considered. A few pertinent
+quotations from this article may be of interest:
+
+     This basin, subdivided by minor ridges which cross it, furnishes
+     several admirable sites for large storage reservoirs, with
+     catchments from 50 to 400 square miles in area, lying above on the
+     primitive rock of the Highlands. About 6 miles of the northeastern
+     end of the basin is cut off by Hook Mountain, a small ridge of trap
+     which crosses it from east to west, inclosing a basin 21 square
+     miles in area, known as Pompton Plains, having its outlet at
+     Mountain View, 5 miles west of Paterson, at a pass in Hook
+     Mountain, through which the Pompton River flows to join the
+     Passaic, 2 miles below. This pass is the gateway by which the
+     Delaware, Lackawanna and Western Railroad, the New York and
+     Greenwood Lake Railway, and the Morris Canal enter the plains. The
+     basin is also crossed near its head, above Pompton, by the New
+     York, Susquehanna and Western Railroad.
+
+     The Pompton River has a drainage area above Mountain View of 420
+     square miles. It is formed near the head of the basin by the
+     confluence of the Pequanac from the northwest, the Wanaque from the
+     north, and the Ramapo from the northeast. * * *
+
+     The entire flow from this watershed may be stored by building a dam
+     across the gap at Mountain View and converting Pompton Plains into
+     a great lake covering an area of 21 square miles. The elevation of
+     the river at the gap is 168 feet. The slopes in the basin being
+     gentle up to an elevation of 220 feet and abrupt beyond it, it will
+     be advisable to take this as the minimum or low-water level of our
+     reservoir. It is generally estimated that 25 per cent of the volume
+     of the mean annual rain on a given catchment is sufficient
+     reservoir capacity to fully utilize the flood flows. We have long
+     series of observations of rainfall at three points, which may be
+     taken to fairly represent the Passaic catchment. At Newark the mean
+     annual rainfall is 46.2 inches, at Paterson, 50 inches, and at Lake
+     Hopatcong, 42. The last being on the Highlands, like most of our
+     watersheds, is perhaps the safest to use. Now, 25 per cent of 42.5
+     inches, 10.62 inches, which, on 420 square miles, give a volume of
+     10,362,000,000 cubic feet, the necessary capacity of reservoir.
+
+     By raising our reservoir to 240 feet when full we secure a capacity
+     of 10,493,000,000 cubic feet, or ample to utilize the heaviest
+     floods of the watershed. This gives a beautiful sheet of water 21.1
+     square miles in area, with bold, rocky shores, and a depth at dam
+     of 72 feet. We secure the above capacity by uncovering but 22 per
+     cent of the reservoir bottom; and, as we shall presently see, we
+     shall rarely need more than half this storage, and probably not
+     oftener than once in ten years will we expose over 10 per cent of
+     the area. By building side dams to keep certain flats always flowed
+     this may be reduced to 5 per cent; and this area will be pretty
+     evenly distributed around 36 miles of uninhabited shore line,
+     leaving the reservoir open to no valid sanitary objections. On the
+     contrary, by relieving the remainder of the Passaic Basin of the
+     flood waters of the Pompton, which now flow large areas of flat
+     land during wet seasons, the sanitary condition of the valley would
+     be much improved.
+
+In constructing this reservoir Mr. Vermeule stated that the following
+work would be necessary:
+
+     The removal of the Delaware, Lackawanna and Western Railroad from
+     the basin by changing the alignment for 6 miles. It may be done
+     without increase of length or detriment to the alignment.
+
+     Three and one-fourth miles of the Morris Canal must be rebuilt. No
+     engineering difficulties are involved.
+
+     Of the New York and Greenwood Lake Railway, 9 miles would have to
+     be rebuilt.
+
+     The New York, Susquehanna and Western Railroad would be slightly
+     shifted or raised for 3-3/4 miles.
+
+     A dam 2,400 feet long and 80 feet in height, with tunnels,
+     wasteweir, and accessory works would be required at Mountain View.
+     The situation is such that an ample wasteweir may be built at a
+     low-side dam on the solid rock of Hook Mountain remote from the
+     dam, and outlets may be had by tunneling the same ridge. Hence the
+     dam may be a plain, heavy earthen embankment; built, of course,
+     with every precaution but subject to less than the usual dangers of
+     such works. However, a masonry dam might readily be substituted.
+
+     There would be 14,000 acres of arable land, swamps, and rough
+     mountain land flowed.
+
+     The works are estimated to cost as follows:
+
+     Railroad and canal diversions                $505,000
+     Dam and accessory works                     1,162,000
+     Land damages                                1,400,000
+                                                 _________
+     Total                                       3,067,000
+
+A recomputation of the drainage area above Mountain View, made by the
+northern New Jersey flood commission, shows that it is 380 square miles
+in extent. It was decided by this commission that the construction of
+this reservoir would be the most approved method of preventing
+disastrous floods in the lower valley of the Passaic. By raising a dam
+to a height of 202 feet above tide, 8 inches of water on the drainage
+area above might be held back, which, it was believed, would be a
+sufficient maximum for flood catchment. With this amount of storage the
+estimates of the flood commission showed that the remainder of the
+drainage area would not turn a sufficient amount of water into the lower
+valley channel to cause flood damages.
+
+It was also demonstrated by the flood commission that by increasing the
+height of the dam an opportunity would be afforded for conserving water,
+and at the maximum height of 220 feet above tide sufficient storage
+capacity would be available to provide 5,000 horsepower at Little Falls,
+Great Falls, and Dundee dam throughout all dry seasons. The value of
+such a storage reservoir for municipal water-supply purposes is
+self-evident.
+
+The cost of Mountain View reservoir would be about $3,340,000. Developed
+for flood catchment with the spillway of the dam at 202 feet above sea
+level the area of the reservoir would be 13.4 square miles, and the
+storage capacity 7,200,000,000 cubic feet.
+
+
+RAMAPO SYSTEM.
+
+Along the Ramapo Valley there are alternative propositions, one of which
+involves the construction of a dam below Darlington and another across
+the head of Pompton Lake.
+
+In either case the water might be raised to the 300-foot contour, and if
+the dam across Pompton Lake were constructed a continuous lake would be
+formed extending 10-1/2 miles to Hillburn, N. Y. The improvement in
+either case would be positive, for as the country surrounding is hilly
+or mountainous it affords excellent opportunity for the location of
+summer homes and parks, the lake being a potent factor in beautifying
+the situation and increasing the value of the surrounding region. There
+are, nevertheless, several things to be taken into consideration, the
+most important of which are the improvements which have been made by
+wealthy residents along the valley where it has already been developed
+as a summer resort.
+
+By the construction of a dam at Darlington 1,100 feet long and 70 feet
+high, the water would be raised to the 300-foot contour. The reservoir
+would have a water area of 2,064 acres, and the approximate storage
+capacity of 2,325,000,000 cubic feet.
+
+A dam across the head of Pompton Lake 2,850 feet long and 100 feet high
+would raise the surface of the proposed lake to the 300-foot contour.
+This reservoir would have an area of 6.19 square miles and a capacity
+of 6,300,000,000 cubic feet, equal to 17.5 inches run-off from the
+drainage area. Here the measure of safety is wide, and if there were
+drawn from the lake an amount of water equal to 12 inches on the
+drainage area there would still be 5.5 inches which could be used for
+compensating purposes.
+
+The construction of either one of the above-described reservoirs would
+involve interstate complications, as the 300-foot contour in Ramapo
+Valley includes a considerable part of the State of New York. This
+obstacle was deemed insurmountable by the northern New Jersey flood
+commission, and that commission directed studies to a reservoir which at
+the time of maximum flood would not back water into New York State to a
+greater height than it already rises during such floods. The following
+description is taken from the report of the engineering committee of the
+flood commission:
+
+     An admirable dam site is offered on Ramapo River about 2 miles
+     above Oakland village. The drainage area tributary to this point is
+     about 140 square miles in extent, the country for the most part
+     being quick-spilling and upland. By constructing there a dam 700
+     feet long and 65 feet high a reservoir with a water surface of 2.8
+     square miles would be afforded, the flow-line elevation being 280
+     feet above tide. The capacity of such a reservoir would be
+     1,768,000,000 cubic feet, equal to about 5.5 inches on the drainage
+     area.
+
+
+WANAQUE SYSTEM.
+
+Near the headwaters of Wanaque River is Greenwood Lake, a large body of
+water described in Water-Supply Paper No. 88. Its value as a flood
+catchment basin is somewhat uncertain, as it is used as a storage feeder
+for Morris Canal. The surface level of this lake is controlled by gates,
+which naturally are operated by the canal authorities for the benefit of
+the canal. Therefore it is the object to store as great a volume of
+water as possible, and the water falls below the dam crest at the outlet
+of the lake only when the dam opens in dry seasons and makes it
+necessary. Under such conditions there is no certainty that storage
+capacity will be available during the time of a great storm, and in fact
+Greenwood Lake has been overflowing at the commencement of the storms
+which caused both of the recent floods.
+
+In view of the condition expressed above it will be necessary in
+providing for flood catchment in the Wanaque drainage area to omit
+entirely from consideration the possibility of assistance from Greenwood
+Lake. Below this point in the basin are several sites at which could be
+raised dams, which would effectually retain a large proportion at least
+of storm run-off. They may be described as follows:
+
+_Midvale reservoir_.--By building a dam 60 feet high and 1,200 feet long
+across Wanaque River near Midvale, a reservoir would be formed which
+would have a water surface of 2.1 square miles and a capacity of
+1,491,000,000 cubic feet. The drainage area above this site is 83 square
+miles, and the storage capacity would therefore be equal to about 7.7
+inches on the drainage area. The construction of this project would
+involve the relocation of about 4-1/2 miles of the New York and
+Greenwood Lake Railroad; the damages apart from this would be nominal,
+the cost of the entire reservoir construction being about $1,000,000.
+
+_Ringwood reservoir_.--Ringwood Creek runs through a gorge about 1 mile
+above its confluence with the Wanaque. Above this is a well-defined
+basin. A dam about 70 feet high and 585 feet long would create a lake
+having an area of 520 acres, the surface of which would be 380 feet
+above sea level. The drainage area tributary to this point has an area
+of about 20 square miles, and as the proposed reservoir would have a
+capacity of 915,800,000 cubic feet, there could be conserved a run-off
+of 20 inches. Allowing for a flood run-off of 12 inches there would
+still be available for compensating purposes 8 inches on the basin,
+equal to 373,550,000 cubic feet. The construction of this reservoir
+would involve the relocation of about 2 miles of the Ringwood branch of
+the New York and Greenwood Lake Railroad, and the condemnation of
+comparatively valuable improvements in the proposed basin.
+
+_West Brook reservoir_.--The drainage from 5.7 square miles might be
+conserved by the erection of a dam on West Brook, a tributary of Wanaque
+River, which enters it from the west. There is an available site at
+which a dam 280 feet high might be erected. At this elevation the length
+along the top would be about 1,150 feet and about 2,330,000,000 cubic
+feet of water would be impounded. Little benefit would be derived from
+such a reservoir, as the limited drainage area affords a comparatively
+small proportion of flood run-off that might be well cared for at a
+lower point. For compensating purposes, however, a reservoir might be
+constructed here, the capacity of which could be adjusted to the actual
+demands. If the dam were raised to a height of about 280 feet from the
+base the storage afforded would be equal to 176 inches on the watershed,
+or about four average years of precipitation, which is far beyond all
+probable storage necessities. The maximum available storage capacity is
+given in this case merely to show possibilities.
+
+
+PEQUANAC SYSTEM.
+
+There are few available reservoir sites of large size along the lower
+reaches of Pequanac River. In the upper basin, however, there is a
+sufficient available storage capacity to afford almost complete control
+of destructive floods from that part of the drainage area. Large tracts
+are already reserved by the city of Newark for collection of municipal
+supply, and the storage capacity developed is sufficient to serve the
+city throughout the driest seasons. The total capacity of Clinton,
+Oakridge, and Canistear reservoirs is about 1,155,000,000 cubic feet.
+These basins are not available for flood catchment, as the water is used
+for city purposes and an endeavor is made to have in storage at all
+times the largest possible amount. The condition is exactly similar to
+that described in the case of Greenwood Lake. In considering the means
+for the construction of flood-catchment reservoirs in Pequanac Basin
+there must be taken into account the conservation and delivery of the
+Newark supply. The adjustments with reference to the amount of water
+available at Macopin intake would have to be met, and if the system were
+interfered with compensation therefore would be taken into
+consideration.
+
+_Newfoundland reservoir_.--Pequanac River passes through a deep gorge
+between Copperas and Kanouse mountains, just below the village of
+Newfoundland. This point has been considered an excellent site for the
+construction of a dam, and in the installation of the present
+water-supply system of Newark it is proposed that the entire valley in
+which Newfoundland is situated be overflowed. The site is one of the
+most advantageous known for the creation of a flood-catchment basin. If
+a dam 50 feet high were erected across this gorge, a lake would be
+formed which would have a surface area of 3.15 square miles and a
+capacity of 3,267,200,000 cubic feet, equal to a storage of about 30.5
+inches on the 46.12 square miles of contributing drainage area. This
+would afford complete protection in case of a sudden run-off of 12
+inches, would provide for the supply of the city of Newark without
+greatly disturbing the present storage system of that city, and would
+still yield a large amount of water for compensating purposes in dry
+seasons.
+
+The construction of Newfoundland reservoir would be very expensive, as
+it would involve the flooding of Newfoundland Village, in which there is
+considerable improved property. About 3 miles of the track of the New
+York, Susquehanna and Western Railroad would be submerged, as well as a
+considerable mileage of macadamized highways. On the whole, however, the
+Newfoundland reservoir project is the most favorable which can be found
+on the Pequanac Basin. There are above this point numerous reservoir
+sites, but their combined capacity would not be equal to that of the
+proposed Newfoundland reservoir, and the construction would be probably
+quite as expensive.
+
+_Stickle Pond reservoir_.--Below Newfoundland there are few available
+places at which water could be stored. Stickle Pond is probably the best
+adapted of any of those available. If a dam 1,050 feet long and 80 feet
+high were erected across the river about 1 mile below the present outlet
+of Stickle Pond, a lake would be formed having a surface area of 422
+acres and a storage capacity of about 800,000,000 cubic feet. The
+drainage area above this dam would be approximately 4 square miles. This
+is a comparatively small amount of storage, yet it would provide for all
+flood catchment in that comparatively limited area and would be of
+assistance at times in compensating the dry flow of the Pequanac.
+
+
+ROCKAWAY SYSTEM.
+
+Rockaway River offers a greater number of available reservoir sites than
+either of the other highland tributaries of the Passaic. Some of the
+reservoirs which could be constructed could be used solely as catchment
+areas to hold back flood waters, while the capacity of others would be
+so much greater than any single flood run-off that they might serve also
+as compensating reservoirs. A large dam is now in process of erection at
+Old Boonton, conserving a considerable amount for the water for the
+municipal supply of Jersey City. This reservoir can not be depended upon
+as a flood-catchment area, as it will be the aim of those in authority
+to maintain the water in it as high as possible.
+
+_Powerville reservoir_.--A short distance above Boonton the erection of
+a comparatively small dam would flood a large, irregular, flat basin
+having an area of a little more than 4-1/2 square miles and extending up
+the Rockaway Valley to Rockaway Village, up Beaver Brook to Beech Glen,
+and north and south for considerable distances. The probable capacity of
+this reservoir has been estimated, and it is fairly certain that it is
+considerably more than would be sufficient for flood catchment. Its
+construction would, moreover, improve the entire valley and be of
+advantage to many interests.
+
+The northern New Jersey flood commission has selected for investigation
+a reservoir site on Rockaway River at Powerville. By the erection of a
+dam across the stream at this point, 28 feet in height and 470 feet
+long, a reservoir 4.6 square miles in area, with a capacity of
+1,565,000,000 cubic feet, would be afforded. The drainage area above
+this point is 114 square miles. The cost of such a reservoir is
+estimated at $600,000.
+
+North from Powerville, near the confines of the proposed Powerville
+reservoir, there is an available reservoir site along Stony Brook. By
+the erection of a dam 1,100 feet long and 120 feet high a lake would be
+formed 645 acres in extent, which would serve as a flood-catchment basin
+and a compensating reservoir. This reservoir would hold approximately
+850,000,000 cubic feet. The construction of a reservoir at this place
+offers no engineering difficulties, and the project may be regarded as
+extremely favorable.
+
+Dixons Pond, west of Rockaway Valley and northwest of Powerville, is a
+small sheet of water which lies in a valley which might be flooded to a
+greater height. By the erection of a dam 450 feet long and 30 feet high
+a lake of 136 acres would be created, which would form a part of the
+flood catchment and compensating service.
+
+_Longwood Valley reservoir_.--A large storage basin is afforded in
+Longwood Valley which, if developed to its full extent, would extend
+from a point about a mile below Lower Longwood 7 miles up the headwaters
+and reach to about 1-1/2 miles above Petersburg. An alternative
+proposition is afforded which involves the submerging of less than half
+this area.
+
+A dam 800 feet long and 55 feet high might be erected across a gorge
+about 1 mile south of Petersburg. There would be formed a lake of about
+1.247 square miles, or 800 acres in extent. The hamlet of Petersburg
+would be submerged, but the damages from the destruction of improved
+property would not be very great, as the improvements and the land are
+not especially valuable. This reservoir would have a capacity of about
+964,000,000 cubic feet and the surface would be at a height of 800 feet
+above sea level.
+
+The alternative plan, that of using a longer stretch of the valley for
+reservoir purposes, would involve the construction about 1 mile below
+Lower Longwood of a dam 1,300 feet long and 110 feet high. The reservoir
+thus formed would be 1,900 acres in extent and contain approximately
+3,447,000,000 cubic feet. The drainage area above this dam is limited,
+and if the reservoir were drawn down to an amount equivalent to 15
+inches upon the drainage area there would still remain an enormous
+amount of water which could be used in a compensatory way to tide over
+dry seasons.
+
+_Splitrock Pond._--By erecting a dam 550 feet long and 30 feet high
+across a gorge at the outlet of Splitrock Pond, a lake could be formed
+having an area of 625 acres and adding to the present storage capacity
+of the lake an amount approximately equal to 475,000,000 cubic feet,
+equivalent to 38.75 inches on the drainage area.
+
+Thus it is seen that if this reservoir were drawn down an amount
+equivalent to 15 inches on the drainage area, which would without doubt
+give sufficient protection from all floods, there would still remain a
+storage capacity of 23.75 inches for compensating purposes in addition
+to the amount now available in Splitrock Pond. This project is one of
+the most attractive in the Rockaway Basin, as the damages which would be
+caused by flooding would be, comparatively speaking, nil. The property
+is, however, now owned by the East Jersey Water Company, and is prized
+highly as a reservoir site by that corporation.
+
+
+UPPER PASSAIC BASIN.
+
+_Millington reservoir._--There is an area of swamp land, comprising a
+part of the drainage area of upper Passaic River above Millington, which
+is known as Great Passaic Swamp. It is bounded on the south by a long,
+narrow trap ridge known as Long Hill, the summit of which ranges from
+400 to 500 feet in elevation, or roughly 200 feet above the border of
+this swamp. To the northwest the land rises gradually toward Trowbridge
+Mountains, while to the northeast is the terminal moraine. The outlet of
+Passaic River at Millington is by a narrow gorge, which offers natural
+facilities for the erection of a dam.
+
+The whole situation is exceptionally good, and the surface of a
+reservoir might be fixed at any elevation between 240 and 300 feet above
+sea level. With the surface of the reservoir at 300 feet a dam 1,600
+feet long and 90 feet high would be required. This lake would have an
+area of 28.46 square miles. The drainage area above Millington has,
+however, an area of only 53.6 square miles, and the proposed reservoir
+would therefore cover more than half of this. Therefore the conservation
+of so large a quantity of water would not be necessary nor advisable,
+unless the beautifying of the surrounding country were an object to be
+taken into consideration, which might be profitable.
+
+A better project, however, would be to construct a dam at Millington 900
+feet long and 50 feet high, the crest being about 260 feet above sea
+level. There would be formed a lake with an area of 19.41 square miles,
+and a capacity of 1,477,600,000 cubic feet, equal to 9.864 feet on the
+drainage area. This project is too great for the necessities here
+presented, and would not be wisely considered unless it were found
+advantageous to improve the country generally as a place of suburban
+residence. The land which would be flooded with the reservoir crest at
+260 feet is of a wet, swampy character, and its value for agricultural
+purposes is somewhat doubtful. Such construction would involve the
+flooding of 13 miles of road, which, however, would not involve a great
+loss of invested capital, as the roads generally are of a poor
+character.
+
+A second alternative would involve the construction of a dam across the
+Millington gorge, 550 feet long and 30 feet high, raising the water to
+240 feet above sea level and creating a lake of 14.40 square miles. This
+would conserve 4,026,000,000 cubic feet, equal to 2.69 feet on the
+drainage area. This would be ample for flood purposes and would still
+afford a large impounded area, as the drawing off of an amount equal to
+10 or even 15 inches on the watershed would not reduce the size of the
+lake to any great extent.
+
+The whole project here presented involves few difficulties, and as the
+drainage area above is of small extent, the mere question of conserving
+the flood waters could be met without great difficulty. The natural
+advantages, however, are so great and the land included within Great
+Passaic Swamp is of so little value that the surrounding country would
+be improved and beautified by the construction of such a reservoir. The
+opportunity for varying the character of the reservoir to meet the ideas
+of those interested seems unexampled, and as a whole it presents an
+extremely interesting field which may be profitably exploited.
+
+
+SADDLE RIVER.
+
+This stream has been described in the report on the flood of 1902,
+already referred to. It contributes a large amount of water to the main
+artery of the Passaic below Dundee dam, and as the river channel at that
+point is overburdened under the present conditions because of lack of
+slope and numerous catchments, together with what is known as the
+Wallington Bend, it increases very materially the damage caused by
+floods.
+
+The most effectual remedy in the case of Saddle River floods is that of
+construction of flood catchments. No studies have been made of the
+situation in the Saddle River drainage area, but a superficial
+inspection of the basin shows that opportunities for the construction of
+flood-catchment reservoirs are not numerous.
+
+
+SUMMARY OF FLOOD-CATCHMENT PROJECTS.
+
+By following the plans described in the preceding pages absolute flood
+catchments may be provided above Little Falls on the Passaic Basin for
+551.7 square miles, leaving only 221.2 square miles from which flood
+run-off would flow immediately. The accomplishment of this would involve
+the construction of Pompton reservoir, which would withhold all flood
+waters from the northern tributaries. It would leave unprovided for 20.2
+square miles on the Rockaway, 71.7 square miles on the Whippany, 46.2
+square miles on the upper Passaic, and 83.7 square miles tributary to
+the Central Basin and not included above.
+
+Leaving Pompton reservoir out of consideration, and conserving flood
+run-off on the Ramapo, Wanaque, and Pequanac rivers, there would be
+absolute flood catchment up to a 12-inch run-off over 494.8 square miles
+above Little Falls. This would leave 278.1 square miles unprovided for,
+the run-off from which would not overburden the channel in the lower
+valley, provided, of course, that channel were improved to a maximum
+carrying capacity.
+
+
+PREFERABLE RESERVOIR SITES.
+
+The following table and discussion of preferable sites for flood
+prevention are taken from the report of the engineering committee of the
+northern New Jersey flood commission:
+
+Table showing detailed facts regarding possible reservoir sites on
+Passaic drainage basin.
+
+KEY:
+A: Area of watershed.
+B: Area of reservoir.
+C: Height of dam.
+D: Length of dam.
+E: Elevation of flow line.
+F: Storage, watershed.
+G: Storage capacity.
+H: Total cost.
+
+--------------+-----+------+-----+------+------+-------+-------+---------
+Reservoir.    |  A  |  B   | C   |   D  |   E  |   F   |  G    |   H
+--------------+-----+------+-----+------+------+-------+-------+---------
+              | Sq. | Sq.  |Feet.| Feet.| Feet.|Inches.|Million|
+              | mi. | mi.  |     |      |      |       | c.f.  |
+Ramapo        | 140 |  2.8 | 65  | 1,700| 280  |   5.5 | 1,768 | $900,000
+Wanaque       |  83 |  2.1 | 60  | 1,200| 275  |   7.7 | 1,491 |1,000,000
+Newfoundland  |  52 |  1.8 | 40  |   430| 780  |   8   |   966 |1,800,000
+Rockaway      | 114 |  4.6 | 28  |   470| 520  |   6   | 1,565 |  600,000
+Millington    |  56 | 15.8 | 25  |   220| 245  |  31   | 4,060 |  370,000
+Great Piece   | 773 |  37  | 21  | 1,500| 178.5|   9[C]| 8,950 |2,625,000
+Mountain View | 380 | 13.4 | 42  | 2,150| 202  |   8   | 7,200 |3,340,000
+  Do.         | 380 | 13.9 | 44  | 2,380| 204  |   9   | 7,900 |3,460,000
+  Do.         | 380 | 14.3 | 46  | 2,470| 206  |  10   | 8,700 |3,590,000
+  Do.         | 380 | 17.4 | 60  | 3,000| 220  |  17   |15,000 |5,260,000
+--------------+-----+------+-----+------+------+-------+-------+---------
+
+[Footnote C: Including water discharged through fixed openings,
+in a flood similar to that of October, 1903.
+Maximum discharge, 12,000 cubic feet per second.]
+
+     With the exception of the Millington reservoir site where the cost
+     of the dam is a small factor, the elevation of flow line in the
+     various reservoirs which determines the capacity was fixed so as to
+     afford an approximate storage equal to a run-off of about 8 inches
+     from the drainage area above each dam site. This amount is somewhat
+     in excess of the run-off for the flood of October, 1903. It was
+     found impracticable on the Rockaway reservoir site to provide for a
+     storage greater than 6 inches. On the Wanaque the amount which can
+     be stored falls slightly under 8 inches, while on the Ramapo it is
+     possible to obtain only 5-1/2 inches, by reason of the fact that
+     with a greater storage capacity the slack water would reach into
+     New York State. The economical height for a dam at the lower end of
+     the Great Piece Meadow, if such dam is provided with fixed
+     discharge openings which will carry a maximum outflow of 12,000
+     cubic feet per second, will provide a reservoir which will dispose
+     of a run-off of 9 inches on the drainage area above.
+
+     The following combinations of reservoir sites, with their
+     respective drainage areas, proportional storage, and estimated
+     costs, give the facts necessary for final deductions:
+
+--------------+---------------+-----------+---------------+-----------
+              | Drainage      |  Water    |  Equivalent   |
+  Site.       |  area.        |collected. |     area      |   Cost.
+              |               |           |   retarded.   |
+--------------+---------------+-----------+---------------+-----------
+              |_Square miles._| _Inches._ |_Square miles._|
+Ramapo        |          140  |      5.5  |        96.25  |   $900,000
+Wanaque       |           83  |      7.7  |        80     |  1,000,000
+Pequanac      |           52  |      8    |        52     |  1,800,000
+Rockaway      |          114  |      6    |        85.5   |    600,000
+              |---------------+-----------+----------------+----------
+Total         |          389  |           |       313.75  |  4,300,000
+              |=======================================================
+Ramapo        |          140  |      5.5  |        96.25  |    900,000
+Wanaque       |           83  |      7.7  |        80     |  1,000,000
+Rockaway      |          114  |       6   |        85.5   |    600,000
+Millington    |           56  |      31   |        56     |    370,000
+Total         |          393  |           |       317.75  |  3,870,000
+              |=======================================================
+Great Piece   |          773  |      4.5  |       435     |  2,625,000
+Mountain View |          380  |       8   |       380     |  3,340,000
+--------------+---------------+-----------+---------------+-----------
+
+     The necessity to retard the flow of or provide storage for
+     approximately 380 square miles of highland drainage area has been
+     determined after careful study, and there has been deduced an
+     amount which may safely be expected to represent the maximum for
+     the highest floods. When the highland tributaries are sufficiently
+     checked the natural storage on Great Piece Meadow in its effect
+     upon flood control becomes more apparent. Our investigations show
+     that the holding back of the flood flow--that is, 8 inches run-off
+     on approximately 380 square miles of flashy drainage area above
+     Great Piece Meadow--is necessary to reduce the discharge in the
+     river through the city of Paterson to 14,000 cubic feet per second
+     for a flood similar to that of 1903.
+
+     From the foregoing table, in which different reservoir projects are
+     compared, it is seen that only the reservoirs designated as Great
+     Piece and Mountain View will fulfill the requirements within a
+     reasonable limit of cost. It is also shown that a combination of
+     any other available sites would involve the expenditure of more
+     money for their construction and the control of less tributary
+     drainage area than is fulfilled by the demands of the Passaic
+     drainage basin. We are therefore brought to the conclusion that
+     only two of the projects above set forth will be effective. First,
+     the construction of a regulating dam on the main stream above
+     Little Falls, which we have called the "Great Piece" Meadow
+     Reservoir, and second, the building of a dam at Mountain View
+     across Pompton River. The relative cost of these reservoirs,
+     constructed for flood control exclusively, is $2,625,000 for that
+     on Great Piece Meadow and $3,340,000 for the Mountain View site.
+     Details of these estimates are as follows:
+
+_Estimate of cost of Great Piece Reservoir, dam at Little Falls._
+
+[Elevation of flow line, 178.5 feet. Storage and disposal of 9 inches
+collected.[D]]
+
+Earth excavation, 17,600 cubic yards, at 35 cents           $6,160
+Rock excavation, 8,800 cubic yards, at $2                   17,600
+Rubble masonry, 29,100 cubic yards, at $5                  145,500
+Ashlar masonry, 1,800 cubic yards, at $12                   21,600
+Facework of rubble masonry, 2,850 square yards, at $1.50     4,275
+Concrete masonry, 250 cubic yards, at $6                     1,500
+Slope paving, 300 cubic yards, at $2                           600
+Crushed stone, 150 cubic yards, at $1.50                       225
+60-inch cast-iron pipe in place, 360 tons, at $35           12,600
+Relocation of railroads, Erie, 5 miles, at $20,000;
+  Delaware, Lackawanna and Western, 4.5 miles, at $40,000  280,000
+Relocation of highways                                     170,000
+Real estate:
+  Above Mountain View                                      500,000
+  Additional for village of Singac                         100,000
+  22,000 acres, at $50                                   1,100,000
+                                                        ----------
+                                                         2,360,000
+Add for engineering and contingencies                      240,000
+                                                        ----------
+                                                         2,600,000
+Protection of pipe lines, Newark and Jersey City            25,000
+                                                        ----------
+                                                         2,625,000
+
+     The effectiveness of a reservoir built upon the lines proposed in
+     the case of Great Piece Meadow depends upon the adjustment of
+     outflow so that the channel below will not be overborne, while at
+     the same time sufficient storage capacity is afforded to hold
+     temporarily the water which enters above the dam in amount greater
+     than the carrying capacity of the outflow apertures. The dam across
+     Passaic River above Little Falls would be provided with apertures
+     which would discharge 12,000 cubic feet per second under the
+     maximum head in the storage basin. As the flood rises these
+     apertures would discharge a constantly increasing amount of water
+     to the maximum, and for a considerable time thereafter the maximum
+     would be maintained, the discharge decreasing after the flood
+     according to the height of water remaining in the reservoir.
+
+[Footnote D: Includes water discharged through fixed openings for a
+flood similar to that of October, 1903. Maximum flow, 12,000 cubic feet
+per second.]
+
+_Estimated cost of Mountain View Reservoir._
+
+[Elevation of flow line, 202 feet. Storage of 8 inches on watershed.]
+
+Earth excavation:
+  Stripping dam base, 83,500 cubic yards, at $0.30            $25,050
+  Core wall trench, 24,900 cubic yards, at $1                  24,900
+Rock excavation, 10,100 cubic yards, at $2                     20,200
+Rock fill in dam, 197,000 cubic yards, at $1.25               246,250
+Rubble masonry, 23,200 cubic yards, at $5                     116,000
+Concrete, 30,000 cubic yards, at $6                           180,000
+Gate chambers and tunnels                                      65,000
+Reconstruction of highways                                    142,400
+Reconstruction of railroads                                   815,000
+Real estate                                                 1,360,000
+                                                           ----------
+                                                            2,994,800
+Engineering and contingencies                                 325,200
+                                                           ----------
+                                                            3,320,000
+Protection of Newark pipe line                                 20,000
+                                                           ----------
+      Total cost                                            3,340,000
+
+[Same for elevation of flow line, 204 feet. Storage of 9 inches on
+watershed.]
+
+Earth excavation:
+    Stripping dam base, 85,200 cubic yards, at $0.30          $25,560
+    Core wall trench, 26,000 cubic yards, at $1                26,000
+Rock excavation, 10,600 cubic yards, at $2                     21,200
+Rock fill in dam, 214,000 cubic yards, at $1.25               267,500
+Rubble masonry, 24,500 cubic yards, at $5                     122,500
+Concrete, 30,500 cubic yards, at $6                           183,000
+Gate chambers and tunnels                                      65,000
+Reconstruction of highways                                    142,400
+Reconstruction of railroads                                   815,000
+Real estate                                                 1,435,000
+                                                           ----------
+                                                            3,103,160
+Engineering and contingencies                                 336,840
+                                                           ----------
+                                                            3,440,000
+Protection of Newark pipe line                                 20,000
+                                                           ----------
+      Total cost                                            3,460,000
+
+     The final recommendation of the committee involves the
+     consideration of two projects for flood storage, one on Great Piece
+     Meadow and the other above Mountain View on the Pompton. In making
+     such recommendations the committee is of the opinion that it must
+     take into account matters of engineering policy with regard to
+     future needs and contingencies, as well as the bare necessities of
+     the present.
+
+     If there were none other than the single problem of prevention the
+     committee would advise the construction of the reservoir on Great
+     Piece Meadow by reason of its smaller probable cost and its equal
+     efficiency. It is plain, however, that there are many important
+     features of public policy involved in the subject at hand.
+     Population in the valley of the Passaic is developing so rapidly
+     that in only a few years the present sources of water supply will
+     be inadequate. The whole subject of water supply for northern New
+     Jersey demands immediate consideration, and it would not be wise to
+     take up the matter of prevention of flood damage in the Passaic
+     without basing the value of every project upon its adaptability
+     for use in future water-supply needs.
+
+     By expending $2,600,000 a great reservoir could be constructed upon
+     Great Piece Meadow which could not be adapted for any purposes
+     except to regulate floods; it would stand in season and out of
+     season a huge feature of the valley and entirely useless and
+     inoperative save on the occasion of high water. However great might
+     be the needs of the inhabitants of the Passaic Valley for a
+     conserved water supply, the construction on the meadows,
+     representing an enormous expenditure, would furnish no solution of
+     the problem. It would admit of no enlargement for water-supply
+     storage and would be available for no purpose except flood
+     regulation.
+
+     When we consider the Mountain View project, however, we find that
+     as a measure for the prevention of flood damages it fulfills all
+     the requirements and provides in addition all the possibilities and
+     advantages demanded inevitably in the near future. The Mountain
+     View site is an ideal one for the reservoir, and its initial
+     development for flood catchment does not involve the expenditure of
+     a dollar that would be lost in the development of the basin to
+     greater capacities for water supply. From its lowest level, at 202
+     feet above tide, to its maximum capacity, at a level of 220, there
+     would be no depreciation. Every dollar spent in the initial
+     construction would be effective in the maximum development.
+
+     The probable cost of Mountain View reservoir, estimated at
+     $3,340,000, exceeds that of Great Piece by $700,000. It is realized
+     that to many persons this margin may seem very wide. Let us
+     consider briefly just what it really represents.
+
+     Suppose, for example, that the Great Piece project is constructed
+     at a cost of $2,600,000. After the elapse of a few years it will be
+     necessary to provide additional storage in the Passaic highlands
+     for water supply or the maintenance of water power. The Mountain
+     View reservoir, or its equivalent in capacity and cost, will then
+     be necessary. The situation will then be as follows: By
+     constructing the Great Piece reservoir in preference to the
+     Mountain View for flood catchment, $700,000 would be saved. We can
+     consider that this amount might be expended to pay a part of the
+     cost of additional conservation above referred to. If, on the other
+     hand, Mountain View had been constructed, there would have been
+     paid on the final cost of conservance the sum of $3,340,000, which,
+     as stated in previous pages, would also have effected flood relief.
+     There would then be the difference between $2,600,000 and $700,000,
+     or $1,900,000, which represents the actual loss which would accrue
+     by reason of the construction of Great Piece reservoir.
+
+     The engineering committee, after presenting the merits of both
+     Great Piece Meadow and Mountain View projects, therefore recommends
+     the adoption of the latter in spite of its greater cost, because it
+     is believed that in the end the construction of the Great Piece
+     project would involve an expenditure not warranted by public
+     economy or general expediency.
+
+
+
+
+GENERAL CONCLUSIONS.
+
+
+1. Great floods in the Passaic Basin arise only after a specially
+violent precipitation.
+
+2. Under present conditions floods may be expected at frequent
+intervals.
+
+3. A part of the damage along the lower valley is the result of
+encroachments on the part of individuals and public and private
+corporations.
+
+4. The channel in the lower valley may be improved at certain points by
+straightening it and judiciously making cut-offs.
+
+5. Without the construction of numerous levees the lower valley channel
+can not be made to carry great flood waters without damage.
+
+6. Immunity from floods can be effected only by the construction of
+catchment reservoirs in the highlands or levees in the lowlands.
+
+7. Levee construction would involve more damage than is now caused by
+floods, and the cost thereof would be prohibitive.
+
+8. Flood catchment reservoirs may be constructed economically and
+provide storage to compensate for the dry-season flow, thereby
+maintaining water power at Paterson, Passaic, and other points, and
+providing for municipal water supply in the future.
+
+
+
+
+INDEX.
+
+
+Arch street bridge, Paterson, destruction of; 27
+
+
+Beattie's dam, flood flow at; 16-17
+  flood period at; 9
+  view of; 16
+
+Bridges, destruction of; 26-27
+
+
+Capacity of streams, increase in; 28
+
+Central Basin, damage in; 24
+  flood in, descent of; 14-15
+
+Charlotteburg, rainfall at; 11, 12
+
+Chatham, flood period at; 10
+
+Chester, rainfall at; 11
+
+Cranberry Pond, dam at, failure of; 24
+
+
+Damages, discussion of; 23-28
+
+Darlington, reservoir site at; 33
+
+Dixons Pond, reservoir site at; 37
+
+Dover, rainfall at; 11, 12
+
+Drought, relation of rainfall to; 12
+
+Dundee dam, flood flow over; 17-22
+  flood flow over, diagram showing; 20
+  flood period at; 9
+  floods at, comparison of, figure showing; 18
+
+
+East Jersey Water Company, damage at pumping station of; 25-26
+
+Elizabeth, rainfall at; 11
+
+Essex Fells, rainfall at; 11, 12
+
+
+Flood, descent of; 14-22
+  period of; 9-10
+  prevention of; 28-44
+
+Flood damage, plates showing; 26, 28
+
+Floods, general conclusions concerning; 44-45
+
+
+Great Passaic Swamp, reservoir site at; 38-39
+
+Great Piece reservoir, cost of, estimate of; 42
+
+Greenwood Lake, use of; 34
+
+
+Hanover, rainfall at; 11
+
+Hebrew quarter, Paterson, devastation in, plate showing; 28
+
+Highland tributaries, damages along; 23-25
+  descent of flood in; 14-15
+
+Hotel, wreck of, plate showing; 26
+
+Little Falls, dam at, view of; 16
+  damage at; 25-26
+  flood flow at; 16-17
+  flood period at; 9
+  rainfall at; 12
+
+Longwood Valley, reservoir site in; 37
+
+Lower Longwood, reservoir site near; 38
+
+Lower Valley, damage in; 25-28
+  improvements in, discussion of; 29-31
+
+Ludlum Steel and Iron Company, water front of; 24
+
+
+Macopin dam, flood flow at; 15-16
+  flood period at; 10
+
+Main street bridge, Paterson, destruction of; 27
+
+Midvale, proposed reservoir near; 34
+
+Mill district, Paterson, effects of flood in, plate showing; 26
+
+Millington, reservoir site near; 38-39, 40
+
+Mountain View, reservoir site at; 31-33, 40
+
+Mountain View reservoir, cost of, estimate of; 43
+
+
+New York City, rainfall at; 11, 13
+
+Newark, rainfall at; 11, 12, 13
+
+Newark water department, information furnished by; 16
+
+Newell, F. H., letter of transmittal by; 7
+
+Newfoundland, reservoir site near; 36, 40
+
+Nigger Pond, dam at, failure of; 24
+
+
+Oakland, reservoir site near; 34
+
+Obstructions to flow of Passaic River, discussion of; 29-30
+
+Old Boonton, flood period at; 10
+
+
+Passaic, damage at; 27-28
+  inundated lands at, plate showing; 28
+
+Passaic Basin, reservoir sites in upper; 38-39
+  storage facilities in, effect of; 11
+
+Passaic River, bridge over, plate showing; 28
+  flood flow of; 17-22
+    diagram showing; 20
+  flood period on; 10
+  floods on, comparison of, diagram showing; 18
+  flow of, obstructions to; 29-30
+
+Passaic Valley, rainfall in; 11, 12
+
+Paterson, damage at; 26-27
+  flood district of, plate showing; 24
+  flood-water lines in residence district of, plate showing; 16
+
+Hebrew quarter in, devastation in, plate showing; 28
+  mill district, effects of flood in, plate showing; 26
+  rainfall at; 11, 12
+  residence district, flood-water lines in, plate showing; 16
+  views in; 16, 24, 26, 28
+
+Pequanac Basin, reservoir sites in; 35-36, 40, 41
+
+Pequanac River, damage along; 24
+  flood flow of; 16
+  flood period on; 10
+
+Petersburg, reservoir site near; 37
+
+Plainfield, rainfall at; 11
+
+Pompton Lake, dry bed of, plate showing; 24
+  reservoir site at; 33-35
+
+Pompton Lakes, damage at; 24
+
+Pompton Lakes dam, plate showing; 24
+
+Pompton Plains, damage at; 24
+  highest water at; 10
+
+Pompton reservoir, discussion of; 31-33
+
+Powerville, reservoir site near;  37
+
+Precipitation, amount of; 11-14
+
+Prevention of floods, discussion of; 28-45
+
+
+Rainfall, amount of; 11-14
+  relation of drought to; 12
+
+Ramapo River, damages along; 23-24
+  flood on, time of; 9
+
+Ramapo Valley, reservoir sites in; 33-34, 40, 41
+
+Reservoir sites, comparison of; 40-44
+
+Reservoirs for preventing floods, discussion of; 28, 31-40
+
+Residence district, Paterson, flood-water lines in, plate showing; 16
+
+Ringwood, rainfall at; 11, 12
+
+Ringwood Creek, reservoir site on; 35
+
+River street, Paterson, view of; 26
+
+River Vale, rainfall at; 11, 12
+
+Rockaway Basin, reservoir sites on; 37-38, 40, 41
+
+Rockaway River, flood period on; 10
+
+
+Saddle River, reservoir sites on; 39-40
+
+Sherrerd, M. R., aid by; 15
+
+Smith, G. W., quoted on changes in channel at Little Falls; 25
+
+South Orange, rainfall at; 11, 12
+
+Splitrock Pond, reservoir site on; 38
+
+Spruce street, Paterson, washout at, plate showing; 26
+
+Stickle Pond, proposed reservoir at; 36
+
+Stony Brook, reservoir site on; 37
+
+Storage reservoirs for preventing floods, discussion of; 28, 31-40
+
+Streams, capacity of, increase in; 28
+
+
+Vermeule, C. C., quoted on Pompton reservoir; 31-32
+
+
+Wanaque Basin, reservoir sites in; 34-35, 40, 41
+
+West Street Bridge, Paterson, destruction of; 26
+
+West Brook, reservoir site on; 35
+
+
+
+
+PUBLICATIONS OF UNITED STATES GEOLOGICAL SURVEY.
+
+The publications of the United States Geological Survey consist of (1)
+Annual Reports; (2) Monographs; (3) Professional Papers; (4) Bulletins;
+(5) Mineral Resources; (6) Water-Supply and Irrigation Papers; (7)
+Topographic Atlas of United States, folios and separate sheets thereof;
+(8) Geologic Atlas of United States, folios thereof. The classes
+numbered 2, 7, and 8 are sold at cost of publication; the others are
+distributed free. A circular giving complete lists may be had on
+application.
+
+The Bulletins, Professional Papers, and Water-Supply Papers treat of a
+variety of subjects, and the total number issued is large. They have
+therefore been classified into the following series: A, Economic
+geology; B, Descriptive geology; C, Systematic geology and paleontology;
+D, Petrography and mineralogy; E, Chemistry and physics; F, Geography;
+G, Miscellaneous; H, Forestry; I, Irrigation; J, Water storage; K,
+Pumping water; L, Quality of water; M, General hydrographic
+investigations; N, Water power; O, Underground waters; P, Hydrographic
+progress reports. The following Water-Supply Papers are out of stock,
+and can no longer be supplied: Nos. 1-14, 19, 20, 22, 29-33, 46, 57-64.
+Complete lists of series I to P follow. (WS=Water-Supply Paper;
+B=Bulletin; PP=Professional Paper.)
+
+SERIES I--IRRIGATION.
+
+     WS 2. Irrigation near Phoenix, Ariz., by A. P. Davis. 1897. 98 pp.,
+     31 pls. and maps.
+
+     WS 5. Irrigation practice on the Great Plains, by E. B. Cowgill.
+     1897. 39 pp., 11 pls.
+
+     WS 9. Irrigation near Greeley, Colo., by David Boyd. 1897. 90 pp.,
+     21 pls.
+
+     WS 10. Irrigation in Mesilla Valley, New Mexico, by F. C. Barker.
+     1898. 51 pp., 11 pls.
+
+     WS 13. Irrigation systems in Texas, by W. F. Hutson. 1898. 68 pp.,
+     10 pls.
+
+     WS 17. Irrigation near Bakersfield, Cal., by C. E. Grunsky. 1898.
+     96 pp., 16 pls.
+
+     WS 18. Irrigation near Fresno, Cal., by C. E. Grunsky. 1898. 94
+     pp., 14 pls.
+
+     WS 19. Irrigation near Merced, Cal., by C. E. Grunsky. 1899. 59
+     pp., 11 pls.
+
+     WS 23. Water-right problems of Bighorn Mountains, by Elwood Mead.
+     1899. 62 pp., 7 pls.
+
+     WS 32. Water resources of Porto Rico, by H. M. Wilson. 1899. 48
+     pp., 17 pls. and maps.
+
+     WS 43. Conveyance of water in irrigation canals, flumes, and pipes,
+     by Samuel Fortier. 1901. 86 pp., 15 pls.
+
+     WS 70. Geology and water resources of the Patrick and Goshen Hole
+     quadrangles, Wyoming, by G. I. Adams. 1902. 50 pp., 11 pls.
+
+     WS 71. Irrigation systems of Texas, by T. U. Taylor. 1902. 137 pp.,
+     9 pls.
+
+     WS 74. Water resources of the State of Colorado, by A. L. Fellows.
+     1902. 151 pp., 14 pls.
+
+     WS 87. Irrigation in India (second edition), by H. M. Wilson. 1903.
+     238 pp., 27 pls.
+
+The following papers also relate especially to irrigation: Irrigation in
+India, by H. M. Wilson, in Twelfth Annual, Pt. II; two papers on
+irrigation engineering, by H. M. Wilson, in Thirteenth Annual, Pt. III.
+
+
+SERIES J--WATER STORAGE.
+
+     WS 33. Storage of water on Gila River, Arizona, by J. B.
+     Lippincott. 1900. 98 pp., 33 pls.
+
+     WS 40. The Austin dam, by Thomas U. Taylor. 1900. 51 pp., 16 pls.
+
+     WS 45. Water storage on Cache Creek, California, by A. E. Chandler.
+     1901. 48 pp., 10 pls.
+
+     WS 46. Physical characteristics of Kern River, California, by F. H.
+     Olmsted, and Reconnaissance of Yuba River, California, by Marsden
+     Manson. 1901. 57 pp., 8 pls.
+
+     WS 58. Storage of water on Kings River, California, by J. B.
+     Lippincott. 1902. 100 pp., 32 pls.
+
+     WS 68. Water storage in Truckee Basin, California-Nevada, by L. H.
+     Taylor. 1902. 90 pp., 8 pls.
+
+     WS 73. Water storage on Salt River, Arizona, by A. P. Davis. 1902.
+     54 pp., 25 pls.
+
+     WS 86. Storage reservoirs of Stony Creek, California, by Burt Cole.
+     1903. 62 pp., 16 pls.
+
+     WS 89. Water resources of Salinas Valley, California, by Homer
+     Hamlin. 1903.--pp., 12 pls.
+
+The following paper also should be noted under this heading: Reservoirs
+for irrigation, by J. D. Schuyler, in Eighteenth Annual, Pt. IV.
+
+
+SERIES K--PUMPING WATER.
+
+     WS 1. Pumping water for irrigation, by Herbert M. Wilson. 1896. 57
+     pp., 9 pls.
+
+     WS 8. Windmills for irrigation, by E. C. Murphy. 1897. 49 pp., 8
+     pls.
+
+     WS 14. Tests of pumps and water lifts used in irrigation, by O. P.
+     Hood. 1898. 91 pp., 1 pl.
+
+     WS 20. Experiments with windmills, by T. O. Perry. 1899. 97 pp., 12
+     pls.
+
+     WS 29. Wells and windmills in Nebraska, by E. H. Barbour. 1899. 85
+     pp., 27 pls.
+
+     WS 41. The windmill; its efficiency and economic use, Pt. I, by E.
+     C. Murphy. 1901. 72 pp., 14 pls.
+
+     WS 42. The windmill, Pt. II (continuation of No. 41). 1901. 73-147
+     pp., 15-16 pls.
+
+     WS 91. Natural features and economic development of Sandusky,
+     Maumee, Muskingum, and Miami drainage areas in Ohio, by B. H. Flynn
+     and M. S. Flynn. 1904.--pp.
+
+
+SERIES L--QUALITY OF WATER.
+
+     WS 3. Sewage irrigation, by G. W. Rafter. 1897. 100 pp., 4 pls.
+
+     WS 22. Sewage irrigation, Pt. II, by G. W. Rafter. 1899. 100 pp., 7
+     pls.
+
+     WS 72. Sewage pollution near New York City, by M. O. Leighton.
+     1902. 75 pp., 8 pls.
+
+     WS 76. Flow of rivers near New York City, by H. A. Pressey. 1903.
+     108 pp., 13 pls.
+
+     WS 79. Normal and polluted waters in northeastern United States, by
+     M. O. Leighton. 1903. 192 pp., 15 pls.
+
+
+SERIES M--GENERAL HYDROGRAPHIC INVESTIGATIONS.
+
+     WS 56. Methods of stream measurement. 1901. 51 pp., 12 pls.
+
+     WS 64. Accuracy of stream measurements, by E. C. Murphy. 1902. 99
+     pp., 4 pls.
+
+     WS 76. Observations on the flow of rivers in the vicinity of New
+     York City, by H. A. Pressey. 1902. 108 pp., 13 pls.
+
+     WS 80. The relation of rainfall to run-off, by G. W. Rafter. 1903.
+     104 pp.
+
+     WS 81. California hydrography, by J. B. Lippincott. 1903. 488 pp.,
+     1 pl.
+
+     WS 88. The Passaic flood of 1902, by G. B. Hollister and M. O.
+     Leighton. 1903. 56 pp., 15 pls.
+
+     WS 91. Natural features and economic development of the Sandusky,
+     Maumee, Muskingum, and Miami drainage areas in Ohio, by B. H. Flynn
+     and M. S. Flynn. 1904.--pp.
+
+     WS 92. The Passaic flood of 1903, by M. O. Leighton. 1904.--pp., 7
+     pls.
+
+
+SERIES N--WATER POWER.
+
+     WS 24. Water resources of State of New York, Pt. I, by G. W.
+     Rafter. 1899. 92 pp., 13 pls.
+
+     WS 25. Water resources of State of New York, Pt. II, by G. W.
+     Rafter. 1899. 100-200 pp., 12 pls.
+
+     WS 44. Profiles of rivers, by Henry Gannett. 1901. 100 pp., 11 pls.
+
+     WS 62. Hydrography of the Southern Appalachian Mountain region, Pt.
+     I, by H. A. Pressey. 1902. 95 pp., 25 pls.
+
+     WS 63. Hydrography of the Southern Appalachian Mountain region, Pt.
+     II, by H. A. Pressey. 1902. 96-190 pp., 26-44 pls.
+
+     WS 69. Water powers of the State of Maine, by H. A. Pressey. 1902.
+     124 pp., 14 pls.
+
+
+
+SERIES O--UNDERGROUND WATERS.
+
+     WS 4. A reconnaissance in southeastern Washington, by I. C.
+     Russell. 1897. 96 pp., 7 pls.
+
+     WS 6. Underground waters of southwestern Kansas, by Erasmus
+     Haworth. 1897. 65 pp., 12 pls.
+
+     WS 7. Seepage waters of northern Utah, by Samuel Fortier. 1897. 50
+     pp., 3 pls.
+
+     WS 12. Underground waters of southeastern Nebraska, by N. H.
+     Darton. 1898. 56 pp., 21 pls.
+
+     WS 21. Wells of northern Indiana, by Frank Leverett. 1899. 82 pp.,
+     2 pls.
+
+     WS 26. Wells of southern Indiana (continuation of No. 21), by Frank
+     Leverett. 1899. 64 pp.
+
+     WS 30. Water resources of the lower peninsula of Michigan, by A. C.
+     Lane. 1899. 97 pp., 7 pls.
+
+     WS 31. Lower Michigan mineral waters, by A. C. Lane. 1899. 97 pp.,
+     4 pls.
+
+     WS 34. Geology and water resources of a portion of southeastern
+     South Dakota, by J. E. Todd. 1900. 34 pp., 19 pls.
+
+     WS 53. Geology and water resources of Nez Perces County, Idaho, Pt.
+     I, by I. C. Russell. 1901. 86 pp., 10 pls.
+
+     WS 54. Geology and water resources of Nez Perces County, Idaho, Pt.
+     II, by I. C. Russell. 1901. 87-141 pp.
+
+     WS 55. Geology and water resources of a portion of Yakima County,
+     Wash., by G. O. Smith. 1901. 68 pp., 7 pls.
+
+     WS 57. Preliminary list of deep borings in the United States, Pt.
+     I, by N. H. Darton. 1902. 60 pp.
+
+     WS 59. Development and application of water in southern California,
+     Pt. I, by J. B. Lippincott. 1902. 95 pp., 11 pls.
+
+     WS 60. Development and application of water in southern California,
+     Pt. II, by J. B. Lippincott. 1902. 96-140 pp.
+
+     WS 61. Preliminary list of deep borings in the United States, Pt.
+     II, by N. H. Darton. 1902. 67 pp.
+
+     WS 67. The motions of underground waters, by C. S. Slichter. 1902.
+     106 pp., 8 pls.
+
+     B 199. Geology and water resources of the Snake River Plains of
+     Idaho, by I. C. Russell. 1902. 192 pp., 25 pls.
+
+     WS 77. Water resources of Molokai, Hawaiian Islands, by Waldemar
+     Lindgren. 1903. 62 pp., 4 pls.
+
+     WS 78. Preliminary report on artesian basins in southwestern Idaho
+     and southeastern Oregon, by I. C. Russell. 1903. 52 pp., 2 pls.
+
+     PP 17. Preliminary report on the geology and water resources of
+     Nebraska west of the one hundred and third meridian, by N. H.
+     Darton. 1903. 69 pp., 43 pls.
+
+     WS 90. Geology and water resources of a part of the lower James
+     River Valley, South Dakota, by J. E. Todd and C. M. Hall.
+     1904.--pp., 23 pls.
+
+The following papers also relate to this subject: Underground waters of
+Arkansas Valley in eastern Colorado, by G. K. Gilbert, in Seventeenth
+Annual, Pt. II; Preliminary report on artesian waters of a portion of
+the Dakotas, by N. H. Darton, in Seventeenth Annual, Pt. II; Water
+resources of Illinois, by Frank Leverett, in Seventeenth Annual, Pt. II;
+Water resources of Indiana and Ohio, by Frank Leverett, in Eighteenth
+Annual, Pt. IV; New developments in well boring and irrigation in
+eastern South Dakota, by N. H. Darton, in Eighteenth Annual, Pt. IV;
+Rock waters of Ohio, by Edward Orton, in Nineteenth Annual, Pt. IV;
+Artesian well prospects in Atlantic Coastal Plain region, by N. H.
+Darton, Bulletin No. 138.
+
+
+SERIES P--HYDROGRAPHIC PROGRESS REPORTS.
+
+Progress reports may be found in the following publications: For
+1888-89, Tenth Annual, Pt. II; for 1889-90, Eleventh Annual, Pt. II; for
+1890-91, Twelfth Annual, Pt. II; for 1891-92, Thirteenth Annual, Pt.
+III; for 1893-94, Bulletin No. 131; for 1895, Bulletin No. 140; for
+1896, Eighteenth Annual, Pt. IV, WS 11; for 1897, Nineteenth Annual, Pt.
+IV, WS 15, 16; for 1898, Twentieth Annual, Pt. IV, WS 27, 28; for 1899,
+Twenty-first Annual, Pt. IV, WS 35-39; for 1900, Twenty-second Annual,
+Pt. IV, WS 47-52; for 1901, WS 65, 66, 76; for 1902, WS 82-85.
+
+
+Correspondence should be addressed to
+
+THE DIRECTOR,
+UNITED STATES GEOLOGICAL SURVEY,
+WASHINGTON, D. C.
+
+
+
+
+
+End of Project Gutenberg's The Passaic Flood of 1903, by Marshall Ora Leighton
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE PASSAIC FLOOD OF 1903 ***
+
+***** This file should be named 19878.txt or 19878.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/9/8/7/19878/
+
+Produced by Chuck Greif, Mark C. Orton, Linda McKeown and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -1,0 +1,2687 @@
+The Project Gutenberg EBook of Sketch of Grammar of the Chippeway Languages, by 
+John Summerfield
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Sketch of Grammar of the Chippeway Languages
+       To Which is Added a Vocabulary of some of the Most Common Words
+
+Author: John Summerfield
+
+Release Date: November 14, 2006 [EBook #19807]
+Last Updated: July 22, 2010
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK GRAMMAR OF THE CHIPPEWAY ***
+
+
+
+
+Produced by Louise Hope, C. J. Lippert, David Starner and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by the Canadian Institute for Historical Microreproductions
+(www.canadiana.org))
+
+
+
+
+[Transcriber's Note:
+
+This is an updated version of an e-text originally produced in November
+2006; see end of text for additions and corrections.
+
+The e-text consists of two separately published books:
+
+  _Spellings for the Schools in the Chipeway Language_
+  _Sketch of Grammar of the Chippeway Language_
+
+In the first book (Spellings...), the hyphen - is used to separate
+syllables. In the second book (Grammar...) the hyphen seems to
+represent the glottal stop.
+
+In the word lists of the first book, the first entry in each column was
+sometimes-- but not consistently-- capitalized. This capitalization has
+been retained, whether or not the e-text layout replicates the original.
+
+A few punctuation marks in the paradigms and vocabulary lists have been
+supplied or regularized. Other errors and anomalies are listed at the
+end of the e-text. Bracketed text is in the original unless otherwise
+noted.]
+
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+
+  Spellings for the Schools
+    in the
+  _CHIPEWAY LANGUAGE._
+
+
+  Ah-ne-she-nah-pay, Oo-te-ke-too-we-nun;
+  Kah-ke-ke-noo-ah-mah-ween-twah e-kewh,
+  Ka-nah-wah-pahn-tah-gigk Mah-ze-nah-e-kun.
+
+
+  YORK, U. CANADA:
+  Printed for the Canada Conference Missionary Society.
+  1828
+
+
+
+
+  A  B  C  D  E  F  G
+  H  I  J  K  L  M  N
+  O  P  Q  R  S  T  U
+  V  W  X  Y  Z
+
+  a  b  c  d  e  f  g  h  i  j
+  k  l  m  n  o  p  q  r  s
+  t  u  v  w  x  y  z &
+
+  1  2  3  4  5  6  7  8
+  9  0  ,  ;  :  .  ?  !  -
+
+
+
+
+SPELLINGS.
+
+_Words of one Syllable._
+
+  Kah       Neeje     Squahch
+  nah       keeje     shwahs
+  sah       weeje     quaich
+  wah       moose     paske
+  keene     koose     kaugk
+  neene     noose     mongk
+  weene     meezhe    shongk
+  meene     peezhe    jeese
+  owh       neezhe    aahe
+  howh      weezhe    tdush
+  ewh       moozhe
+
+
+_Words of two Syllables accented on the second._
+
+  Ah keh       ah toon      me nick
+  ah keeng     e mah        me quom
+  ah kik       e kewh       me zeh
+  ah mik       e newh       me squeh
+  ahn doohm    e qua        me tigk
+  ah nungk     I yahdt      nah maih
+  ah owh       kah yawsk    ne gigk
+  ah pa        ke tahn      ne peh
+  ah pweh      ke quis      ne peeng
+  ah sin       ke nwazhe    ne sing
+  ah tick      mah quah
+
+
+_Words of two Syllables, accented on the second._
+
+  Ne sweh         oo ninje        qui yuck
+  oo chawzhe      oon taus        shing quawk
+  oo kaudt        oo pin          shing koub
+  oo kowh         oo saum         shing kaugk
+  oo kun          Oo zidt         tah zheh
+  oo mah          oo skonzhe      te pigk
+  oo nick         oo taih         wah zhusk
+
+
+_Words of two syllables accented on the 1st & 2nd._
+
+  Ah zheh      ke kooh      me kaunce
+  a shkum      ke zhick     me nance
+  a sance      ke zis       me quaich
+  a squach     ki ya        me quon
+  a tah        koo koosh    me tdush
+  a yaudt      mah che      me owh
+  a zheh       mah kuk      me zhusk
+  che mon      mah mick     nah nindt
+  che pywh     mah noo      na kowh
+  kah che      mahn tdah    na yaub
+  ka kate      ma quah      ne win
+  ka gooh      me chim      ning kah
+  ke kah       me kun
+
+
+_Words of three syllables accented on the 1st & 2nd._
+
+  noo sa        poo neh       wa quain
+  noo tdin      se peh        wau poose
+  noo tding     sah keh       we kah
+  noong koom    sau kie       we nin
+  oo jee        she shebe     we yause
+  pah mah       tain ta       we pidt
+  pa kah        wa nain       ween sah
+  pe toon
+
+
+_Words of three Syllables, accented on the second and third._
+
+  Ah je chaugk      ah zhoo gun       nah kah mooh
+  ah kah mingk      a me quahn        ne zhe kaih
+  ah neen teh       a yah chick       oo me meh
+  ah ne moosh       a yah yun         oo nah kun
+  ah ne peesh       a zhah yun        oo ne shkaudt
+  ah noo kee        ka yah peh        oo que son
+  ah pa kish        mah ke sin        oon tah shahn
+  ah quing koos     mah ne toonce     oo ske zhick
+  ah she kun        mah ne toosh      oo se tongk
+  ah wah kahn       mah ske moodt     pe je nuck
+  ah wa seeh        me ke seh         shah wain tung
+  ah yah pa         me sah owh        shah wa nim
+
+
+_Words of three Syllables, accented on the second and half accent
+  on the third._
+
+  E nah shka       mah noo min      me she nuck
+  e qua sance      me quain tun     me tig koonce
+  e shkoo ta       me sah poose     mun tah min
+  ke na pigk       me she min       nah ma koos
+  ke noo zhai      me she kaih      nah ma pin
+
+
+_Words of three Syllables accented on the first and third._
+
+  Pah ke tin
+  wau be gun
+  wau bah maudt
+  wau be min
+
+
+_Words of three syllables accented on the last._
+
+  Ah nah quodt      ke she kuck       pe pah kim
+  e we te           ko se non         pe she keh
+  ing koo che       me nah wah        sah ke maih
+  ing koo twaus     me ne zis         sah ke toodt
+  ish pe ming       me ze saih        se wah quahn
+  ka ah koo         moo koo mon       shah kah nosh
+  kah kah keh       mun ne too        shong qua sheh
+  kah nah ka        mun ne toogk      shoo ne yah
+  kah ke nick       nah koo shah      tah be schooch
+  kah ke nah        nah too way       tah que shin
+  kah shah kance    neen ah windt     ta pain tungk
+  kah sah meh       ne se tum         ta pwa tungk
+  kah moo keede     ning ke che       tain ta seh
+  kah we kah        noo se non        wah ne toodt
+  ka ka keh         nowh ah quay      wah wah noon
+  ka koo weene      oo che pway       wa koo nain
+  ka ke quait       oo ke mah         wa wa neh
+  ke me wun         oo me squeem      weje e shin
+  ke nah wah        pah pah say       wig ke waum
+  ke ke che         pe me zeh         we nah wah
+  ke she kudt       pe na sheeh       we wah quahn
+
+
+_Words of four syllables, accented on the second and fourth._
+
+  Ah chit ah mooh       oo mah kah keh
+  ah kuck koo jeesh     oo mong ke zheh
+  ah sun ah kooh        oo tah pe nick
+  ah wah se seh         oo tah pe nun
+  e nah pe yook         oo ta e min
+  ke pah e kun          oo que se mon
+  ke pim oo say         oo wig ke waum
+  ke tah e kun          pah ske se gun
+  me squah ta seh       she kah kah winzhe
+  ne pwah kah win       ta pwa tah wick
+  ne wah pah tahn       wah oo na seh
+  oo ka yah wis
+
+
+_Words of four syllables accented on the sixth._
+
+  Ah quah tah sheeh    na pwah kah chick
+  ah se ke nauk        pah kah ah quaih
+  ah zhah wah maig     too too shah boo
+  ain tah che yungk    waug ke koo mon
+  ke zhe tah yook      wah wah ska sheh
+  maun nah ta nis
+
+
+_Words of five syllables, a full accent on the last, and half accent
+  on the second._
+
+  Ah kin tah soo win      neeng ke te mah kis
+  ah nah me ah win        ne skah te se win
+  ah ne she nah pay       nin tah wa mah took
+  ah quah ne pe sahn      ne te ke koo took
+  ah sin ne se kah        oo kah ke qua win
+  ke moo te schke win     oo zhe pe e kun
+  ke nah we schke win     pah kun te se win
+  mah ze nah e kun        pah pah ke wah yahn
+  me ne te we nun         shah wa ne te win
+  me skoo te se min       sah ke e te win
+  me tig quah ke zin      ween tah mah we shin
+  mon nain e te win       we too kah we shin
+  ne kah ne se took
+
+
+_Words of five syllables, accented on the first, the third and last._
+
+  Pa zhe go kah zhee
+  peen tah kah ta waun
+  oo ke mah we win
+  oo te ke too win
+  she pe koo pah tick
+  wah ne squa se win
+
+
+_Accented on the two first and last._
+
+  Too toosh pim me tay
+
+
+_Words of six syllables accented on the third and last._
+
+  Kah ke pah te se win
+  kah ke qua we ne neh
+  kah nah wah pa me shin
+  kah nah wa ne me shin
+  mah noo min e ka zheeh
+  mah kah ta e ne neh
+  e she wa pe se win
+  ta pwa yain tah moo win
+
+
+_Accented on the second and last._
+
+  Ke too ke mah me non
+  kah ke pah te se win
+  na nahn tah we e waidt
+  oo mah ze nah e kun
+  wah wah pe ko noo jeeh
+
+
+_Accented on the third and two last._
+
+  ka ke noo ah mah kaidt
+  mah che ah ye e wish
+  ah koo koo pe nah gun
+  ah wah che wun nah gun
+
+
+_Accented on the 4th and last._
+
+  Ahn e me tah koo zin.
+
+
+THE LORD'S PRAYER.
+
+_Ke-sha-mun-ne-too Oo-que-son Oo-tah-nu-me-tah-koo-se-win._
+
+Neeng-ke-che noo-se-non, Ish-pe-ming a-yah-yun.
+Ka-che-mun-ne-too-we-ne-kah-soo-yun. Ke-ke-che-ke-too-ke-mah-we-win
+pe-tah-we-she-nom. A-na-ne-me-wong-kane oo-mah-ke-zhe ah-keeng
+ne-kah-e-she-wa-pe-se-min; tah-pe-schooch a-she-wa-buk e-we-ty
+Ish-pe-ming. Me-she-she-nom ka-ne-tah-soo ke-she-kuk me-chim
+pe-mah-te-se-win. Ki-ya pa-kah-shah-wa-ne-me-she-nom
+che-sah-ke-che-wa-pe-nah-mah-we-yong mah-che-ah-ye-e-wish,
+nah-sahb-e-koo a-she shah-wa-ne-mong-ke-twah oo-kooh
+kah-pah-tah-e-yah-me-ke-chik, ki-ya keen e-she-shah-wa-ne-me-she-nom.
+Ka-goo we-kah ing-koo-chee ah-ne-e-she-we-she-she-kah-kane
+che-nah-ne-sah-ne-se-yong; mah-noo sah-koo kah-ke-nah
+shah-koo-te-nah-mah-we-she-nom mah-che-ah-ye-e-wish.
+Keen-mah-ween ke te-pain-tahn ke-che-oo-ke-mah-we-win,
+ki-ya euh ke-che-e-she-wa-pe-se-win, ki-ya euh ah-nah-me-ah-win
+ka-che-me-nwa-tah-quok, kah-ke-nik ki-ya kah-ke-nik.--Amen.
+
+
+GRACE BEFORE MEAT.
+
+Ah-noo-shoo-tah-mah-ka-win, che-pwah-we-se-ningk.
+
+O Ke-sha-mun-ne-too Ish-pe-ming a-yah-yun, Shah-wain-tah-mah-we-she-nom
+mahn-tdah me-chim-pe-mah-te-se-win, kah-pah-ke-te-nah-mah-we-yongk;
+me-tdush ka-oon-je-mah-skah-we-se-yongk che-ah-noo-ke-tah-koo yun;
+me-owh Jesus Christ a-spa-ne-moo-yongk. Amen.
+
+
+GRACE AFTER MEAT.
+
+Ah-noo-shoo-tah-mah-ka-win, kah-e-squah, we-se-ningk.
+
+O Ke-sha-mun-ne-too, neeng-keche Noo-se-non, me-quaich wa-wa-neh
+kah-we-se-ne-yongk noo-koom, ki-ya ain-tah-soo-ke-she-kuck
+shah-wain-ne-me-yongk; me-sah-owh Jesus Christ kah-ke-nigk
+ka-ah-pa-ne-moo-yongk. Amen.
+
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+
+  Sketch of Grammar
+  of the
+  CHIPPEWAY LANGUAGE,
+
+  To Which Is Added a Vocabulary
+  of some of the most common Words.
+
+  By JOHN SUMMERFIELD,
+  alias,
+  SAHGAHJEWAGAHBAHWEH.
+
+  Cazenovia:
+  PRESS OF J. F. FAIRCHILD & SON.
+  1834.
+
+
+
+
+ADVERTISEMENT.
+
+The following pages were written as an exercise for my leisure hours,
+while attending the Oneida Conference Seminary during the past winter.
+As it is the first attempt that, to my knowledge, has ever been made to
+reduce the Chippeway language to any system, it cannot be expected to be
+otherwise than imperfect, and perhaps may hereafter be found to be, in
+some respects, erroneous. It is, however, as free from errors as my
+present means have enabled me to make it. It has been printed at the
+request of my friends, by a fellow student, at his own suggestion and
+expense.
+
+J. SUMMERFIELD.
+
+Cazenovia, April 10, 1834.
+
+
+
+
+SKETCH OF GRAMMAR, &c.
+
+
+The Letters used in the Chippeway Language, are twenty-one, viz.
+A, a; B, b; C, c; D, d; E, e; G, g; H, h; I, i; J, j; K, k; M, m; N, n;
+O, o; P, p; Q, q; S, s; T, t; U, u; W, w; Y, y; Z, z. F, L, R, V, and X,
+are not used.
+
+There are, in the Chippeway Language, ten parts of Speech, namely,
+the _article_, the _noun_, the _pronoun_, the _adjective_, the _verb_,
+the _participle_, the _adverb_, the _preposition_, the _conjunction_,
+and the _interjection_.
+
+
+OF THE ARTICLE.
+
+There is but one Article, used definitely both in the masculine and
+neuter genders, viz. Owh, the, m.; Ewh, the, n.
+
+
+OF NOUNS.
+
+A Noun is the name of any person, place, or thing; as, Eneneh, man;
+Kahdahnahqueeng, Kingston; metig, tree.
+
+Nouns are of two sorts, Common and Proper.
+
+Common Nouns stand for kinds containing many sorts, or for sorts
+containing many individuals under them; as, Ahwaseeh, animal; eneneh,
+man; kegownh, fish; penaseh, bird.
+
+Proper Nouns are the names appropriated to individuals, as, Charles,
+Cazenovia, Ganges. [N.B. Proper names, with a few exceptions, are the
+same as in English.]
+
+To Nouns belong gender, person, number, and case.
+
+GENDER.
+
+Gender is the distinction of nouns with regard to sex.
+
+Nouns have three genders, the masculine, the feminine, and the neuter.
+
+The masculine gender denotes males; as, Eneneh, man.
+
+The feminine gender is applied to animals, fishes, and birds; as,
+Nahbak, a she bear, &c.
+
+The neuter gender denotes things without sex; as, Wewahquon, a hat.
+
+NUMBER.
+
+Number is the distinction of objects as one or more.
+
+Nouns are of two numbers, the singular and the plural.
+
+The singular number implies but one object; as, Mahzenahegun, a book.
+
+The plural number implies more than one; as, Mahzhenahegahnun, books.
+
+CASE.
+
+Nouns have three cases, the nominative, the possessive, and the
+objective.
+
+The nominative case simply expresses the name of a thing, &c.;
+as, Owh quewesanceoobahkahmegezeh, the boy plays.
+
+The possessive case expresses the relation of property or possession,
+and always ends with the letter _o_; as, Noosayo wegewaum, my father's
+house.
+
+The objective case expresses the object of an action or of relation;
+as John owejeahn Charles, John assists Charles.
+
+Nouns may be declined in the following manner:
+
+                   Singular.          Plural.
+  _Nom. Case_,     Eneneh, man.       Enenewug, men.
+  _Poss. Case_,    Eneneho, man's.    Enenewugo, men's.
+  _Obj. Case_,     Eneneh, man.       Enenewug, men.
+
+
+OF PRONOUNS.
+
+A Pronoun is a word used instead of a noun, to avoid repeating the same
+word; as, Pahpenatum eneneh, the man is happy; Pahpenatum, he is happy.
+
+PERSONAL PRONOUNS.
+
+There are three personal pronouns, viz. Neen, I; keen, thou; ween, he;
+with their plurals, Nenahwind, we; kenahwah, ye or you; wenahwah, they.
+
+Personal pronouns have person, number, gender and case.
+
+The persons of pronouns are three in each number, viz.
+
+  Neen, I, is the first person,        }
+  Keen, thou, is the second person,    } Singular.
+  Ween, he, is the third person,       }
+  Nenahwind, we, is the first person,     }
+  Kenahwah, you, is the second person,    } Plural.
+  Wenahwah, they, is the third person,    }
+
+_Number._--Pronouns have two numbers, the singular and the plural.
+
+_Case._--Pronouns have three cases, the nominative, the possessive, and
+the objective.
+
+Pronouns cannot be declined. The cases of each person have the same
+form.
+
+  First person.  _Singular._    _Plural._
+      _Nom._     Neen, I.       Nenahwind, we.
+      _Poss._    Neen, mine.    Nenahwind, ours.
+      _Obj._     Neen, me.      Nenahwind, us.
+
+
+OF ADJECTIVES.
+
+An Adjective is a word added to a noun to express its quality; as,
+quahnoj eneneh, a good man; menwawezheh eneneh, an industrious man.
+
+Adjectives are not varied to agree with their nouns, nor do they have
+any regular comparison.
+
+The following is a list of Numeral Adjectives:
+
+  Pazhick,                   1
+  Neezhe,                    2
+  Nesweh,                    3
+  Newin,                     4
+  Nahnun,                    5
+  Ingoodwahsweh,             6
+  Neswahsweh,                7
+  Shahsweh,                  8
+  Shongsweh,                 9
+  Metahsweh,                10
+  Metahsweh ahshepazhick,   11
+  ---- ahsheneezhe,         12
+  ---- ahshenesweh,         13
+  ---- ahshenewin,          14
+  ---- ahshenahnun,         15
+  ---- ahsheingoodwahsweh,  16
+  ---- ahsheneswahsweh,     17
+  ---- ahsheswahsweh,       18
+  ---- ahsheshongsweh,      19
+  Nestahnah,                20
+  Nestahnah ahshepachick,   21
+  ---- ahsheneezhe,         22
+  ---- ahshenesweh,         23
+  ---- ahshenewin,          24
+  ---- ahshenahnun,         25
+  ---- ahsheingoodwahsweh,  26
+  ---- ahsheneswahsweh,     27
+  ---- ahsheshahsweh,       28
+  ---- ahsheshongsweh,      29
+  Nesemetahnah,             30
+  Nemedahnah,               40
+  Nahnemedahnah,            50
+  Ingoodwahsemedahnah,      60
+  Neswahsemedahnah,         70
+  Swahsemedahnah,           80
+  Shonggahswehmedahnah,     90
+  Ingoodwak,               100
+  Nezhwak,                 200
+  Neswak,                  300
+  Newak,                   400
+  Nahnwak,                 500
+  Ingoodwahswak,           600
+  Nezhahswak,              700
+  Shawhswak,               800
+  Shongahswak,             900
+  Medahswak,              1000
+  Neezhemedahswak,        2000
+  Medahswehdahswak,     10,000
+  Nestahnahdahswak,     20,000
+  Nemedahnahdahswak,    40,000
+
+
+OF VERBS.
+
+A Verb is a word which signifies to be, to do, or to suffer; as,
+Nedahyah, I am; Nedebahkoonewa, I rule; Nedebahkoonegoo, I am ruled.
+
+Verbs are of three kinds, active, passive, and neuter.
+
+A Verb Active expresses an action, and necessarily implies an agent
+and an object acted upon; as, Nezhahgeah James, I love James.
+
+A Verb Passive expresses passion or a suffering or the receiving of an
+action, and implies an object acted upon, and an agent by which it is
+acted upon; as, Chezhahwaneding, to be loved; John oojezhahwanemah
+neen, John is loved by me.
+
+A Verb Neuter expresses neither action nor passion, but being or a
+state of being; as, Nenebah, I sleep; Nenahmahdub, I sit.
+
+Verbs have number, person, mood and tense.
+
+NUMBER AND PERSON.
+
+Verbs have two numbers, the singular and the plural.
+
+There are three persons in each number; as,
+
+  Pers.  _Singular._                   _Plural._
+    1.   Nezhahwanega, I love.         Nezhahwanegamin, we love.
+    2.   Kezhahwanega, thou lovest.    Kezhahwanegaim, you love.
+    3.   Zhawanega, he loves.          Zhahwanegawug, they love.
+
+MOOD.
+
+The moods are five, Indicative, Subjunctive, Imperative, Potential, and
+the Infinitive.
+
+The Indicative declares or affirms positively, or it asks a question;
+as, Zhahwanega, he loves; Zhahwaneganah? Does he love?
+
+The Subjunctive expresses action or passion in a doubtful manner;
+as, Kespin zhahwanegaid, if he loves.
+
+The Imperative is used for commanding, exhorting, and entreating;
+as, Mahjahn keen, depart thou; Noodahmooyook, do thou listen.
+
+The Potential implies possibility, liberty, power, will; as,
+Tahgemewan kahnahbuge, it may rain; Kegahwesenemin kiya kahmenequamin,
+we shall eat and drink.
+
+The Infinitive simply expresses the signification of the verb;
+as, Cheezechegang, to do; Chegegedoong, to speak.
+
+TENSE.
+
+Verbs have six tenses, the present, the imperfect, the perfect, the
+pluperfect, the first and second future tenses.
+
+The present tense represents a present action as taking place at the
+time in which it is mentioned; as, Nebop, I laugh; Newob, I see;
+Nedenadum, I think.
+
+The imperfect tense denotes past action or event however distant,
+finished, but without defining the exact time of its completion;
+as, Oodanongezahbahneeg ahpe naquaskahwod, they were travelling to
+the town when he met them.
+
+The perfect tense refers not only to what is past but also conveys
+an allusion to the present time; as, Ahzheh negegezhetoon
+nemahzhenahegun, I have finished my letter.
+
+The pluperfect tense represents a thing, not only as past, but also
+as prior to some other point of time specified in the sentence;
+as, Ahzehnegegezhetonahbun letter chebwabedahgweshing, I had finished
+my letter before he arrived.
+
+The first future tense represents the action as yet to come, either
+with or without respect to the precise time when; as, Owh kezis
+tahbemookahum wahbung, the sun will rise to-morrow.
+
+The second future tense represents a future action that will be
+accomplished before another future action; as, Negahwesenenahbun
+nahwahquaig, I shall have dined at twelve o'clock.
+
+A Verb is conjugated in the following manner:
+
+TO LOVE.--Indicative Mood.
+
+_Present Tense._
+
+  _Sing._  1. Nezhahwanega,     I love.
+           2. Kezhahwanega,     Thou lovest.
+           3. Zhahwanega,       He loves.
+  _Plur._  1. Nezhahwanegamin,  We love.
+           2. Kezhahwanegaim,   Ye or you love.
+           3. Zhahwanegawug,    They love.
+
+_Imperfect._
+
+  _Sing._  1. Negezhahwanega,     I loved.
+           2. Kegezhahwanega,     Thou lovedst.
+           3. Kezhahwanega,       He loved.
+  _Plur._  1. Negezhahwanegamin,  We loved.
+           2. Kegezhahwanegaim,   Ye or you loved.
+           3. Kezhawanegawug,     They loved.
+
+_Perfect._
+
+  _Sing._  1. Ahzehnegezhahwanega,     I have loved.
+           2. Ahzehkegezhahwanega,     Thou hast loved.
+           3. Ahzehkezhahwanega,       He has loved.
+  _Plur._  1. Ahzehnegezhahwanegamin,  We have loved.
+           2. Ahzehkegezhahwanegaim,   Ye or you have loved.
+           3. Ahzehkezhahwanegawug,    They have loved.
+
+_Pluperfect._
+
+  _Sing._  1. Ahzehnegezhahwaneganahbun,   I had loved.
+           2. Ahzehkegezhahwaneganahbun,   Thou hadst loved.
+           3. Ahzehkezhahwanegabun,        He had loved.
+  _Plur._  1. Ahzehnegezhawanegaminahbun,  We had loved.
+           2. Ahzehkegezhahwanegamwahbun,  You had loved.
+           3. Ahzehkezhahwanegabahneeg,    They had loved.
+
+_First Future._
+
+  _Sing._  1. Negahzhahwanega,     I shall or will love.
+           2. Kegahzhahwanega,     Thou shalt or wilt love.
+           3. Tahzhahwanega,       He shall or will love.
+  _Plur._  1. Negahzhahwanegamin,  We shall or will love.
+           2. Kegahzhahwanegaim,   You shall or will love.
+           3. Tahzhahwanegawug,    They shall or will love.
+
+_Second Future._
+
+  _Sing._  1. Negahzhahwaneganahbun,    I shall have loved.
+           2. Kegahzhahwaneganahbun,    Thou wilt have loved.
+           3. Tahzhahwanegabun,         He will have loved.
+  _Plur._  1. Negahzhahwanegaminahbun,  We shall have loved.
+           2. Kegahzhahwanegamwahbun,   You will have loved.
+           3. Tahzhahwanegabahneeg,     They will have loved.
+
+IMPERATIVE MOOD.
+
+_Present Tense._
+
+  _Sing._  1. Tahgahneenegazhahwanega,    Let me love.
+           2. Zhahwanegain, or          } Love thou, or do thou love.
+                  Kezhahwaneganah,      }
+           3. Tahgahween tahzhahwanega,   Let him love.
+
+  _Plur._  1. Tahgahnenahwind           } Let us love.
+                  gahzhahwanegamin,     }
+           2. Zhahwanegayook, or        } Love ye or you, or
+                  Kezhahwanegaimnah,    }    do you love.
+           3. Tahgahwenahwah            } Let them love.
+                  tahzhahwanegawug,     }
+
+POTENTIAL MOOD.
+
+_Present Tense._
+
+  _Sing._  1. Nedahzhahwanega,     I may love.
+           2. Kedahzhahwanega,     Thou mayest love.
+           3. Tahzhahwanega,       He may love.
+  _Plur._  1. Nedahzhahwanegamin,  We may love.
+           2. Kedahzhahwanegaim,   You may love.
+           3. Tahzhahwanegawug.    They may love.
+
+_Imperfect Tense._
+
+  _Sing._  1. Nedahgezhahwanega,     I might love.
+           2. Kedahgezhahwanega,     Thou mightest love.
+           3. Tahgezhahwanega,       He might love.
+  _Plur._  1. Nedahgezhahwanegamin,  We might love.
+           2. Kedahgezhahwanegaim,   You might love.
+           3. Tahgezhahwanegawug,    They might love.
+
+_Perfect Tense._
+
+  _Sing._  1. Nedahgewezhahwanega,     I may have loved.
+           2. Kedahgewezhahwanega,     Thou mayst have loved.
+           3. Tahgewezhahwanega,       He may have loved.
+  _Plur._  1. Nedahgewezhahwanegamin,  We may have loved.
+           2. Kedahgewezhahwanegaim,   You may have loved.
+           3. Tahgewezhahwanegawug,    They may have loved.
+
+_Pluperfect Tense._
+
+  _Sing._  1. Nedahgewezhahwaneganahbun,    I might have loved.
+           2. Kedahgewezhahwaneganahbun,    Thou mightest have loved.
+           3. Tahgewezhahwanegabun,         He might have loved.
+  _Plur._  1. Nedahgewezhahwanegaminahbun,  We might have loved.
+           2. Kedahgewezhahwanegamwahbun,   You might have loved.
+           3. Tahgewezhahwanegabahneeg,     They might have loved.
+
+SUBJUNCTIVE MOOD.
+
+_Present Tense._
+
+  _Sing._ Kespin zhahwanegayaun,  If I love.
+          Kespin zhahwanegayun,   If thou lovest.
+          Kespin zhahwahnegaid,   If he loves.
+  _Plur._ Kespin zhahwanegayong,  If we love.
+          Kespin zhahwanegayaig,  If you love.
+          Kespin zhahwanegawod,   If they love.
+
+INFINITIVE MOOD.
+
+  _Pres._ Chezhahwanegang, To love.
+  _Perf._ Chegezhahwanegang, To have loved.
+  _Fut._  Ahyegwahwezhahwanegang, To be about to love.
+
+PARTICIPLES.
+
+  _Present,_ Zhahwaneding, Loving.
+  _Perfect,_ Zhahwanemind, Loved.
+
+
+Conjugation of the Verb TO BE.
+
+INDICATIVE MOOD.
+
+_Present Tense._
+
+  _Sing._  Nedahyah,     I am.
+           Kedahyah,     Thou art.
+           Ahyah,        He is.
+  _Plur._  Nedahyahmin,  We are.
+           Kedahyaum,    Ye or you are.
+           Ahyahwug,     They are.
+
+_Imperfect Tense._
+
+  _Sing._  Nedahyahnahbun,    I was.
+           Kedahyahnahbun,    Thou wast.
+           Ahyahbun,          He was.
+  _Plur._  Nedahyahmenahbun,  We were.
+           Kedahyahmwahbun,   You were.
+           Ahyahbahneeg,      They were.
+
+_Perfect Tense._
+
+  _Sing._  Negeahyahnahbun,  I have been.
+           Kegeahyahnahbun,  Thou hast been.
+           Keahyahbun,       He has been.
+  _Plur._  Negeahyahmin,     We have been.
+           Kegeahyaum,       You have been.
+           Keahyahwug,       They have been.
+
+_Pluperfect Tense._
+
+  _Sing._  Nedahgeweahyahnahbun,  I had been.
+           Kedahgeweahyahnahbun,  Thou hadst been.
+           Keweahyahbun,          He had been.
+  _Plur._  Nedahgeweahyahmin,     We had been.
+           Kedahgeweahyaum,       You had been.
+           Keahyahbahneeg,        They had been.
+
+_First Future Tense._
+
+  _Sing._  Negahahyah,     I shall be.
+           Kegahahyah,     Thou wilt be.
+           Tahahyah,       He will be.
+  _Plur._  Negahahyahmin,  We shall be.
+           Kegahahyaum,    You will be.
+           Tahahyahwug,    They will be.
+
+_Second Future Tense._
+
+  _Sing._  Negahgeahyahnahbun,    I shall have been.
+           Kegahgeahyahnahbun,    Thou wilt have been.
+           Tahgeahyahbun,         He will have been.
+  _Plur._  Negahgeahyahmenahbun,  We shall have been.
+           Kegahgeahyahmwahbun,   You will have been.
+           Tahgeahyahbahneeg,     They will have been.
+
+IMPERATIVE MOOD.
+
+  _Sing._  Tahgahnenegahahyah,            Let me be.
+           Ahyaun kegeahyahun,            Be thou or do thou be.
+           Tahgahweendahahyah,            Let him be.
+  _Plur._  Tahgahnenahwindnegahahyahmin,  Let us be.
+           Ahyahyook,                     Be ye or you or do you be.
+           Tahgahdahahyahwug,             Let them be.
+
+POTENTIAL MOOD.
+
+_Present Tense._
+
+  _Singular._
+    Koonemah-nedahahyah,     I may be.
+    Koonemah-kedahahyah,     Thou mayst be.
+    Koonemah-dahahyah,       He may be.
+  _Plural._
+    Koonemah-nedahahyahmin,  We may be.
+    Koonemah-kedahahyaum,    You may be.
+    Koonemah-dahahyahwug,    They may be.
+
+_Imperfect Tense._
+
+  _Singular._
+    Koonemah-nedahgeahyah,     I might be.
+    Koonemah-kedahgeahyah,     Thou mightest be.
+    Koonemah-tahgeahyah,       He might be.
+  _Plural._
+    Koonemah-nedahgeahyahmin,  We might be.
+    Koonemah-kedahgeahyaum,    You might be.
+    Koonemah-tahgeahyahwug,    They might be.
+
+_Perfect Tense._
+
+  _Singular._
+    Koonemah-nedahgeahyahnahbun,  I may have been.
+    Koonemah-kedahgeahyahnahbun,  Thou mayst have been.
+    Koonemah-tahgeahyahbun,       He may have been.
+  _Plural._
+    ---- nedahgeahyahminnahbun,   We may have been.
+    ---- kedahgeahyahmwahbun,     You may have been.
+    ---- tahgeahyahbahneeg,       They may have been.
+
+_Pluperfect Tense._
+
+  _Singular._
+    ---- nedahgeweahyahnahbun,    I might have been.
+    ---- kedahgeweahyahnahbun,    Thou mightest have been.
+    ---- tahgeweahyahbun,         He might have been.
+  _Plural._
+    ---- nedahgeweahgahmenanbun,  We might have been.
+    ---- kedahgeweahyahmwahbun,   You might have been.
+    ---- tahgeweahyahbahneeg,     They might have been.
+
+SUBJUNCTIVE MOOD.
+
+_Present Tense._
+
+  _Sing._ Kespin ahyahyaun,  If I be.
+          Kespin ahyahyun,   If thou be.
+          Kespin ahyaud,     If he be.
+  _Plur._ Kespin ahyahyong,  If we be.
+          Kespin ahyahyaig,  If you be.
+          Kespin ahyahwaud,  If they be.
+
+_Imperfect Tense._
+
+  _Sing._ Kespin ahyahyahbaun,    If I were.
+          Kespin ahyahyahbun,     If thou wert.
+          Kespin ahyahpun,        If he were.
+  _Plur._ Kespin ahyahyongebun,   If we were.
+          Kespin ahyahyaigoobun,  If you were.
+          Kespin ahyahwahpun,     If they were.
+
+INFINITIVE MOOD.
+
+  _Present._   Cheahyong,    To be.
+  _Perfect._   Chegeahyong,  To have been.
+
+PARTICIPLES.
+
+  _Pres._ Ahyong,  Being.
+  _Perf._ Ahyod,   Been.
+
+
+Conjugation of the Passive Verb TO BE LOVED.
+
+INDICATIVE MOOD.
+
+_Present Tense._
+
+  _Singular._
+    Nezhahwanemegoo,     I am loved.
+    Kezhahwanemegoo,     Thou art loved.
+    Zhahwanemah,         He is loved.
+  _Plural._
+    Nezhahwanemegoomin,  We are loved.
+    Kezhahwanemegoom,    You are loved.
+    Zhahwanemahwug,      They are loved.
+
+_Imperfect._
+
+  _Singular._
+    Nezhahwanemegoonahbun,    I was loved.
+    Kezhahwanemegoonahbun,    Thou wast loved.
+    Zhahwanemahbun,           He was loved.
+  _Plural._
+    Nezhahwanemegoomenahbun,  We were loved.
+    Kezhahwanemegoomwahbun,   You were loved.
+    Zhahwanemahbahneeg,       They were loved.
+
+_Perfect._
+
+  _Singular._
+    Negezhahwanemegoo,     I have been loved.
+    Kegezhahwanemegoo,     Thou hast been loved.
+    Kezhahwanemah,         He has been loved.
+  _Plural._
+    Negezhahwanemegoomin,  We have been loved.
+    Kegezhahwanemegoom,    You have been loved.
+    Kezhahwanemahwug,      They have been loved.
+
+_Pluperfect._
+
+  _Singular._
+    Negezhahwanemegoonahbun,    I had been loved.
+    Kegezhahwanemegoonahbun,    Thou hadst been loved.
+    Kezhahwanemahbun,           He had been loved.
+  _Plural._
+    Negezhahwanemegoomenahbun,  We had been loved.
+    Kegezhahwanemegoomwahbun,   You had been loved.
+    Kezhahwanemahbahneeg,       They had been loved.
+
+_First Future._
+
+  _Singular._
+    Negahzhahwanemegoo,     I shall be loved.
+    Kegahzhahwanemegoo,     Thou wilt be loved.
+    Tazhahwanemah,          He will be loved.
+  _Plural._
+    Negahzhahwanemegoomin,  We shall be loved.
+    Kegahzhahwanemegoom,    You will be loved.
+    Tahzhahwanemahwug,      They will be loved.
+
+_Second Future._
+
+  _Singular._
+    Negahgezhahwanemegoo,     I shall have been loved.
+    Kegahgezhahwanemegoo,     Thou wilt have been loved.
+    Tahgezhahwanemah,         He will have been loved.
+  _Plural._
+    Negahgezhahwanemegoomin,  We shall have been loved.
+    Kegahgezhahwanemegoom,    You will have been loved.
+    Tahgezhahwanemahwug,      They will have been loved.
+
+IMPERATIVE MOOD.
+
+  _Singular._
+    Tahgahnenegah zhahwanemegoo,      Let me be loved.
+    Tahgahkegah zhahwanemegoo,        Be thou loved or do thou be loved.
+    Tahgahween tahzhahwanemah,        Let him be loved.
+  _Plural._
+    Tahgahnenahwind          }        Let us be loved.
+      negahzhahwanemegoomin, }
+    Tahgahkenahwah kahzhahwanemegoom, Be you loved or do you be loved.
+    Tahgahwenahwah tahzhahwanemahwug, Let them be loved.
+
+POTENTIAL MOOD.
+
+_Present Tense._
+
+  _Singular._
+    Nedahkoonemahzhahwanemegoo,     I may be loved.
+    Kedahkoonemahzhahwanemegoo,     Thou mayest be loved.
+    Tahkoonemahzhahwanemah,         He may be loved.
+  _Plural._
+    Nedahkoonemahzhahwanemegoomin,  We may be loved.
+    Kedahkoonemahzhahwanemegoom,    You may be loved.
+    Tahkoonemahzhahwanemahwug,      They may be loved.
+
+_Imperfect Tense._
+
+  _Singular._
+    Nedahgekoonemahzhahwanemegoo,     I might be loved.
+    Kedahgekoonemahzhahwanemegoo,     Thou mightest be loved.
+    Tahgekoonemahzhahwanemah,         He might be loved.
+  _Plural._
+    Nedahgekoonemahzhahwanemegoomin,  We might be loved.
+    Kedahgekoonemahzhahwanemegoom,    You might be loved.
+    Tahgekoonemahzhahwanemahwug,      They might be loved.
+
+_Perfect Tense._
+
+  _Singular._
+    Nedahgekoonemahkezhahwanemegoo,     I may have been loved.
+    Kedahgekoonemahkezhahwanemegoo,     Thou mayest have been loved.
+    Tahgekoonemahkezhahwanemah,         He may have been loved.
+  _Plural._
+    Nedahgekoonemahkezhahwanemegoomin,  We may have been loved.
+    Kedahgekoonemahkezhahwanemegoom,    You may have been loved.
+    Tahgekoonemahkezhahwanemahwug,      They may have been loved.
+
+_Pluperfect Tense._
+
+  _Singular._
+    Nedahgekoonemahkezhahwanemegoonahbun,   I might have been loved.
+    Kedahgekoonemahkezhahwanemegoonahbun,   Thou mightest have
+                                                been loved.
+    Tahgekoonemahkezhahwanemahbun,          He might have been loved.
+  _Plural._
+    Nedahgekoonemahkezhahwanemegoomenahbun, We might have been loved.
+    Kedahgekoonemahkezhahwanemegoomwahbun,  You might have been loved.
+    Tahgekoonemahkezhahwanemahbahneeg,      They might have been loved.
+
+SUBJUNCTIVE MOOD.
+
+_Present Tense._
+
+  _Singular._
+    Kespin zhahwanemegooyaun,  If I be loved.
+    Kespin zhahwanemegooyun,   If thou be loved.
+    Kespin zhahwanemind,       If he be loved.
+  _Plural._
+    Kespin zhahwanemegooyong,  If we be loved.
+    Kespin zhahwanemegooyaig,  If you be loved.
+    Kespin zhahwanemindwah,    If they be loved.
+
+_Imperfect Tense._
+
+  _Singular._
+    Kespin zhahwanemegooyahbaun,     If I were loved.
+    Kespin zhahwanemegooyahbun,      If thou wert loved.
+    Kespin zhahwanemindebun,         If he were loved.
+  _Plural._
+    Kespin zhahwanemegooyonggebun,   If we were loved.
+    Kespin zhahwanemegooyaiggoobun,  If you were loved.
+    Kespin zhahwanemindwahbun,       If they were loved.
+
+INFINITIVE MOOD.
+
+  _Present._ Chezhahwanemegoong, To be loved.
+  _Perfect._ Chegezhahwanemegoong, To have been loved.
+
+PARTICIPLES.
+
+  _Present._ Zhahwanemegoong, Being loved.
+  _Perfect._ Zhahwanemind, Loved.
+
+
+OF PARTICIPLES.
+
+A Participle is a word derived from a Verb, and has the nature of a verb
+and also of an adjective.
+
+Verbs have two participles, the present and the perfect.
+
+The present participle denotes action or being continued, but not
+finished. It generally ends in _ing_, _eng_, or _g_; as, Tebahkooneding,
+Ruling, &c.
+
+The perfect participle denotes action or being, finished. This can also
+be distinguished by its ending in _ed_ or _d_; as Pahpid, laughed;
+Shoshomequanid, smiled.
+
+
+OF ADVERBS.
+
+An Adverb is a word used to modify the sense of a verb, &c.; as, Kagate
+quahnoj eneneh, a truly good man.
+
+List of Adverbs:
+
+1. Ingooding, once; neshing, twice; nesing, thrice.
+
+2. Netum, first; Esquache, lastly.
+
+3. Omah, here; ahnedeh, where; negoojee, somewhere; kahweenegoojee,
+nowhere; ishpeming nahkayah, upward; nesahye-ee nahkayah, downward;
+esquayong nahkayah, backward; negaun nahkayah, forward, &c.
+
+4. Noogoom, now; chekezheguk, to-day; mawezhah, long ago; pejenahgooh,
+yesterday; noomahyah, lately; wahbung, to-morrow; bahmah, by and by;
+kahmahsheh, not yet; kahyahsekah, instantly; waweeb, immediately.
+
+5. Pahgee, little; ahneenmenik, how much.
+
+6. Koonemah, perhaps; mekahweh, perchance.
+
+7. Kagate, verily; aahe, yes, &c.
+
+8. Kah, no; kahweengahnahga, not at all.
+
+9. Ahneen, how; ahneeshnah, why; ahnahpe, when.
+
+10. Nahwuj, more; kagahkoo, most.
+
+
+OF PREPOSITIONS.
+
+Prepositions serve to connect words with one another and to show the
+relation between them; as, Cazenove angkeojemahjahkezhodt York, he went
+from Cazenovia to York.
+
+List of Prepositions:
+
+Pahzhejahye-ee, over; ahnahmahye-ee, under; shepahye-ee, through;
+ishpeming, above; nesahye-ee, below; keoonjee, from; peoonjee, from;
+ahwashema, beyond; chegahye-ee, near; negaun, before; Ishquayong,
+behind; wahsah, off; oogejahye-ee, on or upon; magwaahye-ee, among;
+ahzheh, after; ahpahgahjeahye-ee, against; ahgahmahye-ee, across;
+kewetahye-ee, around; nahwahye-ee, amidst; enahkayah, toward, &c.
+
+
+OF CONJUNCTIONS.
+
+A Conjunction is a word used to connect sentences, so as out of two to
+make one.
+
+Conjunctions are of two sorts, the Copulative and the Disjunctive.
+
+The following are some of the Conjunctions:
+
+_Cop._ Kiya, and; Kespin, if; Owh, that; nahyanze, both; dushween, then;
+ahpe, since; mesah, therefore; ahnesh, wherefore.
+
+_Dis._ Atah, but; ahzheh, as; dush, than; koone, though; mahmesahwahwah,
+unless; kespuge, except; pooch, yet.
+
+
+OF INTERJECTIONS.
+
+An Interjection is a word used to express the sudden emotions of the
+speaker; as, Tahwah! pemahdezewin nelojegootoge! Alas! I fear for life!
+O neboowin! Ahneshekewesahgandahmoowin? O death! Where is thy sting?
+
+List of Interjections:
+
+  _Earnestness_ or _Grief_; O! ah! tahwah, alas!
+  _Joy_; Yahhahne! yahhahne! &c.
+  _Wonder_; Mahmahkahdahkahmig, strange! hahe, hah!
+  _Aversion_; Saih! ahwas, away!
+  _Attention_; Nah, hark! Nahbin, behold!
+  _Surprise_ or _Fear_; Ingee! Tauneyohne! yohe!
+  _Laughter_; Ha! ha! ha!
+  _Requesting silence_; Easta, hist! pezahnahbin, silence!
+  _Calling_; ahneene, halloo!
+  _Salutation_; Mequaich, welcome!
+
+
+
+
+A FABLE--[Translated from the English.]
+
+OWH WAHGOOSH KIYA EWH MASK.
+
+
+Kegahweendahmoonin kache dahkooahyod ahdesookaun, kecheoneshesheh
+dushweengooh.
+
+Wahgoosh ingooding keezhahgoobun haberdashero dahdahwawegahmig. Emah
+metahskahkahmig ahyahtanegoobun kache gwahnahjewong mask, keoonje
+ozhechegahdagoobun ahwegah cheahyood mamahjenood ahpe herongh azhe
+obahkahmegezhejin. Ewh mask egewh mawezhah, meowh ahpe owh ahdesookaun
+tebaindahgowk, ahgwahnahung kahkenah ewh ostegwan dahgooh helmiting,
+kiya kahwekah mamahjenood ezheoobahkahmegezhese ayahsenenegoon.
+Mahmahdah wechegawenebun, owhdush ezhechegang kahweendush
+kedahwahbahdah zhenon ewh odangowh owh wabahkahmegezid, kiya koonemah
+anahnookewenegwain nahchebahpid or mahwid, ewh mask ahpun ewh nahsob
+azhenahgowk.
+
+Owh wahgoosh kahgezheyaindum, wahjapezeh. Oge quakenon ewh mask
+menahwah kiya menahwah. Oge gahnahwahbahdaun emah ahgwahjeeye-ee,
+kiya gahnahwahbahdaun emah peenjahye-ee.
+
+Ewh ahgwahjeeye-ee keche shooshoo ahyahgoobun kiya
+kegezhechegahdagoobun! Ewh peenjahye-ee webahgoobun. Kagate onesheshin
+oostegwan ayaug omah, ekedoo owh wahgoosh; kagate mejenahwa yahdahkahmig
+kahwenaindib ahyahsenoog!
+
+Nahnind quahnoj quewesansug ahyahwug kiya equasansug kemahzheh
+ekoogenedwah oowh enaindahmoowod kahween kagoo ohbahbah mahndahsenahwah,
+ewh atah oobeshegadahgoosewenewah, ahgoonwatahtesuwod kagoo
+chekekadahmoowod medush azhe quakeskahwod enahkahkayah wahwazheowening.
+Koonemah eneneh odah ahtood ewh onindj emah ostegwahning onowh pazhik
+kiya tahekedooh kahekedood owh wahgoosh kagate sahquahnoj owh oostegwan
+omah ayog kagate sah mejenah wayahdahkahmig ahyah senoog ewh wenaindib.
+
+Eneneh tahezhah ishpeming, ahyahnzig menoo bemahdezewin, ahyahnzig
+kechetwahwezewin, ahyahnzig ogemahwewin, ahyahnzig kekenooahmahdewin,
+ahyahwahsig wejekewayun; kah dushween tahezhahsee ewhety ishpeming
+ahyahwahsig Christ.
+
+A man may go to heaven without health, without wealth, without honor,
+without learning, without friends; but he can never go to heaven
+without Christ.
+
+
+
+
+OF THE FORMATION OF WORDS.
+
+
+It is difficult with us to speak the words themselves.--The words
+_odoon_, _onik_, _okod_, _ozid_, _okun_, do not mean respectively,
+_mouth_, _arm_, _leg_, _foot_, _bone_; but _his mouth_, _his arm_, _his
+leg_, _his foot_, _his bone_. By leaving out the letter _o_ we have the
+words _mouth_, _arm_, _&c._ themselves: thus, _doon_, _nik_, _kod_,
+_zid_, _kun_. The former is the usual way of speaking, the latter is
+correct.
+
+By the following illustration it will be better understood how words are
+formed:
+
+                        _my_      _thy_ or _your_   _his_
+  Nindj,    _a hand_,   nenindj,      kenindj,      onindj,
+  Nik,      _an arm_,   nenik,        kenik,        onik,
+  Doon,     _a mouth_,  nedoon        kedoon,       odoon,
+  Bid,      _a tooth_,  nebid,        kebid,        owebid,
+  Daih,     _a heart_,  nedaih,       kedaih,       odaih,
+  Kown,     _a liver_,  nekown,       kekown,       okown,
+  Kun,      _a bone_,   nekun,        kekun,        okun,
+  Skunze,   _a nail_,   neskunze,     keskunze,     oskunze,
+  Kod,      _a leg_,    nekod,        kekod,        okod,
+  Bowm,     _a thigh_,  nebowm,       kebowm,       obowm,
+  Dis,      _a navel_,  nedis,        kedis,        odis,
+  Pun,      _a light_,  nepun,        kepun,        opun,
+  Zid,      _a foot_,   nezid,        kezid,        ozid,
+  Yos,      _flesh_,    neyos,        keyos,        oweyos,
+  Yowh,     _a body_,   neyowh,       keyowh,       oweyowh,
+  Oose,     _father_,   noose,        koose,        osun,
+  Gah,      _mother_,   negah,        kegah,        ogeen,
+  Siyahn,   _brother_,  nesiyahn,     kesiyahn,     osiyayun,
+  Shema,    _sister_,   neshema,      keshema,      oshemayun,
+  Tahwug,   _an ear_,   netahwug,     ketahwug,     otahwug.
+
+
+
+
+VOCABULARY.
+
+  [Transcriber's Note:
+  Alphabetization is as in the original.]
+
+A.
+
+  Aahe, adv. yes
+  Ahbenoojhee, n. a child
+  Ahbewin, n. a room
+  Ahnind, adj. some
+  Ahpe, adv. then, when
+  Ahkeh, n. the earth
+  Ahkeeng, in the earth
+  Ahzheh, adv. after
+  Ahneendeh, adv. where?
+  Ahyahyun, v. art thou
+  Ahweyah, n. a certain one
+  Ahnung, sing.   } n. a star
+  Ahnungoog, plu. }
+  Ahyah, v. he is, was
+  Ahneen, adv. how?
+  Ahwon, n. fog, dew, mist
+  Ahsin, n. a stone
+  Ahnweh, n. a bullet
+  Ahnahquod, n. a cloud
+  Ahnookewin, n. a work
+  Ahnemeke, n. thunder
+  Ahkoozewin, n. sickness
+  Ahpahbewin, n. a saddle, or a thing to sit on
+  Ahpwahgun, n. a pipe
+  Ahnahpe, adv. when
+  Ahgwahnahung, pt. covered
+  Ahgwahjeeng, outdoors
+  Ahpequashemoon, n. pillow
+  Ahkookoobenahgun, } n. a basket, the latter signifies a vessel
+  Ahwahjewahnahgun, }      to carry or gather with
+  Ahnahmeahwin, n. religion
+  Aindahnahbid, v. sitteth
+  Aindahyaun, n. my house or home
+  Aiskum, adv. more
+  Anwahchegaid, n. a prophet
+  Amequahn, n. a spoon
+  Atah, conj. but
+  Ahsamah, n. tobacco
+  Ahnahmahkahmig, } under the earth or ground
+  Ahnahmahkeeng,  }
+  Ahgahming, n. other side
+  Ahyahmook, v. receive it, or take it
+  Ahshum, v. feed him, or give him something to eat
+  Ahgahwahta, n. a shadow
+  Ahwashema, prep. beyond
+  Ahgwewin, n. a garment
+  Ahgookayowh, n. a bait, or something to allure animals to a snare
+  Ahgahjewin, n. bashfulness
+  Ahquahnebesohn, n. rainbow
+  Azhenekahdaig, } n. name of a thing or place. In asking a question
+  Adahming,      }      we say what is the name of that thing or place?
+  Ahgwahjeeye-ee, n. outside
+  Anahnookewenegwain, business, or it was his business
+  Anaindahmon, n. thy will
+  Azheahyog, v. as it is
+  Azhegooh, v. as we
+  Azhemahmahjenoojin, part. played or acted
+  Ahgoonwatahdezoowod, v. they refuse
+  Ahyahsenenegoon, when there is none or no
+  Ainind, pt. called
+  Ahwas, adv. away
+  Ahsub, n. a net
+  Ahyog, is here
+  Ahpugn, adv. always, usually, the same
+  Ahmooh, n. a bee
+  Ahmik, n. a beaver
+  Ahnim, n. a mean fellow
+  Ahnit, n. a spear
+  Ahnebeesh, n. a leaf
+  Ahnwabewin, n. a rest
+  Ahnahmeawegahmig, n. a church, meeting-house, or praying-house
+  Ahskekoomon, n. lead
+  Ahskahtowhe, n. a skin or hide
+  Asquach, adv. falsely, vain
+  Ahdesookaun, n. story, fable
+  Ahnwahtin, not boisterous
+  Ahwebah, n. or adj. calm
+  Ahkahkahzha, n. coal
+  Ahyegagah, adv. soon, directly
+  Ahnoodezeh, adv. greedy
+  Ahnowh, prep. though
+  Ahtoon, put it down
+  Ahneenmenik, adv. how much
+  Ahneendeh, adv. where
+  Ahneendehnahkayah, adv. which way
+  Ahnahmahye-ee, prep. under
+  Ahpahgahjeahye-ee, prep. against
+  Ahyahwug, v. there are
+  Ahgahmahye-ee, prep. across
+  Ahneeshnah, adv. why
+  Ahdick, n. a rein-deer
+  Ahjedahmoo, n. a red squirrel
+  Ahsahnahgoo, n. a black squirrel
+  Ahgwegoos, n. a chip-monk
+  Ahkuckoojeesh, n. a ground-hog
+  Ahdoomahkoomasheeh, n. a monkey, which signifies louse catcher
+    or hunter
+  Ahnemoosh, n. a dog
+  Aasebun, n. a raccoon
+  Aayabegoo, n. an ant
+  Aayanee, n. opossum
+  Ahzhahwahmaig, n. a salmon
+  Ahshegun, n. rock-bass
+  Ahgwahdahsheh, n. sun-fish
+  Ahwahsesee, n. cat-fish
+  Ahmahkahkee, n. a toad
+  Ahgoonaqua, n. tree-toad
+  Ahndaig, n. a raven
+  Ahshahgeh, n. a crane
+  Ahsegenak, n. a black-bird
+  Ahjegahdashib, n. water-hen
+  Ahsenesekab, n. gravel
+  Ahkik, n. a kettle
+  Ahbewh, n. a paddle
+  Ahzod, n. poplar
+  Ahneshenahbay, n. an Indian man
+  Apahgeeshemoog, n. west
+  Ahahwa, n. a species of duck
+  Ahwahkaun, n. cattle
+  Ahgahwosk, n. gypsum
+  Ahshahwask, n. a sword
+  Ahgwesemon, n. a pumpkin
+  Ahgwejekinzhaegun, n. an and-iron
+  Ahskebug, n. a green leaf
+  Ahgahwahtaown, n. an umbrella
+  Ahdahwaweneneh, n. a merchant
+  Ahkahnok, n. a corn-cob
+  Azheshahwask, n. a rifle
+  Ahnejemin, n. pease
+  Auskig, n. a seal
+  Ahgookewahsegun, n. sealing-wax
+  Ahpahgedoon, v. throw it
+
+B.
+
+  Bakah, v. to stop
+  Bahmah, adv. by and by
+  Bazhig, adj. one
+  Bahtay, n. smoke
+  Bahgaun, n. a nut
+  Bahbegwon, n. a bugle
+  Bakahnuk, adj. the other
+  Bahnahjetoon, v. destroy it
+  Bahtahzewin, n. sin
+  Bahgundahegawegahmig, n. a barn, or a house to thresh grain in
+  Bewegahegun, n. a chip
+  Bemahdezewin, n. life
+  Beezhahyaun, v. if I come
+  Bemoosain, v. to walk
+  Bewahbik, n. iron
+  Bedoon, v. bring it, or fetch it
+  Benetoon, v. clean it
+  Boodahwahgun, n. chimney, fire-place
+  Bewuyh, n. fur
+
+C.
+
+  Chegahye-ee, prep. near
+  Cheahnwabing, v. to rest
+  Cheshahdahegun, n. broom, sweeping instrument
+  Chepahping, pt. laughing
+  Chebwah, prep. before
+  Chebuyh, n. a corpse, dead body
+  Chemaun, n. a boat, a canoe
+  Chemenewung, v. to yield fruit
+  Chese, n. a turnip
+  Chahchaum, v. to sneeze
+  Cheahyong, v. to be
+
+D.
+
+  Dush, conj. but
+  Dushween, adv. then, there.
+    Weendush, and he;
+    owhdush, and the;
+    medush, and then;
+    egewhdush, and they
+  Doombenon, v. to lift
+  Doon, n. a mouth
+  Dahdahwawegahmig, n. a store or shop
+  Danguyh, n. the face
+
+E.
+
+  Eneneh, n. a man
+  Enenewug, n. men
+  Equa, n. a woman
+  Equawug, n. women
+  Equasance, n. a girl, or little woman
+  Emeh, adv. there (near,)--sometimes means, into, or in the
+  Ewhety, adv. there (distant,) in that place
+  Egewh, pro. them
+  Enah! int. hark! see!
+  Enewh, pro. these
+  Ezhah, v. to go
+  Ewh, a. the
+  Eskooday, n. fire
+  Esquache, adj. last
+  Ezhahdah, v. let us go
+  Esquahdaim, n. a door
+  Enaindahmoowin, n. mind, thought, will
+  Ekedoowin, n. a word
+  Eebahdun, n. butter
+  Enenahbik, n. a rock
+  Enenahtig, n. a maple-tree
+  Ezhechegaid, n. means or manner
+  Ekedooh, v. to say, or he said
+  Enahkayah, prep. towards
+  Ewedehnahkayah, adv. that way
+  Enaindahming, pt. thinking
+  Equah, n. a louse.
+
+H.
+
+  How, v. let us
+  Hah! int. the same as Ha! in English.
+
+I.
+
+  Ishpeming, n. heaven, or above
+  Inggoojhee, adv. somewhere
+  Ingoodwahsweh, adj. six
+  Ishpemesahgoong, n. chamber
+  Ingoodwak, adj. one hundred
+  Inggooding, adv. once
+  Inggwahekaun, n. the grave
+  Innoozoowahgun, n. a name-sake
+  Ingee! int. This word is used by children when they are afraid of
+    something that is large
+  Inggoodoogunze, n. a cluster of fruit.
+
+K.
+
+  Keshamunedoo, n. Merciful Spirit or Being
+  Kechemunedoo, n. God, or Great Good Spirit
+  Kecheahjechaugk, n. Great Holy Spirit
+  Kecheogemah, n. King, or great Chief
+  Kedemahganemeshin, have mercy on me
+  Kegekaindaun, v. thou knowest
+  Kechegahmeh, n. a lake
+  Kegezhaib, n. the morning
+  Ketegahnans, n. a garden
+  Kedahyah, v. thou art
+  Kedahyaum, v. you are
+  Ke-ne-nah? Is it you?
+  Kahween, adv. no sir, no, no
+  Kah, adv. no
+  Keen, pro. you, or thou
+  Koosay, n. sing. your father
+  Koone, n. snow
+  Kezis, n. the sun
+  Kiya, conj. and
+  Kegwis, n. your son
+  Kegah, n. your mother
+  Ketegaun, n. a field
+  Kahkenah, adj. all, whole
+  Koosenon, n. our father
+  Koosewah, n. pl. your father
+  Koosemah, v. may, might
+  Kahgequawin, n. law
+  Kahbabeboon, all winter
+  Kahbanebin, all summer
+  Kahgenig, adv. forever
+  Kahwekah, adv. never
+  Kagooshish, n. something
+  Kebemoosay, v. he walked
+  Kedaun, n. your daughter
+  Kezheguk, n. day
+  Kezhik, n. sky
+  Kahweenegoojee, adv. nowhere
+  Kegedoon, v. to speak, (in the imperative mood.)
+  Ke-ekedooh, v. he said
+  Kedenin, I tell you
+  Keskeezhik, n. your eye
+  Kooskoozin, v. to awake
+  Kespin, conj. if
+  Kesenah, adj. cold
+  Kagooh, shall not
+  Keche, adj. great
+  Kechauze, n. your nose
+  Ketegaweneneh, n. a husbandman
+  Keskejewahyaun, n. a waist-coat
+  Kewadenoong, n. north
+  Kekewaown, n. a flag
+  Kagate, adv. truly, verily
+  Koondun, v. swallow it
+  Kahmahsheh, adv. not yet
+  Kahskahdin, v. to congeal, to freeze
+  Kagooween, you shall not, or thou shall not
+  Kagebahdezid, n. a fool
+  Kenebood, pt. died
+  Kategang, v. to sow or plant
+  Keskahkezhegang, v. to reap
+  Kahgega, adj. eternal
+  Kazhedin, adv. immediately
+  Keahgoonwatum, v. he denied
+  Ketezeh, } adj. old
+  Kekahe,  }
+  Kegaung, n. a virgin
+  Kegowh, n. a fish
+  Keskemon, n. a whet-stone
+  Keskeboojegun, n. a saw
+  Kechepezoon, n. a girdle, a sash, a belt
+  Kebeshang, adj. deaf
+  Kepahgah, adj. thick
+  Kebesquang, adj. hoarse
+  Kesahgehenah? Do you love me?
+  Kenahweskewin, n. falsehood
+  Kashahweahyah, adj. loose
+  Kondahegwahsowin, n. thimble, an instrument used to push with
+    in sewing
+  Kahyahtenewaid, n. a mid-wife
+  Kahezhewabuk, it was so
+  Kekenahwahjechegun, n. a sign or mark
+  Kegedooweneneh, n. a speaker or lawyer
+  Kahgahgewinze, n. hemlock
+  Kahgahgeh, n. wind-pipe
+  Kekindewin, n. a covenant
+  Kezebegahegahnahboo, n. soap suds
+  Kahskahkoonegun, n. corn-crib
+  Kahskahegun, n. a scraper
+  Koozhe, n. a beak
+  Koonekahdin, n. frost, snow
+  Kechemekun, n. a high-way
+  Kagah, adv. mostly
+  Kahweengagoo, n. nothing
+  Kegahweendahmoon, I will tell you
+  Kahgequaweneneh, n. an exhorter, or preacher
+  Kegowhyekaweneneh, n. a fisherman
+  Kekaindahmoowad, v. to learn, to know
+  Kahgahnahga, do not
+  Kemahzeh, adv. badly
+  Kegezhechegahdagoobun, pt. completed
+  Kahgezheyaindum, adj. sagacious
+  Kagahgoo, adv. almost
+  Kahyask, n. a gull
+  Kahgahgehshee, n. a crow
+  Kookoosh, n. a hog
+  Kookookoo-ooh, n. an owl
+  Kenoozha, n. a pike
+  Kewetahye-ee, prep. around
+  Kedahgahbezhew, n. a wild-cat
+  Kaugk, n. a porcupine
+  Kahgebahdezewin, n. foolishness
+  Keskekechegun, n. a partition
+
+M.
+
+  Mahnedoo, n. a spirit
+  Mahjahn, v. march on
+  Mahzhenahegun, n. a book, paper, &c.
+  Mahjemunedoo, n. an evil spirit, or the devil
+  Mahzhenenee, n. an image
+  Mahskemoodance, n. satchel
+  Mahkahday, n. powder, or black
+  Megwon, n. a feather, quill
+  Mekun, n. a road
+  Mejim, n. food
+  Mezhusk, n. hay, weed, grass
+  Menesis, n. hair, of the head
+  Mequom, n. ice
+  Metig, n. a tree
+  Mesheh, n. fire-wood
+  Metigmahkuk, n. a trunk
+  Meowh, only, the one to whose
+  Minjemeneshin, v. hold me
+  Metigmahkezin, n. shoe, or wooden shoe
+  Me-ewhmenek, it is enough
+  Mahdwayahbegahegun, n. a fiddle, or a sonorific instrument, whose
+    strings are capable of vibrating
+  Megezeh, n. an eagle
+  Moozhuk, adv. often
+  Mookoomon, n. a knife
+  Moozwahgun, n. scissors
+  Menookahmeh, n. spring, a season of the year
+  Menahwahzeh, adj. cheerful
+  Mequamdun, v. remember it
+  Mezhenahwa, n. a disciple
+  Mahkundwaweneneh, n. a robber
+  Mahmahweh, adv. together
+  Mezheshenon, v. give us
+  Mesquagin, n. purple
+  Mahkahdaeneneh, n. a black man
+  Mahkahdaequa, n. a black woman
+  Mawezhah, adv. anciently, long ago
+  Metegwob, n. a bow
+  Moskin, n. full
+  Mahdwawa, n. a sound
+  Menoodahchin, adv. enough
+  Menekaun, n. seed
+  Menequang, v. to drink
+  Mahskoosen, n. a marsh, a bog, a fen
+  Mamangwah, n. a butterfly
+  Mahskeeg, n. a swamp
+  Mahmahjenoowin, n. miracle
+  Mahnahtaneseweneneh, n. a shepherd
+  Mahskahwezewin, strength
+  Mahjetong, v. to begin
+  Mahkuk, n. a pail, or box
+  Mahkahkoosug, n. a barrel
+  Megahzooweneneh, n. a soldier, a man of war, or a fighting man
+  Mahmahkahdezing, v. to boast
+  Megoos, n. an awl
+  Menis, n. an island
+  Mahwewin, v. to cry
+  Memenik, v. be quiet
+  Mahskekeh, n. medicine
+  Mahnedoosh, n. an insect, a worm
+  Mahbah, this one
+  Mesahkoodoonahgun, n. beard, the hair that grows on the lips and chin
+  Mondahmin, n. corn
+  Mechekahnok, n. a fence
+  Metegoominzhe, n. an oak
+  Mahskooda, n. plains, flats, or level ground
+  Mahgeahyah, adj. big
+  Mahgoobedoong, v. to squeeze
+  Mayahgezid, n. a stranger
+  Menahwah, adv. again, more and more
+  Mamahjenoojin, v. he played
+  Metahskahkahmig, n. the ground, or on the ground
+  Menoomenik, adj. sufficient
+  Mamahjenood, n. an actor
+  Magwaahye-ee, prep. among
+  Mahnahtanis, n. a sheep
+  Meshebezhee, n. a lion
+  Mahengun, n. a wolf
+  Mesahbooze, n. a goat
+  Mahquah, n. a bear
+  Moaze, n. a moose
+  Mahskoodaysay, n. a quail
+  Mahnoomenekashee, n. a mud-hen
+  Mezhesay, n. a turkey
+  Mesahmaig, n. a whale
+  Mahzhahmagoos, n. trout
+  Mahnoomin, n. rice
+  Mezheh, adv. everywhere
+  Magwah, adv. while
+  Manmooyahwahgaindahmoowin, n. thankfulness
+  Meshejemin, n. a currant, (fruit)
+  Mahzahn, n. a thistle
+  Mahjegooday, n. a petticoat
+  Menekahnekah, adv. seedy
+  Mejenahwayahdahkahmig, n. pity
+  Mahmahdahwechegawenebun, it was a strange custom
+  Menesenoo, n. a hero
+  Mesquahsin, n. brick, which signifies, red stone
+  Mesahowh, that is
+  Moosay, n. a worm
+  Moong, n. a loon
+  Meene, n. a kind of fruit
+  Mahjekewis, adj. the eldest
+  Meskoodesemin, n. a bean
+  Mategwahkezinekaid, n. a shoe-maker
+  Menahwenahgowd, v. look pleasant
+  Meneweyook, v. be fruitful
+  Megeskun, n. a hook
+  Mezesok, n. a horse-fly
+  Mahwahdooskahegun, n. a rake
+  Mookoojegun, n. a plane, or drawing-knife
+  Mahskemood, n. a bag
+  Moonegwana, n. a meadow-lark
+  Meshawa, n. an elk
+  Mahskekeweneneh, n. a physician.
+
+N.
+
+  Nebahgun, n. a bed, a place to sleep on
+  Newewesin, I want to eat
+  Nonggon, adj. light
+  Nee, } pro. I, me, my
+  Ne,  }
+  Negah, n. my mother
+  Neezhe, adj. two
+  Nesweh, adj. three
+  Newin, adj. four
+  Nahnun, adj. five
+  Newob, v. I see
+  Noongoom, adv. now
+  Nahgudge, adv. little while
+  Nedaih, n. my heart
+  Nekod, n. my leg
+  Noodin, n. wind
+  Nahdin, v. go and fetch it
+  Nezid, n. my foot
+  Nagowh, n. sand
+  Noodosh, adj. least
+  Neenatah, but me, only me
+  Nezhekaih, adj. alone
+  Netum, adj. first
+  Negaun, prep. before
+  Nahpahna, n. flour
+  Nahsahkoonun, open it
+  Nebahkahda, I am hungry
+  Nahbahgesug, n. a board
+  Nahgahmoowin, n. a hymn, or a song
+  Nahme-eding, pt. meeting
+  Nahongahnik, n. a maid
+  Nahwahye-ee, n. diameter
+  Nejekewa, n. a comrade
+  Nejee, n. a friend
+  Nanahdahwe-ewaid, n. a saviour
+  Nahbequon, n. a vessel, a ship
+  Nahbequahneshee, n. a sailor, or a man that sails or attends ships
+  Nebewah, n. many
+  Nahboob, n. soup
+  Neweahyahwah, I want him
+  Nasawin, n. breath
+  Nedezedaahe, v. I dare
+  Nahzequaegun, n. a curry-comb
+  Nekebee, covered with water, or overflowed
+  Nayob, back again
+  Nahgowh, n. a sleeve
+  Nedenaindum, v. I think
+  Nahwahquay, n. the middle of the day, noon
+  Neskahdezewin, n. anger
+  Nasagwahbedaoonance, n. a pin, which signifies to prick with
+  Negekaindaun, v. I know
+  Nebwahkahwin, n. wisdom
+  Newahwezhandum, v. I am glad
+  Nahmahdahbin, v. sit thou
+  Nahmahdahbing, v. to sit
+  Noodahgoozing, pt. roaring
+  Nedekedoowin, my word
+  Negetim, I am lazy
+  Nezheka, adv. apart
+  Nesahye-ee, adv. down
+  Negaunnahkayah, adv. forward
+  Nesahye-ee, prep. below
+  Nahwahye-ee, prep. amidst
+  Nahmaih, n. a sturgeon
+  Nahmabin, n. mullet
+  Nekah, n. a wild goose
+  Nahkayah, n. a way
+  Nebeh, n. water
+  Nebeeng, In the water
+
+O.
+
+  Ogemah, n. a chief
+  Oojechog, n. a soul
+  Oondaus, v. to come
+  Omah, adv. here
+  Owh, a. the
+  Oowh, pro. this
+  Oogooh, pro. those, their
+  Oogemekaun, he found it
+  Oogeoozhetoon, he made it
+  Oodahpenun, take it
+  Oonekig, n. a parent
+  Oopegagun, n. a rib
+  Opequoj, n. an air-bladder
+  Oonzegun, n. a boiler, or a kettle
+  Oodanggowh, n. his face,
+    --[_for an explanation of this and several of the following words,
+    see page 21_]
+      [Transcriber's Note: See section "Formation of Words,"
+      immediately before Vocabulary list.]
+  Oochauze, n. his nose
+  Oodoon, n. his mouth
+  Onowh, n. his cheek
+  Ostegawn, n. his head
+  Oskezhizk, n. his eye
+  Omahmowh, n. eyebrow
+  Odanegoom, n. nostril
+  Odaih, n. heart
+  Onik, n. arm
+  Otahwug, n. ear
+  Okod, n. leg
+  Ozid, n. foot
+  Onoogun, n. hip
+  Onindj, n. hand
+  Ojetud, n. tendon
+  Oquagun, n. neck
+  Opequon, n. back
+  Obowm, n. thigh
+  Okahkegun, n. breast
+  Ozhebeenguyh, n. tear
+  Omesud, n. paunch
+  Odoosquahyob, n. vein
+  Okun, n. bone
+  Odaewaun, n. their heart
+  Oskunze, n. nail of the finger and the hoof of a horse, or all kinds
+    of hoofs
+  Odaun, n. daughter
+  Ootanowh, n. town, city, village, however we say kecheotanowh for
+    great town or city, by adding nance, it means small town or village
+  Odataig, n. gills of a fish
+  Onejegun, n. fin of a fish
+  Ozhegown, n. tail of a fish
+  Okodahkik, n. a pot, a kettle that has legs, or a leg-kettle
+  Oozaum, adv. too much
+  Oogee, pro. he
+  Opin, n. a potatoe
+  Obewuyh, n. fur
+  Omemee, n. a pigeon
+  Onegwegun, n. a wing
+  Oskenahway, n. a youth, a young man
+  Odahbaun, n. a sled
+  Ongwahmezin, be ye faithful
+  Oogaah, n. pickerel
+  Ogejebeeg, surface of the water
+  Ozhahwahnoong, n. south
+  Okayahwis, n. herring
+  Oojeeg, n. a fisher
+  Ogah, n. mother
+  Oose, n. father
+  Opecheh, n. a robin
+  Onesheshid, a clever one
+  Ookoozhe, n. a beak
+  Oskezegookahjegun, n. spectacle
+  Onahgooshig, n. the evening
+  Okahquon, n. shin
+  Ogeeozheaun, he made them
+  Ogeeozhetoon, he made it
+  Oskunzhekahjegun, n. a horse-shoe
+  Oombahquahegun, n. a lever
+
+P.
+
+  Pabahmahjemood, n. a messenger
+  Poonahkunjegun, n. anchor
+  Pookedoonze, n. a pear
+  Pahdahkemoojeskahjegun, n. a spur
+  Pewakoodahmahgun, n. shavings
+  Pahketaegun, n. a hammer
+  Pemenegun, n. a gimlet, an auger
+  Penahquahn, n. a comb
+  Pezhekeence, n. a calf
+  Pesahkahmegeboojegun, n. a harrow
+  Pequahegun, n. a hill
+  Pabahbahgahne, n. a pancake
+  Pazhegwahnoong, one place
+  Panggwon, adj. dry
+  Pahquonge, n. a stump
+  Pahgasaun, n. a plum
+  Pahpenadumoowin, n. happiness
+  Pahquazhegun, n. bread
+  Pahskezegun, n. a gun
+  Pahquazhegunush, n. wheat
+  Pahnezid, adj. holy
+  Pazhegoogahzhee, n. a horse or an animal not cloven-footed
+  Pashebeegun, n. a rule
+  Peshegaindahgoozewin, n. glory
+  Pepoon, n. winter
+  Pezahneewawin, n. peace
+  Pahzegween, v. to arise
+  Penasewug, n. fowls
+  Pewahbum, v. come and see him
+  Pewahbundun, v. come and see it
+  Pajeewe, adj. weak
+  Pesahgeskebik, n. darkness
+  Pesekun, put it on
+  Peenzekahwahgun, n. a coat or loose garment
+  Pahwahbekezegun, n. a stove or an iron box that is capable of being
+    warmed through
+  Pahzhejeahje-ee, prep. over
+  Peendahgun, n. a pocket or pouch
+  Peendig, n. inside
+  Paquahkoostegowng, block-headed
+  Pequahquod, n. a ball or knot
+  Poodahwain, make fire
+  Poodahjegun, n. a musical or blowing instrument
+  Pookedaemin, n. a mandrake
+  Pahmetahgun, n. a servant
+  Pahbegwah, adj. rough
+  Pahquahskezhegun, n. a scythe
+  Papahmebahegood, n. a rider, a name for a dragoon
+  Pamahdezid, the living
+  Pahsquagin, n. leather
+  Pahbahgewahyaun, n. a shirt, calico
+  Pengwahshahgid, adj. naked
+  Pezindun, v. to hear, to listen
+  Pinggweh, n. ashes
+  Pungee, adj. little, not enough
+  Peendegaye-ee, prep. within
+  Pegiwh, n. gum, wax
+  Pemeday, n. oil, grease
+  Pequok, n. an arrow
+  Pooch, v. must
+  Pahkahahquay, n. a cock,--this bird has derived its name from its
+    crowing; so nearly all birds
+  Pahpahsay, n. a wood-pecker; this, from its pecking
+  Penaih, n. a partridge
+  Pahkaunnahkayah, adv. another way
+
+Q.
+
+  Quatahmegwaindahgoozid, n. the Almighty
+  Quewesance, n. a boy
+  Quahnoj, adj. good
+  Quakenun, turn it over
+  Quesqueshin, n. a whistle
+  Quahbahegun, n. a shovel
+  Quahnahjewun, adj. handsome
+  Quaich, adj. tenth
+  Quiyuk, adv. straight, right
+  Quaichegooh, just as
+
+S.
+
+  Shahgooda-a, n. a coward
+  Shahwanemeshin, bless me
+  Shewetahgun, n. salt
+  Shahwemin, n. a grape
+  Shemahgun, n. a shield
+  Shooneyah, n. silver, money
+  Shenganedewin, n. hatred
+  Sahnahgud, adj. difficult
+  Sahkahown, n. a cane
+  Sanahbanh, n. silk, or ribin
+  Sasahbob, n. a rope, thread
+  Shongahswak, adj. nine hundred
+  Shewahbik, n. alum, or iron of an acid taste
+  Shewon, adj. sour
+  Shonggahsweh, adj. nine
+  Sebeeh, n. a river
+  Sebeeng, in the river
+  Shegah, n. a widow
+  Shinggwok, n. a pine tree
+  Shahgahnosh, a white man
+  Shinggoos, n. a weasel
+  Shonggwasheh, n. a mink
+  Shepahye-ee, prep. through
+  Shegog, n. a skunk
+  Shesheeb, n. a duck
+  Sahgahquahegun, n. a nail
+  Shegwanahbik, n. a grind-stone
+  Shegwanahwis, n. fish-worm
+  Shesheeb-ahkik, n. a tea-kettle; (see shesheeb and ahkik,)
+  Sahgedoonabejegun, n. a bridle
+  Sahgahegun, n. a screw
+  Shegahgahwinze, n. an onion
+  Shahboonegaunce, n. a needle, it signifies to pull or push through
+
+T.
+
+  Tahnahgwud, v. appear
+  Tedebawe, n. the shore
+  Tebahegezeswon, n. a watch or clock
+  Tabanegaid, n. Lord
+  Tabahkoonewaid, n. a judge or ruler
+  Tebahkoonegawin, n. judgment
+  Tabwayaindahmoowin, n. a creed
+  Takoonewaid, n. a constable
+  Tabwawin, n. truth
+  Tahbeskooch, v. to equal
+  Tahweahyah, n. space
+  Tabwatun, v. believe thou
+  Tebahegun, n. a measure; by adding ce, we have, cup
+  Toodooshahboo, n. milk
+  Tawaegun, n. a drum; (see mahdwayahbegahegun,)
+  Tegowh, n. a wave
+  Tebik, n. night
+  Tahgah, v. to let
+  Tahwah, int. alas!
+
+U.
+
+  Undoom, call him
+  Umba, come and let us go
+
+W.
+
+  Wah, pro. what
+  Wahwon, n. an egg
+  Weyos, n. flesh, meat
+  Webid, n. a tooth
+  Ween, pro. him
+  Wewon, his wife
+  Waquain, pro. whoever
+  Wewahquon, n. a hat
+  Wahbegun, n. clay
+  Wahsayah, n. light
+  Wagoonan, what is it?
+  Wekah, long before
+  Wahbemin, n. an apple
+  Weendun, tell it
+  Wanain, who is it?
+  Weyowh, n. a body
+  Wahjewh, n. a mountain or hill
+  Wahowh, pro. this
+  Wenegun, n. marrow
+  Wenesis, n. hair
+  Wanankeen, who art thou?
+  Wesabgun, adj. bitter
+  Wagoosing, n. the son
+  Wahbeda, v. to ripen
+  Wenin, n. fat
+  Wahnekaun, n. a ditch
+  Wahbezewin, n. paleness
+  Weenzhoob, n. gall
+  Wenud, adj. dirty
+  Wahwahbegoonojhee, n. a mouse
+  Wahsahkoonajegun, n. a candle, or a thing that produces light
+  Wahsachegun, n. a window
+  Wahbahnahnug, n. the morning-star
+  Wahsahmoowin, n. lightning
+  Wesenewagun, n. a table, or something to eat on
+  Wegewaum, n. a house
+  Wetookahweshin, help me
+  Wetoopahmeshin, eat with me
+  Wanepuzhe, adv. freely
+  Wahyaskud, in the beginning
+  Weendahmahweshin, tell me
+  Wahgedahkahmig, on land
+  Wawaneh, thank you
+  Wahsahgung, n. pepper, or a bitter substance
+  Wahskoobung, adj. sweet
+  Wekahnesun, his brother
+  Wahwazhetaun, v. prepare thou
+  Wahnahgak, n. bark
+  Wahbemoojechaugown, n. a looking-glass; something used to see the
+    image in
+  Weendegooh, n. a giant
+  Weyahgahsahne, n. dust
+  Wedookoodahdedah, let us help each other
+  Wequajeoong, v. to struggle
+  Wenaindib, n. brains
+  Wahbezhasheh, n. a martin
+  Wahwahskasheh, n. a deer
+  Wahwahtaseh, n. a lightning-bug
+  Wahwahyayah, adj. round
+  Wahgoosh, n. a fox
+  Wahnesquazewin, n. carelessness
+  Wahgahquod, n. an axe
+  Wahbahbik, n. tin
+  Wahbejeskezhegwa, adj. wall-eyed
+  Wob, v. to see
+  Wahzeswon, n. a nest
+  Wahbooyon, n. a blanket
+  Wahnechega, v. to misdo
+  Wahnewenon, v. to mislead
+  Wahbemenahboo, n. cider
+  Wesahgok, n. ash
+  Wegwos, n. birch tree, and its bark
+  Wegoobeminze, n. bass-wood
+  Wak, n. spawn
+
+Z.
+
+  Zhahwanedewin, n. love
+  Zahzahgewejegun, n. an offering
+  Zagezewin, v. to fear
+  Zegahundahgawin, n. baptism
+  Zhahgemaih, n. a musketoe
+  Zheezebahquod, n. sugar.
+
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+
+_Notes on Updated Text_
+
+This section comes from a reader who knows considerably more Ojibwe
+than the transcriber (who knows none at all):
+
+_Orthography_
+
+  (forms in "Chipeway Spellings" : equivalent in Fiero orthography)
+
+  ah              : a, aa, aanh
+  au, aw          : aa
+  aih             : e, enh
+  a, ai, -ay      : e
+  e, eh           : i, ii
+  ee, eeh         : ii, iinh
+  i               : i, ii, ay
+  oo              : o, oo
+  ooh             : o, oo, oonh
+  ou              : --
+  o               : a, aa
+  u               : a, w
+
+  w-, -wh         : w
+  y               : y, ay
+
+  ch, j           : j, ch
+  ck              : k
+  k, g, gk        : g, k
+  m, -hm          : m
+  n               : n
+  -nce            : -ns
+  p, b, -be       : b, p
+  qu              : gw, kw
+  s, z, -se       : s, z
+  sh, zh, -zhe    : zh, sh
+  sk, sch         : sk, shk
+  sp              : shp
+  squ             : skw, shkw
+  st              : sht
+  t, d, -dt,
+    -te, -de, td- : d, t
+
+_Author of Spelling book:_
+
+I am convinced that 'Spelling' is by Peter Jones, as he was commissioned
+to put together a spelling book on June 2, 1828, and presented the
+manuscript to a printer in York on June 19, 1828, for the Methodist
+Indian Missionary School he ran, which Conference Missionary Society
+was a Methodist society. Also, in his book _Life and journals of
+Kah-ke-wa-quo-na-by_, in the journal entry for the 19th, it says,
+"Arrived at York in the afternoon, and commenced getting a small Indian
+spelling book, which I had written, printed at Mr. McKenzie's office."
+and considering "Spelling" was only 12 printed pages--3 sheets of
+paper--that, I think, does qualify as "a small Indian spelling
+book."
+
+_Syncope:_
+
+Several words are presented in a partial syncope form. For example,
+_gagiinawishkiwin_ to mean a fib, a lie or a falsehood, in the partial
+syncope form is _ggiinawishkiwin_, and the full syncope form is
+_ggiinwishkwin_. Summerfield presents this word as _Kenahweskewin,
+n. falsehood_, which seems to match the partial syncope form of the
+word. However, if this partial syncope is noted, so should the dozen
+or so other words shown in partial syncope.
+
+       *       *       *       *       *
+           *       *       *       *
+
+Errors and Anomalies
+
+_Spelling Book_:
+
+  [Title page]
+  Ah-ne-she-nah-pay,  [-nah-pa]
+  Kah-ke-ke-noo-ah-mah-ween-twah  [Ka-ke-ke-]
+
+  [Words of one Syllable]
+  Squahch  [Squach]
+  shwahs  [shwas]
+
+  [Words of two syllables accented on the 1st & 2nd]
+  kah che  [ka che]
+
+  [Words of three syllables accented on the last]
+  ko se non [koo se non]
+
+  Words of four syllables accented on the sixth.
+    [_text unchanged: probably error for "on the first"_]
+
+  [Six syllables] [Accented on the second and last]
+  wah wah pe ko noo jeeh  [koo noo jhee]
+
+  [Lord's Prayer]
+  Oo-tah-nu-me-tah-koo-se-win.  [Oo-tah-ne-me-]
+  ne-kah-e-she-wa-pe-se-min  [-we-pe-se-min]
+  nah-sahb-e-koo  [nah-sab-e-koo]
+
+  [Grace Before Meat]
+  me-chim-pe-mah-te-se-win  [me-chim pe-mah-]
+  kah-pah-ke-te-nah-mah-we-yongk  [ke-te- nah]
+  ka-oon-je-mah-skah-we-se-yongk  [ka-oon-je mah-skah-]
+  Jesus Christ a-spa-ne-moo-yongk  [a-pa-ne-]
+
+  [Grace After Meat]
+  [_first line as printed:_
+  Ah-noo-shoo-tah -mah--ka-win, kah--e-squah, we-se-ningk.]
+  ka-ah-pa-ne-moo-yongk  [-ne-moo yongk]
+
+
+_Grammar Book_:
+
+  Nestahnah ahshepachick
+    [_spelling as in original: expected form is "-zhick"_]
+  necessarily implies an agent and an object acted upon
+    [an abject]
+
+  [Fable]
+  quakeskahwod enahkahkayah wahwazheowening
+    [_text reads enahka-/yah at line break_]
+
+  [Vocabulary]
+  Ahnweh, n. a bullet  [Ahnewh]
+  Dahdahwawegahmig, n. a store or shop  [Dahdahwawegahnig]
+  Kenahweskewin, n. falsehood
+    [_printed as shown: better form is "Kkenahweskewin"_]
+  Mahnedoo, n. a spirit  [s spirit]
+  Mahdwayahbegahegun, n. a fiddle ... capable of vibrating  [cabable]
+  Mezheshenon, v. give us  [Mezheshenom]
+  Nasagwahbedaoonance, n. a pin, which signifies to prick with
+    [signifiies]
+  Pegiwh, n. gum, wax  [Pegwih]
+  Wak, n. spawn
+    [_printed as shown: should be "Wahk" or "Wauk"_]
+
+
+_Missing Letters:_
+
+The second page of the "Fable" is imperfectly reproduced, so the end of
+each printed line is conjectural. The text is shown here as printed,
+with added letters in [brackets]. Line-end hyphens represent word
+breaks, not glottal stops.
+
+  kiya kegezhechegahdagoobun! Ewh peenjahye-ee weba[h-]
+  goobun. Kagate onesheshin oostegwan ayaug omah, eke[-]
+  doo owh wahgoosh; kagate mejenahwa yahdahkahmi[g]
+  kahwenaindib ahyahsenoog!
+
+  Nahnind quahnoj quewesansug ahyahwug kiya equa[-]
+  sansug kemahzheh ekoogenedwah oowh enaindahmoowo[d]
+  kahween kagoo ohbahbah mahndahsenahwah, ewh ata[h]
+  oobeshegadahgoosewenewah, ahgoonwatahtesuwod kagoo
+  chekekadahmoowod medush azhe quakeskahwod enahka[hka-]
+  yah wahwazheowening. Koonemah eneneh odah ahtoo[d]
+  ewh onindj emah ostegwahning onowh pazhik kiya tahe[-]
+  kedooh kahekedood owh wahgoosh kagate sahquahno[j]
+  owh oostegwan omah ayog kagate sah mejenah wayahda[h-]
+  kahmig ahyah senoog ewh wenaindib.
+
+
+
+
+End of the Project Gutenberg EBook of Sketch of Grammar of the Chippeway
+Languages, by John Summerfield
+
+*** END OF THIS PROJECT GUTENBERG EBOOK GRAMMAR OF THE CHIPPEWAY ***
+
+***** This file should be named 19807.txt or 19807.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/9/8/0/19807/
+
+Produced by Louise Hope, C. J. Lippert, David Starner and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by the Canadian Institute for Historical Microreproductions
+(www.canadiana.org))
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
