@@ -1,0 +1,4412 @@
+The Project Gutenberg EBook of Illustrated Catalogue of  Cotton Machinery, by 
+Howard & Bullough American Machine Company, Ltd.
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Illustrated Catalogue of  Cotton Machinery
+
+Author: Howard & Bullough American Machine Company, Ltd.
+
+Release Date: December 14, 2011 [EBook #38301]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK COTTON MACHINERY ***
+
+
+
+
+Produced by Don Kostuch
+
+
+
+
+[Transcriber's notes]
+  Page numbers in this book are indicated by numbers enclosed in curly
+  braces, e.g. {99}. They have been located where page breaks occurred
+  in the original book.
+
+  Obvious spelling errors have been corrected but "inventive" and
+  inconsistent spelling is left unchanged.
+
+  Material suitable for searching has been converted to text. Complex
+  tables that would not provide useful search targets and would be
+  prone to transcription errors have been left as images.
+[End Transcriber's notes]
+
+{2}
+
+[Illustration]
+
+PLANT OF
+HOWARD & BULLOUGH AMERICAN MACHINE COMPANY LTD.
+
+PAWTUCKET, R. I.
+
+{3}
+
+ILLUSTRATED CATALOGUE
+
+of
+
+COTTON MACHINERY
+
+Built by
+
+HOWARD & BULLOUGH
+AMERICAN MACHINE COMPANY, LTD.
+
+PAWTUCKET, R. I., U. S. A.
+
+OPENING, PICKING, CARDING, DRAWING, ROVING, SPINNING, TWISTING AND
+WINDING MACHINERY
+
+WARPERS AND SLASHERS
+
+Containing Also Floor Spaces, Speeds, Productions, Gearing Diagrams,
+Useful Tables and Other Information
+
+1909
+
+BOSTON OFFICE, 65 FRANKLIN STREET
+C. E. RILEY, TREASURER
+
+SOUTHERN OFFICE, EMPIRE BUILDING, ATLANTA, GA.
+
+{4}
+
+INTRODUCTION.
+
+We take pleasure in presenting this book, trusting that the
+information it contains will be of interest and service.
+
+In compiling this catalogue we have included such descriptive matter
+as will set forth the main features and advantages of our machinery,
+also outline drawings, gearing diagrams, floor spaces, speeds,
+production and other tables, and information of use to all those
+interested in Cotton Mills.
+
+Some of the information contained in this book has hitherto been
+presented in circular and book form, but at the request of numerous
+friends and users of our machinery we now issue this complete
+catalogue which contains considerable additional information, besides
+which it is in a compact and convenient form.
+
+Our machinery is extensively used, and is well and favorably known.
+
+It will be our endeavor in the future to continue to make improvements
+and maintain the high standard which has characterized our machinery
+in the past.
+
+{5}
+
+INDEX.
+
+OPENING AND PICKING MACHINERY        PAGE
+Hopper Bale Opener                      8
+General Description                     9
+Floor Plans and Elevations             12
+Automatic Hopper Feeder                14
+Self-feeding Opener                    16
+Trunking                               20
+Breaker Lappers                        24
+Combination Machines                   30
+Intermediate and Finisher Lappers      32
+Production Tables                      36
+Gearing Diagrams                       38
+Calculations                           43
+Floor Plans and Elevations             52
+
+REVOLVING FLAT CARDS
+General Description                    61
+Patent Setting Arrangement for Flats   67
+Williams' Patent Stripping Motion      68
+Floor Plan                             72
+Gearing Diagram                        72
+Calculations                           75
+Production Tables                      75
+Gearing Tables                         77
+Clothing                               80
+
+DRAWING FRAMES
+General Description                    82
+Floor Plans                            88
+Table of Lengths                       90
+Production Tables                      91
+Gearing Diagram                        92
+Calculations                           94
+Gearing and General Tables             96
+Electric Stop Motions                  98
+
+SLUBBING, INTERMEDIATE,
+  ROVING AND JACK FRAMES
+General Description                   103
+Improved Differential Motion          107
+Improved Lay Gearing                  109
+Speed Tables                          111
+Floor Plans                           118
+Tables of Lengths                     119
+Production Tables                     113
+Gearing Diagrams                      123
+{6}
+Calculations                          127
+Gearing Tables                        130
+Roving Tables                         136
+
+RING SPINNING FRAMES
+General Description                   141
+Improved Builder                      151
+H. & B. Separator                     152
+Floor Plan                            154
+Table of Lengths                      155
+Production Tables                     156
+Gearing Diagrams                      160
+Calculations                          164
+Gearing Tables                        166
+Yarn Twist Tables                     176
+Table for Numbering Cotton Yarn       179
+Breaking Weights of American Yarns    184
+
+SPOOLERS
+Table of Lengths and Productions      186
+REELS                                 187
+
+TWISTERS
+General Description                   188
+Floor Plan                            193
+Table of Lengths                      195
+Production Tables                     198
+Gearing Diagrams                      203
+Calculations                          206
+Gearing Tables                        208
+Twist Tables                          210
+
+CONE AND TUBE WINDERS
+General Description                   222
+Floor Plan                            225
+WARPERS                               226
+SLASHERS                              227
+
+MISCELLANEOUS
+Shipping Weights                      232
+Table of English
+  Weights and Measures                233
+Classification of Cotton              237
+General Rules with Examples           234
+Power Required by Cotton Machinery    238
+Belting Required for Various Machines 240
+Horse-power Tables of Shafting        242
+Horse-power Tables of Belting         246
+Data on Manila Transmission Rope      250
+Spindles in U. S.                     252
+World's Cotton Spindles               253
+
+{7}
+
+OPENING AND PICKING MACHINERY.
+
+The Opening and Picking of cotton should have the same careful
+attention as the Carding and Spinning, although the latter processes
+may seem to some to be more important. Much more attention is being
+given to this Department everywhere to-day than formerly, and better
+equipments of machinery are being used. The same equipment is not
+equally good for all classes of work, as the machinery must be
+designed and adjusted for the particular kind of stock to be used.
+
+Unless the cotton is well opened and cleaned, and good even laps are
+made, the Carding will suffer, and the Card Clothing will soon be
+damaged, which means poor and costly work.
+
+We invite with every confidence all possible investigation into the
+construction and improved design of our Opening and Picking machinery,
+and the work it is doing in the mills. This entire line of machinery
+is substantially built, very simple, and contains many valuable
+improvements.
+
+{8}
+
+[Illustration]
+PATENT HOPPER BALE OPENER
+
+{9}
+
+HOPPER BALE OPENER.
+
+An investigation of the present methods of handling cotton before it
+reaches the Pickers shows that in a large percentage of mills there
+are opportunities for greatly reducing the labor cost and at the same
+time improving in a marked degree the quality of opening and mixing.
+The saving which can be effected in labor, and the better results
+obtained by a more thorough opening of the cotton and a more even
+mixing, can hardly be appreciated except by those who have seen it
+demonstrated by the use of our Hopper Bale Opener.
+
+This machine is extensively used in England and on the Continent,
+where it is giving most satisfactory results. It is filling a need
+which has long existed.
+
+LABOR SAVING--A bale of cotton can be thoroughly opened without damage
+to the staple in six to ten minutes, which means that one hand can
+open upwards of 150,000 to 200,000 lbs. per week and still have time
+for taking care of bagging, ties, etc. Even when the weekly
+consumption of cotton is very much less than this there is a saving in
+labor, as the quick completion of the work means that the attendant
+can give his attention to something else.
+
+QUALITY OF WORK--The fluffy condition of the cotton as it is delivered
+from the Hopper Bale Opener shows the very thorough manner in which it
+is opened. Although the cotton is fed to the machine in large matted
+sections taken directly from the bales as they lie around the
+horizontal feeding apron, no bunches come through. When cotton is
+opened and mixed by hand the result is not what is generally supposed.
+The stock is still in large bunches and matted to such an extent that
+when fed into the Hoppers of ordinary Openers it is impossible to
+obtain an even or thorough mixing.
+{10}
+
+THE FEEDING APRON of the Hopper Bale Opener usually extends four feet
+back of the Hopper which enables the operator to group a number of
+bales around the machine so as to take cotton first from one and then
+from another. This gives an even mixing of the stock from the various
+bales. If it is desired this idea can be carried still further by
+making the Feeding Apron longer, so as to allow of taking cotton from
+a greater number of bales.
+
+METHOD OF WORKING--The matted sections taken direct from the bale and
+placed on the slowly driven Horizontal Feeding Apron move forward into
+the Hopper and are taken by the more rapidly moving Spiked Elevating
+Apron, which subjects the cotton to a sort of combing action. At the
+top of this Apron there is a spiked Cylinder which further combs the
+cotton and throws back into the Hopper any unopened pieces. A
+Stripping Beater with stiff leather blades strips the stock from the
+Spiked Apron and delivers it onto the short delivery Apron at the
+front of the machine.
+
+DELIVERY ARRANGEMENTS--The ordinary or standard delivery arrangement is
+shown in the cut, page 8, and in the outline drawing, page 12. We have
+recently designed a double apron delivery for use with Condenser and
+Blower systems, where the cotton has to be carried quite a distance.
+This arrangement does away with the necessity of passing the stock
+through a fan and is approved by the Insurance Companies.
+
+The cotton being delivered into the conveying pipe ahead of the
+"Blower Fan," there is no fire risk due to hard substances passing
+through or stock getting caught in the fan. We have designed many
+special delivery arrangements to meet the various conditions which
+present themselves, including a suitable delivery for use with either
+lattice distributing systems or blowing systems.
+
+{11}
+
+DISTRIBUTING SYSTEMS--The installation of this Hopper Bale Opener makes
+a distributing system more advantageous and satisfactory. We have
+equipped many Opening Rooms with Distributing Lattices which deliver
+the cotton directly into the Hoppers of the Self-feeding Openers, thus
+saving another handling.
+
+When the Hopper Bale Opener is located some distance from the
+distributing lattice, the latter may be fed by a blower and condenser
+system, and when the distance is very short an elevating lattice is
+used, dropping the cotton directly on the distributing lattice. We are
+always glad to take up special cases and make recommendations in
+connection with the conveying and distribution of cotton either for
+short or long distances.
+
+An advantage which is not usually thought of or appreciated is the
+more even Breaker laps obtained where a Hopper Bale Opener and
+distributing system are used. The Hoppers of the Feeders are more
+evenly fed and the stock is in a much better condition than when mixed
+and fed by hand.
+
+CONSTRUCTION--The machine is very strongly built throughout. An extra
+large Hopper is an advantage possessed by this Opener. The Spiked
+Elevating Lattice is made on a new patented system and the slats on
+same are of heavy selected stock.
+
+DRIVING PULLEYS AND SPEEDS--The Driving Pulleys are on the right hand
+side when facing the Hopper or Feed and are 11 in. dia., 3 in. face,
+tight and loose, and should be driven at about 582 revs. per minute.
+
+PRODUCTION--150,000 to 200,000 lbs. per week of 60 hours.
+
+FLOOR SPACE--The machine with short Feeding Lattice, as shown on the
+illustration, page 8, is 13 ft. 1-1/4 in. x 6 ft. 10 in.
+
+{12}
+
+[Illustration]
+HOPPER BALE OPENER
+WITH STANDARD SHORT APRON DELIVERY
+
+{13}
+
+[Illustration]
+HOPPER BALE OPENER WITH DOUBLE APRON DELIVERY
+
+{14}
+
+[Illustration]
+AUTOMATIC HOPPER FEEDER
+
+{15}
+
+AUTOMATIC HOPPER FEEDER.
+
+HOPPER--This is extra large and capable of holding 400 to 450 pounds of
+cotton.
+
+SPIKED ELEVATING APRON runs over large flanged blocks and is extra
+strong.
+
+STRIPPING COMB OR ROLLER--This works in conjunction with the Spiked
+Apron, and is very simple and durable. It is self-cleaning and is
+easily adjusted by means of a handle on one side of the machine. This
+handle can be locked in position after an adjustment is made, and the
+arrangement, although operated from one side of the Feeder, gives a
+positive parallel motion, and consequently a true setting of the
+Stripping Comb.
+
+PIN BEATER takes the cotton from the Spiked Apron. The stock, after
+passing over the cleaning grids, drops on the Delivery Apron.
+
+KNOCK-OFF ARRANGEMENT--This is simple and durable, and is so designed
+as to be easily connected to the knock-off on the Breaker Lapper or
+other machine which follows.
+
+APRONS all have strong and easily adjusted tightening devices.
+
+SIMPLICITY--Our Feeder is reduced to the simplest design possible
+consistent with even and good work, and has no troublesome cone drums.
+
+COMBINATIONS of this Feeder with the various Opening and Picking
+Machines are made to suit any special requirements of the mill. The
+Feeder when combined with an Opener is driven from a pulley on the
+Cylinder or Beater shaft, and when feeding on to the Apron of a Lapper
+is driven from the Lapper Countershaft.
+
+DRIVING PULLEY AND SPEED--The Driving Pulley is 10 in. dia., 2-1/4-in.
+face, and should be driven at about 550 revs. per minute.
+
+FLOOR SPACE--Length, 10 ft. 5 in.; width, 5 ft. 6 in.
+
+FLOOR PLAN AND ELEVATION--See page 52.
+
+{16}
+
+[Illustration]
+SELF-FEEDING OPENER WITH 30-IN. CYLINDER
+
+{17}
+
+SELF-FEEDING OPENER.
+
+This is a combination of the Automatic Hopper Feeder with an Opener
+Section built as one machine. The Beater in the Opener Section may be
+a two-blade rigid Beater, 18 in. dia., or a 30-in. dia. Special
+Cylinder, which is shown and described on page 18.
+
+This machine may be arranged for trunking connections, as shown in the
+cut on the opposite page, or it may be attached directly to a Breaker
+Lapper, forming a Combined Self-feeding Opener and Breaker Lapper (see
+page 30 for cut of this machine).
+
+DRIVING PULLEY--Self-feeding Opener with 18 in. Beater, 9 in. dia.,
+4-1/4 in. face; with 30-in. Cylinder, 16 in. dia., 4-1/4 in. face.
+Other sizes can be furnished.
+
+SPEEDS--1,450 revs. per minute for 18-in. Beater and 550 revs. per
+minute for 30-in. Cylinder when running with ordinary cotton. For long
+staple cottons the Beater speed is reduced to 800 to 1,050 revs. per
+minute and the Cylinder speed to 300 to 450 revs. per minute.
+
+PRODUCTION--See Breaker Lappers.
+
+FLOOR PLANS AND ELEVATIONS--See pages 56 and 57.
+
+{18}
+
+[Illustration]
+30-IN. SPECIAL CYLINDER
+
+{19}
+
+30-INCH SPECIAL CYLINDER.
+
+This 30-inch Cylinder is specially designed for use in Self-Feeding
+Openers where these machines are arranged for trunk connection or
+combined with Breaker Lappers.
+
+The large diameter makes it possible to use more grid bars than with
+the blade beaters. The main points considered in the design of this
+30-inch cylinder were, more thorough opening of the cotton, greater
+production without injury to the staple, and better cleaning.
+
+These Cylinders are made from steel boiler plates, and the steel
+fingers are fastened on by rivets. These fingers are so arranged that
+in one revolution they strike all points along the entire width of the
+feed rolls. In case of accident to fingers, caused by some hard
+substance getting into the machine, the damaged fingers can be easily
+replaced.
+
+We have adopted the 30-inch Special Cylinder, believing it to be
+preferable to those of larger diameter.
+
+{20}
+
+[Illustration]
+AUTOMATIC CLEANING TRUNK (10-FT. SECTION)
+
+{21}
+
+CLEANING TRUNK.
+
+On the opposite page is shown a 10-ft. section of Automatic Cleaning
+Trunk. It is usual to install two of these sections, making 20 ft.,
+and to suspend same from the ceiling.
+
+The cotton passes over Transverse Grids A and the leaf and dirt drop
+between the Grids into a series of compartments B, which are
+automatically cleaned out by air draft from a Fan. Each compartment
+has a hinged door or bottom C, which when dropped leaves an opening
+into the exhaust air pipe D. The hinged doors are dropped one at a
+time, and the openings are shown at G.
+
+The Fan is connected to the exhaust air pipe D, and is only running
+while the Trunk is being cleaned.
+
+The removable doors E give access to the top of the Trunk, and the
+brackets F are for the supporting rods.
+
+One of the advantages of this Trunk is that it can be hung from the
+ceiling out of the way and not occupy valuable floor space. It is
+carefully built and the joints of the doors are covered with leather
+to prevent leaks.
+
+Page 59 shows a system where 20 ft. of Automatic Cleaning Trunk is
+used together with the necessary Conducting Trunk; the Opener being on
+the first floor and the Breaker Lapper with Gauge Box and Condenser on
+the second.
+
+{22}
+
+[Illustration]
+ENGLISH PATTERN CLEANING TRUNK (TWO 4-FT. SECTIONS)
+
+{23}
+
+Cleaning Trunk is of special advantage to mills using low grade stock.
+All cotton contains more or less light dirt and leaf, which it is
+difficult to entirely remove in the Lappers, on account of the fan
+draft essential to the formation of a good sheet on the screens
+carrying some of the lighter impurities along with the cotton. The
+passing of the stock over the transverse Grids in the Cleaning Trunk
+at a low velocity provides an efficient means for removing this dirt
+and leaf.
+
+We also build an English pattern Trunk, which is shown in the
+illustration on page 22. This Trunk is supported by stands which rest
+on the floor, and is built in 4-ft. sections, several of these being
+coupled together. Although not automatic, it is easily cleaned by
+dropping the doors which cover the entire bottom of the Trunk and
+carry the Grids. In the illustration one of these doors is shown down,
+and the sheet iron Grids are plainly visible.
+
+{24}
+
+[Illustration]
+SINGLE BEATER BREAKER LAPPER WITH GAUGE BOX AND CONDENSER
+
+{25}
+
+BREAKER LAPPERS.
+
+On page 24 is shown our Single Beater Breaker Lapper with Gauge Box
+and Condenser, and on page 28 the same machine with a Cage Section.
+
+GAUGE BOX AND CONDENSER--We strongly recommend the use of Gauge Boxes
+and Condensers when the Breaker Lappers and Openers are on different
+floors, or the stock has to be carried any distance. Under these
+conditions there is a considerable quantity of cotton passing between
+the Opener and Lapper, which on account of the stopping and starting
+of the latter is liable to make thick and thin places in the lap.
+
+The use of the Condenser and Gauge Box overcomes this difficulty as
+the cotton is received under these varying conditions and the Gauge
+Box acts as an Evener and delivers a uniform supply to the Feed Rolls
+behind the Beater. When the connection between the Opener and Breaker
+Lapper is short the Cage Section can be used without difficulty.
+
+The Condenser Fan, which is of extra large size, is conveniently
+placed under the Gauge Box and Condenser Section. The Gauge Box has
+glass panels on the two sides and front, so that the cotton can be
+seen and the feed regulated.
+
+BEATERS--Although the cuts show Single Beater machines, we build them
+with two Beaters if required or with one Cylinder and one Beater.
+
+IMPROVED CALENDER HEAD--Our Lappers have many valuable special
+features, including our improved Calender Head, which allows the
+machine to be stopped by the Drop Handle without breaking the lap.
+When the lap is of the required length and the machine knocks off, the
+large Lap Rolls as well as the Calender Rolls, Feed Apron and Cages
+stop, and the lap is not broken.
+
+If the lap continues to revolve after the machine has knocked off, it
+becomes sticky and there is likely to be trouble from split laps back
+of the Cards. Our arrangement prevents this and also enables the
+machine to be stopped at any time during the formation of a lap
+without breaking the lap.
+
+{26}
+
+[Illustration]
+FEED ROLLS, TOP CAGE AND COVER
+Showing Bushed Bearings and Easy Method of Removing the Top Cage
+
+{27}
+
+GEARS EASILY REMOVED--All the large gears are fastened by an improved
+method. Instead of driving them onto keys, which makes their removal
+difficult, we use with each large gear a square key let into the
+shaft, and two set screws. The gears fit the keys, but not tightly
+enough to prevent their easy removal after loosening the set screws.
+
+[Illustration]
+
+CLUTCH GEARS--The Calender Rolls are stopped and started by large
+Clutch Gears which are a great improvement over the common Drop Shaft
+and Gear. With this method the starting strain is distributed over all
+the teeth in the Clutch Gears, entirely doing away with the frequent
+breakages under the old system.
+
+BEARINGS--Where it is possible the bearings are made in bush form, as
+shown in cut page 26, thus reducing to a minimum the time taken to
+make replacements and the cost of same. Our bearings are very easy to
+adjust, and their special form prevents oil from getting to the inside
+of the machine. All high speed Shafts, viz., Fan, Side and Beater
+Shafts, have ring oiling bearings.
+
+{28}
+
+[Illustration]
+
+{29}
+
+TOP CAGES AND COVERS--The Top Cages of our Lappers are easily removed,
+as will be seen by referring to the cut, page 26. The sides of the
+cage cover or bonnet fit snugly over the bushed bearings. To remove
+the cage or bushings, it is only necessary to turn back the cover.
+These covers are all made with oil holes directly over the bearing, so
+it is not necessary to raise the cover for the purpose of oiling.
+
+NO TILTING OF LAP RACKS--The Lap Racks slide up and down on steel
+shafts, which entirely prevent the tilting of the Racks and consequent
+breakages.
+
+SHAFTS--Our Beater and Fan shafts are made from a very hard iron
+specially mixed to give long life to these high speed shafts.
+
+A countershaft complete with pulleys is attached to each Lapper.
+
+DRIVING PULLEYS--One-beater Breaker Lappers 16 in. dia., 4-1/4 in.
+face, T. & L.
+
+Two-beater Breaker Lappers or One-beater Breaker Lappers with extra
+Cage Section or Condenser and Gauge Box Section 16 in. dia., 5-1/4 in.
+face, T. & L.
+
+In combinations which have 3 beaters to be driven from one
+countershaft of machine, 16 in. dia., 6-1/4 in. face, T. & L.
+
+Other sizes can be furnished.
+
+SPEEDS--The usual speed of all lapper countershafts is 435 revs. per
+minute, which gives 1,450 revs. per minute of the Beaters, and 550
+revs. per minute of Cylinders, for ordinary cotton. For long staple
+cottons the beater speed is reduced to 800 to 1,050 revs. per minute
+and the Cylinder speed to 300 to 450 revs. per minute.
+
+PRODUCTION--On ordinary cotton 15,000 to 20,000 lbs. per week of 60
+hours. In some cases the production is far in excess of these figures.
+For long staple cottons, 10,000 to 15,000 lbs.
+
+See production table, page 36.
+
+FLOOR PLANS AND ELEVATIONS-See pages 54 to 57. These plans are for
+40-in. or 41-in. machines, and 45-in. machines are 4 in. wider.
+
+{30}
+
+[Illustration]
+SELF-FEEDING OPENER (30-IN. CYLINDER)
+AND SINGLE BEATER BREAKER LAPPER
+
+{31}
+
+COMBINATION MACHINES.
+
+On the opposite page is shown a Self-feeding Opener with 30-in.
+Cylinder combined with a Single Beater Breaker Lapper. This is a very
+popular combination and, it will be noted, is built as one straight
+machine. A floor plan and elevation are shown on page 54. This same
+combination with an 18-in. Beater instead of the 30-in. Cylinder in
+the Opener Section is shown in plan and elevation on page 55.
+
+We also build a Self-feeding Opener with Cage Section and Calender
+Head, which is well adapted to work Egyptian and Sea Island cottons.
+(See page 53 for plan and elevation.)
+
+Self-feeding Openers when built as separate machines can be placed on
+any floor above or below the Breaker Lappers, or on the same floor,
+the connections being made by Automatic Cleaning Trunks, Conducting
+Trunks, and galvanized iron pipe, as the conditions may require.
+
+On pages 56 and 57 we show Single Beater Breaker Lappers with Gauge
+Boxes and Condensers connected to Self-feeding Openers by short
+sections of Conducting Trunk. The Breakers are on the floor above the
+Openers. One drawing shows the Self-feeding Opener with 18-in. Beater,
+and the other with 30-in. Cylinder.
+
+{32}
+
+[Illustration]
+SINGLE BEATER FINISHER LAPPER
+
+{33}
+
+INTERMEDIATE AND FINISHER LAPPERS.
+
+These machines have our improved Calender Head, which has already been
+described in connection with Breaker Lappers. Each machine has a
+countershaft and pulleys complete with stands as shown.
+
+BEATER BOXES--All our beater boxes are fixed and our feed rolls
+adjustable, which we consider superior to having the beaters
+adjustable. After thorough investigation and long practice we have
+found that adjustable beaters are liable to get out of line, causing
+them to heat and wear quickly.
+
+DRAFT REGULATION--The air chamber from fan to cage section on each side
+of the machine is supplied with a damper, operated from the outside of
+the machine. With this arrangement the air can be drawn through the
+top and bottom cages in any desired proportion, and the operator can
+regulate the drafts to give the best results.
+
+BEATERS--Two-blade (18 in. dia.) beaters are mostly used, but we
+furnish the Houghton patent beater with corrugated teeth, or carding
+beaters, when specified.
+
+OUTSIDE HANDLES FOR DUST DOORS--We have recently added handles on the
+outside of the machine for dropping the cut-off board under the grids.
+The dirt and leaf which collect on this board are liable to fill up
+the grids if not regularly removed. The outside handles make the
+dropping of the cut-off boards very convenient and much reduce the
+liability of neglect on the part of the attendant.
+
+DRIVING PULLEYS
+
+One-beater machines, 16 in. dia., 4-1/4 in. face, T. & L.
+
+Two-beater machines, 16 in. dia., 5-1/4 in. face, T. & L. Other sizes
+can be furnished.
+
+SPEEDS--The usual speed of countershafts is 435 revs. per minute, which
+gives 1,450 revs. of the two-blade beaters and 1,063 revs. of carding
+beaters. For long staple cottons the beater speed is reduced to 800 to
+1,050 revs. per minute.
+
+PRODUCTION--On ordinary cotton 12,000 to 15,000 pounds per week of
+sixty hours. These productions are often exceeded. For long staple
+cottons, 8,000 to 10,000 pounds. For production table, see page 37.
+
+FLOOR PLANS AND ELEVATIONS--See page 58 for floor plan of 40-inch
+one-beater Intermediate or Finisher Lapper. 45-inch machines are 4
+inches wider.
+
+{34}
+
+[Illustration]
+IMPROVED EVENER FOR INTERMEDIATE AND FINISHER LAPPERS
+
+{35}
+
+IMPROVED EVENER.
+
+The obtaining of even laps is a matter of prime importance. The demand
+for more perfect work has emphasized the need for better picking, and
+for laps which are even not only in total weight, but throughout. Our
+improved design fills the following essential qualifications of a good
+Evener.
+
+1st--Sensitiveness and prompt action, so that any variation in the
+weight passing under the Evener Plates will be taken care of
+immediately.
+
+2d--Steadiness of running and action, so that there is no tendency to
+"hunt," i. e., the cone belt will at once take its new position
+without traveling up and down.
+
+3d--Simplicity and few moving parts.
+
+4th--Small amount of attention required.
+
+The direct method of communicating any movement of the Evener Plates
+to the cone belt, the multiplication of this movement and the short
+cones are features which help to secure sensitiveness and prompt
+action.
+
+The small amount of lost motion between the Evener Plates and the cone
+belt, and the free movement of the belt shipper rod, which runs on
+rollers, make the action positive and steady.
+
+The cut on page 34 shows our Evener and indicates the simplicity of
+same. The number of moving parts has been reduced to a minimum. The
+Evener Plates and feed roll give great cleaning capacity on account of
+the bite of the Plates being close to the Beater. The Evener Plates
+are on top of a 3-in. dia. steel feed roll, which gives a very rigid
+support and ensures all the variation in the thickness of the cotton
+under the plates being communicated to the Evener belt.
+
+The cones are conveniently placed under the feeding apron, and the
+lower cone runs in an adjustable cradle which allows the belt to be
+made endless and keeps it at an even tension at all times.
+
+{36}
+
+BREAKER LAPPER.
+
+PRODUCTION IN POUNDS PER TEN HOURS
+
+[Illustration]
+
+NOTE--Ten per cent. has been deducted in the above table for stops,
+etc. 1,450 revolutions per minute of beater.
+
+{37}
+
+INTERMEDIATE AND FINISHER LAPPER.
+
+PRODUCTION IN POUNDS PER TEN HOURS
+
+[Illustration]
+
+NOTE--Ten per cent. has been deducted in the above table for stops,
+etc. 1,450 revolutions per minute of beater.
+
+{38}
+
+[Illustration]
+BREAKER LAPPER WITH CAGE SECTION.
+
+SIDE VIEW OF GEARING 1
+
+{39}
+
+[Illustration]
+BREAKER LAPPER WITH CAGE SECTION,
+
+SIDE VIEW OF GEARING
+
+{40}
+
+[Illustration]
+BREAKER LAPPER WITH CAGE SECTION
+
+PLAN VIEW OF GEARING
+
+{41}
+
+BREAKER LAPPER.
+
+ALPHABETICAL REFERENCES TO DRAWINGS.
+
+A   Main Driving Pulley, 16 in. dia. x 4-1/4 in. face;
+      5-1/4 in. face for Two-beater Machine.
+A1  Beater Driving Pulley, 30 in. dia. x 4-1/4 in. face.
+B   Beater Pulley, 9 in. dia. x 4-1/4 face (occasionally 10 in. dia.)
+B1  Feed Pulley, 3 in. to 13 in. dia. x 2-1/4 in. face;
+      advancing by 1/2 in. increments.
+B2  Calender Section Fan Driving Pulley, 6 in. dia. x 2-1/4 in. face.
+B3  Calender Fan Pulley, 8 in. dia. x 2-1/4 in. face.
+B4  Cage Section Fan Driving Pulley, 6 in. dia. x 2-1/4 face
+      for Straight Machine or direct connected Opener and
+      Breaker Lapper. If with Trunking Connection, B4 is 8 in. dia.
+      and B5 is 6 in. dia., to give higher speed of Fan.
+B5  Cage Fan Pulley, 8 in. dia. x 2-1/4 in. face for Straight
+      Machine or direct connected Opener and Breaker Lapper.
+      If with Trunking Connection, B4 is 8 in. dia. and B5 is
+      6 in. dia., to give higher speed of Fan.
+C   Driving Pulley for Bottom Cross Shaft, etc.,
+      18 in. dia. x 2-1/4 in. face.
+C1  Clutch Driving Gear, 15 T.
+D   Large Clutch Gear, 35 T.
+D1  Small Clutch Gear, or Bottom Shaft Driving Gear, 17 T.
+E   Bottom Cross Shaft Driven Gear, 96 T.
+E1  Front Lap Calender Roll Driving Gear, 12 T.
+E2  Bottom Cross Shaft Gear, driving Calender Rolls and
+      Top Cross Shaft, 14 T.
+F   Large Double Intermediate, driving Top Cross Shaft, 50 T.
+F1  Small Double Intermediate, driving Bottom Calender Roll, 27 T.
+F2  Bottom Calender Roll, 7 in. dia.
+G   Top Cross Shaft Gear, 30 T.
+G1  Side Shaft Driving Bevel Gear, 24 T.
+H   Side Shaft Bevel Gear, Calender End, 24 T.
+H1  Side Shaft Bevel Gear, Feed End, 28 T.
+I   Compound Intermediate Bevel Gear, 28 T.
+I1  Compound Intermediate Gear, driving Bottom Feed Roll, 37 T.
+J   Bottom Feed Roll, 2 in. dia.
+
+{42}
+
+J1  Bottom Feed Roll Gear, 33 T.
+J2  Cage Section Top Stripping Roll Driving Gear, 9 T.; 8 T.
+        Gear may be used to vary speed.
+K   Cage Section Top Stripping Roll Intermediate Gear, 52 T.
+L   Cage Section Top Stripping Roll Gear, 14 T.
+M   Cage Section Bottom Stripping Roll Gear, 14 T.
+M1  Cage Section Bottom Cage Driving Gear, 23 T.
+N   Cage Section Bottom Cage Intermediate Gear, 20 T.
+O   Cage Section Bottom Cage Gear, 181 T.
+O1  Cage Section Top Cage Gear, 181 T.
+P   Front Lap Calender Roll, 9 in. dia.
+P1  Front Lap Calender Roll Gear, 53 T.
+P2  Back Lap Calender Roll Driving Gear, 24 T.
+Q   Back Lap Calender Roll Intermediate Gear, 22 T.
+R   Back Lap Calender Roll Gear, 24 T.
+R1  Back Lap Calender Roll, 9 in. dia.
+S   3d Calender Roll Gear, 21 T.
+S1  3d Calender Roll, 5-1/2 in. dia.
+T   2d Calender Roll Gear, 22 T.
+T1  2d Calender Roll, 5-1/2 in. dia.
+U   Top Calender Roll Gear, 23 T.
+U1  Top Calender Roll, 5-1/2 in. dia.
+V   Calender Section Top Stripping Roll Intermediate Gear, 17 T.
+V1  Calender Section Top Stripping Roll Intermediate Gear, 17 T.
+W   Calender Section Top Stripping Roll Gear, 14 T.
+X   Calender Section Bottom Stripping Roll Gear, 14 T.
+X1  Calender Section Bottom Cage Driving Gear, 23 T.
+Y   Calender Section Bottom Cage Intermediate Gear, 20 T.
+Z   Calender Section Bottom Cage Gear, 181 T.
+Z1  Calender Section Top Cage Gear, 181 T.
+
+{43}
+
+BREAKER LAPPERS.
+
+DRAFT CALCULATIONS.
+
+[Illustration]
+
+{44}
+
+[Illustration]
+INTERMEDIATE OR FINISHER LAPPER.
+
+SIDE VIEW OF GEARING
+
+{45}
+
+[Illustration]
+INTERMEDIATE OR FINISHER LAPPER.
+
+SIDE VIEW OF GEARING
+
+{46}
+
+[Illustration]
+INTERMEDIATE OR FINISHER LAPPER
+
+PLAN VIEW OF GEARING
+
+{47}
+
+INTERMEDIATE AND FINISHER LAPPERS.
+
+ALPHABETICAL REFERENCES TO DRAWINGS.
+
+A   Main Driving Pulley, 16 in. dia. x 4-1/4 in. face;
+        5-1/4 in. face for Two-beater Machine.
+A1  Beater Driving Pulley, 30 in. dia. x 4-1/4 in. face, for 18-in.
+        Rigid Beater; 22 in. dia. x 4-1/4 in. face for Carding Beater.
+B   Beater Pulley, 9 in. dia. x 4-1/4 in. face (occasionally 10 in. dia.)
+B1  Feed Pulley, 3 in. to 13 in. dia. x 2-1/4 in. face;
+      advancing by 1/2 in. increments.
+B2  Calender Section Fan Driving Pulley, 6 in. dia. x 2-1/4 in.
+      face for 18-in. Rigid Beater, and 8 in. dia. x 2-1/4 in.
+      face for Carding Beater.
+B3  Calender Fan Pulley. 8 in. dia. x 2-1/4 in. face.
+C   Driving Pulley for Side Shaft, etc., 12 in. dia. x 2-1/4 in. face.
+C1  Evener Cross Shaft Bevel Gear, 27 T.
+C2  Evener Cross Shaft Change Gear, 55-35 T; diminishing by one tooth.
+D   Side Shaft Bevel Gear, Feed End, 27 T.
+D1  Side Shaft Bevel Gear, Calender End, 18 T.
+E   Large Clutch Bevel Gear, 60 T.
+E1  Small Clutch Gear, 17 T.
+F   Calender Cross Shaft Driven Gear, 96 T.
+F1  Front Lap Calender Roll Driving Gear, 12 T.
+F2  Calender Cross Shaft Gear, driving Calender Rolls, 14 T.
+G   Large Double Intermediate, driving Bottom Calender Roll, 50 T.
+G1  Small Double Intermediate, driving Third Calender Roll 27 T.
+G2  Bottom Calender Roll, 7 in. dia.
+H   3d Calender Roll Gear, 21 T.
+H1  3d Calendar Roll, 5-1/2 in. dia.
+I   2d Calender Roll Gear, 22 T.
+I1  2d Calender Roll, 5-1/2 in. dia.
+J   Top Calender Roll Gear, 23 T.
+J1  Top Calender Roll, 5-1/2 in. dia.
+K   Top Stripping Roll Intermediate Gear, 17 T.
+K1  Top Stripping Roll Intermediate Gear, 17 T.
+L   Top Stripping Roll Gear, 14 T.
+
+{48}
+
+M   Bottom Stripping Roll Gear, 14 T.
+M1  Bottom Cage Driving Gear, 23 T.
+N   Bottom Cage Intermediate Gear, 20 T.
+O   Bottom Cage Gear, 181 T.
+O1  Top Cage Gear, 181 T.
+P   Bottom Cone Change Gear, 35-55 T; advancing by one tooth.
+P1  Bottom Cone, driving Top Cone. Letters also represent
+        diameters near the middle of Cones.
+Q   Top Cone.
+Q1  Worm Shaft Driving Spiral Gear, 9 T.
+R   Worm Shaft Spiral Gear, 9 T.
+R1  Worm Shaft Worm, double threaded, right hand;
+        equivalent to Gear having two teeth.
+S   Worm Gear, 78 T.
+S1  Feed Roll and Apron Roll Driving Gear, 12 T.
+T   Feed Roll, 3 in. dia.
+T1  Feed Roll Gear, 24 T.
+U   Apron Roll Gear, 29 T.
+V   Front Lap Calender Roll, 9 in. dia.
+V1  Front Lap Calendar Roll Gear, 53 T.
+V2  Back Lap Calendar Roll Driving Gear, 24 T.
+W   Back Lap Calender Roll Intermediate Gear, 22 T.
+X   Back Lap Calender Roll Gear, 24 T.
+X1  Back Lap Calender Roll, 9 in. dia.
+
+{49}
+
+INTERMEDIATE AND FINISHER LAPPERS.
+
+DRAFT CALCULATIONS.
+
+[Illustration]
+
+{50}
+
+PRODUCTION CALCULATIONS.
+
+[Illustration]
+
+NOTE--With our latest gearing arrangement, the number of teeth in
+Knock-off Worm Gear corresponds to the number of yards in the lap.
+
+{51}
+
+INTERMEDIATE AND FINISHER LAPPERS.
+
+DRAFT TABLE.
+
+[Illustration]
+
+{52}
+
+[Illustration]
+AUTOMATIC HOPPER FEEDER
+
+{53}
+
+[Illustration]
+SELF-FEEDING OPENER (30-IN. CYLINDER)
+WITH CAGE SECTION AND CALENDER HEAD
+
+{54}
+
+[Illustration]
+SELF-FEEDING OPENER (30-IN. CYLINDER)
+AND SINGLE BEATER BREAKER LAPPER
+
+{55}
+
+[Illustration]
+SELF-FEEDING OPENER (18-IN. BEATER)
+AND SINGLE BEATER BREAKER LAPPER
+
+{56}
+
+[Illustration]
+SELF-FEEDING OPENER (18-IN. BEATER) CONNECTED BY TRUNKING TO A SINGLE
+BEATER BREAKER LAPPER WITH GAUGE BOX AND CONDENSER
+
+{57}
+
+[Illustration]
+SELF-FEEDING OPENER (30-IN. CYLINDER) CONNECTED BY TRUNKING TO A
+SINGLE BEATER BREAKER LAPPER WITH GAUGE BOX AND CONDENSER
+
+{58}
+
+[Illustration]
+SINGLE BEATER INTERMEDIATE OR FINISHER LAPPER
+
+{59}
+
+[Illustration]
+THREE-PROCESS SYSTEM OF PICKING WITH 20 FT. OF AUTOMATIC CLEANING
+TRUCK ALSO CONDUCTING TRUNK BETWEEN OPENER AND BREAKER
+
+{60}
+
+[Illustration]
+
+{61}
+
+REVOLVING FLAT CARDS.
+
+Our Cards are extensively used, and have won for themselves a high
+reputation for the quality and quantity of work they will do, the
+small percentage of waste made, and their durability and simplicity.
+
+CHARACTERISTICS.
+
+    1--Rigid Bend, mathematically correct at all stages of wear of the
+       wire.
+
+    2--Perfect concentricity of Flats to Cylinder. Cylinder Pedestals
+       are adjustable.
+
+    3--Arrangements for adjusting Flats whereby accuracy to the
+       thousandth part of an inch is obtained.
+
+    4--Better quality of yarn made from the same cotton, or equally
+       good yarn made from cheaper cotton.
+
+    5--Card Clothing throughout is of best Hardened and Tempered Steel
+       Wire, Plough Ground or Needle Pointed.
+
+    6--Patent Doffer Slow Motion, to facilitate piecing up of broken
+       sliver.
+
+    7--Patent method of securing Clothing to the Flats; neatest,
+       cleanest and most effective.
+
+    8--Patent Top Flat Grinding Arrangement for grinding from the
+       working seating of the Flats.
+
+    9--Patent Flat Stripping Motion, which insures perfect stripping
+       without damage to the Clothing on the Flats.
+
+    10--Back Bends or Circles for supporting Flats and preventing
+        sagging and stretching of chains.
+
+{62}
+
+[Illustration]
+FLAT GRINDING MOTION
+
+{63}
+
+The following paragraphs briefly describe some of the points of
+advantage in the design and construction of our machines:
+
+CYLINDERS AND DOFFERS are carefully balanced at a high speed and are
+ground after being turned, making a perfectly true surface for the
+Card Clothing.
+
+GOOD SELVAGES--Both Cylinders and Doffers are clothed to the extreme
+edges, which prevents ragged selvages.
+
+PROTECTION OF CLOTHING--The Doffers are provided with flanges to
+protect the Clothing, keep the edges firm and prevent the wire from
+being knocked down. Turned iron flanges on the Bends, and Segment
+Rings fixed to the inside of the lower part of the framing protect the
+edges of the Cylinders all the way round. The Doffers are made 1/8 in.
+wider than the Cylinders in order to keep the edges of the latter
+clean.
+
+PREVENTION OF ACCUMULATION OF FLY--The Segment Rings which are fitted
+close to the edges of the Cylinder project in such a way as to form a
+circle two inches larger than the diameter of the Cylinder. The
+Underscreens are attached to these Segment Rings, and this arrangement
+makes it impossible for fly to collect inside the Screens or about the
+edges of the Cylinders and Doffers.
+
+ELECTRICAL TESTS--All Bends and Flats are tested at our works by
+special electrical apparatus, and this method of testing gives greater
+accuracy than can be obtained in any other way. More accurate Bends
+and Flats make closer settings possible.
+
+PERCENTAGE AND ALL CASING-OFF PLATES are made of steel, polished
+inside and out, and bent to conform to the surface of the cylinder.
+Each plate is set by gauge to the Cylinder, and the closing up of all
+air spaces makes the accumulation of fly and cloudy carding
+impossible.
+
+ADJUSTMENTS--Convenient adjusting arrangements with setting screws and
+lock nuts are provided for the Knife Plates, Doffers and Licker-ins.
+These are all on the outside of the machine and are accessible and
+easily adjusted.
+
+{64}
+
+[Illustration]
+
+{65}
+
+LICKER-IN SHIELDS--To prevent the accumulation of fly around the
+bearings and pedestals and the climbing of oil over the ends of the
+Licker-in onto the clothing, we supply stationary shields at each end.
+
+UNDERSCREENS AND FEED PLATES--Our Underscreens are specially heavy and
+well constructed, and our Feed Plates are very carefully finished and
+fitted. We supply special Underscreens and Feed Plates for long staple
+cotton.
+
+[Illustration]
+
+ADJUSTABLE CYLINDER PEDESTALS--The bearings for the Cylinders are made
+of phosphor bronze and the pedestals are adjustable either vertically
+or horizontally. This is a very important point, because the
+concentricity of the Cylinder with the Bends can be maintained as the
+bearings wear. The construction of our Card side is such that a very
+rigid support is given to the pedestals.
+
+FLAT RELEASE--This is a very simple and convenient attachment to the
+Flat Driving Arrangement, which makes one of the worm gears loose on
+its shaft and enables the Flats to be easily turned by hand with a
+suitable wrench.
+
+CONICAL BUSHINGS--The Cylinders are fastened onto the shafts by means
+of split conical bushings which are forced into place and prevent any
+possibility of the Cylinders working loose.
+
+{66}
+
+[Illustration]
+SECTIONAL VIEW
+
+PLAN VIEW
+
+PATENT SETTING ARRANGEMENT FOR FLATS
+
+{67}
+
+PATENT SETTING ARRANGEMENT FOR FLATS.
+
+The cuts on page 66 are sectional and plan views of this arrangement.
+
+A--Index Nut which bears against outside of Rigid Bend D.
+
+B--Setting Key with fluted teeth, which gear into the teeth on Nut C.
+
+C--Toothed Steel Nut which bears against the inside of Rigid Bend D.
+
+D--Rigid Conical Bend which is moved in or out.
+
+E--Flexible Conical Bend which rests on D and carries the Flats.
+
+As the Index Nuts A and the Toothed Nuts C are turned one way or the
+other, they move the Rigid Bend D in or out, and thus raise or lower
+the Flexible Bend E.
+
+The Flats rest on the Flexible Bend E and are raised or lowered with
+it. Each division on the Index Nuts A represents 1/1000 part of an
+inch, and by turning these Nuts one division, the Flats are raised or
+lowered to this extent.
+
+Our Patent Conical Concentric Bends have five setting points on each
+side of the machine. The Bends and Flats can be kept perfectly
+concentric with the Cylinder at every point until the Clothing is worn
+out. No other arrangement has secured such accuracy nor has any
+adjustment yet been invented which approaches this one for reliability
+and simplicity.
+
+When the Flats are once set they remain set, and cannot be tampered
+with. Special wrenches are required for turning the Index Nuts A and
+Lock Nuts C, and if these wrenches are kept by the one who has charge
+of the settings, no unauthorized person can change same.
+
+Close accurate settings enable our Card to do the finest quality of
+work and at the same time give the maximum production.
+
+{68}
+
+WILLIAMS PATENT STRIPPING MOTION.
+
+[Illustration]
+
+This Motion enables the Card to do better work and increases the life
+of the Flat clothing.
+
+Perfect Flat Stripping can only be obtained with a Motion which keeps
+the Comb at an even and fixed distance from the wire clothing at all
+points over the entire width of the Flat. The Williams Patent
+Stripping Motion, for which we hold sole rights for America, meets
+this essential requirement and therefore does what no other Motion has
+succeeded in doing. In the old system, the Comb is kept at a fixed
+distance from the framing of the machine, which is correct as long as
+there is no variation in the position of the Flats as they pass under
+the Comb. In practice, it is impossible to {69} prevent a certain
+amount of tilting or raising of the Flats, due to the wearing of the
+chains and sprockets and also to dirt getting under the Flats. With
+the Williams system the stripping is perfectly done no matter what the
+tilting may be, and even if the Flats are forced away from their true
+position through any cause, the Comb follows the Flat and maintains
+its distance. There is no comb which will not catch and damage the
+wire if the setting becomes too close on account of the clearance not
+being kept uniform.
+
+In the Williams Stripping Motion the Comb stock is mounted at each end
+in bearings which slide in guides away from or toward the Flats. The
+accurate setting of the Comb is maintained by means of shoes which
+press against the working seatings of the Flats and govern the
+position of the sliding Comb stock bearings. The shoes have adjusting
+screws to regulate the setting of the Comb, and the shape of the shoes
+is such as to allow for the heel of the flat. The sliding bearings of
+the Comb stock are pressed inward by springs which keep the shoes
+against the working seatings of the Flat. The Comb blade is given a
+receding motion which effectually strips all impurities from the wire.
+This action, together with the fact that it is impossible for the wire
+on the Flats to be forced into the Comb through the accumulation of
+dirt or fly on the blocks or Flat seatings, makes this Stripping
+Motion the most perfect on the market.
+
+{70}
+
+[Illustration]
+REVOLVING FLAT CARD
+
+{71}
+
+STANDARD DIMENSIONS.
+
+Cylinder, 50 in. dia. on iron.
+
+Doffer, 26 in. dia. on iron.
+
+Licker-in, 9 in. dia., clothed with inserted metallic Saw Teeth.
+
+110 Flats, 43 of which are working on the Cylinder at the same time.
+
+HAND OF MACHINE--Cards are usually built Right Hand, i. e., with
+driving pulleys on right hand side when facing feed or lap. Left hand
+machines are built when specified.
+
+DRIVING PULLEYS--20 in. dia., 3-1/8 in. face, T. & L. SPEED--Cylinder,
+160 to 170 r. p. m., usually 165 r. p. m.
+
+PRODUCTION--This is determined by the quality of carding required and
+the kind and grade of cotton used, and varies largely.
+  American   600 to 1,200 lbs.   in 60 hours.
+  Egyptian   400 to 650 lbs.   in 60 hours.
+  Sea Island   200 to 400 lbs.   in 60 hours.
+  Peeler  300 to 600 lbs.   in 60 hours.
+
+FLOOR SPACE.
+
+Length of Card over all (10-in. coiler) 10 ft. 4 in.
+
+Length of Card over all (12-in. coiler) 10 ft. 5 in.
+
+Width of Card, 40 in. wide on wire (40 in. to 41 in. lap) 5 ft. 6 in.
+
+Width of Card, 45 in. wide on wire (45 in. to 46 in. lap) 5 ft. 11 in.
+
+See page 72 for floor plan.
+
+{72}
+
+[Illustration]
+PLAN OF REVOLVING FLAT CARD
+
+{73}
+
+REVOLVING FLAT CARD.
+
+ALPHABETICAL REFERENCES TO DRAWING.
+
+A   Feed Roll, 2-1/4 in. dia.
+A1  Feed Roll Spur Gear, 17 Teeth.
+A2  Large Plate Bevel Gear, usually 120 Teeth.
+B   Draft Change Gear, 10 to 30 Teeth
+B1  Side Shaft Bevel Gear, 22 Teeth (or 34).
+C   Doffer Bevel Gear 22 Teeth (or 24).
+C1  Grinding Pulley, 11 in. dia., 2-1/4 in. face.
+C2  Doffer Gear, 180 Teeth.
+D   Disengaging Intermediate Gear, 51 Teeth.
+E   Calender Intermediate Gear, 51 Teeth.
+F   Calender Change Gear, 18 or 19 Teeth.
+F1  Bottom Calender, 2-7/8 in. dia.
+F2  Coiler Driving Gear, 24 or 25 Teeth.
+G   Coiler Change Gear, 16 Teeth.
+G1  Coiler Driving Bevel Gear, 20 Teeth.
+H1  Coiler Top Upright Bevel Gear, 20 Teeth.
+I   Coiler Calender Bevel Gear, 20 Teeth.
+I1  1st Coiler Calender Spur Gear, 20 Teeth.
+I2  1st Coiler Calender, 2 in. dia.
+J   2nd Coiler Calender, 2 in. dia.
+J1  2nd Coiler Calender Spur Gear, 20 Teeth.
+N   Driving Pulley, 20 in. dia., 3-1/8 in. face;
+      Band Pulley, 21-3/4 in. dia.
+N1  Licker-in Driving Pulley, 19 in. dia., 2-1/4 in. face.
+N2  Flat Driving Pulley, 6-1/2 in. dia., 3-1/4 in. face.
+N3  Comb Driving Band Pulley, 22 in. dia. for 5/16 in. dia. band.
+O   Licker-in Driven Pulley, 7 in. dia., 2-1/4 in. face.
+O1  Barrow Gear Driving Pulley, 6 in. dia., 2-1/8 in. face.
+P   Barrow Gear Driven Pulley, 9 in. dia., 1-1/2 in. face.
+P1  Barrow Spur Gear, usually 26 Teeth, also 24 and 28 Teeth.
+Q   Doffer Lever Intermediate Gear, 104 Teeth.
+Q1  Doffer Change Gear, 17 to 40 Teeth.
+R   1st Lap Roll Intermediate Gear, 40 Teeth.
+S   2nd Lap Roll Intermediate Gear, 40 Teeth.
+T   Lap Roll Gear, 48 Teeth.
+T1  Lap Roll, 6 in. dia.
+U   Double Band Intermediate Pulley for Comb 9-3/8 in. dia.
+U1  Double Band Intermediate Pulley for Comb 6 in. dia.
+V   Comb Box Pulley 3-3/8 in. dia.
+V1  Comb Box Pulley 4-1/8 in. dia.
+W   Doffer Comb.
+
+{74}
+
+[Illustration]
+REVOLVING FLAT CARD.
+
+DIAGRAM OF CARD COILER GEARING
+
+F2  Coil Driving Gear; 24 Teeth for 10-in.
+      Coiler, 25 Teeth for 12-in. Coiler.
+F3  Top Calender Driving Gear, 23 Teeth.
+G   Coiler Change Gear, 16 Teeth.
+G1  Coiler Driving Bevel Gear, 20 Teeth.
+H   Coiler Middle Upright Bevel Gear, 20 Teeth.
+H1  Coiler Top Upright Bevel Gear, 20 Teeth.
+H2  Tube Gear Driving Gear, 25 Teeth.
+H3  Upright Shaft Can Bottom Driving Gear. 15 Teeth.
+H4  Coiler Double Intermediate Gears, 44 Teeth.
+H5  Coiler Double Intermediate Gears, 15 Teeth.
+I   Coiler Calender Bevel Gear, 20 Teeth.
+I1  1st Coiler Calender Spur Gear, 20 Teeth.
+I2  1st Coiler Calender, 2 in. dia.
+K   Coiler Double Intermediate Gears, 44 Teeth.
+K1  Coiler Double Intermediate Gears, 15 Teeth.
+L   Tube Gear, 75 Teeth for 10-in. Coiler, 98 Teeth for 12-in. Coiler.
+L1  Can Bottom Intermediate Gear; 17 Teeth for 10-in. Coiler;
+      22 Teeth for 12-in. Coiler.
+L2  Can Bottom Gear, 84 Teeth.
+M   Top Calender Gear, 34 Teeth.
+M1  Top Calender, 4-1/4 in. dia.
+
+{75}
+
+REVOLVING FLAT CARDS.
+
+DRAFT CALCULATIONS.
+
+[Illustration]
+
+{76}
+
+[Illustration]
+
+{77}
+
+REVOLVING FLAT CARD.
+
+DOFFER CHANGE GEAR TABLE.
+
+[Illustration]
+
+NOTE
+
+Licker-in Driving Pulley, 19 in. dia.
+Licker-in Driven Pulley, 7 in. dia.
+Barrow Gear Driving Pulley. 6 in. dia.
+Barrow Gear Driven Pulley, 9 in. dia.
+Doffer Lever Intermediate Gear, 104 Teeth.
+Doffer Gear, 180 Teeth.
+
+{78}
+
+REVOLVING FLAT CARD.
+
+PRODUCTION PER DAY OF TEN HOURS.
+
+[Illustration]
+
+NOTE--5 per cent. has been deducted in the above table for cleaning,
+stripping. etc.
+
+{79}
+
+REVOLVING FLAT CARD.
+
+DRAFT TABLE.
+
+[Illustration]
+
+NOTE--The draft is figured between the 6 in. dia. Lap Roll and 2 in.
+dia. Coiler Calender Rolls.
+
+DECIMAL EQUIVALENTS.
+
+[Illustration]
+
+{80}
+
+CARD CLOTHING.
+
+The English system of numbering Card Clothing is now generally used by
+Cotton Mills. We give below the numbers and points per square foot:
+
+Numbers   Pts. per Square Foot
+80s           57,600
+90s           64,800
+100s          72,000
+110s          79,200
+120s          86,400
+130s          93,600
+
+The following numbers are generally used for Cylinders: Coarse, heavy
+work, 80s and 90s; medium to fine work, 100s and 110s; fine work, 120s
+and 130s.
+
+Doffers are usually 10 numbers higher or finer than Cylinders.
+
+There is considerable variation in the Clothing used for Tops. Some
+prefer thinner set than the Cylinders, others about the same as the
+Cylinders, and a few the same numbers as the Doffers.
+
+{81}
+
+{82}
+
+[Illustration]
+
+{83}
+
+DRAWING FRAMES.
+
+The Howard & Bullough Patent Electric Stop Motion Drawing Frame has
+proved one of the most successful machines ever invented, and there
+are large numbers of deliveries at work in every Cotton Spinning
+country.
+
+We build both Electric and Mechanical Stop Motion Frames, but the
+great majority of our orders are for machines with Electric Stop
+Motions.
+
+The quality of sliver produced by these machines cannot be surpassed;
+a great saving in waste "single" and roller laps is effected, and
+production is increased.
+
+Machines stop:
+
+1st--When sliver breaks at back or a can runs out.
+2d--When top or bottom front roll laps up.
+3d--When sliver breaks in front.
+4th--When cans are full.
+5th--When back electric roll or clearer laps up.
+
+On account of the positive and quick action of the Electric Stop
+Motions, machines can be run at a much higher speed, in case of
+necessity, than Mechanical Stop Motion Frames.
+
+The tops of Electric Stop Motion Frames, being free from the many
+small parts and projections which are a necessity on Mechanical Stop
+Motion Frames, are much more easily kept clean, and "fly" is not
+carried into the sliver, besides which a great many delicate and
+troublesome Mechanical Stop Motion parts are done away with.
+
+{84}
+
+[Illustration]
+
+{85}
+
+FRAMING AND CONSTRUCTION--The machines are built with low, rigid
+framing. Can tables set into or on top of the floor.
+
+BOTTOM FLUTED ROLLS are made in one length and are irregularly fluted
+so as to prevent cutting of top rolls. The usual diameters are 1-3/8
+in. front, 1-1/8 in. second, third and fourth lines.
+
+TOP ROLLS are usually 1 in. dia. on iron. The front line can have
+Loose Boss or Loose Ends; the latter are now in extensive use and are
+generally preferred.
+
+ROLLER STANDS are made with separate adjustable slides or bearings, so
+arranged that the top and bottom rolls move together when setting for
+different lengths of staple. The Roller Stands and Slides have brasses
+cast in them for roller bearings.
+
+CALENDER ROLLS are made of steel, turned, ground and polished.
+
+DRAFT GEARING--All Draft and Roller Gears are cut. Changes of Draft are
+very easily made, and the gearing is well protected with polished
+covers.
+
+COILERS are made for cans 36 ins. long, 9, 10, 11 or 12 ins. dia. as
+required.
+
+TENSION--Our fine pitch gearing for the take-up of the sliver between
+the fluted rolls and the Calender rolls enables a nice adjustment to
+be made for either ordinary or metallic rolls, and reduces the
+stretching, sagging and breakage of the sliver, preventing stoppage
+and waste.
+
+TRUMPETS--These are made separate from the calender plates and can
+easily be taken out. This method is an advantage over the old style,
+as trumpets wear in time and when worn do not sufficiently condense
+the sliver. With this system they can easily be replaced.
+
+BACK GUIDES for both Electric and Mechanical Stop Motion Frames are
+designed so as to separate the slivers and keep kinks from going into
+the rolls, thus preventing lumpy and uneven work.
+
+{86}
+
+[Illustration]
+FRONT VIEW OF DRAWING FRAME WITH CANS REMOVED
+
+{87}
+
+CLEARERS--Both top and bottom rolls have Clearers. We apply a patented
+and very successful Clearer to the Calender rolls which prevents fly
+from sticking to them and being carried in to the sliver.
+
+WEIGHT RELIEVING MOTION--This is applied to all frames for taking the
+pressure off the rolls when the frames are stopped.
+
+All rolls are weighted separately. Usual weights are 20 lbs. front
+line; 18 lbs. second line; 16 lbs. third line; 14 lbs. fourth line.
+
+TRAVERSE MOTION is applied to all frames with leather covered top
+rolls.
+
+METALLIC TOP AND BOTTOM ROLLS--The front bottom roll is usually 1-3/8
+in. dia., and the other three lines of bottom rolls as well as the top
+rolls, all 1-1/8 in. dia.
+
+Front and second lines are usually 32 pitch; third line 24 pitch and
+back line 16 pitch. The top rolls have Loose Ends. Weights usually 14
+lbs. on all lines.
+
+ERMEN TOP CLEARERS--The cloth of these Clearers revolves over 2 rolls
+(one of which is positively driven) and comes in contact with all the
+top rolls. This revolving clearer is placed inside of our top clearer
+cover, and is stripped by a Comb through an opening in the top of the
+cover. This clearer meets with great favor in fine mills, where combed
+long staple cotton is worked.
+
+DRIVING PULLEY AND SPEED--The Driving Pulley on the Bottom Shaft is
+usually 16 in. dia., 3 in. or 4 in. face and can be placed at either
+end of the frame. The usual speed of this shaft is 250 r. p. m., which
+gives a calculated speed of 363 r. p. m. of Front Roll. One rev. of
+shaft equals 1-5/11 of Front Roll.
+
+{88}
+
+FLOOR PLANS OF DRAWING FRAMES.
+
+[Illustration]
+
+{89}
+
+[Illustration]
+
+{90}
+
+LENGTHS OF DRAWING FRAMES, 16-IN. GAUGE.
+
+[Illustration]
+
+Above lengths are over all, including Driving Pulley.
+For widths, see Floor Plans, pages 88 and 89
+
+Drawing Frames are usually made with 4, 5 or 6 deliveries per head or
+table, and 2, 3 or 4 heads per frame, but can be made with more or
+less deliveries per head, and more or less heads per frame.
+
+{91}
+
+DRAWING FRAMES.
+
+PRODUCTION PER DAY OF TEN HOURS.
+
+[Illustration]
+
+NOTE--In the above table 20 per cent. has been deducted for stops,
+cleaning, etc.
+
+{92}
+
+[Illustration]
+DRAFT GEARING FOR DRAWING FRAMES
+
+{93}
+
+DRAWING FRAMES.
+
+ALPHABETICAL REFERENCES TO DIAGRAM.
+
+A      Electric Roll Gear, 24 Teeth for Common Rolls,
+         20 Teeth for Metallic Rolls.
+B      Off End Back Roll Gear. 24 Teeth for Common Rolls,
+         29 Teeth for Metallic Rolls.
+*C     Small Double Intermediate, driving 3d Roll.
+D      Large Double Intermediate, driving 3d Roll,
+         40 Teeth for Common Rolls, 36 Teeth for Metallic Rolls.
+E      Off End 3d Roll Gear, 24 Teeth.
+*F     Off End 2d Roll Gear.
+*G     Small Double Intermediate, driving 2d Roll.
+*H     Large Double Intermediate, driving 2d Roll.
+I      Off End Front Roll Gear, 20 Teeth.
+J      Back Roll Gear, 45 to 80 Teeth.
+K      Draft Change Gear, 45 to 70 Teeth.
+*L     Crown Gear.
+*M     Front Roll Gear.
+N      Front Roll Calender Driving Gear, 16 Teeth for Common Rolls,
+         19 Teeth for Metallic Rolls.
+O
+and P  Double Intermediate Gear, 52 and 91 Teeth for 10-in. Coiler,
+         62 and 108 Teeth for 12-in. Coiler.
+Q      Calender Roll Gear, 58, 59, 60 Teeth for Common Rolls,
+         52, 53, 54 Teeth for Metallic Rolls.
+R      Coiler Horizontal Shaft Gear, 21 to 26 Teeth
+         (driven by O through Carrier Gear).
+S      Tube Wheel, 75 Teeth for 10-in. Coiler,
+         98 Teeth for 122 in. Coiler.
+T      Coiler Vertical Shaft, Top Bevel Gear, 32 Teeth for 10 in.
+         Coiler, 37 Teeth for 12-in. Coiler.
+
+NOTE--For teeth on gears marked * refer to table on page 96.
+
+{94}
+
+DRAWING FRAMES.
+
+DRAFT CALCULATIONS.
+
+[Illustration]
+
+The above figures are for Total Draft up to and including the 3-in.
+dia. Calender Rolls. When Graduated Pitch Metallic Rolls are used, and
+it is desired to figure drafts between them, the following equivalents
+are approximately correct:
+
+1-3/8-in. dia. Roll, 32 pitch, taken as 11/6-in. or 1.83-in. dia.
+1-1/4-in. dia. Roll, 32 pitch, taken as 10/6-in. or 1.67-in. dia.
+1-1/8-in. dia. Roll, 32 pitch, taken as 9/6-in. or 1.50-in. dia.
+1-in. dia. Roll, 32 pitch, taken as 8/6-in. or 1.33-in. dia.
+1-1/8-in. dia. Roll, 16 pitch, taken as 10/6-in. or 1. 67-in. dia.
+1-in dia. Roll, 16 pitch, taken as 9/6-in. or 1.50-in. dia.
+
+{95}
+
+PRODUCTION CALCULATIONS
+
+[Illustration]
+
+The greater production with Metallic Rolls over Common Rolls for a
+given number of revs. is due to the meshing of the flutes, which
+increases the effective circum. of the rolls about 33 per cent. This
+accounts for the difference in the gears driving the Calender Rolls.
+
+Short rules for production in 10 hours based on 20 per cent. allowance
+for stops, etc., and 1-3/8 in. dia. front bottom roll.
+
+Common Rolls--.852 x R. P. M. of Front Roll x Wt. of Sliver in grains =
+Lbs. in 10 hours.
+
+Metallic Rolls--1.126 x R. P. M. of Front Roll x Wt. of Sliver in
+grains = Lbs. in 10 hours.
+
+{96}
+
+DRAWING FRAMES.
+
+GEARING COMBINATIONS, DRAFT CONSTANTS AND DRAFTS
+FOR MACHINES WITH 1-3/8-IN. FRONT ROLL.
+
+[Illustration]
+
+The above constant and drafts are figured up to and including the
+3-in. Calender Rolls. Draft Gear K is the usual change gear.
+
+When making extreme draft changes the best results will be obtained by
+following the above arrangements of gearing.
+
+{97}
+
+TABLE FOR NUMBERING CARD OR DRAWING SLIVERS.
+
+[Illustration]
+
+8.333/Wt. in grains of 1 yd. of Sliver = Hank.
+8.333/Hank = Wt. in grains of 1 yd. of Sliver.
+100/Wt. in grains of 12 yds. of Sliver = Hank.
+Refer to Table of Dividends, page 233.
+{98}
+
+[Illustration]
+SECTION OF DRAWING FRAME
+SHOWING ELECTRIC STOP MOTIONS
+
+{99}
+
+EXPLANATION OF ELECTRIC STOP MOTIONS.
+
+Our improved Magneto or Dynamo for producing current to operate the
+Stop Motions is designed on the "Induction" principle, so that the
+current is generated in the stationary winding, and no brushes or
+collectors are needed. This type of machine is very simple, requires
+little attention, and gives a steady current, no matter how much dirt,
+lint or oil collects on same.
+
+The Drawing Frame is divided into two parts by means of insulations
+(indicated by the solid black portions of cut on opposite page). One
+part, shown with double cross lines, is connected to the Magneto
+through the down-rod A, and the other part through the down-rod B.
+
+It will be seen that in the case of each Stop Motion the parts are
+kept from touching each other by cotton passing between them (cotton
+being a non-conductor of electricity) or are brought into contact with
+each other by rollers lapping up or by the pressure of the cotton in
+the full cans.
+
+The machine stops when the electric circuit is completed, allowing the
+current to flow through Magnet T, which attracts finger U into
+engagement with Revolving Clutch V, and by a mechanical arrangement
+shifts the belt on to the loose pulley.
+
+As the frame stops, the part X forces the finger U away from the
+Clutch, and the current is broken by the piece Y which moves out of
+contact with the spring Z. When the frame is running, Y is in contact
+with both the springs Z and J. As the machine stops, the movement of Y
+takes it out of contact with Z, but J should always press against Y.
+
+{100}
+
+STOP MOTION No. 1--C is the top electric roll which rests in Cap Bar D,
+and E is the bottom electric roll. As long as the sliver remains
+between the rolls they are kept apart and there is no circuit. When
+the sliver breaks or a can runs out the rolls come together and the
+frame knocks off.
+
+STOP MOTION No.2--The Top Clearer Cover H has a screw K on the under
+side. If the cotton laps around the top or bottom front roll, the top
+roll is lifted and comes in contact with screw K, which completes the
+circuit and the machine stops.
+
+STOP MOTION No. 3--The cotton sliver prevents the calender rolls L and
+M from touching each other. If the sliver breaks, the rolls touch and
+the machine stops instantly.
+
+STOP MOTION No. 4--When the cans at the front are full and cotton
+presses against the coiler top N, it is lifted into contact with the
+spring O, and the circuit is completed, stopping the machine.
+
+STOP MOTION No.5--The Underclearer P presses against the bottom
+electric roll E. In case the cotton laps around E or P, the screw Q is
+lifted and touches the Back Plate G, completes the circuit and the
+frame knocks off.
+
+{101}
+
+{102}
+
+[Illustration]
+SLUBBING FRAME (RIGHT HAND)
+
+{103}
+
+SLUBBING, INTERMEDIATE, ROVING AND JACK FRAMES.
+
+These frames are so well known to the users of Cotton Machinery that
+no general description is necessary. They have extra heavy framing,
+are made entirely by special tools, and all parts are exact
+duplicates. They are of superior construction and finish, and will
+stand the highest speeds without vibration or breakage. They contain
+many valuable patented improvements, some of which are described
+below.
+
+PATENT SWING--Well supported and with one (large) Carrier Gear only.
+
+IMPROVED DIFFERENTIAL MOTION--This motion effects a great saving in
+power, wear and tear, and gives more accurate winding and consequently
+evener and better work. See page 106.
+
+IMPROVED LAY GEARING dispenses with all bevel change gears, gives two
+change places instead of one, is simple and convenient, and allows
+free access to the main gearing. See page 109.
+
+IMPROVED METHOD OF LIFTING AND LOWERING BOTTOM CONE DRUM--Both ends of
+the cone are raised or lowered together from the front of the machine.
+The belt is kept at a uniform tension from one end of the cone to the
+other. A patent locking device secures the cone in its proper working
+position, after doffing, preventing all movement or vibration.
+
+IMPROVED METHOD OF TIGHTENING THE CONE BELT does away with frequent
+taking-up. When slack, the belt may be tightened in a few moments by
+means of a Quadrant Bracket. Over 5 in. of stretch can be taken care
+of without re-piecing. A great saving is effected in labor, stoppages
+and cone belts.
+
+WINDING BACK THE RACK AND CONE BELT is done from the front of the
+machine.
+
+IMPROVED SYSTEM OF BALANCING THE TOP OR BOBBIN RAIL--This rail, with
+its gearing, collars, bobbins, etc., is now supported under its center
+of gravity by a set of levers, thus relieving the slides and racks of
+this weight. This system prevents friction and wear of slides, also
+the tendency to dwell at the changes of the traverse both top and
+bottom.
+
+{104}
+
+[Illustration]
+ROVING FRAME (RIGHT HAND)
+
+{105}
+
+If slides wear, the Long Collars tilt forward, the top rail, spindles,
+bobbins and flyers vibrate, causing bad work and loss of production.
+This is prevented by our improved system.
+
+PATENT REVERSING AND LET-OFF MOTION entirely prevents the roving
+running over the ends on the changes. The speed of the bobbin changes
+simultaneously with the reversal of the lifting rail and thus
+overcomes the liability of stretching the roving.
+
+FULL BOBBIN STOP MOTION is very effective in its action and prevents
+overfilling the bobbins. The frame cannot be started after the
+completion of a set until doffed and the rack has been wound back.
+
+IMPROVED TOP CLEARERS--These are made of polished steel, very light and
+easy to clean. The hinging is so arranged that any clearer can be
+easily removed.
+
+LONG COLLARS OR BOLSTERS are fastened in a vertical position by an
+improved method which prevents their working loose. They are bored
+throughout their entire length, thus reducing the liability of dirt
+accumulating inside and causing the spindles to bind.
+
+PATENT RECESSED SELF-LUBRICATING SPINDLE FOOT--This has proved one of
+the most successful inventions, and is in extensive use. It ensures
+constant lubrication, prevents wear, and is easily kept clean.
+
+BEARINGS INLAID WITH BRASS--All Bobbin and Spindle Shaft Bearings,
+Roller Stands and Slides are inlaid with brass.
+
+[Illustration]
+
+DRIVING ENDS OF BOBBIN AND SPINDLE SHAFTS are case hardened and are in
+short lengths, so that they can be easily taken out even when frames
+are placed end to end with narrow passages between them. This is a
+great convenience, as it avoids the necessity of having to remove a
+great many shaft gears. The shafts can be lifted out with the gears on
+them.
+
+AUTOMATIC PANEL LOCKING ARRANGEMENT prevents the frame from being
+started if any of the gearing end panels are not in place.
+
+{106}
+
+[Illustration]
+DIFFERENTIAL MOTION
+
+{107}
+
+IMPROVED DIFFERENTIAL MOTION.
+
+All the gears on the Jack Shaft revolve in the same direction as the
+shaft itself. This reduces considerably the work the cone belt has to
+do, saves power, and gives more accurate winding and evener and better
+work.
+
+A1 (40 teeth) drives the Spindle Shafts and S1 (50 teeth) drives the
+Bobbin Shafts. The gears on the Spindle and Bobbin Shafts are alike,
+i. e., they have the same number of teeth.
+
+As the cut shows the number of teeth in all the gears of the
+Differential, it will readily be seen that if Q and Q1 are held
+stationary, the speed of S1 will be retarded 1 rev. for every 5 revs.
+the Jack Shaft makes, and the spindles and bobbins will be running at
+the same speed, no winding taking place. Winding is produced by the
+bobbins running faster than the spindles, therefore Q, which is driven
+from the bottom cone through carrier gears, must revolve. Its speed
+changes as the bobbins increase in diameter, being governed by the
+position of the cone belt, which is shifted slightly as each layer is
+put on the bobbins.
+
+{108}
+
+CASING-OFF PLATES--The Front Casing-off Plates for Bobbin and Spindle
+Shafts are made of polished steel and are circular in shape. They are
+light, strong, cannot be broken, and are easily kept clean.
+
+IMPROVED CAP BARS--Cast-iron Cap Bars give trouble on account of the
+fingers being twisted, and frequent breakages. The illustrations show
+the construction of our improved Cap Bar, which entirely obviates
+these difficulties. Figure 1 is a back view of our Cap Bar applied to
+a machine with four spindles in a box, and Figure 2 an end view of
+same. Figures 3, 4 and 5 show enlarged details.
+
+[Illustration]
+IMPROVED CAP BARS
+
+The Cap Bars are fastened to the Roller Stands by brackets which are
+independent of the slides, and consequently the rolls can be set
+without moving the Cap Bars. When resetting the rolls it is only
+necessary to adjust the nebs for the middle and back lines, as the
+front nebs do not have to be disturbed.
+
+{109}
+
+IMPROVED LAY GEARING.
+
+[Illustration]
+
+To facilitate making changes in the Lay Gears, we have provided two
+change places instead of one. Formerly it was the practice to change
+the gear on the end of the Reversing Shaft or the one between the
+Reversing Bevels.
+
+In order to bring the change gears into a more convenient position and
+at the same time increase the range, we have introduced two additional
+spur gears. One of these is now the regular change gear, and is on a
+stud carried by an adjustable Quadrant Bracket. The short shaft
+carrying the bevel gears is now in a horizontal position instead of
+vertical.
+
+{110}
+
+Besides providing for two change places, this improvement dispenses
+with the Back Cross Rail and allows free access to the main gearing.
+Any part of the gearing can be taken out and replaced with ease.
+
+There is no longer any necessity of changing any bevel gears. There
+are two spur gear changes, either of which may be used and which give
+a very wide range. The entire arrangement is very simple and
+convenient.
+
+[Illustration]
+
+Other sizes of Spindles, Long Collars, Bobbin Gear Tops and Rolls will
+be supplied when necessary.
+
+DRIVING PULLEYS are usually 16 in. dia., 3 in. face.
+
+SPEEDS--See pages 111 and 112.
+
+PRODUCTION--See pages 113 to 117.
+
+{111}
+
+SPEED TABLE.
+
+SLUBBING AND INTERMEDIATE FRAMES
+
+[Illustration]
+
+{112}
+
+SPEED TABLE.
+
+ROVING AND JACK FRAMES.
+
+[Illustration]
+
+{113}
+
+SLUBBING FRAMES.
+
+PRODUCTION PER DAY OF TEN HOURS.
+
+[Illustration]
+
+NOTE--The above table is based on ordinary twist, 1.20 x square root of
+hank, with an allowance of 15 minutes per set for doffing and stops.
+
+{114}
+
+INTERMEDIATE FRAMES.
+
+PRODUCTION PER DAY OF TEN HOURS.
+
+[Illustration]
+
+NOTE--The above table is based on ordinary twist, 1.20 x square root of
+hank, with an allowance of 15 minutes per set for doffing and stops.
+
+{115}
+
+ROVING FRAMES.
+
+PRODUCTION PER DAY OF TEN HOURS
+
+[Illustration]
+
+NOTE--The above table is based on ordinary twist, 1.20 x square root of
+hank, with an allowance of 15 minutes per set for doffing and stops.
+
+{116}
+
+ROVING FRAMES.
+
+PRODUCTION PER DAY OF TEN HOURS.
+
+[Illustration]
+
+NOTE--The above table is based on ordinary twist, 1.20 x square root of
+hank, with an allowance of 15 minutes per set for doffing and stops.
+
+{117}
+
+JACK FRAMES.
+
+PRODUCTION PER DAY OF TEN HOURS.
+
+[Illustration]
+
+NOTE--The above table is based on ordinary twist, 1.20 x square root of
+hank, with an allowance of 15 minutes per set for doffing and stops.
+
+{118}
+
+FLOOR PLANS OF SPEEDERS.
+SLUBBING FRAME R.H.
+INTER, FRAME R.H.
+ROVING FRAME R.H.
+
+[Illustration]
+
+NOTE--The HAND of a speeder is determined by the end on which the
+driving pulley is located when facing the spindles.
+
+{119}
+
+LENGTHS OVER ALL OF SLUBBING FRAMES.
+
+[Illustration]
+
+NOTE--If the projection of fender bracket be taken into account, add 2
+inches to the above lengths.
+
+{120}
+
+LENGTHS OVER ALL OF INTERMEDIATE FRAMES.
+
+[Illustration]
+
+NOTE--If the projection of fender bracket be taken into account add 2
+inches to the above lengths.
+
+{121}
+
+LENGTHS OVER ALL OF ROVING FRAMES.
+
+[Illustration]
+
+NOTE--If the projection of fender bracket be taken into account, add 2
+inches to the above lengths.
+
+If double boss rolls, the number of spindles must divide by four.
+
+{122}
+
+LENGTHS OVER ALL OF JACK FRAMES.
+
+[Illustration]
+
+NOTE--If the projection of fender bracket be taken into account, add 2
+inches to the above lengths.
+
+If double boss rolls, the number of spindles must divide by four.
+
+{123}
+
+[Illustration]
+FRONT ELEVATION OF HEAD END GEARING--ROVING FRAME
+
+{124}
+
+[Illustration]
+ELEVATION AND SECTION OF HEAD END GEARING--ROVING FRAME
+
+{125}
+
+ROVING FRAMES.
+
+ALPHABETICAL REFERENCES TO DRAWINGS
+
+[Illustration]
+
+{126}
+
+ROVING FRAMES-CONTINUED.
+
+ALPHABETICAL REFERENCES TO DRAWINGS.
+
+[Illustration]
+
+{127}
+
+SLUBBING, INTERMEDIATE, ROVING AND JACK FRAMES.
+
+DRAFT CALCULATIONS.
+
+[Illustration]
+
+{128}
+
+[Illustration]
+
+The following table may be used in calculating the required Laps per
+Inch on Bobbin for any given hank roving:
+
+{129}
+
+1 hank or below, 7.5 x square root of hank = Laps per Inch
+
+1 hank to 2 hanks, 8.5 x square root of hank = Laps per Inch
+
+2 hanks to 3 hanks, 9.5 x square root of hank = Laps per Inch
+
+3 hanks to 4 hanks, 10.0 x square root of hank = Laps per Inch
+
+4 hanks and above, 10.5 x square root of hank = Laps per Inch
+
+Good results are obtained by using 9.3 x square root of hank.
+TAPER AND TENSION CALCULATIONS.
+
+It is difficult to give hard and fast rules for figuring the Taper and
+Tension Gears, as the required number of teeth on these gears is
+affected by the kind of stock, length of staple, amount of twist,
+temperature and humidity.
+
+PRODUCTION CALCULATIONS.
+
+[Illustration]
+
+{130}
+
+SLUBBING, INTERMEDIATE, ROVING AND JACK FRAMES.
+
+DRAFT TABLES.
+
+[Illustration]
+
+NOTE-The above is for front and back rolls the same dia.
+
+{131}
+
+SLUBBING, INTERMEDIATE, ROVING AND JACK FRAMES.
+
+KEY TO TWIST TABLES.
+
+(See pages 132 and 133 for complete Twist Tables.)
+
+[Illustration]
+
+Combinations Nos. 1, 2, 3 and 4 are for Slubbing and Intermediate
+Frames with 1-1/4-inch dia. Front Roll.
+Combinations Nos. 5, 6, 7, 8 and 9 are for Roving and Jack Frames with
+1-1/4-inch dia. Front Roll.
+Combinations Nos. 10, 11, 12, 13 and 14 are for Roving and Jack Frames
+with 1-1/8-inch dia. Front Roll.
+
+{132}
+
+SLUBBING, INTERMEDIATE, ROVING AND JACK FRAMES--TWIST TABLES.
+
+(See page 131 for key to these tables.)
+
+[Illustration]
+
+{133}
+
+SLUBBING, INTERMEDIATE, ROVING AND JACK FRAMES-TWIST TABLES.
+
+(See page 131 for key to these tables.)
+
+[Illustration]
+
+{134}
+
+SLUBBING, INTERMEDIATE, ROVING AND JACK FRAMES.
+
+LAY GEARING AND CONSTANTS.
+
+[Illustration]
+
+There are two change gears in the lay combination, the Reversing Shaft
+Change Gear Z2 and the Lay Change Gear W1. Although we have given the
+full list of Lay Gearing in the above table, only the gears marked *
+are variable, the others being the same for all frames. The regular
+change gear is W1 and the table on the next page gives lay constants
+for a range of Reversing Shaft Change Gears Z2 from 14 to 22
+inclusive. To find the correct lay constant select the proper {135}
+Lay Gearing Combination from the nine given above, note the number of
+teeth on the Reversing Shaft Change Gear Z2 and take the constant
+which corresponds in the table below. For example, the lay constant
+for a frame with gearing like No.4 combination and a 16 T. Reversing
+Shaft Change Gear is 437.9. This divided by the number of teeth on the
+Lay Change Gear W1 will give the laps per inch on the bobbin.
+
+TABLE OF LAY CONSTANTS FOR GEARING COMBINATIONS No.1, No.9 AND
+REVERSING SHAFT CHANGE GEARS 14 TO 22 T.
+
+[Illustration]
+
+{136}
+
+ROVING TABLE.
+
+FOR NUMBERING BY THE WEIGHT, IN GRAINS, OF 12 YARDS; AND SHOWING TWIST
+PER INCH.
+
+(Square Root X 1. 20)
+
+[Illustration]
+
+{137}
+
+ROVING TABLE--CONTINUED.
+
+FOR NUMBERING BY THE WEIGHT, IN GRAINS, OF 12 YARDS; AND SHOWING TWIST
+PER INCH
+
+(Square Root X 1.20)
+
+[Illustration]
+
+{138}
+
+[Illustration]
+
+{139}
+
+{140}
+
+[Illustration]
+RING SPINNING FRAME--HEAD END
+
+{141}
+
+RING SPINNING FRAMES.
+
+The introduction of these machines was preceded by a careful study of
+what had already been done in Spinning Frame design.
+
+Our Improved Ring Spinning Frames are made from entirely new patterns,
+and not only combine the best features previously brought out in such
+machines, but also many new ideas and improvements which have proved
+of great benefit to both manufacturers and spinners.
+
+Although these frames were only introduced a few years ago, they are
+very extensively used, and the demand is steadily increasing. All
+parts are machined and most of them are made by specially designed
+tools.
+
+We give below a description of the construction and chief points of
+advantage of these machines.
+
+LOW FRAMING AND CONSTRUCTION--The Frames are built very low, are extra
+heavy in all their principal parts, and are designed and constructed
+so as to stand high speeds without vibration, thus preserving the
+spindles, ensuring light running and reducing the cost of repairs.
+
+SPINDLE RAILS--These are of the box pattern, specially heavy, and
+designed to prevent springing, twisting and vibration.
+
+LIFTING RODS--The Lifting Rods, as will be seen in the several
+illustrations, do not have any foot castings attached to them. They
+can therefore be easily taken out, cleaned and put back without the
+necessity of readjustment. These rods are accurately turned and
+finished by a special process to prevent sticking. The Wave Shaft Arms
+are designed so that the Ring Rails can be easily leveled by means of
+adjusting screws.
+
+CREELS--The Creels are constructed with large diameter supporting rods
+so as to ensure rigidity, reduce vibration and prevent stretching the
+roving.
+
+{142}
+
+[Illustration]
+DOUBLE ADJUSTABLE RING IN PLATE HOLDER
+
+DOUBLE RING IN CAST-IRON HOLDER, WITH PATENT CONCEALED TRAVELER
+CLEARER
+
+SOLID SINGLE FLANGE RINGS
+
+{143}
+
+FLUTED ROLLS--These steel rolls are carefully and accurately made from
+superior stock by special machinery. They have large Necks and Squares
+and are irregularly fluted so as not to cut the Top Rolls.
+
+TOP ROLLS--These have taper ends or pivots, and the Cap Bar Nebs are
+milled to correspond, thus making it easy to pick the ends and keep
+them clean.
+
+CAP BARS--These are made with steel fingers which do not break. The
+upper surface of each finger is flat. The Cap Bar Nebs, which slide on
+the fingers, are milled and are fastened in position by cap or frog
+screws so that they cannot twist or get out of place. This arrangement
+enables the Top Rolls to be accurately set, and makes it much more
+easy to see the necks of the Bottom Rolls and keep them properly
+lubricated without removing the Top Rolls or Cap Bars.
+
+RE-LEVELLING--This is now an easy matter and quickly done. Packing up
+the feet is no longer necessary. The foot of each Spring Piece is
+provided with a shoe and jack screw, by which it can be raised or
+lowered to meet any unevenness in the floor.
+
+TRAVERSE RODS AND GUIDES--Iron Traverse Rods are applied, to which are
+attached adjustable Brass Trumpet Guides.
+
+ADJUSTABLE THREAD BOARDS--Our Thread Boards are adjustable. They can be
+raised or lowered so as to give, within reasonable limits, any
+required distance between the Spindle points and Thread Guides.
+
+{144}
+
+[Illustration]
+RING SPINNING FRAME-FOOT END
+
+{145}
+
+RINGS--We furnish Single Flange Rings, Double Rings in cast iron
+Holders, with or without Patent Wire Traveler Clearers, or Double
+Adjustable Rings in Plate Holders with Traveler Clearers. All Rings
+are made and finished in the most accurate manner, from a special
+grade of steel and hardened by improved methods.
+
+SPINDLES--We supply any of the latest improved types of Spindles.
+
+SEPARATORS--We supply the Rhodes-Chandler, Sharples, Doyle or H. & B.
+(our own). See description, page 153.
+
+SADDLES--The Dixon ordinary, Dixon adjustable or common Saddles are
+applied as required.
+
+LEVER SCREWS--The Speakman or Common are furnished as specified.
+
+{146}
+
+DRIVING PULLEYS are of our own improved design. The Loose Pulley runs
+on a cast iron sleeve, which is a part of the ring oiling box. Oil
+passes through holes in the bottom of this sleeve and lubricates the
+Loose Pulley. Our method of supporting the shaft and Loose Pulley
+together with the perfect lubrication of both prevents the wearing of
+the shaft, sleeve or Loose Pulley.
+
+[Illustration]
+RING OILING OUTRIGGER BEARING AND SELF LUBRICATING LOOSE PULLEY
+
+The Fast Pulley is usually made slightly larger in diameter than the
+Loose Pulley and is secured to the shaft by a Woodruff key and set
+screws.
+
+THE OUTRIGGER for supporting the Driving Pulleys can be applied at
+either the head or foot end, as specified.
+
+{147}
+
+Our improved Cylinder Head is made with a wide surface for the tin and
+has a long hub split at the end for several inches.
+
+The split portion of the hub is made to grip the shaft by means of a
+heavy clamp ring and set screw. The shaft cannot be cut by this set
+screw as it bears on the split hub.
+
+[Illustration]
+CYLINDER HEAD BEARING AND CAP
+
+The shafts are steel, fitted with Woodruff Keys and Phosphor Bronze
+Bushes with Collars, which make the bearings self-oiling and
+practically free from wear. Heavy tin is used in the construction of
+the Cylinders which are carefully balanced and thoroughly tested.
+
+{148}
+
+[Illustration]
+TWIST GEARING
+
+Simplicity and convenience characterize our Ring Spinning Frame
+gearing. All gears are cut. They are of ample width, run quietly and
+are well boxed to prevent accidents.
+
+{149}
+
+[Illustration]
+DRAFT GEARING
+
+The change gears are very conveniently located and a wide range of
+draft and twist can easily be obtained.
+
+{150}
+
+[Illustration]
+BUILDER FOR RING SPINNING FRAME
+
+{151}
+
+IMPROVED BUILDER.
+
+When designing our improved Spinning Frame Builder, special attention
+was given to obtaining a wide range in form and build of bobbin
+combined with simplicity and durability. The changes necessary when
+altering the wind, pick or traverse have been reduced to a minimum.
+
+The Builder is a combination type, and the change from warp to
+filling, or vice versa, can be easily and quickly made.
+
+The illustration shows a filling cam only on the cam shaft, but when
+warp and filling wind are wanted, two cams are placed on this shaft.
+
+The length of the traverse is determined by the adjustable Wave Shaft
+Stud, which can be easily and quickly raised or lowered, and the Ring
+Rail can be placed at the correct starting point by means of a thumb
+nut. The Pick or Take-up Motion is very simple. The pawl is on a plate
+which has a gear at the back. This gear is driven by a Quadrant which
+is connected to the top of the Builder. The pawl shield is set so that
+any required number of teeth can be taken up and no change gears are
+used.
+
+In the Builder Arm is an adjusting screw, which is used with warp wind
+to regulate the taper on the bobbin. The taper can be decreased at the
+bottom and increased at the top by turning in this screw.
+
+When the foot lever is pressed, it throws the Worm out of gear and
+allows the rail to be dropped. After winding back the Pick Motion, the
+Frame is ready for doffing and starting a new set.
+
+An eccentric device is applied to enable the "Socket Doff" to be used
+when desired.
+
+The Worm Gear Shaft is driven by a sprocket chain in the bead end. The
+speed of this shaft and consequently the speed of the traverse is
+increased or decreased by changing the Sprocket Gear.
+
+The bevel gears are well protected from dust and fly by a cover, and
+the Builder screw itself is provided with a cleaner which prevents the
+collection of dirt in the threads.
+
+{152}
+
+[Illustration]
+HOWARD & BULLOUGH PATENT AUTOMATIC SEPARATOR
+
+{153}
+
+HOWARD & BULLOUGH PATENT AUTOMATIC SEPARATOR
+
+It has been our aim to combine in this new Separator simplicity and
+lightness with effectiveness and rigidity. All Separators collect
+lint, but the Howard & Bullough has so few parts and is so easily
+cleaned that this disadvantage is reduced to a minimum. The Separator
+rod holders, which allow the blades to be thrown back out of position
+for doffing, are neat and strong.
+
+Vibration in a Separator means bad work, and we have given special
+attention to this point, as evidenced by the double bearings for the
+lifting rods, the stiffness of the Separator rod carrying the blades,
+and the general design. In case the operator neglects to return the
+blades to their working position after doffing, this is taken care of
+by a curved stop or bracket attached to the roller beam. Easy
+adjustment for both long and short traverse is a good feature of this
+Separator.
+
+{154}
+
+FLOOR SPACE OF RING SPINNING FRAMES.
+
+[Illustration]
+
+We make 36-in. or 39-in. framing as required. When extra large
+diameter roving bobbins are used and the creels are required to take
+double roving, the 39-in. framing is needed to obtain enough space in
+the creels.
+
+To ascertain the length of Spinning Frames with any number of
+spindles: Multiply one-half the number of spindles by the gauge and
+add 2 ft. 1 in. for head and off ends.
+
+Although it is advantageous when possible to keep to the number of
+spindles given in the table on the opposite page, other lengths can be
+built, but even boxes are preferable.
+
+DRIVING PULLEYS are 8 in. to 18 in. dia., 3-1/4 in. face.
+
+{155}
+
+LENGTHS OVER ALL OF RING SPINNING FRAMES.
+
+[Illustration]
+
+{156}
+
+PRODUCTION TABLE OF RING WARP YARN.
+
+FRONT ROLL, 1 IN. DIA.
+
+[Illustration]
+
+Allowance has been made for doffing, etc. Standard Warp Twist used,
+4.75 x square root of number of yarn.
+
+{157}
+
+PRODUCTION TABLE OF RING WARP YARN.
+
+FRONT ROLL, 1 IN. DIA.
+
+[Illustration]
+
+Allowance has been made for doffing, etc. Twist per inch, 4.75 x
+square root of number up to 40s. For 40s and finer the twist per inch
+is graduated from 4.60 to 4.00 x square root of number.
+
+{158}
+
+PRODUCTION TABLE OF RING FILLING YARN.
+
+FRONT ROLL, 1 IN. DIA.
+
+[Illustration]
+
+Allowance has been made for doffing, etc. Filling Twist used, 3.25 x
+square root of number of yarn.
+
+{159}
+
+PRODUCTION TABLE OF RING FILLING YARN.
+
+FRONT ROLL, 1 IN. DIA.
+
+[Illustration]
+
+Allowance has been made for doffing, etc. Filling Twist used, 3.25 x
+square root of number of yarn.
+
+{160}
+
+[Illustration]
+HEAD END GEARING
+RING SPINNING FRAME
+
+{161}
+
+[Illustration]
+SECTIONAL VIEW
+RING SPINNING FRAME
+
+{162}
+
+[Illustration]
+SIDE VIEW
+RING SPINNING FRAME
+
+{163}
+
+SPINNING FRAME.
+
+ALPHABETICAL REFERENCES TO DRAWINGS.
+
+A   Driving Pulley, 8 in. to 18 in. dia.,
+      advancing by 1/2 in. increments; 3-1/4 in. face.
+A1  Cylinder Gear, 17, 21, 29 and 39 T.
+A2  Cylinder, 7 in. dia.
+B   Jack Gear, 72, 76, 86, 96 and 106 T.
+B1  Twist Change Gear, 25-67 T., advancing by one tooth.
+C   Intermediate Gear, 156 T. for 36-in. frame;
+      171 T. for 39 in. frame.
+C1  Builder Motion Driving Sprocket Gear, 8 T.
+D   Front Roll Twist Gear, 84 T.
+D1  Front Roll Draft Gear, 21 and 27 T.
+D2  Front Roll, usually 1 in. dia.;
+      sometimes 1-1/16 in. dia. and 1-7/8 in. dia.
+E   Crown Gear, 72, 90 and 108 T.
+E1  Draft Change Gear, 32-59 T., advancing by one tooth.
+F   Large Back Roll Gear, 79 and 89 T.
+F1  Small Back Roll Gear, 28 T. for 7/8 in. dia.
+      Middle and Back Rolls, 29 T. for 15/16 in. dia.
+      Middle Roll, 1-1/16 in. dia. Back Rolls.
+F2  Back Roll, usually 7/8 in. dia., sometimes 11/16 in. dia.
+      and 1-1/8 in. dia.
+G   Broad Middle Roll Intermediate Gear, 48 T.
+H   Middle Roll Gear, 26 T. for 7/8 in. dia. Middle and Back Rolls,
+      24 T. for 15/16 in. dia. Middle and 1-1/16 in. dia. Back Rolls.
+I   Whorl, 3/4 in., 13/16 in. and 7/8 in. dia.
+J   Carrier Sprocket Gear, 10 T.
+K   Builder Motion Worm Shaft Sprocket Gear, 12, 14, 16, 18, 20, 22
+      and 24 T., dependent upon the Number of Yarn.
+L   Carrier Sprocket Gear, 7 T.
+
+{164}
+
+SPINNING FRAMES.
+
+DRAFT CALCULATIONS.
+
+TWIST CALCULATIONS.
+
+[Illustration]
+
+When figuring the Ratio of Whirl Speed to Cylinder Speed we add 1/3
+inch to the diameters to allow for the band.
+
+{165}
+
+[Illustration]
+
+In our production tables on pages 156 to 159, the allowance for
+doffing, waste, etc., varies with the numbers of yarn, the percentage
+loss being greater for coarse than fine work.
+
+{166}
+
+RING SPINNING FRAME, DRAFT TABLE.
+
+FRONT ROLL 1 IN. DIAM. BACK ROLL 7/8 IN. DIAM.
+
+[Illustration]
+
+{167}
+
+RING SPINNING FRAME, DRAFT TABLE.
+
+FRONT AND BACK ROLLS SAME DIAMETER.
+
+[Illustration]
+
+{168}
+
+RING SPINNING FRAME, TWIST CONSTANTS.
+
+1 IN. DIA. FRONT ROLL. 7 IN. DIA. CYLINDER.
+
+FRONT ROLL GEAR, 84 T.
+
+[Illustration]
+
+{169}
+
+RING SPINNING FRAME, TWIST CONSTANTS.
+
+1-1/16 IN. DIA. FRONT ROLL. 7 IN. DIA. CYLINDER.
+
+FRONT ROLL GEAR, 84 T.
+
+[Illustration]
+
+{170}
+
+RING SPINNING FRAME, TWIST CONSTANTS.
+
+1-1/8 IN. DIA. FRONT ROLL. 7 IN. DIA. CYLINDER.
+
+FRONT ROLL GEAR, 84 T.
+
+[Illustration]
+
+{171}
+
+RING SPINNING FRAME TWIST TABLE.
+
+1 IN. DIA. FRONT ROLL. 7 IN. DIA. CYLINDER.
+
+FRONT ROLL GEAR, 84 T.
+
+[Illustration]
+
+{172}
+
+RING SPINNING FRAME TWIST TABLE.
+
+1 IN. DIA. FRONT ROLL. 7 IN. DIA. CYLINDER.
+
+FRONT ROLL GEAR, 84 T.
+
+[Illustration]
+
+{173}
+
+RING SPINNING FRAME TWIST TABLE.
+
+1 IN. DIA. FRONT ROLL. 7 IN. DIA. CYLINDER.
+
+FRONT ROLL GEAR, 84 T.
+
+[Illustration]
+
+{174}
+
+RING SPINNING FRAME TWIST TABLE.
+
+1 IN. DIA. FRONT ROLL. 7 IN. DIA. CYLINDER.
+
+FRONT ROLL GEAR, 84 T.
+
+[Illustration]
+
+{175}
+
+RING SPINNING FRAME TWIST TABLE.
+
+1-1/16 IN. DIA. FRONT ROLL.
+7 IN. DIA. CYLINDER.
+FRONT ROLL GEAR, 84 T.
+
+[Illustration]
+
+{176}
+
+YARN TWIST TABLES.
+
+[Illustration]
+
+{177}
+
+YARN TWIST TABLES.
+
+[Illustration]
+
+{178}
+
+YARN TWIST TABLES.
+
+[Illustration]
+
+NOTE--The above tables are extended in some cases much beyond the
+actual requirements as indicated by their headings, but will prove
+useful for other yarns.
+
+{179}
+
+TABLE FOR NUMBERING COTTON YARN BY THE WEIGHT IN GRAINS OF 120 YARDS
+OR 1 SKEIN
+
+[Illustration]
+
+{180}
+
+TABLE FOR NUMBERING COTTON YARN-Cont'd.
+
+[Illustration]
+
+{181}
+
+TABLE FOR NUMBERING COTTON YARN-Cont'd.
+
+[Illustration]
+
+{182}
+
+TABLE FOR NUMBERING COTTON YARN-Cont'd.
+
+[Illustration]
+
+{183}
+
+TABLE FOR NUMBERING COTTON YARN-Cont'd.
+
+[Illustration]
+
+{184}
+
+DRAPER TABLES OF BREAKING WEIGHTS OF AMERICAN YARNS SPUN FROM AMERICAN
+COTTON. AVERAGED FROM SAMPLE SKEIN TESTS FROM SEVERAL HUNDRED AMERICAN
+MILLS.
+
+[Illustration]
+
+{185}
+
+TRAVELLER TABLE FOR RING SPINNING FRAME.
+
+[Illustration]
+
+The speed, kind of cotton, etc., affect the weight of traveller, and
+consequently it is impossible to make up a table to cover all
+conditions, but the sizes given above will serve as a basis to select
+from. Lighter travellers should be used for higher speeds and vice
+versa. Each 1,000 revolutions of spindle makes a difference of one or
+two numbers in travellers.
+
+{186}
+
+SPOOLERS.
+
+The following tables of dimensions and productions are given as
+information:
+
+[Illustration]
+
+{187}
+
+REELS.
+
+Reels are usually made with 50 or 60 spindles each, but can be made
+either longer or shorter. The common gauge is 3-1/2 in., the length of
+which with 50 spindles is 16 ft. 8-1/2 in. and width 3 ft. 9 in.
+Machines are made for 54-in., 60-in., 72-in. and 90-in. skeins,
+usually 54 in.
+
+Driving pulleys are 12 in. x 2 in.
+
+The usual speed with 54-in. swifts is 130 revs. We give below
+production table for 54-in. skeins.
+
+[Illustration]
+
+50 per cent. allowance has been made in above table for doffing, etc.
+
+{188}
+
+[Illustration]
+DRY TWISTER
+SINGLE LINE TOP AND BOTTOM ROLLS--NARROW GAUGE
+
+{189}
+
+RING TWISTERS.
+
+FOR DRY OR WET TWISTING.
+
+Our Ring Twister resembles our Spinning Frame, both in construction
+and design, and the descriptive matter on pages 140 and 151 apply to
+this machine.
+
+The marked success of our Spinning Frame led us to build a Twister
+embodying the same improvements and special features which have been
+so much appreciated. All parts are machined, and are interchangeable.
+
+LOW FRAMING AND HEAVY RIGID CONSTRUCTION--The frames are built very
+low, are extra heavy in all their principal parts and are designed and
+constructed so as to stand high speeds without vibration, thus
+preserving the spindles, insuring light running and reducing the cost
+of repairs.
+
+DRY AND WET TWISTING--We build machines for either Dry or Wet Twisting.
+When for wet work the bottom and top rolls are covered with brass, and
+brass troughs are provided for the water. The yarn is submerged by
+means of glass rods which are easily raised or lowered.
+
+ARRANGEMENT OF ROLLS--Machines are built with any of the following
+arrangements of Rolls:
+
+Single Line Bottom Rolls, and Single Line Top Rolls.
+Double Line Bottom Rolls, and Single Line Top Rolls.
+Double Line Bottom Rolls, and Double Line Top Rolls.
+
+SPINDLES--Any of the improved modern high-speed spindles are supplied
+as required. We do not make any Twisters with common or old style "Two
+Rail" spindles.
+
+KNEE BRAKES are furnished when required.
+
+GAUGES AND RINGS--We build machines from 2-1/2-in. gauge with 1-1/2-in.
+rings up to 5-1/2-in. gauge with 4-1/2-in. rings. Any desired form or
+style of ring will be furnished. All of these rings are made from
+high-grade steel of special analysis, hardened by improved methods and
+accurately finished.
+
+{190}
+
+[Illustration]
+VERTICAL TWISTER RINGS
+
+NARROW OR WIDE BAND RINGS
+WITH BRASS OR STEEL PLATE HOLDERS
+
+SOLID SINGLE FLANGE RINGS
+
+{191}
+
+THE FOLLOWING HEADINGS ARE TAKEN UP IN DETAIL UNDER RING SPINNING
+FRAMES:
+
+SPINDLE RAILS of box pattern to prevent springing or twisting.
+
+LIFTING RODS specially finished to avoid sticking, and easily removed
+and cleaned without necessity of readjustment.
+
+RE-LEVELLING easily taken care of by means of adjustable foot casting
+and jack screw on each Spring Piece.
+
+ADJUSTABLE THREAD BOARD LIFTERS.
+
+RING OILING BEARING ON OUTRIGGER.
+
+SELF-LUBRICATING LOOSE PULLEY ON SLEEVE.
+
+IMPROVED FORM OF CYLINDER HEAD.
+
+PHOSPHOR BRONZE CYLINDER BEARINGS of self-oiling type.
+
+GEARING, simple and enclosed in boxed end to prevent accident. All cut
+gears.
+
+BUILDER of simple and effective design adjustable for Filling, Warp,
+Conant, Reverse Conant, or Straight Wind.
+
+CREELS with rigid end and center supports, free from vibration.
+
+[Illustration]
+OUT BEARING BOX (CUT OPEN) SHOWING RING OILER AND SLEEVE FOR LOOSE
+PULLEY
+
+{192}
+
+[Illustration]
+WET TWISTER, WITH DRIVING PULLEYS AT FOOT END
+
+{193}
+
+FLOOR SPACE OF TWISTERS.
+
+[Illustration]
+WIDTHS OF MACHINES.
+
+2-1/2-in. and 2-3/4-in. Gauge = 3 ft. 1-1/8 in. over all
+3-in. and 3-1/4-in.     Gauge = 3 ft. 1-5/8 in. over all
+3-1/2-in. and 4-in.     Gauge = 3 ft. 2-5/8 in. over all
+4-1/2-in.               Gauge = 3 ft. 3-3/4 in. over all
+5-in.                   Gauge = 3 ft. 4-1/4 in. over all
+5-in.                   Gauge = 3 ft. 5 in.     over all
+
+To ascertain the length of Twisters with any number of spindles:
+Multiply one-half the number of spindles by the gauge and add 2 ft. 1
+in. for head and off ends.
+
+Although it is advantageous when possible to keep to the numbers of
+spindles given in the table on page 195, other lengths can be built if
+necessary. Even rolls and boxes are preferable.
+
+DRIVING PULLEYS are 8 in. to 18 in. dia., 3-1/4-in. face.
+
+{194}
+
+[Illustration]
+WIDE GAUGE TWISTER WITH DOUBLE LINE BOTTOM
+AND SINGLE LINE TOP ROLLS
+
+{195}
+
+LENGTHS OVER ALL OF TWISTERS.
+
+[Illustration]
+
+{196}
+
+TABLE SHOWING GAUGES, RINGS AND SPINDLE SPEEDS
+FOR VARIOUS NUMBERS AND PLYS.
+
+THIS TABLE FORMS A KEY TO THE PRODUCTION TABLES WHICH FOLLOW
+
+[Illustration]
+
+{197}
+
+TABLE SHOWING GAUGES, RINGS AND SPINDLE SPEEDS--CONT'D.
+
+[Illustration]
+
+{198}
+
+TABLE SHOWING NUMBER OF POUNDS TWISTED YARN PRODUCED IN 10 HOURS-2 PLY
+
+[Illustration]
+
+{199}
+
+TABLE SHOWING NUMBER OF POUNDS TWISTED YARN PRODUCED IN 10 HOURS-3 PLY.
+
+[Illustration]
+
+Allowance has been made for doffing, waste, cleaning, etc.
+
+{200}
+
+TABLE SHOWING NUMBER OF POUNDS TWISTED YARN PRODUCED IN 10 HOURS-4 PLY.
+
+[Illustration]
+
+Allowance has been made for doffing, waste, cleaning, etc.
+
+{201}
+
+TABLE SHOWING NUMBER OF POUNDS TWISTED YARN PRODUCED IN 10 HOURS-5 PLY.
+
+[Illustration]
+
+Allowance has been made for doffing, waste, cleaning, etc.
+
+{202}
+
+TABLE SHOWING NUMBER OF POUNDS TWISTED YARN PRODUCED IN 10 HOURS--6 PLY.
+
+[Illustration]
+
+Allowance has been made for doffing, waste, cleaning, etc.
+
+{203}
+
+[Illustration]
+HEAD END GEARING
+TWISTER
+
+{204}
+
+[Illustration]
+SINGLE LINE BOTTOM ROLL
+
+DOUBLE LINE BOTTOM ROLLS
+ARRANGEMENTS OF ROLLS
+TWISTER
+
+{205}
+
+TWISTERS.
+
+ALPHABETICAL REFERENCES TO DRAWINGS.
+
+A   Driving Pulley, 8 in. to 18 in. dia.,
+      advancing by 1/2 in. increments, 3-1/4 in. face.
+A1  Cylinder Gear, 21, 25, 29, 30, 39 and 49 T.
+A2  Cylinder, 7 in. and 8 in. dia.
+B   Jack Gear, 72, 76, 80, 84, 86, 96 and 106 T.
+B1  Twist Change Gear, 25 to 67 T., advancing by one tooth.
+C   Intermediate Gear, 171 T.
+C1  Builder Motion Driving Sprocket Gear, 8 T.
+D   Front Roll Twist Gear, 108 and 92 T., Single Line Bottom Roll.
+      Head End Stud Gear, 108 T., Double Line l Bottom Rolls.
+D1  Head End Stud Change Gear, 23, 27, 32 and 36 T.
+E   Front Roll Change Gear, 36, 32, 27 and 23 T.
+E1  Front Roll Gear, 39 T.
+E2  Front Roll, 1-1/2 in. dia.
+F   Back Roll Intermediate Gear, 48 T.
+G   Back Roll Gear, 40 T.
+G1  Back Roll, 1-1/2 in. dia.
+H   Top Roll, 2-1/2 in. dia.
+I   Whorl, 7/8 in., 1-1/8 in., 1-3/8 in., 1-5/8 in. and 2-1/2 in. dia.
+J   Carrier Sprocket Gear, 10 T.
+K   Builder Motion Worm Shaft Sprocket Gear, 12, 14, 16, 18, 20, 22
+      and 24 T., dependent upon the Number of Yarn.
+L   Carrier Sprocket Gear, 7 T.
+
+NOTE--For Letters A and I refer to Spinning Frame cut on page 161.
+
+{206}
+
+TWISTERS.
+
+TWIST CALCULATIONS.
+
+[Illustration]
+
+{207}
+
+[Illustration]
+
+In our production tables on pages 198 to 202 the allowance for
+doffing, waste, etc., varies with the numbers of twisted yarn, the
+percentage loss being greater for coarse than fine work. See pages 196
+and 197 for percentage deducted.
+
+{208}
+
+TWIST GEARING CONSTANTS FOR TWISTERS.
+
+1-1/2-IN. SINGLE LINE BOTTOM ROLLS. 7-IN. DIA. CYLINDER.
+
+[Illustration]
+
+Rule to find change gear: Divide Constant by Twist per inch required.
+
+{209}
+
+TWIST GEARING CONSTANTS FOR TWISTERS.
+
+1-1/2-IN. DOUBLE LINE BOTTOM ROLLS. 8-IN. DIA. CYLINDER.
+
+[Illustration]
+
+Rule to find change gear: Divide Constant by Twist per inch required.
+
+{210}
+
+TWIST TABLE FOR TWISTERS.
+
+1-1/2 IN. SINGLE LINE BOTTOM ROLLS. FRONT ROLL GEAR, 108.
+1-1/8 IN. DIA. WHIRL ON SPINDLE.
+
+[Illustration]
+
+{211}
+
+TWIST TABLE FOR TWISTERS.
+
+1-1/2 IN. SINGLE LINE BOTTOM ROLLS. FRONT ROLL GEAR, 108.
+1-3/8 IN. DIA. WHIRL ON SPINDLE.
+
+[Illustration]
+
+{212}
+
+TWIST TABLE FOR TWISTERS.
+
+1-1/2 IN. SINGLE LINE BOTTOM ROLLS. FRONT ROLL GEAR, 108.
+1-5/8 IN. DIA. WHIRL ON SPINDLE.
+
+[Illustration]
+
+{213}
+
+TWIST TABLE FOR TWISTERS.
+
+1-1/2 IN. SINGLE LINE BOTTOM ROLLS. 8 IN. DIA. CYLINDER.
+2-1/2 IN. DIA. WHIRL ON SPINDLE.
+
+[Illustration]
+
+{214}
+
+TWIST TABLE FOR TWISTERS.
+
+1-1/2 IN. DOUBLE LINE BOTTOM ROLLS. 8 IN. DIA. CYLINDER.
+1-5/8 IN. DIA. WHIRL ON SPINDLE. HEAD END STUD GEAR, 108 T.
+
+[Illustration]
+
+NOTE--D1 = Head End Stud Change Gear.
+      E = Front Roll Change Gear.
+      Ratio Whirl to Cylinder Speed, 4.643.
+
+{215}
+
+TWIST TABLE FOR TWISTERS.
+
+1-1/2 IN. DOUBLE LINE BOTTOM ROLLS. 8 IN. DIA. CYLINDER.
+2-1/2 IN. DIA. WHIRL ON SPINDLE.
+HEAD END STUD GEAR, 108.
+
+[Illustration]
+
+NOTE-D1 = Head End Stud Change Gear.
+E = Front Roll Change Gear.
+Ratio Whirl to Cylinder Speed, 3.095.
+
+{216}
+
+TWIST TABLES FOR 2 PLY.
+
+[Illustration]
+
+{217}
+
+TWIST TABLES FOR 3 PLY.
+
+[Illustration]
+
+{218}
+
+TWIST TABLES FOR 4 PLY.
+
+[Illustration]
+
+{219}
+
+TWIST TABLES FOR 5 PLY.
+
+[Illustration]
+
+{220}
+
+TWIST TABLES FOR 6 PLY.
+
+[Illustration]
+
+{221}
+
+{222}
+
+[Illustration]
+CONE WINDER
+
+{223}
+
+CONE AND TUBE WINDERS.
+
+Although these machines are adapted to the winding of all kinds of
+yarns, they are especially good for soft hosiery and underwear yarns
+which should be handled so as to retain their full strength and
+elasticity.
+
+OPEN WIND--This feature of our machine, together with its general
+improved construction, enables it to wind the most delicate yarns. The
+open wind with its irregular coils is of great advantage, as
+stretching of the yarn is avoided and it unwinds freely in the
+knitting process.
+
+CONE AND PARALLEL WIND--These machines are built for winding either
+cones or parallel tubes, from cops, bobbins, spools or skeins.
+
+STOP MOTIONS--These are applied to all machines. The Detector Holders
+and Drop Wires are supplied for one or more ply, as required. When a
+thread breaks, the individual drum stops, thus preventing waste or
+single. The Stop Motions are quick and positive, and the piecing up is
+very easily done.
+
+FRAMING AND CONSTRUCTION--The Winders are strong and durable. No wood
+is used in their construction, except for the top shelves and Friction
+Boards. All gearing is cut. The Casing-off Plates on each side are
+hinged, which facilitates cleaning.
+
+UNIFORM TENSION--The conical and parallel Mandrels are driven by
+friction from the drums, and consequently the increase in diameter of
+the cones or tubes does not alter the tension on the yarn.
+
+IMPROVED MANDRELS--These fit firmly in the paper cones at both ends.
+The cones are very easily removed, and although they may vary in size
+or shape, any irregularities are taken care of by the Mandrels.
+
+IMPROVED REVERSING MOTION--The durability of Winders and the uniformity
+of the winding depends {224} to a great extent on the accuracy and
+wearing qualities of the Reversing Motion. The cam and bowl in this
+motion are of hardened steel, and the cam runs in oil.
+
+Our Motion gives an instantaneous reversal, and prevents the throwing
+over of the yarn at the ends, ensuring a perfectly shaped cone or
+parallel Tube.
+
+ADJUSTABLE TRAVERSE--The length of the traverse can be adjusted from 4
+in. to 6 in. by a very simple method.
+
+AVAILABLE SPEED TRAVERSE--By means of a change gear on the Main Driving
+Shaft, the ratio of the speed of the traverse to the speed of the drum
+can be altered. A ratio which is best suited to coarse yarn is not the
+best for fine yarn. The work which these machines are called upon to
+do may vary from winding very coarse ply yarns to fine single yarns,
+and a variable speed traverse is of advantage.
+
+DRIVING PULLEYS--These are 18 in. dia., 2-1/2 in. face, Tight and
+Loose, and usually make 100 to 125 revs., according to the class of
+work.
+
+PRODUCTION--Based on 125 revs. of Driving Pulleys, with 20 per cent
+allowance for stops, the production per drum per week of 60 hours
+figures 500 hanks (hanks/number of yarn = lbs.)
+
+FLOOR PLAN OF CONE WINDER
+
+[Illustration]
+
+Machines are 42 in. wide and are usually built with 100 drums, 36 ft.
+8-1/2 in. over all (including driving pulleys) but other lengths can
+be made. Deduct 8-1/4 in. for each two drums less than 100.
+
+{225}
+
+[Illustration]
+CONE WINDER
+
+ALPHABETICAL REFERENCES TO DRAWING
+
+A   Driving Pulley, 18 in. dia. x 2-1/2 in. face.
+      Usual speed, 100 to 125 r. p. m.
+A1  Cone Driving Double Band Pulley.
+B   Cone.
+
+NOTE--One rev. of Driving Shaft equals 2.76 revs. of Cone.
+
+{226}
+
+WARPERS.
+
+One 54-in. Cylinder Warper (with large dia. Cylinder) occupies a space
+of 7 ft. x 3 ft. 6 in. with 24-in. beam head.
+
+The floor space of creels varies considerably. An ordinary Warper with
+creel requires a space of about 8 ft. x 13 to 14 ft.
+
+Driving Pulleys 10 in. x 2 in.
+
+Cylinders of Warpers are run from 30 to 40 revs. per minute, depending
+on the class of work.
+
+We give below production table based on 36 revs. of Cylinder (Pulleys
+196 revs.) per minute. In this table 33 per cent. has been deducted
+for stoppages.
+
+[Illustration]
+
+{227}
+
+{228}
+
+[Illustration]
+CYLINDER SIZING MACHINE OR SLASHER
+
+{229}
+
+SLASHERS.
+
+The Slasher System of Sizing was invented by Mr. James Bullough, and
+Slashers were first made and put on the market by Howard & Bullough,
+Ltd.
+
+The advent of the Slasher, dispensing as it did with the old systems
+of Sizing, is recognized as one of the greatest inventions of the age.
+Probably no other invention was ever taken up and supplanted other
+systems with such rapidity as that of the Slasher, in every cotton
+manufacturing country. Although Slashers are now made by others, the
+Howard & Bullough machine still keeps the lead, and improvements are
+being continually added.
+
+NEW PATTERNS--The machines are now made from new patterns with extra
+heavy framing, with broad flanges, planed edges, and milled
+doubled-flanged joints, giving great strength and solidity. All
+seatings, cross-rails, principal brackets and fixings are planed or
+milled.
+
+HEADSTOCKS--These are made in three lengths, Short (8 ft. 6 in.),
+Medium (10 ft. 4 in.) and Long (12 ft. 2 in.), and are complete with
+Fan, Conducting Rollers, Polished Dividing Rods, quick and accurate
+Yarn Marker, Expanding and Contracting Comb, Spring Bearings for
+preventing the breaking of yarn when starting the machine, Triple
+Speed Change Gears, Slow Motion arrangement, Side Shaft, and Gearing
+to Copper Size Rollers, Patent Yarn Beam Friction and Patent Revolving
+Yarn Beam Presser.
+
+PATENT YARN BEAM FRICTION--With four frictional surfaces. These
+Frictions have more than double the friction surface of the older
+styles, and give considerably more power and are proving the most
+efficient Frictions ever invented.
+
+SLOW MOTION DRIVING--This enables the Slasher to be run at a very slow
+speed, instead of being entirely stopped whilst doffing, etc., thus
+preventing the burning or spoiling of yarn whilst under the squeezing
+rollers in the size box. {230}
+
+COPPER CYLINDERS--Made from best Copper Sheets well and evenly rolled
+by machinery, so as to give a perfectly smooth drying surface, with
+Ends or Heads made of Steel plates. Cylinder Shafts run on
+Anti-Friction Bowls, and are provided with Pressure Gauge, Safety and
+Reducing Valves, and Steam Traps.
+
+SIZE BOX--With two Heavy Seamless Copper Rollers, with Brass Glands and
+Brass Bushes. The Ends of these Rollers run in Brass Steps in
+Pedestals supported by Tables which are cast to the outside of the
+Size Box.
+
+Size Box also contains perforated Copper Boiling Pipe, Seamless Copper
+Immersion Roller, with adjustable Racks and Motion, Brass and Tin
+Conducting Rollers, and Brass Taps.
+
+CREELS--These are usually made for 6 Beams, but are made for more if
+required, and have Adjustable Bearings. Three sizes are made, 22-3/8
+in., 25-1/2 in. and 27 in. between centers. The latter for Beam Heads
+up to 26 in. dia.
+
+We also apply, when ordered, any of the following:
+
+Patent Traversing Yarn Beam Presser.
+
+Patent Expanding Double Yarn Beam Presser.
+
+Patent Yarn Tension Arrangement to Size Box for enabling the size to
+better penetrate the Yarns.
+
+Positive Driving Arrangement to Cylinders for Fine Yarns or small
+number of ends.
+
+Extra Carrying Rolls and Stands.
+
+PRODUCTION--One Slasher will supply from 150 to 600 Looms, according to
+the class of work; about 300 is the average.
+
+DRIVING PULLEYS--Are on Right Hand side of Head-stock (when facing
+same), 13 in. dia., 3 in. face, T. & L. Slow Motion Pulley is 1 in.
+face, making 7 in. in width for the three Pulleys.
+
+SPEEDS--170 to 210 R. P. M.
+
+{231}
+
+FLOOR SPACE--Dimensions of Standard machines with Short Headstock (8
+ft. 6 in.) and 6-Beam Creel, 23-1/2 in. or 27 in. centers, the latter
+for Beam Heads up to 26 in. dia. ; 9/8 wide, for Warper Beams 54 in.
+wide between Heads, Drying Surface of Cylinders, 56-1/2 in.
+
+6 ft. dia. Cylinder 31 ft. 0 in. x 8 ft. 6 in.
+    (Width is 8 ft. 11 in. over extreme projections in Headstock
+    when Cannon Shaft is extended.)
+7 ft. dia. Cylinder 33 ft. 4 in. x 8 ft. 6 in.
+66 in. and 40 in. dia. Cylinders 33 ft. 4 in. x 8 ft. 6 in.
+6 ft. and 4 ft. dia. Cylinders 33 ft. 10 in. x 8 ft. 6 in.
+7 ft. and 4 ft. dia. Cylinders 34 ft. 10 in. x 8 ft. 6 in.
+7 ft. and 5 ft. dia. Cylinders 37 ft. 10 in. x 8 ft. 6 in.
+
+Add for each additional two Beams in Creel, 3 ft. 4-1/2 in.
+Add for Medium Headstock 1 ft. 10 in.
+Add for Long Headstock 3 ft. 8 in.
+
+LOOM BEAMS--Slashers 9/8 wide, as described above, will take Loom Beams
+up to 64 in. long over all, or up to 70 in. by using Cranked Cannon
+Shaft Brackets.
+
+WIDER SLASHERS--These are made up to 12/4 wide, for widths of yarn as
+follows:
+9/8      6/4      7/4     8/4     9/4    10/4    11/4    12/4
+54 in.   60 in.   66 in.  72 in.  78 in.  84 in.  90 in.   96 in.
+
+Add to the width of machines, as given above, 6 in. for each extra
+width over 9/8.
+
+SPECIAL MACHINES--Are made with Extra Wide or Extra Long Heads and many
+other attachments for Special Work, also with AIR DRYING instead of
+Cylinders.
+
+{232}
+
+APPROXIMATE SHIPPING WEIGHTS OF MACHINES
+                                               Pounds
+Hopper Bale Opener                              5,000
+Self-feeding Opener                             6,000 to 6,500
+Single Beater Breaker Lapper                    8,500 to 9,500
+Self-feeding Opener and Single Beater Breaker  15,000 to 16,000
+Single Beater Intermediate or Finisher          8,500
+Double Beater Intermediate or Finisher         13,000
+Revolving Flat Card                             7,000
+Drawing Frame, per delivery                       700
+Slubbing Frame, 60 spdls., 12 in. x 6 in.       9,250
+Intermediate Frame, 96 spdls., 10 in. x 5 in.  10,000
+Roving Frame, 144 spdls., 8 in. x 4 in.        11,500
+Roving Frame, 160 spdls., 7 in. x 3-1/2 in.    11,250
+Jack Frame, 184 spdls., 6 in. x 3 in.          11,250
+Spinning Frame, 224 spdls., 2-3/4 in. Ga.       6,250
+Spinning Frame, 204 spdls., 3 in. Ga.           6,250
+Spinning Frame, 192 spdls., 3-1/4 in. Ga.       6,250
+Twister, 220 spdls., 3 in. Ga.                  7,000
+Twister, 192 spdls., 3-1/4 in. Ga.              7,300
+Twister, 160 spdls., 4 in. Ga.                  6,800
+Twister, 132 spdls., 5 in. Ga.                  6,700
+Cone Winder, 100 Drums                          7,500
+
+{233}
+
+ENGLISH WEIGHTS AND MEASURES OF COTTON YARN.
+
+24 Grains = l Pennyweight (Dwt. Troy).
+
+437.5 Grains = 1 Ounce (Avoirdupois).
+
+16 oz. = 7,000 Grains = l Pound (Avoirdupois).
+
+1-1/2 Yards = 54 in. = 1 thread or circumference of Cotton Reel.
+
+120 Yards = 80 threads = l Skein.
+
+840 Yards = 560 threads = 7 skeins = 1 Hank.
+
+The number of Hanks in 1 lb. is the number of the yarn.
+
+7,000 grains (1 lb.) divided by the weight in grains of 1 Hank
+  (840 Yards) = the number of yarn.
+
+It is unnecessary and inconvenient to measure and weigh a full hank,
+and a lesser number of yards are usually taken. 120 yards for yarn,
+and 12 yards for Roving are common, and the Dividends for these are
+given in the following table.
+
+DIVIDEND TABLE
+Yards  Dividends
+1        8.33
+2       16.66
+3       25.00
+4       33.33
+5       41.66
+6       50.00
+7       58.33
+8       66.66
+9       75.00
+10      83.33
+12     100.00
+30     250.00
+60     500.00
+120   1000.00
+840   7600.00
+
+RULES
+
+Divide 7,000 (Grains in 1 lb.) by 840 (yards in 1 Hank) =
+   dividend for 1 yd., 8.33.
+
+Dividend/by weight in grains = Hank.
+
+Dividend/by Hank = Weight in Grains.
+
+EXAMPLES--If 1 yard of Card Sliver weighs 55 Grains, what Hank is it?
+Divide the dividend for 1 yard (8.33) by 55 = .151 Hank.
+
+What should 120 yds. of No. 25s yarn weigh? Divide the dividend for
+120 yards (1,000) by 25 = 40 grains.
+
+{234}
+
+GENERAL RULES WITH EXAMPLES.
+TO FIND THE DRAFT BETWEEN TWO ROLLS.
+
+[Illustration]
+{235}
+
+[Illustration]
+{236}
+
+[Illustration]
+
+{237}
+
+CLASSIFICATION OF COTTON ADOPTED BY THE NEW YORK COTTON EXCHANGE.
+QUARTER GRADES IN USE AFTER MARCH 10, 1910.
+
+Grades                      Quarter Grades
+
+Fair.
+Strict Middling Fair.
+Middling Fair.
+
+                            Barely Middling Fair.
+Strict Good Middling.
+
+                            Fully Good Middling.
+Good Middling.
+
+                            Barely Good Middling.
+Strict Middling.
+
+                            Barely Middling.
+Middling (Basis).
+Strict Low Middling.
+
+                            Fully Low Middling.
+Low Middling.
+Strict Good Ordinary.
+Good Ordinary.
+Strict Good Middling Tinged.
+Good Middling Tinged.
+Strict Middling Tinged.
+Middling Tinged.
+Strict Low Middling Tinged.
+Low Middling Tinged.
+Middling Stained.
+
+{238}
+
+APPROXIMATE POWER REQUIRED BY COTTON MACHINERY.
+
+                                                         Horse-power
+Hopper Bale Opener                                            3
+Hopper Feeder                                                 1-1/2
+Self-feeding Opener                                           3
+Single Beater Breaker Lapper, with Cage Section               6
+Single Beater Breaker Lapper, with Gauge Box and Condenser    7-1/2
+Combined Self-feeding Opener and Single Beater Breaker Lapper 9
+Single Beater Intermediate or Finisher Lapper                 4
+Two Beater Intermediate or Finisher Lapper                    7-1/2
+Thread Extractor with Condenser                               1-1/2
+No. 6 Fan                                                     5
+Revolving Flat Card-Production, 450 lbs. per week             3/4
+Revolving Flat Card-Production, 700 lbs. per week             1
+Revolving Flat Card-Production, 1,000 lbs. per week           1-1/4
+Sliver Lap Machine                                            1/2
+Ribbon Lap Machine                                            1
+Comber--6-Head                                                 1/2
+Comber--8-Head                                                 2/3
+Drawing Frames, Ordinary Rolls, 6 delvs. per                  1
+Drawing Frames, Metallic Rolls, 5 delvs. per                  1
+Slubbing Frame, 45 spdls. per                                 1
+Intermediate Frame, 55 spdls. per                             1
+Roving Frame, 85 spdls. per                                   1
+Jack or Fine Roving Frame, 100 spdls. per                     1
+
+Spinning Frame, Warp yarns
+16s and coarser, 70 spdls. per                                1
+22s, 75 spdls. per                                            1
+40s, 80 spdls. per                                            1
+
+{239}
+
+60s, 90 spdls. per                                            1
+80s, 100 spdls. per                                           1
+
+Spinning Frame, Filling Yarns.
+16s and coarser, 110 spdls. per                               1
+22s, 90 spdls. per                                            1
+28s, 85 spdls. per                                            1
+40s, 90 spdls. per                                            1
+70s, 100 spdls. per                                           1
+90s, 110 spdls. per                                           1
+Twister, 40 to 100 spdls. per                                 1
+Cone Winder, 65 Drums per                                     1
+Mule Spinning, 90 to 125 spdls. per                           1
+Spoolers, 150 to 250 spdls. per                               1
+Warper                                                        1/4
+Ball Warper                                                   1/2
+Slasher                                                       1-1/2
+Plain Loom, 40 in.                                            1/4
+Wide Loom, 92 in.                                             1
+Reel, 50 spdls.                                               5
+Brusher and Shearer                                           3
+Cloth Folder                                                  1/3
+
+NOTE--The above figures are only approximate, and give a fair average
+of the power taken to drive the various machines. The speed,
+production and many other conditions affect the power consumed.
+
+{240}
+
+BELTING REQUIRED FOR VARIOUS MACHINES
+
+For convenience in calculating the quantity of belting required when
+equipping a mill or ordering supplies, the following lists have been
+prepared. Actual lengths are stated, no allowance being made for lap
+of belts or for splicing bands. All widths shown are for single belts.
+
+HOPPER BALE OPENER.
+
+  Main Belt, 3 in.--8 ft. 6 in. of 2 in. (for 1 Belt).
+
+SELF-FEEDING OPENER WITH 18-IN. RIGID BEATER FOR TRUNKING CONNECTION.
+
+  Main Belt, 3-1/2 in.--29 ft. 4 in. of 2 in. (for 3 Belts).
+
+SELF-FEEDING OPENER WITH 30-IN. CYLINDER ARRANGED FOR TRUNKING CONNECTION.
+
+  Main Belt, 3-1/2 in.--30 ft. 5 in. of 2 in. (for 3 Belts).
+
+SELF-FEEDING OPENER (18-IN. RIGID BEATER) WITH ONE BEATER BREAKER LAPPER.
+  Main Belt, 5 in.  33 ft. 5 in. of 3-1/2 in. (for 2 Belts).
+         59 ft. 5 in. of 2 in. (for 6 Belts).
+
+SELF-FEEDING OPENER (30-IN. CYLINDER) WITH ONE BEATER BREAKER LAPPER.
+  Main Belt, 5 in.  33 ft. 10 in. of 3-1/2 in. (for 2 Belts).
+  60 ft. 6 in. of 2 in. (for 6 Belts).
+
+SELF-FEEDING OPENER (18-IN. RIGID BEATER) WITH TWO BEATER BREAKER LAPPER.
+  Main Belt, 6 in.  56 ft. 11 in. of 3-1/2 in. (for 3 Belts).
+  71 ft. 0 in. of 2 in. (for 7 Belts).
+
+SELF-FEEDING OPENER (30-IN. CYLINDER) WITH TWO BEATER BREAKER LAPPER.
+  Main Belt, 6 in.  58 ft. 3 in. of 3-1/2 in. (for 3 Belts).
+  72 ft. 1 in. of 2 in. (for 7 Belts).
+
+ONE BEATER BREAKER LAPPER WITH GAUGE BOX AND CONDENSER.
+  Main Belt, 5 in.  15 ft. 3 in. of 3-1/2 in. (for 1 Belt).
+  32 ft. 1 in. of 2 in. (for 3 Belts).
+  12 ft. 8 in. of 1-1/2 in. (for 1 Belt).
+
+TWO BEATER BREAKER LAPPER WITH GAUGE BOX AND CONDENSER.
+  Main Belt, 6 in.  33 ft. 5 in. of 3-1/2 in. (for 2 Belts).
+  40 ft. 7 in. of 2 in. (for 4 Belts).
+  12 ft. 8 in. of 1-1/2 in. (for 1 Belt).
+
+{241}
+
+ONE BEATER BREAKER LAPPER WITH CAGE SECTION.
+  Main Belt, 5 in.  15 ft. 3 in. of 3-1/2 in. (for 1 Belt).
+  33 ft. 2 in. of 2 in. (for 3 Belts).
+
+TWO BEATER BREAKER LAPPER WITH CAGE SECTION.
+  Main Belt, 6 in.  33 ft. 5 in. of 3-1/2 in. (for 2 Belts).
+  41 ft. 8 in. of 2 in. (for 4 Belts).
+
+ONE BEATER INTERMEDIATE OR FINISHER LAPPER.
+  Main Belt, 4 in.  15 ft. 3 in. of 3-1/2. in. (for 1 Belt).
+  17 ft. 10 in. of 2 in. (for 2 Belts).
+  4 ft. 6 in. of 1 in. (for 1 Belt).
+
+TWO BEATER INTERMEDIATE OR FINISHER LAPPER.
+  Main Belt, 5 in.  33 ft. 5 in. of 3-1/2 in. (for 2 Belts).
+  29 ft. 5 in. of 2 in. (for 3 Belts).
+  4 ft. 6 in. of 1 in. (for 1 Belt).
+
+REVOLVING FLAT CARD.
+  Main Belt, 3 in.
+  Without Slow Motion.
+  14 ft. 7 in. of 2 in. (for 2 Belts).
+  13 ft. 2 in. of l-1/2 in. (for 1 Belt).
+  22 ft. 9 in. of 5/16 in. dia. cotton Banding (for 3 Bands).
+  With Slow Motion.
+  14 ft. 7 in. of 2 in. (for 2 Belts).
+  23 ft. 4 in. of 1 in. (for 2 Belts).
+  22 ft. 9 in. of 5/16 in. dia. cotton Banding (for 3 Bands).
+
+DRAWING FRAME.
+  Main Belt, 3 in. to 4 in.--9 ft. 9 in. of 1-1/2-in. belt
+    required for each Head.
+
+SLUBBING, INTERMEDIATE AND ROVING FRAMES.
+  Main Belt, 3 in.  11-in. or 12-in. lift: 7 ft. 3 in. of 2-in.
+    belt (for Cone Drums).
+
+  9-in. or la-in. lift: 6 ft. 8 in. of 2-in. belt (for Cone Drums).
+
+  8-in. lift: 5 ft. 11 in. of 2-in. belt (for Cone Drums).
+
+  6-in. or 7-in. lift: 5 ft. 8 in. of 2-in. belt (for Cone Drums).
+
+RING SPINNING FRAME AND TWISTER.
+  Main Bell, 3 in.
+
+CONE WINDER.
+  Main Belt, 2-1/2 in.
+
+{242}
+
+SHAFTING.
+
+HORSE-POWER TRANSMITTED BY COLD ROLLED SHAFTING.
+FIRST MOVERS OR HEAD SHAFTS WELL SUPPORTED BY BEARINGS.
+
+[Illustration]
+
+The above table is figured by the following rule: Multiply the cube of
+the diameter of the shaft by the revolutions per minute and divide by
+100.
+
+{243}
+
+The table on the opposite page applies to head shafts supported by
+bearings close to each side of the main pulley so as to wholly guard
+against the transverse strain.
+
+To find the diameter of shaft necessary to carry safely the main
+pulley at the center of a bay, use the table given below in connection
+with the one on the opposite page.
+
+[Illustration]
+
+{244}
+
+SHAFTING.
+
+HORSE-POWER TRANSMITTED BY COLD ROLLED SHAFTING. SECOND MOVERS OR LINE
+SHAFTS WITH BEARINGS 8 FEET APART.
+
+[Illustration]
+
+The above table is figured by the following rule: Multiply the cube of
+the diameter of the shaft by the revolutions per minute and divide by
+50.
+
+{245}
+
+The table on the opposite page applies to Line Shafts with bearings 8
+feet apart. To find the proper diameter for Line Shafts with bearings
+any other distance apart, multiply the diameter given in the table on
+the opposite page by the Constant Number corresponding to the distance
+between bearings in the table below.
+
+[Illustration]
+
+{246}
+
+HORSE-POWER OF SINGLE BELTS.
+
+PULLEYS--100 R. P. M.--BELT CONTACT 1/2 CIRCUM.
+
+[Illustration]
+
+NOTE--The above table is based on one Horse-power per inch of width for
+each 800 feet per minute belt speed. The horse-power for other pulley
+speeds in proportion.
+
+{247}
+
+HORSE-POWER OF DOUBLE BELTS.
+
+PULLEYS--100 R. P. M.--BELT CONTACT 1/2 CIRCUM.
+
+[Illustration]
+
+NOTE--The above table is based on one Horse-power per inch of width for
+each 500 feet per minute belt speed. The horse-power for other pulley
+speeds in proportion.
+
+{248}
+
+HORSE-POWER OF DOUBLE BELTS.
+
+PULLEYS--100 R. P. M.--BELT CONTACT 1/2 CIRCUM.
+
+[Illustration]
+
+NOTE--The above table is based on one Horse-power per inch of width
+for each 500 feet per minute belt speed. The horse-power for other
+pulley speeds in proportion.
+
+{249}
+
+USEFUL CONSTANTS, ETC.
+
+1 pint of water weighs a pound and a quarter.
+
+1 gal. of water = .1605 cu. ft. = 10 lb. of water at 62 degrees F.
+
+1 knot = 6080 ft. = 1.15 statute miles.
+
+1 lb. (avoirdupois) = 7,000 grains = 453.6 grammes.
+
+1 lb. (Troy) = 5,760 grains.
+
+1 English h. p. = 33,000 ft. lbs. of work done per min. = 746 watts.
+
+1 French h. p. or force de cheval = 4,500 kilogram metres per min. =
+    .9863 English h. p.
+
+1 English h. p. = 1.01385 French force de cheval.
+
+1 board of trade electrical unit = 1,000 watts per hour.
+
+Volts X amperes = watts.
+
+The pressure of one atmosphere = 14.7 lbs. per sq. in. = 2,116 lbs.
+  per sq. ft. = a column of mercury 760 m/m high.
+
+A column of water 2.3 ft. high corresponds to a pressure of
+  1 lb. per sq. in.
+
+Cubic inches of cast iron X 0.26 = lbs. avoirdupois.
+
+Cubic inches of wrought iron X 0.28 = lbs. avoirdupois.
+
+Thickness of wrought iron plate in inches X 40 = lbs. per sq. ft.
+
+Sectional area of wrought iron in inches X 3.34 = lbs. per lineal ft.
+
+Dia. of wrought iron in inches squared X 2.64 = lbs. per lineal ft.
+
+
+CIRCUMFERENCES OF CIRCLES, ADVANCING BY 8THS.
+
+[Illustration]
+
+Circum. of a circle = dia. X 3.1416
+
+MENSURATION OF SURFACES, SOLIDS, ETC.
+
+Area of triangle = base X half the perpendicular height.
+
+Area of circle = dia.[squared] X 0.7854.
+
+Circum. of circle = dia. X 3.14159.
+
+Circum. of circle X .31831 = the dia.
+
+Dia. of circle X .8862 = the side of an equal square.
+
+Side of a square X 1.12837 = the dia. of equal circle.
+
+Square root of an area X 1.12837 = the dia. of equal circle.
+
+Surface of cylinder = area of both ends + length X circum.
+
+Surface of cone = area of base + 1/2 (slant height X circum. of base).
+
+Surface of sphere = dia. squared X 3.14159.
+
+Solidity of sphere = dia. cubed X .5236.
+
+Solidity of cylinder = area of one end X length.
+
+{250}
+
+DATA ON MANILA TRANSMISSION ROPE.
+(AMERICAN MFG. CO.)
+
+[Illustration]
+
+Weight of transmission rope = .34 X dia.2
+
+Breaking strength = 7,000 X dia.2
+
+Maximum allowable tension = 200 X dia.2
+
+Dia. smallest practicable sheave. = 36 X dia.
+
+Velocity of rope (assumed) = 5,400 ft. per minute.
+
+{251}
+
+HORSE-POWER TRANSMITTED BY MANILA ROPE.
+
+[Illustration]
+SAG OF MANILA ROPE ON DRIVING AND SLACK SIDES.
+
+[Illustration]
+
+{252}
+
+NUMBER OF RING AND MULE SPINDLES IN UNITED STATES.
+(DEPART. OF COMMERCE AND LABOR REPORT, 1908.)
+
+                    Ring       Mule       Total
+Maine              764,064    214,124     978,188
+New Hampshire    1,045,283    275,220   1,320,503
+Vermont             80,688     26,636     107,324
+Massachusetts    7,060,977  2,385,403   9,446,380
+Rhode Island     1,456,471    931,626   2,388,105
+Connecticut        789,860    450,436   1,240,296
+New York           474,154    454,162     928,316
+Pennsylvania       134,268    134,042     268,310
+New Jersey         108,690    338,339     447,029
+Maryland           151,000                151,000
+Virginia           289,639      5,940   295,579
+North Carolina   2,852,540     91,864   2,944,404
+South Carolina   3,700,974     12,032   3,713,006
+Alabama            931,030      8,912     939,942
+Georgia          1,694,768     98,022   1,792,790
+Louisiana           82,252      7,300      89,552
+Mississippi        173,111        105     173,216
+Kentucky            58,580     27,120      85,700
+Tennessee          253,448     11,750     265,198
+Texas              103,708      3,216     106,924
+Indiana            121,047     16,230     137,277
+All other States   128,772     16,576     145,348
+Total           22,455,332   5,509,055 27,964,387
+
+{253}
+
+WORLD'S COTTON SPINDLES.
+(DEPART. OF COMMERCE AND LABOR REPORT, 1908.)
+
+United States     27,964,387
+Europe:
+
+  United Kingdom  52,817,582
+
+  Germany          9,882,505
+
+  Russia           7,855,210
+
+  France           6,731,316
+
+  Italy            4,181,000
+
+  Austria-Hungary  4,026,460
+
+  Spain            1,850,000
+
+  Switzerland      1,493,012
+
+  Belgium          1,162,041
+
+  Portugal           450,000
+
+  Netherlands        396,160
+
+  Sweden             390,000
+
+  Denmark             77,644
+
+  Norway              74,936
+
+  All other Europe   185,000
+
+British India      5,699,898
+
+Japan              1,550,929
+
+China                750,000
+
+Brazil             1,300,000
+
+Mexico               730,000
+
+Canada               795,293
+
+Other countries      150,000
+
+Total            130,513,373
+
+
+
+
+
+End of the Project Gutenberg EBook of Illustrated Catalogue of  Cotton
+Machinery, by Howard & Bullough American Machine Company, Ltd.
+
+*** END OF THIS PROJECT GUTENBERG EBOOK COTTON MACHINERY ***
+
+***** This file should be named 38301.txt or 38301.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/8/3/0/38301/
+
+Produced by Don Kostuch
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

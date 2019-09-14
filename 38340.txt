@@ -1,0 +1,4112 @@
+The Project Gutenberg EBook of Rules and Practice for Adjusting Watches, by 
+Walter J. Kleinlein
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Rules and Practice for Adjusting Watches
+
+Author: Walter J. Kleinlein
+
+Release Date: December 19, 2011 [EBook #38340]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK RULES, PRACTICE--ADJUSTING WATCHES ***
+
+
+
+
+Produced by Gísli Valgeirsson and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/American Libraries.)
+
+
+
+
+
+
+
+
+
+
+
+           RULES AND PRACTICE
+                 FOR
+           Adjusting Watches
+
+                  BY
+
+          WALTER J. KLEINLEIN
+
+AUTHOR OF "THE WATCH ADJUSTER AND HIS WORK"
+
+
+  Copyright, 1920, by Walter J. Kleinlein
+
+          _All rights reserved_
+
+
+
+
+PREFACE
+
+
+In the early days of horology the apprentice was taught the art of
+making a complete watch. Production was slow, very few duplicate
+watches were constructed, and it was necessary that extra material be
+made individually by hand in the same way that the original part was
+produced. As time passed the value of the repairer was indicated by
+his ability to make new parts and to replace them so that the watch
+would again be in running condition. This was the prevailing situation
+for many years and the repairer was judged according to his skill in
+making and finishing the various parts.
+
+A similar method of judging ability is still in force among some
+employers, although the development of the industry into machine and
+specialized work has made many changes in regard to the most important
+duties of the repairer.
+
+It is no longer necessary for him to know how to make a complete watch
+and only on occasional instances is it necessary for him to make a
+part. Genuine material for modern watches is supplied by the
+manufacturer at less expense than it can be produced by the individual
+and in this particular branch of the work the repairer's requirements
+have been very considerably curtailed.
+
+A more exacting and a higher standard of timekeeping has developed,
+however, and in this field the requirements of the watchmaker have
+increased to the extent that it is no longer sufficient to merely
+restore a good watch to running condition. It must keep time. This
+development has grown gradually and surely and the past twenty-five
+years may be assumed as the period of greatest advance.
+
+It has been made possible by scientific and practical refinements
+which permit the adjustment of watches so that they will keep time
+within closely defined allowances under varying conditions.
+
+The larger problem of the successful repairer of today, therefore, is
+that of understanding the principles governing close time and of
+knowing how and where to look for the causes of variation, so that the
+higher standard of timekeeping may be restored in case of damage since
+the original adjustment.
+
+It is naturally essential to know when material is correct, how to
+make it fit in its proper place, and how to make and finish some of
+the individual parts. It is also commendable to be skilful in all
+classes of lathe work, as this at times gains prestige for the workman
+through restoring old model watches to running condition.
+
+It is, however, a disadvantage to develop one's ability in making
+parts for watches of a bygone age and neglecting the training that
+happens to be most essential and of daily advantage in repairing
+modern watches so that they will keep time as consistently after
+repairs have been made as they did when new.
+
+The object of this book is to present the essential points of watch
+adjusting in an elementary and non-technical way that will interest
+the average watchmaker and to enable him to have a convenient source
+of information, covering the necessary refinements that are
+fundamental in repairing, regulating and adjusting the better class of
+watches.
+
+The author trusts that the experienced successful watchmaker will read
+the book with interest and also with profit and that the novice will
+be enabled to foresee that there is something more to the art of
+watchmaking and repairing than that of merely assembling a watch and
+making it "tick."
+
+It so happens that the author has had many years of experience in both
+factories and repair shops and that a considerable part of his duties
+have been devoted to instruction.
+
+He has for a long time felt the need of a book that would, above all
+else, be practical in its description of the rules that an adjuster
+follows and which would prove its value in actual experience by being
+personal as far as permissible in the same sense that detailed shop
+instruction would be.
+
+Since writing the article entitled "The Watch Adjuster and His Work"
+several years ago numerous inquiries have been received, for this
+class of information and the present book is an effort to meet this
+demand in a manner that can be followed without highly technical or
+theoretical education.
+
+To promote advancement and interest in everyday practical results is
+the foremost consideration, and to this end definite means are
+presented for personal development and for obtaining better results
+from high grade watches than can possibly be obtained without a fair
+knowledge of the final details which go so far toward assuring close
+time.
+
+                           WALTER J. KLEINLEIN,
+      July 21, 1920            Waltham, Mass.
+
+
+
+
+CONTENTS
+
+
+PART I.--THE ADJUSTMENT TO TEMPERATURE
+
+CHAPTER I
+                                                                    Page
+The Compensation Balance, Controlling Factor                          3
+
+  1. General Method of Obtaining Results
+  2. How to Place Screws When the Rate is Either Slow
+     or Fast in Heat Compared to Cold.
+  3. Composition of and Distortions of Compensation
+     Balances.
+  4. Tests and Experiments.
+  5. Effect of Shifting Screws to Different Locations.
+  6. Permanency of the Temperature Adjustment.
+
+CHAPTER II
+
+Equipment for Temperature Adjusting                                   9
+
+  7. Various Methods Available.
+  8. Electrically Equipped Oven, Description and Dimensions.
+  9. The Lower Temperature Box.
+
+CHAPTER III
+
+Difference in Observatory and Commercial Systems                      13
+
+  10. Observatory System.
+  11. Commercial System.
+  12. Rating Card and Method of Calculating Variation
+  13. Value of the Normal Period Rate.
+  14. Definition of the Characters Used on Rate Cards
+      for Gain or Loss in Time.
+  15. Increasing or Decreasing the Extremes of Temperature.
+
+CHAPTER IV
+
+Some Practical Methods of Correction                                  19
+
+  16. Example of Maintaining a Pleasing Appearance of
+     the Balance.
+  17. Correction Varies When Screws are Above or Below
+      Normal Size and Weight
+  18. Over or Under Compensation.
+  19. Special Corrections for Over or Under Compensation.
+  20. Example Illustrating that Temperature Variation
+      is Not Always Due to the Balance and Spring.
+
+CHAPTER V
+
+The Middle Temperature Error                                          26
+
+  21. Why this Error Exists and What it Consists of.
+  22. How Nickel Steel Balances Overcome this Error.
+
+
+PART II.--THE ADJUSTMENTS TO ISOCHRONISM AND POSITIONS
+
+CHAPTER VI
+
+General Consideration                                                 31
+
+  23. Optional Allowances for Variation.
+  24. Some Necessary Requirements for Learning Adjusting.
+  25. Train and Escapement Freedom.
+
+CHAPTER VII
+
+Theory and Practice                                                   39
+
+  26. Theory of Frictional Errors and the Isochronal
+      Hairspring.
+  27. How Theory Works Out in Practice and what
+      Isochronism Consists of.
+  28. Common Causes of Extreme Isochronal Variation.
+
+CHAPTER VIII
+
+Relative Pinning Points of the Hairspring                             43
+
+  29. Original Springing of Watches.
+  30. How Pinning Point Alterations are Made.
+  31. Even Coil Hairsprings Very Incorrect for Some Watches.
+  32. How to Find the Correct Collet Pinning Point for Any Watch.
+  33. Results in Vertical Position Rates due to Changing
+      the Pinning Point.
+  34. The Natural Position Error and Why it Cannot be Eliminated.
+  35. Principle of Pinning Point Alterations.
+  36. Same Principles Apply in Case of American Hunting Models.
+
+CHAPTER IX
+
+Manipulation of the Regulator Pins                                    51
+
+  37. Altering the Length of Spring by Regulator Pins
+  38. Method of Examining Vibration of Over Coil
+      Between the Pins.
+  39. Position Corrections Obtained by Spreading or Closing
+      the Regulator Pins.
+
+CHAPTER X
+
+Factory and Repair Shop Adjusting                                     53
+
+  40. Routine Varies According to Circumstances.
+  41. Considering the Watchmaker in the Small Shop of
+      One or Two Workmen.
+  42. Advantages of Understanding Adjusting Even
+      Though Watches are Not Tested in Positions or
+      Isochronism.
+  43. Concerning Watchmakers of Limited Experience.
+
+CHAPTER XI
+
+Preliminary Notes and Practice for Beginners                          56
+
+  44. Practical Suggestions.
+  45. The First Point of Consideration in Learning to Adjust.
+  46. Causes of Variation Between Dial Up and Dial Down.
+  47. Short Motion Generally Indicates Where to Find Trouble.
+  48. Short Motion Sometimes Caused by Burr on Opposite Pivot.
+  49. Examining the Hairspring.
+  50. Exceptions in Regard to Gaining Rate and Short Motion.
+  51. Detailed Practice.
+  52. Which Rate to Use as the Unit for Comparison.
+  53. Damaged Pivots, Pitted End Stones and Methods of Correction.
+
+CHAPTER XII
+
+Preliminary Notes and Practice on Vertical Corrections                64
+
+  54. Five Principal Causes and Corrections for Pendant Up Variation.
+  55. Poor Motion, Cause and Effect.
+  56. Regulator Pin Practice for Pendant Up Variation.
+  57. Pendant Up Corrections Through Poise of Balance
+  58. Concentricity of the Hairspring.
+  59. Correcting Pendant Up Variation Through Pinning
+      Point Alterations.
+  60. Percentage of Watches Requiring Correction of
+      Position Rates
+
+CHAPTER XIII
+
+Concrete Examples Showing Definite Three Position Alterations
+and Labor Utilized                                                    70
+
+  61. Order of Position Timing and Method of Calculating the Variation.
+  62. Example No. 1, Three Positions, Columbus.
+  63. Example No. 2, Three Positions, Ball.
+  64. Example No. 3, Three Positions, Elgin.
+  65. Example No. 4, Three Positions, Hampden.
+
+CHAPTER XIV
+
+Concrete Examples Showing Definite Five Position Alterations
+and Labor Utilized                                                    77
+
+  66. What Five Position Adjusting Consists of--Detailed Allowances.
+  67. Example No. 5, Five Positions, Hamilton.
+  68. Example No. 6, Five Positions, Elgin, B. W. R.
+  69. Example No. 7, Five Positions, Waltham, Vang.
+  70. Example No. 8, Five Positions, Vacheron and Constantin.
+  71. Example No. 9, Five Positions, E. Howard
+  72. Example No. 10, Five Positions, Illinois, B. S.
+  73. Causes of Extremely Fast Vertical Rates.
+  74. How to Locate Defective Gearings.
+
+CHAPTER XV
+
+Timing and Final Regulation                                           91
+
+  75. Mean Time Screws and Timing Washers.
+  76. Importance of Properly Fitted Regulator.
+  77. Effect of the Middle Temperature Error.
+  78. Some Practical Reasons for Slow Rates.
+
+
+PART III.--SPECIAL NOTES
+
+CHAPTER XVI
+
+Special Notes                                                         99
+
+  79. Efficiency of Execution Analyzed (Two Examples)
+  80. Truing the Balance.
+  81. Poising the Balance.
+  82. Truing Hairsprings.
+  83. Treating a Rusty Hairspring.
+  84. Stopping by Escapement Locking when Hands are
+      set Backward or When Watch Receives a Jar.
+  85. Essentials and Non-Essentials in Cleaning Watches.
+
+
+
+
+RULES AND PRACTICE FOR ADJUSTING WATCHES
+
+
+PART I
+
+THE ADJUSTMENT TO TEMPERATURE
+
+
+
+
+CHAPTER I
+
+THE COMPENSATION BALANCE CONTROLLING FACTOR
+
+
+1. _General Method of Obtaining Results._
+
+Only since the introduction of the compensation balance which received
+its most substantial early experiments as recently as the year 1859,
+has it been possible to control the variation in pocket timepieces
+which is caused by changes in temperature. Previous to this
+introduction it was not uncommon for the best watches to vary as much
+as two or three minutes with changes of forty or fifty degrees Fahr.
+Through experiment and improvement in the quality and application of
+balance materials, such advancement has been made, that this variation
+has been reduced to seconds and temperature adjusting is now quite
+universal in the production of medium and high grade watches.
+
+In the large factories, girls and young men of very little previous
+experience are frequently taught to make the alterations and to do the
+testing, while men of experience in watchmaking handle only the more
+intricate cases such as "stoppers" and radical rates that may require
+investigation of the inner workings of the movement. The simplicity of
+the adjustment naturally becomes more apparent with experience and the
+general alterations consist merely of transferring the balance screws
+in opposite pairs, either forward or backward one or more holes,
+according to the extent of the correction desired.
+
+As these alterations are quite positive the adjustment can be
+undertaken with considerable certainty of obtaining results in every
+instance.
+
+The repairer will not find as much daily necessity for understanding
+temperature adjusting as he will for being thorough in Position
+adjusting. The subject is covered, however, for the benefit of those
+who may desire practical experience in this branch of adjusting and
+also for those who desire a general knowledge of the details.
+
+
+2. _How to Place Screws When the Rate is Either Slow or Fast in Heat
+Compared to Cold._
+
+If a watch rates slow in heat compared to cold it is necessary to
+shift screws in opposite pairs out toward the cut or free end of the
+rims; because when the metals expand the hairspring becomes weaker and
+produces a loss in time. During this period the free ends of the
+balance rims, carrying the transferred weight are forced toward the
+center and produce a gaining rate which compensates for the loss
+caused by the weakened spring.
+
+As the metals contract in cold the free ends of the balance are drawn
+outward from their true form and the concentrated weight of these
+screws near the ends reduces the fast rate in cold and in principle
+works both ways in its action on the rate.
+
+Should the circumstances be just opposite, or the rate be fast in heat
+compared to the rate in cold, it will be necessary to move the screws
+away from the free end of the rims. In doing this, less weight will be
+carried toward the center as the free ends curl inward and as a
+result, the rate in heat will become slower and the slow rate in cold
+will be reduced.
+
+
+3. _Composition of and Distortions of Compensation Balances._
+
+Compensation balances are generally made of one layer of brass and one
+of steel, with the brass on the outside consisting of about
+three-fifths of the total thickness and the steel on the inside
+consisting of about two-fifths. These metals are firmly soldered
+together and the distortions in changes of temperature are as follows.
+In heat both metals expand, which infers that the rims become longer
+as well as wider and thicker. Brass expands more than steel and
+because of its attachment to the steel it cannot continue to lengthen
+in its true circular form, due to the fact that the steel does not
+become enough longer to maintain the true curve, and the result is
+that the free ends of the rims are forced inward.
+
+In cold the brass, contracting more than the steel, pulls the rim
+outward at the free end which is just in reverse of the operations in
+heat.
+
+The end of the rim which is attached to the balance arm always moves
+in the opposite direction from the free end, or outward from the
+center of balance, when the free end moves in, and inward when the
+free end moves out. In comparison, however, this movement is
+negligible as will be noted later in the results obtained in moving
+screws in that direction.
+
+
+4. _Tests and Experiments._
+
+It is generally understood that the purpose of the compensation
+balance is to act in opposition to the error caused principally by the
+hairspring. The steel hairspring having no compensating qualities,
+either grows stronger or weaker with changes in temperature. When it
+becomes longer, wider and thicker in heat, experiments seem to prove
+that the increased width and thickness are not in proportion to the
+increased length, for if they were, the spring would actually be
+stronger; while timing proves that it is weaker because of the loss in
+time. In cold the shortening factor seems to dominate because of a
+gain in time.
+
+In a series of tests with steel springs on uncut steel brass balances,
+the temperature error in the extremes of 40 degrees and 90 degrees
+Fahrenheit was found to be from eighty to one hundred and sixty
+seconds. With the same balances cut the error was reduced from seventy
+to one hundred and thirty seconds in each instance, without any
+correction of the balance screws.
+
+A former test with palladium springs on the same balances, previous to
+having been cut, showed a considerably reduced error, indicating that
+the steel springs were mainly responsible for the temperature
+variations.
+
+The above tests were in actual practice and results are given as
+noted, regardless of scientific or established formula relating to the
+cubic measurement of metals in changes of temperature.
+
+
+5. _Effect of Shifting Screws to Different Locations._
+
+As a rule compensation balances generally have five or six pairs of
+balance screws in addition to two pairs of mean time screws. High
+grade Swiss and some American models do not have mean time screws and
+are therefore generally supplied with seven or eight pairs of balance
+screws. The mean time screws are never disturbed in making alterations
+for temperature, such alterations being confined to the balance screws
+only and the mean time screws are reserved for timing.
+
+For appearance sake the balance screws should be evenly distributed,
+although it is necessary at times to closely assemble them to obtain
+temperature results and they should not be disturbed in making
+ordinary repairs, as the adjustment may be destroyed in so doing. With
+the larger balances the moving of one pair of screws for a distance of
+one hole, generally makes a difference of four or five seconds in the
+temperature rate. In the case of smaller balances this alteration does
+not make as much difference, although the weight and location of the
+screws has considerable influence on the result.
+
+A pair of screws shifted from the second holes from the cuts, to the
+holes adjoining the cuts, will generally make a correction four or
+five times as great as would be obtained by shifting a pair of screws
+from the third to the fourth holes from the arms. The same
+proportional difference is obtained in moving a pair of screws from
+the center of the rims out to the cut, compared to moving a pair of
+screws from the holes nearest the arms out to the center of the rims.
+This principle also obtains in moving the screws in the opposite
+direction and is due to the fact that while the metals composing the
+balance follow the common laws of expansion and contraction, the
+balance actually becomes smaller in area during expansion and larger
+during contraction. This condition is made possible entirely through
+joining the metals in proper proportion and then cutting the rims.
+
+In the factories where large quantities of a particular model having a
+standard style balance are handled, tests are usually made to
+determine as to just what degree of correction will be obtained by
+shifting various pairs of screws certain distances. This information
+is then used in making alterations with considerable certainty. The
+expert temperature adjuster becomes fully informed as to the
+peculiarities of various models and is capable of getting larger
+percentages of watches within the limits of allowance, after making
+alterations, than he could obtain otherwise.
+
+Through understanding the various models individually, he is also
+enabled to furnish information that will cause intelligent arrangement
+of the balance screws, for each model, when they are originally
+fitted. The production thereby showing a greater yield of good watches
+that do not require alterations after the first test.
+
+
+6. _Permanency of the Temperature Adjustment._
+
+When the original temperature adjustment has been carefully executed
+it is quite permanent and unless the screws have been mutilated or
+changed in location there will seldom be an occasion for readjusting.
+The balance may be retrued and repoised many times and the spring may
+be retrued, altered, or even changed, without seriously interfering
+with the temperature rating, as long as the screws are not shifted. In
+changing the spring, however, it is necessary that the same number of
+coils and the same size of spring be used, as otherwise readjusting
+would be required.
+
+
+
+
+CHAPTER II
+
+EQUIPMENT FOR TEMPERATURE ADJUSTING
+
+
+7. _Various Methods Available._
+
+Two boxes are necessary for temperature testing. One fitted up to
+maintain a temperature of about 90 deg. Fahr. and the other maintaining
+a temperature of about 40 deg. Fahr.
+
+The method employed in obtaining the high temperature varies in
+different styles of boxes, while the low temperature is always
+obtained through the use of ice. When only an occasional test is made,
+any simple method whereby approximately close results in the two
+extremes can be obtained, may be used. For instance, the watch may be
+enclosed in a tin box and placed in sand that is kept at a temperature
+of 90 or 95 degrees F. A thermometer placed in the sand indicates when
+the temperature rises too high or falls too low. The ordinary
+household refrigerator may be used for testing the cold. Tests by this
+method are advisable only for short periods and for an approximate
+idea as to the extent of error.
+
+If frequent tests are made and accurate results are expected, it is
+quite important that the special boxes be used. Such boxes are often
+constructed with a capacity of four or five hundred watches, or they
+may be constructed to receive only half a dozen watches. Some are made
+with a zinc or copper tank in which warm water is placed and which
+surrounds the chamber in which the watches are deposited. The water is
+kept at the desired temperature by means of a small adjustable flame.
+In other instances electrical arrangements are used, in which case no
+water is required.
+
+In either instance a thermostat controls the source of heat.
+
+
+8. _Electrically Equipped Oven, Description and Dimensions._
+
+A very practical arrangement for testing a few watches at a time in
+the higher temperature is shown in Fig. 1. This is electrically
+equipped and will maintain an even temperature at all times.
+
+The outside of the box is constructed of about one-half inch lumber
+and the inside is lined with asbestos. It is about fourteen inches
+high by ten inches wide and eight inches deep.
+
+"A". Is an incandescent lamp set in a porcelain base.
+
+"B". Is a porcelain plug through which the wires "C" enter the box.
+
+"D" and "E". Are metal uprights with a thumbscrew on the top, under
+each of which a wire terminates.
+
+"F". Is the compensating bar, one end of which is fastened solidly to
+"D" with rivets.
+
+The opposite end is free and rests against the end of a thumbscrew
+which passes through "E."
+
+The thumbscrew is to be adjusted so that the free end of "F" will rest
+against it in a temperature of 70 deg. Fahr. or any lower temperature.
+As the temperature rises the free end of the bar moves away from the
+end of thumbscrew, breaking the circuit and extinguishing the light,
+which cuts off the source of heat. As the temperature decreases the
+bar again comes into contact and creates the circuit.
+
+This bar can be made of various compensating metals, one combination
+of which is a strip of zinc about six inches long by three eighths of
+an inch wide and one thirty-second of an inch thick. On the outside of
+this soft solder a strip of tin six inches or a trifle less in length,
+by one fourth inch wide and one thirty-second of an inch thick. Both
+metals should be bent to a curved form before they are soldered
+together as shown in the cut.
+
+[Illustration: Fig. 1]
+
+It is generally preferable to have the bar taper to a slightly
+narrower width at its free end, and near this free end it is necessary
+to solder a small strip of platinum at the point where the end of
+thumbscrew comes in contact.
+
+"G", "H", "I" and "J" are ventilating holes one inch in diameter and
+covered by a swinging slide so that the holes can be opened or closed
+as desired for regulating the ventilation. "K". Is a shelf of brass
+screen located about five inches from the top and on which the watches
+and a thermometer are placed in testing.
+
+"L". Is a handle for the purpose of convenience in carrying the box.
+The front is to be enclosed by a door made in two parts, the upper
+section of which is glass which will admit of observing the
+thermometer. Proper adjustment of the thumbscrew and bar makes the box
+ready for use.
+
+
+9. _The Lower Temperature Box._
+
+Fig. 2 shows a box specially made for testing watches in cold. It is
+constructed of wood and stands about twenty-four inches high without
+the legs and about eighteen inches square.
+
+A double partition packed with about one inch of sawdust will be most
+reliable.
+
+The upper half of the box should contain a watertight zinc tank for
+holding cracked ice and about an inch of space should be left above
+for circulation of the air.
+
+The chamber for receiving the watches may be about six inches square
+and supported by a crosspiece and attachment to the front. It should
+be covered above to prevent particles of ice from falling on the
+watches which are to be placed on the floor or on a shelf of the
+chamber, but the sides may be left partly open to improve the
+circulation of cold air. The door may also be filled with sawdust but
+does not require glass as the moisture would prevent observation of
+the thermometer which should be inside for checking up the temperature
+when the door is opened.
+
+[Illustration: Fig. 2]
+
+The bottom of the tank should be slightly higher on one side than on
+the other, with a one-half inch drain pipe fitted to the low side. The
+inlet end of the pipe should be covered with a fine screen to prevent
+dirt from accumulating in the pipe and the outlet may be either at the
+extreme bottom or on one of the sides as shown in the cut. The upper
+part or cover of box should be made so that it can be easily removed
+for filling and cleaning the tank.
+
+
+
+
+CHAPTER III
+
+DIFFERENCE IN OBSERVATORY AND COMMERCIAL SYSTEMS
+
+
+10. _Observatory System._
+
+In the foreign observatories where watches are generally tested for
+competition prize, or certificate purposes, they are subjected to
+either three or five day tests in each temperature, preceded by one
+intermediate day at normal temperature which is not considered in
+making the deductions. The purpose of this is to allow the metals to
+assume the natural condition before being placed in, or changed from,
+one degree of temperature to another. After the three or five day
+test, according to the grade of the watch, the average of the daily
+rates in each temperature is considered in making the comparison and
+arriving at the total variation. The total error is then considered in
+the summary, as a fraction of a second variation per each degree of
+temperature. As an example we will consider that the total error
+between the two averages is five seconds and that the difference in
+the two extremes of temperature was fifty degrees F. The variation
+would be given as one-tenth of a second per each degree of
+temperature.
+
+
+11. _Commercial System._
+
+In manufacturing watches for commercial purposes, both foreign and
+domestic, the tests are generally made for twenty-four hours in each
+temperature and the difference in the rates is considered as the total
+error.
+
+Sometimes preliminary tests of four or six hours in each temperature
+are made to obtain an estimate as to the extent of error, then
+alterations are made, after which the watch is subjected to the
+regular twenty-four hour test. There is nothing to be gained by this
+in regular work, although for a special rush job a day's time may be
+saved. Watches are always expected to be in first-class condition and
+such features as close fitting pivots or dirty oil will prevent any
+dependable timing. It is also advisable to time them closely before
+the test is made, as too great mean time variation may confuse in
+estimating the error, especially if the time is not taken in each
+temperature exactly at the end of twenty-four hours.
+
+The testing should preferably be done in the dial up position to
+eliminate poise errors as much as possible. The first test is made
+in heat at 90 deg. Fahr., then in normal temperature of sixty-five
+or seventy degrees and finally in the lower extreme of 40 deg. Fahr.
+
+When the watch is removed from the cold box it will be covered with
+moisture which will immediately begin to condense. The time should
+therefore be quickly noted and the watch replaced in the higher
+temperature box for four or five hours to become thoroughly dry and
+prevent against rusting of the steel parts.
+
+
+12. _Rating Card and Method of Calculating Variation._
+
+A card ruled similar to the cut shown in Fig. 3, may be used for
+entering the rates and the watch need only be set at the beginning of
+each test, as deductions can be made from the entries on the card and
+the variation accurately ascertained without resetting or disturbing
+the time.
+
+Details as to the methods to be followed would be about as follows:
+Wind and set the watch to correct time, place it in the heat box and
+at the end of twenty-four hours enter the variation from correct time
+in the upper left hand square of the card.
+
+Assuming that the time is four seconds fast, enter this as shown in
+the first column Fig. 3, then wind but do not set the watch and place
+it in normal temperature and at the end of twenty-four hours enter the
+total variation noted in the second square of first column. Assuming
+the time to be just correct, place a zero as shown. Next wind the
+watch and place it in the cold box, and assuming that the variation is
+sixteen seconds fast at the end of twenty-four hours, enter this in
+the lower square of the first column as shown in Fig. 3. The watch is
+next placed in the heat box to dry and the variation shown in the
+three sets of figures in first column are carried out as follows.
+
+Fig. 3
+
+  +--------------------------------------------------+
+  | No. .................... Make................... |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  | HEAT   | + 4 | + 4 | + 2 | + 2 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  | NORMAL |   0 | - 4 | + 6 | + 4 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  | COLD   | +16 | +16 | + 8 | + 2 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+                  12           0
+
+In the upper square we find +4, enter this in upper square of second
+column at its full value as shown.
+
+Next we find a "0" in the second square of first column, and as this
+is a loss of four seconds from the entry shown in the square above we
+carry it out in second column as -4. In the lower square of first
+column we find +16 and as this is a gain of sixteen seconds over the
+square above, it is necessary to carry this to second column at its
+full value as per illustration.
+
+To determine the extent of variation between heat and cold, simply
+ignore the normal rate of -4 in the second column and subtract +4,
+from +16, which indicates an error of twelve seconds slow in heat
+compared to cold.
+
+Or it may be determined as twelve seconds fast in cold compared to
+heat. For convenience sake it is advisable to form the habit of using
+one of the temperatures as a unit for comparison and wherever large
+quantities of watches are adjusted, it is generally the custom to use
+the higher temperature for this purpose and the rate is stated as
+either slow or fast in heat. In this instance the rate is slow in heat
+and it will be necessary to shift one or more pairs of screws toward
+the cut as explained in Chapter 1, No. 2.
+
+
+13. _Value of the Normal Period Rate._
+
+The rate in the normal period cannot be considered as of any value,
+its importance consisting only of allowing the metals to return to the
+natural form and tension before being placed in the cold box.
+
+This is quite important in obtaining a true estimate of the error,
+because of the fact that in transferring the watch immediately from
+the extreme of heat to the extreme of cold, there will be a period of
+time during which the metals are readjusting themselves to the natural
+form, and the variation in time during this period will not be
+accounted for, as the real comparative rate will not begin to develop
+until after the natural form and tension is reached.
+
+If the limit of time devoted to testing is no object and if a very
+fine rate is desired the observatory method is of course to be
+preferred. However, by allowing an intermediate day at normal
+temperature we have the assurance that the hairspring is at the same
+tension and that the balance has the same form concentrically when the
+test begins in cold that it had when the test began in heat.
+
+As the object is to find the variation between the two temperature
+extremes the estimate will be quite close enough and allows the saving
+of many days' time. Some authorities advocate in addition to the five
+days required for observatory testing in each temperature that the
+watch be subjected to an intermediate day in each, instead of in
+normal, before considering the daily rate. This seems very logical, as
+the time noted each day would be taken at the actual extremes in both
+instances and any outside factor in the timing would be eliminated.
+
+
+14. _Definition of the Characters Used on Rate Cards for Gain or Loss
+in Time._
+
+In making entries on the rate cards and in figuring the variations the
+sign + is used as denoting that the watch is running faster than the
+standard time and the sign - is used as denoting that it is running
+slower than standard time.
+
+This is stated for the reason that in some instances, generally
+foreign, the signs are used in reverse, or as indicating that the
+watch requires a correction of + or - the number of seconds indicated,
+to attain the correct standard of time. When the signs are identical
+in a column it is necessary to subtract the lesser from the greater
+and the result is the variation. There are often instances however,
+when one rate will be + and the other - as shown in second column of
+Fig. 4, and in these instances it is necessary to add the figures to
+obtain the variation.
+
+The first column is always the progressive rate and the second column
+shows the variation carried out. This example shows +8 in heat, the
+normal rate in the second square is not considered, for the reason
+previously explained and the rate in cold is shown as -1. The total
+variation between the extremes is therefore arrived at by adding +8
+and -1, which in this instance gives us a total of nine seconds fast
+in heat.
+
+Fig. 4
+
+  +--------------------------------------------------+
+  | No. .................... Make................... |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  | HEAT   | + 8 | + 8 |     |     |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  | NORMAL | +20 | +12 |     |     |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  | COLD   | +19 | - 1 |     |     |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+                     9
+
+
+15. _Increasing or Decreasing the Extremes of Temperature._
+
+The extremes of 40 deg. and 90 deg. Fahr. have been used for the reason
+that they are best suited for general purposes. When it is known,
+however, that a watch is to be used in a warm climate the extremes may
+be raised five or ten degrees to advantage. If the watch is to be used
+in a cold climate, the extremes may be lowered this amount. The metals,
+however, can only stand the strain of expansion and contraction to a
+certain degree, and still maintain the positive qualities. Therefore it
+is quite important that the extremes be not raised or lowered very much
+beyond these figures.
+
+
+
+
+CHAPTER IV
+
+SOME PRACTICAL METHODS OF CORRECTION
+
+
+16. _Example of Maintaining a Pleasing Appearance of the Balance._
+
+In altering the location of screws during the temperature adjustment
+it is often possible to either mar or improve the appearance of the
+balance. As a demonstration of this point the correction made in
+regard to Fig. 3 is analyzed. The balance had twelve screw holes in
+each rim, with the space between the first and second holes from the
+arms equal to double the space between any other two holes. There were
+seven screws in each rim, equally divided as per cut Fig. 5, which
+indicates screws in the first, second, fourth, sixth, eighth, tenth
+and twelfth holes.
+
+[Illustration: Fig. 5]
+
+A correction of the rate could have been obtained by shifting the
+screws in either the sixth or eighth holes forward three holes. Or
+those in either the first or second holes could have been shifted to
+the ninth holes and those in the fourth holes might have been shifted
+to the ninth holes with good results possible in either instance.
+
+Moving one pair of screws under any circumstances however would have
+caused a massing of three pairs of screws at some point and a vacant
+space of three holes at another point which would not present a very
+good appearance for high grade work. Therefore the alteration made was
+to move the screws from the second to the third holes, fourth to
+seventh, and from the eighth to the ninth holes as indicated by the
+positions shown in Fig. 6.
+
+[Illustration: Fig. 6]
+
+Examination of the fourth column Fig. 3, which gives the result of the
+second test will show that the desired correction was obtained with a
+better appearance of the balance than would have been possible if only
+one pair of screws had been shifted.
+
+In following the logic of the alterations made we must consider that
+the screws moved from the second to third holes made no correction,
+due to the fact that the balance rims remain almost stationary at this
+point, the alteration being for appearance only, those moved from the
+fourth to the seventh holes were estimated for a correction of seven
+or eight seconds only, for the reason that the alteration did not
+carry them beyond the center of the rims where the greatest curvature
+takes place. The screws moved from the eighth to the ninth holes
+however were estimated for the full correction of four or five seconds
+which is to be expected through shifting a normal pair of screws from
+one hole to another beyond the center of the rim on sixteen or
+eighteen size balances. In moving a pair of screws one hole between
+the first quarter and the center of the rims, a correction of from two
+to three seconds can be expected and from the center to the cut the
+difference for one hole is generally four or five seconds, while an
+alteration between the arm and the first quarter seldom yields any
+correction.
+
+The matter of appearance should at all times be respected, for it is
+just as easy to obtain results in most instances and also have a
+well-appearing balance. There is also less disturbance of the poise
+usually in moving several pairs of screws a short distance than there
+is in moving one pair a longer distance.
+
+
+17. _Correction Varies When Screws are Above or Below Normal Size and
+Weight._
+
+Normal corrections can only be realized when normal screws are
+shifted. Some balances have one half, or quarter head screws which of
+course will not produce a correction as great as will be obtained by
+shifting regular screws. Sometimes platinum, or other extra heavy
+screws will be found in balances and these will produce a correction
+almost double that of ordinary screws of the same size.
+
+
+18. _Over or Under Compensation._
+
+On some occasions it will be found impossible to maintain a pleasing
+arrangement of the screws because the temperature variation will make
+it necessary to mass all of the screws either in the holes nearest the
+cuts or in those nearest the arms.
+
+This is due to either over or under compensation of the balance. Over
+compensation is caused by too large a proportion of brass in the rims,
+which causes them to curve inward too far at the free ends in heat and
+outward too far in cold. When the extent of this error is so great
+that the rate is still fast in heat, with the screws massed in the
+holes nearest the arm, a correction can be obtained by fitting heavier
+screws in the holes adjacent to the arms and lighter screws in the
+holes nearer the free ends.
+
+When the rate in heat is slow with the screws massed at the free ends
+of rims the balance is under compensated, which is caused by too
+large a proportion of steel compared to the proportion of brass in the
+rims. This prevents the free ends of rims from curving inward far
+enough to carry the weight the proper distance toward the center of
+balance. A correction for this can be obtained by fitting heavier
+screws in the holes adjacent to the cuts and lighter screws in the
+holes toward the center of rims.
+
+In changing the weight of screws as stated above it should be
+remembered that the gross weight of all screws must remain the same or
+the timing will be seriously affected. It is also important that the
+poise be tested whenever a considerable degree of alteration is made,
+as this will assist in obtaining an accurate rate.
+
+
+19. _Special Corrections for Over or Under Compensation._
+
+Balances having the extreme degree of over or under compensation will
+seldom be found in high grade watches. In any instance, however, it is
+possible to obtain a better distribution of the screws by fitting
+either a larger or a smaller hairspring. For instance, we will assume
+a case of under compensation in which the screws have all been massed
+at the holes nearest the cuts. If the spring has seventeen coils, a
+correction of from five to ten seconds can be obtained by selecting
+and fitting a spring of the same make that will have eighteen coils,
+and the correction obtained will permit of shifting one or two pairs
+of screws back toward the arms.
+
+In case of over compensation a spring of the same make, one coil
+smaller, will permit of shifting one or two pairs of screws toward the
+free ends of rims.
+
+In a series of tests it was demonstrated that by duplicating or
+changing springs of the same make and size, on balances that had
+previously been compensated, there was very slight difference in the
+temperature variation of the watch. Also by changing pinning points or
+breaking out one-fourth to one-half of the coil around collet and
+adding weight to the balances to correct the mean time the difference
+in the variation was almost negligible.
+
+On the other hand it was found that by replacing the springs with
+others of larger or smaller size, variations of from three to ten
+seconds were noted in all instances.
+
+In selecting and fitting a spring that will be one coil larger or
+smaller, it should be noted that the inner coil of the original spring
+and that of the new spring are approximately the same distance from
+the collet. For if there was considerable space between the collet and
+inner coil of the original spring, and the new spring was colleted
+quite close, there might be the addition of an extra coil in the
+inside only. This was found to produce only a very slight correction,
+compared to that obtained by the addition of a complete outer coil.
+These tests indicate that the proportion of strength of the spring in
+the temperatures varies with any appreciable change in length while
+slight changes make practically no difference.
+
+
+20. _Example Demonstrating that Temperature Variation is not Always
+Due to the Balance and Spring._
+
+Fig. 7
+
+  +--------------------------------------------------+
+  | No. .................... Make................... |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  | HEAT   | -10 | -10 | + 4 | + 4 | + 1 | + 1 |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  | NORMAL | - 6 | + 4 | + 5 | + 1 | + 4 | + 3 |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  | COLD   | +12 | +18 | + 1 | - 4 | + 7 | + 3 |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+                    28           8           2
+
+The following example is submitted to show that temperature variation
+is not always due to the balance and spring, and that the general
+condition of the watch may be responsible. The second column of Fig.
+7, indicates an error of twenty-eight seconds slow in heat with all
+screws assembled in the holes nearest the free ends of the rims.
+
+Examination proved that the motion of the balance in cold was reduced
+to about one-fourth of a turn. In heat the arc of motion was at least
+one full turn. This difference in motion was sufficient to prove that
+there was some binding in the train.
+
+A very close fitting of the escape pivots was found and this
+undoubtedly caused binding of the pivots in heat due to slight
+expansion. Expansion of the stone would also tend to close the hole,
+and while the degree of temperature would hardly have any bearing on
+this point it is sufficient to show in what direction the tendency
+would be. The fourth wheel end shake was very close and probably
+caused binding of the wheel in cold, due to greater contraction of the
+bridge than of the fourth pinion. Furthermore the mainspring was only
+0.02 of a millimeter narrower than the space in the barrel box. This
+no doubt also caused binding through greater contraction of the barrel
+than occurred in the mainspring.
+
+The above defects were remedied and the rate was found to be eight
+seconds plus in heat as per third and fourth columns Fig. 7.
+
+This made it necessary to shift several of the screws away from the
+cut, in almost the same position in which they were before the
+alteration which caused the close assembling of the screws was made.
+The final rate was two seconds slow in heat as shown in fifth and
+sixth columns.
+
+The variation of thirty-six seconds between the second and fourth
+columns was entirely erroneous, and was due to condition of the watch
+irrespective of the balance and hairspring. Should the variation with
+the screws assembled have been by chance within the limits of
+allowance the watch would undoubtedly have been a very unreliable
+timepiece. The errors in the watch would no doubt have been corrected
+during the position adjustment later, but the large error in
+temperature which would have been introduced by wrongly moving the
+screws, would have prevented reliable timing until possibly at some
+future period a test in temperature would have been made and the
+screws replaced in the proper positions.
+
+
+
+
+CHAPTER V
+
+THE MIDDLE TEMPERATURE ERROR
+
+
+21. _Why This Error Exists and What it Consists Of._
+
+In adjusting watches to temperature it is not always possible nor
+expected to obtain a perfect rate between the two extremes,
+manufacturers generally allowing from two to ten seconds variation
+according to the grade.
+
+Even when the rate obtained is perfect it will only be so at the two
+extremes and there will always be a few seconds variation in the
+middle or normal temperature.
+
+This variation will always be a gain of from two to four seconds in
+the higher grades of steel brass balances and usually more in cheaper
+balances.
+
+As there is no possible correction for this irregularity in ordinary
+balances it has long been known as the middle temperature error and
+for many years was one of the most perplexing problems that the
+manufacturer of specially fine timepieces had to deal with.
+
+Various devices were originated from time to time for the purpose of
+counteracting the error but they were always too infinitely
+complicated to be of commercial or scientific value, and none of them
+were ever adopted as a solution of the problem.
+
+In chapter I, No. 3, will be found a description of the distortions of
+compensation balances in the extremes of temperature and the cause of
+the middle error is due entirely to the fact that these distortions
+are not exactly equal in both directions. The free ends of the rims
+are drawn outward from the concentric form to a slightly greater
+proportional degree as the temperature decreases from normal and they
+are not forced inward at an even proportional degree with increase of
+temperature.
+
+
+22. _How Nickel Steel Balances Overcome the Middle Temperature Error._
+
+Through extensive experiment in the foreign laboratories balances
+containing nickel steel have been found to almost eliminate the middle
+error, which is reduced to one second or less, making it possible to
+obtain perfect adjustment in various temperatures.
+
+All highest prize watches passing through the Geneva Observatory are
+equipped with these balances and they have been adopted for commercial
+use to a large extent by the manufacturers of the finer grades of
+watches.
+
+From the same source success has recently been attained in applying
+this metal to hairsprings and using them in connection with uncut
+balances, but owing to the necessary high cost of production, their
+general use may be delayed for some years to come. Their general use
+however would revolutionize the present-day methods of adjusting to
+temperature as there would be practically no expansion or contraction
+to deal with.
+
+Nickel steel balances will always be found to have the cuts about one
+eighth of the circle distant from the arms instead of close to the
+arms. This is made necessary by the fact that the coefficient of
+nickel steel is about ten times less than that of ordinary steel, and
+if the cuts were made close to the arms the brass in expansion would
+force the free end of the rims to curve inward to such an extent that
+it would cause an abnormally fast rate in heat.
+
+By making the cuts more central the length of the segments are
+reduced, thereby causing less curvature of the extreme ends and more
+nearly equalizing the extent of curvature both ways from the
+concentric form. This equalization is what causes the reduction in the
+middle error and its absence in ordinary balances is what causes the
+larger error.
+
+Non-magnetic or palladium balances are also credited with a smaller
+middle temperature error than the ordinary steel brass balance, but
+owing to the unstable nature of the metal they have not proved to be
+as reliable in other respects and are not used to any large extent.
+
+The middle temperature error is of course a small factor in the larger
+sense of obtaining time from commercial watches but its influence is
+apparent in timing and it will therefore be considered further in the
+section devoted to Final Regulation, Chapter XV, No. 77.
+
+
+
+
+PART II
+
+THE ADJUSTMENT TO ISOCHRONISM AND POSITIONS
+
+
+
+
+CHAPTER VI
+
+GENERAL CONSIDERATION
+
+
+23. _Optional Allowances for Variation._
+
+The phrase "Adjusted to Isochronism and Positions" does not always
+indicate the same high quality or the expense assumed in obtaining
+close rating in different kinds of watches.
+
+One particular model may be stamped "Adjusted to Five Positions" and
+this may indicate that the manufacturer of this model has tested all
+watches of this grade for twenty-four hours in each of five positions
+and that the extreme extent of variation from one position to any
+other, among any of these watches, did not exceed six seconds. Another
+model may be stamped in exactly the same way and it may indicate that
+all watches of that particular grade have been tested in exactly the
+same way and that the extreme extent of variation from one position to
+any other, did not exceed twenty-five seconds.
+
+The statement regarding the number of positions to which the watch has
+been adjusted is just as legitimate in the latter instance as it is in
+the former, for the watches are really tested in five positions and
+required to perform within specified allowances.
+
+The important difference is in the established limits of requirement,
+one demanding an extreme of only six seconds variation and the other
+allowing twenty-five seconds. Both watches may have the same number of
+jewels and there is no way to discern the actual variation except
+through a test in positions.
+
+Technically it would be just as legitimate to stamp and advertise
+watches as above and have an allowance of fifty or more seconds,
+providing that they were actually tested and not allowed to pass with
+a variation greater than this limit.
+
+Close limits of allowance require adjusters of greater skill and
+material of a finer degree of accuracy, however, than do greater
+allowances, but the dealer and consumer are generally not informed in
+regard to this particular point. Some watchmakers also do not
+understand this feature clearly and the limits of variation to which
+watches have been adjusted are seldom considered.
+
+Should the difference in allowances and identical advertising be
+interpreted as an injustice to the manufacturer who maintains close
+limits for his various grades of watches, it must be remembered that
+they speak for themselves after passing over the counter and into the
+hands of satisfied customers. His reputation after a period of years
+will be more firmly established than will that of his less particular
+competitor in the high grade field. A similar situation prevails in
+the repair shop, and the fact that many of the leading dealers and
+railroad watch inspectors require at least a three position adjustment
+in the repairing of high grade watches, is convincing evidence that
+position rating demonstrates its importance in actual service when
+applied to repair work, as surely as it does when applied to new
+watches.
+
+In placing limits of allowance for variation in various grades it is
+not intended that all watches of a particular grade will have the
+extreme variation. It is possible that an individual watch in the
+twenty-five seconds allowance class may have an even better rate than
+another watch that is in the six seconds class. It is also possible
+for a watch in either class to have a perfect rate, although these
+would be rather exceptional instances.
+
+
+24. _Some Necessary Requirements for Learning Adjusting._
+
+The adjustments to isochronism and positions are not permanent to the
+same extent that the temperature adjustment is, and they can be
+damaged or destroyed entirely by the average workman in making
+ordinary repairs unless he is familiar with the common principles
+governing their production and maintenance.
+
+Experienced workmen who are familiar with these principles avoid
+unconsciously doing any damage and make practical repairs in a manner
+that will maintain or improve the original adjustment and time-keeping
+qualities of the watch.
+
+To know and to make use of these principles does not make a "putterer"
+of the workman, in fact the consequence is just the reverse, because
+the training acquired tends to eliminate guess work and enables him to
+determine more readily as to just what the trouble may be, how to
+correct it, and as to just what degree of perfection is required in a
+particular instance.
+
+Certain practical requirements are necessary in reaching this standard
+of workmanship and it would not be profitable to attempt to do
+adjusting unless one has first had a reasonable degree of training as
+a watchmaker or repairer, especially in such branches of the work as
+truing and poising balances; truing, leveling and centering
+hairsprings; matching the escapement; finishing pivots, and properly
+cleaning and assembling watches.
+
+These mechanical requirements and experiences alone are not
+sufficient, however, and a certain amount of study must be
+consolidated with them in order to become proficient. This study
+should not deal so much with the problems of manufacture of the watch,
+or its various parts, as it does with the problems pertaining to the
+finished results that are to be obtained through refinement and
+intelligent assembly of these parts. The workman's willingness to
+indulge in such study is a very large asset among the requirements,
+and it only remains for him to obtain the proper class of instruction
+and then to conscientiously follow correct methods in his practice and
+to make personal experiments, conforming to the instruction, so that
+his confidence will become more enduring.
+
+It is further required that he be capable of realizing the difference
+between genuine and imitation materials, especially such essentials as
+balance staffs, hole jewels, mainsprings and roller jewels, which are
+the most frequently changed and most frequently substituted parts of
+watches. Imitation materials may be less expensive as a matter of
+first cost but staffs may have pivots and shoulders out of line, or
+out of true; hole jewels may be rough, out of round or extremely
+thick; mainsprings soft, or of improper proportion, and roller jewels
+may have sharp edges which cause rubbing in the fork and "hanging up"
+when the second hand is reversed. It is most satisfactory to depend
+upon the materials supplied by the manufacturer of the watch, as
+imitation goods are seldom any better.
+
+
+25. _Train and Escapement Freedom._
+
+Beyond a general insight of high class watch-work this book is not
+intended to meet the requirements of beginners. It is designed
+principally for watchmakers of some experience, and cannot presume to
+cover details that would be essential for those in early
+apprenticeship. It is thought essential, however, to consider some
+matters in a general way and among these are the subjects of side
+shakes and end shakes, and the escapement, as far as they pertain to
+general inspection of the watch without consideration of details that
+refer to correction of irregularities which are presumed to have been
+acquired in earlier training.
+
+Thoroughness of mechanical ability always demands a system of
+inspection and of making corrections and it is quite necessary to
+follow some method that will reveal any point or points that may not
+be up to standard.
+
+As a rule it is best to begin at either end of the watch, and if it is
+to be taken down the best place to begin is usually with the balance
+and examine each part as it is removed until the barrel has been
+reached. If it is not to be taken down, just as good results will be
+obtained by beginning the examination at the barrel and finishing with
+the balance. Sometimes watchmakers of considerable ability will demand
+as a basic consideration that pivots be fitted with very little side
+shake and that end shakes also be quite close if close time is to be
+expected.
+
+These presumed to be, wide side shakes and long end shakes, very often
+have nothing whatever to do with the absence of a close position rate
+and frequently are absolutely necessary for good performance of the
+watch and proper space for oil.
+
+The importance of reasonable limits is of course granted, but it is
+very detrimental to have pivots too close fitting and more stoppage
+and irregular time keeping can be traced to lack of freedom than can
+be traced to excessive shakes.
+
+If the repairer is not familiar with accepted standards of side and
+end shakes, he can improve his judgment by examining watches of the
+higher grades and comparing the results with those found in cheaper
+makes of watches.
+
+Such examination will invariably disclose the fact that fine watches
+receive very careful consideration in this respect. The center, third
+and fourth wheels generally having from 0.03 mm. to 0.05 mm. freedom
+for end shake and 0.015 mm. to 0.02 mm. for side shake. The escape
+wheel, pallet and balance will be found to run quite uniform at from
+0.02 mm. to 0.03 mm. freedom for end shake and from 0.0075 mm. to
+0.0125 mm. for side shake. The smaller and thinner watches generally
+favoring the lesser figures and the larger and thicker watches
+favoring the higher.
+
+This uniformity of freedom will be found absent in cheaper watches;
+for instance, a center wheel may have 0.02 mm. end shake and 0.01 mm.
+side shake which would be very close fitting for large pivots. The
+fourth wheel may have as much as 0.08 mm. end shake and 0.03 mm. side
+shake which would be too great. The pallet may have 0.05 mm. end shake
+and the balance 0.01 mm. and in this instance the short end shake of
+the balance would be more detrimental in most instances than would the
+longer end shake of the pallet. The variation will even be found to
+exceed these figures and when they are found in connection with thick,
+straight hole jewels they often interfere with a close position rate
+and with regularity of time in service. The interference in
+timekeeping is considerably aggravated in cases where one pivot has
+excessive side shake and the opposite pivot is close fitting, as this
+tends to cause almost certain binding of the close fitting pivot as
+soon as the power of the mainspring is applied.
+
+The end shake and side shake allowance for the barrel depends
+considerably upon its style of construction. Safety barrels
+constructed so that the arbor revolves with the main wheel, when the
+watch is running, may have about the same end shake and side shake as
+applied to the center, third and fourth wheels, and if the pivots of
+the arbor are quite large they may have a trifle more side shake.
+
+As a rule larger pivots will stand more side shake than smaller
+pivots; this, however, does not apply in the case of large bearings,
+such as safety main wheels that revolve around a stationary arbor, or
+going barrels where the entire barrel revolves around the stationary
+arbor when the watch is running.
+
+In such instances the main wheel or barrel should have from 0.03 mm.
+to 0.05 mm. end shake on the arbor and should be just free for side
+shake.
+
+The arbor which turns only when the watch is wound requires merely
+freedom for end shake between the plates, as well as for side shake
+where the pivots pass through the plates.
+
+With reference to the escapement, good watchmakers often have
+different methods of examining the various points and of making
+corrections and it is not of so much importance as to just how
+correct conditions are obtained, as it is that they actually be
+obtained.
+
+Whatever the method may be it is certain that each escape wheel tooth
+must have positive locking on each pallet stone and that there must be
+positive space for drop between the back of each stone and the pointed
+end of each escape wheel tooth. There must also be sufficient draw
+when each tooth and stone are locked to hold the fork against the
+bankings.
+
+When the lock, drop and draw are correct it is next necessary to see
+that the fork length and guard pin freedom are correct.
+
+There is only one positive method of determining as to when the fork
+length is correct, and this is through closing the bankings to drop.
+
+This can be done either before or after placing the balance in the
+watch and merely requires turning the banking screws so that the
+excentric pins will close in on the fork until the fork arrives at the
+pins, at the same instant that the tooth drops on the pallet stone.
+This eliminates any slide of the stone on the tooth beyond the actual
+locking and in this condition it is required that the roller jewel
+pass through the fork slot and out of the fork horn entirely on both
+sides with perfect freedom.
+
+Should it touch on both sides of the fork, then the fork is either too
+long or the roller jewel is too far forward, and if it touches on one
+side only it may require simply equalization of the freedom. The guard
+pin length also must be obtained with the bankings closed to drop and
+should be just free from the safety roller on both sides.
+
+When the inspection proves that these conditions have been properly
+provided for, it is necessary to slightly open the bankings so that
+there will be just a trifle of slide of each stone, on each tooth,
+after the locking takes place.
+
+Extremely wide side shakes of the escape, pallet or balance pivots
+will sometimes cause striking of the roller jewel when conditions are
+otherwise correct, and these side shakes should not be very much
+beyond the extreme limits mentioned in this number. The fact of this
+feature, however, should not be construed as a recommendation that
+these pivots be closely fitted, for reasonable freedom is to be
+desired because it is positively necessary.
+
+
+
+
+CHAPTER VII
+
+THEORY AND PRACTICE
+
+
+26. _Theory of Frictional Errors and the Isochronal Hairspring._
+
+Theory teaches us in brief, that the position adjustment is made
+necessary principally because of frictional errors. It would therefore
+seem that if the watch was mechanically correct there would be little
+or no requirement for position alterations.
+
+We are also advised that an isochronal hairspring is one which will
+cause the long and short arcs of the balance to be made in equal time
+and that to attain this, the center of gravity of the spring must
+coincide with the center of gravity of the balance and that a certain
+pinning point is necessary in producing this result.
+
+Now if we have a watch of correct mechanical construction and fitted
+with an isochronal spring it would seem that a close rating timepiece
+would be assured.
+
+
+27. _How Theory Works Out in Practice and What Isochronism Consists
+of._
+
+Practical adjusting, however, proves that such is not the case, for
+even when the construction and alterations produce watches as nearly
+correct as scientific methods can determine, there is often
+considerable variation in the position rates. A twenty-four hour test
+in any position may prove that the long and short arcs are made in
+equal time showing the spring to be isochronous and yet the position
+variations have not been accounted for. In this connection experience
+proves that a spring showing a perfect isochronal rate may have its
+collet pinning point changed, in relation to the pinning point at the
+stud and that through such an alteration, a correction in positions
+can be obtained, without in the least disturbing the perfect
+isochronal rate.
+
+This indicates that the separation of the two adjustments which is
+possible in theory, does not hold good in practice, because a spring
+showing a perfect isochronal rate has been altered for the purpose of
+counteracting some position error and thereby producing a practical
+center of gravity of the balance and spring combined, instead of
+separately.
+
+This may be further explained as creating an error in a spring which
+is supposed to be theoretically isochronous, with the idea of making
+it act in opposition to the position error and the combination thus
+obtained produces practical isochronism as well as a corrected
+position rate.
+
+It is not suggested that these relative pinning points be altered for
+the purpose of overcoming position variation such as may be caused by
+dirt and gummy oil, damaged pivots, or balances that are out of poise.
+The watch should be in first-class condition and have a good motion in
+every position and then the alterations may be safely undertaken in
+accordance with the principles.
+
+Adjusted to isochronism indicates that the watch functions uniformly
+during the entire twenty-four hours running. It is immaterial as to
+whether the rate be perfect or whether it be a gain or a loss, so long
+as it is uniform.
+
+The watch is not isochronous if there is both a gain and a loss in the
+rate, even though the time be perfect at the expiration of twenty-four
+hours.
+
+Experiment will demonstrate that watches carefully adjusted to
+positions will also have a very close isochronal rate. These
+isochronal experiments can be made by timing watches for twenty-four
+hours in any one of the vertical positions and noting the variation
+in periods of from four to twelve hours and by comparing the variation
+in the first period, during which time the arc of motion is long, with
+the variation in the latter period when the mainspring power is weaker
+and the arc of motion is short.
+
+
+28. _Common Causes of Extreme Isochronal Variation._
+
+The most common causes of isochronal variation with which the repairer
+has to deal and which are often very destructive to position rates, as
+well as to general time keeping, may be found in the factor of, out of
+poise and uneven motive force, which is one of the elementary
+principles of adjusting. This feature should be thoroughly understood
+by all watchmakers, so that as good results as possible may be
+obtained from all watches above low grade, even though no test for
+adjustment is to be made.
+
+When the balance is slightly out of poise and the motion is exactly
+one and one-fourth turn during the twenty-four hours, this out of
+poise will not affect the isochronism. When the motion varies and
+reaches approximately one and one-half turn during the first few hours
+after winding and then drops to one and one-quarter turn and finally
+to one turn or less during the latter part of the twenty-four hours,
+the poise error will have considerable effect. This factor is not
+perceptible in the flat positions, but shows up to the full extent in
+the vertical positions and the variation differs according to the
+location of the point that is heavy. For example, if the balance is
+heavy on the lower side when at rest, the watch will lose during the
+hours that the arc of motion is over one and one-fourth turn and will
+gain when the motion drops to one turn or less.
+
+Should the heavy point be on the top side of balance the result will
+be reversed and the watch will gain when the motion is over one and
+one-fourth turn and will lose when it drops to one turn or less.
+
+The total variation may be either seconds or minutes, depending upon
+the extent of the poise error and experiments will prove that serious
+isochronal variations can be traced to the simple cause of lack of
+poise and irregular motion in more instances than to any other cause.
+
+The arc of one and one-fourth turn is the ideal motion, as slight
+poise errors are neutralized at this point, but very few watches will
+maintain this motion for twenty-four hours, therefore the poise must
+be as nearly perfect as possible. The nearest approach to even motion
+of modern watches is found in the fine Swiss grades equipped with stop
+work, which causes only the best part of the mainspring to be
+utilized.
+
+Such watches also receive the most expert attention as to gearings of
+wheels and pinions and the train wheels are specially rounded up on
+their respective staffs. This latter feature has been adopted by at
+least two of the American manufacturers of fine watches during the
+past few years with considerable benefit in producing even motion and
+the use of lighter mainsprings. It should be definitely understood
+that these tests refer to the vertical positions of the watch only and
+that the horizontal positions are not affected in the same way by lack
+of poise.
+
+
+
+
+CHAPTER VIII
+
+RELATIVE PINNING POINTS OF THE HAIRSPRING
+
+
+29. _Original Springing of Watches._
+
+Theory and practice agree that different models of watches have
+important relative points of attachment of the spring to collet and
+stud. In the original springing and adjusting of high grade watches,
+these points receive careful consideration, and only a very small
+percentage ever require future alterations.
+
+There are instances, however, where the original allowance of position
+variation has been considerable, also medium grades where no attention
+has been directed to pinning points and in which an occasional
+alteration may be required before a close position rate can be
+obtained.
+
+
+30. _How Pinning Point Alterations are Made._
+
+These alterations are generally made by breaking off or letting out a
+small section of the inner coil at the collet. In making such
+alterations a quarter of a coil broken away at the collet will have
+the same effect as will a quarter of a coil broken off at the outer
+end and will require less weighting of the balance to correct the mean
+time. It will also avoid breaking and remaking the over coil and the
+possible necessity of readjustment to temperature. Letting out the
+spring can be accomplished by unpinning and repinning the spring at
+collet with less of the coil entered in the pinhole. This is not a
+positive alteration, however, because very often the segment in the
+pinhole is as short as it can be with safety.
+
+A more substantial correction is that of reforming the over coil in a
+manner that will cause the end holding the stud to be shifted further
+forward.
+
+The method of obtaining this correction is illustrated in Fig. 8. The
+broken line shows the original formation of the over coil with the
+stud on the line "B". The solid lines show the corrections with the
+stud shifted to the line A.
+
+[Illustration: Fig. 8]
+
+When the collet is turned to replace the spring in beat, the stud will
+be in its original location on the line "B."
+
+This will cause the pinning point at collet to be shifted from "A" to
+"B" and bring it that much nearer to the horizontal line "C."
+
+This alteration has the same effect as that of letting out the spring
+at the collet or of moving the stud forward on the over coil, with the
+advantage of eliminating any change in the mean time.
+
+It should be definitely understood that the objective in making the
+above alterations and as illustrated with the aid of the following
+cuts, is the relation of the pinning point at collet to the pinning
+point at stud, and that the change in length of the spring has no
+bearing on the matter whatever as far as the position rate is
+concerned.
+
+
+31. _Even Coil Hairsprings Very Incorrect for Some Models._
+
+It is often supposed that hairsprings having exactly even coils are
+correct for close position and isochronal rating. Such springs do
+approximate the nearest correct relation in more instances than any
+other relation. They are precisely correct for very few models,
+however, and are very incorrect for many models, as will be seen
+through study of the following cuts showing the various points of
+attachment and the different results obtainable in each.
+
+
+32. _How to Find the Correct Collet Pinning Point for Any Watch._
+
+A very simple method of locating the proper point of attachment of the
+spring to collet is to face the train side of the movement and hold
+the balance stationary with a small twig, and with the pallet fork
+just midway between the two bankings.
+
+[Illustration: Fig. 9]
+
+Presume the existence of a vertical line through the center of
+hairspring and collet as shown at "A B" Fig. 9. Then presume a
+horizontal line as shown at "C D" on the same cut.
+
+[Illustration: Fig. 10]
+
+The proper pinning point is at the intersection of the collet and
+horizontal line; the spring may be either over or under even coils,
+depending entirely upon the location of the stud hole in the balance
+bridge as demonstrated by Figures 9, 10, 14, 15.
+
+When the spring develops to the right from collet as shown in Fig. 9,
+for example, the proper point of attachment is on the right side of
+collet as shown at "E" Fig. 9, and also at "J" Fig. 14.
+
+If it develops to the left as the springs of all fine Swiss watches
+do, the proper point of attachment is on the left side of collet as
+shown at "F" Fig. 10.
+
+
+33. _Results in Vertical Position Rates Due to Changing the Pinning
+Point._
+
+In either of the above instances the spring will develop upward as it
+leaves the collet. These points of attachment always produce a fast
+pendant up rate when compared to the opposite, or pendant down rate,
+and all high grade watches are originally fitted with springs
+conforming to this principle.
+
+If these points of attachment were changed to the opposite side of
+collet so that the spring would develop downward as shown at "G" Fig.
+11, and "H" Fig. 12, the results would be reversed and the pendant up
+rate would be slow in comparison to the pendant down rate.
+
+[Illustration: Fig. 11]
+
+This point of attachment in which the spring develops downward from
+the collet is generally known as the slow point among adjusters, and
+when a spring is pinned at either the slow or fast point the pendant
+right and left positions generally compare quite closely to each other
+in timing, provided that the poise and other conditions of the watch
+are correct.
+
+If the pinning point was changed to the intersection of the collet and
+vertical line as shown in "I" Fig. 13, the pendant up and down rates
+would compare nearly equal to each other and the pendant right
+position would be slow compared to the pendant left position.
+
+[Illustration: Fig. 12]
+
+If it were pinned at the intersection of the collet and vertical line
+just opposite to that shown in Fig. 13, the pendant left position
+would be slow compared to the pendant right position.
+
+[Illustration: Fig. 13]
+
+The vertical points of attachment are seldom used, for the reason that
+the variation between the pendant right and left positions would be
+very difficult to control within close limits, due to the existence of
+the natural error. As these positions, together with the pendant up
+position are the most important of the four vertical positions, they
+are given preference, and the natural error is placed in the pendant
+down position where it will be the least detrimental to the
+performance of the watch.
+
+
+34. _The Natural Position Error and Why it Cannot be Eliminated._
+
+[Illustration: Fig. 14]
+
+The natural error generally consists of from twelve to fifteen seconds
+in finely constructed watches, and exists because of the fact that it
+is impossible to perfectly poise a spiral spring. The location of the
+heavy point, however, may be shifted by changing the point of
+attachment at collet as described in No. 33, this Chapter. The nearest
+approximation of a poised spiral spring is probably attained through
+L. Lossier's inner terminal curve. Results are not positive, however,
+and any deviation from the required precision makes the curve
+valueless. It is possible to obtain perfect adjustment between three
+vertical quarter positions and the two horizontal positions, but all
+four quarter positions cannot be perfectly adjusted because the
+natural error will show up in one of them. Manufacturers of fine
+watches do not of course presume to supply perfect adjustment in the
+five positions. Some however, have considerably closer limits of
+allowance for variation than do others and it is logical to presume
+that a line of high grade watches having a five position allowance of
+six seconds from one position to any other would show better results
+than another line which had even a six position adjustment and an
+allowance of fifteen seconds from one position to any other.
+
+
+35. _Principle of Pinning Point Alterations._
+
+[Illustration: Fig. 15]
+
+When an alteration of any pinning point is necessary, the extent and
+direction of the alteration are determined by the rate of the watch.
+For instance, if a spring is pinned at the fast point and if a
+slightly slower pendant up rate is desired, the spring can be broken
+off at the collet and pinned one-eighth above the horizontal line.
+
+If the rate is to be made slightly faster, the spring can be let out a
+trifle at the collet, the over coil reformed or the stud moved forward
+on the over coil so that the collet point of attachment will come
+slightly below the horizontal line when the spring is placed in beat.
+The former alteration causes an approach toward the slow point and in
+making the latter alteration we assume that the fast point is a trifle
+below the horizontal line on that particular watch. When altering
+springs from the extreme fast point to the extreme slow point, it is
+advisable to remove a trifle less of the inner coil than the extreme
+calculation. This will cause the point of attachment to be slightly
+above the horizontal line on the slow side and will most always
+produce the result desired and if it does not, there is still a
+possibility of further alteration. The same principle applies in
+making an alteration from the extreme slow to the extreme fast point
+and in this case the point of attachment to collet may be just a
+trifle below the horizontal line.
+
+The theory of this is that all shortening of the coil from the fast to
+the slow point produces a slower rate pendant up, until the extreme
+slow point is reached. After passing this extreme slow point the
+pendant up rate begins to grow faster until the extreme fast point is
+reached. [A]The designations "right" and "left" in regard to pinning
+points are used with the explicit understanding that the individual is
+facing the train side of the movement. The same designations used as
+referring to position rates, or results to be expected in positions
+should be interpreted to mean with the individual facing the dial side
+of the watch.
+
+
+36. _Same Principles Apply in Case of American Hunting Models._
+
+The points shown in Figures 14 and 15 refer generally to American
+hunting models. In all other high grade watches the location of the
+balance and spring will be found either to the right or left of the
+center of the watch.
+
+In American hunting models the balance and spring are located in the
+lower center of the watch.
+
+This is due to the fact that American manufacturers do not construct
+separate models for hunting watches as is done by foreign
+manufacturers.
+
+Instead of producing an entirely separate model, the method simply
+calls for a change in the construction of the barrel bridge by
+reversing the position of the barrel and winding wheels. This places
+the winding sleeve at figure three on the dial, which is customary on
+hunting watches and causes the entire movement to be shifted by ninety
+degrees with the balance just about opposite the pendant.
+
+FOOTNOTES:
+
+[Footnote A: Important Note.]
+
+
+
+
+CHAPTER IX
+
+MANIPULATION OF THE REGULATOR PINS
+
+
+37. _Altering the Length of Spring by Regulator Pins._
+
+On some occasions when the pinning points seem to be comparatively
+close and the watch is in good condition with the balance in poise, it
+is possible to obtain corrections by closing or opening the regulator
+pins.
+
+This, however, can only be resorted to, to a limited extent, as
+otherwise the value of the regulator may be impaired.
+
+The pins should not be closed tight enough to cause "kinking" of the
+over coil and they should not be spread apart any more than enough to
+make the mean rate about 2 seconds per hour slower.
+
+Some models of watches consistently require that the pins be closed,
+while other models require that they be slightly spread, and it is
+therefore advisable not to disturb the pins when cleaning watches
+unless they have been bent by incompetent hands.
+
+It is better to reserve the majority of pin alterations for such time
+as the position rate determines the necessity of an alteration. When
+the pins are open, however, it is necessary to adjust the coil so that
+its vibration will be equal.
+
+Correct execution in spreading or closing the pins will very often
+make it possible to obtain a correction of six or eight seconds
+between the vertical and horizontal positions.
+
+
+38. _Method of Examining Vibration of Over Coil Between the Pins._
+
+The proper method of examining this vibration is to stop the balance
+and observe the movement of the coil between the pins.
+
+The vibration should be equal at the slightest oscillation of the
+balance as well as during the longer arcs. The coil should not rest
+against one or the other of the pins at any time unless they are both
+closed. Emphasis is placed upon equal vibration of the coil when the
+pins are open because of its importance, and if results are not
+obtained (as expected) the examination should be repeated to see if
+correct conditions have been attained. Examination of this vibration
+should be made from both sides of the pins and usually the best
+estimate can be obtained by looking between the pins from the stud
+side.
+
+
+39. _Position Corrections Obtained by Spreading or Closing the
+Regulator Pins._
+
+When the regulator pins are tightly closed and the watch has a fast
+pendant up position rate, it will be possible to obtain a slower rate
+by slightly spreading the pins.
+
+When the pins are spread and vibration of the coil between them can be
+discerned, and the pendant up rate is slow, a faster rate can be
+obtained by closing them.
+
+In spreading the pins they should be drawn away from the coil equally,
+as otherwise the coil will strike one pin with more force than the
+other, which will not produce results as expected and will cause
+uncertain regulation. In closing the pins they should be drawn
+together one at a time until both are in equal contact. They should
+not be merely squeezed together, as this causes distortion of the coil
+at the point of contact.
+
+
+
+
+CHAPTER X
+
+FACTORY AND REPAIR SHOP ADJUSTING
+
+
+40. _Routine Varies According to Circumstances._
+
+The principles covering the adjustment of watches are the same in the
+repair shop as they are in the factory and they are equally the same
+in the various lines of high grade watches regardless as to whether
+they are of American or foreign extraction.
+
+The routine covering the work to be done, however, may vary, depending
+upon the quantity of watches that are turned out. In the factories
+where large numbers of watches are adjusted the adjuster is trained in
+the various branches of watch work and eventually devotes his entire
+time to adjusting. The watches are generally turned over to him after
+they are all assembled and ready for the final balance and spring
+work, or after they have been finished and rated, in which instance he
+receives only those that are not within the requirements and he then
+makes the necessary alterations, after which they are again tested for
+results.
+
+In some repair shops where large numbers of fine watches are handled,
+a similar system is used and one competent adjuster devotes his time
+principally to the work of timing and adjusting.
+
+
+41. _Considering the Watchmaker in the Small Shop of One or Two
+Workmen._
+
+By far the greater number of watchmakers are employed in stores having
+only one or two workmen who are required to do the cleaning and to
+make all repairs. For this reason an adjuster of equal skill could not
+do as much actual adjusting as could be done in either of the two
+previous instances, but for the same reason he would not be expected
+to do as much.
+
+He can, however, adjust the high grade watches that he repairs just as
+closely, and he should not permit himself to feel that time and the
+nature of his position prohibits him from doing so. Whether it does,
+or does not prevent him from obtaining close rates depends entirely
+upon his training and understanding of the necessary details. If he is
+skilful and accurate, his output of work in the long run will not be
+reduced, his work will give better satisfaction and he will have less
+"comebacks" to take up his valuable time.
+
+
+42. _Advantage of Understanding Adjusting Even Though Watches are Not
+Tested in Positions or Isochronism._
+
+To understand position adjusting thoroughly is of the greatest
+advantage in obtaining satisfactory time from any medium or high grade
+watches even though they are not to be tested in positions because
+vital points will receive intelligent observation where they would
+otherwise be overlooked.
+
+
+43. _Concerning Watchmakers of Limited Experience._
+
+The previous notes and rules covering pinning points of the hairspring
+as detailed by the cuts and descriptions, together with the concrete
+adjusting examples to follow would no doubt be of sufficient note for
+watchmakers of considerable experience.
+
+There are, however, many ambitious workmen who have not devoted any
+time whatever to the study or practice of adjusting and to whom some
+elementary study and practice may be quite indispensable.
+
+To be of service to this class of workmen chapters XI and XII are
+devoted to preliminary notes and practice lessons.
+
+The contents of these chapters can be worked out in practice by almost
+any workman who is capable of holding a position as watchmaker and it
+is substantially necessary that they be mastered before finished
+results are to be expected.
+
+
+
+
+CHAPTER XI
+
+PRELIMINARY NOTES AND PRACTICE FOR BEGINNERS
+
+
+44. _Practical Suggestions._
+
+Experience will eventually prove that most of the variations in
+positions are caused by apparently insignificant details. The mistake
+made by the average repairer is generally that of failing to detect
+these details and to make slight corrections where necessary, as he
+proceeds with the ordinary cleaning and repairing of the watch.
+
+This oversight often prevents what would otherwise be excellent
+results in timekeeping and makes it necessary to utilize extra time
+and labor in the effort to obtain more consistent timekeeping.
+
+
+45. _The First Point of Consideration in Learning to Adjust._
+
+The first consideration in position adjusting should be directed
+toward equalizing the time in the two horizontal positions. This
+equalization should be accomplished entirely by attention to details
+that can be plainly seen before arriving at the point of actual timing
+of the watch. The principal requirement for equal time between dial up
+and dial down is equal arc of motion of the balance in each of the two
+positions, and the adjuster should become capable of obtaining this
+equal arc of motion before attempting to obtain close rating in the
+other positions.
+
+
+46. _Causes of Variation Between Dial Up and Dial Down._
+
+Variations between dial up and dial down may be due to one or more of
+the following causes which have been arranged in two groups, the
+first group consisting of the most frequent and common causes, while
+the second group consists of causes equally detrimental but less
+common.
+
+Group No. 1
+
+  1. Dirt or thick oil in one or both balance jewels.
+  2. Burred or marred balance pivots.
+  3. End of one balance pivot flat or rough and opposite pivot polished.
+  4. Ends of both balance pivots polished but not same form.
+  5. Balance pivot bent.
+  6. Hairspring rubbing balance arm or stud.
+  7. Hairspring concave or convex in form instead of perfectly level.
+  8. Over coil rubbing under balance cock.
+  9. Over coil rubbing center wheel. (Some watches).
+
+Group No. 2
+
+ 10. Balance pivots fitted too close in jewels.
+ 11. One pivot having excessive side shake and the opposite close
+     fitting.
+ 12. Escape or pallet pivots bent or damaged.
+ 13. Balance end stone pitted or badly out of flat.
+ 14. Over coil rubbing outside coil, at point where it curves over
+     spring.
+ 15. Balance arm or screw touching pallet bridge.
+ 16. Balance screw out too far, touching bridge or train wheel.
+ 17. Safety roller rubbing dial plate or jewel setting.
+ 18. Fork rubbing impulse roller.
+ 19. Guard pin rubbing edge of safety roller.
+ 20. Roller jewel long and rubs guard pin.
+
+
+47. _Short Motion Generally Indicates Where to Find Trouble._
+
+Any of the above irregularities will cause a variation in motion
+between dial up and dial down and invariably the trouble will be
+found on the side which has the shorter motion. For instance, a pivot
+that is flat or rough on the end will cause a shorter motion, when it
+is down, than will the opposite pivot when it is down, provided that
+its end is slightly rounded and highly polished. The same is true when
+the oil is gummy or dirty in one jewel and the opposite jewel is clean
+and freshly oiled.
+
+Capped escape or pallet pivots when flat or rough on one end have the
+same effect to a lesser degree.
+
+It is never proper to make the end of a pivot flat or rough and
+thereby shorten and equalize the motion. Neither should the ends of
+both balance pivots be flattened at any time. On the contrary, the
+ends of pivots should always be slightly rounded and highly polished:
+there is no logical reason for having them otherwise.
+
+
+48. _Short Motion Sometimes Caused by Burr on Opposite Pivot._
+
+There are occasionally instances where a poor motion on one pivot is
+caused by a slight burr on the opposite pivot. This is usually due to
+the fact that while the burred pivot is running on its own end stone,
+there is space enough between the end stone and jewel to give the burr
+clearance, but when the position of the watch is reversed, the balance
+end shake allowance causes the burr to rub on the top of jewel hole
+and prevents perfect freedom of motion when the good pivot is
+downward.
+
+
+49. _Examining the Hairspring._
+
+The hairspring may be true and level but it should be carefully
+examined to see that there is no possibility of touching at any point.
+The observation should take place during the full arc of motion of the
+balance, for there are some instances in which no rubbing takes place
+until the motion accelerates. The watch should be held at different
+angles and the space between the balance arm and spring, and the stud
+and spring, closely scrutinized for possible contact. The space
+between the spring and over coil at the point where the over coil
+rises and curves over the spring should be at least equal to the width
+of the coils and care should be taken to see that the over coil just
+before the point of rising has the usual space between it and the next
+coil. Either position in which the hairspring may rub will have a
+shorter motion and a gain in time compared to the opposite position in
+which there is no interference.
+
+
+50. _Exceptions in Regard to Gaining Rate and Short Motion._
+
+Invariably the arc of motion which is the shortest will gain time
+compared to the opposite position which has a longer motion. There
+are, however, some few instances in which there are exceptions to this
+rule, and knowledge of these exceptions is quite valuable in
+preventing confusion and doubtfulness in the certainty of making
+specific alterations. As an example in the horizontal positions; if
+both end stones are perfect and the freedom of one pivot in the jewel
+is correct while the opposite pivot has entirely too much freedom, the
+motion may be somewhat shorter with the proper fitting pivot downward
+while the rate may be slower compared to the opposite position. This
+is caused by the balance describing a larger circle when the large
+hole jewel is upward, as the pivot is allowed to travel a greater
+distance from the center of the hole as it wavers from side to side
+during the oscillations.
+
+When the watch is reversed the weight of the balance prevents the
+pivot from wobbling in the large hole and eliminates the possibility
+of compensating for the larger circle described by the balance in the
+opposite position.
+
+The same results are possible when the freedom of both pivots is
+correct and when one end stone is pitted, as the pit in the stone
+causes a short motion when downward and prevents the pivot from
+having any side play whatever, while the opposite pivot enjoys full
+play to whatever freedom there may be and through this causing a
+somewhat larger circle to be described by the balance and a slower
+rate in time.
+
+It should be understood that this does not refer to instances where
+the end stone surface is merely slightly worn, but to pittings in
+which the surface of the stone has been actually pierced. In most
+instances of slight wear the motion will be shorter and the rate fast
+which conforms to the general rule covering rate and motion.
+
+
+51. _Detailed Practice._
+
+For preliminary practice in position adjusting, select a watch of
+about 17 jewels which has just been cleaned and put in order to the
+best of one's ability.
+
+Regulate it so that it will time within ten seconds in twenty-four
+hours. Then run it dial up for twenty-four hours and make a notation
+as to the number of seconds either fast or slow. Next run it dial down
+for twenty-four hours and make note of the number of seconds fast or
+slow in this position. If there is a variation in time between the two
+positions it will be found that the position having the faster rate of
+the two will also have a shorter arc of motion.[B]
+
+The exact arc of motion in each position can be known by observing the
+arms of the balance and comparing the extent of the arc with some
+point on the pallet bridge.
+
+A variation of one-eighth of an inch in motion will generally make a
+difference of four or five seconds in the rate and greater variations
+will make corresponding increases in the difference.
+
+When a watch is in good order a correct motion for the horizontal
+positions is generally considered to be that of one and one-half turn,
+which consists of three-quarters of a revolution of the balance in
+each direction.
+
+Should the motion be very much below this, in both positions, there
+may be something wrong with the general condition of the watch or
+possibly there may be a weak mainspring at fault, or an imitation
+spring that is too long and thick may take up too much room in the
+barrel and cause poor motion as surely as will one that is two weak.
+
+Assuming, however, that the motion is good in one position and drops
+off in the other, it is quite probable that only an ordinary position
+correction will be required and the immediate problem to be considered
+is that of causing the short arc of motion to accelerate enough to
+equal the longer arc. The precise correction required will most
+probably be found among the causes listed in No. 46, this Chapter.
+
+
+52. _Which Rate to Use as the Unit for Comparison._
+
+The horizontal position which has the slower rate of the two should be
+considered as the unit which is correct and it will always have the
+longer motion of the two, barring the occasional exception as
+described in No. 50.
+
+This longer arc of motion is universally due to a better condition,
+while the shorter motion indicates that something is wrong, and it
+should always be the aim of the adjuster to improve some condition
+that is below standard, rather than to make some good condition a
+little worse in order to equalize the rates.
+
+It may be possible to equalize horizontal rates by flattening the ends
+of pivots, but it does not require much more time to improve the
+motion in one position than it does to make it a little worse in
+another. The advantage is all one way and results either good or bad
+depend entirely upon the viewpoint of the worker and how he applies
+himself to the situation.
+
+
+53. _Damaged Pivots, Pitted End Stones and Methods of Correction._
+
+In the examination of pivots, end stones and jewels, it is necessary
+to use a stronger glass than the one used for ordinary work.
+
+Damaged pivots can often be detected by looking through the end stone
+with a strong glass while the balance is moving. If imperfect they
+will appear dark or display a slight waver or flash and if they are in
+good condition they will appear bright and seem to stand still. They
+can also be examined in the lathe and a good true enclosed balance
+chuck is of immense value in detecting burrs, chipped edges, rings on
+the sides, slight bends and poorly shaped ends. The complete balance
+and spring can be inserted and the pivots can be refinished without
+disturbing the roller or hairspring. The chuck should be revolving
+very slowly when making the examination and moving the belt with the
+hand will enable one to see more than can be seen when the lathe is
+running at regular speed. Some watchmakers use small bow lathes for
+examining and finishing pivots, or the Jacot lathe, which is excellent
+for this kind of work. An end stone that has been deeply pitted should
+always be discarded and a new one supplied. If the hole is very
+slight, however, it can be removed entirely and the surface of the
+stone re-polished on a lap charged with No. 5 diamond powder, but the
+stone and setting should be thoroughly cleansed by brushing and
+pithing before replacement.
+
+Should a slight particle of diamond or any other hard stone powder
+possibly remain on the stone or in the bezel it might eventually enter
+the end of pivot and again cause pitting. In case that the end stone
+is of the type that is flat and highly polished on both sides, such as
+is usually found on detachable dome foreign watches, it can be punched
+out with a piece of brass wire or peg wood and replaced in reverse
+position, after which the bezel can be closed and the stone will be
+just as serviceable as a new one.
+
+Pivots that have been running on pitted end stones are generally rough
+on the end which is charged with some hard substance. They require
+special treatment to remove the cause of the pitting and the following
+method of refinishing is very good. Place the balance in the lathe and
+draw a soft Arkansas oil stone over the end of pivot with pressure
+enough to remove a bit of the metal. This will drag out any hard
+particles that may be lodged in the end and after this has been done
+the pivot should be pithed clean and polished with a smooth hard steel
+burnisher covered with oil.
+
+A hard stone such as sapphire or jasper, or a steel burnisher should
+not be used on the pivot until the Arkansas stone has first done its
+work, because a hard instrument of this description will force the
+small particles that cause the pitting further into the end of the
+pivot instead of removing them entirely.
+
+A pivot that has been treated in this way will not pit the end stone a
+second time unless carelessness in the use of hard powder permits
+additional particles to come in contact with the pivot or end stone.
+
+There are some instances in which the steel is highly carbonized but
+manufacturers generally use the best steel obtainable for balance
+staffs and excessive carbon can generally be detected with a
+magnifying glass. Free use of diamond powder and emery wheel dust are
+more often responsible. The holes of jewels should never be enlarged
+or polished with diamond powder after the jewels have once been placed
+in their permanent settings, as this allows the powder to lodge
+between the jewel and the setting where it cannot be removed by
+cleaning but where it will be drawn out by the oil and charge any
+pivot that may be run in the jewel. The grey powder in such instances
+may be seen through the top of jewel with a strong glass.
+
+FOOTNOTES:
+
+[Footnote B: Note Exceptions in No. 50.]
+
+
+
+
+CHAPTER XII
+
+PRELIMINARY NOTES AND PRACTICE ON VERTICAL CORRECTIONS
+
+
+54. _Five Principal Causes and Corrections for Pendant Up Variation._
+
+The first of the vertical positions to be considered is that of
+Pendant Up and to understand the causes of and corrections for
+variations in this position completes what is known as three position
+adjusting.
+
+The usual causes of variation in the pendant up position as compared
+to the horizontal positions are as follows.
+
+      Poor Motion Pendant Up.
+      Regulator Pins not properly adjusted.
+      Balance not in poise.
+      Hairspring not in circle.
+      Hairspring not pinned at proper point.
+
+
+55. _Poor Motion, Cause and Effect._
+
+Among these causes that of Poor Motion covers a number of troubles
+such as roller jewel rubbing in fork, guard pin rubbing roller, strong
+lock on the escapement, or no lock on some teeth.
+
+Such causes may not prevent close rating between the horizontal
+positions because of non-interference until the position of the watch
+is changed.
+
+The pendant up motion should therefore be the first vertical point of
+investigation and if at fault the cause should be eliminated. In this
+connection it should not be expected that the arc of motion in the
+pendant up or any other vertical position will be as long as it will
+be in the horizontal positions, for when a watch is in excellent
+condition in every particular the vertical arcs are always
+approximately one-fourth of a turn shorter than the horizontal.
+
+This is due to frictions and is impossible of correction and therefore
+should not be confused with a poor motion of greater extent which has
+removable causes that are practical of execution.
+
+A good motion is to be considered as one of the results to be expected
+in overhauling and putting a watch in good order and it should not be
+understood that it is particularly to be associated with adjusting
+only, nor should any watch be slighted in cleaning and assembling with
+the idea that adjusting will correct it in a few minutes' time. On the
+other hand it should be understood as fundamental that no watch can be
+a close time keeper unless it has a good motion and no good adjuster
+will attempt to obtain close time in one position or a close rate in
+different positions until the motion is first what it should be. If it
+is what it should be, about ninety per cent of the necessary work
+required for obtaining close position rates will have been completed.
+
+
+56. _Regulator Pin Practice for Pendant Up Variation._
+
+When the watch is in reasonably satisfactory condition and a three
+position test proves that the pendant up position has a variation of
+from ten to twenty seconds either fast or slow compared to the
+horizontal positions, the regulator pins may be the first point of
+examination. If there is considerable vibration of the coil between
+them, and the pendant rate is slow, it will be necessary to close the
+pins and if the rate is fast and the pins are found to be closed so
+that there is no vibration of the coil, it will be necessary to spread
+them slightly. Closing the pins will of course make the general timing
+of the watch faster and spreading them will make it slower and
+therefore it will be necessary to regulate the watch for one or two
+seconds per hour before again testing it in positions. The result of
+either operation, however, will be to cause the rate in the pendant up
+position to conform more closely to the horizontal rates.
+
+Preliminary and profitable two position experiments can be made
+between dial up and pendant up, by having the pins closed on most any
+watch that is in good order and timing it within five or ten seconds
+in twenty-four hours, then rating it in these two positions. Next
+spread the pins slightly, re-time the watch and rate it in the same
+two positions and compare the variations. A few experiments of this
+description will soon demonstrate as to the extent of correction that
+can be obtained in this way.[C] The rule of equal vibration of the
+coil between the pins after they have been spread must be rigidly
+enforced.
+
+
+57. _Pendant Up Corrections Through Poise of Balance._
+
+Assuming that the motion and regulator pins seem to be satisfactory,
+the next point of investigation should be the poise of balance. The
+hairspring should be removed and the pivots known to be straight and
+polished before testing. The rollers are of course a part of the
+balance and are not to be removed. A perfectly poised balance can be
+stopped at any point on the tool and it should at least remain
+stationary at each of the four quarters of its circumference. No. 28,
+Chapter VII, should be consulted for details on poise corrections.
+
+
+58. _Concentricity of the Hairspring._
+
+The next point of consideration may be the concentricity of the
+hairspring, and it is quite important that the spring be centered as
+nearly perfect as the trained eye can determine. Any unusual pressure
+of the spring in one direction will cause undue friction and a fast
+rate compared to the opposite direction.
+
+There are several easy tests for determining as to how nearly the
+spring may be centered. One of these is to look straight down upon the
+spring and examine the space between the coils that extend beyond the
+circumference of the dome. This test may be made in three ways, one
+with the balance at rest, one with the coils of the spring wound up
+and the third with the coils unwound. With the balance at rest and the
+spring centered there will be the same space between the coils all
+around as though the spring were out of the watch entirely and laying
+on the bench.
+
+If it is not properly centered there will be more space between the
+coils on one side than there will be on the opposite. The same
+conditions will be apparent when the spring is wound up, although the
+coils will all be nearer to each other than they were with the balance
+at rest, and when they are unwound the coils will all be farther apart
+with the same apparent difference on opposite sides when the centering
+is not correct.
+
+The winding and unwinding of the spring is alternating and almost
+instantaneous, as the balance oscillates from one extreme to the
+other. For observation of the spring when it is wound or unwound it is
+necessary to stop the balance with the finger or camel's hair brush as
+it reaches its extreme arc of motion, then hold it stationary for a
+few seconds while the space between the coils is being examined. The
+balance should then be allowed to swing to the opposite extreme, when
+it should again be held for examination of the coils. In one of these
+extremes the coils will be wound and in the other they will be unwound
+and after a few experiments in stopping and starting the balance it
+will be found that the entire examination will not require over ten
+seconds' time.
+
+When the spring is not properly centered the reason is of course
+found in some curve of the over coil and the most usual point at fault
+is the section or curve on which the regulator pins act. If the coils
+open too wide on the side where the regulator pins are located this
+section of the coil will be too near the center and should be moved
+outward, possibly equal to one-half or one full space of the coils. If
+the coils are too close on the side where the pins are it will
+probably be found that the section requires shifting toward the center
+slightly. The balance should be removed from the watch in either
+instance and the coil circled with the over-coiling tweezer, although
+experienced workmen can frequently make excellent corrections with a
+fine pointed tweezer without removing the balance.
+
+Finely adjusted watches will always be found to have springs as nearly
+perfectly centered as it is possible for expert workmen to get them
+and it is quite interesting and instructive to observe the vibration
+of a perfect spring by any one interested in the work.
+
+Some watchmakers center the spring on the balance cock before it is
+staked on the balance and very good results can be obtained in this
+way. The balance cock is placed on the bench in the inverted position
+which makes it easy to locate the point or curve requiring alteration.
+
+
+59. _Correcting Pendant Up Variation Through Pinning Point
+Alterations._
+
+Should most careful investigation of the condition of the watch
+indicate that the Motion, Regulator Pins, Poise of Balance and
+Centering of the Hairspring as well as the general condition of the
+watch are satisfactory and the rating show that there is still
+considerable variation between the horizontal positions and the
+pendant up position there is still one source through which positive
+correction may be obtained.
+
+This refers to the relative positions of the collet and stud pinning
+points which is defined with explanatory cuts and formula in Chapter
+VIII.
+
+
+60. _Percentage of Watches Requiring Correction of Position Rates._
+
+In constructing this chapter and the preceding one it has been
+preferred to go into detail for the purpose of defining the possible
+corrections and alterations, together with the results to be expected.
+Not every watch demanding position correction would require the extent
+of investigation and possible alteration that is pointed out and in
+most instances the direct cause will be disclosed with very little
+investigation. In fact, the experienced adjuster can tell almost
+immediately where to look for trouble by merely observing the position
+rate as entered on the card.
+
+It should also be clearly understood by the student that when the
+repairing and cleaning of high grade watches is done by one who
+understands the details of adjusting, there will be only a very small
+proportion of the watches requiring position corrections. As a rule
+among experienced adjusters there will be about seventy per cent of
+the watches that will have very close rates. If, therefore, one
+hundred watches are put in order and tested in positions there should
+be seventy that do not require any correction, while about thirty will
+require either minor or major alteration. The time required for making
+alterations on this thirty per cent of the watches will be offset by a
+smaller percentage of unsatisfactory returns and a better reputation
+for doing good work.
+
+FOOTNOTES:
+
+[Footnote C: See Chapter IX, on Regulator Pin Alterations.]
+
+
+
+
+CHAPTER XIII
+
+CONCRETE EXAMPLES SHOWING DEFINITE THREE POSITION ALTERATIONS AND
+LABOR UTILIZED
+
+
+61. _Order of Position Timing and Method of Calculating the
+Variation._
+
+In submitting the previous chapters it is assumed that the average
+ambitious watchmaker will gain enough knowledge from the various
+details to enable him to understand the meaning of the adjustment of
+watches, the causes of variations and the principal alterations for
+obtaining corrections.
+
+There are many features covered that will enable him to develop in
+practice and to experiment in individual points of importance, without
+running up against mathematical deductions that halt and discourage
+further interest in the subject.
+
+To understand the principles constitutes a large percentage of the
+qualifications required and to be able to execute the practical
+alterations and corrections required in different kinds of variations
+completes the general qualifications. It would hardly be sufficient,
+however, to conclude the work at this point without giving more
+definite examples for comparison, together with some indication as to
+the approximate time that may ordinarily be utilized in doing the work
+and also showing some instances of a possible choice of several
+alterations and why a particular alteration is advisable. For this
+reason the following examples will be found to have an important part
+in fulfilling the mission of this book.
+
+In selecting these examples the fineness of results has not been the
+principal consideration. The deciding factor was the differences in
+variation and alterations, and the fact that they cover the widest
+field for general instruction that could be selected from hundreds of
+equally good rates among various models of watches which, with three
+exceptions, were put in order for railroad service.
+
+The method of computing the variation from one position to any other
+is similar to that used in temperature adjusting as described in
+Chapter 3, No. 13. The watch should first be timed closely and then
+rated for twenty-four hours in each position. It should be wound
+before being started in each position but should be set only on the
+first day so that the time is never disturbed.
+
+The first position to be rated is universally Dial Up, then in
+succession Dial Down, Pendant Up, Pendant Right and Pendant Left. The
+daily total number of seconds fast or slow should be entered in the
+first column of the rate card after each twenty-four hours run. This
+column then constitutes the progressive rate from which the actual
+variation between the different positions is ascertained.
+
+The figure in the upper square is first carried out to the adjoining
+column at its full value and then the difference between this figure
+and that of the second square is entered in the second square of
+second column, and so on until the difference between each of the
+succeeding squares of first column is registered in the second column.
+
+If the figure in a square of first column is greater than that in the
+preceding square the carried out figure would be entered in second
+column as + If the figure is less than the preceding square it would
+be carried out as-.
+
+The total variation in positions is obtained from the figures entered
+in second column. If these figures are all entered as either plus or
+minus it is necessary to merely subtract the lesser figure from the
+greater. If, however, some figures are entered as plus and others as
+minus it will be necessary to add the greater figure of each of the
+two denominations.
+
+
+62. _Example No. 1, Three Positions._
+
+Columbus, No. 358846, Open Face, 17 Jewels.
+
+Repairs Made. New balance staff, two balance screws changed,
+hairspring trued and cleaned.
+
+After timing the watch closely it was tested in three positions and
+found to have a variation of eleven seconds fast pendant up as per
+second column, Fig. 16.
+
+Fig. 16
+
+  +--------------------------------------------------+
+  | No. _358846_          Make _Columbus_            |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  |  D U   | + 1 | + 1 | + 4 | + 4 |     |     |  P  |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  D D   |   0 | - 1 | + 7 | + 3 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P U   | +10 | +10 | +14 | + 7 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+                    11           4
+
+Investigation showed the hairspring to be pinned nearly correct, true
+level and in circle; balance true; regulator pins closed and motion
+satisfactory. A correction could have been made in one of several
+ways; either by making a slight alteration of the pinning point at the
+collet; correcting a possible slight error in poise or by slightly
+spreading the regulator pins.
+
+As the extent of variation did not indicate any serious error at any
+particular point for a watch of this description the possible poise
+error and the slight variation in the pinning point were waived and
+the regulator pins were spread just enough so that slight equal
+vibration of the coil could be seen with a double eyeglass. After this
+alteration the mean time was found to be one second per hour slow
+which was corrected on the mean time screws and the next test showed
+that the variation had been reduced to four second as per fourth
+column, Fig. 16. The time consumed in making the alteration aside from
+the repairing was less than ten minutes.
+
+
+63. _Example No. 2, Three Positions._
+
+Ball No. B060816, Open Face, 17 Jewels.
+
+Repairs made. Refinished balance pivots and cleaned. The first test in
+positions disclosed a variation of thirty-five seconds as per second
+column Fig. 17.
+
+Investigation found the balance true; hairspring true, level and
+circle; regulator pins very nearly closed and the motion one and
+one-eighth turn. This rate like example No. 1, was also fast in the
+pendant up position, but the greater extent of the error indicated
+that there must be some serious poise error, and upon investigation
+this was found to be the case. A screw on the roller jewel side or at
+the bottom when the balance was at rest was found to be heavy. This
+was corrected and the next test showed a much improved rate although
+there was still a variation of eight seconds fast pendant up as per
+fourth column Fig. 17.
+
+Fig. 17
+
+  +--------------------------------------------------+
+  | No. _B060816_          Make _Ball_               |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  |  D U   | + 2 | + 2 | + 7 | + 7 | + 7 | + 7 |  P  |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  D D   | + 2 |   0 | +14 | + 7 | +14 | + 7 |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P U   | +37 | +35 | +29 | +15 | +24 | +10 |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+                    35           8           3
+
+A better rate than this was desired and further examination proved
+that the locking of the pallet stones and escape teeth was quite
+strong and caused the pendant up motion to have a shorter arc than
+would have been entirely desirable. An alteration was made by pushing
+the receiving stone further back into the slot and rebanking the
+escapement. The third position test showed an improved motion and a
+variation of three seconds as per sixth column. The total time
+required for making the alterations was about three quarters of an
+hour.
+
+
+64. _Example No. 3, Three Positions._
+
+Elgin No. 7457488. Open Face, 21 Jewels.
+
+Repairs made. Cleaned; polished pivots and new mainspring fitted. The
+first position test showed a variation of nineteen seconds as per
+second column, Fig. 18.
+
+It will be noted that this example differs from Nos. 1 and 2, in that
+the rate is slow in the pendant up position. Examination showed all
+points satisfactory except that the regulator pins were spread
+considerably and allowed too much freedom of vibration for the coil.
+
+Had this vibration been slight it would have been advisable to examine
+the poise. As it was considerable, however, the alteration made was to
+close the pins so that only slight vibration was visible with a strong
+glass.
+
+Fig. 18
+
+  +--------------------------------------------------+
+  | No. _7457488_          Make _Elgin_              |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  |  D U   | - 9 | - 9 | + 5 | + 5 |     |     |  P  |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  D D   | -18 | - 9 | + 8 | + 3 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P U   | -46 | -28 | + 9 | + 1 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+                    19           4
+
+This watch was not equipped with mean time screws and it was therefore
+necessary to fit a pair of thin timing washers because closing the
+pins caused a gaining rate of two seconds per hour in the mean time.
+The next position test showed a variation of four seconds as per
+fourth column Fig. 18.
+
+The time consumed in making the alteration and fitting the washers was
+about ten minutes.
+
+
+65. _Example No. 4, Three Positions._
+
+Hampden No. 1438676, Open Face, 21 Jewels.
+
+Repairs made. New balance staff and hole jewel fitted and cleaned.
+
+The first position test showed a variation of twelve seconds slow
+pendant up as per second column Fig. 19.
+
+Fig. 19
+
+  +--------------------------------------------------+
+  | No. _1438676_          Make _Hampden             |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  |  D U   | + 2 | + 2 | + 2 | + 2 |     |     |  P  |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  D D   | + 4 | + 2 | + 6 | + 4 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P U   | - 6 | -10 | + 9 | + 3 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+                    12           2
+
+Investigation found all points such as balance true, hairspring true,
+level and circle and the regulator pins reasonably satisfactory. The
+motion, however, was not as good as it should have been when the
+spring was nearly wound up. It was let down to where it would
+ordinarily be after about twenty-hours run and found to have barely
+one turn pendant up and a trifle over one turn in the flat positions.
+This proved that the motion was not satisfactory for a watch that had
+just been put in order and all pivots were examined for close end or
+side shake; they were found to be satisfactory and the mainspring was
+removed for examination and found to be somewhat set and about 0.01
+mm. thinner than those generally used for this grade watch. A new
+mainspring was fitted and the motion was improved by about one-fourth
+of a turn and the next position test showed a variation of two seconds
+as per fourth column Fig. 19. The time consumed in examination and
+changing the mainspring was about twenty-five minutes.
+
+The three position limit of variation allowed by most manufacturers
+and railroad inspectors is seven seconds from one position to any
+other. Records of thousands of watches on which the work has been
+carefully done in putting the watches in order, show that about
+seventy per cent of the watches will rate within five seconds in the
+three positions without making alterations and that only ten per cent
+will be close to the limit of seven seconds, while about twenty per
+cent will require alterations such as shown in the four examples
+above. (See Chapter XII, No. 60.)
+
+One or two more examples might be introduced to show variations and
+corrections between dial up and dial down; this feature has been
+pretty well covered however in Chapter XI, and five position example
+No. 9 also shows a variation of the horizontal rates with correction.
+
+
+
+
+CHAPTER XIV
+
+CONCRETE EXAMPLES SHOWING DEFINITE FIVE POSITION ALTERATIONS AND LABOR
+UTILIZED
+
+
+66. _What Five Position Adjusting Consists of--Detailed Allowances._
+
+Five position adjusting consists of a further refinement of the
+condition of the watch. The fact that a very close rate is shown in
+the first three positions is not an indication that the watch will be
+an excellent timepiece under all conditions.
+
+In fact there are instances where there may be an excellent three
+position rate and a further test in the pendant right and left
+positions may disclose some error that would positively prevent close
+timing in service. Even under the five position test the limit of
+allowance must be reasonably close or unfavorable conditions may exist
+and cause irregularity in timing.
+
+A popular allowance for very fine watches among Swiss and some
+American manufacturers is six seconds variation for the five positions
+as an extreme limit, and for medium high grades ten seconds extreme
+variation is considered a fair allowance. These allowances are
+graduated, however, and a six seconds extreme allowance watch would
+have an allowance not exceeding three seconds in the horizontal
+positions, with two seconds additional in the pendant up position and
+one second additional in either the pendant right or pendant left
+positions.
+
+Watches having an extreme allowance of ten seconds may be permitted to
+have not more than five seconds variation between the two horizontal
+positions, with two seconds additional for the pendant up position
+and still three seconds additional in either the pendant right or left
+positions.
+
+It will be noted that there is considerable difference between six or
+ten second allowances of this description and straight limits of six
+or ten seconds.
+
+Some manufacturers have greater limits of allowance, sometimes as
+great as twenty-five seconds for the five positions, but as a rule the
+first three positions are required to rate within seven seconds and
+the difference of eighteen seconds is divided between the right and
+left positions.
+
+Under limits of this description a watch that would not be tolerated
+under the six or ten seconds class would be considered as good.
+Watches having such large allowances, however, and rating close to the
+limit are hardly justified in being considered as adjusted to five
+positions. The fact that they are so considered however, is the reason
+why watchmakers will sometimes fine wide variation in new watches
+before they have been damaged or mishandled. The following five
+position examples were selected with the same care as were the three
+position specimens and will be found to cover a wide field of
+variation for comparison with rates that the adjuster may desire to
+correct.
+
+
+67. _Example No. 5._
+
+Hamilton, No. 248027; Open Face, 21 Jewels.
+
+Repairs made. New balance staff and cleaned. The first test in five
+positions showed a variation of twenty seconds as per second column
+Fig. 20. It will be noted that in four of the positions the rate was
+quite close and that the pendant right position had an extremely fast
+rate.
+
+A casual investigation indicated that all points relating to the
+spring, regulator pins and balance were reasonably satisfactory but
+that there was a slight falling off in motion in the pendant right
+position. Further investigation of this feature disclosed a slight
+striking sound when the watch was held to the ear in this position.
+The dial was removed and the bankings were closed to drop whereupon it
+was discovered that the fork was long on the inside, or when the
+receiving stone was locked on the escape teeth. This prevented the
+roller jewel from passing through the fork freely as it did on the
+opposite side.
+
+The balance pivots had the limit of allowance for side shake which
+aided the cause of the roller jewel in striking.
+
+Fig. 20
+
+  +--------------------------------------------------+
+  | No. _248027_          Make _Hamilton_            |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  |  D U   | + 1 | + 1 | + 3 | + 3 |     |     |  P  |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  D D   | + 2 | + 1 | + 7 | + 4 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P U   | + 4 | + 2 | + 8 | + 1 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P R   | +22 | +18 | +12 | + 4 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P L   | +20 | - 2 | + 8 | - 4 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+                    20           8
+
+After correcting the roller jewel shake and readjusting the slide and
+guard pin freedom the next test showed a variation of eight seconds in
+the five positions as per fourth column Fig. 20. The side shake of the
+balance pivots was not detrimental after the real cause of the
+variation had been removed and therefore no correction was required in
+this respect.
+
+If the error in the escapement had not existed and if the watch had
+shown the same rate with all points appearing to be satisfactory, the
+trouble would most likely have been found in the poise of balance with
+the upper side heavy in the pendant right position.
+
+The time consumed in making the correction was about one half hour.
+
+
+68. _Example No. 6._
+
+Elgin. B. W. Raymond. No. 4,109,543, Open Face, 15 Jewels.
+
+Repairs made. New fourth pinion; new end stone; mainspring; refinished
+balance pivots and cleaned. Note that this was only a 15-Jewel watch.
+
+It belonged to a railroad engineer, however, who wanted it placed in
+first class condition, as it had not been satisfactory. The first five
+position test showed an error of twenty-four seconds as per second
+column Fig. 21.
+
+Examination of the motion, pivots, regulator pins, escapement and
+poise proved them to be satisfactory.
+
+The hairspring however, was found to be pinned at the slow pendant up
+point as per illustration in Fig. 22.
+
+Fig. 21
+
+  +--------------------------------------------------+
+  | No. _4109543_          Make _Elgin_              |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  |  D U   | + 8 | + 8 | + 2 | + 2 |     |     |  P  |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  D D   | +16 | + 8 | + 3 | + 1 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P U   |   0 | -16 | + 2 | - 1 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+ |  P R   | + 4 | + 4 | - 1 | - 3 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+ |  P L   | - 1 | - 5 | - 6 | - 5 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+                   24            7
+
+The alteration made was to break out one-half of the inner coil at
+collet so that it was pinned at the fast point as illustrated in
+Fig. 23.
+
+A pair of balance screws were removed and a heavier pair fitted to
+correct the mean time, which would have been about ten minutes fast in
+twenty-four hours because of shortening the spring.
+
+The balance was repoised and the next test in positions showed a
+variation of seven seconds as per fourth column Fig. 21.
+
+The time required for making the alteration was about one half hour.
+
+[Illustration: Fig. 22]
+
+[Illustration: Fig. 23]
+
+This watch was a full plate model with the train developing to the
+left from the center and illustrations No. 22 and 23 are given to
+show that, while the train follows the Swiss development, the spring
+follows the American method and develops to the right from the collet
+even though it is located to the left of the watch center. The
+principle remains the same as that illustrated by Figs. 9 and 11 and
+explained in Chapter VIII.
+
+
+69. _Example No. 7._
+
+Waltham. No. 10504112. Open Face, Vanguard model, 23 Jewels.
+
+Repairs made. Cleaned and new hole jewel.
+
+First five position test showed a very erratic rate as per second
+column Fig. 24.
+
+Investigation proved that the motion dropped off considerably after a
+few hours run and that the mainspring was too weak for this grade of
+watch. A proper mainspring was fitted which in turn corrected the
+motion, but the next test in positions proved that there was still a
+variation of eighteen seconds as per fourth column Fig. 24.
+
+Fig. 24
+
+  +--------------------------------------------------+
+  | No. _10504112_          Make _Waltham_           |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  |  D U   |   0 |   0 | - 2 | - 2 | - 1 | - 1 |  P  |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  D D   |   0 |   0 | - 5 | - 3 | - 1 |   0 |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P U   | +14 | +14 | -21 | -16 | - 4 | - 3 |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P R   | + 4 | -10 | -19 | + 2 | - 5 | - 1 |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P L   | +16 | +12 | -25 | - 6 | - 3 | + 2 |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+                    24          18           5
+
+The balance and spring were removed and considerable poise trouble was
+discovered. The trouble was at different points of the balance and no
+one location seemed to be heavy at all times. The balance pivots were
+carefully gauged with a metric micrometer and found to be out of
+round, or to be exact, more oval in form than cylindrical. A new staff
+with round pivots was fitted, after which the balance was easily
+poised and the next test showed a variation of five seconds as per
+sixth column Fig. 24. The total time required for making the
+examination and alterations was about one hour.
+
+
+70. _Example No. 8._
+
+Vacheron and Constantin. No. 272,854, Open Face, 21 Jewels.
+
+Repairs made. New balance staff, hole jewel, cap jewel, glass, and
+cleaned.
+
+The first test after making the repairs showed a variation of twelve
+seconds as per second column Fig. 25.
+
+It will be observed that the rates in the horizontal positions are on
+the fast side and those in the vertical positions are on the slow
+side. In this instance the hairspring developed to the left from the
+collet similar to the illustration shown in Fig. 10, page 45.
+
+Fig. 25
+
+  +--------------------------------------------------+
+  | No. _272854_          Make _V. & C._             |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  |  D U   | + 2 | + 2 | - 4 | - 4 |     |     |  P  |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  D D   | + 5 | + 3 | - 8 | - 4 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P U   | - 1 | - 6 | -14 | - 6 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P R   | - 8 | - 7 | -21 | - 7 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P L   | -17 | - 9 | -25 | - 4 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+                    12           3
+
+Investigation found the escapement, regulator pins and pinning point
+satisfactory; the motion was one and one-fourth turn in the vertical
+positions when fully wound and only a trifle less when partially let
+down. In the flat positions, however, the motion was very little
+better than in the vertical, which indicated either pivot or end
+stone trouble as under normal conditions the flat motion would be
+about one-fourth turn greater than that of the vertical.
+
+Inspection of the end stones proved that they were satisfactory but
+the ends of the balance pivots were found to be somewhat flat and not
+perfectly polished.
+
+The ends of the pivots were slightly rounded and highly polished, the
+jewels and end stones cleaned and reoiled and the balance replaced,
+after which the motion in the flat positions was one and one-half turn
+with the mainspring fully wound and only slightly less when partially
+let down.
+
+The motion in the vertical positions was also slightly improved and
+the next test in position showed a variation of three seconds as per
+fourth column Fig. 25.
+
+Time required for making the above alteration was about one-half hour.
+
+In the study of this example it should be clearly understood that when
+the ends of balance pivots are flat, burred or not well polished, or
+when the end stones are dry or dirty the motion in the horizontal
+positions will be shorter than normal and this will always cause the
+rate to be faster than it should be. Acceleration of the motion in
+such instances by means of refinishing the pivot ends or by cleaning
+and reoiling the jewels and end stones will always produce a slower
+rate through causing a longer arc of motion.
+
+This point is covered in Chapter XI, No. 47.
+
+
+71. _Example No. 9._
+
+E. Howard. No. 1,116,735. Open Face, 23 Jewels.
+
+Repairs made. New balance staff; hole jewel; mainspring and cleaned.
+
+The first test in positions showed a variation of eleven seconds. The
+rate in all positions was fast with the exception of the dial down
+rate, which was slow. See Fig. 26.
+
+At first glance it might appear that by causing a faster rate of six
+or seven seconds in the dial down position the watch would have a very
+good rate. This, however, would not be consistent unless the rate was
+due to the exception referred to in Chapter XI, No. 50.
+
+Examination of the motion in the horizontal positions proved that it
+was about one fourth turn better in the dial down position than it was
+in the dial up position which rate compared very closely with the
+vertical positions. It was therefore evident that the dial up rate was
+not true and investigation found the oil in the upper jewel had become
+thickened by the entrance of dirt which caused the short motion and
+fast rate when the balance was running on this end stone.
+
+Fig. 26
+
+  +--------------------------------------------------+
+  | No. _1116735_         Make _E. Howard_           |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  |  D U   | + 2 | + 2 | - 5 | - 5 | + 2 | + 2 |  P  |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  D D   | - 3 | - 5 | -10 | - 5 | + 4 | + 2 |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P U   | + 1 | + 4 | - 6 | + 4 | + 9 | + 5 |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P R   | + 7 | + 6 |   0 | + 6 | +10 | + 1 |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P L   | + 9 | + 2 | + 2 | + 2 | +14 | + 4 |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+                    11          11           4
+
+After thoroughly cleaning the jewel, end stone and pivot, the motion
+in the dial up position was improved and equaled that of the dial down
+position.
+
+The next position test showed the horizontal rates to be equal but the
+variation of eleven seconds in the five positions still existed as per
+fourth column Fig. 26. The vertical rates were all fast compared to
+the horizontal; the regulator pins were found to be slightly open
+which prevented a correction at this point. The locking of the
+escapement was examined and found to be satisfactory, so the balance
+was again removed and tested for poise which was also found
+satisfactory.
+
+The hairspring was pinned at the usual fast point as per illustration
+in Fig. 9, Chapter VIII. The most positive alteration to be made under
+the circumstances was to break off the spring at the collet and repin
+it at about 45 deg. above the horizontal line. This would be slightly
+approaching the slow point as explained in detail in Chapter VIII, No.
+35.
+
+The mean rate of the watch would necessarily be faster after
+shortening the spring; the mean time screws were found to be turned in
+close to the rim and were each turned out about one full turn to
+compensate for the gain. The poise was tested and found to remain
+correct and the next position test showed a variation of four seconds
+as per sixth column Fig. 26.
+
+The total time required for the alterations was about one hour.
+
+
+72. _Example No. 10._
+
+Illinois. No. 1,483,023, Open Face, 21 Jewels.
+
+Repairs made. Trued and poised balance, new balance jewel and cleaned.
+
+This example has been selected for the purpose of illustrating a test
+in the sixth or pendant down position and to give a practical
+demonstration showing that the rates in the pendant down and pendant
+up positions can be reversed, with positive results, through reversing
+the collet pinning point of the spring, as covered in "Relative
+Pinning Points" Chapter VIII.
+
+This alteration can be undertaken with assurance of results even
+though there may be serious errors of construction in the watch.
+
+The first five position test proved that the rate pendant up was
+extremely fast compared to all other rates as per second column Fig.
+27.
+
+Investigation proved that the hairspring was properly centered and
+pinned at the fast pendant point and that the regulator pins were
+slightly spread with equal vibration of the coil between them. The
+motion was about one and one-fourth turn pendant up and over one and
+one-half turn in the horizontal positions when the mainspring was
+nearly full wound. The ends of balance pivots were found to be
+perfectly flat, which was no doubt due to an effort to produce a
+faster rate in the flat positions to cause them to compare more
+favorably with the pendant up rate. This, however, was unsuccessful as
+indicated by the rate.
+
+It is quite possible that if the watch ever was closely rated it was
+due to counterpoise of the balance as with the present rate the poise,
+escapement and regulator pins were satisfactory and did not admit of
+further corrections that would be of advantage.
+
+By examining the P. U. rate in second column Fig. 27, it will be found
+to be twelve seconds fast and then by referring to the separate P. D.
+(Pendant Down) rate at the bottom, it will be found to be four seconds
+slow. Adding these figures gives a total variation of sixteen seconds
+between these two positions.
+
+Fig. 27
+
+  +--------------------------------------------------+
+  | No. _1483023_          Make _Illinois_           |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  |  D U   | - 3 | - 3 | - 1 | - 1 |     |     |  P  |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  D D   | - 8 | - 5 | - 2 | - 1 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P U   | + 4 | +12 | - 6 | - 4 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P R   |   0 | - 4 | - 4 | + 2 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+     |
+  |  P L   | - 6 | - 6 | - 7 | - 3 |     |     |     |
+  +--------+-----+-----+-----+-----+-----+-----+-----+
+  |  P.D.  |       - 4         +11 |
+  +--------+-----------------------+
+
+Now if these rates were reversed and the P. D. rate was in the place
+of the P. U. rate the watch would have shown a very good position
+rate in the first five positions and the greater part of the sixteen
+seconds variation would have been in the pendant down position where
+it would be of the least disadvantage. In order to obtain this
+condition the collet pinning point was changed from the fast to the
+slow point, or from "E", Fig. 9, to "G", Fig. 11, Chapter VIII.
+
+A pair of heavier screws were fitted to the balance to compensate for
+the difference in time caused by shortening the spring and the next
+five position test showed a variation of six seconds. A separate
+pendant down test proved that the pendant up and pendant down rates
+had been practically reversed as shown in the fourth column.
+
+
+73. _Causes of Extremely Fast Vertical Rates._
+
+Extremely fast pendant up rates are not particularly unusual, although
+the causes and corrections may be widely different.
+
+For instance, the poise and motion feature, No. 28, Chapter VII, may
+be responsible, or the balance may be in poise and the collet having a
+wide slot may cause out of poise and be responsible if the slot is
+located at the proper point. A defective escapement or regulator pins
+tightly closed may also be responsible. Should these points be found
+satisfactory, however, the rate is generally due to one of three
+causes.
+
+1. Excessive side friction of pivots because of being too large in
+diameter.
+
+2. Train wheels and pinions being of incorrect proportion and causing
+irregular motion and affecting the vertical positions mostly.
+
+3. Centrifugal force, which would cause the balance rims to spring
+outward in the longer arcs of vibration and thereby produce an
+abnormal slow rate in the horizontal positions where the arc of
+motion is always longest. This is due to the balance rims being too
+heavy in proportion to the arms or center bar.
+
+       *       *       *       *       *
+
+When either of these three conditions are found there will be others
+among the same lot of watches, but as a rule they are only found on
+older watches made before correct proportions were firmly established.
+
+Train depthings can often be improved if the workman is equipped with
+a rounding up machine and knows how to use it. Otherwise the watch can
+be sent to the factory for correction and the only alternative of the
+repairer is to cut the spring to the slow point, or counterpoise, with
+the intention of eliminating expense and getting as good results as
+can be expected for the financial returns that are to be received.
+
+
+74. _How to Locate Defective Gearings._
+
+Defective gear or depthing of wheels can be detected in two ways, one
+by observing the engaging surfaces of the wheel teeth and another by
+testing the engagement of wheel and pinion.
+
+If the gearing is correct, observation will show that the engaging
+surfaces of the wheel teeth are smooth and either dark or possibly
+polished from wearing away of the plating. If the gearings are not
+correct the engaging surfaces will have cuts or ridges crosswise which
+have been produced by the pinion leaves.
+
+The cause of this cutting is due to either a faulty construction of
+the teeth or to the fact that the pitch circle of the wheel is too
+small while that of the pinion is too large.
+
+Testing the gearing in the watch is accomplished by placing the
+engaging wheel and pinion in the watch so that they are free to turn
+without engaging with any other wheel. A piece of ivory or celluloid
+several inches long and about the diameter of a piece of peg wood
+should be pointed at one end and this end should be held between the
+upper pivot and oil cup of the jewel, with enough pressure of the left
+hand to cause friction in turning the pinion. The larger wheel should
+then be turned in the direction in which it revolves when running;
+this is accomplished with a piece of peg wood held in the right hand.
+
+If the gearing is perfect there will be smoothness as the wheel and
+pinion turn and if it is imperfect there will be a butting effect in
+the action. Should there be a slight intermittent stepping action due
+to drop of the wheel teeth on the pinion leaves it should not be
+mistaken for butting as this is not detrimental and will not cause
+cutting of the teeth.
+
+Watches that have below standard train gearings require considerably
+stronger mainsprings than do those which have correct gearing and they
+will seldom take a reasonably good motion without a strong spring.
+
+A safe way to judge gearings if in doubt is by the motion and the
+engaging surfaces of the wheel teeth. If the motion is steady and the
+teeth are not cut by the pinion leaves they may be considered as
+satisfactory. If the motion is steady for a time and then suddenly
+drops off there is generally something wrong in the gearing. The wheel
+and pinion in error can be determined by noting at what particular
+intervals the motion decreases. In nearly all instances this condition
+will cause a gaining rate in the vertical positions because of the
+fact that the vertical arcs are shorter and comparatively more easily
+affected than the horizontal arcs.
+
+
+
+
+CHAPTER XV
+
+TIMING AND FINAL REGULATION
+
+
+75. _Mean Time Screws and Timing Washers._
+
+In the general overhauling of watches, changing staffs, retruing and
+repoising of balances it is often necessary to make corrections of
+several minutes per day in the mean time.
+
+For this reason and for the convenience of the future some
+manufacturers have provided from two to four mean time screws in the
+balances. A complete revolution of these screws either in or out,
+generally corrects any variation that may be required and frequently
+considerably less is all that is required in bringing the watch to
+time.
+
+It is of course necessary that these screws be turned in opposite
+pairs as well as equal distances and that they be fitted with enough
+friction to prevent looseness and not too tight to cause bending of
+the pivots when they are turned.
+
+If properly used for the purpose for which they were intended they are
+of inestimable value to the repairing fraternity in producing results.
+
+The manufacturers of some watches do not supply mean time screws with
+the balances and the repairer is obliged to depend entirely upon
+timing washers for fast corrections, for it is, of course, not to be
+expected that repair shops will carry an assortment of all different
+kinds of screws such as the factories are able to maintain.
+
+Occasionally a jeweler or watchmaker will be found who has strenuous
+objections to the use of timing washers in any sense, but unless they
+are supplied with a large assortment of the various makes and weights
+of screws and are willing to use the extra time required for properly
+changing the screws it is difficult to see just what legitimate
+alternative they can adopt. Investigation of this point disclosed the
+fact that the method employed by some watchmakers was to spread the
+regulator pins, which would of course make the mean time slower but
+would certainly destroy the adjustment to positions and make it
+practically impossible to obtain results from the regulator.
+
+It is admittedly poor workmanship to use ill-fitting washers and poor
+taste to use brass washers on high grade gold screw balances, but the
+fact should not be overlooked that the manufacturers of many fine
+watches use washers to a limited extent, even when an abundance of
+balance screws are available and very fine Swiss models are often
+supplied with a pair of thin platinum washers which are not easily
+detected. The regulator should not be moved from the center of the
+index in correcting the mean time but should be used for minor final
+regulation only. The length of the hairspring should also not be
+disturbed in correcting the mean time of an adjusted watch and while a
+slow rate can be corrected by reducing the weight of a pair of balance
+screws it is necessary to use either heavier screws or washers for
+correcting a fast rate.
+
+
+76. _Importance of Properly Fitted Regulator._
+
+Final regulation of watches is necessary after making repairs
+regardless as to whether they have been adjusted to positions or not.
+Position rating does not necessarily suggest that the timing has been
+completed as the object is only to limit the variations from one
+position to any other and a test of three or four days should always
+be made in one position after the position rating has been completed.
+This additional timing has for its purpose the close regulation of the
+watch either in the pendant up position or in the position it is
+carried. The last column on the rate card is reserved for this
+purpose. In this respect the repairer who comes in contact with the
+customer may gain considerable advantage by noting in which pocket the
+watch is usually carried and then being guided in the final regulation
+by this knowledge. The method of doing this regulating consists
+generally of moving the regulator which requires certain attention to
+be effective when it is moved.
+
+The regulator should be carefully fitted around the dome and all
+attachments in connection should be tightly fitted to the plate or
+bridge so that they will remain rigid when regulation takes place.
+
+The tension around the dome should be even and if a tension spring is
+used in connection it should be strong enough to keep the regulator
+against the screw constantly without sticking at any point as the
+screw is moved forward and backward.
+
+It should also be closely examined to see that there is no shake. This
+can be determined by lightly taking hold of the segment holding the
+regulator pins and moving it up and down and side ways before the
+tension spring is fitted. This should be examined with a glass and a
+correction made if any looseness is noted.
+
+
+77. _Effect of the Middle Temperature Error._
+
+In the final regulation of watches it is important that the middle
+temperature error receive due consideration. This error is always a
+few seconds fast as explained in temperature adjusting Chapter V, No.
+21, and is of some consequence in the larger number of complaints
+regarding losing rates in the pocket, compared to complaints of
+gaining rates.
+
+The position rating as well as the final regulation is generally done
+in normal temperature which produces a rate from two to four seconds
+faster than the heat extreme and it is to be expected that the pocket
+rate will be slower because the temperature will be higher than
+normal. This loss may not be the full amount of the middle error as
+it would depend upon the actual temperature encountered for the entire
+twenty-four hours and the watch may only be subjected to the pocket
+temperature for a part of this period. This works in exactly the same
+way in a lower temperature, as the variation is a loss in either
+direction from the middle or normal temperature and in case that the
+watch should be subjected to a freezing temperature at night the
+result will be a loss during that period.
+
+As an example we will assume the regulation of a watch in which the
+temperature rate at the extremes of 40 deg. and 90 deg. Fahr. is
+perfect, while at the temperature of 70 deg. it will time four
+seconds fast.
+
+Now if this watch is regulated to no variation in the normal
+temperature it will be plainly seen that there will be a loss of four
+seconds per day if the watch is placed in service at either of the
+temperature extremes. If it had been regulated to run four seconds
+fast in the middle or normal temperature it would time more nearly
+correct in the pocket.
+
+It is safe to assume that the watch will lose its proportional rate
+with a lesser change in temperature and for this reason it is of
+advantage to finally regulate all watches from two to four seconds
+fast in the rack rather than to time them just correct.
+
+
+78. _Some Practical Reasons for Slow Rates._
+
+There are additional reasons for the suggestion of timing watches a
+few seconds fast rather than just correct. Among them may be mentioned
+the fact that many watches are carried in the left vest pocket, and
+that in this instance they very often assume the pendant right
+position which is generally a trifle slow compared to pendant up in
+most watches of close adjustment. Magnetism to any extent whatever
+always causes a slow rate and this will have its effect whenever the
+balance, hairspring, regulator, regulator spring or pallet are
+slightly effected or when the mainspring, large winding wheels or
+case springs are considerably charged and experiments have shown that
+in no instance has a fast rate been produced from this cause.
+
+The gradual weakening or loss of elastic force of the hairspring is
+also a factor to be considered.
+
+There are some influences which cause a gaining rate that to some
+extent may offset these losses, although in the absence of necessity
+for cleaning or other repairs these influences are slight in
+comparison to the natural and possible causes for a slow rate.
+
+
+
+
+PART III
+
+SPECIAL NOTES
+
+
+
+
+CHAPTER XVI
+
+SPECIAL NOTES
+
+
+79. _Efficiency of Execution Analyzed (Two Examples)._
+
+In performance of the various alterations and corrections that have
+been touched upon in the chapters devoted to position adjusting there
+are some points that deserve special note. This refers to positive
+execution of the correction which the watchmaker sets out to make.
+
+As an example we may analyze the simple feature of polishing a pivot
+and cleaning and reoiling a jewel to improve the motion in one of the
+horizontal positions. Ordinarily this would seem to be a very simple
+proceeding requiring no additional remarks.
+
+It is, however, quite possible to go through all of the operations of
+removing, cleaning and reoiling the jewel and polishing the pivot and
+then find that no improvement has been made in the motion.
+
+Invariably the workman of moderate experience will say that he has
+just cleaned and reoiled the jewel and polished the pivot and that it
+must be all right.
+
+Investigation, however, will sometimes show that the pivot has again
+been marred or that a particle of dirt has found its way into the
+jewel hole during replacement either through dust in the oil or
+through clinging to the end of the pivot when the balance was laying
+on the bench.
+
+This experience is one that comes occasionally to the best and most
+careful adjusters and if it is found that results have not been
+obtained the first time it will be necessary to go over the operations
+a second time.
+
+It is possible to almost entirely eliminate this duplication of work
+if proper care is exercised in examining the pivot and jewel with a
+good glass before replacing and in using oil from a closed receptacle
+in which it has not been possible for dust to collect.
+
+The point raised in this instance is that the improvement desired is
+not assured because of merely going through the operations of doing
+the work.
+
+It is necessary to actually remove the cause and then keep it removed.
+The proof is found in the improved motion and it would hardly be worth
+while to retest in positions until this improvement was obtained.
+
+Proper curvature of the over coil within the range of the regulator
+pins is another feature that may be corrected and the correction
+unconsciously destroyed in replacing the balance or in centering the
+spring.
+
+A slight kink in the coil close to the regulator pins may cause the
+spring to be forced out of center when the regulator is moved, or it
+may cause the coil to lay against one pin and cease vibrating between
+the pins. This would cause a gain of some seconds per day when the
+regulator had actually been moved to cause a slower rate.
+
+These two examples are introduced to convey the idea that it is
+necessary to actually produce the corrections or alterations in any
+instance and that close timing and close position rates depend more
+upon this practical execution and understanding as displayed by the
+watch repairer than they do upon a high degree of technical knowledge.
+
+Personal instruction of watchmakers in adjusting has demonstrated in
+most instances that the refinements are not considered seriously
+enough at first, but that consistent practice and reference to the
+rules soon make the proper impression, after which results are
+attained in less time than was at first required for faulty
+execution.
+
+
+80. _Truing the Balance._
+
+The balance should invariably be true in the round and flat and always
+in poise before it is placed in the watch.
+
+It is at times pardonable to pass a balance that is not perfectly true
+in the round, especially when the watch has been repaired on several
+occasions and it is noted that the rims have a tendency to become set
+slightly inward or outward after having been perfectly trued. This
+shows a natural tendency of the metals to find a permanent position
+which may be slightly away from the true concentric form. A balance of
+this description may be poised as it is and often will produce better
+timing results than would be gained by perfect truing and subsequent
+regulation during readjustment of the metals.
+
+It is advisable to always have the flat true as by doing so any
+slightly bent pivots will be detected through wavering of the balance
+and the flat is not very frequently affected by setting of the metals.
+
+Balances should generally be trued and poised in normal or slightly
+above normal temperature. If they are trued in a low temperature they
+will be out of true and possibly out of poise in the temperature to
+which they are mostly subjected. Compensation balances are not
+presumed to be true in the round under variations of temperature and
+therefore inspection for true is necessary in somewhere near the same
+temperature in which they are trued.
+
+
+81. _Poising the Balance._
+
+In poising balances it is necessary to consider the mean rate of the
+watch and several details in connection therewith.
+
+If the rate is known to be fast, weight should be added to the light
+side, and if it is known to be slow weight may be removed from the
+heavy side.
+
+If the rims of the balance have been trued outward it is a safe rule
+to remove weight from the heavy side in poising and if they have been
+bent inward to get the balance true, weight should be added to the
+light side in poising.
+
+A balance that is in perfect poise can be brought to a perfect stop on
+a fine jeweled poising tool at any point of its circumference. For
+ordinary work it is generally considered as satisfactory if it can be
+brought to a perfect stop at each of the four quarters. When the heavy
+point seems to be first at one place and then just opposite it is
+proof that either a pivot is bent or oval in form instead of round.
+
+In some instances balances will be found to swing slightly and stop at
+several different places. This is usually an indication that there are
+several flat places on one or both pivots and if the watch is a fine
+one the staff will require changing or the pivots may be rounded up on
+a Jacot Lathe. A fine edge jeweled poising tool is best for fine work
+as defects in pivots and variations in poise can be more easily
+discovered than with calipers.
+
+
+82. _Truing Hairsprings._
+
+Original truing of the hairspring is made necessary by the fact of
+attaching the collet to its center. When springs are turned out by the
+manufacturer they are perfectly true, that is, the coils are level and
+perfectly spiral in form and the deviation from this spiral form, made
+necessary in attaching the collet, is what demands certain forming of
+the inner terminal so that it will blend with the other coils of the
+spring which have not been disturbed.
+
+In attaching the collet it is first necessary to have the spring level
+before the pin is forced tightly in place. This can be fairly well
+determined by sighting across the flat of the spring and focusing upon
+the inner coil to see that it is level for at least one half of its
+length from the point of exit. After this operation has been
+completed and the pin has been set up tight, with the surplus ends cut
+off flush with the collet it will be necessary to slightly pull the
+coil up or down, providing it is not perfectly level. The next
+operation will be that of truing the round and all work and bending of
+the spring for this operation is concentrated within the first quarter
+of the coil from its point of attachment and it is seldom ever
+necessary to make any bends beyond the first eighth of the coil from
+the attached point.
+
+Figure 28 may be of some value in gaining an idea as to just how this
+inner coil should appear when it has been trued.
+
+The broken lines illustrate a condition after colleting and before
+truing. The heavy lines illustrate two positions into either of which
+the coil may be formed in getting the spring true.
+
+[Illustration: Fig. 28]
+
+The outer black line shows the most adaptable form for most instances.
+The inner black line shows the most practical form for use in
+instances where there is unusual space between the collet and the
+inner coil. It will be noted that these two forms blend into the true
+spiral form of the spring at about one-eighth of the coil distant from
+the collet. These forms may be used as a basis for truing the spring
+in any instance in which it has been bent or mishandled around the
+collet after its original truing.
+
+Experts always true springs after they have been staked to the balance
+and a light weight calipers tapered on one end to a smaller diameter
+than the collet is used for spinning the balance, making observations,
+and corrections.
+
+Considerable progress can be made by some watchmakers in removing the
+spring from the balance and placing it on a colleting tool or tapered
+broach and then truing the flat and round as good as possible, after
+which it should be perfected in the calipers. When the balance is
+spinning in the calipers and the spring is true in the flat there will
+be no jumping or quivering of the coils as observation is made across
+the top of the inner four or five coils.
+
+When it is perfectly true in the round and the balance is spinning in
+one direction the coils will seem to be whirling into a hole of which
+the collet is the center. When spinning the balance in the opposite
+direction the effect of the coils will be similar to the waves
+produced by dropping a small stone in still water and they will appear
+to be whirling away from the center. This effect in both instances is
+caused by the eye following the spiral form of the coils as the spring
+revolves.
+
+
+83. _Treating a Rusty Hairspring._
+
+When rust begins its attack upon any point of a hairspring there will
+be a constant loss in time until its advance is stopped.
+
+Should considerable headway have been made by the rust before the
+watchmaker's attention is enlisted for an examination it may be
+necessary to change the spring entirely before good results can again
+be obtained.
+
+There are many instances, however, in which proper care at the right
+time will produce as good results as will a new spring.
+
+The first appearance of rust is generally indicated by one or more
+spots of a light brown shade and in such instances it has hardly
+attacked the metal to any serious extent, although usually enough to
+cause a slightly losing rate. At this stage the spots may be scraped
+with a piece of peg wood after which the spring can be placed in a
+small copper pan containing lard oil to a depth of about one-fourth
+inch.
+
+This pan should then be held over an alcohol lamp until the oil
+becomes hot enough to smoke, after which the spring should be removed,
+immersed in benzine for about thirty seconds and then dried in
+sawdust. This treatment will stop further rust and the only indication
+of previous rust may be a removal of the color from the spot which had
+been affected.
+
+In case that the rust has reached a stage far enough advanced to
+seriously pit the metal, good results cannot be expected from the
+spring even though further rusting may be prevented.
+
+
+84. _Stopping by Escapement Locking When Hands are Set Backward, or
+When Watch Receives a Jar._
+
+This is sometimes a very annoying trouble and while it should not
+occur on high grade watches at all, it does show up just often enough
+to cause a certain degree of unpleasantness for the owner of the watch
+as well as for the watchmaker.
+
+There are two principal causes for the difficulty. One is due to the
+back of discharging pallet stone having a very sharp corner combined
+with a slightly rough edge on the back of the escape wheel teeth and
+when the two factors meet with some slight force, such as is caused by
+reversal of the train wheels the sharp corner of the stone wedges
+itself into the rough surface of the tooth and holds until pulled away
+by some small instrument. This can be remedied by removing the sharp
+edge of the stone on a diamond charged polishing lap and a very slight
+correction is sufficient.
+
+The second principal cause is due to sharp edges on the roller jewel.
+First quality roller jewels always have these edges rounded, as
+otherwise they may wedge into the horn of the fork and often will not
+release through ordinary shaking of the watch.
+
+A short guard pin can also cause the trouble by allowing the roller
+jewel to catch on the end of the fork horn before it enters, or the
+guard pin may catch on the edge of the crescent on the safety roller,
+but the two causes mentioned above will allow "hanging up" even when
+the guard pin, roller jewel and all other shakes are correct.
+
+When the above conditions are correct and all setting connections are
+properly fitted, the hands may be set either forward or backward
+without in any way disturbing the time. There are instances, however,
+where the watch will stop when the hands are reversed and at times the
+second hand will actually turn backward although the watch will
+immediately begin to run as soon as the backward pressure on the hands
+is discontinued.
+
+This is caused by the cannon pinion being so tightly fitted that
+turning it backward will require more force than that which is
+supplied by the mainspring. A condition of this description is more
+pronounced when the mainspring is nearly run down and sometimes it
+will happen at such times and will not occur when the spring is fully
+wound.
+
+
+85. _Essentials and Non-Essentials in Cleaning Watches._
+
+It would be difficult to suggest a best method for general cleaning of
+watches. Different watchmakers have different methods and good results
+are attained in more than one way. Whatever the method, however, there
+are certain definite requirements that are fundamental.
+
+Among these are the thorough cleansing of pivots, jewels, pinion
+leaves, wheel teeth, mainspring and winding parts.
+
+It is not sufficient to depend upon routine and simply dip the parts
+in various solutions, brush and reassemble the watch. There are many
+instances in which the oil becomes gummy and sticks to the jewels and
+pivots to such an extent that peg wood and pith must be applied with
+considerable energy to obtain perfectly clean surfaces and holes.
+
+The essential feature is that of actually removing every particle of
+dirt from the contact surface.
+
+It is not essential that the plate and bridges should have a high
+lustre, as this does not facilitate the running. If it is desired and
+if facilities are available, the plates and bridges may be dipped in
+benzine and dried in sawdust, then washed and brushed in a solution of
+hot water, borax and castile soap, then rinsed in fresh water, dipped
+in alcohol and dried in sawdust. This produces a lustre to the plate
+bridges and wheels. When it is not convenient to use hot water the
+parts may be dipped and brushed in benzine for at least one minute and
+dried in sawdust, then dipped in alcohol and again dried in sawdust.
+In either event thorough pegging and pithing of the jewels, pivot
+holes and pivots is necessary as well as brushing and examining all
+wheel teeth and pinion leaves. The steel parts should be examined and
+gummy oil eliminated. Fresh oil should be applied in proper quantities
+in the proper places. This requires some study, as either too much or
+too little oil is detrimental.
+
+When a watch is cleaned annually by the same workman it is not
+necessary that the mainspring be removed and reoiled each time, for a
+mainspring properly oiled will last for two or three years before
+requiring cleaning and reoiling.
+
+It is well known that mainsprings frequently break shortly after being
+removed and cleaned and this annoyance may be avoided in many
+instances by intelligent use of this rule.
+
+Balances should not be dipped in acid solutions, as the liquid gathers
+under the screws and will often cause them to discolor in a short
+time. It is better to polish them with fine rouge and cotton thread
+arranged on a wire bow as the lustre will be more lasting.
+
+
+
+
+
+End of the Project Gutenberg EBook of Rules and Practice for Adjusting
+Watches, by Walter J. Kleinlein
+
+*** END OF THIS PROJECT GUTENBERG EBOOK RULES, PRACTICE--ADJUSTING WATCHES ***
+
+***** This file should be named 38340.txt or 38340.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/8/3/4/38340/
+
+Produced by Gísli Valgeirsson and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/American Libraries.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
