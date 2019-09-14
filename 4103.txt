@@ -1,0 +1,1808 @@
+The Project Gutenberg Etext of The Mayflower and Her Log by Ames, v3
+#3 in our series by Azel Ames
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission. The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below, including for donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: The Mayflower and Her Log, v3
+
+Author: Azel Ames
+
+Release Date: June, 2003  [Etext #4103]
+[Yes, we are about one year ahead of schedule]
+[The actual date this file first posted = 10/07/01]
+
+Edition: 10
+
+Language: English
+
+The Project Gutenberg Etext of The Mayflower and Her Log by Azel Ames v3
+**********This file should be named 4103.txt or 4103.zip**********
+
+This etext was produced by David Widger  <widger@cecomet.net>
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included. Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month. A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03
+or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work. The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc. This
+projected audience is one hundred million readers. If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001. [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts unless we
+manage to get some real funding.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of July 12, 2001 contributions are only being solicited from people in:
+Arkansas, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho,
+Illinois, Indiana, Iowa, Kansas, Louisiana, Maine, Massachusetts, Minnesota,
+Missouri, Montana, Nebraska, New Mexico, Nevada, New Jersey, New York, North
+Carolina, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina*, South Dakota,
+Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
+Wisconsin, and Wyoming.
+
+*In Progress
+
+We have filed in about 45 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states. Please feel
+free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states. If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or
+even if they CAN be made deductible,
+and don't have the staff to handle it
+even if there are ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541,
+and has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS). Donations are tax-deductible to the maximum
+extent permitted by law. As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+***
+
+
+Example command-line FTP session:
+
+ftp ftp.ibiblio.org
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext02, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.?? [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.10/04/01*END*
+
+
+
+
+
+This etext was produced by David Widger <widger@cecomet.net>
+
+
+
+
+
+[NOTE: There is a short list of bookmarks, or pointers, at the end of the
+file for those who may wish to sample the author's ideas before making an
+entire meal of them.  D.W.]
+
+
+
+
+
+THE MAY-FLOWER AND HER LOG
+
+July 15, 1620--May 6, 1621
+Chiefly from Original Sources
+
+By AZEL AMES, M.D.
+Member of Pilgrim Society, etc.
+
+
+
+BOOK 3.
+
+
+CHAPTER V
+
+THE OFFICERS AND CREW OF THE MAYFLOWER
+
+The officers and crew of the MAY-FLOWER were obviously important factors
+in the success of the Pilgrim undertaking, and it is of interest to know
+what we may concerning them. We have seen that the "pilot," John Clarke,
+was employed by Weston and Cushman, even before the vessel upon which he
+was to serve had been found, and he had hence the distinction of being
+the first man "shipped" of the MAY-FLOWER'S complement.  It is evident
+that he was promptly hired on its being known that he had recently
+returned from a voyage to Virginia in the cattle-ship FALCON, as certain
+to be of value in the colonists' undertakings.
+
+Knowing that the Adventurers' agents were seeking both a ship and a
+master for her, it was the natural thing for the latter, that he should
+propose the Captain under whom he had last sailed, on much the same
+voyage as that now contemplated.  It is an interesting fact that
+something of the uncertainty which for a time existed as to the names and
+features of the Pilgrim barks attaches the names and identity of their
+respective commanders.  The "given" name of "Master" Reynolds, "pilott"
+and "Master" of the SPEED WELL, does not appear, but the assertion of
+Professor Arber, though positive enough, that "the Christian name of the
+Captain of the MAY-FLOWER is not known," is not accepted by other
+authorities in Pilgrim history, though it is true that it does not find
+mention in the contemporaneous accounts of the Pilgrim ship and her
+voyage.
+
+There is no room for doubt that the Captain of the FALCON--whose release
+from arrest while under charge of piracy the Earl of Warwick procured,
+that he might take command of the above-named cattle-ship on her voyage
+to Virginia, as hereinafter shown--was Thomas Jones.  The identity of
+this man and "Master Jones" who assumed command of the MAY-FLOWER--with
+the former mate of the FALCON, John Clarke, as his first officer--is
+abundantly certified by circumstantial evidence of the strongest kind, as
+is also the fact that he commanded the ship DISCOVERY a little later.
+
+With the powerful backing of such interested friends as the Earl of
+Warwick and Sir Ferdinando Gorges, undoubtedly already in league with
+Thomas Weston, who probably made the contract with Jones,
+as he had with Clarke, the suggestion of the latter as to the competency
+and availability of his late commander would be sure of prompt approval,
+and thus, in all probability, Captain Thomas Jones, who finds his chief
+place in history--and a most important one--as Master of the MAY-FLOWER,
+came to that service.
+
+In 1619, as appears by Neill, the Virginia Company had one John Clarke in
+Ireland, "buying cattle for Virginia." We know that Captain Jones soon
+sailed for Virginia with cattle, in the FALCON, of 150 tons, and as this
+was the only cattle ship in a long period, we can very certainly identify
+Clarke as the newly-hired mate of the MAY-FLOWER, who, Cush man says
+(letter of June 11/21, 1620), "went last year to Virginia with a ship of
+kine."  As 1620 did not begin until March 25, a ship sailing in February
+would have gone out in 1619, and Jones and Clarke could easily have made
+the voyage in time to engage for the MAY-FLOWER in the following June.
+"Six months after Jones's trip in the latter" (i.e.  after his return
+from the Pilgrim voyage), Neill says, "he took the DISCOVERY (60 tons) to
+Virginia, and then northward, trading along the coast.  The Council for
+New England complained of him to the Virginia Company for robbing the
+natives on this voyage.  He stopped at Plymouth (1622), and, taking
+advantage of the distress for food he found there, was extortionate in
+his prices.  In July, 1625, he appeared at Jamestown, Virginia, in
+possession of a Spanish frigate, which he said had been captured by one
+Powell, under a Dutch commission, but it was thought a resumption of his
+old buccaneering practices.  Before investigation he sickened and died."
+
+That Jones was a man of large experience, and fully competent in his
+profession, is beyond dispute.  His disposition, character, and deeds
+have been the subject of much discussion.  By most writers he is held to
+have been a man of coarse, "unsympathetic" nature, "a rough sea-dog,"
+capable of good feeling and kindly impulses at times, but neither
+governed by them nor by principle.  That he was a "highwayman of the
+seas," a buccaneer and pirate, guilty of blood for gold, there can be no
+doubt.  Certainly nothing could justify the estimate of him given by
+Professor Arber, that "he was both fair-minded and friendly toward the
+Pilgrim Fathers," and he certainly stands alone among writers of
+reputation in that opinion.  Jones's selfishness,
+
+     [Bradford himself--whose authority in the matter will not be
+     doubted--says (Historie, Mass. ed.  p. 112): "As this calamitie,
+     the general sickness, fell among ye passengers that were to be left
+     here to plant, and were basted ashore and made to drinke water, that
+     the sea-men might have ye more bear [beer] and one in his sickness
+     desiring but a small can of beare it was answered that if he were
+     their own father he should have none."  Bradford also shows (op.
+     cit.  p. 153) the rapacity of Jones, when in command of the
+     DISCOVERY, in his extortionate demands upon the Plymouth planters,
+     notwithstanding their necessities.]
+
+threats, boorishness, and extortion, to say nothing of his exceedingly
+bad record as a pirate, both in East and West Indian waters, compel a far
+different estimate of him as a man, from that of Arber, however excellent
+he was as a mariner. Professor Arber dissents from Goodwin's conclusion
+that Captain Jones of the DISCOVERY was the former Master of the MAY-
+FLOWER, but the reasons of his dissent are by no means convincing.  He
+argues that Jones would not have accepted the command of a vessel so much
+smaller than his last, the DISCOVERY being only one third the size of the
+MAY-FLOWER.  Master-mariners, particularly when just returned from long
+and unsuccessful voyages, especially if in bad repute,--as was Jones,--
+are obliged to take such employment as offers, and are often glad to get
+a ship much smaller than their last, rather than remain idle.  Moreover,
+in Jones's case, if, as appears, he was inclined to buccaneering, the
+smaller ship would serve his purpose--as it seems it did satisfactorily.
+Nor is the fact that Bradford speaks of him--although previously so well
+acquainted--as "one Captain Jones," to be taken as evidence, as Arber
+thinks, that the Master of the DISCOVERY was some other of the name.
+Bradford was writing history, and his thought just then was the especial
+Providence of God in the timely relief afforded their necessities by the
+arrival of the ships with food, without regard to the individuals who
+brought it, or the fact that one was an acquaintance of former years.
+On the other hand, Winslow--in his "Good Newes from New England"--
+records the arrival of the two ships in August, 1622, and says, "the one
+as I take [recollect] it, was called the DISCOVERY, Captain Jones having
+command thereof," which on the same line of argument as Arber's might be
+read, "our old acquaintance Captain Jones, you know"!  If the expression
+of Bradford makes against its being Captain Jones, formerly of the MAY-
+FLOWER, Winslow's certainly makes quite as much for it, while the fact
+which Winslow recites, viz. that the DISCOVERY, under Jones, was sailing
+as consort to the SPARROW, a ship of Thomas Weston,--who employed him for
+the MAY-FLOWER, was linked with him in the Gorges conspiracy, and had
+become nearly as degenerate as he,--is certainly significant.  There are
+still better grounds, as will appear in the closely connected relations
+of Jones, for holding with Goodwin rather than with Arber in the matter.
+The standard authority in the case is the late Rev. E. D. Neill, D. D.,
+for some years United States consul at Dublin, who made very considerable
+research into all matters pertaining to the Virginia Companies,
+consulting their original records and "transactions," the Dutch related
+documents, the "Calendars of the East India Company," etc.  Upon him and
+his exhaustive work all others have largely drawn,--notably Professor
+Arber himself,--and his conclusions seem entitled to the same weight here
+which Arber gives them in other relations.  Dr. Neill is clearly of
+opinion that the Captains of the MAY-FLOWER and the DISCOVERY were
+identical, and this belief is shared by such authorities in Pilgrim
+literature as Young, Prince, Goodwin, and Davis, and against this
+formidable consensus of opinion, Arber, unless better supported, can
+hardly hope to prevail.
+
+The question of Jones's duplicity and fraud, in bringing the Pilgrims to
+land at Cape Cod instead of the "neighbor-hood of Hudson's River," has
+been much mooted and with much diversity of opinion, but in the light of
+the subjoined evidence and considerations it seems well-nigh impossible
+to acquit him of the crime--for such it was, in inception, nature, and
+results, however overruled for good.
+
+The specific statements of Bradford and others leave no room for doubt
+that the MAY-FLOWER Pilgrims fully intended to make their settlement
+somewhere in the region of the mouth of "Hudson's River."  Morton states
+in terms that Captain Jones's "engagement was to Hudson's River."
+Presumably, as heretofore noted, the stipulation of his charter party
+required that he should complete his outward voyage in that general
+locality.  The northern limits of the patents granted in the Pilgrim
+interest, whether that of John Wincob (or Wincop) sealed June 9/ 19,
+1619, but never used, or the first one to John Pierce, of February 2/12,
+1620, were, of course, brought within the limits of the First (London)
+Virginia Company's charter, which embraced, as is well-known, the
+territory between the parallels of 34 deg. and 41 deg. N. latitude.
+The most northerly of these parallels runs but about twenty miles to the
+north of the mouth of "Hudson's River."  It is certain that the Pilgrims,
+after the great expense, labor, and pains of three years, to secure the
+protection of these Patents, would not willingly or deliberately, have
+planted themselves outside that protection, upon territory where they had
+none, and where, as interlopers, they might reasonably expect trouble
+with the lawful proprietors.  Nor was there any reason why, if they so
+desired, they should not have gone to "Hudson's River" or its vicinity,
+unless it was that they had once seemed to recognize the States General
+of Holland as the rightful owners of that territory, by making petition
+to them, through the New Netherland Company, for their authority and
+protection in settling there.  But even this fact constituted no moral or
+legal bar to such action, if desirable First, because it appears certain
+that, whatever the cause, they "broke off" themselves their negotiations
+with the Dutch,--whether on account of the inducements offered by Thomas
+Weston, or a doubt of the ability of the Dutch to maintain their claim to
+that region, and to protect there, or both, neither appears nor matters.
+Second, because the States General--whether with knowledge that they of
+Leyden had so "broken off" or from their own doubts of their ability to
+maintain their claim on the Hudson region, does not appear--rejected the
+petition made to them in the Pilgrims' behalf.  It is probable that the
+latter was the real reason, from the fact that the petition was twice
+rejected.
+
+In view of the high opinion of the Leyden brethren, entertained, as we
+know, by the Dutch, it is clear that the latter would have been pleased
+to secure them as colonists; while if at all confident of their rights to
+the territory, they must have been anxious to colonize it and thus
+confirm their hold, increase their revenues as speedily as possible,
+and
+
+Third, because it appears upon the showing of the petition itself, made
+by the New Netherland Company (to which the Leyden leaders had looked,
+doubtless on account of its pretensions, for the authority and protection
+of the States General, as they afterward did to the English Virginia
+Company for British protection), that this Company had lost its own
+charter by expiration, and hence had absolutely nothing to offer the
+Leyden people beyond the personal and associate influence of its members,
+and the prestige of a name that had once been potential.  In fact, the
+New Netherland Company was using the Leyden congregation as a leverage to
+pry for itself from the States General new advantages, larger than it had
+previously enjoyed.
+
+Moreover it appears by the evidence of both the petition of the Directors
+of the New Netherland Company to the Prince of Orange (February 2/12,
+1619/20), and the letters of Sir Dudley Carleton, the British ambassador
+at the Hague, to the English Privy Council, dated February 5/15, 1621/22,
+that, up to this latter date the Dutch had established no colony
+
+     [British State Papers, Holland, Bundle 165.  Sir Dudley Carleton's
+     Letters. "They have certain Factors there, continually resident,
+     trading with savages .  .  .  but I cannot learn of any colony,
+     either I already planted there by these people, or so much as
+     intended." Sir Dudley Carleton's Letters.]
+
+on the territory claimed by them at the Hudson, and had no other
+representation there than the trading-post of a commercial company whose
+charter had expired.  There can be no doubt that the Leyden leaders knew,
+from their dealings with the New Netherland Company, and the study of the
+whole problem which they evidently made, that this region was open to
+them or any other parties for habitation and trade, so far as any prior
+grants or charters under the Dutch were concerned, but they required more
+than this.
+
+To Englishmen, the English claim to the territory at "Hudson's River"
+was valid, by virtue of the discovery of the Cabots, under the law of
+nations as then recognized, not withstanding Hudson's more particular
+explorations of those parts in 1609, in the service of Holland,
+especially as no colony or permanent occupancy of the region by the
+Dutch had been made.
+
+Professor John Fiske shows that "it was not until the Protestant England
+of Elizabeth had come to a life-and-death grapple with Spain, and not
+until the discovery of America had advanced much nearer completion, so
+that its value began to be more correctly understood, that political and
+commercial motives combined in determining England to attack Spain
+through America, and to deprive her of supremacy in the colonial and
+maritime world.  Then the voyages of the Cabots assumed an importance
+entirely new, and could be quoted as the basis of a prior claim on the
+part of the English Crown, to lands which it [through the Cabots] had
+discovered."
+
+Having in mind the terrible history of slaughter and reprisal between the
+Spanish and French (Huguenot) settlers in Florida in 1565-67,
+
+     [Bancroft, History of the United States, vol. i.  p. 68; Fiske,
+     Discovery of America, vol. ii.  p. 511 et seq.  With the terrible
+     experience of the Florida plantations in memory, the far-sighted
+     leaders of the Leyden church proposed to plant under the shelter of
+     an arm strong enough to protect them, and we find the Directors of
+     the New Netherland Company stating that the Leyden party (the
+     Pilgrims) can be induced to settle under Dutch auspices, "provided,
+     they would be guarded and preserved from all violence on the part of
+     other potentates, by the authority, and under the protection of your
+     Princely Excellency and the High and Mighty States General."
+     Petition of the Directors of the New Netherland Company to the
+     Prince of Orange.]
+
+the Pilgrims recognized the need of a strong power behind them, under
+whose aegis they might safely plant, and by virtue of whose might and
+right they could hope to keep their lives and possessions.  The King of
+England had, in 1606, granted charters to the two Virginia Companies,
+covering all the territory in dispute, and, there could be no doubt,
+would protect these grants and British proprietorship therein, against
+all comers.  Indeed, the King (James I.) by letter to Sir Dudley
+Carleton, his ambassador at the Hague, under date of December 15, 1621,
+expressly claimed his rights in the New Netherland territory and
+instructed him to impress upon the government of the States General his
+Majesty's claim,--"who, 'jure prime occupation' hath good and sufficient
+title to these parts."  There can be no question that the overtures of
+Sandys, Weston, and others to make interest for them with one of these
+English Companies, agreed as well with both the preferences and
+convictions of the Leyden Pilgrims, as they did with the hopes and
+designs of Sir Ferdinando Gorges.  In the light of these facts, there
+appears to have been neither legal nor moral bar to the evident intention
+of the Pilgrims to settle in the vicinity of "Hudson's River," if they so
+elected.  In their light, also, despite the positive allegations of the
+truthful but not always reliable Morton, his charges of intrigue between
+the Dutch and Master Jones of the MAY-FLOWER, to prevent the settlement
+of his ship's company at "Hudson's River," may well be doubted.  Writing
+in "New England's Memorial" in 1669, Morton says: "But some of the Dutch,
+having notice of their intentions, and having thoughts about the same
+time of erecting a plantation there likewise, they fraudulently hired the
+said Jones, by delays while they were in England, and now under pretence
+of the shoals the dangers of the Monomoy Shoals off Cape Cod to
+disappoint them in going thither."  He adds: "Of this plot between the
+Dutch and Mr. Jones, I have had late and certain intelligence."  If this
+intelligence was more reliable than his assertion concerning the
+responsibility of Jones for the "delays while they were in England," it
+may well be discredited, as not the faintest evidence appears to make him
+responsible for those delays, and they are amply accounted for without
+him.  Without questioning the veracity of Morton (while suggesting his
+many known errors, and that the lapse of time made it easy to
+misinterpret even apparently certain facts), it must be remembered that
+he is the original sponsor for the charge of Dutch intrigue with Jones,
+and was its sole support for many years.  All other writers who have
+accepted and indorsed his views are of later date, and but follow him,
+while Bradford and Winslow, who were victims of this Dutch conspiracy
+against them, if it ever existed, were entirely silent in their writings
+upon the matter, which we may be sure they would not have been, had they
+suspected the Dutch as prime movers in the treachery.  That there was a
+conspiracy to accomplish the landing of the MAY-FLOWER planters at a
+point north of "the Hudson" (in fact, north of the bounds defined by the
+(first) Pierce patent, upon which they relied), i.e. north of 41 deg. N.
+latitude,--is very certain; but that it was of Dutch origin, or based
+upon motives which are attributed to the Dutch, is clearly erroneous.
+While the historical facts indicate an utter lack of motive for such an
+intrigue on the part of the Dutch, either as a government or as
+individuals, there was no lack of motive on the part of certain others,
+who, we can but believe, were responsible for the conspiracy.  Moreover,
+the chief conspirators were such, that, even if the plot was ultimately
+suspected by the Pilgrims, a wise policy--indeed, self-preservation--
+would have dictated their silence.  That the Dutch were without
+sufficient motive or interest has been declared.  That the States General
+could have had no wish to reject so exceptionally excellent a body of
+colonists as subjects, and as tenants to hold and develop their disputed
+territory--if in position to receive them and guarantee them protection--
+is clear.  The sole objection that could be urged against them was their
+English birth, and with English regiments garrisoning the Dutch home
+cities, and foreigners of every nation in the States General's employ, by
+land and by sea, such an objection could have had no weight. Indeed, the
+Leyden party proposed, if they effected satisfactory arrangements with
+the States General (as stated by the Directors of the New Netherland
+Company), "to plant there [at "Hudson's River"] a new commonwealth, all
+under the order and command of your Princely Excellency and their High
+Mightinesses the States General: The Leyden Pilgrims were men who kept
+their agreements.
+
+The Dutch trading-companies, who were the only parties in the Low
+Countries who could possibly have had any motive for such a conspiracy,
+were at this time themselves without charters, and the overtures of the
+principal company, made to the government in behalf of themselves and the
+Leyden brethren, had recently, as we have seen, been twice rejected.
+They had apparently, therefore, little to hope for in the near future;
+certainly not enough to warrant expenditure and the risk of disgraceful
+exposure, in negotiations with a stranger--an obscure ship-master--to
+change his course and land his passengers in violation of the terms of
+his charter-party;--negotiations, moreover, in which neither of the
+parties could well have had any guaranty of the other's good faith.
+
+But, as previously asserted, there was a party--to whom such knavery was
+an ordinary affair--who had ample motive, and of whom Master Thomas Jones
+was already the very willing and subservient ally and tool, and had been
+such for years.  Singularly enough, the motive governing this party was
+exactly the reverse of that attributed--though illogically and without
+reason--to the Dutch.  In the case of the latter, the alleged animus was
+a desire to keep the Pilgrim planters away from their "Hudson's River"
+domain. In the case of the real conspirators, the purpose was to secure
+these planters as colonists for, and bring them to, the more northern
+territory owned by them.  It is well known that Sir Ferdinando Gorges was
+the leading spirit of the "Second Virginia Company," as he also became
+(with the Earl of Warwick a close second) of "The Council for the Affairs
+of New England," of which both men were made "Governors," in November of
+1620, when the Council practically superseded the "Second Virginia
+Company."  The Great Charter for "The Council of Affairs of New England,"
+commonly known as "The Council for New England," issued Tuesday, November
+3/13, 1620, and it held in force till Sunday, June 7/17, 1635.
+
+Although not its official head, and ranked at its board by dukes and
+earls, Sir Ferdinando Gorges was--as he had been in the old Plymouth (or
+Second) Virginia Company--the leading man.  This was largely from his
+superior acquaintance with, and long and varied experience in, New
+England affairs.  The "Council" was composed of forty patentees, and
+Baxter truly states, that "Sir Ferdinando Gorges, at this time [1621]
+stood at the head of the Council for New England, so far as influence
+went; in fact, his hand shaped its affairs."  This company, holding--by
+the division of territory made under the original charter-grants--a strip
+of territory one hundred miles wide, on the North American coast, between
+the parallels of 41 deg. and 45 deg. N. latitude, had not prospered, and
+its efforts at colonization (on what is now the Maine coast), in 1607 and
+later, had proved abortive, largely through the character of its
+"settlers," who had been, in good degree, a somewhat notable mixture of
+two of the worst elements of society,--convicts and broken-down
+"gentlemen."
+
+"In 1607," says Goodwin,  "Gorges and the cruel Judge Popham planted a
+colony at Phillipsburg (or Sagadahoc, as is supposed), by the mouth of
+the Kennebec.  Two ships came, 'THE GIFT OF GOD' and the 'MARY AND JOHN,'
+bringing a hundred persons.  Through August they found all delightful,
+but when the ships went back in December, fifty five of the number
+returned to England, weary of their experience and fearful of the cold
+....  With spring the ships returned from England; "but by this time the
+remainder were ready to leave," so every soul returned with Gilbert [the
+Admiral] .  .  .  .  For thirty years Gorges continued to push
+exploration and emigration to that region, but his ambition and
+liberality ever resulted in disappointment and loss."  The annals of the
+time show that not a few of the Sagadahoc colonists were convicts,
+released from the English jails to people this colony.
+
+Hakluyt says: "In 1607 [this should read 1608], disheartened by the death
+of Popham, they all embarked in a ship from Exeter and in the new
+pynnace, the 'VIRGINIA,' built in the colony, and sett sail for England,
+and this was the end of that northern colony upon the river Sachadehoc
+[Kennebec]."
+
+No one knew better than the shrewd Gorges the value of such a colony as
+that of the Leyden brethren would be, to plant, populate, and develop his
+Company's great demesne.  None were more facile than himself and the
+buccaneering Earl of Warwick, to plan and execute the bold, but--as it
+proved--easy coup, by which the Pilgrim colony was to be stolen bodily;
+for the benefit of the "Second Virginia Company" and its successor,
+"the Council for New England," from the "First (or London) Company,"
+under whose patent (to John Pierce) and patronage they sailed.  They
+apparently did not take their patent with them,--it would have been
+worthless if they had,--and they were destined to have no small trouble
+with Pierce, before they were established in their rights under the new
+patent granted him (in the interest of the Adventurers and themselves),
+by the "Council for New England."  Master John Wincob's early and silent
+withdrawal from his apparently active connection with the Pilgrim
+movement, and the evident cancellation of the first patent issued to him
+in its interest, by the (London) Virginia Company, have never been
+satisfactorily explained.  Wincob (or Wincop), we are told, "was a
+religious Gentleman, then belonging to the household of the Countess of
+Lincoln, who intended to go with them [the Pilgrims] but God so disposed
+as he never went, nor they ever made use of this Patent, which had cost
+them so much labor and charge."  Wincob, it appears by the minutes of the
+(London) Virginia Company of Wednesday, May 26/June 5, 1619, was
+commended to the Company, for the patent he sought, by the fourth Earl of
+Lincoln, and it was doubtless through his influence that it was granted
+and sealed, June 9/19, 1619.  But while Wincob was a member of the
+household of the Dowager Countess of Lincoln, mother of the fourth Earl
+of Lincoln; John, the eldest son of Sir Ferdinando Gorges, had married
+the Earl's daughter (sister ?), and hence Gorges stood in a much nearer
+relation to the Earl than did his mother's friend and dependant (as
+Wincob evidently was), as well as on a much more equal social footing.
+By the minutes of the (London) Virginia Company of Wednesday, February 2/
+12, 1619/20, it appears that a patent was "allowed and sealed to John
+Pierce and his associates, heirs and assigns," for practically the same
+territory for which the patent to Wincob had been given but eight months
+before.  No explanation was offered, and none appears of record, but the
+logical conclusion is, that the first patent had been cancelled, that
+Master Wincob's personal interest in the Pilgrim exodus had ceased, and
+that the Lincoln patronage had been withdrawn.  It is a rational
+conjecture that Sir Ferdinando Gorges, through the relationship he
+sustained to the Earl, procured the withdrawal of Wincob and his patent,
+knowing that the success of his (Gorges's) plot would render the Wincob
+patent worthless, and that the theft of the colony, in his own interest,
+would be likely to breed "unpleasantness" between himself and Wincob's
+sponsors and friends among the Adventurers, many of whom were friends of
+the Earl of Lincoln.
+
+The Earl of Warwick, the man of highest social and political rank in the
+First (or London) Virginia Company, was, at about the same time, induced
+by Gorges to abandon his (the London) Company and unite with himself in
+securing from the Crown the charter of the "Council of Affairs for New
+England."  The only inducements he could offer for the change must
+apparently have resided in the promised large results of plottings
+disclosed by him (Gorges), but he needed the influential and unscrupulous
+Earl for the promotion of his schemes, and won him, by some means, to an
+active partnership, which was doubtless congenial to both. The "fine
+Italian hand" of Sir Ferdinando hence appears at every stage, and in
+every phase, of the Leyden movement, from the mission of Weston to
+Holland, to the landing at Cape Cod, and every movement clearly indicates
+the crafty cunning, the skilful and brilliant manipulation, and the
+dogged determination of the man.
+
+That Weston was a most pliant and efficient tool in the hands of Gorges,
+"from start to finish" of this undertaking, is certainly apparent.
+Whether he was, from the outset, made fully aware of the sinister designs
+of the chief conspirator, and a party to them, admits of some doubt,
+though the conviction strengthens with study, that he was, from the
+beginning, 'particeps criminis'.  If he was ever single-minded for the
+welfare of the Leyden brethren and the Adventurers, it must have been for
+a very brief time at the inception of the enterprise; and circumstances
+seem to forbid crediting him with honesty of purpose, even then.  The
+weight of evidence indicates that he both knew, and was fully enlisted
+in, the entire plot of Gorges from the outset.  In all its early stages
+he was its most efficient promoter, and seems to have given ample proof
+of his compliant zeal in its execution. His visit to the Leyden brethren
+in Holland was, apparently, wholly instigated by Gorges, as the latter
+complacently claims and collateral evidence proves.  In his endeavor to
+induce the leaders to "break off with the Dutch," their pending
+negotiations for settlement at "Hudson's River," he evidently made
+capital of, and traded upon, his former kindness to some of them when
+they were in straits,--a most contemptible thing in itself, yet
+characteristic of the man.  He led the Pilgrims to "break off" their
+dealings with the Dutch by the largest and most positive promises of
+greater advantages through him, few of which he ever voluntarily kept (as
+we see by John Robinson's sharp arraignment of him), his whole object
+being apparently to get the Leyden party into his control and that of his
+friends,--the most subtle and able of whom was Gorges.  Bradford recites
+that Weston not only urged the Leyden leaders "not to meddle with ye
+Dutch," but also,--"not too much to depend on ye Virginia [London]
+Company," but to rely on himself and his friends.  This strongly suggests
+active cooperation with Gorges, on Weston's part, at the outset, with the
+intent (if he could win them by any means, from allegiance to the First
+(London) Virginia Company), to lead the Leyden party, if possible, into
+Gorges's hands and under the control and patronage of the Second (or
+Plymouth) Virginia Company.  Whatever the date may have been, at which
+(as Bradford states) the Leyden people "heard, both by Mr. Weston and
+others, yt sundrie Honble: Lords had obtained a large grante from ye king
+for ye more northerly parts of that countrie, derived out of ye Virginia
+patents, and wholly secluded from theire Governmente, and to be called by
+another name, viz. New England, unto which Mr. Weston and the chiefe of
+them begane to incline;" Bradford leaves us in no doubt as to Weston's
+attitude toward the matter itself.  It is certain that the governor,
+writing from memory, long afterward, fixed the time at which the Honble:
+Lords had obtained "their large grante" much earlier than it could
+possibly have occurred, as we know the exact date of the patent for the,
+"Council for New England," and that the order for its issue was not given
+till just as the Pilgrims left Leyden; so that they could not have known
+of the actual "grante" till they reached Southampton.  The essential
+fact, stated on this best of authority, is, that "Mr. Weston and the
+chiefe of them [their sponsors, i.e. Weston and Lord Warwick, both in
+league with Gorges "begane to incline" to Gorges's new "Council for New
+England."  Such an attitude (evidently taken insidiously) meant, on
+Weston's part, of necessity, no less than treachery to his associates of
+the Adventurers; to the (London) Virginia Company, and to the Leyden
+company and their allied English colonists, in the interest of Sir
+Ferdinando Gorges and his schemes and of the new "Council" that Gorges
+was organizing.  Weston's refusal to advance "a penny" to clear the
+departing Pilgrims from their port charges at Southampton; his almost
+immediate severance of connection with both the colonists and the
+Adventurers; and his early association with Gorges,--in open and
+disgraceful violation of all the formers' rights in New England,--to say
+nothing of his exhibition of a malevolence rarely exercised except toward
+those one has deeply wronged, all point to a complete and positive
+surrender of himself and his energies to the plot of Gorges, as a full
+participant, from its inception. In his review of the Anniversary Address
+of Hon. Charles Francis Adams (of July 4, 1892, at Quincy), Daniel W.
+Baker, Esq., of Boston, says: "The Pilgrim Fathers were influenced in
+their decision to come to New England by Weston, who, if not the agent of
+Gorges in this particular matter, was such in other matters and held
+intimate relations with him."
+
+The known facts favor the belief that Gorges's cogitations on colonial
+matters--especially as stimulated by his plottings in relation to the
+Leyden people--led to his project of the grant--and charter for the new
+"Council for New England," designed and constituted to supplant, or
+override, all others.  It is highly probable that this grand scheme--
+duly embellished by the crafty Gorges,--being unfolded to Weston, with
+suggestions of great opportunities for Weston himself therein, warmed and
+drew him, and brought him to full and zealous cooperation in all Gorges's
+plans, and that from this time, as Bradford states, he "begane to
+incline" toward, and to suggest to the Pilgrims, association with Gorges
+and the new "Council."  Not daring openly to declare his change of
+allegiance and his perfidy, he undertook, apparently, at first, by
+suggestions, e.g.  "not to place too much dependence on the London
+Company, but to rely on himself and friends;" that "the fishing of New
+England was good," etc.; and making thus no headway, then, by a policy of
+delay, fault finding, etc., to breed dissatisfaction, on the Pilgrims'
+part, with the Adventurers, the patent of Wincob, etc., with the hope of
+bringing about "a new deal" in the Gorges interest. The same "delays" in
+sailing, that have been adduced as proof of Jones's complicity with the
+Dutch, would have been of equal advantage to these noble schemers, and if
+he had any hand in them-which does not appear--it would have been far
+more likely in the interest of his long-time patron, the Earl of Warwick,
+and of his friends, than of any Dutch conspirators.
+
+Once the colonists were landed upon the American soil, especially if late
+in the season, they would not be likely, it doubtless was argued, to
+remove; while by a liberal policy on the part of the "Council for New
+England" toward them--when they discovered that they were upon its
+territory--they could probably be retained.  That just such a policy was,
+at once and eagerly, adopted toward them, as soon as occasion permitted,
+is good proof that the scheme was thoroughly matured from the start.  The
+record of the action of the "Council for New England"--which had become
+the successor of the Second Virginia Company before intelligence was
+received that the Pilgrims had landed on its domain--is not at hand,
+but it appears by the record of the London Company, under date of Monday,
+July 16/26, 1621, that the "Council for New England" had promptly made
+itself agreeable to the colonists.  The record reads: "It was moved,
+seeing that Master John Pierce had taken a Patent of Sir Ferdinando
+Gorges, and thereupon seated his Company [the Pilgrims] within the limits
+of the Northern Plantations, as by some was supposed,"' etc.  From this
+it is plain that, on receipt by Pierce of the news that the colony was
+landed within the limits of the "Council for New England," he had, as
+instructed, applied for, and been given (June 1, 1621), the (first)
+"Council" patent for the colony.  For confirmation hereof one should see
+also the minutes of the "Council for New England" of March 25/April 4.,
+1623, and the fulsome letter of Robert Cushman returning thanks in behalf
+of the Planters (through John Pierce), to Gorges, for his prompt response
+to their request for a patent and for his general complacency toward them
+Hon. James Phinney Baxter, Gorges's able and faithful biographer, says:
+"We can imagine with what alacrity he [Sir Ferdinando] hastened to give
+to Pierce a patent in their behalf."  The same biographer, clearly
+unconscious of the well-laid plot of Gorges and Warwick (as all other
+writers but Neill and Davis have been), bears testimony (all the stronger
+because the witness is unwitting of the intrigue), to the ardent interest
+Gorges had in its success.  He says: "The warm desire of Sir Ferdinando
+Gorges to see a permanent colony founded within the domain of the
+Plymouth [or Second] Virginia Company was to be realized in a manner of
+which he had never dreamed [sic!] and by a people with whom he had but
+little sympathized, although we know that he favored their settlement
+within the territorial limits of the Plymouth [Second] Company." He had
+indeed "favored their settlement," by all the craft of which he was
+master, and greeted their expected and duly arranged advent with all the
+jubilant open-handedness with which the hunter treats the wild horse he
+has entrapped, and hopes to domesticate and turn to account. Everything
+favored the conspirators.  The deflection north-ward from the normal
+course of the ship as she approached the coast, bound for the latitude of
+the Hudson, required only to be so trifling that the best sailor of the
+Pilgrim leaders would not be likely to note or criticise it, and it was
+by no means uncommon to make Cape Cod as the first landfall on Virginia
+voyages.  The lateness of the arrival on the coast, and the difficulties
+ever attendant on doubling Cape Cod, properly turned to account, would
+increase the anxiety for almost any landing-place, and render it easy to
+retain the sea-worn colonists when once on shore.  The grand advantage,
+however, over and above all else, was the entire ease and certainty with
+which the cooperation of the one man essential to the success of the
+undertaking could be secured, without need of the privity of any other,
+viz. the Master of the MAY-FLOWER, Captain Thomas Jones.
+
+Let us see upon what the assumption of this ready and certain accord on
+the part of Captain Jones rests.  Rev. Dr. Neill, whose thorough study of
+the records of the Virginia Companies, and of the East India Company
+Calendars and collateral data, entitles him to speak with authority,
+recites that, "In 1617, Capt. Thomas Jones (sometimes spelled Joanes) had
+been sent to the East Indies in command of the ship LION by the Earl of
+Warwick (then Sir Robt. Rich), under a letter of protection from the Duke
+of Savoy, a foreign prince, ostensibly 'to take pirates,' which [pretext]
+had grown, as Sir Thomas Roe (the English ambassador with the Great
+Mogul) states, 'to be a common pretence for becoming pirate.'"  Caught by
+the famous Captain Martin Pring, in full pursuit of the junk of the Queen
+Mother of the Great Mogul, Jones was attacked, his ship fired in the
+fight, and burned,--with some of his crew,--and he was sent a prisoner to
+England in the ship BULL, arriving in the Thames, January 1, 1618/19.  No
+action seems to have been taken against him for his offences, and
+presumably his employer, Sir Robert, the coming Earl, obtained his
+liberty on one pretext or another.  On January 19, however, complaint was
+made against Captain Jones, "late of the LION," by the East India
+Company, "for hiring divers men to serve the King of Denmark in the East
+Indies."  A few days after his arrest for "hiring away the Company's men,
+Lord Warwick got him off" on the claim that he had employed him
+"to go to Virginia with cattle."  From the "Transactions" of the Second
+Virginia Company, of which--as we have seen--Sir Ferdinando Gorges was
+the leading spirit, it appears that on "February 2, 1619/20, a commission
+was allowed Captain Thomas Jones of the FALCON, a ship of 150 tons" [he
+having been lately released from arrest by the Earl of Warwick's
+intercession], and that "before the close of the month, he sailed with
+cattle for Virginia," as previously noted.  Dr. Neill, than whom there
+can be no better authority, was himself satisfied, and unequivocally
+states, that "Thomas Jones, Captain of the MAY-FLOWER, was without doubt
+the old servant of Lord Warwick in the East Indies."  Having done Sir
+Robert Rich's (the Earl of Warwick's) "dirty work" for years, and having
+on all occasions been saved from harm by his noble patron (even when
+piracy and similar practices had involved him in the meshes of the law),
+it would be but a trifling matter, at the request of such powerful
+friends as the Earl and Sir Ferdinando Gorges, to steal the Pilgrim
+Colony from the London Virginia Company, and hand it over bodily to the
+"Council for New England,"--the successor of the Second (Plymouth)
+Virginia Company,--in which their interests were vested, Warwick having,
+significantly, transferred his membership from the London Company to the
+new "Council for New England," as it was commonly called.  Neill states,
+and there is abundant proof, that "the Earl of Warwick and Gorges were in
+sympathy," and were active coadjutors, while it is self-evident that both
+would be anxious to accomplish the permanent settlement of the "Northern
+Plantations" held by their Company.  That they would hesitate to utilize
+so excellent an opportunity to secure so very desirable a colony, by any
+means available, our knowledge of the men and their records makes it
+impossible to believe,--while nothing could apparently have been easier
+of accomplishment.  It will readily be understood that if the
+conspirators were these men,--upon whose grace the Pilgrims must depend
+for permission to remain upon the territory to which they had been
+inveigled, or even for permission to depart from it, without spoliation,
+--men whose influence with the King (no friend to the Pilgrims) was
+sufficient to make both of them, in the very month of the Pilgrims'
+landing, "governors" of "The Council for New England," under whose
+authority the Planters must remain,--the latter were not likely to voice
+their suspicions of the trick played upon them, if they discovered it,
+or openly to resent it, when known. Dr. Dexter, in commenting on the
+remark of Bradford, "We made Master Jones our leader, for we thought it
+best herein to gratifie his kindness & forwardness," sensibly says,
+"This proves nothing either way, in regard to the charge which Secretary
+Morton makes of treachery against Jones, in landing the company so far
+north, because, if that were true, it was not known to any of the company
+for years afterward, and of course could not now [at that time] impair
+their feelings of confidence in, or kindness towards, him.  "Moreover,
+the phraseology, "we thought it best to gratifie," suggests rather
+considerations of policy than cordial desire, and their acquaintance,
+too, with the man was still young. There is, however, no evidence that
+Jones's duplicity was suspected till long afterward,  though his
+character was fully recognized.  Gorges himself furnishes, in his
+writings, the strongest confirmation we have of the already apparent
+fact, that he was himself the prime conspirator.  He says, in his own
+"Narration," "It was referred [evidently by himself] to their [the London
+Virginia Company's] consideration, how necessary it was that means might
+be used to draw unto those their enterprises, some of those families that
+had retired themselves into Holland for scruple of conscience, giving
+them such freedom and liberty as might stand with their liking."  When
+have we ever found Sir Ferdinando Gorges thus solicitous for the success
+of the rival Virginia Company?  Why, if he so esteemed the Leyden people
+as excellent colonists, did he not endeavor to secure them himself
+directly, for his own languishing company?  Certainly the "scruple of
+conscience" of the Leyden brethren did not hinder him, for he found it no
+bar, though of the Established Church himself, to giving them instantly
+all and more than was asked in their behalf, as soon as he had them upon
+his territory and they had applied for a patent.  He well knew that it
+would be matter of some expense and difficulty to bring the Leyden
+congregation into agreement to go to either of the Virginia grants, and
+he doubtless, and with good reason, feared that his repute and the
+character and reputation of his own Company, with its past history of
+failure, convict settlers, and loose living, would be repellent to these
+people of "conscience."  If they could be brought to the "going-point,"
+by men more of their ilk, like Sir Edwin Sandys, Weston, and others, it
+would then be time to see if he could not pluck the ripe fruit for
+himself,--as he seems to have done.
+
+"This advice," he says, "being hearkened unto, there were [those] that
+undertook the putting it in practice [Weston and others] and it was
+accordingly brought to effect," etc. Then, reciting (erroneously) the
+difficulties with the SPEEDWELL, etc., he records the MAY-FLOWER'S
+arrival at Cape Cod, saying, "The .  .  .  ship with great difficulty
+reached the coast of New England."  He then gives a glowing, though
+absurd, account of the attractions the planters found--in midwinter--
+especially naming the hospitable reception of the Indians, despite the
+fact of the savage attack made upon them by the Nausets at Cape Cod, and
+adds: "After they had well considered the state of their affaiis and
+found that the authority they had from the London Company of Virginia,
+could not warrant their abode in that place," which "they found so
+prosperous and pleasing [sic] they hastened away their ship, with orders
+to their Solicitor to deal with me to be a means they might have a grant
+from the Council of New England Affairs, to settle in the place, which
+was accordingly performed to their particular satisfaction and good
+content of them all."  One can readily imagine the crafty smile with
+which Sir Ferdinando thus guilelessly recorded the complete success of
+his plot.  It is of interest to note how like a needle to the pole the
+grand conspirator's mind flies to the fact which most appeals to him--
+that they find "that the authority they had .  .  .  could not warrant
+their abode in that place."  It is of like interest to observe that in
+that place which he called "pleasant and prosperous" one half their own
+and of the ship's company had died before they hastened the ship away,
+and they had endured trial, hardships, and sorrows untellable,--although
+from pluck and principle they would not abandon it.  He tells us "they
+hastened away their ship," and implies that it was for the chief purpose
+of obtaining through him a grant of the land they occupied.  While we
+know that the ship did not return till the following April,--and then at
+her Captain's rather than the Pilgrims' pleasure,--it is evident that
+Gorges could think of events only as incident to his designs and from his
+point of view.  His plot had succeeded.  He had the "Holland families"
+upon his soil, and his willing imagination converted their sober and
+deliberate action into the eager haste with which he had planned that
+they should fly to him for the patent, which his cunning had--as he
+purposed--rendered necessary.  Of course their request "was performed,"
+and so readily and delightedly that, recognizing John Pierce as their
+mouthpiece and the plantation as "Mr. Pierces Plantation," Sir Ferdinando
+and his associates--the "Council for New England," including his joint-
+conspirator, the Earl of Warwick--gave Pierce unhesitatingly whatever he
+asked. The Hon. William T. Davis, who alone among Pilgrim historians
+(except Dr. Neill, whom he follows) seems to have suspected the hand of
+Gorges in the treachery of Captain Jones, here demonstrated, has
+suggested that: "Whether Gorges might not have influenced Pierce, in
+whose name the patent of the Pilgrims had been issued--and whether both
+together might not have seduced Capt. Jones, are further considerations
+to be weighed, in solving the problem of a deviation from the intended
+voyage of the MAYFLOWER."  Although not aware of these suggestions,
+either of Mr. Davis or of Dr. Neill, till his own labors had satisfied
+him of Gorges's guilt, and his conclusions were formed, the author
+cheerfully recognizes the priority to his own demonstration, of the
+suggestions of both these gentlemen.  No thing appears of record,
+however, to indicate that John Pierce was in any way a party to Gorges's
+plot.  On the contrary, as his interest was wholly allied to his patent,
+which Gorges's scheme would render of little value to his associate
+Adventurers and himself he would naturally have been, unless heavily
+bribed to duplicity beyond his expectations from their intended venture,
+the last man to whom to disclose such a conspiracy.  Neither was he
+necessary in any way to the success of the scheme.  He did not hire
+either the ship or her master; he does not appear to have had any Pilgrim
+relations to Captain Jones, and certainly could have had no such
+influence with him as Gorges could himself command, through Warwick and
+his own ability--from his position at the head of the "New England
+Council"--to reward the service he required.  That Gorges was able
+himself to exert all the influence requisite to secure Jones's
+cooperation, without the aid of Pierce, who probably could have given
+none, is evident.  Mr. Davis's suggestion, while pertinent and potential
+as to Gorges, is clearly wide of the mark as to Pierce.  He represented
+the Adventurers in the matter of patents only, but Weston was in
+authority as to the pivotal matter of shipping.  An evidently hasty
+footnote of Dr. Neill, appended to the "Memorial" offered by him to the
+Congress of the United States, in 1868, seems to have been the only
+authority of Mr. William T. Davis for the foregoing suggestion as to the
+complicity of Pierce in the treachery of Captain Jones, except the bare
+suspicion, already alluded to, in the records of the London Company.
+Neill says: "Captain Jones, the navigator of the MAY-FLOWER, and John
+Pierce, probably had arranged as to destination without the knowledge of
+the passengers."  While of course this is not impossible, there is, as
+stated, absolutely nothing to indicate any knowledge, participation, or
+need of Pierce in the matter, and of course the fewer there were in the
+secret the better.
+
+Unobservant that John Pierce was acting upon the old adage, "second thief
+best owner," when he asked, a little later, even so extraordinary a thing
+as that the "Council for New England" would exchange the patent they had
+so promptly granted him (as representing his associates, the Adventurers
+and Planters) for a "deed-pole," or title in fee, to himself alone, they
+instantly complied, and thus unwittingly enabled him also to steal the
+colony, and its demesne beside. It is evident, from the very servile
+letter of Robert Cushman to John Pierce (written while the former was at
+New Plymouth, in November-December, 1621, on behalf of the MAY-FLOWER
+Adventurers), that up to that time at least, the Pilgrims had no
+suspicion of the trick which had been played upon them.  For, while too
+adroit recklessly to open a quarrel with those who could--if they chose--
+destroy them, the Pilgrims were far too high-minded to stoop to flattery
+and dissimulation (especially with any one known to have been guilty of
+treachery toward them), or to permit any one to do so in their stead.
+In the letter referred to, Cush man acknowledges in the name of the
+colonists the "bounty and grace of the President and Council of the
+Affairs of New England [Gorges, Warwick, et als.] for their allowance and
+approbation" of the "free possession and enjoyment" of the territory and
+rights so promptly granted Pierce by the Council, in the colonists'
+interest, upon application.  If the degree of promptness with which the
+wily Gorges and his associates granted the petition of Pierce, in the
+colony's behalf for authority to occupy the domain to which Gorges's
+henchman Jones had so treacherously conveyed them, was at all
+proportionate to the fulsome and lavish acknowledgments of Cushman,
+there must have been such eagerness of compliance as to provoke general
+suspicion at the Council table. Gorges and Warwick must have "grinned
+horribly behind their hands" upon receipt of the honest thanks of these
+honest planters and the pious benedictions of their scribe, knowing
+themselves guilty of detestable conspiracy and fraud, which had
+frustrated an honest purpose, filched the results of others' labors, and
+had "done to death" good men and women not a few.  Winslow, in
+"Hypocrisie Unmasked," says: "We met with many dangers and the mariners'
+put back into the harbor of the Cape."  The original intent of the
+Pilgrims to go to the neighborhood of the Hudson is unmistakable; that
+this intention was still clear on the morning of November 10 (not 9th)--
+after they had "made the land"--has been plainly shown; that there was no
+need of so "standing in with the land" as to become entangled in the
+"rips" and "shoals" off what is now known as Monomoy (in an effort to
+pass around the Cape to the southward, when there was plenty of open
+water to port), is clear and certain; that the dangers and difficulties
+were magnified by Jones, and the abandonment of the effort was urged and
+practically made by him, is also evident from Winslow's language above
+noted,--"and the mariners put back," etc.  No indication of the old-time
+consultations with the chief men appears here as to the matter of the
+return.  Their advice was not desired. "The mariners put back" on their
+own responsibility.
+
+Goodwin forcibly remarks, "These waters had been navigated by Gosnold,
+Smith, and various English and French explorers, whose descriptions and
+charts must have been familiar to a veteran master like Jones.  He
+doubtless magnified the danger of the passage [of the shoals], and managed
+to have only such efforts made as were sure to fail.  Of course he knew
+that by standing well out, and then southward in the clear sea, he would
+be able to bear up for the Hudson. His professed inability to devise any
+way for getting south of the Cape is strong proof of guilt."
+
+The sequential acts of the Gorges conspiracy were doubtless practically
+as follows:--
+
+(a) The Leyden leaders applied to the States General of Holland, through
+the New Netherland Company, for their aid and protection in locating at
+the mouth of "Hudson's" River;
+
+(b) Sir Dudley Carleton, the English ambassador at the Hague, doubtless
+promptly reported these negotiations to the King, through Sir Robert
+Naunton;
+
+(c) The King, naturally enough, probably mentioned the matter to his
+intimate and favorite, Sir Ferdinando Gorges, the leading man in American
+colonization matters in the kingdom;
+
+(d) Sir Ferdinando Gorges, recognizing the value of such colonists as the
+Leyden congregation would make, anxious to secure them, instead of
+permitting the Dutch to do so, and knowing that he and his Company would
+be obnoxious to the Leyden leaders, suggested, as he admits, to Weston,
+perhaps to Sandys, as the Leyden brethren's friends, that they ought to
+secure them as colonists for their (London) Company;
+
+(e) Weston was dispatched to Holland to urge the Leyden leaders to drop
+the Dutch negotiations, come under English auspices, which he guaranteed,
+and they, placing faith in him, and possibly in Sandys's assurances of
+his (London) Virginia Company's favor, were led to put themselves
+completely into the hands of Weston and the Merchant Adventurers; the
+Wincob patent was cancelled and Pierces substituted;
+
+(f) Weston, failing to lead them to Gorges's company, was next deputed,
+perhaps by Gorges's secret aid, to act with full powers for the
+Adventurers, in securing shipping, etc.;
+
+(g) Having made sure of the Leyden party, and being in charge of the
+shipping, Weston was practically master of the situation.  He and
+Cushman, who was clearly entirely innocent of the conspiracy, had the
+hiring of the ship and of her officers, and at this point he and his acts
+were of vital importance to Gorges's plans.  To bring the plot to a
+successful issue it remained only to effect the landing of the colony
+upon territory north of the 41 st parallel of north lati tude, to take it
+out of the London Company's jurisdiction, and to do this it was only
+necessary to make Jones Master of the ship and to instruct him
+accordingly.  This, with so willing a servant of his masters, was a
+matter of minutes only, the instructions were evidently given, and the
+success of the plot--the theft of the MAY-FLOWER colony--was assured.
+
+To a careful and candid student of all the facts, the proofs are
+seemingly unmistakable, and the conclusion is unavoid able, that the MAY-
+FLOWER Pilgrims were designedly brought to Cape Cod by Captain Jones, and
+their landing in that latitude was effected, in pursuance of a conspiracy
+entered into by him, not with the Dutch, but with certain of the nobility
+of England; not with the purpose of keeping the planters out of Dutch
+territory, but with the deliberate intent of stealing the colony from the
+London Virginia Company, under whose auspices it had organized and set
+sail, in the interest, and to the advantage, of its rival Company of the
+"Northern Plantations."
+
+It is noteworthy that Jones did not command the MAY-FLOWER for another
+voyage, and never sailed afterward in the employ of Thomas Goffe, Esq.,
+or (so far as appears) of any reputable shipowner.  Weston was not such,
+nor were the chiefs of the "Council for New England," in whose employ he
+remained till his death.
+
+The records of the Court of the "Council" show, that "as soon as it would
+do," and when his absence would tend to lull suspicion as to the parts
+played, Captain Jones's noble patrons took steps to secure for him due
+recognition and compensation for his services, from the parties who were
+to benefit directly, with themselves, by his knavery.  The records read:
+
+"July 17, 1622.  A motion was made in the behaffe of Captaine Thomas
+Jones, Captaine of the DISCOVERY, nowe employed in Virginia for trade and
+fishinge [it proved, apparently, rather to be piracy], that he may be
+admitted a freeman in this Companie in reward of the good service he hath
+there [Virginia in general] performed.  The Court liked well of the
+motion and condiscended thereunto."  The DISCOVERY left London at the
+close of November, 1621.  She arrived at Jamestown, Virginia, in April,
+1622. She reached Plymouth, New England, in August, 1622. Her outward
+voyage was not, so far as can be learned, eventful, or entitled to
+especial consideration or recognition, and the good store of English
+trading-goods she still had on hand--as Governor Bradford notices--on
+her arrival at Plymouth indicates no notable success up to that time, in
+the way of a trading-voyage, while "fishing" is not mentioned.  For
+piracy, in which she was later more successful, she had then had neither
+time nor opportunity.  The conclusion is irresistible, that "the good
+service" recognized by the vote recorded was of the past (he had sailed
+only the MAY-FLOWER voyage for the "Council" before), and that this
+recognition was a part of the compensation previously agreed upon, if,
+in the matter of the MAY-FLOWER voyage, Captain Jones did as he was
+bidden.  Thus much of the crafty Master of the MAY-FLOWER, Captain Thomas
+Jones,--his Christian name and identity both apparently beyond dispute,--
+whom we first know in the full tide of his piratical career, in the
+corsair LION in Eastern seas; whom we next find as a prisoner in London
+for his misconduct in the East, but soon Master of the cattle-ship FALCON
+on her Virginia voyage; whom we greet next--and best--as Admiral of the
+Pilgrim fleet, commander of the destiny freighted MAY-FLOWER, and though
+a conspirator with nobles against the devoted band he steered, under the
+overruling hand of their Lord God, their unwitting pilot to "imperial
+labors" and mighty honors, to the founding of empire, and to eternal
+Peace; whom we next meet--fallen, "like Lucifer, never to hope again"--
+as Captain of the little buccaneer,--the DISCOVERY, disguised as a
+trading-ship, on the Virginian and New England coasts; and lastly, in
+charge of his leaking prize, a Spanish frigate in West Indian waters,
+making his way--death-stricken--into the Virginia port of Jamestown,
+where (July, 1625), he "cast anchor" for the last time, dying, as we
+first found him, a pirate, to whom it had meantime been given to
+"minister unto saints."
+
+Of JOHN CLARKE, the first mate of the MAY-FLOWER, we have already learned
+that he had been in the employ of the First (or London) Virginia Company,
+and had but just returned (in June, 1620) from a voyage to Virginia with
+Captain Jones in the FALCON, when found and employed by Weston and
+Cushman for the Pilgrim ship.  Dr. Neill quotes from the "Minutes of the
+London Virginia Company," of Wednesday, February 13/23, 1621/2, the
+following; which embodies considerable information concerning him:--
+
+"February 13th, 1621.  Master Deputy acquainted the Court, that one Master
+John Clarke being taken from Virginia long since [Arber interpolates,
+"in 1612"] by a Spanish ship that came to discover the Plantation, that
+forasmuch as he hath since that time done the Company presumably the
+First (or London) Virginia Company good service in many voyages to
+Virginia; and, of late [1619] went into Ireland, for the transportation of
+cattle to Virginia; he was a humble suitor to this Court that he might be
+a Free brother of the Company, and have some shares of land bestowed upon
+him."
+
+From the foregoing he seems to have begun his American experiences as
+early as 1612, and to have frequently repeated them.  That he was at once
+hired by Weston and Cushman as a valuable man, as soon as found, was not
+strange.
+
+He seems to have had the ability to impress men favorably and secure
+their confidence, and to have been a modest and reliable man.  Although
+of both experience and capacity, he continued an under-officer for some
+years after the Pilgrim voyage, when, it is fair to suppose, he might
+have had command of a ship.  He seems to have lacked confidence in
+himself, or else the breadth of education necessary to make him trust his
+ability as a navigator.
+
+He is not mentioned, in connection with the affairs of the Pilgrims,
+after he was hired as "pilot,"--on Saturday afternoon the 10th of June,
+1620, at London,--until after the arrival at Cape Cod, and evidently was
+steadily occupied during all the experience of "getting away" and of the
+voyage, in the faithful performance of his duty as first mate (or
+"pilot") of the MAY-FLOWER.  It was not until the "third party" of
+exploration from Cape Cod harbor was organized and set out, on Wednesday,
+December 6, that he appeared as one of the company who put out in the
+shallop, to seek the harbor which had been commended by Coppin, "the
+second mate."  On this eventful voyage--when the party narrowly escaped
+shipwreck at the mouth of Plymouth harbor--they found shelter under the
+lee of an island, which (it being claimed traditionally that he was first
+to land there on) was called, in his honor, "Clarke's Island," which name
+it retains to this day.  No other mention of him is made by name, in the
+affairs of ship or shore, though it is known inferentially that he
+survived the general illness which attacked and carried off half of the
+ship's company.  In November, 1621,--the autumn following his return from
+the Pilgrim voyage,--he seems to have gone to Virginia as "pilot" (or
+"mate") of the FLYING HART, with cattle of Daniel Gookin, and in 1623 to
+have attained command of a ship, the PROVIDENCE, belonging to Mr. Gookin,
+on a voyage to Virginia where he arrived April 10, 1623, but died in that
+colony soon after his arrival. He seems to have been a competent and
+faithful man, who filled well his part in life.  He will always have
+honorable mention as the first officer of the historic MAY-FLOWER, and as
+sponsor at the English christening of the smiling islet in Plymouth
+harbor which bears his name.
+
+Of ROBERT COPPIN, the "second mate" (or "pilot") of the MAY-FLOWER,
+nothing is known before his voyage in the Pilgrim ship, except that he
+seems to have made a former  to the coast of New England and the vicinity
+of Cape Cod, though under what auspices, or in what ship, does not
+transpire.  Bradford says: "Their Pilotte, one Mr. Coppin, who had been
+in the countrie before."  Dr. Young a suggests that Coppin was perhaps on
+the coast with Smith or Hunt.  Mrs. Austin imaginatively makes him, of
+"the whaling bark SCOTSMAN of Glasgow," but no warrant whatever for such
+a conception appears.
+
+Dr. Dexter, as elsewhere noted, has said: "My impression is that Coppin
+was originally hired to go in the SPEEDWELL, .  .  that he sailed with
+them [the Pilgrims] in the SPEED WELL, but on her final putting back was
+transferred to the MAY-FLOWER."  As we have seen in another relation,
+Dr. Dexter also believed Coppin to have been the "pilot" sent over by
+Cushman to Leyden, in May, 1620, and we have found both views to be
+untenable.  It was doubtless because of this mistaken view that Dr.
+Dexter believed that Coppin was "hired to go in the SPEEDWELL," and, the
+premise being wrong, the conclusion is sequentially incorrect.  But there
+are abundant reasons for thinking that Dexter's "impression" is wholly
+mistaken.  It would be unreasonable to suppose (as both vessels were
+expected to cross the ocean), that each had not--certainly on leaving
+Southampton her full complement of officers.  If so, each undoubtedly had
+her second mate.  The MAY-FLOWER'S officers and crew were, as we know,
+hired for the voyage, and there is no good reason to suppose that the
+second mate of the MAY-FLOWER was dismissed at Plymouth and Coppin put in
+his place which would not be equally potent for such an exchange between
+the first mate of the SPEEDWELL and Clarke of the MAY-FLOWER.  The
+assumption presumes too much.  In fact, there can be no doubt that
+Dexter's misconception was enbased upon, and arose from, the unwarranted
+impression that Coppin was the "pilot" sent over to Leyden.  It is not
+likely that, when the SPEEDWELL'S officers were so evidently anxious to
+escape the voyage, they would seek transfer to the MAY-FLOWER.
+
+Charles Deane, the editor of Bradford's "Historie" (ed.1865), makes, in
+indexing, the clerical error of referring to Coppin as the "master-
+gunner," an error doubtless occasioned by the fact that in the text
+referred to, the words, "two of the masters-mates, Master Clarke and
+Master Coppin, the master-gunner," etc., were run so near together that
+the mistake was readily made.
+
+In "Mourt's Relation" it appears that in the conferences that were held
+aboard the ship in Cape Cod harbor, as to the most desirable place for
+the colonists to locate, "Robert Coppin our pilot, made relation of a
+great navigable river and great harbor in the headland of the Bay, almost
+right over against Cape Cod, being a right line not much above eight
+leagues distant," etc.  Mrs. Jane G. Austin asserts, though absolutely
+without warrant of any reliable authority, known tradition, or
+probability, that "Coppin's harbor .  .  . afterward proved to be Cut
+River and the site of Marshfield," but in another place she contradicts
+this by stating that it was "Jones River, Duxbury."  As Coppin described
+his putative harbor, called "Thievish Harbor," a "great navigable river
+and good harbor" were in close relation, which was never true of either
+the Jones River or "Cut River" localities, while any one familiar with
+the region knows that what Mrs. Austin knew as "Cut River" had no
+existence in the Pilgrims' early days, but was the work of man,
+superseding a small river-mouth (Green Harbor River), which was so
+shallow as to have its exit closed by the sand-shift of a single storm.
+
+Young, with almost equal recklessness, says: "The other headland of the
+bay, alluded to by Coppin, was Manomet Point, and the river was probably
+the North River in Scituate; "but there are no "great navigable river and
+good harbor" in conjunction in the neighborhood of Manomet, or of the
+North River,--the former having no river and the latter no harbor.  If
+Coppin had not declared that he had never seen the mouth of Plymouth
+harbor before ("mine eyes never saw this place before"), it might readily
+have been believed that Plymouth harbor was the "Thievish Harbor" of his
+description, so well do they correspond.
+
+Goodwin, the brother of Mrs. Austin, quite at variance with his sister's
+conclusions, states, with every probability confirming him, that the
+harbor Coppin sought "may have been Boston, Ipswich, Newburyport, or
+Portsmouth."
+
+As a result of his "relation" as to a desirable harbor, Coppin was made
+the "pilot" of the "third expedition," which left the ship in the
+shallop, Wednesday, December 6, and, after varying disasters and a narrow
+escape from shipwreck--through Coppin's mistake--landed Friday night
+after dark, in the storm, on the island previously mentioned, ever since
+called "Clarke's Island," at the mouth of Plymouth harbor.
+
+Nothing further is known of Coppin except that he returned to England
+with the ship.  He has passed into history only as Robert Coppin, "the
+second mate" (or "pilot") of the MAY-FLOWER.
+
+
+But one other officer in merchant ships of the MAY-FLOWER class in her
+day was dignified by the address of "Master" (or Mister), or had rank
+with the Captain and Mates as a quarter-deck officer,--except in those
+instances where a surgeon or a chaplain was carried.  That the MAY-FLOWER
+carried no special ship's-surgeon has been supposed from the fact of Dr.
+Fuller's attendance alike on her passengers and crew, and the increased
+mortality of the seamen--after his removal on shore.
+
+     [The author is greatly indebted to his esteemed friend, Mr. George
+     Ernest Bowman, Secretary-General of the Society of MAY-FLOWER
+     Descendants, for information of much value upon this point. He
+     believes that he has discovered trustworthy evidence of the
+     existence of a small volume bearing upon its title-page an
+     inscription that would certainly indicate that the MAY-FLOWER had
+     her own surgeon. A copy of the inscription, which Mr. Bowman
+     declares well attested (the book not being within reach), reads as
+     follows:--
+               "To Giles Heale Chirurgeon,
+                         from Isaac Allerton
+                                   in Virginia.
+          Feb. 10, 1620."
+
+     Giles Heale's name will be recognized as that of one of the
+     witnesses to John Carver's copy of William Mullens's nuncupative
+     will, and, if he was the ship's-surgeon, might very naturally appear
+     in that relation.  If book and inscription exist and the latter is
+     genuine, it would be indubitable proof that Heale (who was surely
+     not a MAY-FLOWER passenger) was one of the ship's company, and if a
+     "chirurgeon," the surgeon of the ship, for no other Englishmen,
+     except those of the colonists and the ship's company, could have
+     been at New Plymouth, at the date given, and New England was then
+     included in the term "Virginia."  It is much to be hoped that Mr.
+     Bowman's belief may be established, and that in Giles Heale we shall
+     have another known officer, the surgeon, of the MAY-FLOWER.]
+
+That she had no chaplain goes without saying.  The Pilgrims had their
+spiritual adviser with them in the person of Elder Brewster, and were not
+likely to tolerate a priest of either the English or the Romish church on
+a vessel carrying them.  The officer referred to was the representative
+of the business interests of the owner or chartering-party, on whose
+account the ship made the voyage; and in that day was known as the
+"ship's-merchant," later as the "purser," and in some relations as the
+"supercargo."  No mention of an officer thus designated, belonging to the
+MAY-FLOWER, has ever been made by any writer, so far as known, and it
+devolves upon the author to indicate his existence and to establish, so
+far as possible, both this and his identity.
+
+A certain "Master Williamson," whose name and presence, though but once
+mentioned by Governor Bradford, have greatly puzzled Pilgrim historians,
+seems to have filled this berth on board the MAY-FLOWER.  Bradford tells
+us that on Thursday, March 22, 1620/21, "Master Williamson" was
+designated to accompany Captain Standish--practically as an officer
+of the guard--to receive and escort the Pokanoket chief, Massasoit,
+to Governor Carver, on the occasion of the former's first visit of state.
+Prior to the recent discovery in London, by an American genealogist, of a
+copy of the nuncupative will of Master William Mullens, one of the MAY-
+FLOWER Pilgrims, clearly dictated to Governor John Carver on board the
+ship, in the harbor of New Plymouth (probably) Wednesday, February 21,
+1620 (though not written out by Carver till April 2, 1620), on which day
+(as we learn from Bradford), Master Mullens died, no other mention of
+"Master Williamson" than that above quoted was known, and his very
+existence was seriously questioned.  In this will, as elsewhere noted,
+"Master Williamson" is named as one of the "Overseers."  By most early
+writers it was held that Bradford had unwittingly substituted the name
+"Williamson" for that of Allerton, and this view--apparently for no
+better reasons than that both names had two terminal letters in common,
+and that Allerton was associated next day with Standish on some military
+duty--came to be generally accepted, and Allerton's name to be even
+frequently substituted without question.---Miss Marcia A. Thomas, in her
+"Memorials of Marshfield" (p. 75), says: "In 1621, Master Williamson,
+Captain Standish, and Edward Winslow made a journey to make a treaty with
+Massasoit.  He is called 'Master George,' meaning probably Master George
+Williamson," etc.
+
+This is certainly most absurd, and by one not familiar with the
+exceptional fidelity and the conscientious work of Miss Thomas would
+rightly be denounced as reckless and reprehensible fabrication.  Of
+course Williamson, Standish, and Winslow made no such journey, and made
+no treaty with Massasoit, but aided simply in conducting, with due
+ceremonial, the first meeting between Governor John Carver and the Indian
+sachem at Plymouth, at which a treaty was concluded.  There is no
+historical warrant whatever for the name of "George," as appertaining to
+"Master William son."  The fact, however,--made known by the fortunate
+discovery mentioned,--that "Master Williamson" was named in his will by
+Master Mullens as one of its "Overseers," and undoubtedly probated the
+will in England, puts the existence of such a person beyond reasonable
+doubt. That he was a person of some dignity, and of very respectable
+position, is shown by the facts that he was chosen as Standish's
+associate, as lieutenant of the guard, on an occasion of so much
+importance, and was thought fit by Master Mullens, a careful and clear-
+headed man as his will proves,--to be named an "Overseer" of that will,
+charged with responsible duties to Mullens's children and property.
+It is  practically certain that on either of the above-mentioned dates
+(February 21, or March 22) there were no human beings in the Colony of
+New Plymouth beside the passengers of the MAY-FLOWER, her officers and
+crew, and the native savages.  Visitors, by way of the fishing vessels on
+the Maine coast, had not yet begun to come, as they did a little later.
+It is certain that no one of the name of "Williamson" was among the
+colonist passengers, or indeed for several years in the colony, and we
+may at once dismiss both the passengers and the savages from our
+consideration.  This elimination renders it inevitable that "Master
+Williamson" must have been of the ship's company.  It remains to
+determine, if possible, what position upon the MAY-FLOWER'S roster he
+presumably held. His selection by "Master" Mullens as one of the "Over
+seers" of his will suggests the probability that, having named Governor
+Carver as the one upon whom he would rely for the care of his family and
+affairs in New England, Mr. Mullens sought as the other a proper person,
+soon to return to England, and hence able to exercise like personal
+interest in his two children and his considerable property left there?
+Such a suggestion points to a returning and competent officer of the
+ship.  That "Master Williamson" was above the grade of "petty officer,"
+and ranked at least with the mates or "pilots," is clear from the fact
+that he is invariably styled "Master" (equivalent to Mister), and we know
+with certainty that he was neither captain nor mate. That he was a man of
+address and courage follows the fact that he was chosen by Standish as
+his lieutenant, while the choice in and of itself is a strong bit of
+presumptive proof that he held the position on the MAY-FLOWER to which he
+is here assigned.
+
+The only officer commonly carried by a ship of the MAY-FLOWER class,
+whose rank, capacities, and functions would comport with every fact and
+feature of the case, was "the ship's-merchant," her accountant, factor,
+and usually--when such was requisite--her "interpreter," on every
+considerable (trading) voyage.
+
+It is altogether probable that it was in his capacity of "interpreter"
+(as Samoset and Tisquantum knew but little English), and on account of
+what knowledge of the Indian tongue he very probably possessed, that
+Standish chose Williamson as his associate for the formal reception of
+Massasoit.  It is indeed altogether probable that it was this familiarity
+with the "trade lingo" of the American coast tribes which influenced--
+perhaps determined--his employ ment as "ship's-merchant" of the MAY-
+FLOWER for her Pilgrim voyage, especially as she was expected to "load
+back" for England with the products of the country, only to be had by
+barter with the Indians.  It is evident that there must naturally have
+been some provision made for communication with the natives, for the
+purposes of that trade, etc., which the Planters hoped to establish.
+Trading along the northern coast of Virginia (as the whole coast strip
+was then called), principally for furs, had been carried on pretty
+actively, since 1584, by such navigators as Raleigh's captains, Gosnold,
+Pring, Champlain, Smith, Dermer, Hunt, and the French and Dutch, and much
+of the "trade lingo" of the native tribes had doubtless been "picked up"
+by their different "ship's-merchants."  It appears by Bradford' that
+Dermer, when coasting the shores of New England, in Sir Ferdinando
+Gorges's employ, brought the Indian Tisquantum with him, from England,
+as his interpreter, and doubtless from him Dermer and other ship's
+officers "picked up" more or less Indian phrases, as Tisquantum (Squanto)
+evidently did of English.  Winslow, in his "Good Newes from New England,"
+written in 1622, says of the Indian tongue, as spoken by the tribes about
+them at Plymouth, "it is very copious, large, and difficult.  As yet we
+cannot attain to any great measure thereof, but can understand them, and
+explain ourselves to their understanding, by the help of those that daily
+converse with us."  This being the case, after two years of constant
+communication, and noting how trivial knowledge of English speech Samoset
+and Tisquantum had, it is easy to understand that, if Williamson had any
+knowledge of the native tongue, Standish would be most anxious to have
+the benefit of it, in this prime and all-important effort at securing a
+permanent alliance with the ruling sachem of the region.  Bradford, in
+"Mourt's Relation," speaking of the speech of Governor Carver to
+Massasoit, says: "He [Massasoit] liked well of the speech and heard it
+attentively, though the interpreters did not well express it."  Probably
+all three, Tisquantum, Samoset, and Williamson, had a voice in it.
+
+That "Master Williamson" was a veritable person at New Plymouth, in
+February and March, 1620/21, is now beyond dispute; that he must have
+been of the ship's company of the MAY-FLOWER is logically certain; that
+he was one of her officers, and a man of character, is proven by his
+title of "Master" and his choice by Standish and Mullens for exceptional
+and honorable service; that the position of "ship's-merchant" alone
+answers to the conditions precedent, is evident; and that such an officer
+was commonly carried by ships of the MAY-FLOWER class on such voyages as
+hers is indicated by the necessity, and proven by the facts known as to
+other ships on similar New England voyages, both earlier and later.  The
+fact that he was called simply "Master Williamson," in both cases where
+he is mentioned, with out other designation or identification, is highly
+significant, and clearly indicates that he was some one so familiarly
+known to all concerned that no occasion for any further designation
+apparently occurred to the minds of Mullens, Carver, or Bradford, when
+referring to him.  In the case of Master John Hampden, the only other
+notable incognito of early Pilgrim literature, the description is full,
+and the only question concerning him has been of his identity with John
+Hampden, the English patriot of the Cromwellian era.  It is, therefore,
+not too much to assert that the MAY-FLOWER carried a "ship's-merchant"
+(or purser), and that "Master Williamson" was that officer.  If close-
+linked circumstantial evidence is ever to be relied upon, it clearly
+establishes in this case the identity of the "Master Williamson" who was
+Governor Bradford's incognito, and the person of the same name mentioned
+a month earlier in "Master" Mullens's will; as also the fact that in him
+we have a new officer of the MAY FLOWER, hitherto unknown as such to
+Pilgrim literature.  If Mr. Bowman's belief as to Giles Heale (see note)
+proves correct, we have yet another, the Surgeon.
+
+The Carpenter, Gunner, Boatswain, Quartermaster, and "Masters-mates" are
+the only "petty officers" of the Pilgrim ship of whom any record makes
+mention.  The carpenter is named several times, and was evidently, as
+might be expected, one of the most useful men of the ship's crew.  Called
+into requisition, doubtless, in the conferences as to the condition of
+the SPEEDWELL, on both of her returns to port, at the inception of the
+voyage, he was especially in evidence when, in mid-ocean, "the cracking
+and bending of a great deck-beam," and the "shaken" condition of "the
+upper works" of the MAY-FLOWER, gave rise to much alarm, and it was by
+his labors and devices, and the use of the now famous "jack-screw," that
+the bending beam and leaking deck were made secure.  The repairs upon the
+shallop in Cape Cod harbor also devolved upon him, and mention is made of
+his illness and the dependence placed upon him. No doubt, in the
+construction of the first dwellings and of the ordnance platform on the
+hill, etc., he was the devising and principal workman.  He undoubtedly
+returned to England with the ship, and is known in history only by his
+"billet," as "the carpenter" of the MAY-FLOWER.
+
+The Master Gunner seems to have been a man with a proclivity for Indian
+barter, that led him to seek a place with the "third expedition" at Cape
+Cod, thereby nearly accomplishing his death, which indeed occurred later,
+in Plymouth harbor, not long before the return of the ship.
+
+The Boatswain is known, by Bradford's records, to have died in the
+general sickness which attacked the crew while lying in Plymouth harbor.
+The brief narrative of his sickness and death is all that we know of his
+personality.  The writer says: "He was a proud young man, and would often
+curse and scoff at the passengers," but being nursed when dying, by those
+of them who remained aboard, after his shipmates had deserted him in
+their craven fear of infection, "he bewailed his former conduct," saying,
+"Oh! you, I now see, show your love like Christians indeed, one to
+another, but we let one another lie and die like dogs."
+
+Four Quartermasters are mentioned (probably helmsmen simply), of whom
+three are known to have died in Plymouth harbor.
+
+"Masters-mates" are several times mentioned, but it is pretty certain
+that the "pilots" (or mates) are intended. Bradford and Winslow, in
+"Mourt's Relation," say of the reappearance of the Indians: "So Captain
+Standish, with another [Hopkins], with their muskets, went over to them,
+with two of the masters-mates that follow them without [side?] arms,
+having two muskets with them: Who these "masters-mates" were does not
+appear."  The language, "two of the masters-mates," would possibly suggest
+that there were more of them.  It hardly seems probable that both the
+mates of the MAY-FLOWER would thus volunteer, or thrust themselves
+forward in such a matter, and it seems doubtful if they would have been
+permitted (even if both ashore at one time, which, though unusual, did
+occur), to assume such duty. Whoever they were, they did not lack
+courage.
+
+The names of the petty officers and seamen of the MAY-FLOWER do not
+appear as such, but the discovery of the (evidently) nuncupative will of
+William Mullens--herein referred to--has perhaps given us two of them.
+Attached to John Carver's certificate of the particulars of this will,
+filed at Somerset House, London, are the names, "Giles Heale" and
+"Christopher Joanes."  As Mr Mullens died Wednesday, February 21, 1620,
+on board the MAY-FLOWER in Plymouth harbor, on which day we know from
+Bradford' that "the Master [Jones, whose name was Thomas] came on shore
+with many of his sailors," to land and mount the cannon on the fort, and
+as they had a full day's work to draw up the hill and mount five guns,
+and moreover brought the materials for, and stayed to eat, a considerable
+dinner with the Pilgrims, they were doubtless ashore all day.  It is
+rational to interpret the known facts to indicate that in this absence of
+the Captain and most of his crew ashore, Mr. Mullens, finding himself
+failing fast, sent for Governor Carver and--unable to do more than speak
+--dictated to him the disposition of his property which he desired to
+make.  Carver, noting this down from his dictation, undoubtedly called in
+two of the ship's company (Heale very likely being the ship's-surgeon),
+who were left aboard to "keep ship," to hear his notes read to Mullens
+and assented to by him, they thus becoming the witnesses to his will, to
+the full copy of which, as made by Carver (April 2), they affixed their
+names as such.  As there were then at Plymouth (besides savages) only the
+passengers and crew of the MAY-FLOWER, and these men were certainly not
+among the passengers, it seems inevitable that they were of the crew.
+That "Christopher Joanes" was not the Master of the ship is clear,
+because Heale's is the first signature, and no man of the crew would have
+dared to sign before the Captain; because the Captain's name was (as
+demonstrated) Thomas; and because we know that he was ashore all that
+day, with most of his men.  It is by no means improbable that Captain
+Jones had shipped one of his kinsmen in his crew, possibly as one of the
+"masters mates" or quartermasters referred to (and it is by no means
+certain that there were not more than two), though these witnesses may
+have been quartermasters or other petty officers left on board as "ship-
+keepers."  Certain it is that these two witnesses must have been of the
+crew, and that "Christopher Joanes" was not the Captain, while it is
+equally sure, from the collateral evidence, that Master Mullens died on
+shipboard.  Had he died on shore it is very certain that some of the
+leaders, Brewster, Bradford, or others, would have been witnesses, with
+such of the ship's officers as could aid in proving the will in England.
+It is equally evident that the officers of the ship were absent when
+Master Mullens dictated his will, except perhaps the surgeon.
+
+The number of seamen belonging to the ship is nowhere definitely stated.
+At least four in the employ of the Pilgrims were among the passengers
+and not enrolled upon the ships' lists.  From the size of the ship,
+the amount of sail she probably carried, the weight of her anchors,
+and certain other data which appear,--such as the number allowed to
+leave the ship at a time, etc.,--it is probably not a wild estimate to
+place their number at from twenty to twenty-five. This is perhaps a
+somewhat larger number than would be essential to work the ship, and than
+would have been shipped if the voyage had been to any port of a civilized
+country; but on a voyage to a wild coast, the possibilities of long
+absence and of the weakening of the crew by death, illness, etc.,
+demanded consideration and a larger number.  The wisdom and necessity
+of carrying, on a voyage to an uninhabited country, some spare men,
+is proven by the record of Bradford, who says: "The disease begane to
+fall amongst them the seamen also, so as allmost halfe of their company
+dyed before they went away and many of their officers and lustyest men;
+as ye boatson, gunner, 3 quarter maisters, the cooke, and others."
+
+The LADY ARBELLA, the "Admiral" of Governor Winthrop's fleet, a ship of
+350 tons, carried 52 men, and it is a fair inference that the MAY-FLOWER,
+of a little more than half her tonnage, would require at least half as
+many. It is, therefore, not unlikely that the officers and crew of the
+MAY-FLOWER, all told, mustered thirty men, irrespective of the sailors,
+four in number (Alderton, English, Trevore, and Ely), in the Pilgrims'
+employ.
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+As 1620 did not begin until March 25
+Crime--for such it was, in inception, nature, and results
+Malevolence rarely exercised except toward those one has wronged
+The old adage, "second thief best owner"
+Theft of the MAY-FLOWER colony
+
+
+
+
+End of this Project Gutenberg Etext of The Mayflower and Her Log, v3
+by Azel Ames
+

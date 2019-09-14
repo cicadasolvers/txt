@@ -1,0 +1,3594 @@
+The Project Gutenberg EBook of The Magazine Style-Code, by Leigh H. Irvine
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: The Magazine Style-Code
+
+Author: Leigh H. Irvine
+
+Release Date: November 5, 2012 [EBook #41289]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE MAGAZINE STYLE-CODE ***
+
+
+
+
+Produced by Greg Bergquist, Jennifer Linklater, and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+(This file was produced from images generously made
+available by The Internet Archive/American Libraries.)
+
+
+
+
+
+
+  PUBLISHED BY
+  THE MYSELL-ROLLINS BANK NOTE CO.
+
+
+
+
+  THE
+  MAGAZINE
+  STYLE-CODE
+
+  BY
+  LEIGH H. IRVINE
+
+
+  CROWN PUBLISHING CO.
+  SAN FRANCISCO
+  1906
+
+  PRINTERS LITHOGRAPHERS ENGRAVERS
+  22 Clay Street, San Francisco, Cal.
+
+
+
+
+  THE MAGAZINE STYLE-CODE
+
+  A MANUAL FOR THE GUIDANCE OF AUTHORS,
+  REPORTERS, TYPEWRITERS, MINISTERS,
+  LAWYERS, PROOFREADERS, COMPOSITORS,
+  PUBLISHERS, AND
+  ALL WHO WRITE.
+
+  LARGELY CODIFIED FROM THE SYSTEM OF
+  THEODORE LOW DE VINNE, FROM THE
+  CENTURY MAGAZINE, THE CENTURY
+  COMPANY'S BOOKS,
+  AND THE TREATISES
+  OF F. HORACE
+  TEALL.
+
+  ABBREVIATIONS, THE USE OF CAPITAL
+  LETTERS, COMPOUND WORDS,
+  ETC., FULLY ILLUSTRATED
+  AND EXPLAINED.
+
+  BY
+  LEIGH H. IRVINE
+
+  _Author of The New California, An Affair in the South Seas,
+  The Writer's Blue Book, and Other Works._
+
+  CROWN PUBLISHING COMPANY
+  SAN FRANCISCO.
+  1906.
+
+  _Copyright, 1906_,
+  SAMUEL EPPSTEIN
+
+
+  DEDICATED
+  TO
+  THEODORE LOW DE VINNE,
+
+  WHOSE WORKS ON TYPOGRAPHY HAVE BEEN
+  THE AUTHOR'S GUIDE AND INSPIRATION
+  IN THE PREPARATION OF
+  THIS LITTLE BOOK.
+
+
+
+
+SOURCES OF AUTHORITY.
+
+
+=1.= It is to be regretted that every publishing-house does not start on
+the principle that a thorough system of doing things right should
+precede the turning out of printed matter; but the press of business is
+so great, the demands for 'rush work' are so many, that system comes
+last, if at all. Managers are busy with the cash account and the
+pay-roll, for which reason a great deal is left to chance.
+
+Thus it falls that the negligence, incompetence, or preoccupation of
+printing-office managers makes good systems of typography the exception
+rather than the rule. It is a reflection on the art preservative that
+the slipshod methods and unscholarly composition of the daily newspaper
+type often corrupt the pages of trade-and class-publications, as well as
+of magazines and books. See paragraph 45 of this book for an explanation
+of the use of hyphens in the foregoing sentence. See paragraph 68 for
+the use of single quote-marks herein.
+
+The hurried work of newspapermen may be partly excused on the ground of
+haste, yet in another sense it requires no more time to do a thing the
+right way than to do it the wrong way.
+
+Printing-houses that pretend to turn out careful work, such as
+publishing books and periodicals, should follow some model of
+unquestioned authority; but as proper exemplars are not often at hand,
+the daily newspaper, being omnipresent, is taken for a pattern.
+
+The purpose of this handbook is to furnish a guide based on the
+scholarship and technical knowledge of some of the world's greatest
+authors and printers. As blunders and inconsistencies creep into print
+everywhere, even when special care is taken to avoid them, the author
+expects this very work to be an example of the mistakes it warns others
+to avoid. Such shortcomings as here appear, however, should serve to
+emphasize the need of great pains by all who write and print.
+
+Some years ago it fell to the author to harmonize the style-codes of
+three printing-houses that were doing work for him. In seeking a model
+of accuracy and typographical neatness the system expounded by Theodore
+Low De Vinne, used by the _Century Magazine_ and the Century Company,
+was chosen.
+
+It was discovered that there never has been any formal style-code in use
+by the De Vinne-Century printers. They have learned the style by
+studying De Vinne's _Correct Composition_ and like works of his on
+typography. Office experience teaches printers the written and unwritten
+laws of the De Vinne code.
+
+The method of the Century printers has been largely the method of the
+author of this manual. By correspondence with Mr. De Vinne, by studying
+his books, and by the practical application of his rules to the work of
+many offices the writer has come to know his methods, which are believed
+to be the simplest and most scholarly in use in the United States
+to-day. More than eighty per cent of the rules herein expounded are
+codified from the works of De Vinne, or gleaned from Teall and similar
+sources of indisputable authority. The work of the Chicago Proofreaders'
+Association has been found helpful in the compounding of words.
+
+System is as necessary in a printing-house as in a bank, and
+classification and obedience to the law of the office are absolutely
+essential to the production of correct composition. Since many editors
+and patrons, authors and others are usually either careless or untrained
+in the art of preparing copy, the printer must be extremely painstaking
+and methodic, or his work will be censured, and he will be blamed for
+every fault that shows itself in 'cold type.' The owners of newspapers
+printed at other men's offices are especially unreasonable when mistakes
+occur. No matter how careless such customers are with their work, they
+expect the printer to be infallible. Every publisher of wide experience
+will corroborate this statement. The skilful writer expects reasonable
+accuracy, the ignoramus wants printers to be Macaulays and mind-readers
+as well.
+
+
+=2. Why Style-codes are Necessary.= Style-codes are necessary because
+much of the copy that is presented to printers is neither written nor
+edited with reference to accuracy, consistency, or the rules of orderly
+typography. Indeed much copy is not edited at all; it reaches the case
+or the machine with its original crudities thick upon it, and if
+blunders are discovered by the public the slovenly authors defend
+themselves by charging them to 'errors of the types,' or blunders of the
+printers. On account of the general carelessness of writers, style-codes
+are necessary; they enable printers and proofreaders to hold writers
+within reasonable bounds. If all things were written just as they should
+be printed, style-codes would be useless.
+
+
+=3. Edited Manuscripts Save Money.= Just as short words and short,
+simple sentences save the time and energy required to gather the meaning
+that would be clouded by the use of long, involved sentences, so clearly
+written and accurately prepared manuscripts save time, energy, and money
+in the printing-office.
+
+Typewritten copy is almost a necessity in this busy age, but whether
+penned or typed, manuscripts should be consistent in style, and above
+all readily legible. Fast typesetting machines should not be made slow
+and expensive by the carelessness and indistinct manuscripts of editors
+and other writers for the press.
+
+
+=4. Uniformity is Essential to Success.= Uniformity in the method of
+using capital letters, compound words, punctuation marks, etc., is
+essential where any care is taken with printed matter. It is astonishing
+that many editors, reporters, ministers, lawyers, and others who write
+for publication are not only ignorant of typographical niceties, but of
+fundamentals as well. Going further, it may be said that many
+printing-houses are conducted in a haphazard way, as if uniformity and
+accuracy were luxuries beyond price. Even under the best system,
+contradictions and other errors are certain to abound. The best that can
+be expected is to reduce blunders to the minimum.
+
+
+=5. Passing the Blame to Printers.= Many writers pass the responsibility
+and the blame to printers. This is a slovenly and unreasonable course.
+Printers do not agree, some are incompetent, all are busy with other
+details than editing copy, and it is not the duty of printers to correct
+the blunders of writers. Again, a printer may see but a fraction of a
+given manuscript, and may not know, unless there is an office
+style-card, what system is the author's desire. A style-card will show
+printers the way out of many dark places, and will overcome many of the
+obstacles presented by the copy of untrained editors and writers. In
+well-arranged offices, however, the compositor's right to make changes
+is a limited one.
+
+It is the duty of typographers to follow copy unless there is a clear
+inadvertence, such as going =too= town instead of =to= town, for
+example. Writers should understand that printers, though often highly
+competent to write or edit manuscripts better than those who present
+them as copy, are too busy at the case or the machine to stop and edit
+copy, form a style-code, consult dictionaries, verify quotations,
+harmonize discrepancies, and prevent the blunders of writers in general.
+If nobody edits copy, one of two things happens--the blunders are put
+into type for the public eye, or they are corrected by the proofreader.
+The former course destroys the printer's reputation, the latter adds to
+the cost of work.
+
+
+=6. Making Copy is an Art.= The world's universities do not teach how to
+prepare copy for printers. Often college men are not only poor writers
+of English, but they are as careless of the niceties of typography as
+are printers in most houses, editors of some publications, ministers,
+school-teachers, reporters, and public officers. In most manuscripts
+inconsistencies abound. Numbers, for example, should be spelled out, or
+written in arabic or in roman numerals, yet the three methods are
+sometimes seen on one page of copy.
+
+
+=7. Uniform Methods Throughout.= Abbreviations, the use of italic, of
+smaller bodies of types, of varying measures, of bold-face, light-faced
+antique, and like typographical methods for indicating headings, cut-in
+notes, emphatic words, etc., should be under some definite and sensible
+plan.
+
+
+=8. Points for Writers.= Paper for linotype operators as well as that
+for hand-compositors should be about the size of commercial note, and
+the writing should run the long way of the page, the reason being that
+sheets of the commercial note size fit into the machine 'copy-holder'
+very neatly. Good margins should be left at the top and sides, this for
+side-notes and catch-lines for headings. Names of persons, etc., should
+be 'printed out' carefully in manuscripts, and interlineations should be
+avoided. Blind hands have always caused infinite trouble in
+printing-houses. (Consult 'blind' in the _Standard Dictionary_.)
+
+
+=9. Style-codes Should be Mastered.= Those in authority in
+publishing-houses and elsewhere should compel reporters, editors,
+printers, proofreaders, and others whose duty it is to know =style= to
+master the office code. In many instances the carelessness of writers
+adds to the cost of production in every other department of publishing.
+Strangely, however, many writers assume offhand that anybody can
+capitalize words correctly and uniformly. Such writers jump to
+conclusions in the most reckless way imaginable. Their methods and
+definitions are no more correct than were the definitions given by a
+band of amateur scientists who described a crab in answer to the great
+Cuvier's question. They said a crab was a small, red fish that walks
+backward. "A perfect definition," said Cuvier, "except that the crab is
+not a fish, is not red, and does not walk backward."
+
+
+=10. Office Dictionary Should Govern.= One dictionary should be selected
+as the sovereign guide in every printing-house. If some things in the
+chosen dictionary seem wrong there should be a list or card of
+variations from authority. For many reasons the author of this little
+book prefers the _Standard Dictionary_ to all others. It seems to have,
+among other things, the most consistent and thorough method of
+compounding words. Its spellings are the simplest, its pronunciations
+the most rational. The incomparable work of F. Horace Teall shines in
+the department that deals with the important subject of compounding
+English words. Teall's _English Compound Words and Phrases_ should be
+before every editor. As elsewhere explained, his system is a little
+behind the times, owing to a recent movement to solidify words. See
+paragraph 41.
+
+
+=11. What Printers Should Edit.= There is a class of matter which
+printers should edit as they proceed in their work, and this they should
+do without delay or risk of exceeding authority. Reprint should be made
+to conform to the office style. Often editors have ample time to read
+clippings with sufficient care for acceptance, but without time or means
+to make such excerpts conform to the governing code. Owing to lack of
+marginal space and space between printed lines, there is no room for
+certain emendations, the changing of compounds, and the rearrangement
+of capitals. For these reasons most reprint reaches the printer as it
+originally appeared in the 'exchange' from which it was clipped.
+
+Even if an editor should take pains to change the style of reprint the
+result would be an unsatisfactory net-work of interlineations, carets,
+transpositions, rings, and other marks--in short, it would be bad copy.
+Some editors make it a rule to quote the general style of the clipping,
+holding that the style of the clipping is as much a part of the author's
+personality as are his words and sentences. Unfortunately there are
+usually so many contradictions and inaccuracies, so many evidences of
+_no style whatever_, that it is not a sensible plan to follow reprint
+copy. The best system is for the compositor to follow the code of his
+office, and the code should be so well known to him that to follow it
+would be a pleasure.
+
+In many small offices, where copy-readers or copy-editors are not
+employed, a knowledge of the style-code by printers and proofreaders is
+of vital importance. It has been computed by a committee of printers of
+wide experience that a style-code will save from three to five per cent
+of the cost of composition. In offices conducted along the lines of
+chaos the waste of time is great.
+
+
+=12. Authors are the Supreme Authority.= There is no doubt that every
+author has the right to dictate what shall be the typographical form of
+his work, but no self-respecting publisher's imprint or hall-mark ever
+appears on the pages of slovenly work. Even the author who demands his
+own way should be shown his inconsistencies and slacknesses, if they
+exist. The productions of some authors, who insist that copy be followed
+by the printer, betray lack of system before the work has reached the
+end of a galley; but if a writer urges that his faults be put in type
+his orders should be followed. Instructions are often obeyed, greatly to
+the amusement of everybody in the office, including the battery boy and
+the devil.
+
+
+
+
+ABBREVIATIONS IN GENERAL.
+
+
+=13. Anno Domini= should be printed with small capitals when abbreviated
+as A. D.
+
+
+=14. Apostrophes for Plural of Letters Wrong.= De Vinne aptly says on
+page 285 of _Correct Composition_ that the apostrophe is not proper to
+express plurality. Its use in print for this purpose is the repetition
+of an indefensible colloquialism, even though the dictionaries record
+the form. Letters should be spelled as follows; aes, bees, cees, dees,
+ees, efs, gees, aitches, ies, jays, kays, els, ems, ens, oes, pees,
+ques, ars, esses, tees, ues, vees, ws or dubleyuz, exes, wyes, zees.
+With the exception of esses this is the form given by the _Standard
+Dictionary_.
+
+
+=15. Apostrophe to be Omitted.= Mida's _Criterion_ and Dean's Landing
+need the apostrophe as a sign of possession, but when referred to as
+_Midas_ and Deans, the apostrophe is useless, and should be omitted.
+Harper's Ferry, but only Harpers when used in the curtailed form for the
+Ferry, meaning Harper's Ferry. See De Vinne's _Correct Composition_,
+page 284. Consult paragraph 68 of this book.
+
+
+=16. Apostrophe in Possessives.= Do not omit the apostrophe in such
+names as James's, Banks's, and Williams's in possessive use. It is a
+slovenly newspaper custom to omit apostrophes, except when the sound of
+a second ess makes a disagreeable hissing. Whenever the second ess is
+distinctly pronounced it should be inserted after the apostrophe. De
+Vinne, Teall, Bain, Alford, Moon, and others are firm in demanding the
+ess and the apostrophe whenever the sound of the second ess is given in
+speech. Bain says: "We say St. James's and St. Giles's, Burns's, and
+Douglas's." This is also the style of such magazines as the _Century_.
+See paragraphs 15 and 68.
+
+
+=17. Arabic Numbers.= Books should be disfigured as little as possible
+by arabic numerals in the text. Numbers thus set are always dry and
+forbidding in appearance. See paragraphs 19, 24, and Words, under
+paragraph 27, division (16).
+
+
+=18. A. M., etc.= Capital and small capital letters are not needed in
+abbreviating time, as a. m. and p. m. for ante meridiem and post
+meridiem. It is best to spell out =six o'clock=, etc. A. M. means
+master of arts and anno mundi. P. M. means postmaster. If _time_ is
+meant, confusion sometimes arises. De Vinne uses the period, and says
+the colon is an ignorant substitution in this sense: =2.30= p. m. and
+=1.45= a. m., not =2:30=, or =1:45=. See De Vinne's _Correct
+Composition_, page 82.
+
+
+=19. Ages of Persons.= Spell out the ages of persons. John Jones is not
+=aged= twenty-one years. He is twenty-one years =of age=, or twenty-one
+years old--not an =aged= person. The last use of =aged= is proper.
+
+
+=20. Books.= See paragraphs 36, 52; also see division twelve under
+paragraph 27.
+
+
+=21. Co. and Company.= Co. should be set in capitals (=CO.=) when the
+firm name is in capitals. The name JOHN BROWN'S Co. is unsightly. Unless
+=Co.= is the style of the company, or incorporation, spell out the
+word. In Co's no period is needed after the =o=. De Vinne's _Correct
+Composition_, page 291.
+
+
+=22. Credits.= See paragraph 52. Credits at the end of matter are best
+set in italic lower-case, without any em dash to connect the credit with
+the quotation. See De Vinne's _Correct Composition_, page 150.
+
+
+=23. Dates.= When the numeral precedes the name of the month it may be
+written as the =28th= of November, but when the numeral follows, it
+should be November =28=. In =2d=, =3d=, and like abbreviations, there is
+no need of =n=, as in =2nd=.
+
+=Years.= Two consecutive years should be run thus: During 1897-98, and
+not 1897-8. It is proper to say the heroes of '49. See paragraph 24.
+
+
+=24. Figures.= Commas are not needed in four figures, as: 1897, 5798.
+The comma should not be inserted between figures expressive of dates, as
+in June, 1898.
+
+Numbers of infrequent occurrence should be spelled out rather than put
+in roman numerals. The engine weighed five thousand tons, there were
+fifty-two gallons in the barrel, there were seventeen thousand men in
+the regiments. See paragraph 17.
+
+
+=25. Hours.= Print 11.30 a. m., and not 11:30 a. m. Use the period
+rather than the colon. See paragraph 18.
+
+
+=26. Month, etc.= Month, inst., prox., and ult., often abbreviated in
+letters, are improper in all first-class work. Spell out the name of the
+month, as March and January, not Mar. and Jan. Spell out days of the
+week.
+
+
+
+
+27. MISCELLANEOUS.
+
+
+(1) =e. g.= for exempli gratia, i. e. for id est, q. v. for quod vide,
+viz. for videlicet or to wit, etc. for et cetera, are barely tolerated
+in good work and are discarded by many houses. If authors will use such
+symbols they should spell them out. Italic is not needed in these
+examples. See De Vinne's _Correct Composition_, page 41.
+
+(2) =Dep't=, treas., sec., gov't, and similar abbreviations are not
+permissible.
+
+(3) =Do= not use Xmas and Xtns for Christmas and Christians.
+
+(4) =MS. and MSS.= MS. for manuscript and MSS. for manuscripts. There
+should be no period after the =M=.
+
+(5) =New York.= Do not use N. Y. when you refer to New York City.
+
+(6) =Towns and Cities.= Do not abbreviate the names of towns and
+cities, and avoid abbreviation of the names of states, except when they
+follow town and city names. See paragraph 29.
+
+(7) =Titles.= It is a proper and decorous system to spell out doctor,
+professor, general, colonel, captain, major, and like titles. Good book
+and magazine work oppose abbreviations of such titles. Mr., Mrs., Jr.,
+Sr., are allowed as here written.
+
+(8) =To wit= should not be compounded.
+
+(9) =Spell out= fort, mount, point, port, saint, etc. in every use.
+
+(10) =Parentheses.= Inclose the names of states in parentheses when used
+in the following way: The Albany (N. Y.) Law School; the Milpitas (Cal.)
+_Gazette_. See paragraph 29.
+
+(11) =Pet Names.= Bill, Bob, Jim, Tom, Joe, etc., are not abbreviations,
+and therefore they need no period after the last letter.
+
+(12) =Quarto=, octavo, twelvemo, thirty-twomo, etc., are best, but 4to,
+8vo, and 12mo may be used, if they do not begin a sentence.
+
+(13) =Streets.= The numerical names of streets should be spelled out, as
+Fifteenth Street, Twenty-second Street.
+
+(14) =Time.= See paragraph 18. Spell out the names of days of the week,
+as well as names of months.
+
+(15) =Titles.= If John Jones has many titles following his name, it is
+best to set them in small capitals, as: M. D., F. R. S., PH. D., K. C.
+B. To set all in capitals is to give the name too little prominence. One
+or two titles may be set in capitals, but when there are three or four,
+use small capitals.
+
+(16) =Words.= Words are preferred in legal documents, as: Jean must
+appear in court on the tenth of August, in the year of our Lord one
+thousand nine hundred and six.
+
+(17) =PS.= PS. (for postscript or postscriptum) without a period or
+space between the letters. See MS., number (4), paragraph 27.
+
+(18) =Commas Essential.= Commas are essential in certain cases where
+they are often omitted. Many printers seem to think it is treason to put
+a comma before =and= in a series of three words, and the Chicago
+Proofreaders' Association omits commas in such instances. The system is
+slovenly, however. De Vinne properly expounds the rule. On page 253 of
+_Correct Composition_ he says: "The comma is needed when the simplicity
+and directness of a sentence are broken by the addition or repetition of
+nouns, verbs, adjectives, or adverbs that do not qualify the words that
+directly follow." He cites this example: "Ulysses was wise, eloquent,
+cautious, and intrepid." Note the comma after =cautious=. Use the comma
+without hesitation when the qualifying words are more than two in
+number; as, the bay was calm, beautiful, and clear as crystal. The comma
+is sometimes erroneously omitted before the conjunction in such cases
+as: Jean, Lucinda and Alice have departed. There is no person whose name
+is Lucinda and Alice. Again, the impression may be made, by the omission
+of the comma, that Lucinda and Alice went together, and not with Jean.
+
+Another point to be remembered is that when the words are not in pairs,
+the comma must be used, even if =or= frequently intervenes. _Correct
+Composition_, page 254. When the words are in pairs, connected by the
+word =and=, or disconnected by the word =or=, the comma is needed only
+at the end of each pair. _De Vinne._
+
+
+=28. Names.= Never abbreviate Jas., Jos., Thos., Geo., Wm., Theo.,
+Chas., and other Christian names. The decorous system is to spell the
+names in full, except when following exact signatures in legal documents
+and other formal matter.
+
+
+=29. Names of States.= Names of states following names of towns, except
+the names of Alaska, Idaho, Iowa, Maine, Ohio, and Utah, are
+abbreviated as follows:
+
+  Alabama                    Ala.
+  Arizona                   Ariz.
+  Arkansas                   Ark.
+  California                 Cal.
+  Colorado                  Colo.
+  Connecticut               Conn.
+  Delaware                   Del.
+  Florida                    Fla.
+  Georgia                     Ga.
+  Illinois                   Ill.
+  Indiana                    Ind.
+  Indian Territory          I. T.
+  Kansas                     Kan.
+  Kentucky                    Ky.
+  Louisiana                   La.
+  Maryland                    Md.
+  Massachusetts             Mass.
+  Michigan                  Mich.
+  Minnesota                 Minn.
+  Mississippi               Miss.
+  Missouri                    Mo.
+  Montana                   Mont.
+  Nebraska                   Neb.
+  Nevada                     Nev.
+  New Hampshire             N. H.
+  New Jersey                N. J.
+  New Mexico                N. M.
+  New York                  N. Y.
+  North Carolina            N. C.
+  North Dakota              N. D.
+  Oklahoma                  Okla.
+  Oregon                     Ore.
+  Pennsylvania                Pa.
+  Rhode Island              R. I.
+  South Carolina            S. C.
+  South Dakota              S. D.
+  Tennessee                 Tenn.
+  Texas                      Tex.
+  Vermont                     Vt.
+  Washington                Wash.
+  Virginia                    Va.
+  West Virginia            W. Va.
+  Wisconsin                  Wis.
+  Wyoming                    Wyo.
+
+
+=30. Brackets.= Teall says that an insertion not merely disconnected,
+but having no effect upon the meaning of the context, should be inclosed
+within brackets. Examples: I swear that I was naturalized [here state
+name] in Missouri. My son, I must tell you all. [Some private details
+are here blotted out. _Editor._] You must keep these things secret. De
+Vinne says: "Parentheses always inclose remarks apparently made by the
+writer of the text. Brackets inclose remarks certainly made by the
+editor or reporter of that text." See _Correct Composition_, page 279.
+
+
+=31. By-laws.= De Vinne says: "By-laws are frequently printed with the
+side-headings Art. 1 for Article 1, Sec. 2 for Section 2, etc., but it
+is better practice to print the word in full in the paragraph where it
+first appears, and to omit the word in subsequent paragraphs, using the
+proper figure only, as is customary in verses of the Bible and in
+hymn-books."
+
+
+=32. Can not.= =Can not= is preferred to =cannot=, though there is
+authority for both forms. =Can not= and =shall not=, according to the
+usage of good writers, are treated as shown.
+
+
+
+
+33. CAPITAL LETTERS IN GENERAL.
+
+
+A
+
+  Arbor Day, Decoration Day, Labor Day, Black Friday.
+
+  Ascension Day, in Bible sense.
+
+  Almighty and like terms in lieu of God.
+
+  arctic ivory and all similar mercantile uses of such words as arctic
+    in that sense. Even titanic and herculean, in some uses.
+
+  Arctic when referring to that region.
+
+  algebra, botany and all sciences. See sciences.
+
+  arabic when referring to letters of that name or to merchandise.
+
+  autumn unless the word is personified. Seasons are not capitalized.
+    See seasons.
+
+  association, church, companies, political, and similar names are
+    written in small letters, thus: trustee, councilman, supervisor,
+    congressman, director, secretary, president, governor,
+    superintendent, etc., unless the title precedes a surname, in which
+    case it is capitalized as a title. If a title selected may be
+    applied to two or more persons use the small letter, not the
+    capital. Abbreviated expressions take the capital letter as an
+    initial, as: =the= Union, =the= Club, =the= Church, =the= Senate,
+    =the= Company, =the= Chamber, =the= State, =the= Nation, when such
+    shortened expressions are clearly used in place of the full name of
+    the body in question. The Union, if you mean of states, or if you
+    mean a certain typographical union.
+
+
+B
+
+  Bank Holiday, because this is its proper name as much as Wednesday is
+    the name of a day.
+
+  Bible, and all names like Scriptures, Holy Writ.
+
+  the Board of Education, meaning a special one.
+
+  a board of education, meaning any one.
+
+  Bay of Naples.
+
+  a bay, meaning any one.
+
+  Baconian philosophy, because with direct reference to Bacon; but
+    =herculean=, meaning strong, platonic, etc., unless referring
+    directly to Plato.
+
+  Bills are capitalized, as: Pure Food Bill, Highway Bill, Labor Bill,
+    Revenue Bill.
+
+  Buildings. Capitalize Chronicle Building, White House, Pressmen's
+    Hall, Linotype Building, Carnegie Free Library Block, etc.
+
+
+C
+
+  Christmas and all synonyms, as Yule-tide.
+
+  city of New York, but New York City, its official name.
+
+  a city of Kentucky, or any city of a class, because common nouns.
+  this City, meaning San Francisco or any other place clearly meant.
+
+  a chief-justice.
+
+  the Chief-justice of Missouri.
+
+  an aged justice, or a former chief-justice.
+
+  castile soap. See merchandise.
+
+  china goods, china silk, etc. See merchandise.
+
+  cisalpine, transatlantic, etc.
+
+  county of Holt, but Holt County, its exact name. See counties.
+
+  the County, meaning one in particular; in lieu of full name.
+
+  a county--any one.
+
+  Counties: Holt County is the name of the political division or
+    corporation, and when =the County= is used as a shorter expression,
+    it is clearly a synonym for the full name.
+
+  the Congress of the United States, or Congress, the Legislature.
+
+  the Congressman, meaning a special one. Several congressmen and
+    senators were there. In this sense the nouns are common.
+
+  =Congressman= illustrates De Vinne's rule that a title not a synonym
+    for a specified person (one only) should not begin with a capital.
+    See Association.
+
+  Centuries take a lower-case letter: fifteenth century, nineteenth,
+    twentieth, etc. This is an exception to the rule concerning
+    historical epochs, but custom has made it proper.
+
+  a club, meaning any.
+
+  the Club, meaning the Century Club.
+
+  Columbia College, Stanford University, etc.
+
+  the Constitution of the United States, of any particular state or
+    society.
+
+  a constitution, meaning any.
+
+  the Continent, meaning of Europe, or when used as a substitute for
+    the full name of any other continent.
+
+  coolie, negro, greaser, gringo, gipsy. See nicknames, which are never
+    capitalized.
+
+
+D
+
+  Decoration Day, like all historic names. See Historic names.
+
+  Deity, God, Father, Son, Holy Ghost, Jehovah, Holy Spirit, =Saviour=,
+    Creator, Providence, Heaven, when used for God, and all words that
+    refer directly to Deity as a name, heaven and hell in ordinary use.
+    Heaven, meaning God.
+
+  devil as an expletive.
+
+  Devil, if John Milton's is meant, also Satan, Beelzebub.
+
+  Definite Titles. When definite titles or names are shortened, like the
+    Senate, the Club, etc., meaning a particular senate or club, use
+    capitals. Likewise where =the= State or =the= Government means one
+    in particular, as following a reference to California, capitals
+    should be used. The Union, =the= Nation, etc., follow the same rule.
+
+
+E
+
+  the East, meaning an undefined geographical section.
+
+  an east wind blew, however, meaning mere direction.
+
+  the Ex-president.
+
+  an ex-president, ex-mayor, ex-governor, etc. When capitalized, the
+    first letter of the compound takes the capital, as: Ex-president
+    Cleveland. Many good writers prefer the expression _former_
+    president, etc.
+
+  Erie Canal.
+
+  the earth. Though the name of a definite planet, this word is not
+    capitalized. It is a clear exception to the rule. The sun and the
+    moon usually go in lower-case.
+
+
+F
+
+  Fast Day.
+
+  the Flood of the Bible.
+
+  Fourth of July.
+
+  Father, meaning God. See Deity.
+
+  fall of the year, except when personified. See seasons.
+
+  Federal Government, meaning the Government of the United States.
+
+
+G
+
+  Golden Rule, the.
+
+  Good Friday.
+
+  God in every sense, but the gods of fable. See Deity.
+
+  the General when referring to one in particular. See official titles.
+
+  a general, any one. See official titles, definite titles, etc.
+
+  grammar, same as botany, chemistry, and other sciences.
+
+  Geographical names thus: The South Side, the East Side, the West, the
+    Northeast, Back Bay, Tenderloin District, Monterey Bay, Missouri
+    River, Goat Island, Gold Mountain. Sherwood's Pier, Idora Park, Ross
+    Valley, Waverley Place.
+
+  Glacial, Triassic, etc., referring to geological uses.
+
+  the Gospels, and all like terms; Scriptures, Holy Writ, the Word.
+
+  the Governor, when in lieu of his name, or meaning one in particular.
+
+  a governor, meaning any one. See official titles.
+
+
+H
+
+  Holy Spirit, but see Deity.
+
+  Historic names, thus: Civil War, Middle Ages, Commencement Day, Lord's
+    Day, Silurian Age, Dark Ages, the Deluge, the Victorian Era, the
+    Renaissance.
+
+  herculean, meaning full of strength, and unless direct reference is
+    made to Hercules and his age.
+
+  hell and heaven. See Deity.
+
+  House of Commons.
+
+  House of Lords.
+
+  heathen.
+
+  Hades and like poetical names of a future abode.
+
+  Holy Writ.
+
+
+I
+
+  india ink, used as merchandise.
+
+  india rubber. Same as india ink.
+
+  italic letters, never Italic.
+
+  the Island, meaning Long Island, or any one previously named; the
+    Islands, meaning a special group previously named or suggested. The
+    various islands of the sea, however, but the South Sea Islands.
+
+
+J
+
+  Jesus Christ.
+
+  Jehovah. See Deity.
+
+
+K
+
+  a king, but the King. See association. Kaiser, Czar, and President
+    follow this rule.
+
+
+L
+
+  Labor Day. See historic names.
+
+  Lady Day. See historic names.
+
+  Lord, Deity, Jesus Christ, God, etc.
+
+  the Levant.
+
+  A lord and a lady, but =the= Lord.
+
+
+M
+
+  a mayor, president, lord, governor, czar, etc. See association,
+    governor, official titles.
+
+  the Mayor, King, President, Czar, Governor, etc.
+
+  morocco goods. See merchandise.
+
+  the Manager. See official titles.
+
+  a manager. See official titles.
+
+  Merchandise. Arctic, Tropics, Levant, Orient, and all geographical
+    names used as proper nouns go up; but nouns used to specify
+    merchandise go down, as: arctic ivory, india ink, russia leather,
+    morocco, turkey red, port wine, chinese blue. When words derived
+    from proper nouns have thus lost the direct connection or literal
+    sense of the name there is no need of capitals. Consult De Vinne's
+    _Correct Composition_, page 119.
+
+
+N
+
+  Names. White House, Gillis Opera House, Handel Hall, etc.
+
+  New Year's.
+
+  the North, meaning an undefined geographical section.
+
+  a north wind.
+
+  Northeast, Northwest, etc., follow same rule. Do not compound such
+    words.
+
+  Nicknames: Creole, negro, mulatto, gipsy, quadroon, greaser, coolie,
+    peon, and like nicknames do not begin with a capital. See De Vinne.
+
+  Nation, when in lieu of the United States or of any other particular
+    government. See state, etc.
+
+  a nation of workers, however.
+
+  nature ordinarily, except when in lieu of God. See Deity.
+
+  negro. See nicknames.
+
+  Nature when used for God. See Deity.
+
+
+O
+
+  oriental silk. See merchandise.
+
+  the Orient.
+
+  the Occident.
+
+  Official titles: Mayor, judge, justice, king, governor, and the like
+    follow one rule, as do the terms treasurer, secretary of state, etc.
+    If they precede the name of one person (not of two or more) they
+    take the capital initial. If they follow a name or are preceded by
+    =the indefinite article a=, they need no capital. The name of the
+    office is never written with a capital in this sense: He ran for the
+    office of justice of the peace, president, governor, mayor, etc.
+    See association.
+
+
+P
+
+  a president. See official titles.
+
+  the President, Czar, King, Governor, Mayor, etc. See official titles
+    and association.
+
+  prussian blue. See merchandise.
+
+  purgatory.
+
+  paradise, except the Paradise of John Milton.
+
+  Parliament. Same as Congress. See association.
+
+  platonic follows herculean and Baconian. If meaning direct reference
+    to Plato or his system, capitalize; if meaning merely philosophical,
+    write =platonic=. See herculean.
+
+  Political parties: Antis, Nationalist, Populist, Radical, Tory,
+    Democrat, Prohibitionist. Adjectives of the same, same rule.
+
+  Personification: Anything may be personified, and all personified
+    words should be capitalized, as: The spirit of Fire; the voice of
+    Crime; the call of Duty; the ghost of Want.
+
+  Pronouns standing for Deity go thus: his wisdom; him we fear; thou
+    God; thy Word; thee we adore. This is Biblical use. Capitalizing was
+    an error of hymn-books of the long ago.
+
+
+Q
+
+  Queen. See king, president, governor, official titles, etc.
+
+
+R
+
+  russia leather. See merchandise.
+
+  Religious denominations: Catholics, Protestants, Jews,
+    Mohammedans--but pagan and heathen, for these terms are too
+    indefinite to take the capital.
+
+  Republican. See political parties.
+
+  rhetoric. See sciences.
+
+
+S
+
+  Saviour is the approved spelling when referring to Jesus Christ.
+
+  a senate.
+
+  the Senate of Illinois.
+
+  the Society for the Prevention of Vice, and like names.
+
+  a society for prevention of vice.
+
+  the Southern Railroad.
+
+  a southern railroad.
+
+  a state of the United States.
+
+  the State, meaning California; but the state of California. See
+    states.
+
+  the South, an undefined geographical location.
+
+  the Southeast. Same as South.
+
+  a south wind.
+
+  States: The state of New York, the empire of Germany; but New York
+    State, the German Empire, because the official names. The Southern
+    States, the Northern States, but the states and territories of the
+    United States.
+
+  Sciences: All references to algebra, botany, geometry, chemistry, and
+    like names of science are written without the capital initial.
+
+  Streets: First Street, Sixty-first Avenue, etc.
+
+  Second Corps.
+
+  Seasons: The seasons are not capitalized, unless in personification.
+
+  spring is here.
+
+  summer has departed.
+
+  the Scriptures. See Bible and Gospels.
+
+
+T
+
+  =the= preceding the name of a newspaper or magazine is not
+    capitalized: =the= Herald, =the= Century, but in books it goes in
+    capital initial; as, "The Life of Emerson."
+
+  the Tropics.
+
+  tropical plants, tropical weather, etc.
+
+  turkey red. See merchandise.
+
+  Titles: It is as proper to say Scavenger Smith or Barber Brown as to
+    say Judge Jones and President Roosevelt. All such titles as
+    director, manager, weigher, inspector, and like names follow the
+    general rule. See association and official titles.
+
+  a township. See county, association, etc.
+
+  transatlantic, transpacific, transmissouri.
+
+
+U
+
+  universe.
+
+  =the= Union, meaning the United States; the Nation, Republic, Federal
+    Government, etc.
+
+  the Union, meaning one organization in particular, or when used in
+    lieu of the full name. See definite titles.
+
+
+W
+
+  Whitsunday.
+
+  Whitsuntide.
+
+  the West, meaning an undefined geographical section.
+
+  a west wind.
+
+  a ward meeting.
+
+  the Sixth Ward politicians.
+
+  the wards of the city.
+
+  winter. See seasons.
+
+
+Y
+
+  Your Grace.
+
+  Your Honor.
+
+  Your Majesty.
+
+  Your Reverence.
+
+  Your Royal Highness.
+
+  Yule-tide. See Christmas.
+
+
+Z
+
+  zoology. See sciences.
+
+  the zodiac.
+
+  the zenith.
+
+  Zeus, the Greek god.
+
+
+=34. Illustrations of the Code.= The following sentences illustrate the
+rules herein expounded. See section 49:
+
+Saloon-keepers of the Reservation are in session at the Log Cabin Saloon
+in this City, and Government officials of Federal and State power will
+be asked to do nothing until the Supreme Court passes on the decisions
+of other courts. If no satisfaction is obtained, the State will be asked
+to refund sums expended in the two Kansas Citys--Kansas City, Mo., and
+Kansas City, Kan. Notice that _the two Kansas cities_ would convey the
+idea of two cities in Kansas, and _the two Kansas Cities_ would not be
+an improvement.
+
+A NIGHT OF HORRORS.
+
+It was Labor Day, but there was a celebration equal to that of the
+Fourth of July. No pagan holiday ever surpassed some of the heathenish
+performances there enacted. According to the New York Herald
+Ex-president Cleveland was there, accompanied by Colonel Hay, secretary
+of state. The President of the United States was there, and various
+ex-presidents' memories were honored. There were senators, assemblymen,
+judges of the Supreme Court of the United States, and judges from other
+supreme courts in the throng--but not one from the Supreme Court of the
+state of Georgia, or from New York State. David Bennett Hill wore an
+arctic coat from the Arctic. During the evening a German sang, and a
+gipsy danced a jig. The Orient, the Arctic, the Tropics, and the Levant
+contributed to the decorations. The dances were on a brussels carpet
+direct from Brussels, according to the word of two doctors of divinity
+who sat near six masters of art. The titled gentlemen laughed until they
+shook down a bowl of paris green, and a shelf containing chinaware. The
+Government (or Nation or Union, meaning the United States) was honored
+by Alexis, grand duke and envoy extraordinary, who presented every
+senator and every judge a morocco badge--two badges to the Chief Justice
+of the highest court. A governor took umbrage, but the Governor of
+California took native claret; and as he sipped it an old greaser with a
+nose of turkey-red color, who looked like a ward politician from the
+Fourth Ward of San Francisco, disgraced the South. Later a breeze sprang
+from the east side of the Bay of Fundy and cooled off the representative
+of the empire of Germany greatly to the relief of the German Empire
+itself. Every man present hunted for his bowie-knife, except a Methodist
+member of the Salvation Army, who quoted the Gospels, speaking often of
+God and his Word, the Holy Writ. The Middle Ages would have been
+disgraced if such italic head-lines as our papers contained had ever
+disturbed their quiet life. It was a wonderful demonstration, even for a
+night of the nineteenth century. Let us hope that foot-, side-, and
+end-notes in small volumes of history may tell the story to coming
+generations.--_Maritime World Code_, January, 1899.
+
+
+=35. Chemical Terms.= In many chemical terms the final =e= is dropped,
+as: Oxid, chlorid, quinin, chlorin, fibrin.
+
+
+
+
+CITATIONS IN GENERAL.
+
+
+=36. Books.= See paragraphs 22, 27, 52. Here is a standard form:
+Macaulay's 2 History, iv, 14. This means the second volume of the work,
+the fourth chapter, the fourteenth page. The iv should be set in
+lower-case.
+
+Law Books. In citing law books abbreviate as follows: Briggs vs. Ewart,
+51 Ala., 576; 78 Fed. Rep., 398, etc.
+
+
+=37. Paragraphs.= Paragraphs, pages, verses, and sections of books are
+marked in arabic, but cantos of poetry should be set in lower-case
+roman.
+
+
+=38. Pages.= Pages 145, 168, 172, and never p 145 or pp 145, 168, 172.
+Spell out all such references.
+
+
+=39. Publications.= In citing such publications as periodicals and
+newspapers it is not necessary to use a capital for _the_ in _the New
+York Herald_. In _The Life of Christ_ or the title of any other book
+capitalize _The_. See paragraph 52.
+
+
+=40. Scriptural Citations.= Unless many citations are made it is best to
+spell out the names of books of Scripture, but when the references are
+numerous they should be as follows:
+
+Old Testament.
+
+  Gen. xi, 17
+  Ex.
+  Lev.
+  Num.
+  Deut.
+  Joshua
+  Judges
+  Ruth
+  1 Sam.
+  2 Sam.
+  1 Kings
+  2 Kings
+  1 Chron.
+  2 Chron.
+  Ezra
+  Neh.
+  Esther
+  Job
+  Ps.
+  Prov.
+  Eccles.
+  Cant. or Song of Sol.
+  Isa.
+  Jer.
+  Lam.
+  Ezek.
+  Dan.
+  Hos.
+  Joel
+  Amos
+  Obad.
+  Jonah
+  Mic.
+  Nahum.
+  Hab.
+  Zeph.
+  Hag.
+  Zech.
+  Mal.
+
+New Testament.
+
+  Matt.
+  Mark
+  Luke
+  John
+  Acts
+  Rom.
+  1 Cor.
+  2 Cor.
+  Gal.
+  Eph.
+  Phil.
+  Col.
+  1 Thess.
+  2 Thess.
+  1 Tim.
+  2 Tim.
+  Titus
+  Philem.
+  Heb.
+  Jas.
+  1 Pet.
+  2 Pet.
+  1 John
+  2 John
+  3 John
+  Jude
+  Rev.
+
+The Apocrypha.
+
+  1 Esdras
+  2 Esdras
+  Tobit
+  Judith
+  Rest of Esth.
+  Wisd. of Sol.
+  Ecclus.
+  Baruch
+  Song of Three Childr.
+  Susanna
+  Bel and Dragon
+  Pr. of Manasses
+  1 Macc.
+  2 Macc.
+
+=Scriptural Citations.= Scriptural citations of chapter and verse should
+be thus: Chapter in lower-case roman numerals, and verse in figures, as:
+Acts vii, 16.
+
+
+=41. Compounds.= See also paragraphs 10 and 27. As stated in the
+introduction, the _Standard Dictionary_ seems to be the only one that
+gives the compounding of words. By its system both solidified and
+hyphenated words of the compound type are shown. Teall's book on this
+subject is really a codification of the compounds appearing in the
+_Standard Dictionary_. Since Teall's list was made there have been some
+changes in the system preferred by good writers. Every change has been
+in the direction of solidifying. Teall gives bookkeeper as one word, but
+make proof-reader two. He makes postmaster one word, post-office a
+compound. The Chicago Proofreaders' Association is more consistent in
+such cases, printing all words of this type in the solidified form.
+
+The following list is believed to be more consistent than the
+Standard-Teall handling of the same words, and is therefore preferred:
+
+
+=42. Some Examples.= (a) Words denoting an occupation or calling, as
+baggagemaster, bagmaker, watchmaker, proofreader, bricklayer.
+
+(b) Words denoting a connecting use, as barnyard, crosshead, carwheel,
+footboard, gaspipe.
+
+(c) Words denoting a state of being, as motherhood, fatherhood,
+widowhood.
+
+(d) Words that are pronounced as one word and usually printed as such,
+as claptrap, crackerjack, daredevil, haphazard.
+
+
+=43. Approved Consolidations.= Words like steamboat, railroad, fishline,
+firearms, pineapple, catfish, bluebird, blackboard, quartermaster are
+best as here printed. It is proper to consolidate all words denoting a
+species, kind or class of birds, animals or plants, as kingfisher,
+meadowlark, bulldog, bloodhound, wildcat, goldenseal.
+
+(a) Anybody, anything, anywhere, evermore, everybody, everything,
+everywhere, forevermore, somewhere, nobody, something, nowhere, nothing,
+afterpiece, crossexamine, crossquestion, countermarch, antislavery,
+antedate, schoolboy, schoolmate, schoolmistress, but school teacher,
+school children and school teaching.
+
+(b) Other approved solidifications are words denoting tools, materials,
+and implements, as: Strawboard, halftone, guidebook, screwdriver,
+rosewater, typewriter, handbook.
+
+
+=44. Compounds and Solids.= The following list of compound words should
+be used with hyphens or in the solidified form, as indicated:
+
+  afterthought
+  after-years
+  agateware
+  aide-de-camp
+  air-brake
+  air-castle
+  air-cushion
+  air-faucet
+  air-filter
+  air-dried
+  alarm-clock
+  alcohol-engine
+  ale-bench
+  ale-brewer
+  ale-drinker
+  ale-drinking
+  alepot
+  alevat
+  alleyway
+  apple-moth
+  apple-seed
+  apple-peel
+  alehouse
+  almshouse
+  anglebar
+  angleworm
+  antechamber
+
+  baggagemaster
+  bakeshop
+  ballroom
+  barn-yard
+  bartender
+  baseball
+  bath-house
+  bathroom
+  bearskin
+  bedchamber
+  billboard
+  billposter
+  birdhouse
+  birdseye
+  blackboard
+  blackmail
+  blacktail
+  blockhouse
+  bloodroot
+  bluebird
+  bluefish
+  bluestone
+  bluewing
+  bobtail
+  boilermaker
+  bondholder
+  bookbindery
+  bookkeeper-ing
+  bookmaker
+  bookmaking
+  bookman
+  bookmark
+  bookroom
+  bookstore
+  brakebeam
+  brakeshoe
+  brassfounder
+  brickyard
+  brownstone
+  bulldog
+  bullseye
+
+  cakewalk
+  candlelight
+  cardboard
+  carwheel
+  casehardened
+  cashbook
+  catbird
+  catchline
+  catchword
+  catfish
+  churchyard
+  clambake
+  claptrap
+  clingstone
+  clockmaker
+  clockwork
+  clubhouse
+  clubroom
+  coalhod
+  coalmine
+  coalyard
+  coonskin
+  copperplate
+  cornerstone
+  cornfield
+  cornmeal
+  cornstalk
+  cottontail
+  cottonwood
+  countershaft
+  countersunk
+  countinghouse
+  countingroom
+  courthouse
+  courtyard
+  cowbell
+  cowboy
+  crackerjack
+  crosshatch
+  crosshead
+  crosspiece
+  cutthroat
+
+  daredevil
+  darkroom
+  daybook
+  deathbed
+  deerhound
+  dewdrop
+  dockyard
+  doorkeeper
+  doormat
+  downpour
+  drawbar
+  dreamland
+  drugstore
+  drumfish
+  dugout
+  dustproof
+  dyewood
+
+  earmark
+  eggcase
+  electroplate
+  eyebolt
+  eyepiece
+
+  facewise
+  facsimile
+  fairyland
+  farmhouse
+  farmyard
+  feedlot
+  fencerow
+  fieldbook
+  filmholder
+  firearm
+  firefly
+  fireplace
+  fireproof
+  fishplate
+  fishoil
+  flagship
+  flagstaff
+  flintlock
+  flourmill
+  flywheel
+  foodstuffs
+  football
+  footboard
+  footbridge
+  foothills
+  footnote
+  footplate
+  footrace
+  footsore
+  footstool
+  fourfold, etc.
+  fourscore (80)
+  foxhound
+  foxskin
+  Freemason
+  freestone
+
+  gagewheel
+  gamebag
+  gamedealer
+  gamekeeper
+  gaspipe
+  gatepost
+  glassblower
+  glassworks
+  goldenrod
+  goldenseal
+  goldmine
+  grandam
+  granddaughter
+  greenhouse
+  greenstone
+  gristmill
+  guidebook
+  gunmaker
+
+  hailstorm
+  hairbreadth
+  halftone
+  handbook
+  handcar
+  handrail
+  haphazard
+  harbormaster
+  hardtack
+  headband
+  headboard
+  hilltop
+  homemade
+  horsecar
+  horseshoe
+  hothouse
+
+  indoor
+  inkmaker
+  inkmaking
+  ironclad
+  ironfounder
+  ironware
+
+  jackscrew
+  jacksnipe
+  jellyfish
+  jobroom
+  junkshop
+
+  keelboat
+  kennelman
+  keyboard
+  knifebar
+
+  ladylike
+  lambskin
+  landholder
+  landowner
+  lawbreaker
+  lawmaker
+  lawsuit
+  lifelong
+  lifetime
+  lighthouse
+  lockout
+  loophole
+
+  manhole
+  mantelpiece
+  meadowlark
+  milestone
+  milldam
+  millpond
+  millstone
+  mockingbird
+  moldboard
+  mopboard
+  mouthpiece
+  mudhen
+  multicolor
+  multiphase
+
+  nailhole
+  newsdealer
+  notebook
+  nowadays
+
+  oatmeal
+  Oddfellowship
+  officeholder
+  officeseeker
+  oilcloth
+  onlooker
+  outbuilding
+  outdoor (a.)
+  outhouse
+  oxgall
+
+  packhorse
+  packmule
+  payroll
+  pinkroot
+  plateholder
+  platemaker
+  pocketbook
+  pokeroot
+  poolroom
+  portemonnaie
+  postoffice
+  postmaster
+  pressroom
+  proofreader-ing
+  proofroom
+  prorate
+
+  racecourse
+  racehorse
+  racetrack
+  rainfall
+  rainstorm
+  rattletrap
+  redbird
+  ricebird
+  redhead
+  redwing
+  reedbird
+  roadbed
+  rollermaker
+  ropewalk
+  rosewater
+  roundhouse
+  rowboat
+  runway
+
+  sagebrush
+  sagehen
+  sailboat
+  saloonkeeper
+  salthouse
+  sandbar
+  sandhill
+  sandstone
+  sawmill
+  scalebeam
+  scattergun
+  schoolbook
+  schoolboy
+  schooldame
+  schoolfellow
+  schoolgirl
+  schoolhouse
+  schoolmaster
+  schoolmate
+  schoolmistress
+  schoolroom
+  scorecard
+  scrapbook
+  screwdriver
+  seagirt
+  sealskin
+  seashore
+  sedgefield
+  sheepdog
+  sheepskin
+  sheetwise
+  shipbuilding
+  shipchandler
+  shotgun
+  showcase
+  sidenote
+  signboard
+  skylark
+  slavepen
+  slidemaker
+  slugcasting
+  smokestack
+  snowdrift
+  snowflake
+  snowstorm
+  spaceband
+  spacebar
+  sprigtail
+  staghound
+  standpoint
+  statehouse
+  staybolt
+  stockholder
+  stockhouse
+  stockyard
+  stonecutter
+  stonedresser
+  storehouse
+  storeroom
+  storekeeper
+  strawboard
+  subhead
+  sunburned
+  switchboard
+
+  tablecloth
+  tablespoonful
+  tailpiece
+  tapeworm
+  taxpayer
+  teaspoon
+  telltale
+  textbook
+  thoroughbred
+  threefold
+  thumbscrew
+  thunderstorm
+  tidewater
+  tieplate
+  tinware
+  tiptoe
+  to-day
+  to-morrow
+  trademark
+  transshipment
+  triphase
+  turnout
+  turnover
+  twofold, etc.
+  twoscore (40, etc.)
+  typefounder
+  typefoundry
+  typemaking
+
+  voltmeter
+
+  walkover
+  warehouse
+  washstand
+  wastepipe
+  watchcase
+  watercourse
+  watermark
+  watershed
+  waterworks
+  waterproof
+  wayfaring
+  weakfish
+  weekday
+  wellwisher
+  whitefish
+  windrow
+  windstorm
+  wirehaired
+  wolfskin
+  woodyard
+  workaday
+  workbag
+  workday
+  workingman
+
+  yellowlegs
+
+
+=45. Interrupted Compounds.= Benjamin Drew says, in _Pens and Types_:
+When two words connected by a conjunction are severally compound parts
+of a following word, the hyphen is omitted, as:
+
+  We use cast and wrought iron pillars.
+
+  I have pruned my peach and apple trees.
+
+Some authors follow the German style, inserting the hyphens, thus:
+
+  We use cast- and wrought-iron pillars.
+
+  I have pruned my peach- and apple-trees.
+
+The style in the last example is known as the =interrupted compound=. It
+is gaining ground rapidly in the best printing-houses, and is
+recommended by De Vinne, who uses it in his books. Here are some
+examples: Foot-, top-, and side-notes; quarter-, eighth-, and half-kegs;
+base- and foot-ball, foot- or side-note. This is good usage. See the
+_Century_ magazine for examples, or see any books published by the
+Century Company. There seems to be no other way to signify that both
+words in such examples are compounds.
+
+
+=46. No Fixed Rules.= There are no hard and fast rules regarding
+compounds. It is, in fact, almost impossible to hold to a uniform,
+consistent style. Here are some of De Vinne's compoundings:
+
+(a) Subject-matter, lower-case, making-up, memorandum-book,
+proof-reader, fault-finding, type-setting, style-card, letter-writing,
+printing-house, quote-marks, quotation-marks, piece-compositors,
+five-to-em body, book-making, book-work, pre-historic, pre-raphaelite,
+ill-bred, well-formed, good-looking, composing-room, dining-table,
+canal-boat, ferry-house, dwelling-house [See list on page 74 of De
+Vinne's _Composition_], over-wide, spelled-out, title-page, table-work,
+old-style, bold-faced, hymn-book, to-morrow, to-day, head-lines,
+type-writing, catch-lines, hair-space, thin-space, type-founders,
+side-heading, type-setting, foot-note, letter-writer, side-notes,
+six-point, cut-in note, center-note, shoulder-note, three-em indention,
+wide-leaded, double-leaded, every-day world. Note that they do not agree
+with the Chicago Proofreaders' Association list.
+
+(b) The following are approved forms: Fine-tooth saw, six-bit machine,
+six-foot pole, two-year-old horse, but six-months-old baby. Bluewing,
+whitefish, bricklayer, gaspipe, footboard, motherhood, widowhood.
+
+
+=47. Specials.= The following list is for use in trade-journals:
+Hopvine, hopyard, hop-picker, labor-union, labor-saving, liquordealer,
+liquorseller, liquor-saloon, liquor-store, liquor-bottle, wine-merchant,
+wineroom, winedealer, wine-taster, wine-press, wine-party, wine-vault,
+wine-vinegar, wineglass, wineglassful, wine-stone, vine-disease,
+trade-union, trade-mark, trade-journal, trade-name, trade-wind,
+street-car, street-railroad, street-sweeper, street-sprinkler,
+street-walker, pastepot, paperknife, papercutter, saloonmen,
+saloonkeeper, barkeeper, barkeep, wood-alcohol.
+
+(a) Many words that might be solidified, under the rules of logic, are
+set with hyphens because they present an unsightly appearance as one
+word. These things are largely matters of fancy.
+
+(b) There are some such expressions as, =Italian and Chinese American
+citizens=, which are very puzzling. The question arises whether hyphens
+should be used in such expressions, and how. Such sentences are
+sometimes erroneously written with one hyphen, as, =Italian and
+Chinese-American citizens=. The sentence is proper enough as first
+written, but a somewhat more discriminating use would be, =Italian- and
+Chinese-American citizens=. In expressions like these the interrupted
+compounds are properly written with hyphens. See paragraph 45.
+
+
+=48. Dashes.= Avoid dashes in side-headings, as in this _Style-code_.
+They are not needed at the end of a quotation, between it and the
+credit. See paragraph 22.
+
+Also see De Vinne's _Correct Composition_, page 273.
+
+
+=49. De Vinne Rules Violated.= Though the Century Company, the _Century
+Magazine_, and editors high in authority follow the simple rules laid
+down by De Vinne, there are many violations of these rules in the
+_Century_ itself, as well as in its publications. Sometimes names of
+newspapers are quoted, and sometimes they are set in italic. The system
+of capitals is not closely followed. In a letter to the editor of this
+work, Mr. De Vinne thus explained the failure of the publications of
+the Century Company to show uniformity: "The Century Company has many
+editors, and each editor has notions of his own that printers are
+directed to follow. Though most of these editors abide by the rules
+expounded by me in my works on typography, a study of some of our books
+shows that the neglect to capitalize Bay, City, Island, etc., when the
+word refers distinctly to a proper name, is a common error--so common
+that the proofreaders find it a waste of time to suggest to editors and
+authors the need of a capital. Yet I hold stoutly to the correctness of
+the capital. Even careful editors are often overruled by authors. The
+Century printing-house can not be held responsible, with justice, for
+some of the eccentricities of our printing. It should be borne in mind
+that a printer's business is to do what he is told."
+
+
+=50. Division of Words.= De Vinne says the system most approved now
+authorizes the division of a word, when consistent with pronunciation,
+on the vowel at the end of the syllable. The system is defective in its
+inability to make provision for the syllables that end with consonants.
+Divisions of all kinds should be prevented as often as possible. The
+Chicago Proofreaders' Association offers the following rules concerning
+divisions. The reprint 'follows copy' as published by the Association:
+
+The proper division of words is an important matter. An improper
+division is as much an error as a misplaced letter, and is oftentimes
+more misleading.
+
+Follow the American rule of dividing words at the end of the line
+according to pronunciation rather than the British rule of dividing on
+the vowel or to show derivation. The dictionary in use in any particular
+office should be followed, unless otherwise directed.
+
+Where a vowel constitutes a syllable in the middle of a word, place this
+vowel in the first line, as promi-nent is preferable to prom-inent,
+quali-ties to qual-ities, particu-lar to partic-ular, dili-gence to
+dil-igence, sepa-rate to sep-arate, etc. Exceptions: In words ending in
+-able or -ible, the single vowel should be carried into the second line.
+
+There are frequent instances where a particular division of a word will
+aid the reader in its pronunciation at first sight, obviating a
+faltering or repetition, as pro-gress, verb, and prog-ress, noun;
+distrib-ute, verb, and distri-bution, noun; pre-fer, verb, and
+pref-erable, adjective.
+
+Never divide a word pronounced as one syllable, as "changed,"
+"drowned," "dipped," etc.
+
+Avoid all two-letter divisions except in very narrow measures or where
+very large types are used.
+
+Avoid having three or more successive divisions at the ends of lines.
+
+Divide En-gland and En-glish as pronounced and as they are here printed.
+
+The addition of s to form the plural of a word--as horses, fences,
+etc.--does not justify a division on the last portion so formed, as,
+circumstan-ces, etc. Avoid all such divisions.
+
+
+
+
+51. EDITORIAL OBSERVATIONS.
+
+
+(1) =Employee= is a good English word. Avoid employe whenever possible
+to do so.
+
+(2) =Headquarters= is usually plural, sometimes singular.
+
+(3) =Last held= meeting. =Held= is useless. Newcomer and Teall oppose
+such expressions.
+
+(4) =Etc.= It is a common error to write =etc., etc.= Once is enough.
+
+(5) =Et al.= The use of =et als= is an error. It is always =et al.=
+
+(6) =Follows, as follows.= As follows is always the form, because it is
+impersonal. =As follow= is not needed where the nominative is plural.
+This is on the authority of the _Oxford Dictionary_, also of Doctor
+Fernald of the _Standard_.
+
+(7) =Plurals.= These are preferred plurals: Cannon, craft for vessels,
+heathen, fowl, cherubs, indexes, seraphs, beaus. In scientific writings
+it may be =seraphim=, =formulae= instead of =formulas=, =beaux=, etc.
+
+(8) =Spoonfuls= and handfuls rather than spoonsfull and handsfull.
+
+(9) =The following named persons.= Omit =named=. Newcomer and Teall say
+named is useless.
+
+(10) =Some preferences.= Use controller, not comptroller; draft, not
+draught; drouth, not drought; program, not programme; dulness, not
+dullness; fulness, not fullness; skilful, not skillful; wilful, not
+willful; bazar, not bazaar; employee, not employe.
+
+(11) =On yesterday, on Sunday.= On is usually superfluous, except in
+some sentences, where euphony or emphasis may make the =on= seem an
+element of strength.
+
+(12) =Welsh rarebit.= Welsh =rabbit= is the correct expression. The use
+of rarebit in this connection is from ignorance long current. See
+Walsh's _Handbook of Literary Curiosities, Greenough & Kittredge's Words
+and Their Ways in English Speech_, and the late editions of standard
+dictionaries.
+
+(13) =Self-confessed.= Omit =self= in such expressions as
+=self-confessed= murderer, etc. =Confessed= conveys the idea without any
+assistance from =self=.
+
+(14) =er= words. Spell =theater=, =center=, and like words er, never
+ending re.
+
+
+=52. Books=, papers, plays, operas, and periodicals should be cited in
+italic, as: Bowie's _Tenting On Coral Strands_, the _Sun_, _Lucia_,
+_Mascot_, the _Century_. De Vinne notices an irregularity in the style
+of setting credits. However, bibliographers prefer italic; but printers
+(on account of the saving of labor), select quote-marks. If the name of
+the play and that of the character are the same, as _Ingomar_, the name
+of the play must be quoted, the character italicized. See De Vinne's
+_Correct Composition_, page 224. See also paragraphs 22, 39.
+
+
+=53. Ships and Vessels.= There is not any need to either quote or
+italicize the names of vessels, unless there would be doubt as to what
+the name means. In such cases italics are preferred, though quoting the
+name will do.
+
+
+=54. Newspapers and Magazines.= Names of newspapers and magazines should
+be set in italic. Some papers and magazines quote magazines and
+italicize newspapers. Italics are better in both cases. De Vinne runs
+both in roman. The name of one's own paper is run in small capitals.
+Linotype machines have upset these rules somewhat, but unwisely so in
+careful work.
+
+
+=55. Farther.= Use farther for distance. Further is used in the sense of
+besides, moreover, being equivalent to additional. "I have gone further
+in astronomy, you have traveled farther in miles."
+
+
+=56. Foreign Words and Phrases.= All foreign words and phrases that have
+not been Englished by long use should be italicized. Vice versa, en
+route, pro tem, and like words should go in roman. Aid-de-camp, addenda,
+ad valorem, alias, alibi, alma mater, anno Domini, ante bellum, a
+propos, billet doux, bona fide, bravos, cafe, cantos, carte blanche,
+viva voce, rendezvous, ultimatum, post-mortem, per cent., per capita,
+per annum, facsimile, and about fifty like words go under the same rule.
+
+
+=57. Unfamiliar Words.= Unfamiliar words are run in italic the first
+time, but in roman thereafter, as: _Aloha_, _renigging_, _mulching_. But
+see paragraph 68.
+
+
+=58. Plays.= _Julius Caesar_ should be set in italic when it refers to
+the character in Shakespeare's play, but the name Julius Caesar for the
+man. The play itself should be "Julius Caesar," or _Julius Caesar_. See
+paragraph 52.
+
+
+=59. Salutations.= Under the old way salutations such as _Dear Sir_:
+were put in italics with the colon as indicated. Dear Sir: as here
+written is just as proper. Take your choice and you will not err. The
+dash is not needed. It is well to let =Dear Sir:= occupy a line by
+itself, properly indented.
+
+De Vinne says he never writes such salutations as Dear Sir in italic
+though he admits that italic with a colon and no dash is the commonly
+accepted form. He advises roman lower-case.
+
+
+=60. Salutations and Indentions.= Salutations should be set in ordinary
+roman, with hanging indention, thus:
+
+  The Writers' and Proofreaders' Society for the Prevention of
+    Burial in the Potter's Field, 216 Goodfellows street. Office
+    of the Secretary, 37 New Testament House, New Orleans,
+    January 1, 1908.
+
+  To the Superintendent of the Home for the Unfortunate Dead.
+
+   _Dear Sir_:
+
+      In reply to your request for a list of our members, etc.
+  The signature should be set in small capital letters. See De
+  Vinne's _Correct Composition_, page 168.
+
+
+=61. Punctuation.= The Chicago Proofreaders' Association has these
+rules:
+
+Omit periods after per cent, and after roman numerals when used strictly
+as figures, but not when used in names, as Napoleon III.
+
+Use em dash in conversations such as this:
+
+  Mr. Smith--Is your task completed?
+
+  Mr. Brown--Nearly.
+
+
+=62. Punctuation with Parentheses.= The comma should usually go after
+the last parenthesis; it is seldom needed before the first one. De Vinne
+says: "When any complete sentence is enclosed by parentheses, the period
+should be before the last parenthesis, but when these parentheses
+enclose a few words at the end of a sentence, the period should be after
+the last parenthesis."
+
+
+=63. Medieval= and such words are spelled the simplest way. See the
+_Standard Dictionary_. Subpena, diarrhea, Etna Company.
+
+
+=64. O, Oh, Oh!= These expressions are punctuated thus: O for a South
+Sea home! O that I had insured in the Etna! Oh, how my tooth aches! Oh!
+my crimes are deep and dark.
+
+
+=65. Plural of Proper Names.= It is a common newspaper error to run
+sentences like this, from the social columns of the San Francisco
+_Examiner_ of July 15, 1906: "The Thomas H. Williams have been visiting
+the City." The attempt to make the singular do the duty of the plural in
+such a case is ridiculous. Williamses is the plural of Williams.
+Printers and writers should learn how to write the plural of proper
+names.
+
+
+=66. Quote-marks.= It is sometimes a puzzle where to place quote-marks.
+There is no better rule than that stated by De Vinne, who says that the
+closing marks of quotation always should be placed after the comma or
+the period in all places where these marks are needed; but the fact is
+the proper place of the closing marks of quotation should be determined
+by the quoted words only; they must inclose those words, and no more;
+they may be before or after the points, according to the construction of
+the sentence. When the quotation makes a complete sentence, put the
+quotation-marks after the period at the end of that sentence; when the
+quotation is at the end of but a portion of this sentence which
+terminates with a colon, semicolon, or any other point, then put the
+marks before the point. The mark of punctuation intended to define the
+construction of the completed sentence should not be made a portion of
+the fragmentary quoted matter.
+
+A fine example of this is seen in the following: He asked, "Who said my
+mother lied?" and didn't Jones reply, "Nobody dared to say that"?
+
+
+=67. Smaller Type.= Quote-marks are not needed when extracts or
+quotations are set in smaller type than the body of the book or paper.
+Some reputable publications do not quote the extracts, even when they
+are set in the regular type of the publication and run in separate
+paragraphs. The indenting of the matter one em at the beginning and one
+em at the end of a line suffices. Such matter should be set solid when
+the main text is leaded.
+
+
+=68. Quote-marks, single.= When especial attention is called to a word
+the single quote-marks are used in lieu of the old way of double quotes
+or italic. Thus: He said he thought the word 'grafting' applied to
+politics, not to horticulture. See De Vinne's _Correct Composition_,
+page 213, where authors are advised to make one such emphasis of a word
+suffice, because repetition irritates the reader.
+
+
+=69. Reverend and the reverend.= Never say Reverend John Brown. It must
+always be the Reverend John Brown, for reverend is not a title to be
+used like captain or doctor. Honorable should be used in the same way,
+if at all.
+
+
+=70. Saviour and savior.= Preserve the historic way of spelling the
+Saviour when Jesus Christ is meant. Other saviors are without the _u_.
+
+
+=71. Specials.= Print birdsnest, birdseye, bullseye, heartsease (a plant
+or flower), calvesfoot and neatsfoot as single words, without apostrophe
+or hyphen, except when signifying the actual nest of a bird, the eye of
+a bird or of a bull, etc.
+
+
+=72. Spellings.= The Chicago _Proofreaders' Stylebook_ has given the
+following list of generally misspelled words. The spellings here given
+are in accordance with the _Century_, the _Standard_, and _Webster_.
+
+  absinthin
+  acoustic
+  ax
+  amidin
+  antemetic
+  arabin
+  adz
+
+  backward
+  baptize
+  barytone
+  benzoin
+  Bering (Sea)
+  blond (adj.)
+  bluing
+  bouquet
+  Budapest
+  bur
+
+  caldron
+  calk, -er, -ing
+  calligraphy
+  camellia
+  cantharadin
+  carbureted
+  Chile (S. A.)
+  colter
+  consensus
+  cozy
+
+  darky
+  defense
+  denouement
+  dilettante
+  downward
+  dram (weight)
+  dumfounded
+
+  Eskimo
+
+  forward
+
+  gelatin
+  glycerin
+  gully
+
+  hacienda
+  Hindu
+  Hindustan
+
+  Mohammedan
+  mold, -er, -ing
+  molt, -ed, -ing
+  moneys
+  mustache
+
+  nickel
+
+  oculist
+  offense
+
+  paraffin
+  pedagogy
+  polt
+
+  quartet
+  quintet
+
+  rarefy
+  ruble
+  Rumania
+
+  straitlaced
+  sestet or
+  sextet
+  smolder, -ing
+  sobriquet
+  stanch
+  supersede
+
+  tranquility
+  typify
+
+  upward (not wards)
+  upward
+
+  veranda
+  vermilion
+  vitreous
+
+  whir
+  whisky
+
+
+=73. United States are or United States Is.= If the expression is used
+as a collective term, designating one great nation, the singular is
+correct, but there are many sentences in which the plural verb must be
+used. It is proper to follow copy or query the expression, if there is
+doubt as to its correctness.
+
+
+=74. Verbs, singular or plural.= There should be no hesitation in using
+the singular form of a verb when the subject has a singular meaning.
+Sometimes the logical subject is singular, the grammatical plural, as
+in, =Ten dollars was paid.= By ellipsis, =the sum of= is understood.
+
+(a) =Addition.= Shall we say "two and two is four?" Professor William
+Dwight Whitney decided for the _Century Dictionary_ (of which he was one
+of the editors), that =two and two is four=, because the full meaning is
+=the sum of= two and two, or something "=similarly unifying= in the
+sense of two and two."
+
+(b) The singular verb should be used when the subject is plural in form,
+though it represents a number of things to be taken together as forming
+a unit. Here is an example: Thirty-four years =affects= one's
+remembrance of some circumstances. _De Quincey._
+
+(c) The singular verb is to be used with =book titles= and =similar
+names and singulars= that are plural in form but logically a unit. See
+Baskervill and Sewell's _English Grammar_, pages 312, 313. An example
+from Goldsmith is: "The Three Pigeons expects me down every moment." So,
+we should say the Odd Fellows meets to-night, meaning, by ellipsis, the
+lodge of Odd Fellows.
+
+(d) Companies, associations, etc., are usually singular in meaning, as:
+The Southern Pacific Company =is= in trouble, the Bar Association =is=
+incorporated. However, collective nouns are to be followed by a plural
+verb when the individuals are thought of separately, as: A multitude
+=go= mad about it. _Emerson._ All our household =are= at rest.
+_Coleridge._
+
+(e) The following is from Teall: Three dollars =was= paid, ten dollars
+=was= the price. When the meaning is simply a sum of money as one sum,
+and not so many actual separate dollars, the verb should be singular.
+Though the verb should be singular, this is so under the rules of logic,
+rather than those of grammar. In literal strictness it would not be
+ungrammatical to say ten dollars =were= paid.
+
+(f) Collective nouns are always singular in form, but many of them, if
+not most, may be used even in that form with a plural verb, but such use
+depends upon the nature of the thought to be expressed. Considered as
+really singular are a =crowd=, an =army=, a =multitude=. It should be
+remembered that these words also have regular plural forms, though often
+used with the plural verb in the collective form.
+
+(g) All words like ethics, mathematics, physics, and politics are plural
+in form, but they are usually treated as singular in meaning. The
+dictionary definitions of such words all begin, "the science which
+treats," etc. James Russell Lowell wrote politics _are_, and this has
+been held sufficient justification for this use. _Teall._
+
+(h) Either =bricks= or =brick= is proper as a plural. =Brick= probably
+has the better standing. The _Century Dictionary_ says =brick= is the
+proper singular collective.
+
+
+=75. Whereabouts.= Whereabouts =is=, which is never =are=, is often
+written with the plural verb, but it should not be considered a plural.
+The error doubtless occurs from some fancied resemblance to
+=headquarters=, which may be either singular or plural.
+
+
+=76. Women.= Women's names should never be preceded by their husbands'
+titles, as: Mrs. Governor Pardee, Mrs. General John Jones, Mrs. Doctor
+Charles Ketchum.
+
+
+=77. Variations.= In many of the job offices of the country, also in
+newspaper offices where composition is done by the linotype, there will
+be many variations from the style expounded in this little manual. For
+example, it will not be practical to follow the italic citations of
+books, magazines, newspapers, etc., in offices where the equipment does
+not contain italic magazines. In such cases the use of roman is
+recommended, without quote-marks, which are unnecessary and unsightly.
+If the equipment does not carry small capitals, newspapers should run
+their own names in roman, making no distinction between their own and
+other publications.
+
+When there is no italic, it may be well to quote the names of books and
+plays, also the names of vessels and characters in novels, plays, etc.
+This should not be the custom with vessels and characters, except when
+it is necessary to indicate that a vessel or a character, rather than a
+person, is meant.
+
+Offices not able to carry out the code as set forth in detail in these
+pages, should make notes of deviations, abiding by such portions of the
+code as their equipments make possible. By a few interlineations,
+notations, etc., or by an office card of deviations this work will be
+made useful even where it is not followed to the letter.
+
+
+=78. Wave-lines, etc.= The custom is almost too well known to record
+that one line under a word or words means that the underscored matter is
+to be set in italics, that two lines mean small capitals, and that three
+signify capitals. Similarly, a wave-line under a word or words means
+that the portions of the manuscript thus underscored are to be set in
+lower-case bold-faced type. Two wave-lines under matter mean that it is
+to be set in bold-faced capitals. A single line down the left side of
+matter means that it is to be set in type smaller than the body of the
+article, and two lines indicate that the matter is to be set in type of
+still smaller face.
+
+
+=79. Writers' Absurdities.= Book-offices have their own intricacies of
+style, with the additional bother of having to suit the varying whims of
+authors and publishers. "Many men of many minds" write for the papers,
+but their various whims need not be humored as those of book-writers
+need be. Authors of books frequently insist upon having things their own
+way, and too often the printers have to make that way for them, in
+opposition to what the authors write. This is certainly something for
+which the authors should be made to pay. If an author is determined to
+have certain matters of style conform to a certain set of whims, or
+even of good, logical opinions, he should write accordingly, or pay
+extra for the necessary changes. _Teall._
+
+
+=80. Work of Stenographers.= If stenographers would master the
+principles of the system explained herein they would increase their
+efficiency. As conducted nowadays there is great lack of system in the
+work turned out by stenographers and others who use typewriting
+machines.
+
+Though many of the principles and rules herein set forth are with
+reference to the work of printing-houses, the fact remains that the
+principles that make for good printing make also for good composition in
+general. The De Vinne system should be mastered by typewriters, and used
+by them on all work that is left to their own judgment.
+
+
+=81. Words Spelled Anew.= There has been considerable recent (September,
+1906) discussion of the reformed spelling as recommended by the
+Simplified Spelling Board, of New York City. The list has been
+recommended by eminent scholars of both Europe and America, and many of
+the words have been in general use for many years. In adopting the list
+recently, President Roosevelt said: "It is not an attack on the language
+of Shakespeare and Milton, because it is in some instances a going back
+to the forms they used, and in others merely the extension of changes
+which, as regards other words, have taken place since their time. It is
+not an attempt to do anything far-reaching or sudden or violent, or,
+indeed, anything very great at all. It is merely an attempt to cast what
+slight weight can properly be cast on the side of the popular forces
+which are endeavoring to make our spelling a little less foolish and
+fantastic."
+
+
+
+
+82. THREE HUNDRED WORDS.
+
+
+The complete list is as follows:
+
+  =Use=                       =Instead of=
+
+  abridgment                  abridgement
+  accouter                    accoutre
+  accurst                     accursed
+  acknowledgment              acknowledgement
+  addrest                     addressed
+  adz                         adze
+  affixt                      affixed
+  altho                       although
+  anapest                     anapaest
+  anemia                      anaemia
+  anesthesia                  anaesthesia
+  anesthetic                  anaesthetic
+  antipyrin                   antipyrine
+  antitoxin                   antitoxine
+  apothem                     apothegm
+  apprize                     apprise
+  arbor                       arbour
+  archeology                  archaeology
+  ardor                       ardour
+  armor                       armour
+  artizan                     artisan
+  assize                      assise
+  ax                          axe
+
+  bans                        banns
+  bark                        barque
+  behavior                    behaviour
+  blest                       blessed
+  blusht                      blushed
+  brazen                      brasen
+  brazier                     brasier
+  bun                         bunn
+  bur                         burr
+
+  caliber                     calibre
+  caliper                     calliper
+  candor                      candour
+  carest                      caressed
+  catalog                     catalogue
+  catechize                   catechise
+  center                      centre
+  chapt                       chapped
+  check                       cheque
+  checker                     chequer
+  chimera                     chimaera
+  civilize                    civilise
+  clamor                      clamour
+  clangor                     clangour
+  clapt                       clapped
+  claspt                      clasped
+  clipt                       clipped
+  clue                        clew
+  coeval                      coaeval
+  color                       colour
+  colter                      coulter
+  commixt                     commixed
+  comprest                    compressed
+  comprize                    comprise
+  confest                     confessed
+  controller                  comptroller
+  coquet                      coquette
+  criticize                   criticise
+  cropt                       cropped
+  crost                       crossed
+  crusht                      crushed
+  cue                         queue
+  curst                       cursed
+  cutlas                      cutlass
+  cyclopedia                  cyclopaedia
+
+  dactyl                      dactyle
+  dasht                       dashed
+  decalog                     decalogue
+  defense                     defence
+  demagog                     demagogue
+  demeanor                    demeanour
+  deposit                     deposite
+  deprest                     depressed
+  develop                     develope
+  dieresis                    diaeresis
+  dike                        dyke
+  dipt                        dipped
+  discust                     discussed
+  dispatch                    despatch
+  distil                      distill
+  distrest                    distressed
+  dolor                       dolour
+  domicil                     domicile
+  draft                       draught
+  dram                        drachm
+  drest                       dressed
+  dript                       dripped
+  droopt                      drooped
+  dropt                       dropped
+  dulness                     dullness
+
+  ecumenical                  oecumenical
+  edile                       aedile
+  egis                        aegis
+  enamor                      enamour
+  encyclopedia                encyclopaedia
+  endeavor                    endeavour
+  envelop                     envelope
+  Eolian                      Aeolian
+  eon                         aeon
+  epaulet                     epaulette
+  eponym                      eponyme
+  era                         aera
+  esophagus                   oesophagus
+  esthetic                    aesthetic
+  esthetics                   aesthetics
+  estivate                    aestivate
+  ether                       aether
+  etiology                    aetiology
+  exorcize                    exorcise
+  exprest                     expressed
+
+  fagot                       faggot
+  fantasm                     phantasm
+  fantasy                     phantasy
+  fantom                      phantom
+  favor                       favour
+  favorite                    favourite
+  fervor                      fervour
+  fiber                       fibre
+  fixt                        fixed
+  flavor                      flavour
+  fulfil                      fulfill
+  fulness                     fullness
+
+  gage                        gauge
+  gazel                       gazelle
+  gelatin                     gelatine
+  gloze                       glose
+  glycerin                    glycerine
+  good-by                     good-bye
+  gram                        gramme
+  gript                       gripped
+
+  harbor                      harbour
+  harken                      hearken
+  heapt                       heaped
+  hematin                     haematin
+  hiccup                      hiccough
+  hock                        hough
+  homeopathy                  homoeopathy
+  homonym                     homonyme
+  honor                       honour
+  humor                       humour
+  husht                       hushed
+  hypotenuse                  hypothenuse
+
+  idolize                     idolise
+  imprest                     impressed
+  instil                      instill
+
+  jail                        gaol
+  judgment                    judgement
+
+  kist                        kissed
+
+  labor                       labour
+  lacrimal                    lachrymal
+  lapt                        lapped
+  lasht                       lashed
+  leapt                       leaped
+  legalize                    legalise
+  license                     licence
+  licorice                    liquorice
+  liter                       litre
+  lodgment                    lodgement
+  lookt                       looked
+  lopt                        lopped
+  luster                      lustre
+
+  mama                        mamma
+  maneuver                    manoeuver
+  materialize                 materialise
+  meager                      meagre
+  medieval                    mediaeval
+  meter                       metre
+  mist                        missed
+  miter                       mitre
+  mixt                        mixed
+  mold                        mould
+  molder                      moulder
+  molding                     moulding
+  moldy                       mouldy
+  molt                        moult
+  mullen                      mullein
+
+  naturalize                  naturalise
+  neighbor                    neigh
+  nipt                        nipped
+
+  ocher                       ochre
+  odor                        odour
+  offense                     offence
+  omelet                      omelette
+  opprest                     oppressed
+  orthopedic                  orthopaedic
+
+  paleography                 palaeography
+  paleontology                palaeontology
+  paleozoic                   palaeozoic
+  parlor                      parlour
+  partizan                    partisan
+  past                        passed
+  patronize                   patronise
+  pedagog                     pedagogue
+  pedobaptist                 paedobaptist
+  phenix                      phoenix
+  phenomenon                  phaenomenon
+  pigmy                       pygmy
+  plow                        plough
+  polyp                       polype
+  possest                     possessed
+  practise (v. and n.)        practice
+  prefixt                     prefixed
+  prenomen                    praenomen
+  prest                       pressed
+  pretense                    pretence
+  preterit                    preterite
+  pretermit                   praetermit
+  primeval                    primaeval
+  profest                     professed
+  program                     programme
+  prolog                      prologue
+  propt                       propped
+  pur                         purr
+
+  quartet                     quartette
+  questor                     quaestor
+  quintet                     quintette
+
+  rancor                      rancour
+  rapt                        rapped
+  raze                        rase
+  recognize                   recognise
+  reconnoiter                 reconnoitre
+  rigor                       rigour
+  rime                        rhyme
+  ript                        ripped
+  rumor                       rumour
+
+  saber                       sabre
+  savior                      saviour
+  scepter                     sceptre
+  septet                      septette
+  sepulcher                   sepulchre
+  sextet                      sextette
+  silvan                      sylvan
+  simitar                     cimeter
+  sipt                        sipped
+  skilful                     skillful
+  skipt                       skipped
+  slipt                       slipped
+  smolder                     smoulder
+  snapt                       snapped
+  somber                      sombre
+  specter                     spectre
+  splendor                    splendour
+  stedfast                    steadfast
+  stept                       stepped
+  stopt                       stopped
+  strest                      stressed
+  stript                      stripped
+  subpena                     subpoena
+  succor                      succour
+  suffixt                     suffixed
+  sulfate                     sulphate
+  sulfur                      sulphur
+  sumac                       sumach
+  supprest                    suppressed
+  surprize                    surprise
+  synonym                     synonyme
+
+  tabor                       tabour
+  tapt                        tapped
+  teazel                      teasel
+  tenor                       tenour
+  theater                     theatre
+  tho                         though
+  thoro                       thorough
+  thorofare                   thoroughfare
+  thoroly                     thoroughly
+  thru                        through
+  thruout                     throughout
+  tipt                        tipped
+  topt                        topped
+  tost                        tossed
+  transgrest                  transgressed
+  trapt                       trapped
+  tript                       tripped
+  tumor                       tumour
+
+  valor                       valour
+  vapor                       vapour
+  vext                        vexed
+  vigor                       vigour
+  vizor                       visor
+
+  wagon                       waggon
+  washt                       washed
+  whipt                       whipped
+  whisky                      whiskey
+  wilful                      willful
+  winkt                       winked
+  wisht                       wished
+  wo                          woe
+  woful                       woeful
+  woolen                      woollen
+  wrapt                       wrapped
+
+
+
+
+83. FORMS OF ADDRESS.
+
+
+The following correct forms of address are believed to conform to the
+recognized custom, as indorsed by official, social, and scholarly
+sources of authority. Most of the examples are from Westlake's "How to
+Write Letters," but some are from Harper's Cyclopedia:
+
+=Army Officers.= See Military, Colonel, etc.
+
+=Associate Justice= of the Supreme Court of the United States, or of the
+supreme court of any state. To Honorable John Brown, justice. Sir:
+
+=Assistant Secretaries= of Federal departments, heads of bureaus, etc.
+To John Brown, Esq., secretary of state. Sir:
+
+=Bishop.= Except in the case of Methodists address a bishop as the Right
+Reverend John Brown. Salutation--Right Reverend Sir: or Right Reverend
+and Dear Sir:
+
+=Board of Education, Board of Trade, etc.= To the President and Members
+of the ----. Sirs: or Honorable Sirs: or May it Please Your Honorable
+Body. Other organizations of similar character are addressed after this
+style.
+
+=Cabinet Members.= To the Honorable E. M. Stanton, secretary of war.
+Another form is Honorable E. M. Stanton. The salutation is simply Sir:
+
+=Chief Justice of the Supreme Court.= To the Honorable Joseph McKenna,
+chief justice of the Supreme Court, or To the Chief Justice of the
+Supreme Court. Sir: or Mr. Chief Justice:
+
+=College Presidents.= Either Dear Sir: or Reverend and Dear Sir: as the
+case may be.
+
+=Company, President of.= John Jones, president of the North German
+Cracker Company. Sir: or Dear Sir:
+
+=Court or Judge.= Honorable Thomas F. Graham, judge of the Superior
+Court. Sir: Dear Sir: or Your Honor:
+
+=Colonel.= Colonel John Brown, commanding the First Cavalry. Or Colonel
+John Brown, U. S. A. Colonel:
+
+=Doctors.= Women doctors may be addressed as Doctor Mary Walker, or as
+Mary Walker, M. D. See physicians.
+
+=Dentists.= Doctor John Brown. Sir: or Dear Sir:
+
+=Excellency.= Excellency, Your Excellency, His Excellency, etc., were
+formerly applied to the President, but now such use is wrong. Foreign
+ministers and governors are addressed as Excellency.
+
+=General.= General John Brown, commanding the armies of the U. S.
+General: or Sir: The former is preferred.
+
+=Governor of a State.= To His Excellency Governor George C. Pardee,
+Governor of the State of California, or His Excellency Governor George
+C. Pardee. Sir: or Your Excellency:
+
+=Foreign Ministers.= To His Excellency Edward Everett, Envoy
+Extraordinary at the Court of St. James. Your Excellency: or Sir:
+
+=Heads of State Departments, Members of State Senates, etc.= Honorable
+John Brown, Attorney General, etc. Sir:
+
+=House of Representatives.= To the Honorable the Speaker of the House of
+Representatives. Sir: or Mr. Speaker:
+
+=Honorable.= This title is applicable to judges, mayors, senators,
+representatives in Congress, the heads of government departments and
+others of similar rank below that of governor or President. It is
+improper to thus designate the chiefs of bureaus, and other
+subordinates. In official communications the official designation only
+should be employed.
+
+=Judges in General.= Honorable John Brown. Sir: Dear Sir:
+
+=Justice of the Peace.= John Brown, Esq. Dear Sir:
+
+=Mayor.= Honorable John Brown, Mayor of ----. Sir: or Your Honor:
+
+=Navy Officers.= Admiral Bowman McCalla, Commanding U. S. N. Sir:
+Commodores and others are addressed similarly, changing title to suit
+the office.
+
+=Mr. and Esq.= These terms are somewhat interchangeable in America, but
+an ignorant man should not be addressed as Esq. It is proper to confine
+the title to persons of refinement.
+
+=My Dear Sir.= This implies closer friendship than Dear Sir.
+
+=Miss.= Miss Clara Barton. Dear Madam: or Dear Miss: or Miss Barton:
+
+=Mrs.= May be used, contrary to views expressed elsewhere in this
+volume, before such titles as Mrs. General Sheridan, Mrs. Admiral
+Porter. This custom has the sanction of good usage at the National
+Capital, though critics condemn it.
+
+=Mrs.= Do not address a married woman as Mrs. Jane Smith. Address her as
+Mrs. Erastus Smith if Erastus is her husband's name.
+
+=Mr.= Mr. is sometimes used before such titles as President, Chief
+Justice, Attorney General, etc.
+
+=Military and Naval.= Those who rank under captain in the Army, and
+commodore in the Navy, are addressed as Mr., Sir, or Dr., with U. S. N.
+or U. S. A. after their names.
+
+=Physicians and Surgeons.= Doctor John Brown. Dear Sir: See Doctor for
+women.
+
+=President of a Board of Education, Directors, Commissions, etc.= To
+John Brown, Esq., President of ----. Sir:
+
+=President of the Senate.= To Honorable John Brown, President of the
+Senate of the U. S. Sir: or Honorable Sir:
+
+=President of the U. S.= To the President, Washington, D. C., or To the
+President, Executive Mansion, Washington, D. C. Salutation is Sir: or
+Mr. President: Omit all further ceremony.
+
+=Professor.= This title is conferred by election or by courtesy to men
+of just scholarship. The title should not be applied to barbers, horse
+trainers, dancing teachers and like persons.
+
+=Rector, Minister, Priest, Rabbi, or Reader.= The Reverend.
+Salutation--Sir: Reverend Sir: Reverend and Dear Sir:
+
+=Reverend.= Always write =the= before the title Reverend. Never use Rev.
+immediately before the surname.
+
+
+ROMAN CATHOLIC CLERGY.
+
+=The Pope.= To Our Most Holy Father, Pope Pius IX:, or To His Holiness
+Pope Pius IX. Most Holy Father:, or Your Holiness: Catholics write at
+the end of the letter: Prostrate at the feet of Your Holiness, and
+begging the Apostolic Benediction, I protest myself now and at all times
+to be of Your Holiness the most obedient son,        JOHN BROWN.
+
+Those who are not Catholics should trust to good sense to conclude
+respectfully.
+
+=Cardinals.= To His Eminence Cardinal Brown, Bishop of ----: or To His
+Eminence the Most Reverend Cardinal Brown. Most Eminent Sir: or Most
+Eminent and Most Reverend Sir: Conclude thus: Of Your Eminence the most
+obedient and most humble servant; or, I have the honor to remain, Most
+Eminent Sir, with profound respect your obedient and humble servant.
+
+=Archbishop.= Most Reverend Archbishop Riordan, or Most Reverend John
+Brown, Archbishop of ----. Most Reverend and Respected Sir:, or Most
+Reverend and Dear Sir: Conclude thus: Most Reverend Sir, or Most
+Reverend Archbishop, or Most Reverend and Dear Sir, Your obedient
+servant. Most Reverend and Dear Sir: should be used by a clergyman or a
+friend only.
+
+=Bishop.= Right Reverend John Brown, Bishop of ----. Right Reverend Sir:
+Conclude: I have the honor to remain, Right Reverend Sir, Your obedient
+servant.
+
+=Women Superiors.= Mother Angelica, Superior of ----. (Sisters of
+Charity.)
+
+=Priests.= See Rector, etc.
+
+=Legal Titles.= Members of the bar should always be addressed with Esq.
+following their names.
+
+=State Legislatures.= Same as the houses of Congress, except the name
+and the phrase, in Congress assembled.
+
+=Senate of the United States.= To the Honorable the Senate of the United
+States in Congress assembled. Honorable Sirs: or May It Please Your
+Honorable Body: or The Honorable Senate:
+
+=Vice President.= To the Honorable Henry Wilson, Vice President of the
+U. S., or (unofficial) Honorable Henry Wilson. Sir:
+
+
+
+
+INDEX.
+
+Unless otherwise designated the citations are to paragraphs.
+
+
+  Abbreviations in general, 13 to 26
+
+  Abbreviations of names of states, 29
+
+  Address, forms of, 83
+
+  Ages of persons, 19
+
+  A. M., and like references, 18
+
+  Anno Domini, 13
+
+  Apostrophes to be omitted, when, 15
+
+  Apostrophe in possessives, 16
+
+  Apostrophe wrong for plurals, 14
+
+  Arabic numerals, 17
+
+  Authors are supreme, 12
+
+  Authority, sources of, 1
+
+
+  Books, how cited, 22, 36, 52 and (12) under 27
+
+  Brick or bricks as plural, (h) 74
+
+
+  Cantos, how cited, 37
+
+  Capital letters, when needed, 33, 34
+
+  Chemical terms, 35
+
+  Co. and Company, 21
+
+  Company, singular verb, (d) 74
+
+  Collective nouns, 74
+
+  Compounds in detail, 10, 27, 41, 42, 43 to 47
+
+  Commas essential, (18) under 27
+
+  Copymaking is an art, 6
+
+  Credits, how printed, 52
+
+
+  Dashes, when omitted, 48
+
+  Dates, 23, 24
+
+  Dep't and similar abbreviations, (2) under 27
+
+  De Vinne's System, 1
+
+  De Vinne violated, 49
+
+  Dictionary of capital letters in detail, being alphabetically
+      arranged, 33
+
+  Dictionary should govern, 10
+
+  Division of words, 50
+
+
+  Edited MSS. save money, 3
+
+  Editorial observations, 51
+
+  Employee preferred to employe, (1) under 51
+
+  Er words rather than re, Page 54
+
+  Et al., Page 52
+
+  Etc., Page 52
+
+  Ethics and similar words, (g) under 74
+
+
+  Farther and further, 55
+
+  Figures, how used in dates, 24
+
+  Follows and as follow, Page 52
+
+  Following named, Page 53
+
+  Foreign words and phrases, 56
+
+
+  Headquarters is or are, Page 52
+
+  Hours, how written, 25
+
+
+  Interrupted compounds, 45
+
+
+  Last held meeting, Page 52
+
+  Law books, how cited, 36
+
+
+  Magazines, how named, 54
+
+  Medieval, etc., 63
+
+  Month, how written, 26
+
+  Money, ten dollars was paid, 74
+
+  MS. and MSS., (4) under 27
+
+
+  Names not abbreviated, 28
+
+  Names, plural of, 65
+
+  Newspapers and magazines, 54
+
+  Night of Horrors, 34
+
+  Numbers, spell out, 24
+
+
+  O, Oh, Oh!, 64
+
+  On yesterday or yesterday, Page 53
+
+  Operas and plays, 52 and 58
+
+
+  Pages, how cited, 38
+
+  Paper, size for printers, 8
+
+  Paragraphs, how cited, 37
+
+  Parentheses and punctuation, 62
+
+  Parentheses for states, (10) under 27
+
+  Pet names, how used, (11) under 27
+
+  Plays and operas, how cited, 52
+
+  Plurals, Page 53
+
+  Plurals of names, 65
+
+  Preferred words, Page 53
+
+  Printers blamed, 5
+
+  Printers to edit reprint, 11
+
+  PS., (17) under 27
+
+  Publications, how cited, 39
+
+  Punctuation, some forms of, 61, 62
+
+
+  Quarto, (12) under 27
+
+  Quote-marks in general, 66 and 68
+
+  Quote-marks, use of single, 68
+
+
+  Reverend, the, 69
+
+
+  Salutations, how written, 59, 60
+
+  Saviour and savior, 70
+
+  Scriptural citations, 40
+
+  Self-confessed, Page 54
+
+  Ships and vessels, 53
+
+  Simplified spelling, 82
+
+  Singulars and plurals, 74
+
+  Single quote-marks, 68
+
+  Singulars again, (c) under 74
+
+  Smaller type, 67
+
+  Specials, 71
+
+  Spellings preferred, 72
+
+  Spoonfuls, Page 53
+
+  States, names of abbreviated, 29
+
+  Stenographers need the code, 80
+
+  Streets, how printed, (13) under 27
+
+  Style-codes to be mastered, 9
+
+  Style-codes needed, 2
+
+  Sums-two and two is four, (a) under 74
+
+
+  Time references, (14) under 27
+
+  Titles, how written, (7) and (15) under 27
+
+  To wit, (8) under 27
+
+  Towns and cities, (6) under 27
+
+
+  Unfamiliar words, 57
+
+  United States is or are, 73
+
+
+  Verbs, singular or plural, 74
+
+
+  Wave-lines, 78
+
+  Welsh rabbit, Page 53
+
+  Whereabouts is, 75
+
+  Women and husband's titles, 76
+
+  Words, division of, 50
+
+  Words in legal papers, (16) under 27
+
+
+  Years, 23
+
+
+       *       *       *       *       *
+
+
+     _... THE ...
+     Mysell-Rollins
+     Bank Note Company_
+
+     MANUFACTURERS OF
+
+
+     NEW YORK No. 1
+    _Reporter's Note Book_
+
+  the approved reporter's note book, used by
+  official stenographers and reporters
+  that know
+
+
+     BANK STOCK
+    _Reporter's Note Book_
+
+  made from our celebrated Bank Stock
+  Paper--Saves and relieves the sight
+  Fine for pen or pencil
+
+
+        _22 Clay Street
+  San Francisco    California_
+
+
+       *       *       *       *       *
+
+
+Transcriber's Note:
+
+Bold text is surrounded by =equals signs=, and small caps have been
+changed to ALL CAPS.
+
+Punctuation has been standardised. Variations in hyphenation and
+obsolete or variant spelling have all been preserved.
+
+The following changes have been made:
+
+Page 20: twelvemo => 12mo: (12mo may be used)
+
+Page 45: standstone => sandstone
+
+Index: Abbreviations of names of states, 28 => 29
+
+Index: States, names of abbreviated, 28 => 29
+
+Index: Ethics and similar words, (9) under 74 => (g) under 74
+
+Index: Headquarters is or are, 52 => Page 52
+
+Index: Last held meeting, 52 => Page 52
+
+
+
+
+
+
+End of Project Gutenberg's The Magazine Style-Code, by Leigh H. Irvine
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE MAGAZINE STYLE-CODE ***
+
+***** This file should be named 41289.txt or 41289.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/1/2/8/41289/
+
+Produced by Greg Bergquist, Jennifer Linklater, and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+(This file was produced from images generously made
+available by The Internet Archive/American Libraries.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

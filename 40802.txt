@@ -1,0 +1,1995 @@
+The Project Gutenberg EBook of The Behavior of the Honey Bee in Pollen
+Collection, by D. B. Casteel
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Behavior of the Honey Bee in Pollen Collection
+
+Author: D. B. Casteel
+
+Release Date: September 19, 2012 [EBook #40802]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HONEY BEE IN POLLEN COLLECTION ***
+
+
+
+
+Produced by Tom Cosmas. (This file was produced from images
+generously made available by The Internet Archive)
+
+
+
+
+
+
+
+
+
+
+Transcriber's Note
+
+Text emphasis for italics is represented by _Text_.
+
+
+       *       *       *       *       *
+
+
+
+
+U. S. DEPARTMENT OF AGRICULTURE,
+
+BUREAU OF ENTOMOLOGY--BULLETIN No. 121.
+
+L. O. HOWARD. Entomologist and Chief of Bureau.
+
+
+
+
+THE BEHAVIOR OF THE HONEY BEE
+
+IN POLLEN COLLECTING.
+
+
+
+BY
+
+
+
+D. B. CASTEEL, Ph. D.,
+
+_Collaborator and Adjunct Professor of Zoology,_
+
+_University of Texas._
+
+
+
+Issued December 31, 1912.
+
+
+
+
+[Illustration]
+
+
+
+WASHINGTON:
+
+GOVERNMENT PRINTING OFFICE.
+
+1912.
+
+
+
+
+_BUREAU OF ENTOMOLOGY._
+
+L. O. Howard, _Entomologist and Chief of Bureau_.
+
+C. L. Marlatt, _Entomologist and Acting Chief in Absence of Chief_.
+
+R. S. Clifton, _Executive Assistant_.
+
+W. F. Tastet, _Chief Clerk_.
+
+
+F. H. Chittenden, _in charge of truck crop and stored product insect
+investigations_.
+
+A. D. Hopkins, _in charge of forest insect investigations_.
+
+W. D. Hunter, _in charge of southern field crop insect investigations_.
+
+F. M. Webster, _in charge of cereal and forage insect investigations_.
+
+A. L. Quaintance, _in charge of deciduous fruit insect investigations_.
+
+E. F. Phillips, _in charge of bee culture_.
+
+D. M. Rogers, _in charge of preventing spread of moths, field work_.
+
+Rolla P. Currie, _in charge of editorial work_.
+
+Mabel Colcord, _in charge of library_.
+
+
+Investigations in Bee Culture.
+
+E. F. Phillips, _in charge_.
+
+
+G. F. White, J. A. Nelson, _experts_.
+
+G. S. Demuth, A. H. McCray, N. E. McIndoo, _apicultural assistants_.
+
+Pearle H. Garrison, preparator.
+
+D. B. Casteel, collaborator.
+
+
+
+
+LETTER OF TRANSMITTAL.
+
+
+
+U. S. Department of Agriculture,
+
+Bureau of Entomology,
+
+_Washington, D. C, September 23, 1912_.
+
+Sir: I have the honor to transmit herewith a manuscript entitled "The
+Behavior of the Honey Bee in Pollen Collecting," by Dr. Dana B.
+Casteel, of this bureau. The value of the honey bee in cross
+pollinating the flowers of fruit trees makes it desirable that exact
+information be available concerning the actions of the bee when
+gathering and manipulating the pollen. The results recorded in this
+manuscript are also of value as studies in the behavior of the bee and
+will prove interesting and valuable to the bee keeper. The work here
+recorded was done by Dr. Casteel during the summers of 1911 and 1912
+at the apiary of this bureau.
+
+I recommend that this manuscript be published as Bulletin No. 121
+of the Bureau of Entomology.
+
+Respectfully,
+
+L. O. Howard,
+
+_Entomologist and Chief of Bureau_.
+
+
+Hon. James Wilson,
+
+_Secretary of Agriculture_.
+
+
+
+
+CONTENTS.
+
+
+                                                                 Page.
+
+  Introduction                                                      7
+
+  The structures concerned in the manipulation of pollen            7
+
+  The pollen supply                                                10
+
+  General statement of the pollen-collecting process               11
+
+  Action of the forelegs and mouthparts                            13
+
+  Action of the middle legs                                        14
+
+  Action of the hind legs                                          16
+
+  Additional details of the basket-loading process                 18
+
+  Pollen moistening                                                22
+
+  Storing pollen in the hive                                       29
+
+  Summary                                                          31
+
+  Bibliography                                                     33
+
+  Index                                                            35
+
+
+
+
+ILLUSTRATIONS.
+
+
+TEXT FIGURES.
+
+                                                                 Page.
+
+  Fig. 1. Left foreleg of a worker bee                              8
+
+       2. Left middle leg of a worker bee                           9
+
+       3. Outer surface of the left hind leg of a worker bee       10
+
+       4. Inner surface of the left hind leg of a worker bee       11
+
+       5. A flying bee, showing the manner in which the forelegs
+            and middle legs manipulate pollen                      14
+
+       6. A bee upon the wing, showing the position of the middle
+            legs when they touch and pat down the pollen masses    15
+
+       7. A bee upon the wing, showing the manner in which the
+            hind legs are held during the basket-loading process   17
+
+       8. The left hind legs of worker bees, showing the manner
+            in which pollen enters the basket                      19
+
+       9. Inner surface of the right hind leg of a worker bee
+           which bears a complete load of pollen                   22
+
+
+
+
+THE BEHAVIOR OF THE HONEY BEE IN POLLEN COLLECTING.
+
+
+
+
+INTRODUCTION.
+
+
+While working upon the problem of wax-scale manipulation during the
+summer of 1911 the writer became convinced that the so-called wax
+shears or pinchers of the worker honey bee have nothing whatever to do
+with the extraction of the wax scales from their pockets, but rather
+that they are organs used in loading the pollen from the pollen combs
+of the hind legs into the corbiculae or pollen baskets (Cast eel,
+1912). Further observations made at that time disclosed the exact
+method by which the hind legs are instrumental in the pollen-loading
+process and also the way in which the middle legs aid the hind legs in
+patting down the pollen masses. During the summer of 1912 additional
+information was secured, more particularly that relating to the manner
+in which pollen is collected upon the body and legs of the bee, how it
+is transferred to the hind legs, how it is moistened, and finally the
+method by which it is stored in the hive for future use. In the
+present paper a complete account will be given of the history of the
+pollen from the time it leaves the flower until it rests within the
+cells of the hive. The points of more particular interest in the
+description of pollen manipulation refer to (1) the movements
+concerned in gathering the pollen from the flowers upon the body and
+legs, (2) the method by which the baskets of the hind legs receive the
+loads which they carry to the hive, and (3) the manner in which the
+bee moistens pollen and renders it sufficiently cohesive for packing
+and transportation.
+
+
+
+
+THE STRUCTURES CONCERNED IN THE MANIPULATION OF POLLEN.
+
+
+The hairs which cover the body and appendages of the bee are of the
+utmost importance in the process of pollen gathering. For the purposes
+of this account these hairs may be classified roughly as (1) branched
+hairs and (2) unbranched hairs, the latter including both long,
+slender hairs and stiff, spinelike structures.
+
+Of these two classes the branched hairs are the more numerous. They
+make up the hairy coat of the head, thorax, and abdomen, with the
+exception of short sensory spines, as those found upon the antennae and
+perhaps elsewhere, and the stiff unbranched hairs which cover the
+surfaces of the compound eyes (Phillips, 1905). Branched hairs are
+also found upon the legs; more particularly upon the more proximal
+segments. A typical branched hair is composed of a long slender main
+axis from which spring numerous short lateral barbs. Grains of pollen
+are caught and held in the angles between the axis and the barbs and
+between the barbs of contiguous hairs. The hairy covering of the body
+and legs thus serves as a collecting surface upon which pollen grains
+are temporarily retained and from which they are later removed by the
+combing action of the brushes of the legs. Although, as above noted,
+some unbranched hairs are located upon the body of the bee, they occur
+in greatest numbers upon the more distal segments of the appendages.
+They are quite diverse in form, some being extremely long and slender,
+such as those which curve over the pollen baskets, others being stout
+and stiff, as those which form the collecting brushes and the pecten
+spines.
+
+The mouthparts of the bee are also essential to the proper collection
+of pollen. The mandibles are used to scrape over the anthers of
+flowers, and considerable pollen adheres to them and is later removed.
+The same is true of the maxillae and tongue. From the mouth comes the
+fluid by which the pollen grains are moistened.
+
+The legs of the worker bee are especially adapted for pollen
+gathering. Each leg bears a collecting brush, composed of stiff,
+unbranched hairs set closely together. These brushes are located upon
+the first or most proximal tarsal segment of the legs, known
+technically as the palmae of the forelegs and as the plantae of the
+middle and hind pair. The brush of the foreleg is elongated and of
+slight width (fig. 1), that of the middle leg broad and flat (fig. 2),
+while the brush upon the planta of the hind leg is the broadest of
+all, and is also the most highly specialized. In addition to these
+well-marked brushes, the distal ends of the tibiae of the fore and
+middle legs bear many stiff hairs, which function as pollen
+collectors, and the distal tarsal joints of all legs bear similar
+structures.
+
+[Illustration: Fig. 1.--Left foreleg of a worker bee. (Original.)]
+
+The tibia and the planta of the hind leg of the worker bee are greatly
+flattened. (See figs. 3, 4.) The outer surface of the tibia is marked
+by an elongated depression, deepest at its distal end, and bounded
+laterally by elevated margins. From the lateral boundaries of this
+depression spring many long hairs, some of which arch over the concave
+outer surface of the tibia and thus form a kind of receptacle or
+basket to which the name corbicula or pollen-basket is given. The
+lower or distal end of the tibia articulates at its anterior edge with
+the planta. The remaining portion of this end of the tibia is
+flattened and slightly concave, its surface sloping upward from the
+inner to the outer surface of the limb. Along the inner edge of this
+surface runs a row of short, stiff, backwardly directed spines, from
+15 to 21 in number, which form the pecten or comb of the tibia. The
+lateral edge of this area forms the lower boundary of the corbicula r
+depression and is marked by a row of very fine hairs which branch at
+their free ends. Immediately above these hairs, springing from the
+floor of the corbicula, are found 7 or 8 minute spines, and above them
+one long hair which reaches out over the lower edge of the basket.
+
+The broad, flat planta (metatarsus or proximal tarsal segment of the
+hind leg) is marked on its inner surface by several rows of stiff,
+distally directed spines which form the pollen combs. About 12 of
+these transverse rows may be distinguished, although some of them are
+not complete. The most distal row, which projects beyond the edge of
+the planta, is composed of very strong, stiff spines which function in
+the removal of the wax scales (Casteel, 1912). The upper or proximal
+end of the planta is flattened and projects in a posterior direction
+to form the auricle. The surface of the auricle is marked with short,
+blunt spines, pyramidal in form, and a fringe of fine hairs with
+branching ends extends along its lateral edge. This surface slopes
+upward and outward.
+
+[Illustration: Fig. 2.--Left middle leg of a worker bee. (Original.)]
+
+
+
+
+THE POLLEN SUPPLY.
+
+
+When bees collect pollen from flowers they may be engaged in this
+occupation alone or may combine it with nectar gathering. From some
+flowers the bees take only nectar, from others only pollen; a third
+class of flowers furnishes an available supply of both of these
+substances. But even where both pollen and nectar are obtainable a bee
+may gather nectar and disregard the pollen. This is well illustrated
+by the case of white clover. If bees are watched while working upon
+clover flowers, the observer will soon perceive some which bear pollen
+masses upon their hind legs, while others will continue to visit
+flower after flower, dipping into the blossoms and securing a
+plentiful supply of nectar, yet entirely neglecting the pollen.
+
+[Illustration: Fig. 3.--Outer surface of the left hind leg of a worker
+bee. (Original.)]
+
+The supply of pollen which is available for the bees varies greatly
+among different flowers. Some furnish an abundant amount and present
+it to the bee in such a way that little difficulty is experienced in
+quickly securing an ample load, while others furnish but little. When
+flowers are small and when the bee approaches them from above, little,
+if any, pollen is scattered over the bee's body, all that it acquires
+being first collected upon the mouth and neighboring parts, of a Very
+different conditions are met with when bees visit such plants as corn
+and ragweed. The flowers of these plants are pendent and possess an
+abundant supply of pollen, which falls in showers over the bodies of
+the bees as they crawl beneath the blossoms. The supply of pollen
+which lodges upon the body of the bee will thus differ considerably in
+amount, depending upon the type of flower from which the bee is
+collecting, and the same is true regarding the location upon the body
+of a bee of pollen grains which are available for storage in the
+baskets. Moreover, the movements concerned in the collection of the
+pollen from the various body parts of the bee upon which it lodges
+will differ somewhat in the two cases, since a widely scattered supply
+requires for its collection additional movements, somewhat similar in
+nature to those which the bee employs in cleaning the hairs which
+cover its body.
+
+[Illustration: Fig. 4.--Inner surface of the left hind leg of a worker
+bee. (Original.)]
+
+
+
+
+GENERAL STATEMENT OF THE POLLEN-COLLECTING PROCESS.
+
+
+A very complete knowledge of the pollen-gathering behavior of the
+worker honey bee may be obtained by a study of the actions of bees
+which are working upon a plant which yields pollen in abundance. Sweet
+corn is an ideal plant for this purpose, and it will be used as a
+basis for the description which follows.
+
+In attempting to outline the method by which pollen is manipulated the
+writer wishes it to be understood that he is recounting that which he
+has seen and that the description is not necessarily complete,
+although he is of the opinion that it is very nearly so. The movements
+of the legs and of the mouthparts are so rapid and so many members
+are in action at once that it is impossible for the eye to follow all
+at the same time. However, long-continued observation, assisted by the
+study of instantaneous photographs, gives confidence that the
+statements recorded are accurate, although some movements may have
+escaped notice.
+
+To obtain pollen from corn the bee must find a tassel in the right
+stage of ripeness, with flowers open and stamens hanging from them.
+The bee alights upon a spike and crawls along it, clinging to the
+pendent anthers. It crawls over the anthers, going from one flower to
+another along the spike, being all the while busily engaged in the
+task of obtaining pollen. This reaches its body in several ways.
+
+As the bee moves over the anthers it uses its mandibles and tongue,
+biting the anthers and licking them and securing a considerable amount
+of pollen upon these parts. This pollen becomes moist and sticky,
+since it is mingled with fluid from the mouth. A considerable amount
+of pollen is dislodged from the anthers as the bee moves over them.
+All of the legs receive a supply of this free pollen and much adheres
+to the hairs which cover the body, more particularly to those upon the
+ventral surface. This free pollen is dry and powdery and is very
+different in appearance from the moist pollen masses with which the
+bee returns to the hive. Before the return journey this pollen must be
+transferred to the baskets and securely packed in them.
+
+After the bee has traversed a few flowers along the spike and has
+become well supplied with free pollen it begins to collect it from its
+body, head, and forward appendages and to transfer it to the posterior
+pair of legs. This may be accomplished while the bee is resting upon
+the flower or while it is hovering in the air before seeking
+additional pollen. It is probably more thoroughly and rapidly
+accomplished while the bee is in the air, since all of the legs are
+then free to function in the gathering process.
+
+If the collecting bee is seized with forceps and examined after it has
+crawled over the stamens of a few flowers of the corn, its legs and
+the ventral surface of its body are found to be thickly powdered over
+with pollen. If the bee hovers in the air for a few moments and is
+then examined very little pollen is found upon the body or upon the
+legs, except the masses within the pollen baskets. While in the air it
+has accomplished the work of collecting some of the scattered grains
+and of storing them in the baskets, while others have been brushed
+from the body.
+
+In attempting to describe the movements by which this result is
+accomplished it will be best first to sketch briefly the roles of the
+three pairs of legs. They are as follows:
+
+(_a_) The first pair of legs remove scattered pollen from the head and
+the region of the neck, and the pollen that has been moistened by
+fluid substances from the mouth.
+
+(_b_) The second pair of legs remove scattered pollen from the thorax,
+more particularly from the ventral region, and they received the
+pollen that has been collected by the first pair of legs.
+
+(_c_) The third pair of legs collect a little of the scattered pollen
+from the abdomen and they receive pollen that has been collected by
+the second pair. Nearly all of this pollen is collected by the pollen
+combs of the hind legs, and is transferred from the combs to the
+pollen baskets or corbiculae in a manner to be described later.
+
+It will thus be seen that the manipulation of pollen is a successive
+process, and that most of the pollen at least passes backward from the
+point where it happens to touch the bee until it finally reaches the
+corbiculae or is accidentally dislodged and falls from the rapidly
+moving limbs.
+
+
+
+
+ACTION OF THE FORELEGS AND MOUTHPARTS.
+
+
+Although the pollen of some plants appears to be somewhat sticky, it
+may be stated that as a general rule pollen can not be successfully
+manipulated and packed in the baskets without the addition of some
+fluid substance, preferably a fluid which will cause the grains to
+cohere. This fluid, the nature of which will be considered later,
+comes from the mouth of the bee, and is added to the pollen which is
+collected by the mouthparts and to that which is brought into contact
+with the protruding tongue and maxillae, and, as will appear, this
+fluid also becomes more generally distributed upon the legs and upon
+the ventral surface of the collecting bee.
+
+When a bee is collecting from the flowers of corn the mandibles are
+actively engaged in seizing, biting, and scraping the anthers as the
+bee crawls over the pendent stamens. Usually, but not always, the
+tongue is protruded and wipes over the stamens, collecting pollen and
+moistening the grains thus secured. Some of the pollen may possibly be
+taken into the mouth. All of the pollen which comes in contact with
+the mouthparts is thoroughly moistened, receiving more fluid than is
+necessary for rendering the grains cohesive. This exceedingly wet
+pollen is removed from the mouthparts by the forelegs (fig. 5), and
+probably the middle legs also secure a little of it directly, since
+they sometimes brush over the lower surface of the face and the mouth.
+In addition to removing the very moist pollen from the mouth the
+forelegs also execute cleansing movements over the sides of the head
+and neck and the anterior region of the thorax, thereby collecting
+upon their brushes a considerable amount of pollen which has fallen
+directly upon these regions, and this is added to the pollen moistened
+from the mouth, thereby becoming moist by contact. The brushes of the
+forelegs also come in contact with the anterior breast region, and the
+hairs which cover this area become moist with the sticky exudation
+which the forelegs have acquired in the process of wiping pollen from
+the tongue, maxillae, and mandibles.
+
+
+
+
+ACTION OF THE MIDDLE LEGS.
+
+
+The middle legs are used to collect the pollen gathered by the
+forelegs and mouthparts, to remove free pollen from the thoracic
+region, and to transport their load of pollen to the hind legs,
+placing most of it upon the pollen combs of these legs, although a
+slight amount is directly added to the pollen masses in the corbiculae.
+Most of the pollen of the middle legs is gathered upon the conspicuous
+brushes of the first tarsal segments or plantae of these legs.
+
+[Illustration: Fig. 5.--A flying bee, showing the manner in which the
+forelegs and middle legs manipulate pollen. The forelegs are removing
+wet pollen from the mouthparts and face. The middle leg of the right
+side is transferring the pollen upon its brush to the pollen combs of
+the left hind planta. A small amount of pollen has already been placed
+in the baskets. (Original.)]
+
+In taking pollen from a foreleg the middle leg of the same side is
+extended in a forward direction and is either grasped by the flexed
+foreleg or rubbed over the foreleg as it is bent downward and
+backward. In the former movement the foreleg flexes sharply upon
+itself until the tarsal brush and coxa nearly meet. The collecting
+brush of the middle leg is now thrust in between the tarsus and coxa
+of the foreleg and wipes off some of the pollen from the foreleg
+brush. The middle leg brush is then raised and combs down over the
+flexed foreleg, thus removing additional pollen from the outer surface
+of this leg. The middle leg also at times reaches far forward,
+stroking down over the foreleg before it is entirely flexed and
+apparently combing over with its tarsal brush the face and mouthparts
+themselves. When the middle leg reaches forward to execute any of the
+above movements the direction of the stroke is outward, forward, and
+then back toward the body, the action ending with the brush of the leg
+in contact with the long hairs of the breast and with those which
+spring from the proximal segments of the forelegs (coxa, trochanter,
+femur). As a result of the oft-repeated contact of the brushes of the
+middle and forelegs with the breast, the long, branched hairs which
+cover this region become quite moist and sticky, since the brushes of
+these two pair of legs are wet and the pollen which they bear
+possesses a superabundance of the moistening fluid. Any dry pollen
+which passes over this region and touches these hairs receives
+moisture by contact with them. This is particularly true of the free
+dry pollen which the middle pair of legs collect by combing over the
+sides of the thorax.
+
+[Illustration: Fig. 6.--A bee upon the wing, showing the position of
+the middle legs when they touch and pat down the pollen masses. A very
+slight amount of pollen reaches the corbiculae through this movement.
+(Original.)]
+
+The pollen upon the middle legs is transferred to the hind legs in at
+least two ways. By far the larger amount is deposited upon the pollen
+combs which lie on the inner surfaces of the plantae of the hind legs.
+To accomplish this a middle leg is placed between the plantae of the
+two hind legs, which are brought together so as to grasp the brush of
+the middle leg, pressing it closely between them, but allowing it to
+be drawn toward the body between the pollen combs of the two hind
+legs. (See fig. 5.) This action results in the transference of the
+pollen from the middle-leg brush to the pollen combs of the hind leg
+of the opposite side, since the combs of that leg scrape over the
+pollen-laden brush of the middle leg. This action may take place while
+the bee is on the wing or before it leaves the flower.
+
+The middle legs place a relatively small amount of pollen directly
+upon the pollen masses in the corbiculae. This is accomplished when the
+brushes of the middle legs are used to pat down the pollen masses and
+to render them more compact. (See fig. 6.) The legs are used for this
+purpose quite often during the process of Loading the baskets, and a
+small amount of pollen is incidentally added to the masses when the
+brushes come into contact with them. A misinterpretation of this
+action has led some observers into the erroneous belief that all or
+nearly all of the corbicular pollen is scraped from the middle-leg
+brushes by the hairs which fringe the sides of the baskets. The middle
+legs do not scrape across the baskets, but merely pat downward upon
+the pollen which is there accumulating.
+
+It is also possible that, in transferring pollen from the middle leg
+of one side to the planta of the opposite hind leg, the middle-leg
+brush may touch and rub over the pecten of the hind leg and thus
+directly place some of its pollen behind the pecten spines. Such a
+result is, however, very doubtful.
+
+
+
+
+ACTION OF THE HIND LEGS.
+
+
+The middle legs contribute the major portion of the pollen which
+reaches the hind legs, and all of it in cases where all of the pollen
+first reaches the bee in the region of the mouth. However, when much
+pollen falls upon the body of the bee the hind legs collect a little
+of it directly, for it falls upon their brushes and is collected upon
+them when these legs execute cleansing movements to remove it from the
+ventral surface and sides of the abdomen. All of the pollen which
+reaches the corbiculae, with the exception of the small amount placed
+there by the middle legs when they pat down the pollen masses, passes
+first to the pollen combs of the plantae.
+
+When in the act of loading pollen from the plantar brushes to the
+corbiculae the two hind legs hang beneath the abdomen with the
+tibio-femoral joints well drawn up toward the body. (See fig. 7.) The
+two plantae lie close together with their inner surfaces nearly
+parallel to each other, but not quite, since they diverge slightly at
+their distal ends. The pollen combs of one leg are in contact with the
+pecten comb of the opposite leg. If pollen is to be transferred from
+the right planta to the left basket, the right planta is drawn upward
+in such a manner that the pollen combs of the right leg scrape over
+the pecten spines of the left. By this action some of the pollen is
+removed from the right plantar combs and is caught upon the outer
+surfaces of the pecten spines of the left leg.
+
+This pollen now lies against the pecten and upon the flattened distal
+end of the left tibia. At this moment the planta of the left leg is
+flexed slightly, thus elevating the auricle and bringing the auricular
+surface into contact with the pollen which the pecten has just
+received. By this action the pollen is squeezed between the end of the
+tibia and the surface of the auricle and is forced upward against the
+distal end of the tibia and on outward into contact with the pollen
+mass accumulating in the corbicula. As this act, by which the left
+basket receives a small contribution of pollen, is being completed,
+the right leg is lowered and the pecten of this leg is brought into
+contact with the pollen combs of the left planta, over which they
+scrape as the left leg is raised, thus depositing pollen upon the
+lateral surfaces of the pecten spines of the right leg. (See fig. 7.)
+
+Right and left baskets thus receive alternately successive
+contributions of pollen from the planta of the opposite leg. These
+loading movements are executed with great rapidity, the legs rising
+and falling with a pump-like motion. A very small amount of pollen is
+loaded at each stroke and many strokes are required to load the
+baskets completely.
+
+[Illustration: Fig. 7.--A bee upon the wing, showing the manner in
+which the hind legs are held during the basket-loading process. Pollen
+is being scraped by the pecten spines of the right leg from the pollen
+combs of the left hind planta. (Original.)]
+
+If one attempts to obtain, from the literature of apiculture and
+zoology, a knowledge of the method by which the pollen baskets
+themselves are loaded, he is immediately confused by the diversity of
+the accounts available. The average textbook of zoology follows
+closely Cheshire's (1886) description in which he says that "the legs
+are crossed, and the metatarsus naturally scrapes its comb face on the
+upper edge of the opposite tibia in the direction from the base of the
+combs toward their tips. These upper hairs * * * are nearly straight,
+and pass between the comb teeth. The pollen, as removed, is caught by
+the bent-over hairs, and secured. Each scrape adds to the mass, until
+the face of the joint is more than covered, and the hairs just embrace
+the pellet." Franz (1906) states that (translated) "the final loading
+of the baskets is accomplished by the crossing over of the hind-tarsal
+segments, which rub and press upon each other." Many other observers
+and textbook writers evidently believed that the hind legs were
+crossed in the loading process.
+
+On the other hand, it is believed by some that the middle legs are
+directly instrumental in filling the baskets. This method is indicated
+in the following quotation from Fleischmann and Zander (1910)
+(translated):
+
+     The second pair of legs transfer the pollen to the hind legs, where
+     it is heaped up in the pollen masses. The tibia of each hind leg is
+     depressed on its outer side, and upon the edges of this depression
+     stand two rows of stiff hairs which are bent over the groove. The
+     brushes of the middle pair of legs rub over these hairs, liberating
+     the pollen, which drops into the baskets.
+
+A suggestion of the true method is given by Hommell (1906), though his
+statements are somewhat indefinite. After describing the method by
+which pollen is collected, moistened, and passed to the middle legs he
+states that (translated) "the middle legs place their loads upon the
+pollen combs of the hind legs. There the sticky pollen is kneaded and
+is pushed across the pincher (_a traverse la pince_), is broken up
+into little masses and accumulates within the corbicula. In
+accomplishing this, the legs cross and it is the tarsus of the right
+leg which pushes the pollen across the pincher of the left, and
+reciprocally. The middle legs never function directly in loading the
+baskets, though from time to time their sensitive extremities touch
+the accumulated mass, for the sake of giving assurance of its position
+and size."
+
+The recent valuable papers of Sladen (1911, 1912, _a_, _b_, _c_, _d_,
+and _e_), who was the first to present a true explanation of the
+function of the abdominal scent gland of the bee, give accounts of the
+process by which the pollen baskets are charged, which are in close
+accord with the writer's ideas on this subject. It is a pleasure to be
+able to confirm most of Sladen's observations and conclusions, and
+weight is added to the probable correctness of the two descriptions
+and interpretations of this process by the fact that the writer's
+studies and the conclusion based upon them were made prior to the
+appearance of Sladen's papers and quite independent of them. His
+description of the basket-loading process itself is so similar to the
+writer's own that a complete quotation from him is unnecessary. A few
+differences of opinion will, however, be noted while discussing some
+of the movements which the process involves. As will later be noted,
+our ideas regarding the question of pollen moistening, collecting, and
+transference are somewhat different.
+
+
+
+
+ADDITIONAL DETAILS OF THE BASKET-LOADING PROCESS.
+
+
+The point at which pollen enters the basket can best be determined by
+examining the corbiculae of a bee shortly after it has reached a flower
+and before much pollen has been collected. Within each pollen basket
+of such a bee is found a small mass of pollen, which lies along the
+lower or distal margin of the basket. (See fig 8, _a_.) It is in this
+position because it has been scraped from the planta of the opposite
+leg by the pecten comb and has been pushed upward past the entrance of
+the basket by the continued addition of more from below, propelled by
+the successive strokes of the auricle. Closer examination of the
+region between the pecten and the floor of the basket itself shows
+more pollen, which is on its way to join that already squeezed into
+the basket.
+
+[Illustration: Fig. 8.--Camera drawings of the left hind legs of
+worker bees to show the manner in which pollen enters the basket. _a_,
+Shows a leg taken from a bee which is just beginning to collect. It
+had crawled over a few flowers and had flown in the air about five
+seconds at the time of capture. The pollen mass lies at the entrance
+of the basket, covering over the fine hairs which lie along this
+margin and the seven or eight short stiff spines which spring from the
+floor of the corbicula immediately above its lower edge. As yet the
+pollen has not come in contact with the one long hair which rises from
+the floor and arches over the entrance. The planta is extended, thus
+lowering the auricle; _b_, represents a slightly later stage, showing
+the increase of pollen. The planta is flexed, raising the auricle. The
+hairs which extend outward and upward from the lateral edge of the
+auricle press upon the lower and outer surface of the small pollen
+mass, retaining it and guiding it upward into the basket; _c_, _d_,
+represent slightly later stages in the successive processes by which
+additional pollen enters the basket. (Original.)]
+
+
+If the collecting bee is watched for a few moments the increase will
+readily be noted and the fact will be established that the
+accumulating mass is gradually working upward or proximally from the
+lower or distal edge of the corbicula and is slowly covering the
+floor of this receptacle. (See figs. 8, _b_, _c_, and _d_.) In many
+instances the successive contributions remain for a time fairly
+separate, the whole mass being marked by furrows transverse to the
+long axis of the tibia.
+
+Sladen (1912, _b_) notes the interesting fact that in those rather
+exceptional cases when a bee gathers pollen from more than one species
+of flowers the resulting mass within the corbicula will show a
+stratification parallel to the distal end, a condition which could
+result only from the method of loading here indicated.
+
+As the pollen within the basket increases in amount it bulges outward,
+and projects downward below the lower edge of the basket. It is held
+in position by the long hairs which fringe the lateral sides of the
+basket, and its shape is largely determined by the form of these hairs
+and the direction in which they extend. When the basket is fully
+loaded the mass of pollen extends laterally on both sides of the
+tibia, but projects much farther on the posterior side, for on this
+side the bounding row of hairs extends outward, while on the anterior
+edge the hairs are more curved, folding upward and over the basket. As
+the mass increases in thickness by additions from below it is held in
+position by these long hairs which edge the basket. They are pushed
+outward and many of them become partly embedded in the pollen as it is
+pushed up from below. When the pollen grains are small and the whole
+mass is well moistened the marks made by some of the hairs will be
+seen on the sides of the load. (See fig. 9, _a_.) These scratches are
+also transverse in direction and they show that the mass has been
+increased by additions of pollen pushed up from below.
+
+Even a superficial examination of a heavily laden basket shows the
+fallacy of the supposition that the long lateral fringing hairs are
+used to comb out the pollen from the brushes of either the hind or
+middle legs by the crossing of these legs over the lateral edges of
+the baskets. They are far from sufficiently stiff to serve this
+purpose, and their position with relation to the completed load shows
+conclusively that they could not be used in the final stages of the
+loading process, for the pollen mass has completely covered many of
+them and its outer surface extends far beyond their ends. They serve
+merely to hold the pollen in place and to allow the load to project
+beyond the margins of the tibia.
+
+The auricle plays a very essential part in the process of loading the
+basket. This structure comprises the whole of the flattened proximal
+surface of the planta, except the joint of articulation itself, and it
+extends outward in a posterior direction a little beyond the remaining
+plantar edge. The surface of the auricle is covered over with many
+blunt, short spines and its lateral margin is bounded by a row of
+short rather pliable hairs, branched at their ends. When the planta
+is flexed the auricle is raised and its surface approaches the distal
+end of the tibia, its inner edge slipping up along the pecten spines
+and its outer hairy edge projecting into the opening which leads to
+the pollen basket. (See fig. 8, _b_.) With each upward stroke of the
+auricle small masses of pollen which have been scraped from the
+plantar combs by the pecten are caught and compressed between the
+spiny surface of the auricle and the surface of the tibia above it.
+The pressure thus exerted forces the pasty pollen outward and upward,
+since it can not escape past the base of the pecten, and directs it
+into the entrance to the corbicula. The outward and upward slant of
+the auricular surface and the projecting hairs with which the outer
+edge of the auricle is supplied also aid in directing the pollen
+toward the basket. Sladen (1911) states that in this movement the weak
+wing of the auricle is forced backward, and thus allows the escape of
+pollen toward the basket entrance, but this appears both doubtful and
+unnecessary, since the angle of inclination of the auricular surface
+gives the pollen a natural outlet in the proper direction.
+
+If the corbicula already contains a considerable amount of pollen the
+contributions which are added to it at each stroke of the auricle come
+in contact with that already deposited and form a part of this mass,
+which increases in amount by continued additions from below. If,
+however, the corbicula is empty and the process of loading is just
+beginning, the first small bits of pollen which enter the basket must
+be retained upon the floor of the chamber until a sufficient amount
+has accumulated to allow the long overcurving hairs to offer it
+effective support. The sticky consistency of the pollen renders it
+likely to retain contact with the basket, and certain structures near
+the entrance give additional support. Several small sharp spines,
+seven or eight in number, spring from the floor of the basket
+immediately within the entrance, and the entire lower edge of the
+corbicula is fringed with very small hairs which are branched at their
+ends. (See fig. 3.) One large hair also springs from the floor of the
+basket, somewhat back from the entrance, which may aid in holding the
+pollen, but it can not function in this manner until a considerable
+amount has been collected.
+
+As the pollen mass increases in size and hangs downward and backward
+over the pecten and auricle it shows upon its inner and lower surface
+a deep groove which runs outward from the entrance to the basket. (See
+fig. 9, _b_.) This groove results from the continued impact of the
+outer end of the auricle upon the pollen mass. At each upward stroke
+of the auricle its outer point comes in contact with the stored pollen
+as soon as the mass begins to bulge backward from the basket.
+
+Although the process is a rather delicate one, it is entirely possible
+so to manipulate the hind legs of a recently killed bee that the
+corbiculae of the two legs receive loads of pollen in a manner similar
+to that above described. To accomplish this successfully the operator
+must keep the combs of the plantae well supplied with moistened pollen.
+If the foot of first one leg and then the other is grasped with
+forceps and so guided that the pollen combs of one leg rasp over the
+pecten spines of the other, the pollen from the combs will be
+transferred to the corbiculae. To continue the loading process in a
+proper manner, it is also necessary to flex the planta of each leg
+just after the pollen combs of the opposite leg have deposited pollen
+behind the pecten. By this action the auricle is raised, compressing
+the pollen which the pecten has secured, and forcing some upward into
+the corbicula. Bees' legs which have been loaded in this artificial
+manner show pollen masses in their corbiculae which are entirely
+similar in appearance to those formed by the labors of the living bee.
+Moreover, by the above method of manipulation the pollen appears first
+at the bottom of the basket, along its lower margin, gradually extends
+upward along the floor of the chamber, comes in contact with the
+overhanging hairs, and is shaped by them in a natural manner. All
+attempts to load the baskets by other movements, such as crossing the
+hind legs and scraping the plantar combs over the lateral edges of the
+baskets, give results which are entirely different from those achieved
+by the living bee.
+
+[Illustration: Fig. 9.--Inner surface of the right hind leg of a
+worker bee which bears a complete load of pollen, _a_, Scratches in
+the pollen mass caused by the pressure of the long projecting hairs of
+the basket upon the pollen mass as it has been pushed up from below;
+_b_, groove in the pollen mass made by the strokes of the auricle as
+the mass projects outward and backward from the basket. (Original.)]
+
+
+
+
+POLLEN MOISTENING.
+
+
+Many descriptions have been written by others of the method by which
+pollen is gathered and moistened. Some of these are indefinite, some
+are incorrect, while others are, in part, at least, similar to my own
+interpretation of this process. A few citations will here be given:
+
+     The bee first strokes the head and the proboscis with the brushes
+     of the forelegs and moistens these brushes with a little honey from
+     the proboscis, so that with later strokes all of the pollen from
+     the head is collected upon these brushes. Then the middle-leg
+     brushes remove this honey-moistened pollen from the forelegs and
+     they also collect pollen from the breast and the sides of the
+     thorax.--[Translation from Alefeld, 1861.]
+
+In his account of the basket-loading process Alefeld assigns to the
+middle-leg brushes the function of assembling all of the pollen, even
+that from the plantar combs, and of placing it on the corbiculae, this
+latter act being accomplished by combing over the hairy edge of each
+basket with the middle-leg brush of the same side.
+
+     It appears probable that the bee removes the pollen from the head,
+     breast, and abdomen by means of the hairy brushes which are located
+     upon the medial sides of the tarsal segments of all of the legs,
+     being most pronounced upon the hind legs. The pollen is thus
+     brought together and is carried forward to the mouth, where it is
+     moistened with saliva and a little honey.--[Translation from Franz,
+     1906.]
+
+Franz then says that this moistened pollen is passed backward and
+loaded.
+
+     Since the pollen of many plants is sticky and moist it adheres to
+     the surface of the basket. Dry pollen is moistened by saliva, so
+     that it also sticks,--[Translation from Fleischmann and Zander.
+     1910.]
+
+     Pollen is taken from flowers principally by means of the tongue,
+     but at times, also, by the mandibles, by the forelegs, and middle
+     legs. The brushes of the hind legs also load themselves, collecting
+     from the hairs of the body. The pollen dust thus gathered is always
+     transmitted to the mouth, where it is mixed with
+     saliva.--[Translation from Hommell, 1906.]
+
+Sladen considers the question of how pollen is moistened by the honey
+bee, humblebee (bumblebee), and some other bees, but does not appear
+to reach definite conclusions. In one of his papers (1912, _c_) he
+states that the pollen of some plants may be found in the mouth cavity
+and in the region of the mouth, but he reaches the conclusion that
+this pollen is comparatively "dry," using the word in a "relative
+sense." He asserts that "nowhere but on the corbicula and hind
+metatarsal brushes did I find the sticky pollen, except sometimes on
+the tips of the long, branched hairs on the back (upper) edges of the
+tibiae and femora of the middle legs, and then only in heavily laden
+bees, where it is reasonable to suppose it had collected accidentally
+as the result of contact with the hind metatarsal brushes."
+
+These and other considerations lead Sladen to think that, in the case
+of the bumblebee at least, the pollen "may be moistened on the hind
+metatarsus with the tongue." He states that the tongue of the
+bumblebee is of sufficient length to reach the hind metatarsus
+(planta) and that it might rub over the brushes of the metatarsi or be
+caught between them when they are approximated and thus moisten the
+two brushes simultaneously. However, he has never seen the tongue of
+the collecting honey bee brought near to the hind legs, and it appears
+probable to him that it can not easily reach them. "Possibly the
+middle or front legs are used as agents for conveying the honey" (in
+the case of the honey bee). "In the humblebee the tongue is longer,
+and it could more easily moisten the hind legs in the way suggested."
+
+In an earlier paper Sladen (1912, _a_) gives the following as his
+opinion of the "way in which pollen dust is moistened with nectar,"
+although he states that this is one of the points "which still remains
+obscure":
+
+     The only satisfactory manner in which, it seems to me, this can be
+     done is for the tongue to lick the tarsi or metatarsi of the
+     forelegs, which are covered with stiff bristles, well suited for
+     holding the nectar, the nectar being then transferred to the
+     metatarsal brushes on the middle legs, and from these, again, to
+     the metatarsal brushes on the hind legs. The latter being thus
+     rendered sticky, the pollen dust would cling to them. The different
+     pairs of legs were certainly brought together occasionally, but not
+     after every scrape of the hind metatarsi, and their movements were
+     so quick that it was impossible to see what was done. Still,
+     several pollen-collecting bees that I killed had the tarsi and
+     metatarsi of the forelegs and the metatarsal brushes of the middle
+     and hind legs moistened with nectar, and I think it probable that
+     the moistening process, as outlined, is performed, as a rule,
+     during the flight from flower to flower.
+
+Sladen (1912, _c_) also considers the possibility that the fluid which
+moistens the pollen might be secreted through the comb at the end of
+the tibia, through the tibio-tarsal joint, or from the surface of the
+auricle, but finds no evidence of glandular openings in these regions.
+A suggestion of a similar nature, apparently unknown to Sladen, was
+made by Wolff (1873), who describes "sweat-glands" which, he claims,
+are located within the hind tibia and the planta, and which pour a
+secretion upon the surface of the corbicula and upon the upper end of
+the planta through many minute openings located at the bases of hairs,
+particularly those which arise from the lateral margins of the
+corbicula. Wolff is convinced that the fluid thus secreted is the
+essential cohesive material by which the grains of pollen are bound
+together to form the solid mass which fills each fully loaded basket.
+He noticed that the mouthparts are used to collect pollen, and that
+some of it is moistened with "honey" or "nectar," but he does not
+consider that the fluid thus supplied is sufficient to explain
+adequately the facility with which the collecting bee brings together
+the scattered grains of pollen and packs them away securely in the
+baskets. Wolff's description of the basket-loading process itself is
+strikingly similar to that advocated later by Cheshire.
+
+The writer is not prepared to deny the possibility that the surface of
+the chitin of the hind legs of worker bees may be moistened by the
+secretion of glands which lie beneath it, but he is convinced that any
+fluid thus secreted bears little or no relation to the cohesion of the
+pollen grains within the baskets. Sections and dissected preparations
+of the hind legs of worker bees show certain large cells which lie
+within the cavity of the leg and which may function as secreting gland
+cells; but similar structures occur in even greater numbers within the
+hind legs of the drone and they are found within the hind legs of the
+queen.
+
+As has been noted, the extreme moisture of the plantar combs and of
+the tibio-tarsal articulation of the hind leg is readily understood
+when one recalls the manner in which moist pollen is compressed
+between the auricle and the tibial surface above it.
+
+From the account already given it is evident that, in the opinion of
+the writer, the mouth is the source from which the pollen-moistening
+fluid is obtained. It is extremely difficult to determine with
+absolute accuracy the essential steps involved in the process of
+adding moisture to the pollen. In an endeavor to solve this problem
+the observer must of necessity consider a number of factors, among
+which may be noted (1) the location upon the body of the collecting
+bee of "moist" and of comparatively "dry" pollen, (2) the movements
+concerned in the pollen-gathering and pollen-transferring processes,
+(3) the relative moisture of those parts which handle pollen, (4) the
+chemical differences between the natural pollen of the flower and that
+of the corbiculae and of the cells of the hive, and (5) the observer
+must endeavor to distinguish between essential phenomena and those
+which are merely incidental or accidental.
+
+In the first place it should be noted that the relative dampness of
+pollen within the corbiculae depends very largely upon the character of
+the flower from which the pollen grains are gathered. When little
+pollen is obtained it is much more thoroughly moistened, and this is
+particularly true in cases when the pollen is all, or nearly all,
+collected in the region of the mouth, the forelegs, and head. When a
+bee takes pollen from white or sweet clover practically all of it
+first touches the bee in these regions. It immediately becomes moist,
+and in this condition is passed backward until it rests within the
+baskets. There is here no question of "dry" and "wet" pollen, or of
+collecting movements to secure dry pollen from other regions of the
+body, or of the ultimate method by which such free, dry pollen becomes
+moist.
+
+The sticky fluid which causes pollen grains to cohere is found upon
+all of the legs, in the region of their brushes, although the pollen
+combs and auricles of the hind legs are likely to show it in greatest
+abundance, since nearly all of the pollen within each basket has
+passed over the auricle, has been pressed upward and squeezed between
+the auricle and the end of the tibia and the pollen mass above, and by
+this compression has lost some of its fluid, which runs down over the
+auricle and onto the combs of the planta. It is not necessary to
+invoke any special method by which these areas receive their moisture.
+The compressing action of the auricle squeezing heavily moistened
+pollen upward into the basket is entirely sufficient to account for
+the abundance of sticky fluid found in the neighborhood of each hind
+tibio-tarsal joint. As has been noted, the brushes of the forelegs
+acquire moisture directly by stroking over the proboscis and by
+handling extremely moist pollen taken from the mouthparts. The
+middle-leg brushes become moist by contact with the foreleg and
+hind-leg brushes, probably also by touching the mouthparts themselves,
+and by passing moist pollen backward. The hairy surface of the breast
+is moistened by contact with the fore and mid leg brushes and with the
+moist pollen which they bear.
+
+The problem of the method of pollen moistening is somewhat more
+complicated in the case of flowers which furnish an excessive supply.
+Under such conditions the entire ventral surface of the collecting bee
+becomes liberally sprinkled with pollen grains which either will be
+removed and dropped or will be combed from the bristles and branching
+hairs, kneaded into masses, transferred, and loaded. The question
+naturally arises whether the movements here are the same as when the
+plant yields but a small amount of pollen which is collected by the
+mouthparts and anterior legs. In the opinion of the writer they are
+essentially the same, except for the addition of cleansing movements,
+executed chiefly by the middle and hind legs for the collection of
+pollen which has fallen upon the thorax, upon the abdomen, and upon
+the legs themselves. Indeed it is questionable as to just how much of
+this plentiful supply of free pollen is really used in forming the
+corbicular masses. Without doubt much of it falls from the bee and is
+lost, and in cases where it is extremely abundant and the grains are
+very small in size an appreciable amount still remains entangled among
+the body-hairs when the bee returns to the hive. Yet it is also
+evident that some of the dry pollen is mingled with the moistened
+material which the mouthparts and forelegs acquire and together with
+this is transferred to the baskets.
+
+In all cases the pollen-gathering process starts with moist pollen
+from the mouth region. This pollen is passed backward, and in its
+passage it imparts additional moisture to those body regions which it
+touches, the brushes of the fore and middle legs, the plantae of the
+hind legs, and the hairs of the breast which are scraped over by the
+fore and middle leg brushes. This moist pollen, in its passage
+backward, may also pick up and add to itself grains of dry pollen with
+which it accidentally comes in contact. Some of the free, dry pollen
+which falls upon the moist brushes or upon the wet hairs of the thorax
+is also dampened. Some of the dry pollen which is cleaned from the
+body by the action of all of the legs meets with the wet-brushes or
+with the little masses of wet pollen and itself becomes wet by
+contact. Pollen grains which reach the corbiculae either dry or but
+slightly moistened are soon rendered moist by contact with those
+already deposited. Little pollen gets by the sticky surfaces of the
+combs of the plantar or past the auricles without becoming thoroughly
+moist.
+
+Sladen (1912, _c_) very aptly compares the mixture of dry pollen with
+wet to the kneading of wet dough with dry flour and suggests that the
+addition of dry pollen may be of considerable advantage, since
+otherwise the brushes, particularly those of the hind legs, would
+become sticky, "just as the board and rolling pin get sticky in
+working up a ball of dough if one does not add flour." The addition of
+a considerable amount of dry pollen gives exactly this result, for the
+corbiculae then rapidly become loaded with pollen mixed with a minimum
+supply of moisture and the brushes remain much dryer than would
+otherwise be the case. However, if too much dry pollen is added the
+resulting loads which the bees carry back to the hives are likely to
+be irregular, for the projecting edges of the masses may crumble
+through lack of a sufficient amount of the cohesive material by which
+the grains are bound together.
+
+On the other hand, it does not appear at all necessary to mix much dry
+pollen with the wet, nor do the brushes become sufficiently "sticky"
+from the presence of an abundance of the moistening fluid to endanger
+their normal functional activity. I have observed bees bringing in
+pollen masses which were fairly liquid with moisture, and the pollen
+combs also were covered with fluid, yet the baskets were fully and
+symmetrically loaded.
+
+Sladen's different interpretations of the pollen-moistening process
+are rather confusing, and it is difficult to distinguish between what
+he states as observed facts and what he puts forward as likely
+hypotheses. He agrees with me in his observation that all of the legs
+become moist in the region of their brushes and also in his
+supposition that this moisture is transferred to them from the mouth.
+In this moistening process my observations show that the fluid
+concerned is passed backward by the contact, of the middle-leg brushes
+with the wet foreleg brushes and that the middle-leg brushes in turn
+convey moisture to the plantae as they rub upon them. I am also
+convinced that the wet pollen grains furnish additional moisture to
+the brushes as they pass backward, and this is particularly true in
+the case of the extremely moist surfaces of the auricles and the
+pollen combs of the planta, since here moisture is pressed from the
+pollen upon these areas. The pollen upon the fore and middle leg
+brushes is not always "dry" even in "a relative sense."
+
+In describing pollen manipulation several writers state that dry
+pollen is picked up by the brushes of the legs and is carried forward
+to the mouth, there moistened (according to some, masticated), and is
+then carried backward by the middle legs for loading. Obviously such
+accounts do not apply to cases in which all of the pollen is collected
+by mouthparts and forelegs. Do they apply in cases where much pollen
+falls on the body and limbs? Without doubt a certain amount of this
+free pollen is brought forward when the middle legs, bearing some of
+it, sweep forward and downward over the forelegs, mouthparts, and
+breast. However, it does not appear to the writer that this dry pollen
+is carried to the mouth for the specific purpose of moistening it, or
+that it is essential to its moistening that it be brought in contact
+with the mouth. Some of it touches the moist hairs on the forelegs and
+breast and is moistened by contact. All that remains on the brushes of
+the middle legs secures moisture from these brushes or from wet pollen
+which the brushes collect from the mouthparts or forelegs. The
+supposed necessity of carrying forward pollen to the mouth for
+moistening is a delusion. Some is accidentally brought forward and
+into contact with the mouth and gets wet, but the process is not
+essential.
+
+If the pollen which bees transport to their hives has been moistened
+with some fluid substance which causes the grains to cohere, this
+addition should be indicated by differences in the results of an
+analysis of pollen from a plant as compared with that found in the
+corbiculae of a bee which has been working on this plant. For the sake
+of determining this difference and in an endeavor to ascertain, if
+possible, the approximate nature of the added fluid, analyses were
+made of three kinds of pollen, as follows: (1) Pollen collected by
+hand from the corn plant itself; (2) pollen taken from the corbiculae
+of bees which had secured their supply from corn; (3) pollen stored in
+the cells of the hive. In the first two cases pollen from the same
+species of plant (corn) was used. The material from the cells of the
+hive was composed largely of corn pollen, but contained an admixture
+of some other pollens.
+
+The writer is indebted to Dr. P. B. Dunbar, of the Bureau of
+Chemistry, for the following analyses:
+
+                       Pollen    Corn pollen    Stored
+                       direct    from           pollen
+                       from      corbicula.     from
+                       corn.                    hive.
+  -----------------------------------------------------
+  Total solids         53.47     66.94          79.66
+  Moisture             46.53     33.06          20.34
+  Reducing sugar
+    before inversion    2.87     11.07          17.90
+  Sucrose               2.77      3.06           2.25
+  Total reducing sugar
+   after inversion      5.79     14.29          20.27
+                       =====     =====          =====
+  Dry basis:
+      Reducing sugar    5.37     16.54          22.47
+      Sucrose           5.18      4.57           2.82
+                       -----     -----          -----
+                       10.55     21.11          .....
+
+These analyses show conclusively that a very large amount of sugar has
+been added to the pollen by the time it reaches the corbiculae.
+Calculated on a dry basis just about twice as much sugar is present in
+the basket pollen as in that from the corn plant. Not only is this so,
+but the additional fact is disclosed that over three times as much
+reducing sugar is present in the corbicular pollen as sucrose. This
+latter result indicates that honey (largely a reducing sugar) rather
+than nectar (containing more sucrose) is the chief sugar ingredient of
+the corbicular pollen. The additional amount of sugar (here again a
+reducing sugar) in the stored pollen of the hive is what might be
+expected, since it is supposed that the workers add honey and possibly
+other ingredients to the pollen within the storage cells.
+
+The total solid percentages, corn 53.47, corbicula 66.94, stored
+pollen 79.66, also show that the fluid substance which is added is one
+highly charged with solids, a condition which honey amply fulfills.
+
+In the descriptions which have been cited of the pollen-gathering
+process in which the mouth is supposed to supply the requisite fluid
+three substances are mentioned: Nectar, honey, and saliva. The
+analyses herein given indicate that reducing sugar is mingled with the
+pollen, and in the case of corn it is indicated that honey is used in
+greater abundance. Without doubt a certain amount of saliva also finds
+its way to the pollen, but the proportion of this substance has not
+been determined. This salivary fluid may have adhesive qualities, but
+this is scarcely necessary, since honey alone is amply sufficient for
+this purpose.
+
+It appears probable that the fluid which a bee adds to the pollen
+which it is collecting varies somewhat in amount, since the pollen of
+different plants differs considerably in moisture content and that of
+the same plant will differ in this respect at different times. Pollen
+collected in the early morning before the dew has left the plant is
+much more moist than that found upon the same plant later in the day,
+and the grains, if taken when moist, have a natural tendency to become
+aggregated and form small masses. Moreover, this may explain the fact
+that bees make their pollen-collecting trips during the morning hours,
+rather than in the afternoon, although some may be seen upon the
+flowers throughout the whole day.
+
+
+
+
+STORING POLLEN IN THE HIVE.
+
+
+When the bee has fully loaded its baskets and before it returns to the
+hive it often spends a little time upon the plant from which it has
+been collecting, occupied with the task of cleaning scattered grains
+of pollen from its body and of patting down securely the loads which
+it has obtained. Upon its return to the hive it hurries within and
+seeks for a suitable place in which to deposit the pollen. Some
+returning bees walk leisurely over the combs and loiter among their
+sister workers, while others appear to be greatly agitated, shaking
+their bodies and moving their wings as though highly excited. Many
+pollen-bearing bees appear eager to receive food upon their return to
+the hive, and they will solicit it from other workers or take it from
+the honey-storage cells. The workers of the hive at times take a
+little of the fresh pollen from the baskets of the laden bee, nibbling
+it off with their mandibles or rasping off grains with their tongues.
+
+If the combs of a colony are examined, stored pollen will be found in
+various parts of the hive. In the brood frames the greatest amount is
+located above and at the sides of the brood and between this and the
+stored honey. Cells scattered through the brood from which young bees
+have lately emerged may also contain pollen. In the outer frames of
+the hive, where brood is less likely to be found, nearly all of the
+cells may be packed with pollen, or honey-storage cells may be found
+interspersed with those filled with pollen. As a rule pollen is not
+stored in drone comb, although this occasionally happens.
+
+As the pollen-bearing bee crawls over the combs it appears to be
+searching for a suitable cell in which to leave its load. It sticks
+the head into cell after cell until finally one is located which meets
+its requirements, although it is an open question as to why any one of
+a group should be chosen rather than another. This selected cell may
+already contain some pollen or it may be empty. If partly filled, the
+pollen which it contains is likely to be from the same species of
+plant as that which the bee carries, although different kinds of
+pollen are often stored in the same cell.
+
+In preparation for the act of unloading the bee grasps one edge of the
+cell with its forelegs and arches its abdomen so that the posterior
+end of the abdomen rests upon the opposite side of the cell. The body
+is thus held firmly and is braced by these two supports with the head
+and anterior thoracic region projecting over one of the neighboring
+cells. The hind legs are thrust down into the cell and hang freely
+within it, the pollen masses being held on a level with the outer edge
+of the cell, or slightly above it. The middle leg of each side is
+raised and its planta is brought into contact with the upper
+(proximal) end of the tibia of the same side and with the pollen mass.
+The middle leg now presses downward upon the pollen mass, working in
+between it and the corbicular surface, so that the mass is shoved
+outward and downward and falls into the cell. As the pollen masses
+drop, the middle legs are raised and their claws find support upon the
+edge of the cell. The hind legs now execute cleansing movements to
+remove small bits of pollen which still cling to the corbicular
+surfaces and hairs. After this is accomplished the bee usually leaves
+the cell without paying further attention to the two pellets of pollen
+although some collecting bees will stick the head into the cell,
+possibly to assure themselves that the pollen is properly deposited.
+It has been stated by some (Cheshire, for example) that the spur upon
+the middle leg is used to help pry the pollen mass from the corbicula.
+This structure is in close proximity with the mass while the middle
+leg is pushing downward upon it, but its small size renders difficult
+an exact estimate of its value in this connection. It is certainly
+true that the entire planta of the middle leg is thrust beneath the
+upper end of the pollen mass, but the spur may be used as an entering
+wedge.
+
+Pollen masses which have been dropped by the collecting bee may remain
+for some time within the cell without further treatment, but usually
+another worker attends to the packing of the pollen shortly after it
+has been deposited. To accomplish this the worker enters the cell head
+first, seizes the pollen pellets with its mandibles, breaks them up
+somewhat or flattens them out, probably mingles additional fluid with
+the pollen, and tamps down the mass securely in the bottom of the
+cell. As is shown by the analyses of corbicular pollen and of stored
+pollen, certain substances are added to the pollen after the
+collecting bee leaves it in the cell. Sugar is certainly added, and it
+is generally supposed that secretions from some of the salivary glands
+are mixed with the pollen after deposition. It appears probable that
+the stored pollen or "beebread" is changed somewhat in chemical
+composition through the action of the fluids which have been added to
+it, either during the process of collection, at the time of packing,
+or later.
+
+
+
+
+SUMMARY.
+
+
+Pollen may be collected by the worker bee upon its mouthparts, upon
+the brushes of its legs, and upon the hairy surface of its body. When
+the bee collects from small flowers, or when the supply is not
+abundant, the mouthparts are chiefly instrumental in obtaining the
+pollen.
+
+The specialized leg brushes of the worker are used to assemble the
+pollen, collecting it from the body parts to which it first adheres
+and transporting it to the pollen baskets or corbiculae of the hind
+legs. In this manipulation the forelegs gather pollen from the
+mouthparts and head; the middle legs, from the forelegs and from the
+thorax; the hind legs, from the middle legs and from the abdomen.
+
+The pollen baskets are not loaded by the crossing over of one hind leg
+upon the other or to any great extent by the crossing of the middle
+legs over the corbiculae. The middle legs deposit their loads upon the
+pollen combs of the hind plantae, and the plantae, in turn, transfer the
+pollen of one leg to the pecten comb of the other, the pecten of one
+leg scraping downward over the pollen comb of the opposite leg. (See
+fig. 7.) A little pollen is loaded directly from the middle legs into
+the baskets when these legs are used to pat down the pollen masses.
+(See fig. 6.)
+
+Aside from the foregoing exception, all of the pollen which reaches
+the baskets enters them from below, since it is first secured by the
+pecten combs, and is then pushed upward by the impact of the rising
+auricles, which squeeze it against the distal ends of the tibiae and
+force it on into the baskets to meet that which has gone before.
+
+The long hairs which form the lateral boundaries of the baskets are
+not used to comb out pollen from the brushes of any of the legs. They
+serve to retain the accumulating masses within the baskets and to
+support the weight of the pollen, as it projects far beyond the
+surfaces of the tibiae.
+
+Pollen grains are moistened and rendered cohesive by the addition to
+them of fluid substances which come from the mouth. Analyses show that
+honey forms a large part of this moistening fluid, although nectar and
+secretions from the salivary glands are probably present also.
+
+In the process of pollen manipulation this fluid substance becomes
+well distributed over the brushes of all of the legs. The forelegs
+acquire moisture by brushing over the mouthparts, and they transfer
+this to the hairs of the breast and to the middle-leg brushes when
+they come in contact with them. The middle-leg brushes transmit their
+moisture to the pollen combs of the hind legs when they rub upon them.
+All of these brushes also transport wet pollen which has come from the
+mouthparts and thereby acquire additional moisture. The auricles and
+the plantae of the hind legs become particularly wet from this source,
+since fluid is squeezed from the wet pollen when it is compressed
+between the auricles and the distal ends of the tibiae. Dry pollen
+which falls upon the body hairs becomes moist when brought into
+contact with the wet brushes or with wet pollen.
+
+During the process of manipulation pollen passes backward from its
+point of contact with the bee toward its resting place within the
+baskets.
+
+Pollen which the collecting bee carries to the hive is deposited by
+this bee within one of the cells of the comb. As a rule, this pollen
+is securely packed in the cell by some other worker, which flattens
+out the rounded masses and adds more fluid to them.
+
+
+
+
+BIBLIOGRAPHY.
+
+
+  Alefeld, Dr.--Vol. 5. Nos. 15 and 16. Eichstaedt Bienen Zeitung.
+      Summarized in "Die Bienenzeitung in neuer, geschichteter und
+      systematische geordneter Ausgabe." Herausgegeben vom Schinid
+      und Kleine: Erste Band, Theoretischer Theile. 1861.
+
+  Casteel, D. B., 1912.--The manipulation of the wax scales of the honey
+      bee, Circular 161, Bureau of Entomology, U. S. Dept. Agriculture,
+      pp. 15.
+
+  Cheshire, F. R., 1886.--Bees and bee-keeping; scientific and practical.
+      Vol. I, scientific; II, practical. London.
+
+  Fleischmann und Zander, 1910.--Beitraege zur Naturgeschichte der
+      Honigbiene.
+
+  Franz, A., 1906.--In "Unsere Bienen," herausgegeben von Ludwig, A.,
+      Berlin, pp. [viii]+831.
+
+  Hommell, R., 1906.--Apiculture, Encyclopedic Agricola, Paris.
+
+  Phillips, E. F., 1905.--Structure and development of the compound eye
+      of the bee. Proc. Acad. Nat. Sci. Philadelphia, vol. 57,
+      pp. 123-157.
+
+  Sladen, F. W. L., 1911.--How pollen is collected by the social bees, and
+      the part played in the process by the auricle. British Bee Journal,
+      vol. 39, pp. 491-493, Dec. 14.
+
+  Sladen, F. W. L., 1912.--(_a_) How pollen is collected by the honey bee.
+      Nature, vol. 88, pp. 586, 587, Feb. 29.
+
+    1912.--(_b_) Further notes on how the corbicula is loaded with pollen.
+        British Bee Journal, vol. 40, pp. 144, 145, Apr. 11.
+
+    1912.--(_c_) Pollen collecting. British Bee Journal, vol. 40,
+        pp. 164-166, Apr. 25.
+
+    1912.--(_d_) How propolis is collected. Some further notes on
+        pollen-collecting. Gleanings in Bee Culture, vol. 40,
+        pp. 335, 336, June 1.
+
+    1912.--(_e_) Hind legs of the worker honey bee. Canadian Bee Journal,
+        vol. 20, p. 203. July.
+
+  Wolff, O. J. B., 1873.--Das Pollen-Einsammeln der Biene. Eichstaedt
+      Bienen-Zeitung. 29 Jahrg. Nrs. 22 u. 23, pp. 258-270.
+
+
+
+
+INDEX.
+
+
+                                                                Page.
+
+  Alefeld on pollen moistening by worker bee                       23
+
+  Antenna cleaner of worker bee, figure                             S
+
+  Auricle of hind planta of worker bee, definition                  9
+        figure                                                     11
+        role and action in pollen collecting         16-17, 19, 20-22
+
+  Basket, pollen. (See Corbicula.)
+
+  Brush of foreleg of worker bee, action and role in
+    pollen collecting                                              13
+        figure                                                      8
+    hind leg of worker bee, action and role in pollen
+      collecting                                                   16
+    middle leg of worker bee, action and role in pollen
+      collecting                                                14-16
+        figure                                                      9
+
+  Brushes of legs of worker bee, use in pollen collecting         8-9
+
+  Bumblebee, moistening of pollen, views of Sladen              23-21
+
+  Cheshire on process of loading pollen baskets by worker bee      17
+
+  Comb or pecten of hind tibia of worker bee, definition            9
+      figure                                                       77
+      role and action in pollen collecting                      16-19
+
+  Corbicula of worker bee, definition                               9
+      figure                                                       10
+      process of loading                                        15-22
+
+  Corn, sweet, pollen collecting therefrom by honey bee         11-13
+
+  Coxae of worker bee, figures                                    8, 9
+
+  Dunbar, Dr. P. B., analyses of corn pollen from plant,
+    from corbiculae of bees, and from hive cells                    28
+
+  Femora of worker bee, figures                          8, 9, 10, 11
+
+  Fleischmann and Zander on process of loading pollen
+    baskets by worker bee                                          15
+
+  Flowers, variable amounts of pollen from different plants     10-11
+
+  Franz on pollen moistening of worker bee                         23
+      process of loading pollen baskets by worker bee              17
+
+  Hairs, branched, of honey bee, use in pollen collecting        7, 8
+      fringing pollen basket, function                             20
+      unbranched, of honey bee, use in pollen collecting         7, 8
+
+  Hommell on pollen moistening of worker bee                       23
+      process of loading pollen baskets by worker bee              18
+
+  Honey, use by worker bee for moistening pollen            24, 28-29
+
+  Leg, hind, of worker bee, loaded with pollen, figure             22
+
+  Legs, fore, of worker bee, action and role in pollen
+    collecting                                                 12, 33
+      hind, of worker bee, action and role in pollen
+        collecting                                          13, 16-18
+          stages in basket-loading process, figure                 19
+      middle, of worker bee, action and role in pollen
+        collecting                                          13, 14-16
+      of worker bee, action in unloading pollen                 30-31
+          structures used in pollen collecting                    7-9
+
+  Mandibles of honey bee, action and role in pollen collecting 8, 13
+      worker bee, use in packing pollen in the cell               31
+
+  Maxilae of honey bee, action and role in pollen collecting    8, 13
+
+  Moistening of pollen by bumblebee, views of Sladen           23-24
+          honey bee                                        13, 22-29
+
+  Mouthparts of honey bee, action and role in pollen
+    collecting                                                 8, 13
+
+  Nectar, supposed use by worker bee for moistening pollen     24-29
+
+  Palma of foreleg of worker bee, definition                       8
+
+  Pecten of hind tibia of worker bee, definition                   9
+          figure                                                  11
+          role and action in pollen collecting                 16-19
+
+  Planta of hind leg of worker bee, definition                     3
+          figures                                             10, 11
+          structures concerned in pollen collecting                9
+      middle leg of worker bee, definition                         8
+
+  Pollen, chemical composition                                    26
+      collecting by worker bee, bibliography                      33
+          general statement regarding it                       11-13
+          summary of process                                   31-32
+      corn, from plant, from corbiculae of bees, and from
+        hive cells, analyses to determine nature of
+        moistening fluid                                       28-29
+      moistening by bumblebee, views of Sladen                 23-24
+          honey bee                                            22-29
+      storage in the hive                                      29-31
+      structures of honey bee concerned in manipulation          7-9
+      supply of honey bee                                      10-11
+      unloading process by worker bee                          30-31
+
+  Saliva, supposed use by worker bee in moistening pollen     23, 29
+
+  Sladen, observations on process of loading pollen
+    baskets by worker bee                                 18, 20, 21
+        views as to pollen moistening by worker bee        23-24, 27
+
+  Spur of middle tibia of worker bee, figure                       9
+
+  Storing pollen in the hive                                   29-31
+
+  Structures of honey bee concerned in manipulation of pollen    7-9
+
+  "Sweat glands" of Wolff within hind tibia and planta of
+    worker bee, supposed function                                 24
+
+  Tibia of hind leg of worker bee, modifications and
+    structures for pollen collecting                               9
+
+  Tibiae of worker bee, figures                          8, 9, 10, 11
+
+  Tongue of worker bee, action and role in pollen collecting   8, 13
+
+  Trochanters of worker bee, figures                            8, 9
+
+  Wax shears or pinchers, so-called, use in loading pollen
+    by worker bee                                                  7
+
+  Wolff on pollen moistening by worker bee                        24
+
+  Zander, Fleischmann and. (_See_ Fleischmann and Zander.)
+
+
+
+
+       *       *       *       *       *
+
+
+Transcriber's Notes
+
+
+Although the text uses "middle leg", the term "middle-leg" is always
+used as an adjective modifying "brush(es)" and was therefore retained.
+Bienen Zeitung, Bienenzeitung; and Bienen-Zeitung were all retained.
+All small captioned text was converted to Mixed Case.
+
+
+
+
+
+End of the Project Gutenberg EBook of The Behavior of the Honey Bee in
+Pollen Collection, by D. B. Casteel
+
+*** END OF THIS PROJECT GUTENBERG EBOOK HONEY BEE IN POLLEN COLLECTION ***
+
+***** This file should be named 40802.txt or 40802.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/0/8/0/40802/
+
+Produced by Tom Cosmas. (This file was produced from images
+generously made available by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
