@@ -1,0 +1,1284 @@
+The Project Gutenberg EBook of Delco Manuals: Radio Model 633, Delcotron
+Generator, by Delco-Remy Division
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Delco Manuals: Radio Model 633, Delcotron Generator
+       Delco Radio Owner's Manual Model 633, Delcotron Generator Installation
+
+Author: Delco-Remy Division
+
+Release Date: February 26, 2010 [EBook #31407]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DELCO MANUALS ***
+
+
+
+
+Produced by Gerard Arthus, Meredith Bach, and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+ [Transcriber's Note: This ebook contains two manuals by Delco: Delco Radio
+  Owner's Manual Model 633 and Delcotron Generator Installation. They are
+  separated by a divider.
+
+  In the list on pages 10 and 11 of Delco Radio Owner's Manual Model 633,
+  the second station line for Tulsa (which is CFRB 690) has been removed,
+  as it is believed to be an accidental reprinting of the following station
+  line. Redundant headers and (foot)notes on these pages have also been
+  removed.]
+
+
+
+
+ DELCO RADIO
+ OWNER'S MANUAL
+
+ MODEL 633
+
+
+
+
+INSTALLATION AND OPERATING INSTRUCTIONS
+
+
+This model of the Delco Radio is a six-tube super-heterodyne receiver
+designed for operation with a HEADER type speaker. It comprises the best
+in automotive radio engineering, featuring Syncro-Tuning--the newest,
+most efficient antenna circuit yet developed, and Sensitivity Control.
+
+The speaker and remote control unit are supplied in separate packages
+and are available in a wide variety of types and styles, depending upon
+the make and model of car the unit is to be used on.
+
+The package contains:
+
+
+                                                            _Part No._
+
+ 1 Receiver Unit, complete with tubes
+
+ 1 Speaker Unit (less Adapter)                                 1210934
+
+ 1 Combined Drilling Template and Radio--Dash Spacer
+
+ 2 Chassis Mounting studs, 1/4--20 x 2-1/2                     1207562
+
+ 2 Chassis Mounting Shakeproof Washers                         1208565
+
+ 2 Chassis Mounting Nuts, 1/4--20                               120375
+
+ 1 Antenna Lead                                                1209622
+
+ 1 Distributor Suppressor                                      1207818
+
+ 1 Generator Condenser                                         1849014
+
+ 1 Ammeter Condenser                                           1209333
+
+
+
+
+INSTALLATION
+
+
+=Antenna--=
+
+See Instructions in antenna package.
+
+
+=Chassis--=
+
+This receiver may be installed on any car with Positive or Negative
+ground without any changes of wiring.
+
+When possible, locate the chassis on the driver's side of the dash, over
+the steering column, with the removable cover plate facing the floor.
+This position places the control shafts on the end of the case facing
+the center of the car.
+
+Locate the position of the mounting holes by means of the template
+included in the package. Drill the holes, using a 3/8" drill, and scrape
+the paint from around the holes on the engine side of the dash to insure
+a good ground connection as there is no other ground connection for this
+receiver.
+
+Make sure that all tubes and the vibrator are pushed well down in their
+sockets and that all the grid clips are properly in place on the top
+caps of their respective tubes.
+
+If a six-volt storage battery is available, check the receiver for
+normal operation before permanently installing it on the car. The
+antenna lead and control unit may be temporarily connected for this
+test.
+
+Insert the two receiver mounting studs in the back of the receiver case
+with the "burred" threads nearest the receiver to make sure that these
+studs do not enter the case far enough to cause damage to the receiver
+parts.
+
+Install the receiver, using the drilling template as a spacer between
+the dash and the receiver case. Install the two shakeproof washers over
+the chassis mounting studs. Then tighten the mounting nuts to insure
+that the receiver case shall be thoroughly grounded to the dash.
+
+
+=Antenna Lead--=
+
+Attach the black antenna lead to the car antenna and plug the connector
+on the antenna lead into the receiver chassis as shown in the
+Installation Diagrams. Ground the pigtail of the antenna lead shield to
+a convenient body bolt. Keep antenna lead out of engine compartment to
+avoid possibility of ignition interference being picked up by the
+lead-in.
+
+
+=Speaker--=
+
+See Instructions in speaker package.
+
+
+=Remote Control Unit--=
+
+See Instructions in remote control package.
+
+
+CONTROL UNIT ADJUSTMENT
+
+The volume control and station selector shafts are AUTOMATICALLY
+adjusted as follows:
+
+1. Insert control cables in their respective bushings on the case
+(volume control is upper bushing when receiver is installed in the car),
+until they seat themselves and then tighten the set screws.
+
+2. Turn the station selector knob to the right (clockwise) until it
+stops--then turn the knob counter-clockwise until it stops. The dial is
+now logged.
+
+3. Turn the volume control knob clockwise until the knob turns hard. The
+volume control is now on full.
+
+
+=Eliminating Motor Interference--=
+
+Connect the ammeter condenser to the spring clip at the end of the wire
+containing the fuse holder by means of the self-threading screw on the
+side of the spring clip. Ground the other terminal of the condenser at
+any convenient point.
+
+Install the generator condenser on the generator side of the generator
+cut-out as shown in the Diagram of Connections. DO NOT connect the
+flexible lead to the field terminal of the generator.
+
+Remove the center distributor lead and insert the distributor suppressor
+in its place. Then plug the distributor lead into the suppressor.
+
+
+=Adjusting Delco Syncro-Tuning--=
+
+Turn the receiver on.
+
+Tune-in a radio station which logs between 55 and 65 on the dial and
+gives the radio a signal BARELY AUDIBLE in the speaker WITH the VOLUME
+control FULL ON. A small snap button cap is located in the end of the
+receiver case beside the antenna lead connection. Remove the snap button
+cap by prying with a small screw driver.
+
+By means of a small screw driver inserted in the hole which was covered
+by the small cap, adjust the Delco Syncro-Tuning condenser unit for
+maximum output in the speaker. Remaining on same station, readjust
+station selector for maximum volume and readjust the Delco Syncro-Tuning
+Condenser unit for maximum output. No further adjustment of this unit
+will be necessary as the receiver is now adjusted for best operation
+with your car antenna. Replace the snap button cap.
+
+
+
+
+OPERATION
+
+
+=To Turn On Receiver--=
+
+Some control units have a small knob located below the center of the
+dial. If your receiver is equipped with this type of control push this
+small knob in as far as it will go. Other control units have a
+combination on-off switch and volume control knob. To turn on this type
+of control turn the knob clockwise until the switch clicks and the dial
+is illuminated.
+
+
+=Volume Control--=
+
+Turning the volume control knob toward the right increases the output of
+the receiver and turning it toward the left reduces the output.
+
+
+=How To Tune The Receiver--=
+
+Turn the volume control knob approximately half way to the right. Rotate
+the station selector knob slowly until a station is heard. Tune this
+station in until the minimum amount of background noise is heard.
+Increase or decrease the volume to the desired level by adjusting the
+volume control knob. Careful tuning will result in better tone quality
+from all stations.
+
+If the program being received is from a powerful local station local
+interference may be practically eliminated by turning the sensitivity
+control to the LOCAL position. You then will get the best possible
+reproduction of that station's program.
+
+
+[Illustration: =INSTALLATION DIAGRAMS=
+
+GROUND TO DASH
+
+CASE SPACER AND DRILLING TEMPLATE
+
+DASH
+
+AMMETER CLIP
+
+AMMETER CONDENSER NO. 1209333
+
+ANTENNA LEAD (BLACK)
+
+VOLUME CONTROL BUSHING
+
+FUSE
+
+TO COIL
+
+REMOVE SNAP BUTTON CAP TO ADJUST ANTENNA COMPENSATING CONDENSER
+
+STATION SELECTOR BUSHING
+
+DISTRIBUTOR SUPPRESSOR NO. 1207818
+
+GROUND TO CAR
+
+POWER LEAD
+
+SENSITIVITY CONTROL
+
+TONE CONTROL
+
+ARMATURE TERMINAL
+
+DO NOT CONNECT TO FIELD TERMINAL
+
+VOLUME CONTROL
+
+STATION SELECTOR
+
+GENERATOR CONDENSER 1849014
+
+SUGGESTED GENERATOR CONDENSER CONNECTIONS
+
+ON-OFF SWITCH]
+
+
+=Sensitivity Control--=
+
+The sensitivity control is located on the lower, left front corner of
+the receiver case and when turned to the LOCAL position it decreases the
+sensitivity of the receiver sufficiently to greatly reduce interference
+from street cars, electric signs, X-Ray machines, electrical machinery,
+power lines, etc. It will also eliminate interference from weak
+stations.
+
+When the control is turned to the DISTANCE position the receiver is
+allowed to operate at maximum sensitivity.
+
+
+=Tone Control--=
+
+The tone control is located on the lower, right front corner of the
+receiver case. This control is to be adjusted at the operator's will.
+However, most experienced operators prefer to set it for maximum treble
+response when the car is operated at high speeds.
+
+
+=To Turn Off The Receiver--=
+
+If the control head has a key knob in the center pull the knob out until
+it clicks into the off position and the receiver ceases to operate. If
+you wish to lock the receiver, pull the knob all the way out of the
+control unit and carry it with you.
+
+If you are using the type of control unit which has a combination on-off
+switch and volume control knob turn the knob to the left until the
+receiver ceases to operate.
+
+
+
+
+SERVICE
+
+
+Should your receiver fail to operate, first check the fuse located in
+the fuse holder in the ammeter cable. If you wish to remove your tubes
+and vibrator for test purposes, their location is indicated below.
+
+[Illustration: _Tube Complement_
+
+2 Type 6D6
+1 Type 6A7
+1 Type 6B7
+1 Type 6B5
+1 Type 84]
+
+Any further service work on your receiver should be referred to a
+competent radio service station.
+
+When at home call your local
+
+ DEALER.................................
+
+ AT.....................................
+
+ TELEPHONE..............................
+
+ DATE RADIO INSTALLED...................
+
+
+
+
+PRINCIPAL BROADCAST STATIONS[A]
+
+ARRANGED ALPHABETICALLY BY CITIES
+
+
+ =Abilene, Kans.=
+   KFBI                1050
+
+ =Albuquerque, N. M.=
+   KOB                 1180
+
+ =Alexandria, Va.=
+   WJSV                1460
+
+ =Amarillo, Tex.=
+   KGRS                1410
+   WDAG                1410
+
+ =Ames, Iowa=
+   WOI                  640
+
+ =Asheville, N. C.=
+   WWNC                 570
+
+ =Atlanta, Ga.=
+   WSB                  740
+
+ =Atlantic City, N. J.=
+   WPG                 1100
+
+ =Baltimore, Md.=
+   WBAL                1060
+
+ =Belle Plaine (Moose Jaw), Sask.=
+   CJRM                 540
+
+ =Billings, Mont.=
+   KGHL                 950
+
+ =Birmingham, Ala.=
+   WAPI                1140
+
+ =Bismarck, N. D.=
+   KFYR                 550
+
+ =Boise, Idaho=
+   KIDO                1350
+
+ =Boston, Mass.=
+   WBZ                  990
+   WBZA                 990
+   WEEI                 590
+   WHDH                 830
+   WNAC                1230
+
+ =Brookings, S. D.=
+   KFDY                 550
+
+ =Brooklyn, N. Y.=
+   WBBR                1300
+
+ =Buffalo, N. Y.=
+   WBEN                 900
+   WGR                  550
+   WKWB                1480
+
+ =Chattanooga, Tenn.=
+   WDOD               1280
+
+ =Chicago, Ill.=
+   WBBM                770
+   WCFL                970
+   WENR                870
+   WGN                 720
+   WJJD               1130
+   WLS                 870
+   WMAQ                670
+   WMBI               1080
+   KYW                1020
+
+ =Charlotte, N. C.=
+   WBT                1080
+
+ =Cincinnati, Ohio=
+   WLW                 700
+
+ =Clay Center, Nebr.=
+   KMMJ                740
+
+ =Cleveland, Ohio=
+   WHK                1390
+   WTAM               1070
+
+ =Colorado Springs, Col.=
+   KVOR               1270
+
+ =Council Bluffs, Ia.=
+   KOIL               1260
+
+ =Covington, Ky.=
+   WCKY               1490
+
+ =Dallas, Tex.=
+   KRLD               1040
+   WFAA                800
+
+ =Denver, Colo.=
+   KLZ                 560
+   KOA                 830
+
+ =Des Moines, Ia.=
+   WOC                1000
+
+ =Detroit, Mich.=
+   WWJ                 920
+   WJR                 750
+   WXYZ               1240
+
+ =Eau Claire, Wis.=
+   WTAQ               1330
+
+ =Edmonton, Alta.=
+   CJCA                730
+
+ =Elmira, N. Y.=
+   WESG               1040
+
+ =Fargo, N. D.=
+   WDAY                940
+
+ =Fayetteville, Ark.=
+   KUOA               1260
+
+ =Fort Wayne, Ind.=
+   WOWO               1160
+
+ =Fort Worth, Tex.=
+   KTAT               1240
+   WBAP                800
+
+ =Gainesville, Fla.=
+   WRUF                830
+
+ =Gary, Ind.=
+   WIND                560
+
+ =Great Falls, Mont.=
+   KFBB               1280
+
+ =Harrisburg, Pa.=
+   WBAK              1430
+
+ =Hartford, Conn.=
+   WDRC              1330
+   WTIC              1060
+
+ =Havana, Cuba=
+   CMCQ               780
+   CMK                730
+   CMW                590
+   CMX                890
+
+ =Hollywood, Cal.=
+   KFWB               950
+
+ =Honolulu, Hawaii=
+   KGU                750
+
+ =Hot Springs National Park, Ark.=
+   KTHS              1040
+
+ =Houston, Tex.=
+   KPRC               920
+
+ =Indianapolis, Ind.=
+   WFBM              1230
+
+ =Jackson, Miss.=
+   WJDX              1270
+
+ =Jacksonville, Fla.=
+   WJAX               900
+
+ =Kalamazoo, Mich.=
+   WKZO               590
+
+ =Kansas City, Mo.=
+   KMBC               950
+   WDAF               610
+   WOQ                1300
+
+ =Knoxville, Tenn.=
+   WNOX                560
+
+ =La Crosse, Wis.=
+   WKBH               1380
+
+ =La Prairie (Montreal), Que.=
+   CRCM                910
+
+ =Lawrence, Kans.=
+   WREN               1220
+
+ =Lansing, Mich.=
+   WKAR               1040
+
+ =Lincoln, Nebr.=
+   KFAB                770
+
+ =Little Rock, Ark.=
+   KLRA               1390
+
+ =Long Beach, Cal.=
+   KFOX               1250
+   KGER               1360
+
+ =Los Angeles, Cal.=
+   KECA               1430
+   KFAC               1300
+   KFI                 640
+   KHJ                 900
+   KNX                1050
+
+ =Louisville, Ky.=
+   WAVE                940
+   WHAS                820
+
+ =Lulu Island (Vancouver Island), B. C.=
+   CRCV               1100
+
+ =Madison, Wis.=
+   WHA                 940
+
+ =Mexico City, Mexico=
+   XEB                1030
+   XEN                 711
+   XEW                 910
+   XFG                 638
+   XFI                 818
+   XEFO                940
+   XETR                610
+
+ =Miami Beach, Fla.=
+   WMBF               1300
+
+ =Miami, Fla.=
+   WIOD               1300
+   WQAM                560
+
+ =Milwaukee, Wis.=
+   WTMJ                620
+
+ =Minneapolis, Minn.=
+   WCCO                810
+   WDGY               1180
+   WLB                1250
+   WRHM               1250
+
+ =Montreal, Que.=
+   CKAC                730
+
+ =Nashville, Tenn.=
+   WLAC               1470
+   WSM                 650
+
+ =Newark, N. J.=
+   WAAM               1250
+   WNEW               1250
+   WOR                 710
+
+ =New Orleans, La.=
+   WDSU               1250
+   WWL                 850
+
+ =New York, N. Y.=
+   WABC                860
+   WEAF                660
+   WFAB               1300
+   WJZ                 760
+   WLWL               1100
+   WOV                1130
+
+ =Norfolk, Nebr.=
+   WJAG               1060
+
+ =Northfield, Minn.=
+   WCAL               1250
+
+ =Oakland, Cal.=
+   KLX                 880
+
+ =Oklahoma, Okla.=
+   WKY                 900
+   KOMA               1480
+
+ =Omaha, Nebr.=
+   WOW                 590
+
+ =Ottawa, Ont.=
+   CRCO                880
+
+ =Philadelphia, Pa.=
+   WCAU               1170
+
+ =Piedras Negras, Coahuila=
+   XEPN                585
+
+ =Pittsburgh, Pa.=
+   KDKA                980
+   WCAE               1220
+   WJAS               1290
+
+ =Portland, Me.=
+   WCSH                940
+
+ =Portland, Ore.=
+   KEX                1180
+   KGW                 620
+   KOIN                940
+
+ =Pullman, Wash.=
+   KWSC               1220
+
+ =Raleigh, N. C.=
+   WFTF                680
+
+ =Reading, Pa.=
+   WEEU                830
+
+ =Reynosa, Tamaulipas=
+   XEAW                956
+
+ =Richmond, Va.=
+   WRVA               1110
+
+ =Rochester, N. Y.=
+   WHAM               1150
+
+ =Salt Lake City, Utah=
+   KDYL               1290
+   KSL                1130
+
+ =San Antonio, Tex.=
+   KTSA               1290
+   WOAI               1190
+
+ =San Diego, Cal.=
+   KFSD                600
+   KGB                1330
+
+ =San Francisco, Cal.=
+   KFRC                610
+   KGO                 790
+   KPO                 680
+   KTAB                560
+   KYA                1230
+
+ =San Juan, Puerto Rico=
+   WKAQ               1240
+
+ =Schenectady, N. Y.=
+   WGY                 790
+
+ =Seattle, Wash.=
+   KJR                 970
+   KOL                1270
+   KOMO                920
+   KTW                1220
+
+ =Shreveport, La.=
+   KTBS               1450
+   KWKH                850
+
+ =Sioux City, Iowa=
+   KSCJ               1330
+
+ =Sioux Falls, S. D.=
+   KSOO               1110
+
+ =Spokane, Wash.=
+   KFPY               1340
+   KGA                1470
+   KHQ                 590
+
+ =Stevens Point, Wis.=
+   WLBL                900
+
+ =St. Joseph, Mo.=
+   KFEQ                680
+
+ =St. Louis, Mo.=
+   KMOX               1090
+   KWK                1350
+   WEW                 760
+
+ =St. Paul, Minn.=
+   KSTP               1460
+
+ =Strathmore (Calgary), Alta.=
+   CFCN               1030
+
+ =Superior, Wis.=
+   WEBC               1290
+
+ =Syracuse, N. Y.=
+   WFBL               1360
+
+ =Tallmadge, Ohio=
+   WADC               1320
+
+ =Tampa, Fla.=
+   WDAE               1220
+
+ =Toledo, Ohio=
+   WSPD               1340
+
+ =Topeka, Kans.=
+   WIBW                580
+
+ =Toronto, Ont.=
+   CRCT                960
+
+ =Tulsa, Okla.=
+   KVOO               1140
+
+ =Twp. of Kingston (Toronto), Ont.=
+   CFRB                690
+
+ =Villa Acuna, Coahuila=
+   XER                 735
+
+ =Wheeling, W. Va.=
+   WWVA               1160
+
+ =Wichita, Kans.=
+   KFH                1300
+
+ =Windsor, Ont.=
+   CKLW                840
+
+ =Winnipeg, Man.=
+   CKY                 910
+
+ =Yankton, S. D.=
+   WNAX                570
+
+ =York, Pa.=
+   WORK               1000
+
+ =Zion, Ill.=
+   WCBD               1080
+
+
+[A] Stations listed include only those of 1000 watts power (or
+higher).
+
+NOTE: Numbers following call letters indicate approximate dial setting.
+
+
+
+
+WARRANTY
+
+(_This Warranty not applicable outside U.S.A._)
+
+Your Delco Radio Carries the Same Guarantee As Your Car
+
+
+"The manufacturer warrants each new radio receiving set manufactured by
+it to be free from defects in material and workmanship under normal use
+and service, its obligation under this warranty being limited to making
+good at its factory or designated Branches any part or parts thereof
+which shall within ninety (90) days or 4,000 miles whichever expires
+first, after installation of such auto radio receiving set for the
+original purchaser, be returned to it with transportation charges
+prepaid and which its examination shall disclose to its satisfaction to
+have been thus defective; this warranty being expressly in lieu of all
+other warranties expressed or implied and of all other obligations or
+liabilities on its part, and the manufacturer neither assumes nor
+authorizes any other person to assume for it any other liability in
+connection with the sale of its products."
+
+"This warranty shall not apply to any radio receiving set which shall
+have been repaired or altered outside manufacturer's authorized Service
+Stations in any way so as in the judgment of the manufacturer to affect
+its stability, or on parts not made or authorized by the manufacturer
+have been used for replacement or other purposes, nor which has been
+subject to misuse, negligence, or accident."
+
+
+ UNITED MOTORS SERVICE, INC.
+
+ DETROIT, MICH.
+
+
+ Form No. 2095                          Printed in U. S. A.
+
+
+
+
+===========================================================================
+===========================================================================
+
+
+
+
+ Delco
+
+
+ Rebuilt                                            1 55-D
+ Delcotron Generator                               1845985
+
+
+ Rebuilt by Delco-Remy. Division of General Motors, Anderson, Indiana,
+ 46011
+ Made in U.S.A.              275829                  Printed in U.S.A.
+
+
+
+
+12-17-71                        DR-7086
+
+
+INSTALLING SERVICE DELCOTRON(R) GENERATOR
+
+1. DISCONNECT GROUNDED CABLE FROM BATTERY.
+
+2. If it is necessary to rotate the slip ring end frame to match the
+unit being replaced, remove the thru bolts, separate frames just far
+enough to rotate to desired position and replace thru bolts.
+
+CAUTION: Separating the end frame too far causes the brushes to drop on
+to the greased shaft. If this happens, remove end frame completely,
+clean brushes with clean cloth, reassemble springs and brushes retaining
+them in position with a pin (toothpick). Remove pin after frames are
+reassembled.
+
+
+WHEN INSTALLING DELCOTRON(R) GENERATOR WITH INTEGRAL REGULATOR, THE SLIP
+RING END FRAME MOUNTING BRACKET IS NOT NEEDED.
+
+3. When reusing the original fan, pulley and collar, tighten shaft nut
+to 40 to 60 lb. ft. If torque wrench is not available, insert a 5/16"
+hex wrench in end of shaft and tighten nut until the spring washer is
+just flattened.
+
+4. Install Delcotron(R) Generator and check belt tension, mounting bolt
+tightness and make sure all electrical connections are clean and secure.
+
+IMPORTANT: Never operate the Delcotron(R) Generator without being
+connected to the battery. Never attempt to polarize the Delcotron(R)
+Generator.
+
+
+DELCO-REMY Division of General Motors Anderson, Indiana              BPI
+
+
+
+
+
+End of the Project Gutenberg EBook of Delco Manuals: Radio Model 633,
+Delcotron Generator, by Delco-Remy Division
+
+*** END OF THIS PROJECT GUTENBERG EBOOK DELCO MANUALS ***
+
+***** This file should be named 31407.txt or 31407.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/1/4/0/31407/
+
+Produced by Gerard Arthus, Meredith Bach, and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

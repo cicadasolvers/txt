@@ -1,0 +1,4870 @@
+The Project Gutenberg EBook of The Triads of Ireland, by Kuno Meyer
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Triads of Ireland
+
+Author: Kuno Meyer
+
+Release Date: March 17, 2010 [EBook #31672]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE TRIADS OF IRELAND ***
+
+
+
+
+Produced by Geetu Melwani, Brian Foley, Christine D. and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+
+
+[Transcriber's note: Linenotes and Footnotes moved as close as
+possible to their applicable entry to facilitate readability.]
+
+
+
+
+ROYAL IRISH ACADEMY
+
+TODD LECTURE SERIES
+
+VOLUME XIII.
+
+
+KUNO MEYER, PH.D.
+
+
+THE TRIADS OF IRELAND
+
+[Illustration]
+
+
+  DUBLIN
+  HODGES, FIGGIS, & CO., LTD.
+  LONDON: WILLIAMS & NORGATE
+  1906
+
+_Printed by_ PONSONBY & GIBBS, _Dublin University Press_
+
+
+
+
+CONTENTS
+
+                                PAGE
+
+  PREFACE,                      v-xv
+
+  TEXT AND TRANSLATION,         1-35
+
+  GLOSSES AND NOTES,           36-43
+
+  INDEX LOCORUM,               45-46
+
+  INDEX NOMINUM,                  46
+
+  GLOSSARY,                    47-54
+
+
+
+
+PREFACE
+
+
+The collection of Irish Triads, which is here edited and translated for
+the first time, has come down to us in the following nine manuscripts,
+dating from the fourteenth to the nineteenth century:--
+
+      =L=, _i.e._ the Yellow Book of Lecan, a vellum of the end of
+      the fourteenth century, pp. 414_b_--418_a_, a complete copy.
+
+      =B=, _i.e._ the Book of Ballymote, a vellum of the end of
+      the fourteenth century, pp. 65_b_-66_b_ (ends imperfectly).
+
+      =M=, _i.e._ the Book of Hui Maine, a vellum of the
+      fourteenth century, fo. 190_a_[1]-fo. 191_a_[2]. A complete
+      copy beginning: 'Ceand Erenn Ardmacha,' and ending: 'tri
+      hurgairt bidh a caitheam diescaidheadh (_sic_) a chaitheam
+      iarna coir a caitheam gan altughudh.' Then follow proverbial
+      sayings from the 'colloquy of Cormac and Cairpre,' such as:
+      'Dedhe ara ndligh gach maith domelar ithe [et] altugud. Anas
+      deach gacha fleidhe a cainaltughudh [et] a mochdingbail.
+      Caidhe deach samtha. Ni _hansa_. Gal gan forran. Deasgaidh
+      codulta frislige,' &c., ending: 'deasgaidh aineolais
+      imreasain. Ni d'agallaim Cormaic [et] Cairpre coruici sin.'
+
+      =Lec=, _i.e._ the Book of Lecan, a vellum of the fifteenth
+      century. The leaves on which the Triads are found are now
+      bound up with the codex H. 2. 17 belonging to Trinity
+      College. It is a complete copy beginning on p. 183_b_:
+      'Ceand _erenn_ Ardmacha,' and ending on p. 184_b_:
+      'ceitheora aipgitri baisi baig connailbi gell imreasain.'[1]
+      =N=, _i.e._ 23. N. 10, a paper MS. written in the year
+      1575,[2] pp. 98-101. A complete copy, the gap between pp.
+      100 and 106 being made up by pp. 7_a_-10_b_ of the vellum
+      portion of the manuscript.
+
+[1] By an oversight I have referred to this MS. sometimes by Lec and
+sometimes by H. In some cases both Lec and H will be found quoted in the
+variants. The same MS. is always meant.
+
+[2] As appears from the following colophon on p. 101: 'Oraoit uaim ar do
+lebor a hOedh in c_ed_luan iar n-aurtach Johannes. Baile Tibhaird ar bla
+maige mo mendad scribne hi farrad Se(a)ain hi Maoilconari. Mese
+(Dubthach) do scrib in ball soin da derpiris [et] rlae. Anno domini 1575.
+Guroiuh maith ag_a_t.
+
+      =H=[Prime], _i.e._ H. 1. 15, pp. 946-957. This is a paper
+      manuscript written by Tadhg Tiorthach O Neachtain in 1745.
+      It is a complete copy, with copious glosses in Modern Irish,
+      the more important of which are printed below on pp. 36-43.
+      At the end O Neachtain has added the following:--'Tri
+      subhailce diadha: creidhemh, dothchus agus gradh. Tri a
+      n-aon: athair, mac, spiorad naomh, da raibh gloir, mola[dh]
+      [et] umhlacht tre bith sior tug re don bhochtan bocht so.
+      Aniu an 15 do bhealltuine 1745. Tadhg O Nechtuin mac Seain a
+      n-aois ceithre bliadhna deag et tri fithchit roscriob na
+      trithibh [.s]uas.'
+
+These manuscripts have, on the whole, an identical text, though they all
+occasionally omit a triad or two; and the order of the single triads
+varies in all of them. They have all been used in constructing a
+critical text, the most important variants being given in the
+foot-notes. The order followed is in the main that of the Yellow Book of
+Lecan.
+
+There are at least three other manuscripts containing copies of the
+Triads. One of them I discovered in the Stowe collection after the text
+had been printed off. It is a paper quarto now marked 23. N. 27,
+containing on fo. 1_a_-7_b_ a copy of the Triads, followed on fo.
+7_b_-19_a_ by a glossed copy of the _Tecosca Cormaic_. It was written in
+1714 by Domnall (or Daniel) O Duind mac Eimuinn. Its readings agree
+closely with those of N. In Sec. 237, it alone, of all manuscripts, gives
+an intelligible reading of a corrupt passage. For _cia fochertar
+im-muir, cia berthair hi tech fo glass dodeime a tiprait oca mbi_, it
+reads: _cia focearta im-muir, cia beirthear hi tech fo glass no do
+theine, dogeibther occan tiprait_, 'though it be thrown into the sea,
+though it be put into a house under lock, or into fire, it will be found
+at the well.' In Sec. 121 for _cerdai_ it reads _cerd_; in Sec. 139 it has
+_rotioc_ and _rotocht_; in Sec. 143 for _gruss_ its reading is _gris_; in
+Sec.153 it has _aibeuloit_ for _eplet_; in Sec. 217 _tar a n-eisi_ for _dia
+n-eisi_; in Sec. 218 _lomradh_(twice) for _lobra_ and _indlighidh_ for _i
+n-indligud_; in Sec. 219 it has the correct reading _eiric_, and for
+_dithechte_ it reads _ditheacht_; in Sec. 220 it reads _fri aroile_ for
+_fria ceile_; in Sec. 223 after _ile_ it adds _imchiana_; in Sec. 224 it
+reads _gris brond .i. galar_; in Sec. 229 for _meraichne_ it has
+_mearaigheacht_; in Sec. 235 it has _mhamus_ for _mam_; in Sec. 236 _Maig
+Hi_ for _Maig Lii_; and for _co ndeirgenai in dam de_ it reads _co nderna
+in dam fria_.
+
+Another copy, written in 1836 by Peter O'Longan, formerly in the
+possession of the Earls of Crawford, now belongs to the Rylands Library,
+Manchester, where it was found by Professor Strachan, who kindly copied
+a page or two for me. It is evidently a very corrupt copy which I have
+not thought worth the trouble of collating.
+
+Lastly, there is in the Advocates' Library a copy in a vellum manuscript
+marked Kilbride III. It begins on fo. 9_b_^2 as follows:--'Treching
+breath annso. Ceann Eirind Ardmacha.' I hope to collate it before long,
+and give some account of it in the next number of this series.
+
+In all these manuscripts the Triads either follow upon, or precede, or
+are incorporated in the collections of maxims and proverbial sayings
+known as _Tecosca Cormaic_, _Auraicept Morainn_, and _Senbriathra
+Fithil_, the whole forming a body of early Irish gnomic literature which
+deserves editing in its entirety. It is clear, however, that the Triads
+do not originally belong to any of these texts. They had a separate
+origin, and form a collection by themselves. This is also shown by the
+fact that the Book of Leinster, the oldest manuscript containing the
+_Tecosca Cormaic_ (pp. 343_a_-345_b_), the _Senbriathra Fithail_ (pp.
+345_b_-346_a_), and the _Briathra Moraind_ (pp. 346_a_-_b_), does not
+include them.
+
+It is but a small portion of the large number of triads scattered
+throughout early Irish literature that has been brought together in our
+collection under the title of _Trecheng breth Fene_, i.e., literally 'a
+triadic arrangement of the sayings of Irishmen.' I first drew attention
+to the existence of Irish triads in a note on Irish proverbs in my
+addition of the _Battle of Ventry_, p. 85, where a few will be found
+quoted. A complete collection of them would fill a small volume,
+especially if it were to include those still current among the people of
+Ireland, both among Gaelic and English speakers. I must content myself
+here with giving a few specimens taken at random from my own
+collections:--
+
+      Three kinds of martyrdom that are counted as a cross to man,
+      _i.e._ white martyrdom, green martyrdom, and red
+      martyrdom.--The Cambray Homily (_Thesaurus Palaeohibernicus_,
+      II., p. 246).
+
+      Three enemies of the soul: the world, the devil, and an
+      impious teacher.--Colman maccu Beognae's Alphabet of Piety
+      (_Zeitschrift fuer celtische Philologie_, III., p. 452).
+
+      Three things whereby the devil shows himself in man: by his
+      face, by his gait, by his speech.--_Ib._, p. 453.
+
+      Three profitable labours in the day: praying, working,
+      reading.--Regula Choluimb Cille (_Zeitschr._, III., p. 29).
+
+      Three laymen of Ireland who became monks: Beccan son of
+      Cula, Mochu son of Lonan, and Enda of Arann.--Notes on the
+      Felire of Oengus (Henry Bradshaw Society, vol. xxix., p.
+      112).
+
+      Three chief artisans of Ireland: Tassach with Patrick,
+      Conlaed with Brigit, and Daig with Ciaran.--_Ib._, p. 186.
+
+      Three poets of the world: Homer of the Greeks, Vergil of the
+      Latins, Ruman of the Gaels.--Book of Leinster, p. 354_b_.
+
+      The three worst counsels that have been acted on in Ireland
+      through the advice of saints: the cutting short of Ciaran's
+      life, the banishment of Colum Cille, the expulsion of
+      Mochuta from Rathen.--Notes on the Felire of Oengus, p. 204,
+      and Tripartite Life, p. 557.[3]
+
+      [3] Where for 'wrong stories' read 'wrong counsels' (_sanasa saeba_).
+
+This triad is thus versified in the Brussels MS. 5100:--
+
+  Teora saoba sanasa    Leithe Cuind roc[h]aras-[s]a:
+  Mochuda cona clamhra[i]d     d'ionnarba a Rathain roghlain,
+  cur Coluim Cille tar sal,   timdibhe saeghail Ciarain.
+
+
+      Three things there are for which the Son of living God is
+      not grateful: haughty piety, harsh reproof, reviling a
+      person if it is not certain.[4]
+
+      [4] LB., p. 225 marg. inf., and Brussels MS. 5100, fo. 86_a_:
+
+  Fuil tri ni (a tri Br.)       dona (danach Br.) buidech mac De bi:
+  crabud uallach, coisced (coiccsed Br.) serb,    ecnach duine mad inderb.
+
+
+      Three things there are for which the King of the sun is
+      grateful: union of brethren, upright conversation, serving
+      at the altar of God.[5]
+
+      [5] Edinburgh MS. xl, p. 28, and Brussels MS. 5100, fo. 86_a_:
+
+  Fuil treide       dianab buidech ri greine:
+  oenta brathar, comrad (fodail Ed.) cert,   altoir De do thimthirecht.
+
+
+      Woe to the three folk in horrid hell of great blasts: folk
+      who practise poetry, folk who violate their orders,
+      mercenaries.[6]
+
+      [6] LB., p. 236, marg. inf.:
+
+  Mairg na tri lucht a n-iffirn uathmar anside:
+  oes dogni dan, oes choilles grad, oes amsaine.
+
+
+      Three things there are which do not behove the poor of
+      living God: ingratitude for his life whatever it be,
+      grumbling, and flattery.[7]
+
+      [7] LB., p. 238, marg. inf.:
+
+  Fuil tri ni      na dlegair do bocht De bi:
+  dimmda da bethaid cipe,          cesacht ocus aibele.
+
+
+
+
+The following modern triads I owe to a communication from Dr. P.W.
+Joyce, who heard them in his youth among the people of Limerick:--
+
+      Three things to be distrusted: a cow's horn, a dog's tooth,
+      and a horse's hoof.
+
+      Three disagreeable things at home: a scolding wife, a
+      squalling child, and a smoky chimney.
+
+      The three finest sights in the world: a field of ripe wheat,
+      a ship in full sail, and the wife of a Mac Donnell with
+      child.[8]
+
+[8] This triad comes from the Glynns of Antrim, the Mac Donnells'
+district.
+
+In our collection an arrangement of the Triads in certain groups,
+according to their contents, is discernible. Thus, the first
+sixty-one--of which, however, the opening thirty-one are no Triads at
+all--are all topographical; and among the rest, those dealing with legal
+matters stand out clearly (Secs. 149-172).
+
+When the collection was made we have no means of ascertaining, except
+from internal evidence, such as the age of the language, and a few
+allusions to events, the date of which we can approximately fix.
+
+The language of the Triads may be described as late Old-Irish. Their
+verbal system indeed is on the whole that of the Continental glosses,[9]
+and would forbid us to put them later than the year 900. On the other
+hand, the following peculiarities in declension, in which all the
+manuscripts agree, make it impossible for us to put them much earlier
+than the second half of the ninth century.
+
+[9] I may mention particularly the relative forms _teite_ 167, _bite_
+127, _ata_ 75, 76, 224, &c., _berta_ (O. Ir. _berte_) 109, 110, _fichte_
+(145), _coillte_ (166), _teite_ (167), _aragellat_ (sic leg. with N)
+171; the deponent _neimthigedar_ 116, &c.; _ato_, 'I am' (104), and the
+use of the perfective _ad-_ in _conaittig_ 77, 78.
+
+The genitive singular of _i-_ and _u-_stems no longer shows the ending
+_-o_, which has been replaced throughout by _-a_.[10] Now, in the Annals
+of Ulster, which are a sure guide in these matters and allow us to
+follow the development of the language from century to century, this
+genitive in _-o_ is found for the last time in A.D. 816 (_ratho,
+Ailello_). Thence onward the ending _-a_ is always found.
+
+[10] _ratha_ 56, _foglada_ 92, _flatha_ 151, 248, 253; _dara_ 4, 34;
+_Ela_ 31, 35, 44 (cf. _Lainne Ela_, AU. 816); _atha_ 50, _betha_ 82, 83,
+249.
+
+The place-name _Lusca_, 'Lusk,' is originally an _n-_stem making its
+genitive _Luscan_. This is the regular form in the Annals of Ulster till
+the year 880, from which date onward it is always _Lusca_ (A.D. 916,
+928, &c.). In our text (Sec. 46) all the manuscripts read _Lusca_.
+
+In slender _io-_stems the dative singular in Old-Irish ends in _-iu_. I
+find this form in the Annals of Ulster for the last time in A.D. 816
+(_Gertidiu_). Thence onward it is always _-i_, as in our text (_hi
+Cuailgni_ 43, _d'uisci_ 64).
+
+The nasal stem _leimm_ makes its nom. plur. _leimmen_ in Old-Irish. In Sec.
+32 we find instead (_tair-_)_leme_. So also _foimrimm_ makes its nom.
+plural _foimrimme_ in Sec. 163.
+
+The word _dorus_ is neuter in Old-Irish, making its nom. acc. plural
+either _dorus_ or _doirsea_. In our text (Secs. 173, 174) the word is
+masculine, and makes its nom. plural _doruis_.
+
+_Druimm_ is an _i-_stem in Old-Irish, but in the later language passes
+into an _n-_stem. In Sec. 51 we find the nom. pl. _drommanna_.
+
+The neuter _grad_ in Sec. 166 makes its nom. plur. _gruda_ for O. Ir.
+_grad_.[11]
+
+[11] The infinitive _bith_ for O. Ir. _buith_ (91), the dative _cinn_
+for O. Ir. _ciunn_ (98, 135), the nom. pl. _sligthi_ for O. Ir. _sligid_
+(which I have restored in Sec. 49), the confusion between _do_ and _di_
+(e.g. 83), and other details are probably due to the Middle-and
+Modern-Irish transcribers.
+
+On linguistic grounds, then, I should say that our collection was made
+some time during the second half of the ninth century. That it cannot be
+dated earlier is also apparent from another consideration. Professor
+Zimmer has taught us to search in every ancient Irish text for
+indications of its having been composed either before or after the
+Viking period. I find no words from the Norse language in the Triads,
+or, if there are any, they have escaped me; but there are two distinct
+references to the Viking age. In Sec. 232, a Viking in his hauberk (_Gall
+ina luirig_) is mentioned as one of three that are hardest to talk to;
+and, in Sec. 44, Bangor in Co. Down is called unlucky or unfortunate, no
+doubt, as the gloss says, because of the repeated plunderings and
+destruction of its monastery by the Norse during the early part of the
+ninth century (A.D. 823, 824).
+
+In endeavouring to trace the origin of the Triad as a form of literary
+composition among the Irish, one must remember that it is but one of
+several similar enumerative sayings common in Irish literature. Thus the
+collection here printed contains three duads (124. 133. 134), seven
+tetrads (223. 230. 234. 244. 248. 251. 252), and one heptad (235). A
+whole Irish law-book is composed in the form of heptads;[12] while
+triads, tetrads, &c., occur in every part of the Laws.[13] Such
+schematic arrangements were of course a great aid to memory.
+
+[12] See _Ancient Laws of Ireland_, vol, v., pp. 118-373.
+
+[13] Thus in the first volume of the Laws we find duads on p. 228, 15;
+294, 27; triads on p. 50, 9. 27; 230, 4; 264, 20; 288, 28; tetrads 40,
+21; 54, 7; 64, 1; 240, 24; 256, 4, &c.; 272, 25; 274, 3, &c.; pentads
+30, 21; 50, 32; 90, 29; 102, 6; hexads 68, 11; 248, 7: a heptad 134, 9;
+an ennead 16, 20.
+
+If the Triad stood alone, the idea that it owes its origin to the effect
+of the doctrine of the Trinity upon the Celtic imagination might
+reasonably be entertained. The fact that this doctrine has led to many
+peculiar phenomena in Irish folklore, literature, and art has frequently
+been pointed out. Nor would I deny that the sacred character of the
+number three, together with the greater facility of composition, may
+have contributed to the popularity of the Triad, which is certainly the
+most common among the various numerical sayings as well as the only one
+that has survived to the present day.
+
+However that may be, I believe that the model upon which the Irish
+triads, tetrads, pentads, &c., were formed is to be sought in those
+enumerative sayings--_Zahlensprueche_, as the German technical term
+is--of Hebrew poetry to be found in several books of the Old Testament.
+I am indebted to my friend the Rev. Carl Grueneisen for the following
+list of such sayings, which I quote in the Vulgate version.
+
+      DUADS AND TRIADS.
+
+      Ecclus. 23: 21, Duo genera abundant in peccatis, et tertium
+      adducit iram et perditionem, &c.
+
+      _Ib._ 26: 25, In duobus contristatum est cor meum, et in
+      tertio iracundia mihi advenit: 26 vir bellator deficiens per
+      inopiam, et vir sensatus contemptus, 27 et qui transgreditur
+      a iustitia ad peccatum, Deus paravit eum ad romphaeam.
+
+      _Ib._ 26: 28, Duae species difficiles et periculosae mihi
+      apparuerunt: difficile exuitur negotians a neglegentia, et
+      non iustificabitur caupo a peccatis labiorum.
+
+
+      TRIADS AND TETRADS.
+
+      Proverb. 30: 15, Tria sunt insaturabilia, et quartum quod
+      nunquam dicit: sufficit. 16 Inferuns, et os vulvae, et terra
+      quae non satiatur aqua; ignis vero nunquam dicit: sufficit.
+
+      _Ib._ 30: 18, Tria sunt difficilia mihi, et quartum penitus
+      ignoro: 19 viam aquilae in caelo, viam colubri super petram,
+      viam navis in medio mari, et viam viri in adolescentia.
+
+      _Ib._ 30: 21, Per tria movetur terra, et quartum non potest
+      sustinere: 22 per servum cum regnaverit: per stultum cum
+      saturatus fuerit cibo, 23 per odiosam mulierem cum in
+      matrimonio fuerit assumpta, et per ancillam cum fuerit heres
+      dominae suae.
+
+      _Ib._ 30: 29, Tria sunt quae bene gradiuntur, et quartum
+      quod incedit feliciter: 30 leo fortissimus bestiarum, ad
+      nullius pavebit occursum, 31 gallus succinctus lumbos, et
+      aries, nec est rex qui resistat ei.
+
+      Ecclus. 26: 5, A tribus timuit cor meum, et in quarto facies
+      mea metuit: 6 delaturam civitatis, et collectionem populi, 7
+      calumniam mendacem, super montem, omnia gravia, 8 dolor
+      cordis et luctus mulier zelotypa.
+
+
+      A TETRAD.
+
+      Proverb. 30, 24: Quattuor sunt minima terrae, et ipsa sunt
+      sapientiora sapientibus: 25 formicae, populus infirmus qui
+      praeparat in messe cibum sibi, 26 lepusculus, plebs invalida
+      qui collocat in petra cubile suum.
+
+
+      A HEXAD AND HEPTAD.
+
+      Proverb. 6. 16 Sex sunt quae odit Dominus, et septimum
+      detestatur anima eius: 17 oculos sublimes, linguam mendacem,
+      manus effundentes innoxium sanguinem, 18 cor machinans
+      cogitationes pessimas, pedes veloces ad currendum in malum,
+      19 proferentem mendacia testem fallacem, et eum qui seminat
+      intra fratres discordias.
+
+
+      AN ENNEAD.
+
+      Ecclus. 25, 9: Novem insuspicabilia cordis magnificavi, et
+      decimum dicam in lingua hominibus, &c.
+
+The question arises whether these biblical sayings were the direct
+source from which the Irish imitations are derived, or whether the Irish
+became acquainted with the numerical Proverb through the medium of Greek
+and Latin literature. As the Irish clerics ever since the days of St.
+Patrick were diligent students of the Bible, there would be nothing
+strange in the former assumption. But there exists at least one early
+document which renders the latter equally possible. Under the title of
+_Proverbia Grecorum_ we possess a collection of sayings translated by
+some Irish scholar in Ireland from the Greek into Latin before the
+seventh century.[14] Among them we find three triads,[15] two
+pentads,[16] three heptads,[17] and two octads.[18]
+
+[14] This is the opinion of S. Hellmann, their latest editor. See his
+_Sedulius Scottus_, p. 135, in Traube's _Quellen und Untersuchungen zur
+lateinischen Philologie des Mittelalters_, vol. i.: Muenchen, 1906.
+
+[15] A. 39, 41. B. 5.
+
+[16] A. 52.
+
+[17] A. 54. B. 3, 7.
+
+[18] B. 1, 2.
+
+As examples I select the following two triads:--
+
+      Tres bacheriosi(?) sunt: terribilis bellator armatus
+      promptusque ad praelium, leo de spelunca quando praedam
+      devorat, aper ferus de silva quando furore in aliquem
+      irruit.
+
+      Tres sunt imperfecti qui numquam ad perfectionem vitae
+      disciplinae pervenire possunt; tunc enim a vitiis recedunt,
+      quando mala facere non possunt. Antiquus nauta qui multis
+      annis seductis onmibus emere et vendere poterat; senex
+      auriga qui in curribus et in equis Deo derelicto vana cura
+      atque conversatione meditatur atque utitur; vetula ancilla
+      quae dominae suae subdole in omnibus rebus quae cottidiano
+      ministerio perficiuntur male retribuit.
+
+Triads occur sporadically in the literature of most other nations, and
+have occasionally been collected. But I am not aware that this kind of
+composition has ever attained the same popularity elsewhere as in Wales
+and Ireland, where the manufacture of triads seems at times almost to
+have become a sport.
+
+The wittiest triads are undoubtedly those in which the third item
+contains an anticlimax. Two perfect examples of this kind were composed
+by Heine when he tells the foreigner visiting Germany that he need but
+know three words of the language: _Brot_, _Kuss_, _Ehre_; and in his
+often quoted witticism: _Der Franzose liebt die Freiheit wie seine
+Braut, der Englaender wie seine Frau, der Deutsche wie seine alte
+Grossmutter._
+
+K.M.
+
+
+
+
+THE TRIADS OF IRELAND
+
+
+
+
+TRECHENG BRETH FENI INSO SIS[1]
+
+
+1. Cenn Herenn Ardmacha.
+
+  [Note 1: _om._ BMHNLec]
+
+2. Ordan Herenn Cluain Maic Nois.
+
+3. Ana Herenn Cluain Iraird.
+
+4. Cride Herenn Cell Dara.
+
+5. Sruithe Herenn Bendchor.
+
+6. Coemna Herenn Lusca.
+
+7. Ainius Herenn Cenannus.
+
+8. Di [.s]uil Herenn Tamlachta [et] Findglais.
+
+  [Note 8: da suil L Finnglaisi N Findglais Lec]
+
+9. Tech commairce Herenn Tech Cairnig for sligid Assail.
+
+  [Note 9: _om._ L]
+
+10. Idna Herenn Inis Cathaig.
+
+11. Recles Herenn Glenn Da Locha.
+
+12. Feinechas Herenn Cluain Huama.
+
+13. Tech Foichle Herenn Fernae.
+
+14. Litanacht Herenn Less Mor.
+
+15. Senchas Herenn Imblech Ibair.
+
+16. Berla Feine Herenn Corcach.
+
+17. Legend Herenn Ross Ailithre.
+
+  [Note 17: Ailaicre B Elichre M]
+
+18. Teite Herenn Tir Da Glas.
+
+  [Note 18: tede N teide BM]
+
+19. Anmchairde Herenn Cluain Ferta Brenainn.
+
+  [Note 19: ancairde BLec Brenainde N]
+
+20. Escaine Herenn Lothra.
+
+  [Note 20: hescoemna L]
+
+21. Brethemnas Herenn Slaine.
+
+22. Duire chrabaid Herenn Fobur Feichin.
+
+  [Note 22: dire BM Feichin _om._ BM Fabair Feithin N]
+
+23. Aibne Herenn Ard mBreccain.
+
+24. Diuite Herenn Ross Commain.
+
+  [Note 24: diuidus BM diuitecht L]
+
+25. Failte Herenn Raith mBoth no Druimm Lethan.
+
+26. De[.s]erc Herenn Dun Da Lethglas.
+
+  [Note 26: desearc L deeirc B deirc M]
+
+
+
+
+
+THE TRIADS OF IRELAND
+
+
+1. The Head of Ireland--Armagh.
+
+2. The Dignity of Ireland--Clonmacnois.
+
+3. The Wealth of Ireland--Clonard.
+
+4. The Heart of Ireland--Kildare.
+
+5. The Seniority of Ireland--Bangor.
+
+6. The Comfort[19] of Ireland--Lusk.
+
+[19] Or, perhaps, 'good cheer.'
+
+7. The Sport of Ireland--Kells.
+
+8. The Two Eyes of Ireland--Tallaght and Finglas.
+
+9. The Sanctuary of Ireland--the House of Cairnech upon the Road of
+Asal.[20]
+
+[20] A road running from Tara westward into Westmeath.
+
+10. The Purity of Ireland--Scattery Island.
+
+11. The Abbey-church of Ireland--Glendalough.
+
+12. The Jurisprudence of Ireland--Cloyne.
+
+13. The House of Wages[21] of Ireland--Ferns.
+
+[21] Or 'hire.'
+
+14. The Singing the Litany of Ireland--Lismore.
+
+15. The Lore of Ireland--Emly.
+
+16. The Legal Speech of Ireland--Cork.
+
+17. The Learning of Ireland--Roscarbery.
+
+18. The Wantonness of Ireland--Terryglas.
+
+19. The Spiritual Guidance of Ireland--Clonfert.
+
+20. The Curse of Ireland--Lorrha.
+
+21. The Judgment of Ireland--Slane.
+
+22. The Severity of Piety of Ireland--Fore.
+
+23. The Delight of Ireland--Ardbrackan.
+
+24. The Simplicity[22] of Ireland--Roscommon.
+
+[22] Or 'uprightness.'
+
+25. The Welcome of Ireland--Raphoe or Drumlane.
+
+26. The Charity of Ireland--Downpatrick.
+
+27. Trichtach Herenn Dairchaill.
+
+  [Note 27: _om._ BM techtach E Durcaill N Darachill L]
+
+28. Fossugud Herenn Mag mBile.
+
+  [Note 28: Mag Mile L]
+
+29. Martra Herenn Tulen.
+
+  [Note 29: _om._ L]
+
+30. Ailbeimm Herenn Cell Ruaid.
+
+  [Note 30: aulbeimnech L Ruadh N Ruadain L]
+
+31. Genas Herenn Lann Ela.
+
+32. Tri tairleme Erenn: Daire Calgaig [et] Tech Munna [et] Cell
+Maignenn.
+
+  [Note 32: _om._ HBM]
+
+33. Tri aithechpuirt Herenn: Cluain Iraird, Glenn Da Locha, Lugbad.
+
+  [Note 33: aithich Lec heathachbuirg M Lugmag NBM]
+
+34. Tri clochraid Herenn: Ard Macha, Cluain Maic Nois, Cell Dara.
+
+  [Note 34: clothraige BM clot_hr_ai N clochraid L clochraidi Lec]
+
+35. Tri haenaig Herenn: aenach Tailten, aenach Cruachan, aenach Colmain
+Ela.
+
+  [Note 35: haenaigi L Colman MSS]
+
+36. Tri duine Herenn: Dun Sobairche, Dun Cermna, Cathair Chonrui.
+
+  [Note 36: duin NBM]
+
+37. Tri slebe Herenn: Sliab Cua, Sliab Mis, Sliab Cualann.
+
+  [Note 37: sleibte BM]
+
+38. Tri haird Herenn: Cruachan Aigli, Ae Chualann, Benn mBoirchi.
+
+  [Note 38: hard N cich Cualann L benna LN]
+
+39. Tri locha Herenn: Loch nEchach, Loch Ri, Loch nErni.
+
+  [Note 39: Rib BM Rig N]
+
+40. Tri srotha Herenn: Sinann, Boand, Banda.
+
+41. Tri machaire Herenn: Mag Midi, Mag Line, Mag Lifi.
+
+  [Note 41: maige HBM]
+
+42. Tri dorcha Herenn: uam Chnogba, uam Slangae, dercc Ferna.
+
+  [Note 42: doirchi L uaim Chruachan NL uaim Condba B uaim Cnodba HM
+  Slaingai BM Slaine N Slaine [et] uaim Chruachan no dearc Fearna _add._
+  H]
+
+43. Tri dithruib Herenn: Fid Mor hi Cuailgni, Fid Deicsen hi Tuirtri,
+Fid Moithre hi Connachtaib.
+
+  [Note 43: dithreba BM Fid Dexin N]
+
+44. Tri dotcaid Herenn: abbdaine Bendchuir, [A] abbdaine Lainne Ela, rige
+Mugdorn Maigen.
+
+  [Note 44: dotchaid LHLec [A] .i. ar imad argain air L
+  abdaine Slane no Colmain Ela BM Laind Ela BM]
+
+27. The ... of Ireland--Dairchaill.
+
+28. The Stability of Ireland--Moville.
+
+29. The Martyrdom of Ireland--Dulane.
+
+30. The Reproach of Ireland--Cell Ruaid (Ruad's Church).[23]
+
+[23] 'Ruadan's Church,' L.
+
+31. The Chastity of Ireland--Lynally.
+
+32. The three places of Ireland to alight at: Derry, Taghmon,
+Kilmainham.
+
+33. The three rent-paying places of Ireland: Clonard, Glendalough,
+Louth.
+
+34. The three stone-buildings of Ireland: Armagh, Clonmacnois, Kildare.
+
+35. The three fairs of Ireland: the fair of Teltown, the fair of
+Croghan, the fair of Colman Elo.
+
+36. The three forts of Ireland: Dunseverick, Dun Cermna,[24] Cathir
+Conree.
+
+[24] On the Old Head of Kinsale.
+
+37. The three mountains of Ireland: Slieve Gua,[25] Slieve Mis, Slieve
+Cualann.[26]
+
+[25] _i.e._ the Knockmealdown mountains.
+
+[26] The Wicklow mountains.
+
+38. The three heights of Ireland: Croagh Patrick, Ae Chualann,[27] Benn
+Boirche.[28]
+
+[27] 'The Liver ('Pap,' L.) of Cualu,' either the Great Sugarloaf or
+Lugnaquilla.
+
+[28] _i.e._ Slieve Donard.
+
+39. The three lakes of Ireland: Lough Neagh, Lough Ree, Lough Erne.
+
+40. The three rivers of Ireland: the Shannon, the Boyne, the Bann.
+
+41. The three plains of Ireland: the plain of Meath, Moylinny,
+Moy-Liffey.[29]
+
+[29] _i.e._ the plain of Kildare.
+
+42. The three dark places of Ireland: the cave of Knowth, the cave of
+Slaney, the cave of Ferns.
+
+43. The three desert places of Ireland: Fid Mor (Great Wood) in Coolney,
+Fid Deicsen (Spy-wood) in Tuirtri,[30] the Wood of Moher in Connaught.
+
+[30] The Hui Tuirtri were settled in the four baronies of Upper and
+Lower Antrim, and Upper and Lower Toome in county Antrim.
+
+44. The three unlucky places of Ireland: the abbotship of Bangor, the
+abbotship of Lynally, the kingship of Mugdorn Maigen.[31]
+
+[31] Now Cremorne barony, county Monaghan.
+
+45. Tri huilc Herenn: Crecraigi, Glasraigi, Benntraigi.
+
+  [Note 45: Grecraigi HBM]
+
+46. Tri caemnai Herenn: abbdaine Lusca, rige tri Cualann, secnabboite
+Arda Macha.
+
+  [Note 46: rige fer Cualann NL sechnap L segnab-i nArdmachai N]
+
+47. Tri traga Herenn: Traig Ruis Airgit, Traig Ruis Teiti, Traig Baili.
+
+  [Note 47: trachtai L]
+
+48. Tri hatha Herenn: Ath Cliath, Ath Luain, Ath Caille.
+
+49. Tri sligid Herenn: slige Dala, slige Asail, slige Midluachra.
+
+  [Note 49: sligthi MSS]
+
+50. Tri belaige Herenn: Belach Conglais, Belach Luimnig, Belach
+Duiblinne .i. Atha Cliath.
+
+  [Note 50: belaig L Conglaisi N Luimne N .i. Atha Cliath _om_. N]
+
+51. Tri drommanna Herenn: Druimm Fingin, Druimm nDrobeoil, Druimm
+Leithe.
+
+  [Note 52: _om._ HBM]
+
+52. Tri maige Herenn: Mag mBreg, Mag Cruachan, Mac Liphi.
+
+53. Tri cluana Herenn: Cluain Maic Nois, Cluain Eois, Cluain Iraird.
+
+54. Tri tellaige Herenn: tellach Temrach, tellach Caisil, tellach
+Cruachan.
+
+  [Note 54: Temair Cruachu Caisel HBM]
+
+55. Tri hessa Herenn: Ess Ruaid, Ess Danainne, Ess Maige.
+
+56. Tri fothirbi Herenn: Tir Ratha Laidcniain, Sliab Commain, Sliab
+Manchain.
+
+  [Note 56: _om._ HBM fothairbe N]
+
+57. Tri tiprata Herenn: Tipra na nDesi, Tipra Huarbeoil, Tipra Uarain
+Garaid.
+
+  [Note 57: tiubrai N tipra Cuirp N nDesi HBM tipra Uarainn Garaid HBM
+  t. Uaran nGarad N Breifene N tipra Braithcleasan Brigdi H Braichleasan
+  Brigde BM]
+
+58. Tri haimreide Herenn: Breifne, Bairenn, Berre[A].
+
+  [Note 58: haimreid L Boirind M [A] Beandtraigi H]
+
+59. Tri hinbera Herenn: Inber na mBarc, Inber Feile, Inber Tuaige.
+
+60. Tri hairderca Herenn: Leimm Conculaind, Dun Cain, Srub Brain.
+
+  [Note 60: hirrdraici H oirrdirc M]
+
+45. The three evil ones of Ireland: the Crecraige,[32] the Glasraige,
+the Benntraige.[33]
+
+[32] A tribe settled in the barony of Coolavin, county Sligo, and in the
+adjacent part of county Roscommon.
+
+[33] Either Bantry in county Cork, or Bantry in county Wexford.
+
+46. The three comfortable places of Ireland: the abbotship of Lusk, the
+kingship of the three Cualu,[34] the vice-abbotship of Armagh.
+
+[34] 'Of the men of Cualu,' NL.
+
+47. The three strands of Ireland: the strand of Ross Airgit,[35] the
+strand of Ross Teiti, the strand of Baile.[36]
+
+[35] A territory in the barony of Upper Ormond, county Tipperary.
+
+[36] Now Dundalk.
+
+48. The three fords of Ireland: Ath Cliath (Hurdle-ford), Athlone (the
+Ford of Luan), Ath Caille (Wood-ford).[37]
+
+[37] Perhaps Ath Caille Ruaide on the Shannon.
+
+49. The three highroads of Ireland: Slige Dala,[38] Slige Asail, Slige
+Luachra.[39]
+
+[38] The great south-western road from Tara into Ossory.
+
+[39] A road running northward from Tara.
+
+50. The three mountain-passes of Ireland: Baltinglass, the Pass of
+Limerick, the Pass of Dublin.
+
+51. The three ridges of Ireland: Druim Fingin, Druim nDrobeoil, Druim
+Leithe.[40]
+
+[40] In Breffny.
+
+52. The three plains of Ireland: Moy Bray, Moy Croghan, Moy Liffey.
+
+53. The three meadows of Ireland: Clonmacnois, Clones, Clonard.
+
+54. The three households of Ireland: the household of Tara, the
+household of Cashel, the household of Croghan.
+
+55. The three waterfalls of Ireland: Assaroe, Eas Danainne,[41] Eas
+Maige.
+
+[41] On the Shannon opposite Dunass, co. Clare.
+
+56. The three fields (?) of Ireland: the land of Rathlynan, Slieve
+Comman, Slieve Manchain.
+
+57. The three wells of Ireland: the Well of the Desi, the Well of
+Uarbel,[42] the Well of Uaran Garaid.
+
+[42] Probably near _Sescenn Uarbeoil_ in Leinster (Mountseskenn?).
+
+58. The three uneven places of Ireland: Breffny, the Burren, Beare.
+
+59. The three estuaries of Ireland: Inver na mBarc,[43] Inver Feile,[44]
+Inver Tuaige.[45]
+
+[43] _Dun na mBarc_ is in Bantry Bay.
+
+[44] The estuary of the Feale.
+
+[45] 'The axe-shaped estuary,' _i.e._ the mouth of the Bann.
+
+60. The three conspicuous places of Ireland: Cuchulinn's Leap,[46]
+Dunquinn, Sruve Brain.[47]
+
+[46] _i.e._ Loop Head.
+
+[47] In the west of Kerry (i n-iarthar Herenn, YBL. 123^b31).
+
+61. Tri gnatha Herenn: Traig Li, Luachair Dedad, Sliab Fuait.
+
+  [Note 61: gnath N gnaith HM Lii N]
+
+62. Tri hamrai la Tain Bo Cuailnge: .i. in cuilmen dara heisi i nErinn;
+in marb dia haisneis don biu .i. Fergus mac Roig dia hinnisin do Ninnine
+eicius i n-aimsir Corbmaic maic Faelain; inti dia n-aisneth_er_, coimge
+bliadna do.
+
+  [Note 62: _om._ HBMLec coimde N]
+
+63. Tri meinistri fer Fene: .i. cich, gruad, glun.
+
+64. Tri dotcaid duine: deog therc d'uisci, itu i cormthig, suide cumang
+for achad.
+
+  [Note 64: dotchaid L dodcaid BM luige dige BM luige re dig H]
+
+65. Tri dotcaid threbtha: gort salach, iarmur cleithe, tech
+drithlennach.
+
+  [Note 65: dotchaid L dodcaid B iarmor B]
+
+66. Tri hairgarta ecalse: caillech fri clocc, athlaech i n-apdaine,
+banna for altoir.
+
+  [Note 66: hairgairt L hairgair H hurgoirt B ina habdaine B bainne NM
+  bae[=n] for a haltoir B]
+
+67. Tri failti co n-iarduibi: fer tochmairc, fer gaite, fer aisneise.
+
+  [Note 67: fochmairc NHBMLec aisneidsi N]
+
+68. Tri broin ata ferr failti: bron treoit oc ithe messa, bron guirt
+apaig, bron feda fo mess.
+
+  [Note 68: is ferr H ita ferr L at ferr N broin MB ac aipgiudud BM ig
+  messrugud H]
+
+69. Tri failti ata messu bron: failti fir iar ndiupairt, failti fir iar
+luga eithig, failti fir iar fingail.
+
+  [Note 69: measum B iar ndiubairt N iar mbreith diubarta BM iar
+  mbreith a dibirta H failte fir luga eithig B fir _om._ BM failte fir iar
+  marbad a brathar a[c] cosnom a [.f]eraind fris BM]
+
+70. Tri fiada co n-an[.f]iad: gress i n-oentig fri muintir, uisce rothe
+dar cosa, biad goirt cen dig.
+
+  [Note 70: fiad L anbfiad N tri fiaidaichi ad mesa H greasa BM for
+  cosaib HM dar cosaib NB biad goirt doib B]
+
+71. Tri dotcaid maic athaig: clemnas fri hocthigern, gabail for tascor
+rig, commaid fri meirlechu.
+
+  [Note 71: dotchaid L dodca d B hoigthigearna MN tarscur BM tascor
+  (no tarcor) N tairrseach (!) L]
+
+72. Tri dotcaid threbairi: tarcud do drochmnai, fognam do
+droch[.f]laith, coemchlod fri droch[.f]erann.
+
+  [Note 72: dodchaidh B targad BM drochlaith M drochlaech H claechlud
+  H caemclodh M drochirind B]
+
+73. Tri buada trebairi: tarcud do degmnai, fognam do deg[.f]laith,
+coemchlod fri dag[.f]erann.
+
+  [Note 73: trebtha N targad B deadlaech H claechmod H deigferand HM
+  degthigern (!) B]
+
+61. The three familiar places[48] of Ireland: Tralee, Logher, the Fews.
+
+[48] Or, perhaps, 'places of common resort.'
+
+62. Three wonders concerning the Tain Bo Cuailnge; that the _cuilmen_
+came to Ireland in its stead; the dead relating it to the living, viz.
+Fergus mac Roig reciting it to Ninnine the poet in the time of Cormac
+mac Faelain; one year's protection to him to whom it is recited.
+
+63. The three halidoms of the men of Ireland: breast, cheek, knee.
+
+64. Three unfortunate things for a man: a scant drink of water, thirst
+in an ale-house, a narrow seat upon a field.
+
+65. Three unfortunate things of husbandry: a dirty field, leavings of
+the hurdle, a house full of sparks.
+
+66. Three forbidden things of a church: a nun as bellringer, a veteran
+in the abbotship, a drop upon the altar.
+
+67. Three rejoicings followed by sorrow: a wooer's, a thief's, a
+tale-bearer's.
+
+68. Three sorrows that are better than joy: the heaviness of a herd
+feeding on mast, the heaviness of a ripe field,[49] the heaviness of a
+wood under mast.
+
+[49] 'Of a ripening field,' BM.
+
+69. Three rejoicings that are worse than sorrow: the joy of a man who
+has defrauded another, the joy of a man who has perjured himself, the
+joy of a man who has committed parricide.[50]
+
+[50] 'Of a man who has slain his brother in contesting his land,' BM.
+
+70. The three worst welcomes: a handicraft in the same house with the
+inmates, scalding water upon the feet, salt food without a drink.
+
+71. Three unfortunate things for the son of a peasant: marrying into the
+family of a franklin, attaching himself to the retinue of a king,
+consorting with thieves.
+
+72. Three unfortunate things for a householder: proposing to a bad
+woman, serving a bad chief, exchanging for bad land.
+
+73. Three excellent things for a householder: proposing to a good woman,
+serving a good chief, exchanging for good land.
+
+74. Tri hoenaig eserte: celide hi tig gobann, celide hi tig [.s]air, dul do
+chennuch cen airche.
+
+  [Note 74: haenaigi nasearta B neiseirti H haonaige neserte N esertai
+  Lec airrdhe N]
+
+75. Tri coil ata ferr folongat in mbith: coil srithide hi folldeirb,
+coil foichne for tuinn, coil snaithe dar dorn dagmna.
+
+  [Note 75: foloingead imbith B is ferr isin mbith N sreibe LLec
+  srithide B srithide foildeirb N]
+
+76. Tri duirn ata dech for bith: dorn deg[.s]air, dorn degmna, dorn
+deggobann.
+
+  [Note 76: for doman BM dorn sair dorn gabonn dorn daim N degdaim BM]
+
+77. Trede conaittig firinne: mess, tomus, cubus.
+
+  [Note 77: tri conaitig B]
+
+78. Trede conaittig brethemnas: gais, feige, fiss.
+
+  [Note 78: a tri conaitig B]
+
+79. Tri tuarascbala etraid: osnad, cluiche, ceilide.
+
+  [Note 79: osnaid N miad LBM]
+
+80. Trede ara carthar escara: main, cruth, innraccus.
+
+  [Note 80: a tri BM treidi H gnas alaig erlabra HM airdearcus B]
+
+81. Trede ara miscnigther cara: fogal, dognas, dimainche.
+
+  [Note 81: treidi H a tri M tri L fogail H dimainecht HM]
+
+82. Tri buirb in betha: oc contibi sen, slan contibi galarach, gaeth
+contibi baeth.
+
+  [Note 82: contib BM contibe N gallrach BM gallrai N baeth contib gaeth
+  BM]
+
+83. Tri buidir in betha: robud do throich, airchisecht fri faigdech,
+cosc mna baithe do druis.
+
+  [Note 83: urchuidme ria foidhech N aercuidmed fri foigeaeh B mna
+  druithi B]
+
+84. Tri cain docelat eitchi: sobes la anricht, ane la doer, ecna la
+dodelb.
+
+  [Note 84: doceilead eitig B handracht B dodealb B dodeilb N]
+
+85. Tri heitich docelat cain: bo binnech cen as, ech an amluath, sodelb
+cen tothucht.
+
+  [Note 85: doceiled BM beinnech N]
+
+86. Tri oible adannat seirc: gnuis, alaig, erlabra.
+
+  [Note 86: haibne adannaid searc B adanta serce N alaid N]
+
+87. Tri haithne co fomailt: aithne mna, aithne eich, aithne [.s]alainn.
+
+  [Note 87: haithneada Lec tomailt B salainn L]
+
+88. Tri buada teiti: ben chaem, ech maith, cu luath.
+
+  [Note 88: teite N buadnasa tetnai HBMLec]
+
+89. Tri segainni Herenn: fathrann, adbann a cruit, berrad aigthe.
+
+  [Note 89: segaind M tri comartha segainn N segraind B Herenn _om._
+  MB fatraind B fadbann N fadhbond MB aigthe _om._ BM a cruit _om._ MN]
+
+74. Three holidays[51] of a landless man[52]: visiting in the house of a
+blacksmith, visiting in the house of a carpenter, buying without bonds.
+
+[51] Or, perhaps, 'fairs, foregatherings.'
+
+[52] Or 'vagrant.'
+
+75. Three slender things that best support the world: the slender stream
+of milk from the cow's dug into the pail, the slender blade of green
+corn upon the ground, the slender thread over the hand of a skilled
+woman.
+
+76. Three hands that are best in the world: the hand of a good
+carpenter, the hand of a skilled woman, the hand of a good smith.
+
+77. Three things which justice demands: judgment, measure, conscience.
+
+78. Three things which judgment demands: wisdom, penetration, knowledge.
+
+79. Three characteristics of concupiscence: sighing, playfulness,[53]
+visiting.
+
+[53] Or 'dalliance.'
+
+80. Three things for which an enemy is loved: wealth, beauty, worth.[54]
+
+[54] 'distinction,' B. 'familiarity, fame (leg. allad), speech,' H.
+
+81. Three things for which a friend is hated: trespassing,[55] keeping
+aloof,[56] fecklessness.
+
+[55] Or 'encroaching.'
+
+[56] Literally, 'unfamiliarity.'
+
+82. Three rude ones of the world: a youngster mocking an old man, a
+healthy person mocking an invalid, a wise man mocking a fool.
+
+83. Three deaf ones of the world: warning to a doomed man, mocking[57] a
+beggar, keeping a loose woman from lust.
+
+[57] 'pitying,' L.
+
+84. Three fair things that hide ugliness: good manners in the
+ill-favoured, skill in a serf, wisdom in the misshapen.
+
+85. Three ugly things that hide fairness: a sweet-lowing cow without
+milk, a fine horse without speed, a fine person without substance.
+
+86. Three sparks that kindle love: a face, demeanour, speech.
+
+87. Three deposits with usufruct: depositing a woman, a horse, salt.
+
+88. Three glories of a gathering: a beautiful wife, a good horse, a
+swift hound.
+
+89. Three accomplishments of Ireland: a witty stave, a tune on the
+harp,[58] shaving a face.
+
+[58] Literally, 'out of a harp.'
+
+90. Tri comartha cluanaigi: buaidriud scel, cluiche tenn, abucht co
+n-imdergad.
+
+  [Note 90: tri comartha cluanaide N clu aenaigh M cluaenaige B teinn L
+  tind BM abocht HLec abhacht M co n-imnead no imdergad HLec co n-uaithiss
+  L co n-aitis N]
+
+91. Tri gena ata messu bron: gen snechta oc legad, gen do mna frit iar
+mbith [.f]ir aili le, gen chon [.f]oilmnich.
+
+  [Note 91: ad meassam HMB mesom L drochmna LN frit _om._ L iar fes le
+  fer n-aili H iar mbeith fri araile BM foleimnighe N foilmig dot letrad H
+  foleimnigh (foilmnig B) agud rochtain dott ithe MB]
+
+92. Tri bais ata ferr bethaid: bas iach, bas muicce meithe, bas foglada.
+
+  [Note 92: ad HBM beatha H iaich L bas iaich bas muici meithi bas
+  fodhladlu L fogladai N fodalada B bas bithbenaig B luifenaich Lec]
+
+93. Tri huathaid ata ferr sochaidi: uathad dagbriathar, uathad bo hi
+feor, uathad carat im chuirm.
+
+  [Note 93: uath ada N ad M is H deagbriathar H degflaith MB]
+
+94. Tri bronaig choirmthige: fer dogni fleid, fer dia ndentar, fer ibes
+menip saithech
+
+  [Note 94: fleid _om._ B fer nostairbir H fer teid dia tairtiud minab
+  saitheach M]
+
+95. Tri cuitbidi in domain: fer lonn, fer etaid, fer dibech.
+
+  [Note 95: cuidmidi H]
+
+96. Tri cuil tuaithe: flaith brecach, breithem guach, sacart colach.
+
+  [Note 96: flaitheamh BM sacart tuisledach N sagart diultach B
+  diultadhach M]
+
+97. Tri fuiric thige degduni: cuirm, fothrucud, tene mor.
+
+  [Note 97: fuiric .i. fleadh no feasta B daghduine N]
+
+98. Tri fuiric thige drochduni: debuid ar do chinn, athchosan frit, a
+chu dot gabail.
+
+  [Note 98: achmusan NBM a cu dod ledrad N do congabail M drochscel
+  lat immach L]
+
+99. Tri gretha tige deglaich: grith fodla, grith suide, grith comeirge.
+
+  [Note 99: tri grith L tri gartha M fogla L suigidhe BM]
+
+100. Tri dorchae na dlegat mna do imthecht: dorcha ciach, dorcha aidche,
+dorcha feda.
+
+  [Note 100: nach dleguid N narfacad do mnai imteact B d'imtecht NM]
+
+101. Tri sailge boccachta: imgellad, immarbag, imreson.
+
+  [Note 101: soilge BM imgellad bag L imarbaid imreasain BM imarbaigh
+  imressain N imreason no imraichni L]
+
+102. Tri airisena boccachta: sircheilide, sirdecsain, siriarfaige.
+
+  [Note 102: haersenna BM hairisin N sirfiarfaighe M sirfiarfaigid N]
+
+90. Three ungentlemanly things: interrupting stories, a mischievous
+game, jesting so as to raise a blush.
+
+91. Three smiles that are worse than sorrow: the smile of the snow as it
+melts, the smile of your wife[59] on you after another man has been with
+her,[60] the grin of a hound ready to leap at you.[61]
+
+[59] 'Of a bad woman,' LN.
+
+[60] 'After sleeping with another man,' H.
+
+[61] 'To tear you to pieces,' H. 'Coming up to devour you,' MB.
+
+92. Three deaths that are better than life: the death of a salmon, the
+death of a fat pig, the death of a robber.[62]
+
+[62] 'Of a criminal,' B.
+
+93. Three fewnesses that are better than plenty: a fewness of fine
+words, a fewness of cows in grass, a fewness of friends around ale.[63]
+
+[63] 'good ale,' MB.
+
+94. Three sorrowful ones of an alehouse: the man who gives the feast,
+the man to whom it is given, the man who drinks without being
+satiated.[64]
+
+[64] 'Who goes to it unsatiated,' M. _i.e._ who drinks on an empty
+stomach.
+
+95. Three laughing-stocks of the world: an angry man, a jealous man, a
+niggard.
+
+96. Three ruins of a tribe: a lying chief, a false judge, a lustful[65]
+priest.
+
+[65] 'Stumbling, offending,' N. 'Fond of refusing,' B.
+
+97. Three preparations of a good man's house: ale, a bath, a large fire.
+
+98. Three preparations of a bad man's house: strife before you,
+complaining to you, his hound taking hold of you.[66]
+
+[66] 'Tearing you,' N. 'A bad story to speed you on your way,' L.
+
+99. Three shouts of a good warrior's house: the shout of distribution,
+the shout of sitting down, the shout of rising up.
+
+100. Three darknesses into which women should not go: the darkness of
+mist, the darkness of night, the darkness of a wood.
+
+101. Three props of obstinacy[67]: pledging oneself, contending,
+wrangling.
+
+102. Three characteristics of obstinacy[67]: long visits, staring,
+constant questioning.
+
+[67] Literally, 'buckishness.'
+
+103. Tri comartha meraigi: slicht a chire ina [.f]olt, slicht a
+[.f]iacal ina chuit, slicht a luirge ina diaid.
+
+  [Note 103: comarthadha M meraigthe N 'na cend BM 'na cuit BM
+  inandiaig B na diaidh M]
+
+104. Tri maidme cluanaigi: ato ar do scath, rosaltrus fort,
+rotflinch_us_ com etach.
+
+  [Note 104: cluainige BM ato BM atu L rodsaltar M rosaltrur ort L
+  rosflinch_us_ com edach N rofliuchus com ediuch BM comh edach L]
+
+105. Tri bi focherdat marbdili: oss foceird a congna, fid foceird a
+duille, cethra focerdat a mbren[.f]inda.
+
+  [Note 105: _om._ BMHLec]
+
+106. Tri scenb Herenn: Tulach na nEpscop, Ached Deo, Duma mBuirig.
+
+  [Note 106: _om._ BMHLec achad N]
+
+107. Tri hingnad Herenn: lige inn abaic, lige nEothuili, allabair i
+foccus.
+
+  [Note 107: _om._ BMHLec hinganta N allubuir a fogus N]
+
+108. Tri daurthige Herenn: daurthech Birra, daurthech Cluana Eidnech,
+daurthech Leithglinde.
+
+  [Note 108: _om._ BMHLec]
+
+109. Tri hingena berta miscais do mithocod: labra, lesca, anidna.
+
+  [Note 109: do mitocuid N do togud BM lesce N anidna N nemidna BM .i.
+  esinrucas _add._ H]
+
+110. Tri hingena berta seirc do chaintocud: tua, escuss, idnae.
+
+  [Note 110: beres L berta seircce de caintogud BM serc N caintocaid N
+  tri hadbair serci Lec toa esces idna N esca BMLec]
+
+111. Tri tua ata ferr labra: tua fri forcital, tua fri hairfitiud, tua
+fri procept.
+
+  [Note 111: labrai N sproicept B sproicepht M fri aithfrend N]
+
+112. Tri labra ata ferr tua: ochan rig do chath, sreth immais, molad iar
+luag.
+
+  [Note 112: uchan N ocon_n_ BM hairfidiud _no_ fis BM luadh B]
+
+113. Tri hailgesa etualaing .i. eirg cen co dechais, tuc cenitbe, dena
+ceni derna.
+
+  [Note 113: haisgeadha edualaing B erg gen cotis H tuc gen gud beirg
+  (?) gen go gaemais dena gen go heda B tuca gen cobe N gen gudbe M gen
+  [go] dernais N gen go feta HM]
+
+114. Tri hamaite bit[e] i ndrochthig oiged .i. sentrichem senchaillige,
+roschaullach ingine moile, sirite gillai.
+
+  [Note 114: hamaide drochtoighe BM sentriche caillige BM sentrichim N
+  rosc cailleach ingine siridhe gillai BM siride N sirithe L]
+
+115. Tri hairig na ndualche: sant, craes, etrad.
+
+103. Three signs of a fop: the track of his comb in his hair, the track
+of his teeth in his food, the track of his stick[68] behind him.
+
+[68] Or 'cudgel.'
+
+104. Three ungentlemanly boasts: I am on your track, I have trampled on
+you, I have wet you with my dress.
+
+105. Three live ones that put away dead things: a deer shedding its
+horn, a wood shedding its leaves, cattle shedding their coat.[69]
+
+[69] Literally, 'stinking hair.'
+
+106. Three places of Ireland to make you start: Tulach na n-Escop,[70]
+Achad Deo,[71] Duma mBuirig.
+
+[70] A hill near Kildare. See Thesaurus Palaeo-hibernicus ii.. p. 335.
+
+[71] At Tara. See Todd's _Irish Nennius_, p. 200.
+
+107. Three wonders of Ireland: the grave of the dwarf,[72] the grave of
+Trawohelly,[73] an echo near.[74]
+
+[72] Somewhere in the west (i n-iarthar Erenn, Fel., p. clvii).
+
+[73] See Todd's _Irish Nennius_, p. 199, and Zeitschrift fuer Celt. Phil,
+v., p. 23.
+
+[74] Nothing is known to me about this wonder.
+
+108. Three oratories of Ireland: the oratory of Birr, the oratory of
+Clonenagh, the oratory of Leighlin.
+
+109. Three maidens that bring hatred upon misfortune: talking, laziness,
+insincerity.
+
+110. Three maidens that bring love to good fortune: silence, diligence,
+sincerity.
+
+111. Three silences that are better than speech: silence during
+instruction, silence during music, silence during preaching.
+
+112. Three speeches that are better than silence: inciting a king to
+battle, spreading knowledge (?),[75] praise after reward.[76]
+
+[75] _Sreth immais_, which I have tentatively translated by 'spreading
+knowledge,' is used as a technical term in poetry for connecting all the
+words of a verse-line by alliteration, as e.g. _slatt_, _sacc_, _socc_,
+_simend_, _saland_. See Ir. Texte iii., p. 30.
+
+[76] _Cf._ LL. 344_a_: Carpre asks Cormac what are the sweetest things
+he has heard, and Cormac answers: 'A shout of triumph after victory,
+praise after reward, the invitation of a fair woman to her pillow.'
+
+113. Three impossible demands: go! though you cannot go, bring what you
+have not got, do what you cannot do.
+
+114. Three idiots that are in a bad guest-house: the chronic cough of an
+old hag, a brainless tartar of a girl, a hobgoblin of a gillie.
+
+115. The three chief sins: avarice, gluttony, lust.
+
+116. Trede neimthigedar crossan: rige oile, rige theighe, rige bronn.
+
+117. Trede neimthigedar cirmaire: coimrith fri coin hi[c] cosnum chnama,
+adarc reithi do dirgud dia anail cen tenid, dichetal for ochtraig co
+rathochra a mbi ina ichtur for a uachtar do cho[.n]gna [et] cnamaib [et]
+adarcaib.
+
+  [Note 117: _om._ BMHLec dirge N otrach N corotochra N a mbid na
+  hichtar N huachtar N congnaim N]
+
+118. Trede nemthigedar saer: dluthud cen fomus, cen fescred, lud
+luadrinna, beimm fo chommus.
+
+  [Note 118: _om._ BMHLec tri ara neimit_er_ N dluthugud N feiscre N
+  ludh luaithreand N]
+
+119. Trede neimthigedar liaig: digallrae, diainme, comchissi ce_n_
+ainchiss.
+
+  [Note 119: _om._ BMHLec ara neimit_er_ liagh N coimcisin gin ainces N]
+
+120. Trede neimthigedar gobainn: bir Neithin, fulacht na Morrigna,
+inneoin in Dagda.
+
+  [Note 120: _om._ BMHLec ara neimit_er_ gobaind N bir ndechin N]
+
+121. Trede neimthigedar cerdai: fige ronn, caer comraic, plett for faebur.
+
+  [Note 121: _om._ BMHLec cerd N flet N]
+
+122. Trede neimthigedar cruitire: golltraige, gentraige, suantraige.
+
+  [Note 122-123: _om._ BMHLec]
+
+123. Trede neimthigedar filid: immas forosna, teinm laeda, dichetal di
+chennaib.
+
+124. Da migairm mithocaid: commaidem do chetguine, do ben la fer n-aile.
+
+  [Note 124: atte da ni igairm (!) do neoch .i. maidem a
+  c_het_guine [et] a bean do beith fri fer n-aill BM mitocaid N a cedgona
+  N a ben la fer n-aile N]
+
+125. Teora airi[se]na iarnduba: comar, cocless, clemnas.
+
+  [Note 125: tri hairnadmand BMN iardubha M coicless LM coicle M]
+
+126. Tri bainne cetmuintire: bainne fola, bainne der, bainne aillse.
+
+  [Note 126: banda NBM]
+
+127. Tri coiri bite in cach duini: coire erma, coire goriath, coire
+aiged.
+
+  [Note 127: core B duini L duine B goiriat N aitiu N notead B
+  notheadh M]
+
+116. Three things that constitute a buffoon: blowing out his cheek,
+blowing out his satchel, blowing out his belly.
+
+117. Three things that constitute a comb-maker: racing a hound in
+contending for a bone; straightening a ram's horn by his breath, without
+fire; chanting upon a dunghill so that all antlers and bones and horns
+that are below come to the top.
+
+118. Three things that constitute a carpenter: joining together without
+calculating (?), without warping (?); agility with the compass; a
+well-measured stroke.
+
+119. Three things that constitute a physician: a complete cure, leaving
+no blemish behind, a painless examination.
+
+120. Three things that constitute a blacksmith: Nethin's spit, the
+cooking-hearth of the Morrigan, the Dagda's anvil.[77]
+
+[77] For a description and pictures of these appliances, see YBL., p.
+419_a_, and Egerton, 1782, fo. 46_a_.
+
+121. Three things that constitute an artificer: weaving chains, a mosaic
+ball,[78] an edge upon a blade.
+
+[78] O'Curry, Manners and Customs, ii., p. 253, thought that a _caer
+comraic_ was 'a ball of convergent ribs or lines,' perhaps such a bead
+or ball of mosaic glass as is depicted in Joyce's _Social History of
+Ancient Ireland_, vol. ii., p. 32, fig. 171. _A caer comraic_ of eight
+different colours is mentioned in LB. 108_b_ 20.
+
+122. Three things that constitute a harper: a tune to make you cry, a
+tune to make you laugh, a tune to put you to sleep.[79]
+
+[79] _Cf._ H. 3. 18, p. 87: treide nemtighther cruit; goltraiges,
+gentraiges, suantraiges.
+
+123. Three things that constitute a poet: 'knowledge that illumines,'
+'_teinm laeda_,'[80] improvisation.
+
+[80] The names of various kinds of incantations. See Cormac's Glossary
+and Ancient Laws, s.v.
+
+124. Two ominous cries of ill-luck: boasting of your first slaughter,
+and of your wife being with another man.
+
+125. Three things betokening trouble: holding a plough-land in common,
+performing feats together, alliance in marriage.
+
+126. Three drops of a wedded woman: a drop of blood, a tear-drop, a drop
+of sweat.
+
+127. Three caldrons that are in every fort: the caldron of running, the
+caldron _goriath_,[81] the caldron of guests.
+
+[81] Quite obscure to me. There is a heavily glossed poem in H. 3. 18,
+beginning _Coire goriath_. In H. 2. 15, p. 117^b, after the colophon to
+Duil Laithne (Goid.,^2 p. 79), there are some further glosses, among
+which I find: goiriath .i. gardhamh in gach iath, erma .i. uasal-iompu
+no iar-iompa. But _erma_ seems the genitive of _erim_, 'a course.'
+
+128. Tri comartha lathraig bendachtan: clocc, salm, senad.
+
+  [Note 128: lathrach bennachtan H bendacht L senad NBMH ocsenad L]
+
+129. Tri comartha lathraig mallachtan: tromm, tradna, nenaid.
+
+  [Note 129: mallachtan HM neanad B neanntoch M tradnai BM tradna H]
+
+130. Teora muimmecha taide: caill, coim, adaig.
+
+  [Note 130: tri muime BM tri buime gaiti H coill HM]
+
+131. Teora ranna sluinte fri caintocad: trumma, toicthiu, talchaire.
+
+  [Note 131: sloindti caintocaid N toicte N]
+
+132. Teora ranna sluinte dotcaid: tlas, aes, airbire.
+
+  [Note 132: dotcaid N tlass ois oirbire N]
+
+133. Di derb[.s]iair: tlas [et] truaige.
+
+  [Note 133: siair L tlas [et] trousca N truaighe BMH]
+
+134. Da derbrathair: tocad [et] brugaide.
+
+  [Note 134: brathair M toice [et] blailaige N togud B tacad H]
+
+135. Tri fuidb dotcadaig: rathaiges, etargaire, fiadnaise. Dotoing dia
+fiadnaisi, iccaid dia rathaiges, doberar beimm n-etaigaire ina chinn.
+
+  [Note 135: foidb dothcadaigh M toindid a fiadnaisi BM iccaid a
+  rathaigecht beiridh builleadha etargaire ina cind BM.]
+
+136. Tri sethraeha goa: bess, doig, toimtiu.
+
+  [Note 136: toimdi L]
+
+137. Tri brathair uamain: sta! sit! coiste!
+
+  [Note 137: braitri N omain BM ist sta [et] coisde BM sta sit coist N]
+
+138. Tri mairb fortgellat for biu: med, airmed, forrach.
+
+  [Note 138: forgellait H for fiu BM meid armeid BM forach H]
+
+139. Tri brothcain ratha: rothicc, rosiacht, rotochtaig.
+
+  [Note 139: brothcain ratha N raithi L rodicc rosiacht roto_n_cai N]
+
+140. Tri dubthrebtha: tuga co fuatchai, imme co for[.n]gaire, tirad co
+n-aurgorad.
+
+  [Note 140: doidbtrebtai tugai co fodaib imed co forrngaire N tuighe
+  go foidibh M co foitib Lec tiriudh M]
+
+141. Tri hiarnduba: fer tochmairc, fer gaite meirle, fer hic aisneis.
+
+  [Note 141: fear fochairc Lec fer aisneisi N]
+
+142. Tri maic beres drus do lonnus: tuilfeth, fidchell, dulsaine.
+
+  [Note 142: lundus N tulfeith N dullsaine L]
+
+143. Tri maic beres feile do ainmnit: gruss, russ, rucca.
+
+  [Note 143: ainmned N grus rus rucad N]
+
+144. Tri maic beres neoit do deinmnait: crith, dochell, grith.
+
+  [Note 144: deinmnet N grith crith doicell N]
+
+145. Tri huar fichte: tipra, muir, nuae corma.
+
+  [Note 145: huara N]
+
+146. Tri fuammann moaigthe: fuam bo mblecht, fuam cerdchae, fuam
+aratbair.
+
+  [Note 146: fuamandu moaigti N moigthi L fuaim bo mblicht N]
+
+128. Three tokens of a blessed site: a bell, psalm-singing, a synod (of
+elders).
+
+129. Three tokens of a cursed site: elder, a corncrake, nettles.[82]
+
+[82] See my edition of _Cain Adamnain_, p. 13, note 3, and p. 38.
+
+130. Three nurses of theft: a wood, a cloak, night.
+
+131. Three qualities[83] that bespeak good fortune: self-importance,
+..., self-will.
+
+[83] Literally, 'parts.'
+
+132. Three qualities[84] that bespeak misfortune: weariness, (premature)
+old age, reproachfulness.
+
+[84] Literally, 'heaviness, weight.'
+
+133. Two sisters: weariness and wretchedness.
+
+134. Two brothers: prosperity and husbandry.
+
+135. Three unlucky...:[85] guaranteeing, mediating, witnessing. The
+witness has to swear to his evidence, the guarantor has to pay for his
+security, the mediator gets a blow on his head.[86]
+
+[85] The usual meanings of _fodb_, 'accoutrement, equipment, arms,' do
+not seem to suit here.
+
+[86] Literally, 'the blow of mediation is dealt on his head.'
+
+136. Three false sisters: 'perhaps,' 'may be,' 'I dare say.'
+
+137. Three timid brothers: 'hush!' 'stop!' 'listen!'
+
+138. Three dead things that give evidence on live things: a pair of
+scales, a bushel, a measuring-rod.
+
+139. Three pottages of guaranteeing....[87]
+
+[87] Obscure and probably corrupt. Cf. Sec. 219.
+
+140. Three black husbandries: thatching with stolen things,[88] putting
+up a fence with a proclamation of trespass, kiln-drying with scorching.
+
+[88] 'with sods,' NML, perperam.
+
+141. Three after-sorrows: a wooer's, a thief's, a tale-bearer's.
+
+142. Three sons whom folly bears to anger: frowning, ... ,[89] mockery
+(?).
+
+[89] _fidchell_, the well-known game, gives no sense here.
+
+143. Three sons whom generosity bears to patience: ... , blushing,
+shame.
+
+144. Three sons whom churlishness bears to impatience: trembling,
+niggardliness, vociferation.
+
+145. Three cold things that seethe: a well, the sea, new ale.
+
+146. Three sounds of increase: the lowing of a cow in milk, the din of a
+smithy, the swish of a plough.
+
+147. Tri hana antreinn: tipra i sleib, tene a liic, ana la fer calad.
+
+  [Note 147: luc MSS. anai la fear calaid N]
+
+148. Tri aithgine in domuin: bru mna, uth bo, ness gobann.
+
+  [Note 148: haitgine N aithgeinit L corathgen B coratgen M bru birite
+  BM meas(!) BMLec]
+
+149. Tri diubarta forsna iada dilse: tinnscra mna, imthomailt lanamna,
+iarraid maicc.
+
+  [Note 149: hiad N imtomailt N iarr_aid_ menicc(!) L]
+
+150. Tri cuir tintaiter do reir britheman: cor mna [et] micc [et]
+bothaich.
+
+  [Note 150: tinntaigter N]
+
+151. Tri nata[t] tualaing sainchuir: mac beo-athar, ben aurnadma, doer
+flatha.
+
+  [Note 151: nad N]
+
+152. Tri maic nad rannat orbai: mac muini [et] aurlai [et] ingine fo
+thrilis.
+
+  [Note 152: erlai N]
+
+153. Tri ai nad eplet faill: ai dochuind, [et] dochraite, [et] anfis.
+
+  [Note 153: dochainn N docraite N]
+
+154. Tri fuile na dlegat frecor: fuil catha, [et] eoit, [et] etargaire.
+
+  [Note 154: nad N etargaire N]
+
+155. Tri fuchachta nad increnat slabrai: a gabail ar ecin, a sleith tri
+mescai, a turtugud do rig.
+
+  [Note 155: fuichechta N slaibri N]
+
+156. Tri na dlegat turbaidi: athchor maic, aicdi cherdai, giallaigecht.
+
+  [Note 156: nad dlegait turbaid N aige cerda N]
+
+157. Tri aithne na dlegat taisec: aithne n-ecuind, [et] ardneimid [et]
+aithne fuirmeda.
+
+  [Note 157: haitne nad dlegait taisec N ecoind N fuirmidai L]
+
+158. Tri mairb direnaiter beoaib: aball, coll, fidnemed.
+
+  [Note 158: dorenatar beo N]
+
+159. Tri[ar] na ditoing na fortongar: ben, angar, amlabar.
+
+  [Note 159: dotoing na fortoing_er_ L amlobar N]
+
+160. Tri na dlegat athchommus: mac [et] a athair, ben [et] a ceile, doer
+[et] a thigerna.
+
+  [Note 160: na dlegait N]
+
+161. Tri nat fuigletar cia beith ar a ngaes: fer adgair [et] adgairther
+[et] focrenar fri breith.
+
+  [Note 161: nat fuigletar cia beit N fer adgair [et] adgair (sic)
+  [et] adgairter [et] rocrenar N]
+
+162. Tri fors na tuit aititiu 'na re: bas, anfis, anfaitches.
+
+  [Note 162: anfuichc_h_es L anbaitces N]
+
+147. Three wealths in barren places: a well in a mountain, fire out of a
+stone, wealth in the possession of a hard man.
+
+148. Three renovators of the world: the womb of woman, a cow's udder, a
+smith's moulding-block.
+
+149. Three concealments upon which forfeiture does not close: a wife's
+dowry, the food of a married couple, a boy's foster-fee.
+
+150. Three contracts that are reversed by the decision of a judge: the
+contracts of a woman, of a son, of a cottar.
+
+151. Three that are incapable of special contracts[90]: a son whose
+father is alive, a betrothed woman, the serf of a chief.
+
+[90] Or, 'of contracts on their own behalf.'
+
+152. Three sons that do not share inheritance: a son begotten in a
+brake,[91] the son of a slave, the son of a girl still wearing tresses.
+
+[91] Cf. the expression _meirdrech muine_, 'a bush-strumpet,' Laws v.
+176, 4.
+
+153. Three causes that do not die with neglect: the causes of an
+imbecile, and of oppression, and of ignorance.
+
+154. Three bloodsheds that need not be impugned: the bloodshed of
+battle, of jealousy, of mediating.
+
+155. Three cohabitations[92] that do not pay a marriage-portion: taking
+her by force, outraging her without her knowledge through drunkenness,
+her being violated by a king.
+
+[92] _fuchacht_, or _fuichecht_, usually means 'cuckoldry,' a meaning
+which does not seem to suit here.
+
+156. Three that are not entitled to exemption: restoring a son, the
+tools of an artificer, hostageship.
+
+157. Three deposits that need not be returned: the deposits of an
+imbecile,[93] and of a high dignitary, and a fixed deposit.[94]
+
+[93] _i.e._ a deposit made by an imbecile. _Cf._ Plato, Republic: "But
+surely you would never give back to a mad friend a sword which he had
+lent you?"
+
+[94] But in the Heptads (Laws v. 196, 3) _aithne fuirmida_, there
+rendered by 'a deposited charge,' is enumerated as one of those to be
+restored even if there are no bonds to that effect.
+
+158. Three dead ones that are paid for with living things: an
+apple-tree, a hazle-bush, a sacred grove.[95]
+
+[95] there is nothing in the laws to explain this.
+
+159. Three that neither swear nor are sworn: a woman, a son who does not
+support his father, a dumb person.
+
+160. Three that are not entitled to renunciation of authority: a son and
+his father, a wife and her husband, a serf and his lord.
+
+161. Three who do not adjudicate though they are possessed of wisdom: a
+man who sues, a man who is being sued, a man who is bribed to give
+judgment.
+
+162. Three on whom acknowledgment does not fall in its time: death,
+ignorance, carelessness.
+
+163. Tri foimrimme na dlegad dire: homan, robud, toxal.
+
+  [Note 163: foimrime N foimrenn L na dlegaid N robad N]
+
+164. Tri duilgine conrannat gniaid: duilgine coiri, duilgine muilinn,
+duilgine tige.
+
+  [Note 164: duilcinne N conrenad gnia N]
+
+165. Tri noill dona dlegar frithnoill: noill mna fri huaitni, noill fir
+mairb, noill dithir.
+
+  [Note 165: naill nad dlegad fritnaill luige mna N luide N luige
+  ditire N]
+
+166. Tri grada coillte tuath ina ngoi: goi rig, goi [.s]enchada, goi
+bretheman.
+
+  [Note 166-220: _om._ HBMLec inango N go N]
+
+167. Tri soir dogniat doeru dib fein: tigerna renas a deiss, rigan teite
+co haithech, mac filed leces a cheird.
+
+  [Note 167: daoir dib fein N des N deissi L teid N treiges a cerd N]
+
+168. Tri ruip conberat duinechinaid: cu araig, reithe lonn, ech
+daintech.
+
+  [Note 168: araid N reithid N daindtech N]
+
+169. Tri ruip ara tiagat cinta: cu foilm[n]ech, sleg caille, slissen
+chomneibi.
+
+170. Tri imuserenat: saill, imm, iarn, fechemnas toisc leimmid eicsi.
+
+  [Note 170: imus crenait saill N sall L iaronn N feitemnus toisc
+  leine im eiccsi N]
+
+171. Tri comartha aragella i tig britheman: ecna, aisneis, intlecht.
+
+  [Note 171: comardda L aragellat a tig bretheman N taig L aisnesen
+  intliuchtach L]
+
+172. Tri dlegat aurfocrai: ael coire, fidba cen [.s]eim, ord cen dimosc.
+
+  [Note 172: dlegait urfograe N fidbaigh can tseim ord gan dimosc N
+  dinsem L]
+
+173. Tri doruis gua: tacra fergach, fotha n-utmall n-eolais, aisneis cen
+chuimni.
+
+  [Note 173: fothad utmall N eolus aisena oca_n_ coimni N]
+
+174. Tri doruis a n-aichnither fir: frecra n-ainmnetach, ai fossad, soud
+fri fiadnu.
+
+  [Note 174: an aithnit_er_ fiorinne N freaccra n-ainmnedach N ainmeta
+  L ai fosaid sodad N]
+
+175. Tri buada airechta: brithem cen fuasnad, etirchert cen ecnach, coma
+cen diupairt.
+
+  [Note 175: fuasna L]
+
+176. Tri tonna cen gaissi: tacra calad, breth cen eolas, airecht labar.
+
+  [Note 176: ton_n_a gaisi N donnadgaissi L tonna gan gaoise H. 1. 11
+  brethem N]
+
+177. Tri buada insci: fosta, gais, gairde.
+
+  [Note 177: buadad innsce N gois N]
+
+178. Tri cumtaig gaisse: immed n-eolais, lin fassach, dagaigni do
+airbirt.
+
+  [Note 178: lion fasaid N]
+
+163. Three usucaptions that are not entitled to a fine: fear, warning,
+asportation.
+
+164. Three wages that labourers share: the wages of a caldron,[96] the
+wages of a mill, the wages of a house.
+
+[96] _i.e._ of making a caldron, &c.
+
+165. Three oaths that do not require fulfilment[97]: the oath of a woman
+in birth-pangs, the oath of a dead man, the oath of a landless man.
+
+[97] Literally, 'a counter-oath, a second oath.'
+
+166. Three ranks that ruin tribes in their falsehood: the falsehood of a
+king, of a historian, of a judge.
+
+167. Three free ones that make slaves of themselves: a lord who sells
+his land, a queen who goes to a boor, a poet's son who abandons his
+(father's) craft.
+
+168. Three brutes whose trespasses count as human crimes: a chained
+hound, a ferocious ram, a biting horse.
+
+169. Three brutish things that atone for crimes: a leashed hound, a
+spike in a wood, a lath....[98]
+
+[98] _comneibi_ is a [Greek: hapax legomenon] to me.
+
+170. Three things that ... salt-meat, butter, iron....[99]
+
+171. Three signs that ... [99] in a judge's house: wisdom, information,
+intellect.
+
+172. Three things that should be proclaimed: the flesh-fork of a
+caldron, a bill-hook without a rivet, a sledge-hammer without....[99]
+
+[99] Obscure and probably corrupt.
+
+173. Three doors of falsehood: an angry pleading, a shifting foundation
+of knowledge, giving information without memory.
+
+174. Three doors through which truth is recognised: a patient answer, a
+firm pleading, appealing to witnesses.
+
+175. Three glories of a gathering: a judge without perturbation, a
+decision without reviling, terms (agreed upon) without fraud.
+
+176. Three waves without wisdom: hard pleading, judgment without
+knowledge, a talkative gathering.
+
+177. Three glories of speech: steadiness, wisdom, brevity.
+
+178. Three ornaments of wisdom: abundance of knowledge, a number of
+precedents, to employ a good counsel.
+
+179. Tri miscena indsci: rigne, dluithe, dulbaire.
+
+  [Note 179: miscne indsce N raighni L]
+
+180. Tri fostai dagbanais: fosta thengad [et] gensa [et] airnb_ern_tais.
+
+  [Note 180: fosta N fostadh tengad N airb_er_tais N]
+
+181. Tri foindil drochbanais: foindil scel [et] ataid [et] airberntais.
+
+  [Note 181: _om._ N]
+
+182. Tri buada etaig: maisse, clithcha, suthaine.
+
+  [Note 182: buadhad N cliche N]
+
+183. Tri na dlegat othras: fer aslui flaith [et] fini [et] fili.
+
+  [Note 183: nad d_leg_ait dire fer doslaig flaith [et] file [et] fine
+  N feili L]
+
+184. Tri tharsuinn archuillet othras: echmuir, mil, saillti.
+
+  [Note 184: tharsunn L tarsuind aircaillti othiais N]
+
+185. Tri mna na dlegat diri: ben lasma cuma cipe las fai, ben gatach,
+ben aupthach.
+
+  [Note 185: nat d_leg_ait N cia las f(a)oi N optach N]
+
+186. Tri dofortat cach flaith: gou, forsnaidm, fingal.
+
+  [Note 186: dofortad gach fl_ath_a N]
+
+187. Tri tuarascbait cach ngenmnaide: fosta, feile, sobraide.
+
+  [Note 187: tuarascb_al_a genmnaid fostad N]
+
+188. Tri ara n-aichnider cach fergach: ir, crith, imbanad.
+
+  [Note 188: tri aichnider L aranaithnent_ur_ N hir L]
+
+189. Tri thuarascbait cach n-ainmnetach: samtha, tua, imderead.
+
+  [Note 189: tuarascbalai gach nainmnedaigh samtad N tuai L]
+
+19O. Tri thuarascbait cach n-uallach: morthu, maisse, maine.
+
+  [Note 190: tuaruscbalai cach ndubalcai mortha N]
+
+191. Tri forindet cach n-umal: bochtatu, dinnime, humalloit.
+
+  [Note 191: forinded N bochtai N]
+
+192. Tri airdi gaisse: ainmne, faiscsiu, fathaige.
+
+  [Note 192: hairdhe N faicsi fathaidhi N]
+
+193. Tri airdi druisse: bag, imresain, condailbe.
+
+  [Note 193: _om._ N]
+
+194. Trede immifoilnge gais do baeth: ecna, fosta, sochoisce.
+
+  [Note 194: imfuilnge N]
+
+195. Trede immifoilnge bais do gaeth: fuasnad, ferg, mesca.
+
+  [Note 195: imfailnge baoth N]
+
+196. Trede faillsiges cach ndag[.f]eras: dan, gaisced, cresine.
+
+  [Note 196: cach degfer_us_ N cresenai N]
+
+197. Trede faillsigedar cach ndroch[.f]eras: serba, miscais, midlachas.
+
+  [Note 197: faillsigh_us_ cach drochferus N]
+
+198. Tri fogluaiset foenledchu: ingreim, dolud, dommatu.
+
+  [Note 198: fainnelca N dolai N]
+
+179. Three hateful things in speech: stiffness,[100] obscurity, a bad
+delivery.
+
+[100] In Mod. Ir. _righneas labhartha_ means 'an impediment in speech.'
+See Dinneen's Dictionary, s.v.
+
+180. Three steadinesses of good womanhood: keeping a steady tongue, a
+steady chastity, and a steady housewifery.
+
+181. Three strayings of bad womanhood: letting her tongue,[101] and ...
+and her housewifery go astray.
+
+[101] Literally, 'stories.'
+
+182. Three excellences of dress: elegance, comfort, lastingness.
+
+183. Three that are not entitled to sick-maintenance: a man who absconds
+from his chief, from his family, from a poet.
+
+184. Three sauces that spoil a sick-bed: ...,[102] honey, salt food.
+
+[102] I believe _echmuir_ to be the name of a plant: but I cannot find
+the reference.
+
+185. Three women that are not entitled to a fine: a woman who does not
+care with whom she sleeps, a thievish woman, a sorceress.
+
+186. Three things that ruin every chief: falsehood, overreaching,
+parricide.[103]
+
+[103] Or rather 'murder of relations.'
+
+187. Three things that characterise every chaste person: steadiness,
+modesty, sobriety.
+
+188. Three things by which every angry person is known: an outburst of
+passion, trembling, growing pale.
+
+189. Three things that characterise every patient person: repose,
+silence, blushing.
+
+190. Three things that characterise every haughty person: pompousness,
+elegance, (display of) wealth.
+
+191. Three things that tell every humble person: poverty, homeliness,
+servility.
+
+192. Three signs of wisdom: patience, closeness, the gift of prophecy.
+
+193. Three signs of folly: contention, wrangling, attachment (to
+everybody).
+
+194. Three things that make a fool wise: learning, steadiness,
+docility.[104]
+
+[104] _Cf._ dan ecna dogni rig do bocht, dogni gaeth do baeth, &c., LL.
+346^a35.
+
+195. Three things that make a wise man foolish: quarrelling, anger,
+drunkenness.
+
+196. Three things that show every good man: a special gift,[105] valour,
+piety.
+
+[105] Such as art, poetry, &c.
+
+197. Three things that show a bad man: bitterness, hatred, cowardice.
+
+198. Three things that set waifs a-wandering: persecution, loss,
+poverty.
+
+199. Tri slabrada hi cumregar cloine: cotach, riagail, rechtge.
+
+  [Note 199: racht N]
+
+200. Tri all frisa timargar bescna: mainister, flaith, fine.
+
+  [Note 200: tri frisa N mineistir N flatha N]
+
+201. Tri caindle forosnat cach ndorcha: fir, aicned, ecna.
+
+202. Trede neimthigedar rig: fonaidm ruirech, feis Temrach, roimse inna
+[.f]laith.
+
+  [Note 202: tri aran_em_it_er_ ri N]
+
+203. Tri glais foriadat ruine: naire, tua, dochta.
+
+  [Note 203: ruini L]
+
+204. Tri heochracha aroslicet imraitiu: mescca, tairisiu, serc.
+
+  [Note 204: oslaice imraite N]
+
+205. Tri orbai rannaiter fiad chomarbaib: orba druith [et] orba
+dasachtaig [et] orba sin.
+
+  [Note 205: rannait fia comarbaoibh (_sic_) N]
+
+206. Tri seithir oited: tol, ailde, feile.
+
+  [Note 206: aide toil N]
+
+207. Tri seithir sentad: cnet, genas, eitche.
+
+208. Tri seithir sognaise: feidle, soithnges, cuinnmine.
+
+  [Note 208: feili soingtes connamno N soithgnes L]
+
+209. Tri seithir dognaise: luinne, cetludche, tairismige.
+
+  [Note 209: cetluithche N]
+
+210. Tri seithir sotcaid: sognas, sochell, suarcus.
+
+  [Note 210: sottch N sothchaidh L sognais L]
+
+211. Tri seithir sochlatad: leire, trebaire, rathmaire.
+
+212. Tri seithir dochlatad: laxa, dibe, prapchaillte.
+
+  [Note 212: doclata N]
+
+213. Tri seithir ferge: ecnach, augra, doithnges.
+
+  [Note 213: doingteas N]
+
+214. Tri seithir deirmiten: tromdatu, espatu, utmaille.
+
+215. Tri seithir airmiten: torbatu, airetrumma, fosta.
+
+216. Tri banlae: luan, mairt, cetain. Mna co firu innib, bid mo a serc la
+firu inda serc a fer leo-som [et] beit a mna tar eis na fer sin.
+
+  [Note 216: bandla N at mna beit tara n-eiseiu N]
+
+217. Tri ferlae: .i. dardain, aine, domnach. Mna co firu intib, beitit na
+mna sin fo digrad [et] beitit a fir dia n-eisi. Satharn im_morro_ is
+laithe coitchenn. Is comlith doib. Luan saer do dul fri cach les.
+
+  [Note 217: aoine satharn _no_ domnach N innib N beidis N]
+
+218. Tri gnima ratha: fosta, feile, lobra. Fosta i n-arus, feile, arna
+ebra goe, lobra hicce .i. lecud a lomartha i n-indligud dar a
+[.f]echimain.
+
+  [Note 218: om. ratha L lubrai N anarus N heibre goi N lubrai ice .i.
+  leacadh lomartha anindli_ged_ dar cenn feichi_man_ N]
+
+199. Three chains by which evil propensity is bound: a covenant, a
+(monastic) rule, law.
+
+200. Three rocks to which lawful behaviour is tied: a monastery,[106] a
+chieftain, the family.
+
+[106] 'The credence-table,' N., perperam.
+
+201. Three candles that illumine every darkness: truth, nature,
+knowledge.
+
+202. Three things that constitute a king: a contract with (other) kings,
+the feast of Tara, abundance during his reign.
+
+203. Three locks that lock up secrets: shame, silence, closeness.
+
+204. Three keys that unlock thoughts: drunkenness, trustfulness, love.
+
+205. Three inheritances that are divided in the presence of heirs: the
+inheritance of a jester, of a madman, and of an old man.
+
+206. Three youthful sisters: desire, beauty, generosity.
+
+207. Three aged sisters: groaning, chastity, ugliness.
+
+208. Three well-bred sisters: constancy, well-spokenness, kindliness.
+
+209. Three ill-bred sisters: fierceness, lustfulness, obduracy.
+
+210. Three sisters of good fortune: good breeding, liberality, mirth.
+
+211. Three sisters of good repute: diligence, prudence, bountifulness.
+
+212. Three sisters of ill repute: inertness, grudging, closefistedness.
+
+213. Three angry sisters: blasphemy, strife, foulmouthedness.
+
+214. Three irreverent sisters: importunity, frivolity, flightiness.
+
+215. Three reverent sisters: usefulness, an easy bearing, firmness.
+
+216. Three woman-days: Monday, Tuesday, Wednesday. If women go to men on
+those days, the men will love them better than they the men, and the
+women will survive the men.
+
+217. Three man-days: Thursday, Friday, Sunday. If women go to men on
+those days, they will not be loved, and their husbands will survive
+them. Saturday, however, is a common day. It is equally lucky to them.
+Monday is a free day to undertake any business.
+
+218. Three duties of guarantorship: staying (at home), honesty,
+suffering (?); staying in one's residence, honesty lest he utter
+falsehood, suffering (?) payment, viz. letting oneself be stripped for
+an illegal action instead of the debtor.
+
+219. Tri brothchain ratha: eir[i]c no thognim fecheman no dithechte.
+
+  [Note 219: brocain N _no_ no thognim L ditechta N dithechdi L]
+
+220. Tri huais ratha [et] aitiri [et] nadma .i. dul fri denam duine rig
+[et] daurthaige [et] choiri. Ar is uais do fir fine do thabairt fria
+ceili.
+
+  [Note 220: eit_er_i N nadmadh fri N]
+
+221. Tri as anergnaid do neoch: slaide a eich riana thigerna co salaig a
+etach, dul ina chocar cen gairm, a sirdeicsiu ina agaid oc caithem
+neich.
+
+  [Note 221: is ainergna N tri saineargnaidh M slaige BN rena BMN
+  sirdeicsin N sirdegsain BM caithium BM aeaitniem a coda N]
+
+222. Tri bassa techtai: bass etir a assa [et] a ochrai, bass etir a o
+[et] a berrad, bass etir chorthair a leined [et] a glun.
+
+  [Note 222: corrthair M]
+
+223. Cia mesam hi trebod? Maic mna meile, fleda menci, clemna ile, immat
+meda sceo fina: notchrinat, ni thormaiget.
+
+  [Note 223: cidh is messa do treb_ad_ ni _hansa_ N mic B imad fianna
+  nodcrinaid [et] nitoirmuigid BM imchiana (!) N nitormaigett N]
+
+224. Tri galair ata ferr slainti: seola mna for mac, griss bronn-galair
+glanas broinn, griss timgaire olc dia maith.
+
+  [Note 224: seol N sceola(!) for fermac BM galar timargur olc do
+  maith N timgaire B di maith B do maith M]
+
+225. Tri failti coirmthige: immed [et] duthracht [et] elatho.
+
+  [Note 225: ealathaoi N ealado do neoch carthar BM]
+
+226. Tri fognama ata messam dogni duine: fognam do drochmnai [et] do
+drochthigerna [et] do drochgobainn.
+
+  [Note 226: mesa N drochflaith B drochf_er_ann N]
+
+227. Tri ata ferr i tig: daim, fir, bela.
+
+  [Note 227: dam N]
+
+228. Tri ata messum i tig: m_ai_c, mna, meile.
+
+  [Note 228: measum bite a taig mic BM]
+
+229. Tri comartha tirdachta .i. immargal [et] immarbag [et] meraichne.
+
+  [Note 229: im_ur_cal im_ur_baid imraithne N imabad LBM]
+
+230. Cenele amus: salanaig buale [et] buicc brodnai [et] eoin erchoille
+[et] seiche corad.
+
+  [Note 230: cenela BM buale _om._ BM earcaille M coradh M]
+
+231. Cenele daileman: mormenmnach meda, bolcsronach brocoiti, itfa
+eserni, cuacroessach, donndabach, bolcra paitte, abartach escrai, geir
+grainne, cranndretel cuirn.
+
+  [Note 231: cenela BM metha H bolgsronach BM itfa eserne BM
+  cuachroeasach BM cuachrochesach H baite BM haiti H abarthach easgraidh
+  M gearr grandai B grenn graindi H crand rebartach H treiteal cuirnd M
+  cuirnn L]
+
+219. The pottages of guarantorship: wer-geld or a debtor's ... or
+non-possession (?)[107]
+
+[107] Obscure and probably corrupt. Cp. Sec. 139.
+
+220. Three things hard to guarantee and to become a hostage and to make
+a contract for: to go security for constructing the fort of a king, an
+oratory, and a caldron. For it is hard for a man of a family to be given
+with (?) his fellow.[108]
+
+[108] I cannot make out the meaning of _doberim fri_.
+
+221. Three things that are undignified for everyone: driving one's horse
+before one's lord so as to soil his dress, going to speak to him without
+being summoned, staring in his face as he is eating his food.
+
+222. Three lawful handbreadths: a handbreadth between shoes and hose, a
+handbreadth between ear and hair, a handbreadth between the fringe of
+the tunic and the knee.
+
+223. What is worst in a household? Sons of a bawd, frequent feasts,
+numerous alliances in marriages, abundance of mead and wine. They waste
+you and do not profit.
+
+224. Three illnesses that are better than health: the lying-in of a
+woman with a male child, the fever of an abdominal disease that clears
+the bowels, a feverish passion to check evil by its good (?).
+
+225. Three welcomes of an ale-house: plenty and kindliness and art.
+
+226. Three services the worst that a man can serve: serving a bad woman,
+a bad lord, and a bad smith.[109]
+
+[109] 'bad land,' N.
+
+227. Three things that are best in a house: oxen,[110] men, axes.
+
+[110] 'an ox,' N.
+
+228. Three that are worst in a house: boys, women, lewdness.[111]
+
+[111] 'Or, perhaps, as in Sec. 223, 'sons of a lewd woman,' only in that
+case we have no triad.
+
+229. Three signs of boorishness: strife, and contention, and mistaking a
+person for another (?)[112]
+
+[112] Or, perhaps, 'slight or superficial knowledge.'
+
+230. Various kinds of mercenaries: ....[113]
+
+231. Various kinds of dispensers: ....[113]
+
+[113] As I could only offer unsatisfactory guess-work as a translation
+of these passages, I omit them altogether.
+
+232. Tri as anso bis do accallaim .i. ri imma gabail [et] Gall ina
+luirig [et] athech do muin commairchi.
+
+  [Note 232: annsom (andso H) do agallaim bis BHM rig M cumairce N a
+  chumairci H]
+
+233. Tri as mo menma bis .i. scoloc iar legad a [.s]alm [et] gilla iar
+lecud a erraid uad [et] ingen iar ndenam mna di.
+
+  [Note 233: trede BMHN scol_aigi_ N scolaidi H iar lecun a eri uada H
+  iar leccad a arad uad N]
+
+234. Cetharda forna bi cosc no riagail .i. gilla sacairt [et] cu
+muilleorach [et] mac bantrebthaige [et] gamain gamnaige.
+
+  [Note 234: fornach bi BM na BM gamnaidhe M]
+
+235. Tri huais doib: dul ar rig no uasal nemid, ar is lethiu enech rig
+aidbriud; dul fri cath, ar ni tualaing nech glinni fri cath acht rig
+lasmbiat secht tuatha foa mam; dul fri cimmidecht acht nech lasa mbi mug
+doer. Secht n-aurgarta doib: dul ar deoraid, ar druth [et] ar
+dasachtach, ar diaraig, ar angar, ar econn, ar essconn. Imnedach da_no_
+cach rath, ar is ecen di dianapud im cach ngell dob_eir_, aill riam,
+aill iarum.
+
+  [Note 235: n_em_i N it lethai L lethe N aidbriu N tulaing N glinde N
+  acht nech laisimbiad N fo mam_m_i N cimbidheacht acht nech lasambiad
+  mogh daor dil_es_ N dasachtaig N imnedach do_no_ cech raith N imni
+  da_no_ L dianapad N dobeir N]
+
+236. Tri hamra Glinne Dallain i tir Eogain: torcc Dromma Leithe, is ass
+rochin [et] is do-side for[.f]eimid Finn ni, co torchair im Maig Lii la
+aithech bui hic tirad, ut dixit Finn:
+
+    Ni mad biadsam ar cono. ni mad riadsam ar n-echa
+    tan is aithechan atha. romarb torcc Dromma Letha.
+
+Mil Leittreach Dallain, cenn duine fair, denam builc gobann olchena .i.
+ech usci roboi isind loch i toeb na cille, is he dochuaid ar ingin in
+t[.s]acairt co ndergene in mil frie. Dam Dili in tres ingnad. Asind loch
+cetna tainic a athair co ndechaid for boin do buaib in brugad roboi i
+fail na cille, co ndeirgenai in dam de.
+
+  [Note 236: as as rocin N forfeimdi N Muig Hi N Muig Hith H. 1.15 ma
+  biasam N ma riadsim ar n-eacha N ricsam andechi L L_et_hae N Leithi L ase
+  docoid N fria N isin N co nderrna an dam fria N]
+
+232. Three that are most difficult to talk to: a king about his booty, a
+viking in his hauberk, a boor who is under patronage.
+
+233. Three whose spirits are highest: a young scholar after having read
+his psalms, a youngster who has put on man's attire,[114] a maiden who
+has been made a woman.
+
+[114] Literally, 'who has doffed his (boy's) clothes.'
+
+234. Four on whom there is neither restraint nor rule: the servant of a
+priest, a miller's hound, a widow's son, and a stripper's calf.
+
+235. Three hard things[115]: to go security on behalf of a king or
+highly privileged person, for a king's honour is wider than any claim;
+to go security for battle, for no one is capable of any security for a
+battle save a king under whose yoke are seven tribes; to go security for
+captivity, except one who owns a serf.
+
+Seven prohibitions: to go security for an outlaw, for a jester and for a
+madman, for a person without bonds, for an unfilial person, for an
+imbecile, for one excommunicated. Troublesome moreover is every
+security, for it is necessary for it to give sudden notice as regards
+every pledge which he gives, now beforehand, now afterwards.
+
+[115] I do not understand the force of _doib_, 'to them,' either here or
+below after _secht n-aurgarta_.
+
+236. Three wonders of Glenn Dallan[116] in Tirowen: the boar of Druim
+Leithe. It was born there, and Finn was unable to do aught against it,
+until it fell in Mag Li[117] by a peasant who was kiln-drying. Whence
+Finn said:
+
+[116] Now Glencar, six miles to the north of the town of Sligo.
+
+[117] The territory of the Tir Li, west of the river Bann.
+
+
+    "Not well have we fed our hounds,
+    Not well have we driven our horses,
+    Since a little boor from a kiln
+    Has killed the boar of Druim Leithe."
+
+The Beast of Lettir Dallan. It has a human head and otherwise the shape
+of a smith's bellows. The water-horse which lived in the lake by the
+side of the church cohabited with the daughter of the priest and begot
+the beast upon her.
+
+The Ox of Dil[118] is the third wonder. Its father came out of the same
+lake, and went upon one of the cows of the landholder who lived near the
+church, and begot the ox upon her.
+
+[118] The oxen of Dil, daughter of Mil or Legmannair, are mentioned in
+the Dindsenchas, No. 44 and 111 (Rev. Celt. xv.).
+
+237. Tri hamra Connacht: lige nEothaili 'na thracht. Comard he frisin
+tracht. Intan atraig in muir, comard he fria lan. Dirna (.i. cloch) in
+Dagdai, cia fochertar im-muir, cia berthair hi tech fo glass, dodeime a
+tiprait oca mbi. In da chorr i n-Inis Cathaig, nocha legat corra aili
+leo inna n-insi [et] teit in banchorr isin fairrgi siar do duth, co toet
+cona heisinib essi [et] nocon fagbat curaig eolus cia airm in doithi.
+
+  [Note 237: comaird i frisin lan N focerda a muir no cia bert_ar_ N
+  _no_ do deime _no_ dogeibt_er_ a tibr_aid_ oca mbid N do _no_ todeime L
+  corr N chuirr L Ceitig N leigitt N do doich N heisenaib eisib [et]
+  nochan fagbuid N eolus _om._ L hairm in doich N]
+
+238. Tri luchra ata mesa: luchra tuinde, luchra mna boithe, luchra con
+foleimnige.
+
+  [Note 238: _om._ LHBM luchra duine H^1 foleimnigh N]
+
+239. Cisne tri ana soitcedach? Ni handsa son. Immarchor erlam, cuirm cen
+arus, cummairce for set.
+
+  [Note 239: a tri N]
+
+240. Tri maic beres genas do gais: gal, gart, gaire.
+
+241. Tri airfite dala: druth, fuirsire, oirce.
+
+  [Note 241: druith H^1]
+
+242. Tri ata ferr do [.f]laith: fir, sith, slog.
+
+  [Note 242: adda H^1]
+
+243. Tri ata mesa do [.f]laith: len, brath, miairle.
+
+  [Note 243: adda H^1 ada N]
+
+244. Ceithre bais breithe: a breith i ngo, a breith cen dilse, a breith
+cen ailig, a breith cen forus.
+
+  [Note 244: disle H^1 disliu N]
+
+245. Tri adcoillet gais: anfis, doas, dichuimne.
+
+  [Note 245: a tri N ainbh[.f]es H^1 duas H^1]
+
+246. Tri muime ordain: delb chain, cuimne maith, creisine.
+
+  [Note 246: ordan H^1 chaoin H^1]
+
+247. Tri muime menman: sotla, suirge, mesce.
+
+  [Note 247: socla .i. sochlu H^1]
+
+248. Cetheora miscne flatha: .i. fer baeth utmall, fer doer dimain. fer
+guach esindraic, fer labor disceoil; ar ni tabair labrai acht do
+chethrur: .i. fer cerda fri hair [et] molad, fer coimgni cuimnech fri
+haisneis [et] scelugud, brethem fri bretha, sencha fri senchas.
+
+249. Tri dorcha in betha: aithne, rathaiges, altrom.
+
+237. Three wonders of Connaught: the grave of Eothaile[119] on its
+strand. It is as high as the strand. When the sea rises, it is as high
+as the tide.
+
+The stone of the Dagda. Though it be thrown into the sea, though it be
+put into a house under lock, ... out of the well at which it is.
+
+The two herons in Scattery island. They let no other herons to them into
+the island, and the she-heron goes on the ocean westwards to hatch and
+returns thence with her young ones. And coracles have not discovered the
+place of hatching.
+
+[119] _Cf._ Sec. 197.
+
+238. Three worst smiles: the smile of a wave, the smile of a lewd woman,
+the grin of a dog ready to leap.[120]
+
+[120] _Cf._ Sec. 91.
+
+239. What are the three wealths of fortunate people? Not hard to tell. A
+ready conveyance(?), ale without a habitation(?), a safeguard upon the
+road.
+
+240. Three sons whom chastity bears to wisdom: valour, generosity,
+laughter (filial piety?).
+
+241. Three entertainers of a gathering: a jester, a juggler, a lap-dog.
+
+242. Three things that are best for a chief: justice, peace, an army.
+
+243. Three things that are worst for a chief: sloth, treachery, evil
+counsel.
+
+244. The four deaths of judgment: to give it in falsehood, to give it
+without forfeiture, to give it without precedent, to give it without
+knowledge.
+
+245. Three things that ruin wisdom: ignorance, inaccurate knowledge,
+forgetfulness.
+
+246. Three nurses of dignity: a fine figure, a good memory, piety.
+
+247. Three nurses of high spirits: pride, wooing, drunkenness.
+
+248. Four hatreds of a chief: a silly flighty man, a slavish useless
+man, a lying dishonourable man, a talkative man who has no story to
+tell.[121] For a chief does not grant speech save to four: a poet for
+satire and praise, a chronicler of good memory for narration and
+story-telling, a judge for giving judgments, an historian for ancient
+lore.[122]
+
+[121] _i.e._, who has nothing worth hearing to say.
+
+[122] See a similar passage in Ancient Laws i., p. 18, and in the tale
+called, 'The Conversion of Loegaire to the Faith' (Rev. Celt. iv., p.
+165).
+
+249. Three dark[123] things of the world: giving a thing into keeping,
+guaranteeing, fostering.
+
+[123] _i.e._, uncertain what will come of them.
+
+250. Tri urgarta bid: a chaithem cen altugud, a chaithem d'eis oiged, a
+chaithem rena thrath coir.
+
+  [Note 250: haurgartho N^1 hurgairt HM hurghairrthe H^2 d'aithli
+  aidead H coir om. NH^2 iarna coir M]
+
+251. Cetheora aipgitre gaise: ainmne, sonmathe, sobraid[e], sothnges; ar
+is gaeth cach ainmnetach [et] sai cach somnath, fairsing cach sobraid,
+sochoisc cach sothengtha.
+
+  [Note 251: somna sobraicch H^2 sobes N soingthes H^2 somnoigh H^2
+  farsigh [_leg._ farsing] .i. sgaoiltech H^2]
+
+252. Cetheora aipgitre baise: baithe, condailbe, imresan, doingthe.
+
+253. Teora sirechta flatha: cuirmthech cen aisneis, buiden cen erdonail,
+dirim cen chona.
+
+  [Note 253: airdanail N erdanail N^1]
+
+254. Tri indchoisc ordain do duine: .i. sodelb, saire, sulbaire.
+
+  [Note 254: a tri ina coisceadh ordan M suirbire H]
+
+255. Tri guala dona fess fudomain: guala flatha, guala ecalse, guala
+nemid filed.
+
+  [Note 255: dana H fodhomain M]
+
+256. Tri feich nach dlegar faill: feich thire, duilgine achaid, argius
+aiste.
+
+  [Note 256: nat eple faill M aichid M argui_us_ H]
+
+250. Three prohibitions of food: to eat it without giving thanks, to eat
+it before its proper time, to eat it after a guest.
+
+251. Four elements[124] of wisdom: patience, docility, sobriety,
+well-spokenness; for every patient person is wise, and every docile
+person is a sage, every sober person is generous, every well-spoken
+person is tractable.
+
+252. Four elements[124] of folly: silliness, bias, wrangling,
+foulmouthedness.
+
+[124] Literally, 'alphabets.'
+
+253. Three tabus of a chief: an ale-house without story-telling, a troop
+without a herald, a great company without wolfhounds.[125]
+
+[125] This triad has been wrongly read (fais_cre_ instead of fais_n_e_is_)
+and rendered by O'Grady in his Catalogue of Ir. mss. in the British
+Museum, p. 91.
+
+254. Three indications of dignity in a person: a fine figure, a free
+bearing, eloquence.
+
+255. Three coffers whose depth is not known: the coffer of a chieftain,
+of the Church,[126] of a privileged poet.
+
+[126] "Die Kirche hat einen guten Magen," Goethe, Faust.
+
+256. Three debts which must not be neglected:[127] debts of land,
+payment of a field, instruction (?) of poetry.
+
+[127] 'Which do not die by neglect,' M.
+
+
+
+
+GLOSSES AND NOTES
+
+
+1. Gloss in H. 1. 15: oir gurab innte do bhi suidhe priomhaigh Eirenn.
+
+2. .i. ordaighecht no ord uaisle no airechas .i. arduaislighecht tre
+adhluicedh na riogh inte [et] na naoimh.
+
+4. .i. serc Eirenn o annsacht chaich uirre tre Muire na nGaodhal .i.
+Brighid.
+
+5. .i. naomthacht tre naomaibh, no foghluim sruth .i. saoi-raith.
+
+7. .i. feronn buird riogh Eirenn.
+
+11. .i. tre caich innte no tre n-iomad taisi innte.
+
+13. .i. eircille ar gradhuibh dar ndoigh fa tuarasdul giolla foic[h]le,
+no tuarastail.
+
+14. .i. liodain do gnath.
+
+15. .i. ealadhna mor ann [et] senchaoi [.f]esa na sen.
+
+16. .i. a n-iomat breithemhuin, no cuirt, no sgol feinechuis ann.
+
+17. .i. o iomad scol innte.
+
+18. .i. aoibnes no conach no er tir fo sliocht Eireann.
+
+19. .i. ag guidhe ar gach duine.
+
+20. .i. tre leigen Temhrach. This refers to the curse pronounced by
+Ruadan, the founder of Lorrha, against King Diarmait and Tara.
+
+22. .i. cairedh inte. St. Feichin, the founder of Fore, was famous for
+the austerity of his devotion. 'He used to set his wretched rib against
+the hard cell without raiment,' says Cuimmine in his poem on the Saints
+of Ireland (_Zeitschr._, I., p. 63).
+
+24. .i. diamharracht no aon ar anacht no gloine.
+
+25. .i. luathghaire a mBreifne.
+
+26. .i. gradh De.
+
+28. .i. ait comhnuidhe.
+
+30. .i. cill as mesa do cheallaibh no beim aithesach no ceall dair.
+
+31. .i. genmnacht.
+
+32. .i. leime tara do tugsat.
+
+33. .i. bailte bodaich.
+
+34. tri clothra .i. coimhthineoil cluacha no uirdherca.
+
+36. Dun Sobairchi and Dun Cermna are, according to tradition, the oldest
+stone forts in Ireland, having been built by Sobairche and Cermna, who
+divided Ireland between them, about 1500 B.C., the former placing his
+dun in the extreme north, the latter in the extreme south on the Old
+Head of Kinsale.
+
+37. Sliab Cua (or, by eclipse after the neuter _sliab_, Gua), 'the
+hollow mountain,' or 'mountain of hollows' (_cua_ = Lat. _cavus_), the
+native name for the Knockmealdown mountains on the borders of Tipperary
+and Waterford.
+
+42. Dercc Ferna was demolished by the Norse in 930. Hennessy, in a note
+on the entry in the AU., says that it is supposed to be the cave of
+Dunmore, not far from the city of Kilkenny, but adds "apparently on
+insufficient evidence."
+
+44. i. ionadha dona no nemhchonaig. Here we get the only gloss in L.
+Bangor is said to be unlucky, "because of its having been destroyed so
+often." It was frequently plundered by the Norse during the ninth
+century. As to the kingship of Mugdorn Maigen (now Cremorne barony, Co.
+Monaghan), it certainly was an ill-fated dynasty. Of the sixteen kings
+of this tribe who are mentioned in the Annals of Ulster, ten were put to
+death, of whom one (Suibne) was slain by his own brothers, while two
+brothers, Gilla Ciarain and Maelmuaid, were slain within the same year
+(1020), the latter after having been king for but one day.
+
+45. Beyond the fact that the three tribes here mentioned belonged to the
+_aithech-thuatha_ or rent-paying tribes, I know nothing to throw light
+on the triad.
+
+51. In Harl. 5280, p. 75a, marg. inf., Druimm nDrobeoil is said to
+derive its name from a horse called Drobel. (Ech Dedad. i. Drobel a ainm
+diata Druim nDrob_eoil_.)
+
+56. Here H. has the absurd etymological gloss futhairbhe .i. fothirbhe
+.i. tir mhaith na mbeo, no ferann maith.
+
+60. Leim Congcoluinn i gcondae in Chlair.
+
+64. .i. miodhchonach duine. Suighe cumhang .i. deireoil.
+
+65. iarmar cleithe .i. salchar na cleithe d'fagbhail a bferann.
+drithlennach .i. ferthain anuas no linn thrid.
+
+66. The first two items occur also in the list of proverbial sayings
+addressed by the Wizard Doctor to Mac Conglinne (_Aisl. Maic C._, p.
+73), with the significant variation that 'a veteran in the abbotship'
+has become 'a veteran in the bishop's chair,' showing that the 'Vision
+of Mac Conglinne' was composed at a time when the diocese had superseded
+the old monastic constitution. As to the 'drop upon the altar,' though
+O'Neachtain's gloss explains it as 'rain' (bainne .i. fer[th]uinn
+anuas), the Rev. Mr. O'Sullivan has furnished me with a much more likely
+explanation. He thinks it refers to the spilling of the consecrated wine
+from the chalice, which is considered a most unfortunate accident. No
+one but a priest is allowed to touch or remove it.
+
+71. .i. tri donais mhic bodaigh. re oigthigerna .i. re duine uasal. for
+thascar righ .i. ceimionnadh mora do ghlacadh air (!) .i. do thabhairt
+uaidhe do striopach (!) .i. do thocaidhibh no ar son gatuigechtadh.
+
+72. targha .i. tineol no cruinnugadh .i. malairt [.f]erainn mhaith ar
+dhrochferonn.
+
+74. haonaighe nesairte .i. eisert .i. bochtain lag. gan airdhe .i. gan
+comhartha no arra aige le gcennocha ni.
+
+75. caol srithide a foilleirb .i. an sreab bainne da chru .i. soidech.
+.i. fochan an gheamhair. for tuinn .i. faoi an cennar chroichin .i. ag
+denamh druithnechuis.
+
+76. dorn daimh .i. cos ag treabhath.
+
+77. mes .i. o laimh. tomharas .i. o [.s]uil. cubhus .i. ona coimhesa .i.
+coimhfiosa.
+
+79. eadruidh .i. adhaltraigh. cluithe .i. clesuighes. ceilighe .i.
+cuairt.
+
+80. maoin .i. tabhartus d'faghail uaide.
+
+81. dognas .i. nemhghnas. diomaoinche .i. dith maoine .i. do chuid do
+bhuain dhiod.
+
+83. troich .i. do gerr[.s]aoghul. Cp. _Aisl. Maic Conglinne_, p. 71, 20.
+
+84. aine la daor .i. saidhbrios ag daor neimhnidh .i. aithioch no fer
+gan senchus. doidheilbh .i. duine gran[n]amh.
+
+85. bo bennach gan eas .i. sreibh no bainne. tothacht .i. gan tabhacht
+faoithe .i. tochus.
+
+86. aibhle .i. splangca lasta gradha. aladh .i. hesa maith.
+
+87. .i. tri ni curthar a ttaisge ara ccurtar caithemh. mna .i. taisge.
+
+88. teidhe (_sic_) .i. aonaigh.
+
+89. Seghaine .i. caomha no seimhe. fathrann .i. rann fathach. adhbhann
+tri ciuil do [.s]einimh duine eile. berradh .i. eolus berr[th]a no do
+bherrath go des. These three accomplishments were united in the person
+of Mac Dichoeme, the barber of King Eochaid with horse's ears (_Otia
+Merseiana_, III., p. 47), and in Donnbo (_Three Fragments_, p. 34, and
+Rev. Celt. 24, p. 44).
+
+90. cluiche tenn .i. sugradh ten[n]. abhacht go n-aithis .i. sugradh le
+masla do thabairt.
+
+91. .i. iar n-ealo ona fer fein. foileimnighe .i. chum do gerrtha .i.
+iar leigion sealga uaithe.
+
+92. foghladha .i. gadaighe.
+
+93. .i. tri haonarain is ferr iona iomad. .i. began do chaint mhaith.
+.i. ag ol fleadha no sec[h]na imresain.
+
+94 brona .i. hamghaire. .i. deglaoch nach saiseocha cach. .i. ga nderna
+ina ainim munath sasaigh[th]e e.
+
+95. .i. faoi ndentar magaid. lonn .i. fergach. eataigh .i. eudmhar.
+dibhach .i. doichleach.
+
+99. gretha .i. garrtha. .i. gair ag fodhail a mbidh. grith suidhe .i.
+chuman[n] bhidh. .i. ag eirghe on mbiadh.
+
+101. .i. postaidhe fir boigechta .i. boiggniomh. imgellad .i.
+sior-c[h]ur geallta. iomarbhaigh .i. comortas. imresain .i.
+conspoidedha.
+
+103. luirge .i. a bhata no a mhna (lorg .i. ben, abhall, laoch, leo,
+arg).
+
+104. da maoidhemh air fein gan nech da chur cuige.
+
+105. os focherd a congan .i. fiadh chuires de a benna.
+
+106. sceinbh .i. ionadha baoghlacha dochum sceinm do chur i neach no
+ionada sccunamhla.
+
+107. allabair .i. mac-alla no iollabhar is gnath a bhfod o neach.
+
+109. labra .i. iomad cainte. aimhiodhna .i. nemhgloine.
+
+110. toa .i. bailbhe .i. eistecht. eiscis .i. escuidhecht. iodhna .i.
+glaine.
+
+112. moladh iar luag .i. cennach tabhairt ar moladh.
+
+113. .i. imthecht gion nach bh[.f]edann tu imthecht. .i. ni do thabhairt
+uaid na mbia agat. .i. gen go bfedann tu a dhenamh.
+
+114. .i. senchaillioch triudhach casachtach ar aondhacht ann. .i. amhail
+cullach le buille ar choin, ar chat, ar mhada. .i. gach granna
+siobharrtha 'na ghiolla.
+
+116. .i. a n-onoruighther no uaislighther. .i. pluice ag sineadh a
+beoil. righe a bhronn .i. a bhuilg.
+
+117. cirmaire .i. 'fer denta na gcior. dichetal for otrach .i.
+adhbhal-cantainn le rosg no orrtha. go rothochra .i. go docuiredh.
+
+118. dlughughadh .i. cnesughadh. freiscre .i. frisearadh gan sergadh.
+luth tar luaitbrenn .i. for a tighibh no templuibh .i. rennaigheacht do
+cuiredh sa luaith. beim fo chumas .i. buille a coimhmheiseamnuighe fein.
+
+119. dighalra .i. leighios iomlan na ngalar. diainmhe .i. gan ainiomh d'
+fagail iar genedhuibh. .i. coimh[.f]ecsin no fioradharc.
+
+120. .i. bior dobheir sasadh as gach ni rachad fair.
+
+121. caer comraic .i. raed cruinn go ccomhtharrachtain d'iomat dath ann.
+fleath for faobhar .i. faobhar for faobhar.
+
+122. cruitire .i. clairseoir.
+
+125. comar .i. docum treabtha no coimhghelsine.
+
+131. truime .i. tromdhacht. toice .i. saidhbhres. talchaire .i. toil
+charthanach ag gach duine do.
+
+132. .i. tri neithe aisneisi an doconaigh.
+
+133. tlas [.i.] doni an trosgadh an duine tlait[h].
+
+135. .i. cnapain misenamhla no nemhconaigh.
+
+139. tri brothc[h]ain ratha .i. tri neithe breithemhnuighther no
+caoinbherthar ar anti theid a raithiges no a n-urrughas. roitioc .i.
+iocaidh na fiacha. rosiacht .i. eigion do nech do leanamhuin. rotho_cht_
+.i. [et] mionnughadh 'sa gcuis.
+
+140. tugha go bh[.f]oidibh .i. foide os toighe ar tech. imme go
+bfoighnagare (sic) .i. fal [et] fioriongaire maille ris. .i. go ngoradh
+ger cloch a ndiaigh gortath na hatha.
+
+141. tri failte go n-iarnduibhe. fer gaide .i. an tan bhios da
+chrochadh. .i. doni faisneis.
+
+142. tulfeaith (_sic_) .i. druis .i. toil feithe. dulsaine .i.
+cainedh no cainseoireacht.
+
+143. gris .i. imdhergadh. rus .i. roifios. ruccaidh .i. ancroidhe.
+
+145. nua corma .i. braitlis.
+
+146. moaighthe .i. medaighthe sochair do neoch.
+
+147. teine a lucc (!) .i. [a] tteallach. nae la fer calaigh (!) .i.
+naomhog, coite, bad, long, do dhuine le purt.
+
+148. aithgionta .i. neithe dobheir aithghin tarais no aithgini uatha.
+nes gabhann .i. mala cre.
+
+149. .i. neithe ann a ttabhair neach iomarcaith naith [et] nach iadhann
+disle orrtha o nech dar ben iad. iarraid mic .i. luach oileamhna.
+
+151. aurnadhma .i. posta.
+
+153. .i. tri cuisi nach basaighenn d'faill do dhenamh umpa iad eibiulait
+.i. basaighenn. dochraidhe .i. duine diochairdigh.
+
+155. slabhra .i. imdhergtha .i. pecughadh le mnai neich gan coibhche do
+dhiol ionnta, nach gcennuighther le airneis no eiric do diol ionnta. .i.
+coimheigniughadh do righ.
+
+156. turbhadh .i. cairde d'iarraigh da ccur amach .i. da ttabhairt
+amach. .i. da athair tar eis altroma. .i. tar eis anbhaill do dhenamh a
+thabhairt da sealbhaightheoir. .i. braighe do tabhairt as laimh le
+comhall siotha.
+
+157. .i. taisce do fuigfidhe ag egciallaidh. .i. do fuigfidhe ag duine
+mor. aithne formeda .i. do fuigfidhe gan aithne do thabhairt go cinnte i
+ccumhdach acht go heccinte air.
+
+158. dorenathar bi .i. nech eirnighther no hiocthar le beo do thabhairt
+da gcenn. fidnemed .i. coill ar a bhfuil neimh[.s]enchus no ata da
+gcumhdach la huasal.
+
+159. Tri na dotoing na fortongar. angar .i. mac ionghar nach bhfoghann
+da senoir do reir a dhualgais.
+
+160. athchumas .i. do ghlacadh orra na athchomhasan (no do thabhairt
+daibh) (.i. ar a ceile).
+
+161. .i. nach teighther faoi a bhfuigheall .i. a mbreitheamnuis. .i. cia
+do bheithdaois glic. fer adgair (.i. cu rios fios ort) agas adghairther
+(.i. an fer ar a gcuirther fios) agas ro crenair ria breith (.i. agas
+cennuighther mar breithemh le brib le haghaidh breithe).
+
+162. aitide .i. aonta. ainbhfaitches.
+
+163. Tri fo imrime na dleagaid (.i. imthechta amhuil ar marcuigheght)
+dire (.i. dire enecluise). toxal .i. toccbhail agus ag denamh
+athghabala.
+
+164. duilchinn.
+
+165. Tri naoill .i. luighe no mionna nach coir mhionnughadh 'na
+n-aghaidh. fir mairb .i. do bheith le bas go cinnte. ditire .i. do
+threig a thir .i. do chur curam an t[.s]aoighil de.
+
+166. .i. ceimionna mhilleas an tuaith le breig.
+
+167. renus a dheis .i. a dhuthaigh no a feronn .i. bodach e [et] ni
+bh[.f]uil ced sencuis air.
+
+168. For _comberat_ H^1 has _conrannat_. dainntech .i. gremannach no
+buailtech.
+
+170. feichemhnas .i. lucht tagartha no oificc na bh[.f]eithemhan. toisc.
+leimim. eicsi .i. muna foghluma.
+
+171. aradgeallad. breithemhuin .i. fuasglais neach.
+
+172. urfogradh .i. air ar coir miothaithnemh. ael coire .i. ag togbhail
+feola coiri. fiodhbhaigh gan tseinm .i. meileg gan semann no thairn[g]e
+da chengal. ord ghabhan[n] gan dinesc gan tairn[g]e annsa bpoll .i. dion
+ina eis.
+
+173. fotha utmhall gan eolus .i. bunadhas gan forus acht haimhnech,
+utmhall .i. roluath.
+
+174. soadh fri fiadnaib .i. iompodh a n-aghaidh na bhfiadhan do
+haondaighe.
+
+175. breithemh gan [.f]uasna .i. techt 'na aghaidh. eidirchert gan
+eaccnach .i. breithemhnas gan idhiomradh 'na dhiaigh. comha gan
+diubhairt .i. gan bhreith do bhreith le caomhmha no gan leatrom
+aonroinn.
+
+176. Tri tonna gan gaoise .i. do chuires anfa ar ghaois .i. gliocas.
+
+177. fostadh .i. foisdinecht. gairde .i. athchumairecht.
+
+179. .i. cuisi far coir mioscuis don urlabhra. dluithe .i. ar muin a
+cheile.
+
+180. fostadh .i. na tengan 'na sost. airnbertais .i. ag denamh [et] ag
+ordughadh gach neithe mar as du.
+
+182. maise .i. bregha. clithighe .i. bheith clithar.
+
+183. tri na dleaghaidh dire .i. truaighe no comairce. .i. ealaighes o
+flaith. agas file .i. o eglais (!).
+
+184. .i. tri hanlain[n] chrosta don othar. each .i. feoil eich. muir .i.
+mil mhoir .i. cointinn ar coinntinn.
+
+186. Instead of _forsnaidm_, H. 1. 15 has forran .i. firbrised.
+
+187. sobhraidhe .i. brigh maith no laidir.
+
+188. ir .i. fer[g].
+
+189. sam (_sic_) .i. anmhuin go socair. tua .i. socht no eistecht.
+imdhergadh .i. griosadh no naire.
+
+190. mort[h]a .i. morthacht. maise .i. maisech lais fein. maoine .i. a
+mhes gurab maoineach e.
+
+191. forindet .i. doni faisneis ar in umhal. dinmhe .i. dith inmbe.
+
+192. faicse (sic) .i. meabair maith. fathaidhe .i. bheith foghluma
+faith-chialluigh.
+
+195. fuasnadh .i. imresan.
+
+196. cach ndagferas .i. guch feidhm no gniomh iomlan no feramhuil.
+
+197. serbha .i. goid.
+
+198. .i. docuires chum siubhail iad fainealca. ingreim .i. do [.s]lad no da
+gcrechadh. dola .i. da ngremughadh. domata .i. boichtecht.
+
+200. fine .i. iomad fine no moirmhes an fine.
+
+202. fornaidm ruirioch .i. riogha eile congbhail faoi. roimhse .i.
+roimhes no torad mor ina [.f]laith.
+
+203. tua .i. bailbhe. dochta .i. eistecht (!).
+
+204. tairisamh .i. coimhniughadh alfaire neich.
+
+205. .i. i bh[.f]iadhnuise na gcomharcadh. .i. daoine gan cheill .i.
+daoine ag imthecht le gaoith.
+
+207. eitche .i. grainche.
+
+208. soingthes .i. urlabhradh mhaith. connamhna .i. coma degmhana no
+de[g]mianadh.
+
+209. luinne .i. fergaighe. cetludche .i. cedluath ghaire. tairismidhe
+.i. iomarcraidh griaidh da chur a gceill .i. tairismidhe.
+
+210. sognas .i. goma maith le a ghnathugadh. soicheall .i. goma
+soichellach no luathghairech.
+
+211. .i. tri 'ga mbionn clu maith. trebaire .i. gliocas. rathmaire .i.
+rath mor do techt air no bhfas fair.
+
+212. dochlatad .i. miochluid. laxa .i. faillidhe. prapcaillte .i. a
+bheith cruaidh [et] luath .i. bheith caillte anna chuid go luath.
+
+213. ecnach .i. ithiomradh. doingthes .i. droichtengadh.
+
+214. deirmiten .i. athairmhidin. easpata .i. diomhaoines.
+
+216. .i. tri laithe as sona do mhnaibh posta. mna go fiora .i. mna do
+thabhairt chum posta. .i. biadh na mna beo 'na ndiaidh.
+
+217. fri gach leas .i. gach neithe bhus leas do.
+
+218. ratha .i. urradha. fostadh .i. comhnuidhe. feile .i. naire. lomradh
+.i. ag lomairt ag diol fiachadh. fostodha a n-arus .i. comhnuidhe a
+bpriosun lomradh ice .i. da lomairt fein ag diol fiachadh no fulang e
+fein do lomradh do reir dlighe .i. leigen lomartha an dlighe dar cenn
+feichemhan.
+
+219. eiric no toghniomh feichemhan (.i. an t-ioc do dhenamh darcenn a
+bhiodhbha) no dithecht.
+
+220. .i. tri neithe as anfae (leg. ansa) no as doiligh dhaibh. .i. dol a
+n-urrudhas dun righ do dhenamh, decair sin. coire .i. coire longan. .i.
+do thabhairt an urrudhas re cechtar doibh sin aroile do dhenamh.
+
+221. tri as ainer[g]na (.i. neimhealadhanta) do neach. .i. no go
+salaighenn a eudach do scarduibh.
+
+222. ochradh .i. alt. berradh .i. mullach a chinn.
+
+223. mic .i. iomad mac. mna .i. iomad ban. meile .i. amadan. cleamhna
+ile imchiana .i. iomad clemhnas a gcein. notcrionad (.i. dibrid) agus ni
+thormaighid (.i. ni mhedaighid a tighes).
+
+224. seol mna for mac .i. luighe seola. gris bronn .i. tesuighecht.
+galar tiomargar olc .i. togbhus an t-olc [et] [.f]agbhus an mhaith 'na
+hait fein.
+
+225. .i. gar coir failte rompa, no dobheir an [.f]ailte a ttigh fleadha
+im duthracht [et] ealatha .i. ealadha do thaisbeana[dh].
+
+227. daimh. bealai .i. tuadh, biail.
+
+229. tiordhachta .i. tuathamhlacht no bodamhlacht. iomargal .i. ime ro
+mheraighe focal. iomarbhaidh .i. comartus gniomh. meraigecht .i. mire.
+
+230-231. omitted in H. 2. 15.
+
+232. ri ima gabhail .i. im geall no chreich. aithech do mhuin coimeirce
+.i. bodach ar a mbeith dho ar coimeirce, no tenn ar chul aige.
+
+233. .i. scolaire iar gcriochnughadh a leighen .i. iar leagha no
+egluisech iar ndenamh ornaidhe. iar leaccad a araidhechta uadh .i. iar
+ccriochnughadh a term a no aimsire.
+
+235. tri huais doibh .i. gar doilge doibh. .i. a n-urrdhas ar righ, ar
+esbog do bhrigh a leithe eneaclann an righ, no inte ata na cronughadh
+ann. dul fri cath .i. dul a n-urrughas le cur catha. fri cimidh .i. dul
+a n-urrughas le brughaidh no le siothcain. .i. secht neithe crosta donte
+rachadh a n-urrughas orra. dol ar dheoruighe .i. dol a n-urrughas. ar
+dhiaraigh .i. gan arus no coimhnaidhe aige. ar druith .i. duine gan
+ceill, ar dhiaraigh .i. nach feidir arach air. ar angar .i. mac iongar.
+ar esccong (!) .i. senoir iar ndul a cheille uaidh. imnedhach dona gacha
+rath (im[.s]niomhach go firinnech gach urrughas diobh sin), .i. fulang
+dianbhas no dianollmhughadh no urfogra fa gach gealla dobheir aill ria
+n-aill iaromh .i. mionna a n-aghaidh mionn an [.f]ir oile .i. nach decha
+se a n-urrudhas no le diola.
+
+236. ag tioradh .i. ag goradh arbha.
+
+238. luchra .i. gaire no genamh.
+
+239. .i. cia hiat na tri sonais dogheibh an duine sonadh? Ni handsa son
+.i. ni hainbh[.f]esach misi ar sin. iomarchor .i. iomchar. cuirm gan ara
+.i. deoch gan tech aige. .i. ar an tslighe go teghmaisech.
+
+240. gaire .i. gaire maith.
+
+241. .i. do ni oirfide no comhluadar i gcomhdail. druith .i. amatan.
+foirsire abhloir no ursoire. oircc (_sic_) .i. mesan no cu beg.
+
+243. lean .i. amhgar. brath .i. ar comarsan.
+
+244. a breith a ngo .i. gubreith bregach. gan disle .i. faoi omhan gan
+arach. gan ailic .i. gan hailche 'na timchioll .i. rosg [et] fasach.
+
+246. duas .i. droich[.f]ios.
+
+247. socla (_sic_) .i. sochlu. suirge .i. le mnaibh.
+
+248. .i. ceitheora da ttugann flaith mioscais no nemhdhuil. baoth .i.
+leamh. uttmhall .i. roluath. fer labhar disceoil .i. labharrach
+cainntech gan sceol aige. fer coimhghne cuimhnech .i. go caoimhegna [et]
+cuimhne senchusa.
+
+251. somna .i. so-omhnach .i. so-eglach (!). sobraicch .i. sobrioghach.
+
+252. condailbhe .i. baghach no leathtaobhach. doingthe .i. doitenguighe.
+
+253. tri sirrechta flatha .i. suthainghesa no neithe bhios toirmisc ar
+uasal. .i. fleadha gan ealadha da [.f]aisneis. .i. cuitechta gan donail
+piobaire 'na tosach.
+
+
+
+
+INDEX LOCORUM
+
+
+  Ached Deo, 106.
+
+  Ae Chualann, 38.
+
+  Ardmacha _Armagh_, 1, 34, 46.
+
+  Ard mBreccain _Ardbrackan_, 23.
+
+  Ath Caille, 48.
+
+  Ath Cliath Duiblinne, 48, 50.
+
+  Ath Luain _Athlone_, 48.
+
+
+  Bairenn _the Burren_, 58.
+
+  Banna _the Bann_, 40.
+
+  Belach Conglais _Baltinglass_, 50.
+
+  Belach Duiblinne, 50.
+
+  Belach Luimnig, 50.
+
+  Bennchor _Bangor_, 5, 44.
+
+  Benn mBoirchi _Slieve Donard_, 38.
+
+  Benntraige _Bantry_, 45.
+
+  Berre _Beare_, 58.
+
+  Birra _Birr_, 108.
+
+  Boand _the Boyne_, 40.
+
+  Braichlesan Brigde, 57.
+
+  Breifne, 58.
+
+
+  Caisel _Cashel_, 54.
+
+  Cathair Chonrui, 36.
+
+  Cell Dara _Kildare_, 4, 34.
+
+  Cell Maignenn _Kilmainham_, 32.
+
+  Cell Ruaid, 30.
+
+  Cenannus _Kells_, 7.
+
+  Cluain Eidnech _Clonenagh_, 108.
+
+  Cluain Eois _Clones_, 53.
+
+  Cluain Ferta Brenainn _Clonfert_, 19.
+
+  Cluain Iraird _Clonard_, 3, 33, 53.
+
+  Cluain Maic Nois _Clonmacnois_, 2, 34, 53.
+
+  Cluain Uama _Cloyne_, 12.
+
+  Connacht, 43, 237.
+
+  Corcach _Cork_, 16.
+
+  Crecraige, 43.[TN 45]
+
+  Cruachan Aigli _Croagh Patrick_, 38.
+
+  Cruachu _Croghan_, 35, 54.
+
+  Cuailgne _Coolney_, 43, 62.
+
+  Cualu, 46.
+
+
+  Dairchaill, 27.
+
+  Daire Calgaig _Derry_, 32.
+
+  Derc Ferna, 42.
+
+  Druimm Fingin, 51.
+    In Munster, famous for its fertility. See LL. 15^a 11.
+
+  Druimm Lethan _Drumlane_, 25.
+
+  Druimm nDrobeoil, 51.
+
+  Druimm Leithe, 51, 236.
+
+  Dublinn _Dublin_, 50.
+
+  Duma mBurig, 106.
+
+  Dun Cain _Dunquin_, 60.
+
+  Dun Cermna, 36.
+
+  Dun Da Lethglas _Downpatrick_, 26.
+
+  Dun Sobairche _Dunseverick_, 36.
+
+
+  Ess Danainne, 55.
+
+  Ess Maige, 55.
+
+  Ess Ruaid _Assaroe_, 55.
+
+
+  Fid Deicsen i Tuirtri, 43.
+
+  Fid Moithre i Connachtaib, 43.
+
+  Fid Mor i Cuailgni, 43.
+
+  Findglais _Finglas_, 8.
+
+  Fobur Feichin _Fore_, 22.
+
+
+  Glasraige, 45.
+
+  Glenn Da Locha _Glendalough_, 11, 33.
+
+  Glenn Dallain _Glencar_, 236.
+
+
+  Imblech Ibair _Emly_, 15.
+
+  Inber Feile, 59.
+
+  Inber na mBarc, 59.
+
+  Inber Tuaige, 59.
+
+  Inis Cathaig _Scattery Island_, 10, 237.
+
+
+  Lann Ela _Lynally_, 31, 44.
+
+  Leimm Conculainn _Loop Head_, 60.
+
+  Leithglend _Leighlin_, 108.
+
+  Less Mor _Lismore_, 14.
+
+  Lettir Dallain, 236.
+
+  Loch nEchach _Lough Neagh_, 39.
+
+  Loch nErni _Lough Erne_, 39.
+
+  Loch Ri _Lough Ree_, 39.
+
+  Lothra _Lorrha_, 20.
+
+  Luachair Dedad _Logher_, 61.
+
+  Lugbad _Louth_, 33.
+
+  Luimnech _Limerick_, 50.
+
+  Lusca _Lusk_, 6, 46.
+
+
+  Mag Cruachan, 52.
+
+  Mag mBile _Moville_, 28.
+
+  Mag mBreg, 52.
+
+  Mag Li, 236.
+
+  Mag Lifi, 41, 52.
+
+  Mag Line, 41.
+
+  Mag Midi, 41.
+
+  Mugdorn Maigen _Cremorne barony_, 44.
+
+
+  Raith mBoth _Raphoe_, 25.
+
+  Raith Laidcniain _Rathlynan_, 56.
+
+  Ross Ailithre _Roscarbery_, 17.
+
+  Ross Commain _Roscommon_, 24.
+
+
+  Sinann _the Shannon_, 40.
+
+  Slaine _Slane_, 21.
+
+  Sliab Commain, 56.
+
+  Sliab Cua, 37.
+
+  Sliab Cualann, 37.
+
+  Sliab Fuait _the Fews_, 61.
+
+  Sliab Manchain, 56.
+
+  Sliab Mis, 37.
+
+  Slige Assail, 9, 49.
+
+  Slige Dala, 49.
+
+  Slige Midluachra, 49.
+
+  Srub Brain, 60.
+
+
+  Tailtiu _Teltown_, 35.
+
+  Tamlachta _Tallaght_, 8.
+
+  Tech Cairnig, 9.
+
+  Tech Munna _Taghmon_, 32.
+
+  Temair _Tara_; gen. Temrach 54, 202.
+
+  Tipra Cuirp, 57.
+    See Tog. Br. Da Derga Sec. 154, YBL.
+
+  Tipra na nDesi, 57.
+
+  Tipra Uarain Garaid, 57.
+
+  Tipra Uarbeoil, 57.
+
+  Tir Da Glas _Terryglas_, 18.
+
+  Tir Eogain _Tirowen_, 236.
+
+  Traig Baili, 47.
+
+  Traig Li _Tralee_, 61.
+
+  Traig Ruis Airgit, 47.
+
+  Traig Ruis Teiti, 47.
+
+  Tuirtri, 43.
+
+  Tulach na nEpscop, 106.
+
+  Tulen _Dulane_, 29.
+
+
+  Uam Chnogba _Knowth_, 42.
+
+  Uam Slangae _Slaney_, 42.
+
+
+
+
+INDEX NOMINUM
+
+
+  Colman Ela, 35.
+
+  Corbmac mac Faelain, 62.
+
+
+  in Dagda 120, 237.
+
+  Dil, 236.
+
+
+  Eothaile, 107, 237.
+
+
+  Fergus mac Roich, 62.
+
+  Finn, 236.
+
+
+  Morrigan, 120.
+
+
+  Neithin, 120.
+
+  Ninnine eces, 62.
+
+
+
+
+GLOSSARY
+
+
+      abartach, from abairt, _practice_, _feat_, a. escrai 231.
+
+      abucht (abocht, abacht) _a joke_, _jest_ 90.
+
+      adbann _a strain of music_ 89. With prothetic f., fadbann,
+      ib. N.
+
+      ad-coillim _I destroy_, _ruin_ 245.
+
+      ai _a cause_, n. pl. ai 153, 174.
+
+      aibne f. _delightfulness_ 23.
+
+      aigne m. _a pleader_, _counsel_, dag-a. 178.
+
+      ailbeimm n. _a reproach_ 30.
+
+      ailde f. _beauty_ 206.
+
+      aill .. aill _once_ ... _again_, _now_ ... _now_ 235.
+
+      ainchess _bodily pain_, acc. cen ainchiss 119 (ainces N).
+
+      ainmne f. _patience_ 192, 251, dat. ainmnit 143 (ainmnet N).
+
+      ainmnetach _patient_ 174, 189.
+
+      airberntas (airnbertas) m. (?) 180, 181.
+
+      airbert _a using_, _employing_ 178.
+
+      air-gorad _a scorching_ 140.
+
+      airisiu _a narration_, _tale_, cetna airisiu, Coir Amn. 80.
+      n. pl. airisena 102, 125.
+
+      airmed _a certain dry measure_ 138. Corm. Tr. 68. eirmed,
+      .i. tomus, 4, 3, 18, 70^a. dorat do Patraic in n-airmid
+      mini, Trip. 186, 9.
+
+      aithech-borg m., aithech-port m. _a rent-paying town_ 33.
+
+      aithne n. (later f.) _a deposit_ 87, 157, 249; aithne
+      [.s]alainn 87 L.
+
+      alaig _behaviour_, _demeanour_ 86.
+
+      all n. _a rock_, n. pl. tri all 200.
+
+      allabair _an echo_ 107; O'Dav. 144.
+
+      ana _wealth_ 147, 239.
+
+      ane f. _agility_, _deftness_, _skill_ 84.
+
+      an-ergnaid _undignified_ 221.
+
+      an-faitches m. _carelessness_ 162.
+
+      an-fiad _a bad welcome_ 70.
+
+      an-gar _unfilial_, _impious_ 159, 235.
+
+      an-idna f. _impurity_ 109.
+
+      an-richt m. _a misshapen person_ 84.
+
+      antrenn _rough ground_, gen. antreinn 147.
+
+      apaig _ripe_ 68.
+
+      ar-cuillim _I destroy_, _ruin_ 184; verb-noun, gen.
+      aircaillti, ib. (N).
+
+      ard-nemed m. _a high dignitary_ 157.
+
+      arech (arach) (1) _a tie_, _fetter_, gen. cu araig 168; (2)
+      _a bond_, _surety_, acc. pl. cen airche 74; cin gealladh,
+      cin airge, Laws II. 78, 4.
+
+      argius _instruction_ (?), a. aiste 256. Cf. felmac fri re na
+      argaisi, Laws V. 364, 17.
+
+      aroslicim _I open_, aroslicet 204.
+
+      arus _residence_, _habitation_ 218, 239.
+
+      ata _which are_ 68, 69, 75, 76, &c.
+
+      ataid (?) 181.
+
+      ath-chommus m. _renunciation of control or authority_ 160.
+
+      athchosan, better athchomsan (later achmusan) _a
+      complaining_ 98; tossach augrai athchosan, LL. 345^b18.
+
+      augra _strife_ 213.
+
+      aupthach _veneficus_ 185.
+
+      aurla (1) _a long lock of hair_, .i. ciab, Corm. Tr. 166;
+      (2) _a person wearing_ aurla, _a serf_ (?); mac aurlai
+      (erlai) 152.
+
+
+      baithe _foolishness_ 252.
+
+      banas m. _womanhood_, gen. dag-banais 180; droch-banais 181.
+
+      ban-chorr f. _a she-heron_ 237.
+
+      ban-la _a lucky day for women_ 216.
+
+      belach n. _a mountain-pass_, n. pl. belaige 50.
+
+      beo-athair m. _a live father_ 151. Compare the following
+      extract from H. 3, 18, p. 19_b_: _Cest._ Cid diata "ni nais na
+      torbais"? Ar atait nadmanna naisce ni na torbongat, ar ni
+      rochat a nadmann naisce .i. mac beoathar for a athair, ceile
+      for a flaith, manach for a airchindech, hulach for inn
+      ail_e_, ar ni tobongat dib ar comrac, acht ata folaith
+      gaibthi friu.
+
+      bess _perhaps_ 136.
+
+      binnech _melodious_, bo b. 85.
+
+      birit, f. _a sow_, gen. birite, 148 BM.
+
+      bithbenach m. _a criminal_ 92 B.
+
+      bocc m. _a buck_, _he-goat_, n. pl. buicc 230.
+
+      boccacht f. _buckishness_, _obstinacy_ 101, 102.
+
+      bolcra (?) 231. Cf. bolcaire m. _a hector_, O'Gr. Cat. 584,
+      4.
+
+      bolc-sronach _having distended nostrils_ 231.
+
+      bothach m. _a hut-dweller_, _cottar_ 150.
+
+      bren-[.f]inn _stinking or rotten hair_, acc. pl. -a 105.
+
+      brodna (?) gen. brodnai 230.
+
+      bronn-galar m. _a disease of the abdomen_ 224.
+
+      brugaide f. _keeping a hostel_, _hospitality_ 134.
+
+      buadnas _a triumph_, _excellence_, n. pl. -a 88 H.
+
+
+      caer comraic 121 note.
+
+      cain-thocad m. _fair fortune_, dat. cain-thocud 110.
+
+      calad _hard_ 176; fer c. 147.
+
+      cetludche f. _lustfulness_ 209.
+
+      cirmaire m. _a comb-maker_ 117.
+
+      cisne _what are?_ 239.
+
+      clithcha f. _comfort_ (of dress) 182.
+
+      clochrad (clochrach?) _a stone building_(?) (from clochur?),
+      n. pl. tri clochraid 34.
+
+      cluanaige m. _a rogue_ 90, 104.
+
+      co-cless _performing feats together_ 125.
+
+      coemna _comfort_, _good cheer_ 6, 46.
+
+      coim (coimm) _a cloak_ 130.
+
+      coimgne (com-ecne) _synchronistic knowledge_; fer coimgni
+      248 = fer cumocni, Rev. Celt. vi. 165, 11.
+
+      coire _a caldron_ 220. c. erma, c. goriath, c. aiged 127.
+
+      com-ar (W. cyf-ar) _holding ploughland in common_ 125.
+
+      com-chissiu _an examination_ 119.
+
+      com-lith _equally lucky_ 217.
+
+      comneibe (?) 169.
+
+      com-rith (fri) _a racing together_ 117.
+
+      con-beraim _I bear liabilities_ 168.
+
+      condailbe f. _attachment_, _bias_ 193, 252.
+
+      congna (collective) _horns_ 105, 117.
+
+      con-rannaim _I share_ 164.
+
+      con-tibim _I mock_ 82.
+
+      corad-gein _a champion birth_ 148 BM.
+
+      crann-dretel (?) 231.
+
+      cresine f. _piety_ 196.
+
+      crossan m. _a buffoon_ 116.
+
+      cuacroessach (?) 231.
+
+      cuilmen _a volume_, _tome_ 62.
+
+      cuinnmine f. _kindliness_ 208.
+
+
+      daintech _biting_ 168; gl. dentatus Sg. 159^{b}2.
+
+      debuid f. _strife_ 98.
+
+      deicsiu _a seeing_, _spying_, gen. deicsen 43.
+
+      deinmne _impatience_, dat. deinmnait 144.
+
+      deirmitiu _irreverence_, gen. deirmiten 214.
+
+      derc _a hole_, _cave_ 42; dat. i nderc a oxaille, LU.
+      70^{a}45; resiu dorattar isin deirc, Lism. fo. 43^{b}1.
+
+      dess f. _land_, acc. deiss 167 (des N); acc. pl. deissi, ib.
+      L. See Cain Adamnain, p. 46.
+
+      di-ainme f. _an unblemished state_ 119.
+
+      dian-apud _a sudden notice_ 235.
+
+      di-araig _a person without bonds_ (arach) 235.
+
+      dibe _a refusing_, _denying_ 212, LL 117^{a}43, 121^{b}9,
+      188^{a}2, 188^{b}33.
+
+      dibech _refusing_, _denying_ 95; .i. diultadach, C. 1, 2.
+
+      di-chuimne f. _lack of memory_ 245; ar dermat no dichumni,
+      LL. 74^{a}30.
+
+      di-galrae f. _sicklessness_ 119.
+
+      di-grad n. _hatred_ 217.
+
+      dimainche f. _uselessness_ 81.
+
+      dimainecht f. _uselessness_ 81 H.
+
+      dimosc (?) 172.
+
+      dinnime f. _meanness_, _lowliness_ 191; ferr trumma dinnimi,
+      LL. 345^{c}30. Cf. din[n]imus, Alex. 996.
+
+      dirna _a stone_ 237.
+
+      di-sceoil _taleless_ 248.
+
+      dithechte f. _non-possession_ 219.
+
+      dithir _a landless person_, gen. dithir (dithire N) 165.
+
+      dithrub m. _a desert_, _uninhabited place_, n. pl. dithruib
+      43. In the later language it is inflected like _treb_ (n.p.
+      dithreba 43 BM).
+
+      diuite f. _simplicity_ 24; LL. 294^{a}38. d. cridi, Lism.
+      Lives 4543: Diuide ingen Slanchridi, Rawl. B. 512,
+      112^{2}b2.
+
+      diultadach (diultach) _fond of refusing_ 96 MB.
+
+      dluithe f. _compactness_, _obscurity_ (?) (of speech) 179.
+
+      doas m. _ignorance_ 245.
+
+      do-celaim _I hide_ 84, 85.
+
+      dochell _niggardliness_ 144; Dochall [et] Dibe [et]
+      Do[th]chernas, Rawl. B. 512, 112^{b}1.
+
+      dochlatu m. _ill repute_. gen. dochlatad 212.
+
+      do-chond m. _an imbecile_, gen. dochuind 153.
+
+      dochraite f. _oppression_ 153. Alex. 367, atchota daidbre
+      d., LL. 345^{c}3.
+
+      dodeime (?) 237 (todeime L).
+
+      dochta f. _closeness_ 203.
+
+      do-delb _a misshapen person_, acc. la dodelb (dodeilb B) 84.
+
+      dofortaim _I pour out_, _spill_, _spoil_, _ruin_, dofortat
+      186; dofortatar .i. dotodsat, MI. 124^{d}12.
+
+      do-gnas f. _ill-breeding_ 81; gen. dognaise 209.
+
+      doingthe f. _foulmouthedness_ 252; for do-thengthe.
+
+      doingthes m. _id._ 213.
+
+      dolud _loss_, _damage_ 198; gen. met tar ndolaid, LL.
+      172^{b}33; in cach nith ba dael dolaid, 157^{b}14.
+
+      dommatu m. _poverty_ 198, Alex. 847.
+
+      dorenaim _I pay a fine_ (dire) 158.
+
+      dotcad m. _misfortune_, n. pl. dotcaid 44, 64, 65, 71.
+
+      dotcadach _unfortunate_ 135.
+
+      doth _a hatching_, cach d. toirthech, LL. 293^{b}48; gen. in
+      doithe 237; dat. do duth, ib.; gen. pl. cerce tri ndoth,
+      O'Dav. 1375.
+
+      do-tongim _I swear_, na ditoing 159.
+
+      drithlennach _full of sparks_ 65.
+
+      drus f. _folly_; gen. druise 193.
+
+      duine-chin m. _human crime_ 168.
+
+      dul in the phrases, dul ar _to go security on behalf of_
+      235; dul fri _to go security for_ 235. See Glossary to Laws
+      s.v. dul.
+
+      dulbaire f. _lack of eloquence_, _bad delivery_ 179.
+
+      dulsaine f. _mockery_ 142; in cerd mac hui Dulsine, Corm.
+      37. Cf. dulaige, O'Dav. 622.
+
+      duthracht f. _good will_, _kindliness_ 225.
+
+
+      ech usci _a water-horse_ 236.
+
+      echmuir(?) 184.
+
+      eisine _a young bird_ 237.
+
+      eo m. _a salmon_: gen. iach 92; n. pl., iaich, LL.
+      297^{a}34.
+
+      eochair _a key_ n. pl. eochracha 204.
+
+      erchoille (?) 230.
+
+      erdonal f. _a trumpeter_, _piper_; eardanal .i. stucaire no
+      piobaire, BB. 65 m.s. acc. cen erdonail 253.
+
+      erim n. _a course_, _running_, gen. erma 127. Later fem., ar
+      tressa na herma, LL. 110^{a}13.
+
+      erlam _ready_ 239.
+
+      errad n. _dress_, _attire_: gen. erraid 233.
+
+      escaine _a curse_ 20.
+
+      esconn _excommunicated_ 235.
+
+      escra _a cup for drawing wine_ 231.
+
+      escus (e-sciss) m. _unweariedness_ 110 (esces N). daurnaisce
+      .i. aurlattu no greschae no escas, H. 3, 18, 80^a.
+
+      eserni (?) 231.
+
+      eserte f. _landlessness_, _vagrancy_ 74.
+
+      espatu m. _frivolity_ 214.
+
+      etach (verb-n. of in-tugur, O'Mulc. 462) n. _a dress_; gen.
+      etaig 182.
+
+      etaid _jealous_ 95.
+
+      etargaire _a separating_, _interposing_, _mediating_, 135,
+      154; LL. 31^{b}15; dligid ugra e. 345^{d}10.
+
+      etir-chert _a decision_ 175.
+
+
+      faigdech (foigdech.) m. _a beggar_ 83, Aisl. M. 71, 21.
+
+      faiscsiu _closeness_ (?) 192 (faicsi N).
+
+      fassach _a precedent_ 178; brithemnacht ar roscadaib [et]
+      fasaigib, LU. 118^b.
+
+      fathaige f. _the gift of prophecy_ 192.
+
+      fath-rann m. _a witty quatrain_ 89; do fathrannaib espa [et]
+      airchetail, Otia Mers. III., p. 47, Sec. 2.
+
+      fechemnas m. _debtorship_ 170.
+
+      feige f. _sharpness_, _sagacity_ 78.
+
+      feras m. _manhood_, _man's estate_, gen. dag-ferais 196;
+      droch-ferais 197. Cf. feras leiginn _lectorship_ AU.
+
+      fer-la n. _a lucky day for men_ 217.
+
+      fescred (feiscre N.) 118 = feascradh '_shrivelling_,
+      _decaying_,' O'R. Cf. feasgor .i. dealugud, Lec. Voc. 403:
+      dligid cach forcradach fescred, LL. 294^{a}9.
+
+      fiad _a welcome_. n. pl. fiada (fiad L) 70.
+
+      fidchell (?) 142.
+
+      fid-nemed n. _a sacred grove_, _sanctuary_;[TN 158] '_lucus_,' BB.
+      469^{a}46, O'Mulc. 830, n. pl. fidnemeda firdorchra [et]
+      craeb-chaill comdigainn, C. Cath.
+
+      flett see plett.
+
+      fliuchaim _I wet_, rotfliuchus, 104.
+
+      fodb m. _accoutrement_, n. pl. fuidb 135.
+
+      fo-crenaim (verb-n. fochraic) _I bribe_ 261.[TN Yes, printed as 261]
+
+      foglaid m. _a robber_, gen. foglada 92.
+
+      fo-gluaisim _I move_ (trans.) 198.
+
+      foichell f. _hire_, _wages_, gen. foichle 13.
+
+      foichne _a blade of green corn_ 75: ith-[.f]oichne .i.
+      foichne in etha, O'Dav. 1080.
+
+      1. foilmnech _roped_, _leashed_, cu f. 169.
+
+      2. foilmnech (fo-lemnech) _ready to leap_ 91, 238.
+
+      foimrimm _a using_, _usucaption_, gen. foille foimrimme, LL.
+      344^{c}55; n. pl. -e 163, Laws.
+
+      foindledach m. _a waif_ 198.
+
+      foll-derb f. _a milk-pail_, dat. hi foll-deirb 75, Laws.
+
+      foindel m. _a straying_, n. pl. foindil 181.
+
+      fomailt (verb-n. of fo-melim) f. _usufruct_ 87.
+
+      fomus (verb-n. of fo-midiur) m. _calculation_ (?) 118; beim
+      co fomus, LU. 73^{a}1. beim co fommus, LL. 74^{a}26.
+      rolaosa, ol se, fomus forsani sin, LU. 58 24.
+
+      fo-naidm n. _a contract_ 202.
+
+      for-iadaim _I close upon_ 203.
+
+      for-ind-fedaim _I relate_. forindet 191: O'Dav. 511.
+
+      forngaire _a proclaiming_ 140.
+
+      forrach _a measuring-rod_ 138, O'Don. Suppl.
+
+      for-[.s]naidm (= for-naidm, with epenthetic _s_) n. _an
+      overreaching_ (?) 186: co fornadmaim niad nair, LU. 73^{a}7.
+
+      fortgellaim _I give evidence_, _bear witness_ 138.
+
+      for-tongim _I swear_, fortoinger (fortongar) 158.
+
+      fossad _steady_, _firm_ 174 (fossaid N).
+
+      fossugud _stability_ 28.
+
+      fosta f. _staidness_, _steadiness_ 180, 187, 194, 215, 218.
+
+      fotha n. _foundation_, f. n-utmall 173. Cf. ni coir in fotha
+      utmall, Sg. 4^b.
+
+      fothirbe _a field_ (?) 56, Trip. 82, 2; 168, 26.
+
+      freccor (verb-n. of fris-curim) _opposition_, _objection_
+      154, ML 131^{a}8.
+
+      frecra (verb-n. of fris-garim) n. _an answer_ 174.
+
+      frith-noill _a counter-oath_ 165.
+
+      fuaimm n. _a din_, _noise_ 146, f. nglan, LL. 150^{b}4; f.
+      in churaig risin tracht, YBL 89^b; n. pl. fuammann 146.
+
+      fuatche f. _a snatching_, _carrying off_ 140.
+
+      fuchacht (fuichecht) f. _copulation_, _cohabitation_ 155.
+
+      fuigliur _I pronounce judgment_, fuigletar 161.
+
+      fuirec (verb-n. of foricim) m. _preparation_, n. pl. fuiric
+      97, 98.
+
+      fuirmed _a sitting_, _placing_, gen. aithne fuirmeda, 157.
+
+      fuirsire m. _a juggler_ 241.
+
+
+      gair _a cry_, _shout_, n. pl. gartha 99 M.
+
+      gais f. _wisdom_ 177, gen. gaisse 178, 192, 251.
+
+      gaisse f. _wisdom_, acc. cen gaissi 176.
+
+      gait (verb-noun of gataim) f. _a taking away_, _carrying
+      off_, gen. fer gaite meirle 141.
+
+      gamnach f. _a stripper_, gen. gamnaige 234.
+
+      gart _generosity_ 240.
+
+      gatach _thievish_ 185.
+
+      geir (?) 231.
+
+      gen f. _a smile_ 91, n. pl. gena, _ib._
+
+      genmnaide _chaste_ 187, genmnaide ben aenfir, H. 3, 18,
+      79^b.
+
+      glass m. _a lock_, n. pl. glais 203.
+
+      goirt _salted_, biad g. 70.
+
+      goriath (?) 127.
+
+      grainne (?) 231.
+
+      gress _handicraft_ 70, ferr g. soos, LL. 345^{c}51.
+
+      griss _heat_, _fever_, _ardour_, _fervour_ 224; colum co
+      crabud, co ngris, LL. 35^{a}48.
+
+      grith _a cry_, _shout_ 99, n. pl. gretha, _ib._
+
+      gruss (?) 143.
+
+      guala _a large vessel_, _vat_ 255; n. pl. guala, _ib._ Cf.
+      iern-guala.
+
+
+      iach (a late nom. formed from the oblique cases of eo) m. _a
+      salmon_, gen. iaich 92, L.
+
+      iarduibe f. _after-grief_ 67. Cf. iarnduba.
+
+      iarmur f. _remnant_, _leavings_ 65.
+
+      iarnduba f. _after-grief_ 125, 141.
+
+      iarraid _foster-fee_ 149.
+
+      im-banad _a growing pale_ 188.
+
+      im-gellad _a pledging oneself_ 101.
+
+      immarchor _a conveying about or across_ 239.
+
+      immed n. _plenty_ 178, 225.
+
+      imreson, O. Ir. imbressan (verb-n. of im-fresnaim) f. _a
+      wrangling_ 101, 252, acc. pro nom. imresain 193.
+
+      imraichne _a mistake_ 101, imraithne 229 N.
+
+      im-thomailt f. _food_ 149.
+
+      im-crenaim _pay or buy mutually_, imuscrenat 170.
+
+      ind-chosc m. _an indication_, n. pl. ind-choisc 254.
+
+      in-crenaim _I pay_, _buy_ 155. Enclitic: ni ecriae. Eriu 1.,
+      p. 199, Sec.21.
+
+      ir f. _wrath_ 188. O'Dav. 1103.
+
+      itfa (?) 231. Cf. itfaide toile, LL. 344^{c}36.
+
+
+      labor _talkative_ 248; bat l. fri labra, bat to fri to, LL.
+      346^{a}12.
+
+      lan _the full-tide_ 237.
+
+      laxa f. _inertness_ 212.
+
+      len _sloth_ 243; tossach lubra len, LL. 345^{b}33.
+
+      lethiu _broader_, _wider_ 235.
+
+      lia m. _a stone_, dat. liic 147.
+
+      litanacht f. _singing the litany_, 14.
+
+      lobra = lomrad _a stripping_ 218; gen. lomartha, _ib._
+
+      luaithrind _a pair of compasses_, gen. lud -e 118; fo
+      chosmailius luaithrinde, Corm. 13, s.v. Coire Brecain.
+
+      luchra _a smile_ 238.
+
+      lud = luth _agility_, _quick motion_ 118. Wi.
+      nimtha lud hi cois no il-laim, LU. 16^{a}5.
+
+
+      mad _well_, ni mad biadsam, ni mad riadsam 236.
+
+      mail _blunt_; _simple-minded_, _witless_, ingen m. 114.
+
+      meile f. _lewdness_ 228; ben meile 223.
+
+      marb-dil _dead chattel_, Laws. acc. pl. marbdili 105.
+
+      med _a balance_, _scales_ 138.
+
+      meirle f. _theft_ 141.
+
+      mer-aichne _a mistake_ 229.
+
+      meraige m. _a fool_, _fop_ 103.
+
+      mi-airle _evil counsel_ 243; tossach miarli malartcha, LL.
+      345^{b}37.
+
+      midlachas m. _cowardice_ 197.
+
+      mi-gairm n. _an evil cry_, nom. du. da m. 124.
+
+      miscne, miscena (n. pl.) _hatreds_ 179, 248.
+
+      mi-thocad m. _misfortune_, _ill-luck_, gen. mithocaid 124;
+      dat. mithocod 109.
+
+      mblecht (mblicht) _in milk_ 146.
+
+      moaigim _I increase_, verb-n. gen. moaigthe 146.
+
+      muilleoir m. _a miller_, gen. muilleorach 234.
+
+      muimme f. _a nurse_, n. pl. muime 246, 247, muimmecha 130.
+
+      muin _neck_, _back_, in the phrase do m. 232 = de mhuin
+      _because of_, _in consequence of_, Dinneen.
+
+
+      nemed, m. _a privileged person_, gen. nemid filed 255.
+
+      nem-idna f. _impurity_ 109 BM.
+
+      nemthigur _I constitute_, neimthigedar 116-123, 202: Corm.
+      s.v. nith: rofogluim sium in treide nemthigius filid, Megn.
+      Finn 19.
+
+      neoit _churlishness_, _niggardliness_ 144.
+
+      ness (1) .i. aurnise criad _a clay furnace_, H. 3, 18, 73b;
+      gen. fri derc a neis, Corm. 33, 2; (2) _the wooden mould or
+      block in which the furnace of moist, soft clay, was
+      formed_;[128] boi crann ina laim .i. neas a ainm [et] is
+      uime dognither an urnise criad, Corm. 32 s. v. nescoit; (3)
+      .i. mala cre _a bag of (moulding) clay_ H. 1, 15.
+
+      [128] I owe this explanation to Dr. P.W. Joyce.
+
+      noill _an oath_ 165 (naill N); n. pl. noill, ib.
+
+
+      ochan _an urging_, _egging on_ 112. Cf. achain, Boroma 122.
+
+      ochtrach (later otrach) f. _a dunghill_, ML 129^{c}2; dat.
+      for ochtraig 117 (otrach N).
+
+      oc-thigern m. _a franklin_ 71.
+
+      oil f. _a cheek_, gen. oile 116.
+
+      oirce _a lap-dog_ 241.
+
+      ordan _dignity_, gen. ordain 246, 254. With Triad 246,
+      compare the following extract from H. 3, 18, p. 9_b_: Secht
+      rann fichet (xx .i. MS) triasa (friasa MS) toet feab [et]
+      ordan (ordain MS) do duine: tria gaireui, tria ainmnit, tria
+      [.f]ostai, tria thoi, tria f_or_sadi, tria fogluim, tri
+      domestai, tri etsecht firindi, tri chocad fri cloine, tri
+      indarb_a_ anfis, tri thochur[i]ud fis, tri trebairei, tri
+      coitsecht fri forrsaidi, tri frecmorc firen, tri filidhecht
+      techtai, tri ailge auscuichthi, tri airmitin sen, tri denam
+      sinsire, tri ermitin flatha, tri airmidin ecnai, tri
+      honoi[r] fithidre, tri timorgain cuibsi _no_ gnuisi, tri
+      idhnai lamai, tri congain cuibsi, tri imrad ba[i]s, tria
+      imrad _no_ decsin i nDia na ndula.
+
+
+      paitt f. _a leather bottle_, p. meda, LL. 117^{a}50; LU.
+      54^{b}22; gen. paitte 231; na paitte, LL. 117^{b}2; du. n.
+      da phait [.f]ina, LB. 129^{a}.
+
+      plett (flett) f. _an edge_ 121; plet .i. nomen rinda dogniat
+      cerda, H. 3, 18, p. 73: flet, O'R.
+
+      prap-chaillte (literally 'sudden hardness') f.
+      _closefistedness_ 212.
+
+
+      rath f. _security_, _surety_ 235; gen. ratha 139.
+
+      rathaiges m. _guarantorship_ 135, 248.
+
+      rathmaire f. _bountifulness_ 211.
+
+      recles _an abbey-church_ 11.
+
+      reithe m. _a ram_ 117, 168.
+
+      rige _a stretching_, _extending_ 116.
+
+      rigne (raigne) f. _stiffness_ 179: LL. 212^{b}15; rigne
+      labartha, 345^{d}10.
+
+      roimse _abundance_ 202.
+
+      ronn _a chain_ 121.
+
+      rop m. _a brute_, n. pl. ruip, 168, 169. With Triad 168
+      compare the following extract from H. 3, 18, p. 8^{b}:
+      Rofesar rupu tria foindel caich laithiu dosliat fiachui
+      doine do cethrai .i. each cen cuibrich cech trathai, cu cen
+      cuibrech _no_ cen lomain laithe, muiccai cen mucalaig
+      ndorcha.
+
+      ros-chullach m. _a stallion_ 114.
+
+      ro-the very hot, _scalding_ 70; Aisl. M.
+
+      rucca f. _shame_ 143.
+
+      ruire m. _a king_, gen. pl. ruirech 202.
+
+      russ _a blushing_ 143; O'Dav. 1336, 1343, rus .i. gruaid, ut
+      dicitur: co nach romna rus richt. Rus dono imdergad [et]
+      gach nderg, H. 3, 18, 73^c.
+
+
+      sail _a beam_, _prop_, n. pl. sailge 101.
+
+      saill f. _fat_, _bacon_ 170; gen. cia tiget na saille, LB.
+      260^{b}20; n pl. saillti 184.
+
+      sain-chor m. _a special contract_, gen. -chuir 151.
+
+      salanach _dirty_, _filthy_, n. pl. salanaig 230.
+
+      saltraim _I trample_, rosaltrus 104.
+
+      samtha _repose_ 189.
+
+      sant f. _avarice_ 115.
+
+      scenb _a startling_ (?) n. pl. scenb 106.
+
+      sceo _and_ 223.
+
+      scoloc _a young student_ 233.
+
+      secnabboite f. _vice-abbotship_ 46.
+
+      seche _a hide_, _skin_ 230.
+
+      segainn _accomplished_; _an accomplished person_, n. pl.
+      segainni, 89 (segaind M segainn N); ni rabha i nEirinn uile
+      budh griabhdha no bud segaine inas, Three Fragm. 34.
+
+      seim _a rivet_ 172.
+
+      seol (seola) _child-bed_ 224.
+
+      sirecht f. _a tabu_, .i. geis, O'Dav. 1482, who quotes triad
+      253.
+
+      sirite m. _a wild man_, _sprite_ 114.
+
+      sit _hush_! 137; sit sit! Hib. Min. 78, 23.
+
+      sleith f. _cohabiting with a woman without her knowledge_
+      155; Aisl. M. O'Dav. 97.
+
+      slissen _a chip_, _lath_ 169.
+
+      snath f. _a thread_, gen. snaithe 75.
+
+      so-bes m. _good manners_ 84.
+
+      sobraid _sober_ 251; sobraig, LL. 343^{d}3; sobraig cach co
+      haltram, LL. 345^{d}45.
+
+      sobraide f. _sobriety_ 187, 251.
+
+      sochell _liberality_ 210; LL. 345^{b}39.
+
+      sochlatu m. _good repute_, gen. sochlatad 211.
+
+      sochoisc _docile_ 251; n. pl. -e, CZ. III. 451, 28.
+
+      sochoisce f. _docility_ 194; tossach suthi s., LL.
+      345^{b}23.
+
+      so-delb f. _a fine figure_ 85.
+
+      so-gnas f. _good breeding_ 210; gen. sognaise 208.
+
+      soithnges m. _wellspokenness_ 208, 251.
+
+      soitcedach _fortunate_ 239.
+
+      somnath (^{x}so-munad) _easily taught_, _docile_ 251. Cf.
+      O'Dav. 1481.
+
+      somnathe f. _docility_ 251.
+
+      son _that_ 239.
+
+      sotcad m. _good fortune_, gen. sotcaid 210.
+
+      sotla f. _pride_ 247.
+
+      so-thengtha _well-spoken_ 251.
+
+      sproicept _a preaching_ 111 B. sproicepht M.
+
+      sreb f. 'the stream of milk drawn from a cow's teats at each
+      tug,' Dinneen; gen. sreibe, 75 L.
+
+      sreb immais 112 note.
+
+      srithid f. '_the passage of milk from the breast_.' O'R.:
+      gen. srithide 75.
+
+      sruithe f. _seniority_ 5.
+
+      sta _hush!_ 137; Bodl. Corm. stata, Hib. Min. 78, 1.
+
+      suarcus m. _mirth_ 210.
+
+      suirge f. _a courting_, _wooing_, 247.
+
+      suthaine f. _lastingness_, 182.
+
+      tacra _a pleading_, t. fergach 173 = LL. 345^{d}23.
+
+      tairisiu m. _trustfulness_ 204.
+
+      tairismige f. _obduracy_ 209.
+
+      tair-leimm n. _an alighting_, _a place of alighting_; geis
+      di tochim cen tairlim, LL. 201^{a}11: n. pl. tairleme, 32.
+
+      taisec _restitution_, _restoration_ 157. Laws, Aisl. M.
+
+      tal-chaire f. _self-will_, _obstinacy_ 131.
+
+      tarcud _a proposing_ 72, 73; t. do drochmnai, Aisl. M. 73,
+      26.
+
+      tarsunn m. _a sauce_; tarsand, O'Mulc. 612: n. pl. tarsuinn
+      184 (tarsunn L): torsnu, Aisl. M. 99, 7.
+
+      tascor _a retinue_, t. rig 71, t. rig no espuic, O'Dav.
+      1501.
+
+      1. teite f. _wantonness_ 18.
+
+      2. teite _a fair_, _gathering_ 88.
+
+      tenn (teinn, tinn) _sore_, _hurting_, cluiche t. 90. Cf.
+      mian leisan laoch luaiter linn | cluiche o nach biad duine
+      tinn _a game by which no one is hurt_, Bruss. MS. 2569, fo.
+      65^a.
+
+      tirdacht f. _boorishness_ 229.
+
+      tlas f. _weariness_ 132, 133.
+
+      tognim. m. (?) 219.
+
+      toicthiu (?) 131.
+
+      toimtiu f. _opinion_ 136. Cf. mac toimten '_son of
+      conjecture_,' O'Dav. 1596.
+
+      tothucht _substance_ 85. BB. 19^{b}14.
+
+      tradna _a corncrake_ 129.
+
+      trecheng _a triad_. For O.-Ir. trethenc, Wb. 29^{c}5 (Thes.
+      I. 691).
+
+      trichem _a fit of coughing_; sen-t. 114. mod. tritheamh.
+
+      trichtach _example_, _pattern_ (?) 27. is e did_iu_ in fer
+      sin ropo trichtach do Chorinntib ara techtatis an indmus
+      am_al_ na techtatis, LB. 146^{a}32; ropo trichtach tra don
+      eclais dilgedaig fo chosmailius ingen n-og na tabrat olc ar
+      olc, acbt logud, _ib_.
+
+      tromdatu m. _importunity_ 214.
+
+      tromm m. _the elder-tree_ 129; gen. connud truimm, RC. VII.,
+      298, 3.
+
+      tru _a doomed person_, dat. robud do throich 83 = Aisl. M.
+      71, 20.
+
+      trumma f. _weightiness_, _self-importance_ 131.
+
+      trusca f. _leprosy_ 133 N.; clam-trusca AU. 950.
+
+      tuilfeth _a frown_ 142.
+
+      tuisledach _stumbling_, _offending_ 96 N.
+
+      turtugud _a compelling_, _forcing_, _violating_ 155: is tar
+      turtugud nDe [et] Patraic cach gell [et] cach aitire, Cain
+      Domn.; LU. 74^{a}19, 123^{a}17; turtugud breth, LL. 344^{b};
+      turrtugad .i. timpud, H. 3, 18, 539^{b}; a turtad .i. per
+      uim, O'Dav. 1151; turtad .i. comeicniugud, O'Mulc. H. 3, 18,
+      74^{b}, 866.
+
+
+      uais _hard_, _difficult_ 220, 235; coruice uais no angbocht,
+      .i. is e iu t-uais ni na raibe aice fein, O'Dav. 112.
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of The Triads of Ireland, by Kuno Meyer
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE TRIADS OF IRELAND ***
+
+***** This file should be named 31672.txt or 31672.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/1/6/7/31672/
+
+Produced by Geetu Melwani, Brian Foley, Christine D. and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

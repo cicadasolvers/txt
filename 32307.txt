@@ -1,0 +1,2230 @@
+The Project Gutenberg EBook of A Brief Account of Radio-activity, by
+Francis Preston Venable
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: A Brief Account of Radio-activity
+
+Author: Francis Preston Venable
+
+Release Date: May 9, 2010 [EBook #32307]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK A BRIEF ACCOUNT OF RADIO-ACTIVITY ***
+
+
+
+
+Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net (This file was produced from images
+generously made available by The Internet Archive/American
+Libraries.)
+
+
+
+
+
+
+
+
+
+                          A BRIEF ACCOUNT OF
+                            RADIO-ACTIVITY
+
+                                  BY
+                FRANCIS P. VENABLE, PH.D., D.SC., LL.D.
+         PROFESSOR OF CHEMISTRY, UNIVERSITY OF NORTH CAROLINA
+                               AUTHOR OF
+                    "A SHORT HISTORY OF CHEMISTRY,"
+                         "PERIODIC LAW," ETC.
+
+
+                     D. C. HEATH & CO., PUBLISHERS
+                     BOSTON    NEW YORK    CHICAGO
+
+
+
+                           COPYRIGHT, 1917,
+                         BY D. C. HEATH & CO.
+
+                                 IA7
+
+
+
+
+PREFACE
+
+
+I have gathered the material for this little book because I have found
+it a necessary filling out of the course for my class in general
+chemistry. Such a course dealing with the composition and structure of
+matter is left unfinished and in the air, as it were, unless the
+marvellous facts and deductions from the study of radio-activity are
+presented and discussed. The usual page or two given in the present
+text-books are too condensed in their treatment to afford any
+intelligent grasp of the subject, so I have put in book form the
+lectures which I have hitherto felt forced to give.
+
+Perhaps the book may prove useful also to busy men in other branches
+of science who wish to know something of radio-activity and have scant
+leisure in which to read the larger treatises.
+
+It is needless to say that there is nothing original in the book
+unless it be in part the grouping of facts and order of their
+treatment. I have made free use of the writings of Rutherford, Soddy,
+and J. J. Thomson, and would here express my debt to them--just a part
+of that indebtedness which we all feel to these masters. I wish also
+to acknowledge my obligations to Professor Bertram B. Boltwood for his
+helpful suggestions in connection with this work.
+
+
+
+
+CONTENTS
+
+
+CHAPTER I
+
+DISCOVERY OF RADIO-ACTIVITY                                       PAGE
+
+    The beginning--Radio-active bodies--An atomic
+    property--Discovery of new radio-active bodies--Discovery
+    of Polonium--Discovery of Radium--Other radio-active
+    bodies found                                                     1
+
+CHAPTER II
+
+PROPERTIES OF THE RADIATIONS
+
+    Ionization of Gases--Experimental confirmation--Application
+    of electric field--Size and nature of ions--Photographing
+    the track of the ray--Action of radiations on photographic
+    plates--Discharge of electrified bodies--Scintillations
+    on phosphorescent bodies--Penetrating power--Magnetic
+    deflection--Three types of rays--Alpha rays--Beta rays--Gamma
+    rays--Measurement of radiations--Identifications of the rays     7
+
+CHAPTER III
+
+CHANGES IN RADIO-ACTIVE BODIES
+
+    Radio-activity a permanent property--Induced
+    activity--Discovery of Uranium X--Conclusions drawn--Search
+    for new radio-active bodies--Methods of investigation--Nature
+    of the radiations--Life-periods--Equilibrium series             17
+
+CHAPTER IV
+
+NATURE OF THE ALPHA PARTICLE
+
+    Disintegrating of the elements--Identification of the
+    rays--The alpha rays--Alpha rays consist of solid
+    particles--Electrical charge--Helium formed from alpha
+    particles--Discovery of Helium--Characteristics of
+    Helium--Table of constants                                      25
+
+CHAPTER V
+
+THE STRUCTURE OF THE ATOM
+
+    Properties of Radium--Energy evolved by radium--Necessity for
+    a disintegration theory--Disintegration theory--Constitution
+    of the atom--Rutherford's atom--Scattering of alpha
+    particles--Stopping power of substances                         32
+
+CHAPTER VI
+
+RADIO-ACTIVITY AND CHEMICAL THEORY
+
+    Influence upon chemical theory--The periodic system--Basis
+    of the periodic system--Influence of positive
+    nucleus--Determination of the atomic number--Use of X-ray
+    spectra--Changes caused by ray-emission--Atomic weight
+    losses--Lead the end product--Changes of position
+    in the periodic system--Changes from loss of beta
+    particles--Isotopes--Radio-activity in nature--Radio-active
+    products in the earth's crust--Presence in air and soil
+    waters--Cosmical radio-activity                                 41
+
+INDEX                                                               53
+
+
+
+
+A BRIEF ACCOUNT OF RADIO-ACTIVITY
+
+
+
+
+CHAPTER I
+
+DISCOVERY OF RADIO-ACTIVITY
+
+
+The object of this brief treatise is to give a simple account of the
+development of our knowledge of radio-activity and its bearing on
+chemical and physical science. Mathematical processes will be omitted,
+as it is sufficient to give the assured results from calculations
+which are likely to be beyond the training of the reader. Experimental
+evidence will be given in detail wherever it is fundamental and
+necessary to a confident grasp of some of the marvelous deductions in
+this new branch of science. Theories cannot be avoided, but the facts
+remain while theories grow old and are discarded for others more in
+accord with the facts.
+
+
+The Beginning
+
+As so often happens in the history of science, the opening up of this
+new field with its fascinating disclosures was due to an investigation
+undertaken for another purpose but painstakingly carried out with a
+mind open to the truth wherever it might lead.
+
+In 1895, Roentgen modestly announced his discovery of the _X_ rays.
+This attracted immediate and intense interest. Among those who
+undertook to follow up these phenomena was Becquerel, who, because of
+the apparent connection with phosphorescence, tried the action of a
+number of phosphorescent substances upon the photographic plate, the
+most striking characteristic of the _X_ rays being their effect upon
+such sensitive plates. In these experiments he obtained no results
+until he tried salts of uranium, recalling previous observations of
+his as to their phosphorescence. Distinct action was noted.
+Furthermore, he proved that this had no connection with the phenomenon
+of phosphorescence, as both uranic and uranous salts were active and
+the latter show no phosphorescence. Becquerel announced his
+discoveries in 1896 and this was the beginning of the new science of
+radio-activity.
+
+
+Radio-active bodies
+
+The rays given off by uranium and its salts were found to differ from
+the _X_ rays. They showed no appreciable variation in intensity, no
+previous exposure of the substance to light was necessary, and neither
+changes of temperature nor any other physical or chemical agency
+affected them.
+
+At first uranium and its compounds were the only known source of these
+new radiations, but many other substances were examined and two years
+later thorium and its compounds were added to the list. In general the
+discharging action seemed about the same. Other elements and ordinary
+substances show a minute activity. Only potassium and rubidium have a
+greater activity than this, and theirs is only about one-thousandth
+that of uranium.
+
+
+An Atomic Property
+
+In the examination of uranium and thorium compounds it was found that
+the activity was determined by the uranium and thorium present; it was
+proportto the amount ofional these elements present and independent of
+the nature of the other elements composing the compound. The
+conclusion was, therefore, that the activity was an inherent property
+of the atoms of uranium and thorium, that is, an atomic property. This
+was a long step forward and introduced into science the conception of
+a new property of matter, or at least of certain forms of matter.
+
+
+Discovery of New Radio-active Bodies
+
+In examining a large number of minerals containing uranium and
+thorium, Mme. Curie made the important observation that many of these
+were more active than the elements themselves. In measuring the
+activity she made use of the electrical method which will be described
+later. In the following table giving her results for uranium minerals
+the numbers under _i_ give the maximum current in amperes. They serve
+simply for comparison.
+
+                                            _i_
+  Pitchblende from Joachimsthal      7.0 x 10^{-11}
+  Clevite                            1.4 x 10^{-11}
+  Chalcolite                         5.2 x 10^{-11}
+  Autunite                           2.7 x 10^{-11}
+  Carnotite                          6.2 x 10^{-11}
+  Uranium                            2.3 x 10^{-11}
+  Uranium and potassium sulphate     0.7 x 10^{-11}
+  Uranium and copper phosphate       0.9 x 10^{-11}
+
+The last three are pure uranium and compounds of that element given
+for comparison with the first five, which are naturally occurring
+minerals. The last compound has the same composition as chalcolite and
+is simply the artificially prepared mineral. It has the activity which
+would be calculated from the proportion of uranium present, the copper
+and phosphoric acid contributing no activity.
+
+Since the activity is not dependent upon the composition but upon the
+amount of uranium present, the activity in all of the minerals should
+be less than that of uranium. On the contrary, it is several times
+greater. Natural and artificial chalcolite also show a marked
+difference in favor of the former. The supposition was a natural one,
+therefore, that these minerals contained small quantities of an
+element, or elements, undetected by ordinary analysis and having a
+much greater activity than uranium. Similar results were obtained in
+the examination of thorium minerals and thorium salts.
+
+
+Discovery of Polonium
+
+Following up this supposition, M. and Mme. Curie set themselves the
+task of separating this unknown substance. Starting with pitchblende,
+a systematic chemical examination was made. This is an exceedingly
+complex mineral, containing many elements. The processes were
+laborious and demanded much time and minute care. They need not be
+described here. It is sufficient to say that along with bismuth a very
+active substance was separated, to which Mme. Curie gave the name of
+polonium for Poland, her native land. Its complete isolation is very
+difficult and sufficient quantities of the pure substance have not
+been obtained to determine its atomic weight and other properties, but
+some of the lines of its spectrum have been determined. Chemically it
+is very closely analogous to bismuth.
+
+
+Discovery of Radium
+
+In a similar manner a barium precipitate was obtained from pitchblende
+which contained a highly active substance. The pure chloride of this
+body and barium can be prepared together and then separated by
+fractional crystallization. To the new body thus found the name of
+radium was given. It is similar in chemical properties to barium. Its
+atomic weight has been determined by several careful investigators and
+is accepted as 226. Its spectrum has been mapped and its general
+properties are known. It is a silvery white, oxidizable metal. In one
+ton of pitchblende about 0.2 gram of radium is present; this is about
+5000 times greater than the amount of polonium present. The activity
+of the products was depended upon as the guide in these separations.
+The radium found is relatively enormously more active than the
+pitchblende or uranium.
+
+
+Other Radio-active Bodies Found
+
+In the above separations use was made of relationships to bismuth and
+barium. Similarly, by taking advantage of chemical relationship to the
+iron group of elements, another body was partially separated by
+Debierne, to which he gave the name actinium. Boltwood discovered in
+uranium minerals the presence of a body which he named ionium, and
+which is so similar to thorium that it cannot be separated from it.
+It, however, far exceeds thorium in activity.
+
+The lead which is present in uranium and thorium minerals--apparently
+in fairly definite ratio to the amount of uranium and thorium--is
+found, on separation and purification, to possess radio-active
+properties. This activity is due to the presence of a very small
+proportion of an active constituent called radio-lead, which has
+chemical properties identical with those of ordinary lead. The bulk of
+the lead obtained from radio-active minerals differs in atomic weight
+from ordinary lead and appears also to be different according to
+whether its source is a thorium or a uranium mineral.
+
+A large number of other radio-active substances have been separated
+and some of their properties determined, but these were found by
+different means and will be noted in their proper place. They number
+in all more than thirty. The sources or parents of these are the
+original uranium or thorium, and the products form regular series with
+distinctive properties for each member.
+
+
+
+
+CHAPTER II
+
+PROPERTIES OF THE RADIATIONS
+
+
+The activity of these radio-active bodies consists in the emission of
+certain radiations which may be separated into rays and studied
+through the phenomena which they cause.
+
+
+Ionization of Gases
+
+One of these phenomena is the power of forming ions or carriers of
+electricity by the passage of the rays through a gas, thus ionizing
+the gas. The details of an experiment will serve to make the meaning
+of this ionization clear.
+
+    [Illustration: FIG. 1.--IONIZATION OF GASES.]
+
+When this apparatus is set up a minute current will be observed
+without the introduction of any radio-active matter. This, as
+Rutherford says, has been found due mainly to a slight natural
+radio-activity of the matter composing the plates. If radio-active
+matter is spread on plate _A_, which is connected with one pole of a
+grounded battery, and if plate _B_ is connected with an electrometer
+which is also connected with the earth, a current is caused which
+increases rapidly with the difference of potential between the plates,
+then more slowly until a value is reached that changes only slightly
+with a larger increase in the voltage.
+
+According to the theory of ionization, the radiation produces ions at
+a constant rate. The ions carrying a positive charge are attracted to
+plate _B_, while those negatively charged are attracted to plate _A_,
+thus causing a current. These ions will recombine and neutralize their
+charges if the opportunity is given. The number, therefore, increases
+to a point at which the ions produced balance the number recombining.
+
+When an electric field is produced between the plates, the velocity of
+the ions between the plates is increased in proportion to the strength
+of the electric field. In a weak field the ions travel so slowly that
+most of them recombine on the way and consequently the observed
+current is very small. On increasing the voltage the speed of the ions
+is increased, fewer recombine, the current increases, and, when the
+condition for recombination is practically removed, it will have a
+maximum value. This maximum current is called the saturation current
+and the value of the potential difference required to give this
+maximum current is called the saturation P.D. or saturation voltage.
+
+The picture, then, is this. The radiations separate the components of
+the gas into ions, or carriers of electricity, half of which are
+charged negatively and half positively. In the electric field those
+negatively charged seek the positive plate and those positively
+charged seek the negative plate. If time is given, these ions meet and
+recombine, their charges are neutralized, and there is no current.
+
+
+Experimental Confirmation
+
+This theory of the ionization of gases has been most interestingly
+confirmed by direct experiment. For instance, the ions may form nuclei
+for the condensation of water, and in this way the existence of the
+separate ions in the gas may be shown and the number present actually
+counted.
+
+When air saturated with water vapor is allowed to expand suddenly, the
+water present forms a mist of small globules. There are always small
+dust particles in air and around these as nuclei the drops are formed.
+These drops will settle and thus by repeated small expansions all dust
+nuclei may be removed and no mist or cloud will be formed by further
+expansions.
+
+If now the radiation from a radio-active body be introduced into the
+condensation vessel, a new cloud is produced in which the water drops
+are finer and more numerous according to the intensity of the rays. On
+passing a strong beam of light through the condensation chamber, the
+drops can readily be seen. These drops form on the ions produced by
+the radiation.
+
+
+Application of Electric Field
+
+If the condensation chamber has two parallel plates for the
+application of an electric field like that already described, the
+ions will be carried at once to the electrodes and disappear. The
+rapidity of this action depends upon the strength of the electric
+field and experiment shows that the stronger the field the smaller the
+number of condensation drops formed. If there is no electric field, a
+cloud can be produced some time after the shutting off of the source
+of radiation, showing that time is required for the recombination of
+the ions.
+
+
+Size and Nature of Ions
+
+If the drops are counted (there being special methods for this) and
+the total current carried accurately measured, then the charge carried
+by each ion may be calculated. This has been determined. The mass of
+an ion compared with the mass of the molecules of gas in which it was
+produced can also be approximately estimated. In the study of these
+ions the view has been held that the charged ion attracted to itself a
+cluster of molecules which surrounded the charged nucleus and traveled
+with it. It is roughly estimated that about thirty molecules of the
+gas cluster around each charged ion.
+
+
+Photographing the Track of the Ray
+
+Utilizing the fact that these ions with their clusters of molecules
+form nuclei for the condensation of water vapor, C. T. R. Wilson has
+by instantaneous photography been able to photograph the track of an
+ionizing ray through air. The number of the ions produced, and hence
+the number of drops, is so great that the trail is shown as a
+continuous line. In the copy of this photograph it will be seen that
+at some distance from its source the straight trail is slightly but
+abruptly bent. Near the end of its course there is another abrupt and
+much sharper bend. These bends show where the ionizing ray, in this
+case an alpha particle, has been deflected by more or less direct
+collision with an atom. These collisions and the final disappearance
+of the ray will be discussed later.
+
+    [Illustration: FIG. 2.--PHOTOGRAPH OF THE TRACK OF AN
+    IONIZING RAY.]
+
+
+Action of Radiations on Photographic Plates
+
+Taking up now other means of examining these radiations, it is well to
+consider their action upon a photographic or sensitive plate. It will
+be recalled that this was the method by which their existence was
+originally detected. To illustrate the method, the following account
+of how one such photograph was taken may be given.
+
+The plate was wrapped in two thicknesses of black paper. The objects
+were placed upon this and the radio-active ore, separated by a board
+one inch thick, was placed above. The exposure lasted five days. The
+action is much less rapid and the result not so clearly defined as in
+the case of photographs taken by _X_ rays. Of course, the removal of
+the board and the use of more concentrated preparations of radium
+would give quicker and better results. The method, however, on
+account of time consumed and lack of definition is ill adapted to
+accurate work.
+
+    [Illustration: FIG. 3--PHOTOGRAPH OF VARIOUS OBJECTS TAKEN
+    BY MEANS OF PITCHBLENDE]
+
+
+Discharge of Electrified Bodies
+
+The radiations from radio-active bodies can discharge both positively
+and negatively electrified bodies by making the air surrounding them a
+conductor of electricity. To demonstrate this, use is made of an
+electroscope. If the hinged leaf of such an instrument be electrically
+charged and a radio-active body be brought into its neighborhood, the
+electricity will be discharged and the leaf return to its original
+position. The rapidity of this discharge is used to measure the degree
+of activity of the body giving off the radiation.
+
+    [Illustration: FIG. 4.--GOLD-LEAF ELECTROSCOPE.
+
+    The gold-leaf _L_ is attached to a flat rod _R_ and is
+    insulated inside the vessel by a piece of amber _S_ supported
+    from the rod _P_. The system is charged by a bent rod _CC'_
+    passing through an ebonite stopper. After charging, it is
+    removed from contact with the gold-leaf system. The rods _P_
+    and _C_ and the cylinder are then connected with the earth.]
+
+
+Scintillations on Phosphorescent Bodies
+
+It was found by Crookes that a screen covered with phosphorescent zinc
+sulphide was brightly lighted up when exposed to the radiations. This
+is due to the bombardment of the zinc sulphide by a type of ray called
+the alpha ray. Under a magnifying glass this light is seen to be made
+up of a number of scintillating points of light and is not continuous,
+each scintillation being of very short duration. By proper subdivision
+of the field under the lens, the number of scintillations can be
+counted with close accuracy.
+
+A simple form of apparatus called the spinthariscope has been devised
+to show these scintillations. A zinc sulphide screen is fixed in one
+end of a small tube and a plate carrying a trace of radium is placed
+very close to it. The scintillations can be observed through an
+adjustable lens at the other end of the tube. Outer light should be
+cut off, as in a dark room. The screen then appears to be covered with
+brilliant flashes of light. Other phosphorescent substances, such as
+barium platino-cyanide, may be substituted for the zinc sulphide, but
+they do not answer so well.
+
+
+Penetrating Power
+
+By penetrating power is meant the power exhibited by the rays of
+passing through solids of different thicknesses and gases of various
+depths. This power varies with different radiations and with the
+nature of the solid or gas. For instance, a sheet of metallic foil may
+be used and the effect of aluminum will differ from that of gold and
+the different rays vary in penetrating power. In the case of gases
+air will differ from hydrogen, and it is noticed that certain rays
+disappear after penetrating a short distance, while others can
+penetrate further before being lost.
+
+
+Magnetic Deflection
+
+If the radiations are subjected to the action of a strong magnetic
+field, it is found that part of them are much deflected in the
+magnetic field and describe circular orbits, part are only slightly
+deflected and in the opposite direction from the first, and the
+remaining rays are entirely unaffected.
+
+    [Illustration: FIG. 5.--SHOWING MAGNETIC DEFLECTION OF
+    [alpha], [beta], AND [gamma] RAYS.]
+
+
+Three Types of Rays
+
+By the use of these methods of investigation it is learned that the
+radiations consist of three types of rays. These have been named the
+alpha, beta, and gamma rays, respectively. Some radio-active bodies
+emit all three types, some two, and some only one. The distinguishing
+characteristic of these types of rays may be summed up as follows:
+
+
+Alpha Rays
+
+The alpha rays have a positive electrical charge and a comparatively
+low penetrating power. They are slightly deflected in strong magnetic
+and electric fields. They have a great ionizing power and a velocity
+about one-fifteenth that of light.
+
+
+Beta Rays
+
+The beta rays are negatively charged and have a greater penetrating
+power than the alpha rays. They show a strong deflection in magnetic
+and electric fields, have less ionizing power than the alpha rays, and
+a velocity of the same order as light.
+
+
+Gamma Rays
+
+The gamma rays are very penetrating and are not deflected in the
+magnetic or electric fields. They have the least ionizing power and a
+very great velocity.
+
+The penetrating power of each type is complex and varies with the
+source, so the statements given are but generalizations. The alpha
+rays are projected particles which lose energy in penetrating matter.
+As to the power of ionizing gases, if that for the [alpha] rays is
+taken as 10,000, then the [beta] rays would be approximately 100 and
+the [gamma] rays 1.
+
+
+Measurement of Radiations
+
+The rays are examined and measured in several ways:
+
+1. By their action on the sensitive photographic plates. The use
+of this method is laborious, consumes time, and for comparative
+measurements of intensity is uncertain as to effect.
+
+2. By electrical methods, using electroscopes, quadrant
+electrometers, etc. These are the methods most used.
+
+3. By exposure to magnetic and electric fields, noting extent and
+direction of deflection.
+
+4. By their relative absorption by solids and gases.
+
+5. By the scintillations on a zinc sulphide screen.
+
+
+Identification of the Rays
+
+The alpha rays have been identified as similar to the so-called canal
+rays. These were first observed in the study of the _X_ rays. When an
+electrical discharge is passed through a vacuum tube with a cathode
+having holes in it, luminous streams pass through the holes toward the
+side away from the anode and the general direction of the stream. They
+travel in straight lines and render certain substances phosphorescent.
+These rays are slightly deflected by a magnetic field and in an
+opposite direction from that taken by the cathode rays in their
+deflection. The rays seem to be positive ions with masses never less
+than that of the hydrogen atom. Their source is uncertain, but they
+may be derived from the electrodes.
+
+The beta rays are identical in type with the cathode rays and are
+negative electrons.
+
+The gamma rays are analogous to the _X_ rays and are of the order of
+light. They are in general considerably more penetrating than _X_
+rays. For example, the gamma rays sent out by 30 milligrams of radium
+can be detected by an electroscope after passing through 30
+centimeters of iron, a much greater thickness than can be penetrated
+by the ordinary _X_ rays.
+
+
+
+
+CHAPTER III
+
+CHANGES IN RADIO-ACTIVE BODIES
+
+
+Is Radio-activity a Permanent Property?
+
+Is this power of emitting radiations a permanent property or is it
+lost with the passage of time? The first investigations of the
+activity of uranium and thorium showed no loss of intensity at the end
+of several years, and radium also seemed to show no decrease in its
+enormous activity. Polonium, however, was found to lose most of its
+activity in a year, and later it appeared that some radio-active
+substances lost most of their activity in the course of a few minutes
+or hours.
+
+
+Induced Activity
+
+A phenomenon called induced or secondary radio-activity was also
+observed. Thus a metal plate or wire exposed to the action of thorium
+oxide for some hours became itself active. This induced activity was
+not permanent but decreased to half its value in about eleven hours
+and practically disappeared within a week. Similar phenomena were
+observed when radium was substituted for thorium.
+
+
+Discovery of Uranium X
+
+In 1900 Crookes precipitated a solution of an active uranium salt with
+ammonium carbonate. The precipitate was dissolved so far as possible
+in an excess of the reagent, leaving an insoluble residue. This
+residue was many hundred times more active, weight for weight, than
+the original salt, and the solution containing the salt was
+practically inactive. At the end of a year the uranium salt had
+regained its activity while the residue had become inactive.
+
+Another method of obtaining the same result is to dissolve
+crystallized uranium nitrate in ether. Two layers of solution are
+formed, one ether and the other water coming from the water of
+crystallization. The aqueous layer is active, while the water layer is
+inactive. Similarly, by adding barium chloride solution to a solution
+of a salt of uranium and then precipitating the barium as sulphate,
+the activity is transferred to this precipitate. These experiments
+give proof of the formation and separation of a radio-active body by
+ordinary chemical operations.
+
+So, too, in the case of thorium salts a substance can be obtained by
+means of ammonium hydroxide which is several thousand times more
+active than an equal weight of the original salt. After standing a
+month, the separated material has lost its activity and the thorium
+salt has regained it. Here, again, there is the formation, separation,
+and loss of a radio-active body.
+
+
+Conclusions Drawn
+
+Now, these are ordinary chemical processes for the separation of
+distinct chemical individuals. The results, therefore, lead naturally
+to the conclusions: (1) it would seem that uranium and thorium are
+themselves inactive and the activity is due to some other substance
+formed by these elements; (2) this active substance is produced by
+some transformation in those elements, for on standing the activity
+is regained. This latter conclusion is startling, for it indicates a
+change in the atom which, up to the time of this discovery, was deemed
+unchangeable under the influence of such physical and chemical changes
+as were known to us.
+
+
+Search for New Radio-active Bodies
+
+The search for new radio-active bodies and the study of their
+characteristics has been systematically and successfully carried on.
+The bodies obtained in the above experiments were named uranium _X_
+and thorium _X_, respectively. Further, it became clear from the
+investigation of uranium minerals that radium, polonium, actinium, and
+ionium originated from uranium. From thorium minerals a body was
+separated called mesothorium, which was analogous to radium. Both
+thorium and radium were found to give off a radio-active gas. The
+first lost half of its activity in less than one minute. The second
+was more stable and lost half of its activity in about four days. The
+name radium emanation was given to the latter and it was found
+chemically and physically to belong to the class of monatomic or noble
+gases, such as helium, argon, neon, etc., which had been discovered by
+Ramsay. In some cases the chemical action was determined and these new
+bodies were found analogous to well-known elements, as radium to
+barium, polonium to bismuth. The physical properties were investigated
+and, where possible, spectra were mapped and atomic weights
+determined.
+
+It is clear, therefore, that these bodies are elemental in character
+and as such are made up of distinct, similar atoms, just as the
+commonly recognized elements are believed to be. In this way more than
+thirty new elements have been added to the list. These new elements
+are called radio-active elements, but it is an open question whether
+all atoms do not possess this property in greater or less degree.
+Certainly, it is possessed in varying degree by four of the old
+elements widely separated in the Periodic System, namely, uranium,
+thorium, rubidium, and potassium. The last two, while feebly active
+themselves, do not form any secondary radio-active substance so far as
+is known. Only two of the elements, then, can definitely be said to go
+through these transformations. It is just possible that radio-activity
+may be found to be a common property of all atoms and of all matter.
+
+
+Methods of Investigation
+
+It is important to know how these new bodies were discovered and
+distinguished from one another. Two properties are relied upon. One is
+the nature of the rays emitted and the other is the duration of the
+activity. Of course, knowledge of the physical and chemical properties
+is also of great importance whenever obtainable.
+
+
+Nature of the Radiations
+
+The nature of the radiation is a distinguishing characteristic, though
+similarity here does not prove identity of substances. Some emit
+[alpha] rays only, some emit [beta] rays, some emit two of the
+possible rays, as for instance, [beta] and [gamma], and some emit all
+three. The rays may also differ in the velocity with which they are
+emitted by different radio-active substances. Thus, in the case of one
+substance the [alpha] rays may have a slightly greater or less
+penetrating power than those emitted by some other substance, and this
+may be true also of the other rays.
+
+
+Life Periods
+
+The duration of the activity is called the life period. This is
+absolutely fixed for each body and furnishes the most important mode
+of differentiating among them. It measures the relative stability and
+is the time which must elapse before their activity is lost and they,
+changing into something else, entirely disappear. The measure usually
+adopted is the half-value period. Two hypotheses are made use of:
+
+1. That there is a constant production of fresh radio-active matter by
+the radio-active body.
+
+2. That the activity of the matter so formed decreases according to an
+exponential law with the time from the moment of its formation.
+
+These hypotheses agree with the experimental results. The decrease and
+rise of activity, for example, of uranium and uranium _X_, and also of
+thorium and thorium _X_, have been measured, plotted, and the
+equations worked out.
+
+Manifestly, a state of equilibrium will be reached when the rate of
+loss of activity of the matter already produced is balanced by the
+activity of the new matter produced. This equilibrium and the
+knowledge of the rate of decrease in general will have little value if
+this rate, like chemical changes, is subject to the influence of
+chemical and physical conditions. The rate of decrease has been found
+to be unaltered by any known chemical or physical agency. For
+instance, neither the highest temperatures applicable nor the cold of
+liquid air have any appreciable effect.
+
+
+Equilibrium Series
+
+In order to measure the disintegration of a radio-active body in units
+of time so that the rate may be comparable with that of other
+radio-active bodies, the relation between the amounts under
+consideration must be a definite one. For this purpose equal weights
+of the bodies are not taken, but use is made of the amounts which are
+in equilibrium with a fixed amount of the parent substance.
+
+One gram of radium has been settled upon as the standard for that
+series and a unit known as the "curie" has been adopted to express the
+equilibrium quantity of radium emanation. Thus, a curie of radium
+emanation (or niton) is the weight (or, as this is a gas, the volume
+at standard pressure and temperature) of the emanation in equilibrium
+with one gram of radium. This, by calculation and experiment, is found
+to be 0.63 cubic millimeter. When this amount has been produced by one
+gram of radium, the formation and decay will exactly balance one
+another. This is, therefore, one curie of emanation.
+
+The measurement of the rate of decay is difficult but can be carried
+out with great accuracy, even down to seconds, in the case of certain
+short-lived bodies. Errors crept in at first from the failure to
+completely separate the substances produced in the series, and
+sometimes because of the simultaneous production of two substances.
+
+As stated, the decay follows an exponential law. The time required for
+the decay of activity to half-value does not mean, therefore, that
+there will be total decay in twice that time. Thus the half-value
+period for uranium _X_ is about 22 days. The period for complete decay
+is about 160 days. This half-value period corresponds to the
+half-value recovery period of uranium, which is also 22 days.
+
+These were the earlier figures obtained for uranium _X_ and they
+illustrate some of the difficulties surrounding such determinations.
+It was found later that the body examined as uranium _X_ was really a
+constant mixture and of course the decay and recovery periods were
+also composite. It required later and very skilful work to separate
+them into the bodies indicated in the disintegration series.
+
+The half-value period for thorium _X_ is much shorter, namely, a
+little over four days, and this is also the recovery period for
+thorium _X_. The plotted decay and recovery curves will intersect at
+this point.
+
+The consecutive disintegration series, with the half-value periods,
+for the uranium and thorium series as given by Soddy are seen in the
+following tables. They are probably subject to some changes on further
+and more accurate determination. The nature of the rays emitted is
+also given.
+
+    [Illustration:
+
+    Uranium (8 x 10^9 years)              238.5    -> [alpha]
+                                                   -> [alpha]
+                                      \/
+    Uranium X (35.5 days)                 (230.5)  -> [beta]&[gamma]
+                                                   -> ([beta])
+                                      \/
+
+                                      \/
+
+                                      \/
+
+    Ionium (5 x 10^4 to 10^6 years)       (230.5)  -> [alpha]
+                                      \/
+    Radium (2,500 years)                  226.4    -> [alpha]
+                                      \/
+    Emanation (5.57 days)                 (222.4)  -> [alpha]
+                                      \/
+    Radium A (4.3 minutes)                (218.4)  -> [alpha]
+                                      \/
+    Radium B (38.5 minutes)               (214.4)  -> ([beta])
+                                      \/
+    Radium C_{1} (28.1 minutes)     {     (214.4)  -> [alpha]
+                                    {              -> [beta]&[gamma]
+                                    { \/
+    Radium C_{2} (1.9 minutes)      {     (210.4)  -> [beta]&[gamma]
+                                      \/
+    Radium D (24 years?)                  (210.4)  -> ([beta])
+                                      \/
+    Radium E (7.25 days)                  (210.4)  -> [beta]&[gamma]
+                                      \/
+    Radium F (Polonium 202 days)          (210.4)  -> [alpha]
+                                      \/
+    Radium G (probably lead)              (206.8)
+
+
+    Actinium (?)
+                                      \/
+    Radio-Actinium (28.1 days)                -> [alpha]
+                                              -> ([beta])
+                                      \/
+    Actinium X (15 days)                      -> [alpha]
+                                      \/
+    Emanation (5.6 seconds)                   -> [alpha]
+                                      \/
+    Actinium A (0.0029 second)                -> [alpha]
+                                      \/
+    Actinium B (52.1 minutes)                 -> ([beta])
+                                      \/
+    Actinium C_{1} (3.10 mins.)     {         -> [alpha]
+                                    { \/
+    Actinium C_{2} (?)              {         -> [alpha]
+                                      \/
+    Actinium D (7.4 minutes)                  -> [beta]&[gamma]
+                                      \/
+    Actinium E (unknown)
+
+
+    Thorium (4 x 10^{10} years?)     232.4    -> [alpha](?)
+                                      \/
+    Mesothorium_{1} (7.9 years)
+                                      \/
+    Mesothorium_{2} (8.9 hours)               -> [beta]&[gamma]
+                                      \/
+    Radiothorium (2.91 years?)                -> [alpha]
+                                      \/
+    Thorium X (5.35 days)                     -> [alpha]
+                                      \/
+    Emanation (76 seconds)                    -> [alpha]
+                                      \/
+    Thorium A (0.203 second)                  -> [alpha]
+                                      \/
+    Thorium B (15.3 hours)                    -> ([beta])
+                                      \/
+    Thorium C_{1} (79 minutes)      {         -> [alpha]
+                                    { \/
+    Thorium C_{2} (?)               {         -> [alpha]
+                                      \/
+    Thorium D (4.5 minutes)                   -> [beta]&[gamma]
+                                      \/
+    Thorium E (unknown)
+
+    FIG. 6.--DISINTEGRATION SERIES FOR URANIUM, ACTINIUM, AND
+    THORIUM, AS GIVEN BY SODDY.]
+
+
+
+
+CHAPTER IV
+
+NATURE OF THE ALPHA PARTICLE
+
+
+Disintegration of the Elements
+
+The remarkable disintegrations related in the last chapter, in which
+the heaviest known elementary atom--that of uranium (at. wt. 238)--is
+by successive stages changed into others of lower atomic weight,
+afford a clue to the nature of the atom and to that goal of the
+chemist, the final constitution of matter. The composite nature of the
+atom and some sort of interrelation of the elements had previously
+been made apparent from a study of the Periodic System and data
+gathered still earlier, but all attempts at working out a so-called
+genesis of the elements had proved vague and unsatisfactory.
+
+
+Identification of the Rays
+
+To get an understanding of the disintegration occurring in
+radio-active substances, the nature of the rays produced must be
+known. These rays are the cause of the activity and their emission
+accompanies the changes or disintegration. They have for the sake of
+convenience been called the alpha, beta, and gamma rays. The gamma
+rays have been identified with the _X_ rays discovered by Roentgen and
+are a form of energy analogous to light. The beta rays are particles
+of negative electricity or electrons. With these, then, we have some
+degree of familiarity. But what are the alpha rays? An answer to this
+question should make clearer the character of the changes taking
+place, and should give some insight into the composition and mechanism
+of the atom.
+
+
+The Alpha Rays
+
+It has already been stated that these alpha rays are similar or
+analogous to the canal rays, but this advances the matter very little,
+as the nature of these canal rays has not been fully determined. The
+full identity with them, if proved, should have an important
+theoretical bearing.
+
+
+Alpha Rays Consist of Solid Particles
+
+In the first place, these alpha rays have been found to be made up of
+solid particles, that is, of what we are accustomed to call matter.
+Since it has become more and more difficult to draw a clear
+distinction between matter and energy, it would perhaps be better to
+say that these particles appear to have some of the properties
+hitherto attributed solely to matter. The best evidence that these
+particles are of atomic mass is furnished by their deflection in
+electric and magnetic fields.
+
+
+Electrical Charge
+
+It is not of first importance to discuss this or other proofs of the
+material nature of these particles. That they carry a charge of
+positive electricity is, however, a fact of very great import. The
+value of this charge has been carefully determined by a number of
+investigators working with different sources of the alpha particles
+and has been found to be 9.3 x 10^{-10} electrostatic units
+(.000,000,000,93 e.s.). From the consideration of the charge upon an
+electron previously obtained by J. J. Thomson and others, it was
+concluded that the alpha particle carried two unit positive charges;
+the fundamental unit charge, therefore, is half this value, or
+4.65 x 10^{-10} e.s.
+
+
+Helium Formed from Alpha Particles
+
+To determine the nature of the alpha particle a crucial experiment was
+carried out by Rutherford and Royds, which was described as follows:
+
+    [Illustration: FIG. 7.--APPARATUS USED IN EXPERIMENT BY
+    RUTHERFORD AND ROYDS.]
+
+A large quantity of radium emanation was compressed into a fine glass
+tube _A_, about 1.5 cm. long. This tube, which was sealed to a larger
+capillary tube _B_, was sufficiently thin to allow the alpha particles
+from the emanation and its products to pass through, but sufficiently
+thick to withstand atmospheric pressure. The thickness of the glass
+wall was in most cases less than .01 mm. On introducing the emanation
+into the tube, the escape of the alpha particles from the emanation
+was clearly seen by the scintillations produced at some distance on a
+zinc sulphide screen. After this test the glass tube _A_ was
+surrounded by a glass tube _T_ and a small spectrum tube _V_ attached
+to it. The tube _T_ was exhausted to a charcoal vacuum. By means of
+the mercury column _H_, the gases in the tube _T_ could at any time be
+compressed into the spectrum tube _V_ and the nature of the gases
+which had been produced determined spectroscopically. It was found
+that two days after the introduction of the emanation into _A_ the
+spectrum showed the yellow line of helium, and after six days the
+whole helium spectrum was observed. In order to be certain that the
+helium, coming possibly from some other source, had not diffused
+through the thin walls of the tube _A_, the emanation was pumped out
+and helium substituted. No trace of helium could be observed in the
+vacuum tube after several days, showing that the helium observed in
+the first experiment must have originated from the alpha particles
+which had been propelled through the thin glass tube into the outer
+tube.
+
+Most of the alpha particles are propelled with such force that they
+penetrate some distance into the walls of the outer tube and some of
+these gradually diffuse out into the exhausted space. The presence of
+helium in the spectrum tube can be detected after a shorter interval
+if a thin cylinder of lead is placed over the emanation tube, since
+the particles fired into the lead diffuse out more rapidly than from
+glass.
+
+A still more definite proof of the identity of the alpha particle with
+the helium atom was obtained by removing the outer glass tube _T_ and
+placing a cylinder of lead over the emanation tube in the open air.
+Helium was always detected in the lead after it had remained several
+hours over the thin tube containing a large quantity of the emanation.
+In order to test for the presence of helium in the lead, the gases
+present were released by melting the lead in a closed vessel. There
+can thus be no doubt that the alpha particle becomes a helium atom
+when its positive charge is neutralized.
+
+Thus the chemist was afforded the experience of the building up of at
+least one element under his observation, and both the analysis and
+synthesis of matter have been revealed through the discoveries of
+radio-activity.
+
+
+Discovery of Helium
+
+It is of interest at this point to learn something of the history of
+helium and its occurrence. In 1868 there was discovered by Janssen and
+Lockyer a bright yellow line in the spectrum of the sun's
+chromosphere. Because of its origin the name helium was given to the
+supposed new element causing it. Later it was found in the spectra of
+many of the stars, and because of its predominance in some of these
+they were called helium stars. Its existence on our planet was not
+detected for nearly thirty years.
+
+In 1895, in connection with the discovery of argon in the atmosphere,
+a search was made to see if the latter element could be obtained from
+mineral sources. In analyzing certain uranium minerals Hillebrand had
+found considerable quantities of a gas which he took to be a peculiar
+form of nitrogen. Ramsay made a further examination of the gas coming
+from these minerals and the spectroscope revealed the yellow line of
+helium, thus at last proving the presence of this element on the
+earth. It is known now to be present in thorium minerals, in the
+waters of radio-active wells, and in minute amounts in the atmosphere.
+Its occurrence in every case, in the light of the experiment described
+above, would seem to be due to the presence of radio-active changes.
+
+
+Characteristics of Helium
+
+Helium, on account of its chemical inactivity and physical properties,
+is classed along with argon, neon, krypton, and xenon in the zero
+group of the Periodic System, and forms with them the monatomic, inert
+gases. In this class are now placed also the three radio-active gases,
+emanating respectively from radium, thorium, and actinium. These are
+generally known as radium emanation, thorium emanation, and actinium
+emanation. The first mentioned was once called niton. Emanium was the
+name originally proposed by Giesel for the body now known as actinium.
+
+The calculated rate of production of helium in the series in
+equilibrium with one gram of radium is 158 cubic millimeters per year.
+This corresponds quite well with the experimental results.
+
+
+Table of Constants
+
+Some of the more important atomic and radio-active constants are given
+in the following table. They are recorded here to show how helpful the
+study of radio-activity has been in working out the composition of
+matter, and to give some idea of the magnitude of the numbers and the
+minuteness of the quantities dealt with.
+
+  Electric charge carried by each H atom in
+        electrolysis                          4.65 x 10^{-10} e.s.[1]
+  Electric charge carried by each [alpha]
+        particle                              9.3  x 10^{-10} e.s.
+  Number of atoms in 1 gram of H              6.2  x 10^{23}
+  Mass of 1 atom of H                         1.6  x 10^{-24} gram
+  Number of molecules per cc. of any gas at
+        standard pressure and temperature     2.72 x 10^{19}
+  Number of [alpha] particles expelled per
+        second per gram of radium itself      3.6  x 10^{10}
+  Number of [alpha] particles expelled per
+        second per gram of radium in
+        equilibrium with its products        14.3  x 10^{10}
+
+   [1] The expression 10^{-10} means multiplying by .000,000,000,1;
+   10^{10} means multiplying by 10,000,000,000.
+
+
+
+
+CHAPTER V
+
+THE STRUCTURE OF THE ATOM
+
+
+Properties of Radium
+
+A study of the properties of radium will aid in throwing light upon
+the question as to the building up of the atom. First to be considered
+are the usual properties which distinguish an elementary body.
+Metallic radium has been prepared by a method similar to that used in
+the preparation of barium. It is a pure white metal, melting at 700 deg.,
+and far more volatile than barium. It rapidly alters on exposure to
+the air, probably forming a nitride. It energetically decomposes water
+and the product dissolves in the water. Its atomic weight is 226.
+
+Radium forms a series of salts analogous in appearance and chemical
+action to those of barium. In the course of time they become colored,
+especially if mixed barium salts. The radiations from radium produce
+marked chemical effects in a number of substances. Carbon dioxide is
+changed into carbon, oxygen, and carbon monoxide, and the latter is
+changed into carbon and oxygen. Ammonia is dissociated into nitrogen
+and hydrogen; hydrochloric acid into chlorine and hydrogen. Oxygen is
+condensed into ozone. In general, the action upon gases appears to be
+similar to that of the silent electric discharge. Water is decomposed
+into hydrogen and oxygen. If moist radium chloride or a salt of radium
+containing water of crystallization is sealed in a glass tube, the
+gradual accumulation of hydrogen and oxygen will burst the tube.
+
+The radiations rapidly decompose organic matter with the evolution of
+gases. Thus grease from stopcocks of apparatus used with radium or
+paraffin will give off carbon dioxide. Under an intense alpha
+radiation paraffin or vaseline become hard and infusible. White
+phosphorus is changed into red.
+
+The action upon living tissue is most noteworthy, as its possible use
+as a remedial agent is dependent upon this. A small amount of a radium
+salt enclosed in a glass tube will cause a serious burn on flesh
+exposed to it. It therefore has to be handled with care and undue
+exposure to the radiations must be avoided. Cancer sacs shrivel up and
+practically disappear under its action. Whether the destruction of
+whatever causes the cancer is complete is at least open to serious
+doubt.
+
+The coagulating effect upon globulin is interesting. When two
+solutions of globulin from ox serum are taken and acetic acid added to
+one while ammonia is added to the other, the opalescence in drops of
+the former is rapidly diminished on exposure to radium, showing a more
+complete solution, whereas the latter solution rapidly turns to a
+jelly and becomes opaque, indicating a greatly decreased solubility.
+
+
+Energy Evolved by Radium
+
+The greater part of the tremendous energy evolved by radium is due to
+the emission of the alpha particles, and in comparison the beta and
+gamma rays together supply only a small fraction. This energy may be
+measured as heat. It was first observed that a radium compound
+maintained a temperature several degrees higher than that of the air
+around it. The rate of heat production was later measured by means of
+an ice calorimeter and also by noting the strength of the current
+required to raise a comparison tube of barium salt to the same
+temperature. Both methods showed that the heat produced was at the
+rate of about 135 gram calories per hour. As the emission is
+continuous, one gram of radium would therefore emit about 1,180,000
+gram calories in the course of a year. At the end of 2000 years it
+would still emit 590,000 gram calories per year. Such a production of
+energy so far surpasses all experience that it becomes almost
+inconceivable. It is futile to speak of it in terms of the heat
+evolved by the combustion of hydrogen, which is the greatest that can
+be produced by chemical means.
+
+This effect is unaltered at low temperatures, as has been tested by
+immersing a tube containing radium in liquid air. It should be stated
+that these measurements were made after the radium had reached an
+equilibrium with its products; that is, after waiting at least a month
+after its preparation. The evolution of heat from radium and the
+radio-active substances is, in a sense, a secondary effect, as it
+measures the radiant energy transformed into heat energy by the
+active matter itself and whatever surrounds it. Let us repeat,
+therefore, that the total amount of energy pent up in a single atom of
+radium almost passes our powers of conception.
+
+
+Necessity for a Disintegration Theory
+
+The facts gathered so far justify and necessitate a theory which shall
+satisfactorily explain them, and since these phenomena are not caused
+by nor subject to the influence of external agencies, they must refer
+to changes taking place within the atom--in other words, a theory of
+disintegration. In the main, these facts may be summed up as the
+emission of certain radiations from known elemental matter: the
+material alpha particles with positive charge, the beta particles or
+negative electrons, and the gamma rays analogous to _X_ rays. The
+emission of these rays results in the production of great heat. Then
+there is the law of transformations by which whole series of new
+elements are generated from the original element and maintain a
+constant equilibrium of growth and decay in the series. Lastly, we
+have the production of helium from the alpha particles.
+
+
+Disintegration Theory
+
+In explanation of these phenomena, Rutherford offered the hypothesis
+that the atoms of certain elements were unstable and subject to
+disintegration. The only elements definitely known to come under this
+description are the two having atoms of the greatest known mass,
+thorium (232) and uranium (238).
+
+The atoms of uranium, for instance, are supposed to be not permanent
+but unstable systems. According to the hypothesis, about 1 atom in
+every 10^{18} becomes unstable each second and breaks up with a
+violent explosion for so small a mass of matter. One, or possibly two
+alpha particles are expelled with great velocity. This alpha particle
+corresponds to an atom of helium with an atomic weight of 4, and its
+loss reduces the original atomic weight to 234 with the formation of a
+new element, having changed properties corresponding to the new atomic
+weight. This new element is uranium X_{1}.
+
+These new atoms are far more unstable than those of uranium, and the
+decomposition proceeds at a new rate of 1 in 10^{7} per second. So at
+a definite, measurable rate this stepwise disintegration proceeds. The
+explosions are not in all cases equally violent in going from element
+to element, nor are the results the same. Sometimes alpha particles
+alone are expelled, sometimes beta, or two of them together, as alpha
+and beta.
+
+The new product may remain with the unchanged part of the original
+matter. Thus there would be an accumulation of it until its own decay
+balances its production, resulting eventually in a state of
+equilibrium.
+
+
+Constitution of the Atom
+
+In order to explain the electrical and optical properties of matter,
+the hypothesis was made that the atom consisted of positively and
+negatively electrified particles. Later it was shown that negative
+electrons exist in all kinds of matter. Various attempts were made to
+work out a model of such an atom in which these particles were held in
+equilibrium by electrical forces. The atom of Lord Kelvin consisted of
+a uniform sphere of positive electrification throughout which a number
+of negative electrons were distributed, and J. J. Thomson has
+determined the properties of this type as to the number of particles,
+their arrangement and stability.
+
+
+Rutherford's Atom
+
+According to Rutherford, the atom of uranium may be looked upon as
+consisting of a central charge of positive electricity surrounded by a
+number of concentric rings of negative electrons in rapid motion. The
+positively charged centre is made up of a complicated system in
+movement, consisting in part of charged helium and hydrogen atoms, and
+practically the whole charge and mass of the atom is concentrated at
+the centre. The central system of the atom is from some unknown cause
+unstable, and one of the helium atoms escapes from the central mass as
+an alpha particle.
+
+There are, confessedly, difficulties connected with this conception of
+the atom which need not, however, be discussed here. Much remains to
+be learned as to the mechanics of the atom, and the hypothesis
+outlined above will probably have to be materially altered as
+knowledge grows. Perhaps it may have to be entirely abandoned in favor
+of some more satisfactory solution. Until such time it at least
+suffices as a mental picture around which the known facts group
+themselves. In this picture energy and matter lose their old-time
+distinctness of definition. Discrete subdivisions of energy are
+recognized which may be called charged particles without losing their
+significance. Some of these subdivisions charged in a certain way or
+with neutralized charge exhibit the properties of so-called matter.
+
+
+Scattering of Alpha Particles
+
+This conception of the atom would doubtless fail of much support were
+it not for certain experimental facts which lend great weight to it.
+Certain suppositions can be based on this theory mathematically
+reasoned out and tested by experiment. Predictions thus based on
+mathematical reasoning and afterward confirmed by experiment give a
+very convincing impression that truth lies at the bottom.
+
+The first of these experimental proofs comes under the head of what is
+known as the scattering of the alpha particles, a phenomenon which,
+when first observed, proved hard to explain. If an alpha particle in
+its escape from the parent atom should come within the influence of
+the supposed outer electrical field of some other atom, it should be
+deflected from its course and, the intensity of the two charges being
+known, the angle of deflection could be calculated. For instance, if
+it came to what might be called a head-on collision with the positive
+central nucleus of another atom, it would recoil if it were itself of
+lesser mass, or would propel the other forward if that were the
+lighter.
+
+The experiment is carried out by placing a thin metal foil over a
+radio-active body, as radium _C_, which expels alpha particles with a
+high velocity, and counting the number of alpha particles which are
+scattered through an angle greater than 90 deg. and so recoil toward their
+source. This has been done by a number of investigators and it has
+been found that the angle of scattering and the number of recoil
+particles depend upon the atomic weight of the metal used as foil. For
+example, if gold is used, the number of recoil atoms is one in
+something less than 8,000.
+
+Taking the atomic weight of gold into consideration, Rutherford
+calculated mathematically that this was about the number which should
+be driven backward. But he went further and calculated also the number
+which should be returned by aluminum, which has an atomic weight of
+only about one-seventh that of gold. Two investigators determined
+experimentally the number for aluminum and their results agreed with
+Rutherford's calculations.
+
+The metals from aluminum to gold have been examined in this way. The
+number of recoil particles increases with the atomic weight of the
+metal. Comparing experiment with theory, the central charge in an atom
+corresponds to about one-half the atomic weight multiplied by the
+charge on an electron, or, as it is expressed, 1/2 Ae.
+
+There is only one lighter atom than helium, namely, hydrogen, which
+has a mass only one-fourth as great. When alpha particles are
+discharged into hydrogen, a few of the latter atoms are found to be
+propelled to a distance four times as great as that reached by the
+alpha particles.
+
+
+Stopping Power of Substances
+
+Parallel with the experiments mentioned, there is what is called
+the stopping power of substances. This means the depth or thickness
+of a substance necessary to put a stop to the course of the alpha
+particles. This gives the range of the alpha particles in such
+substances and is connected in a simple way with the atomic weight,
+that is, it is again fixed by the mass of the opposing atom. This
+stopping power of an atom for an alpha particle is approximately
+proportional to the square root of its atomic weight.
+
+Considering gases, for instance, if the range in hydrogen be 1,
+then the range in oxygen, the atomic weight of which is 16, is only
+(1/16)^{1/2} or 1/4. Generally in the case of metals the weight of
+matter per unit area required to stop the alpha particle is found to
+vary according to the square root of the atomic weight of the metal
+taken.
+
+
+
+
+CHAPTER VI
+
+RADIO-ACTIVITY AND CHEMICAL THEORY
+
+
+Influence upon Chemical Theory
+
+It can easily be seen that the revelations of radio-activity must have
+a far-reaching effect upon chemical theory, throwing light upon, and
+so bringing nearer, the solution of some of the problems which have
+been long discussed without arriving at any satisfactory solution. The
+so-called electro-chemical nature of the elements will certainly be
+made much clearer. The changes in valence should become intelligible
+and valence itself should be explained. A fuller understanding of the
+ionization of electrolytes also becomes possible. As these matters are
+debatable and the details are still unsettled, it is scarcely
+appropriate to give here the hypotheses in detail or to enter into any
+discussion of them. But the promise of solution in accord with the
+facts is encouraging.
+
+
+The Periodic System
+
+Such progress has been made, however, in regard to a better
+understanding of the Periodic System that the new facts and their
+interpretation may well be given. No reliable clue to the meaning of
+this system and the true relationship between the elements had been
+found up to the time when new light was thrown upon it by the
+discoveries of radio-activity. The underlying principle was unknown
+and even the statement of what was sometimes erroneously called the
+Periodic Law was manifestly incorrect and its terms were ignored.
+
+
+Basis of the Periodic System
+
+The ordinary statement of the fundamental principle of the Periodic
+System has been that the properties of the elements were periodic
+functions of the atomic weights, and that when the elements were
+arranged in the order of their atomic weights they fell into a natural
+series, taking their places in the proper related groups.
+
+In accepting this, the interpretation of function was both
+unmathematical and vague, and the order of the atomic weights was not
+strictly adhered to but unhesitatingly abandoned to force the group
+relationship. Wherever consideration of the atomic weight would have
+placed an element out of the grouping with other elements to which it
+was clearly related in physical and chemical properties, the guidance
+of these properties was accepted and that of the atomic weights
+disregarded. Such shiftings are noted in the cases of tellurium and
+iodine; cobalt and nickel; argon and potassium. It was most helpful
+that, following the order of atomic weights, the majority of the
+elements fell naturally into their places. Otherwise the
+generalization known as the Periodic System might have remained for a
+long time undiscovered and the progress of chemistry would have been
+greatly retarded.
+
+
+Influence of Positive Nucleus
+
+It is evident that the order of the elements is determined by
+something else than their atomic weights. From the known facts of
+radio-activity it would seem that this determining factor is the
+positive nucleus. And this nucleus also determines the mass or weight
+of the atom. Taking the elements in their order in the Periodic Series
+and numbering the positions held by them in this series as 1, 2, 3,
+etc., we get the position number or what is called the atomic number.
+This designates the order or position of the element in the series.
+We must learn that this number marks a position rather than a single
+element, a statement which will be explained later.
+
+
+Determination of the Atomic Number
+
+Since the atomic weight is unreliable as a means of settling the
+position of an element in the series and so fixing its atomic number,
+how is this number to be determined? Of course, one answer to this
+question is that we may rely upon a consideration of the general
+properties, as has been done in the past. Fortunately, other methods
+have been found by which this may be confirmed. For instance, the
+stopping and scattering power of the element for alpha particles has
+been suggested and successfully used.
+
+
+Use of X-Ray Spectra
+
+A most interesting method is due to Moseley's observations upon the
+_X_-ray spectra of the various elements. It has been found that
+crystals, such as those of quartz, have the power of reflecting and
+defining the _X_ rays. The spectra given by these rays can be
+photographed and the wave lengths measured. These _X_ rays are emitted
+by various substances under bombardment by the cathode rays (negative
+electrons) and have great intensity and very minute wave lengths.
+Moseley made use of various metals as anti-cathodes for the production
+of these rays. These metals ranged from calcium to zinc in the
+Periodic System. In each case he observed that two characteristic
+types of _X_ rays of definite intensity and different wave lengths
+were emitted. From the frequency of these waves there is deduced a
+simple relation connected with a fundamental quantity which increases
+in units from one element to the next. This is due to the charge of
+the positive central nucleus. The number found in this way is one less
+than the atomic number. Thus the number for calcium is 19 instead of
+20 and that for zinc is 29 instead of 30. So, by adding 1 to the
+number found the atomic number is obtained.
+
+The atomic weight can usually be followed in fixing the atomic number,
+but where doubt exists the method just given can be resorted to. Thus
+doubt arises in the case of iron and nickel and cobalt. This would be
+the order according to the atomic weights. The _X_-ray method gives
+the order as iron, cobalt, and nickel, and this is the accepted order
+in the Periodic System.
+
+
+Changes Caused by Ray Emission
+
+On studying the properties of the elements in a transformation series
+in connection with the ray emission which produced them, it was seen
+that these properties were determined in each case by the nature of
+the ray emitted from the preceding transformation product or parent
+element.
+
+
+Atomic Weight Losses
+
+Each alpha particle emitted means a loss of 4 in the atomic weight.
+This is the mass of a helium atom. Thus from uranium with an atomic
+weight of 238 to radium there is a loss of three alpha particles.
+Therefore, 12 must be subtracted from 238, leaving 226, which agrees
+closely with the atomic weight of radium as actually determined by the
+ordinary methods. Uranium X_{1}, then, would have an atomic weight
+of 234 and that of ionium would be 230. The other intermediate
+elements, whose formation is due to the loss of beta particles only,
+show no decrease in atomic weight.
+
+
+Lead the End Product
+
+From uranium to lead there is a loss of 8 alpha particles, or 32 units
+in atomic weight. This would give for the final product an atomic
+weight of 206. The atomic weight of lead is 207.17. It is not at all
+certain that the final product of this series is ordinary lead. The
+facts are such that they would lead one to think that it is not. It is
+known only that the end product would probably be some element closely
+resembling lead chemically and hence difficult or impossible to
+separate from it. Several accurate determinations of lead coming from
+uranium minerals, which always carry this element and in an
+approximately definite ratio to the amount of uranium present, show
+atomic weights of 206.40; 206.36; and 206.54. Even the most rigid
+methods of purification fail to change these results. The lead in
+these minerals might therefore be considered as coming in the main
+from the disintegration of the uranium atom and, though chemically
+resembling lead, as being in reality a different element with
+different atomic weight.
+
+Furthermore, in the thorium series 6 alpha particles are lost before
+reaching the end product, which again is perhaps the chemical analogue
+of lead. The atomic weight here should be 232 less 24, or 208.
+Determinations of the atomic weight of lead from thorite, a thorium
+mineral nearly free from uranium, gave 208.4.
+
+The end product of the actinium series is also an element resembling
+lead, but both the beginning and ending of this series are still in
+obscurity.
+
+
+Changes of Position in the Periodic System
+
+The loss of 4 units in the atomic weight of an element on the
+expulsion of an alpha particle is accompanied by a change of chemical
+properties which removes the new element two groups toward the
+positive side in the Periodic System.
+
+Thus ionium is so closely related to thorium and so resembles it
+chemically that it is properly classed along with thorium as a
+quadrivalent element in the fourth group. Ionium expels an alpha
+particle and becomes radium, which is a bivalent element resembling
+barium belonging to the second group. Radium then expels an alpha
+particle and becomes the gas, radium emanation, which is an analogue
+of argon and belongs to the zero group. Other instances might be cited
+which go to show that in all cases the loss of an alpha particle makes
+a change of two places toward the left or positive side of the System.
+
+
+Changes from Loss of Beta Particles
+
+The loss of a beta particle causes no change in the atomic weight but
+does cause a shift for each beta particle of one group toward the
+right or negative side of the System. Two such losses, then, will
+counterbalance the loss of an alpha particle and bring the new element
+back to the group originally occupied by its progenitor. Thus uranium
+in the sixth group loses an alpha particle and the product UX_{1}
+falls in the fourth group. One beta particle is then lost and UX_{2}
+belonging to the fifth group is formed. With the loss of one more beta
+particle the new element returns to the sixth group from which the
+transformation began.
+
+The table on page 48, as adapted from Soddy, affords a general view of
+these changes.
+
+
+Isotopes
+
+An examination of the table will show a number of different elements
+falling in the same position in a group of the Periodic System
+irrespective of their atomic weights. These are chemically inseparable
+so far as the present limitations of chemical analysis are concerned.
+Even the spectra of these elements seem to be identical so far as
+known. This identity extends to most of the physical properties, but
+this demands much further investigation. For this new phenomenon Soddy
+has suggested the word isotope for the element and isotopic for the
+property, and these names have come into general use.
+
+    [Illustration: RADIO-ACTIVE ELEMENTS FROM URANIUM AND THORIUM
+    PLACED IN THE PERIODIC SYSTEMS            Adapted from Soddy]
+
+Manifestly, we have come across a phenomenon here which quite
+eliminates the atomic weight as a determining factor as to position in
+the Periodic or Natural System or of the elemental properties in
+general. All of the properties of the bodies which we call elements,
+and consequently of their compounds and hence of matter in general,
+seem to depend upon the balance maintained between the charges of
+negative and positive electricity which, according to Rutherford's
+theory, go to make up the atom.
+
+It is evident that any study of chemical phenomena and chemical theory
+is quite incomplete without a study of radio-activity and the
+transformations which it produces.
+
+
+Radio-activity in Nature
+
+In concluding this outline of the main facts of radio-activity, it is
+of interest to discuss briefly the presence of radio-active material
+on this planet and in the stars. Facts enough have been gathered to
+show the probable universality of this phenomenon of radio-activity.
+Whether this means solely the disintegration of the uranium and
+thorium atoms, or whether other elements are also transformed under
+the intensity of the agencies at work in the universe, is of course a
+question as yet unsolved.
+
+
+Radio-active Products in the Earth's Crust
+
+The presence of uranium and thorium widely distributed throughout
+the crust of the earth would lead to the conclusion that their
+disintegration products would be found there also. Various rocks of
+igneous origin have been examined revealing from 4.78 x 10^{-12}
+to 0.31 x 10^{-12} grams of radium per gram of the rock. Aqueous
+rocks have shown a lesser amount, ranging from 2.92 x 10^{-12} to
+0.86 x 10^{-12} grams. As the soil is formed by the decomposition
+of these rocks, radium is present in varying amounts in all kinds of
+soil.
+
+
+Presence in Air and Soil Waters
+
+As radium is transformed into the gaseous emanation, this will escape
+wherever the soil is not enclosed. For instance, a larger amount of
+radio-activity is found in the soil of caves and cellars than in open
+soils. If an iron pipe is sunk into a soil and the air of the soil
+sucked up into a large electroscope, the latter instrument will show
+the effect of the rays emitted and will measure the degree of
+activity. Also the interior of the pipe will receive a deposit of the
+radio-active material and will show appreciable radio-activity after
+being removed from the soil.
+
+This radium emanation is dissolved in the soil waters, wells, springs,
+and rivers, rendering them more or less radio-active, and sometimes
+the muddy deposit at the bottom of a spring shows decided
+radio-activity.
+
+The emanation also escapes into the air so that many observations made
+in various places show that the radium emanation is everywhere present
+in the atmosphere. Neither summer nor winter seems to affect this
+emanation, and it extends certainly to a height of two or three miles.
+Rain, falling through the air, dissolves some of the emanation, so
+that it may be found in freshly-fallen rain water and also in
+freshly-fallen snow. Radio-active deposits are found upon electrically
+charged wires exposed near the earth's surface.
+
+As helium is the resulting product of the alpha particles emitted by
+the emanation and other radio-active bodies, it is found in the soil
+air, soil waters, and atmosphere.
+
+Average measurements of the radio-activity of the atmosphere have led
+to the calculation that about one gram of radium per square kilometer
+of the earth's surface is requisite to keep up the supply of the
+emanation.
+
+A number of estimates have been given as to the heat produced by the
+radio-active transformations going on in the material of this planet.
+Actual data are scarce and mere assumptions unsatisfactory, so little
+that is worth while can be deduced. It is possible that this source of
+heat may have an appreciable effect upon or serve to balance the
+earth's rate of cooling.
+
+
+Cosmical Radio-activity
+
+Meteorites of iron coming from other celestial bodies have not shown
+the presence of radium. Aerolites or stone meteorites have been found
+to contain as much as similar terrestrial rock. Since the sun
+contains helium and some stars show its presence as predominating,
+this suggests the presence of radio-active matter in these bodies. In
+addition, the spectral lines of uranium, radium, and the radium
+emanation have been reported as being found in the sun's spectrum and
+also in the new star, _Nova Geminorum 2_. These observations await
+further investigation and confirmation. So far as the sun's
+chromosphere is concerned, the possible amount of radium present would
+seem to be very small. If this is true, radio-active processes could
+have little to do with the sun's heat. The statement is made by
+Rutherford that indirect evidence obtained from the study of the
+aurora suggests that the sun emits rays similar in type to the alpha
+and beta rays. Such rays would be absorbed, and the gamma rays
+likewise, in passing through the earth's atmosphere and so escape
+ordinary observation. All of this is but further evidence of the unity
+of matter and of forces in the universe.
+
+
+
+
+INDEX
+
+
+  Actinium, discovery of, 6
+
+  Activity, induced, 17
+
+  Alpha particles, effect of loss on Atomic Weight, 45
+    electrical charge of, 26
+    form helium, 27
+    nature of, 25
+    penetrating power of, 39
+    position of element changed by its loss, 46
+    recoil, 39
+    scattering of, 38
+    solid, 26
+
+  Atom, constitution of, 36
+    Kelvin's, 37
+    models of, 37
+    Rutherford's, 37
+
+  Atomic number, determination of, 43
+
+
+  Becquerel's experiments, 2
+
+  Beta particles, change in position of element by loss of, 47
+
+
+  Chalcolite, natural and artificial, 4
+
+  Constants, table of, 31
+
+  Curie unit, 22
+
+
+  Disintegration of the element, 25
+
+  Disintegration series, 24
+
+  Disintegration theory, 35
+
+
+  Electroscope, 12
+
+  Equilibrium series, 22
+
+
+  Helium, characteristics of, 30
+    discovery of, 29
+
+
+  Ionium, discovery of, 6
+
+  Ionization, application of electric field to, 10
+    experimental confirmation, 9
+
+  Ionization of gases, 7
+    theory of, 8
+
+  Ions, size and nature of, 10
+
+  Isotopes, 47
+
+
+  Lead, atomic weight varies with source, 45
+    radio-active, 6
+    the end product, 45
+
+  Life-periods of radio-active bodies, 21
+
+
+  Periodic system, 41
+    basis of, 42
+
+  Polonium, discovery of, 4
+
+  Positive nucleus, influence of, 43
+
+  Potassium, radio-activity of, 3
+
+
+  Radiations, action on phosphorescent bodies, 13
+    action on photographic plates, 11
+    discharge electrified bodies, 12
+    magnetic deflection of, 14
+    measurements of, 15
+    penetrating power of, 13, 15
+
+  Radio-active bodies, elemental nature of, 20
+    examination of, 20
+    life periods of, 21
+
+  Radio-activity, an atomic property, 3
+    cosmical, 51
+    influence on chemical theory, 41
+    products in atmosphere, 51
+    products in earth's crust, 50
+    products in soil waters, 50
+
+  Radium, action on organic matter, etc., 33
+    amount in pitchblende, 5
+    discovery of, 5
+    emanation, 22
+    energy evolved by, 34
+    properties of, 5, 32
+
+  Rays, alpha, 15, 16, 26
+    beta, 15, 16
+    gamma, 15, 16
+    identification of, 16, 25
+    magnetic deflection of, 14
+    photographing track of, 10
+    types of, 14
+
+  Rubidium, radio-activity of, 3
+
+
+  Spinthariscope, 13
+
+  Stopping power of substances, 39
+
+
+  Thorium X, discovery of, 18, 21
+
+
+  Uranium atom, disintegration of, 36
+
+  Uranium minerals, radio-activity of, 3
+
+  Uranium X, discovery of, 17, 21, 23
+
+
+  X-ray spectra, 44
+
+
+  Zinc sulphide screen, 13
+
+
+
+
+TRANSCRIBER'S NOTES
+
+
+1. Passages in italics are surrounded by _underscores_.
+
+2. Images have been moved from the middle of a paragraph to the
+closest paragraph break.
+
+3. The original text includes certain Greek alphabets. For this text
+version [alpha], [beta], [gamma] indicate first three letters of Greek
+alphabet respectively.
+
+4. In this version, the number following carat character ^ is to be
+interpreted as follows. The expression 10^{-2} means multiplying by
+0.01; 10^{10} means multiplying by 10,000,000,000.
+
+5. In this version, the subscripted text has been replaced by an
+underline character _ followed by the same with curly braces { and }.
+For example, X_{1} indicates X with subscript 1.
+
+6. The fractions are indicated with the help of forward character /.
+For example, 1/4 indicates one-fourth.
+
+7. Other than the changes listed above, the original text has been
+reproduced as such.
+
+
+
+
+
+End of the Project Gutenberg EBook of A Brief Account of Radio-activity, by
+Francis Preston Venable
+
+*** END OF THIS PROJECT GUTENBERG EBOOK A BRIEF ACCOUNT OF RADIO-ACTIVITY ***
+
+***** This file should be named 32307.txt or 32307.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/2/3/0/32307/
+
+Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net (This file was produced from images
+generously made available by The Internet Archive/American
+Libraries.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
