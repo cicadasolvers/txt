@@ -1,0 +1,869 @@
+The Project Gutenberg EBook of Installation and Operation Instructions For
+Custom Mark III CP Series Oil Fired Unit, by Anonymous
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Installation and Operation Instructions For Custom Mark III CP Series Oil Fired Unit
+
+Author: Anonymous
+
+Release Date: February 25, 2009 [EBook #28166]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK OIL FIRED UNIT ***
+
+
+
+
+Produced by Gerard Arthus, Diane Monico, and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+INSTALLATION
+
+AND
+
+Operation Instructions
+
+FOR
+
+CUSTOM MARK III
+
+CP SERIES OIL FIRED UNIT
+
+
+MANUFACTURED BY
+
+AXEMAN-ANDERSON COMPANY
+
+300 East Mountain Avenue
+South Williamsport, PA 17701
+
+CPO2O--8410--5C
+
+
+
+
+INSTALLATION AND OPERATING INSTRUCTIONS
+
+CUSTOM MARK III
+
+CP SERIES OIL FIRED UNIT
+
+
+_GENERAL_
+
+The Custom Mark III CP Series Oil Fired Unit is a high quality heating
+unit that will provide many years of comfortable and economical heat if
+properly installed and given proper care. It is _IMPORTANT_ therefore that
+these instructions should be followed carefully.
+
+
+_SHIPMENT_
+
+The unit is completely assembled at the factory except for the following
+parts which are packed in a separate carton and strapped to the skids
+inside the shipping carton:
+
+    1 - 3/4" x Close Steel Nipple
+    1 - 3/4" x 3/4" x 1/2" Tee
+    1 - Fig. 105 Tridicator
+    1 - 3/4" No. 10-402-05 ASME Relief Valve
+    1 - 3/4" No. 600-19 Boiler Drain
+    1 - T87F-2055 Thermostat
+
+The jacket extension for 128CPO is shipped in separate carton.
+
+
+_DAMAGE IN TRANSIT_
+
+Upon receipt of shipment of this material, inspect all cartons for
+external damage. If external damage is noted, open the carton and
+inspect for damage to equipment. Mark the number of cartons received in
+this condition on the delivering carrier's waybill, and request the
+services of their inspector.
+
+If, upon opening a carton, concealed damage is discovered, open the
+entire shipment and note all equipment so damaged. Contact the
+delivering carrier and request inspection of the damaged equipment. Do
+not destroy the carton. The inspector from the freight company will need
+this to determine reason for damage.
+
+Normally claims for any and all damages should be filed with the freight
+company within five working days after receipt of shipment.
+
+All materials are sold F.O.B. Factory. It is the responsibility of the
+consignee to file claim with the delivering carrier for material
+received in a damaged condition.
+
+
+_LOCATING UNIT_
+
+_BEFORE REMOVING SHIPPING CARTON, LOCATE UNIT IN ITS FINAL POSITION_
+
+The carton is plainly marked so as to indicate which is the outlet
+burner end of the unit which is also the end where the return and flue
+are located. Clearance should be provided in both the front and rear of
+the unit for cleaning. Where possible it is good practice to locate the
+unit so its sides are parallel to the chimney flue. In all instances
+locate unit as near chimney flue as possible in order to avoid use of a
+long flue pipe.
+
+
+_REMOVING CARTON_
+
+Once the packaged unit is in its proper place, cut all around the carton
+on the scored line as shown on carton. The entire carton may then be
+lifted from the skids.
+
+If it is found necessary to move the unit a little more to place it in
+the exact location ready for piping, do so before removing skids.
+
+DO NOT PUSH AGAINST ANY PART OF JACKET OR OIL BURNER WHEN MOVING UNIT.
+TO MOVE UNIT, PUSH AGAINST _SKIDS, FLUE BOX OR SMOKE BOX_. PUSHING AGAINST
+JACKET WILL RESULT IN DAMAGE.
+
+
+_REMOVING SKIDS_
+
+The skids are specially designed for easy removal. It is necessary,
+however, to follow these instructions carefully.
+
+     A. After unit is in proper place, remove the two cross
+        pieces from skids by pulling out all scaffolding (double
+        headed) nails.
+
+     B. By inserting pinch bar or 2" x 4" underneath the smoke
+        box (rear of unit), tilt one side of unit just high enough
+        to lift lugs out of holes in skid, then knock skid out
+        from underneath unit. Then do the same thing on the other
+        side of unit. _THE UNIT IS NOT BOLTED TO THE SKIDS._ The
+        3/4" lugs welded to the unit simply fit into the 3/4"
+        holes in the skids.
+
++----------------------------------------------+
+|                                              |
+|                 IMPORTANT                    |
+|                                              |
+|  DO NOT TILT UNIT BY PUSHING AGAINST JACKET  |
+|                                              |
+|            IT IS NOT NECESSARY               |
+|                                              |
+|  AND BY DOING SO THE JACKET WILL BE DAMAGED  |
+|                                              |
++----------------------------------------------+
+
+
+_LEVELING UNIT_
+
+In case floor is uneven, unit may easily be made level by inserting
+shims under the 4 shipping lugs. These lugs also keep the jacket 1/2"
+off the floor, protecting it from wet floors and dampness.
+
+
+_PIPING AND WIRING_
+
+Once the unit is in its proper location with the packing carton, skids
+and packing material removed, it is ready for piping and connection from
+Room Thermostat and 110 V. 60 Cy. A.C. Current.
+
+
+_CONTROL SYSTEM_
+
+The controls furnished are for a one zone Forced Water System consisting
+of T87F Room Thermostat, L8124A-1007 Triple Acting Aquastat and
+Circulator Relay, C554A-1018 Cadmium Photocell, R8184G-1005 Burner
+Relay and V4046A-1009 Oil Valve. Description and complete wiring diagram
+will be found packed with each control.
+
+
+_SPECIAL CONTROL SYSTEMS_
+
+For special control systems such as multiple installations, zone
+controlled, unit heater, radiant panel, etc., write to factory for
+wiring diagrams.
+
+
+_CHIMNEY AND BREECHING REQUIREMENTS_
+
+The CP boiler should be connected to a vertical vent system that will
+prevent: (1) positive pressure in the flue, (2) backward flow of flue
+gas through the unit when the burner stops, and (3) condensation in the
+flue.
+
+Use double-walled or insulated pipe for sections of the flue in cold
+areas. All outside vents, except for short extensions, must be insulated
+to avoid condensation in the flue. Several types of prefabricated
+chimneys are available providing double-walled or insulated pipe, some
+with ceramic and others with metallic liners.
+
+While the unit is equipped with an induced draft fan, proper size vent
+must be provided to remove the gases of combustion. It is recommended
+that a 4" to 5" increaser be used for venting the 87CPO and 108CPO and a
+4" to 6" increaser be used for the 128CPO. For abnormal runs (exceeding
+10 ft.), consult factory.
+
+Vent and breeching must be gas tight by sealing with asbestos or
+thermo-setting pressure sensitive tape.
+
+
+_DRAFT REGULATOR_
+
+It is recommended that a draft regulator be installed in chimney flue
+_just below the flue pipe opening_, if the unit is attached to an
+extremely high chimney; an unlined chimney; or a chimney which is
+constructed on the exterior of the house.
+
+
+_CONTROLS AND TRIM_
+
+Controls are installed in place at the Factory. Attach thermo-altimeter
+in 1/2" tapping in top front of boiler. Install 3/4" x close nipple in
+3/4" top connection with 3/4" x 3/4" x 1/2" Tee. 3/4" Tee opening for
+installation of the relief valve and 1/2" opening for expansion tank.
+
+
+_WIRING_
+
+Controls are all in place and wired at the factory except connection to
+circulator.
+
+
+_REGULATING OIL PRESSURE_
+
+Standard nozzles furnished with the burner will produce the stamped
+rated capacity when used with Commercial Standard No. 2 Fuel Oil, and
+operated with a pressure of 100 lbs. per square inch. The standard
+setting of the fuel unit is 100 lbs. Due to difference in tank
+elevations, the pressure should be adjusted at the time of start up.
+
+
+_FUEL LINES_
+
+Care should be employed when attaching the oil lines to the fuel unit.
+Overtightening or twisting will twist the pump-motor mounting plate and
+put a stress on the motor bearings.
+
+
+_START UP PROCEDURE_
+
+General:
+
+     1. Make certain that correct voltage has been supplied to
+        motor and control circuit.
+
+     2. Insure that outside air openings are provided in the
+        boiler room for ventilation, and for admission of air
+        for combustion. The free area of such openings should
+        not be less than 7 square inch opening per 100,000 Btuh
+        burner input, or more as required by local codes.
+
+     3. Check to see that flue, wiring and water level are in
+        order.
+
+     4. Start burner fan motor to prime pump. If pump does not
+        pick up oil within a few minutes, prime the pump with
+        lubricating oil. Do not allow pump to run more than a
+        few minutes without additional lubrication.
+
+     5. Check oil pressure and adjust if necessary. (See
+        REGULATING OIL PRESSURE).
+
+     6. Set air shutters. (See ADJUSTING BURNER) Refer to Figure 1.
+
+     7. Generously lubricate the front motor bearing with SAE #20
+        oil.
+
+
+_ADJUSTING BURNER_ (See Figure 1)
+
+Positioning of the nozzle in relation to the face of the cone and the
+electrodes in relation to the nozzle are very important, also the face
+of the cone in relation to the face of the choke ring must be set
+according to the chart for each rate.
+
+If the air shutter openings are too large the oil may not ignite.
+
+     1. This setting will vary somewhat depending upon the grade
+        of oil being used or if No. 1 is used instead of No. 2.
+
+     2. The approximate burner air setting may be determined by
+        observing the fire through the observation port on the
+        front of the boiler. If the flame is smoky, the air shutter
+        should be opened until the fire burns clean, without any
+        trace of smoke. The flame should be bright yellow in color
+        with the tips of the flame turning orange. If the flame is
+        too white, reduce the amount of air admitted; and, if too
+        red or smoky increase the air.
+
+     3. Final adjustments should be made using a flue gas
+        analyzer to measure the CO_2 content of the flue gas and
+        a Bacharach model smoke meter or equivalent to determine
+        the amount of smoke (not to exceed a "TRACE").
+
+        For checking efficiency only the stack temperature and
+        CO_2 may be taken immediately after the fan and refer to
+        the standard efficiency charts for the results. Readings
+        of 5 to 8% taken after the fan correspond to 10 to 12%
+        taken in the rear uptake of the boiler.
+
+        The reduction in CO_2 reading in the flue is caused by
+        the air being drawn in around the motor shaft for cooling
+        purposes. The motor cooling air is at ambient temperature
+        and, therefore, does not add energy to or subtract energy
+        from the flue gas analysis, it only adds volume to the flue
+        gas. Therefore, applying this data to standard efficiency
+        charts will give a true indication of flue gas loss.
+
++---------------------------------------------+
+|                                             |
+|                  NOTE                       |
+|                                             |
+|  Final adjustment should be made after      |
+|  the burner has been firing continuously    |
+|  for at least 10 minutes, as the fan pulls  |
+|  less air when the flue gases are hot.      |
+|                                             |
++---------------------------------------------+
+
+
+A. CHECK LIMIT CONTROL
+
+Run the burner long enough to bring the water temperature up to at least
+190 degrees then turn the limit control setting until the burner stops.
+
++---------------------------------------------------+
+|                                                   |
+|                       NOTE                        |
+|                                                   |
+|  The Minimum limit setting for any hot water      |
+|  boiler should be 140 degrees F. in order to      |
+|  prevent corrosion of the flues on the fire       |
+|  side. The burner should be run with the primary  |
+|  control thermostat terminals jumpered and the    |
+|  burner controlled directly from an aquastat      |
+|  keeping the boiler hot all the time, thus        |
+|  eliminating the sweating of the flues on the     |
+|  fire side caused by starting from a cold start.  |
+|                                                   |
++---------------------------------------------------+
+
+
+_BELT ADJUSTMENT_
+
+The proper tension on the fuel unit belt drive is set at the factory.
+However, the belt should be checked periodically to see that the setting
+is maintained. To check setting, first, remove the belt guard and then,
+using fingers, compress the belt at a point midway between the sheaves.
+The proper setting at this point measured between the outer edges of the
+belt, should be between 1-3/4" and 1-7/8". If adjustment is necessary
+loosen the two mounting bolts, and move the fuel unit up or down to give
+the necessary belt setting. Then re-tighten the mounting bolts securely
+and replace the belt guard.
+
+
+_PERFORMANCE CHECK LIST_
+
+_QUESTION: What Causes Unit To Soot Up?_
+
+_Answers_:
+
+  1. Nozzles
+  2. Flame Impingement
+  3. Firing Head
+  4. Leaks
+  5. Improper Burner Settings
+  6. Lack of Normal Maintenance
+  7. Poor Ignition
+  8. Retention Ring Cokes
+
+_Definitions of Answers_:
+
+  1. Nozzles
+
+    A. Dirty
+    B. Wrong type of nozzle, or manufacturing defect
+
+  2. Flame Impingement
+
+    A. High CO_2
+    B. Diffuser and choke ring clearance not uniform
+    C. Dirty nozzle, or poor patterns
+    D. Leaks
+
+  3. Firing Head
+
+    A. Diffuser and choke ring clearance not uniform
+    B. Diffuser and choke ring face dimension out of tolerance.
+        (See A Dimension, Figure 1)
+    C. Dirty fuel systems
+
+  4. Leaks
+
+    A. Induced fan gasket, or burner gasket improperly sealed
+    B. Front cover assembly improperly installed or sealed
+
+  5. Improper Burner Settings
+
+    A. Unit not checked out completely by the serviceman
+    B. Flame pattern erratic (Not concentric). Burner set up by
+       CO_2 only (Burner should be set up by CO_2, smoke and visual
+       observation.)
+
+  6. Lack of Normal Maintenance
+
+    A. Self explanatory (Recognition of the advantages of preventive
+       maintenance).
+
+  7. Poor Ignition
+
+    A. No delay in oil valve, unit flutters on start up.
+    B. Electrodes out of position
+    C. Too much combustion air (Air shutter open too wide)
+
+  8. Retention Ring Cokes
+
+    A. Defective nozzle
+    B. Cone, choke and nozzle out of adjustment (See Figure 1)
+    C. Fluttering starts
+
+
+_DOMESTIC HOT WATER_
+
+In order to obtain the rated capacity of the instantaneous domestic hot
+water coil limit control should be set to maintain 200 deg. F boiler water
+temperature.
+
+Flow regulator and tempering valve should be installed on all
+instantaneous domestic hot water coil systems.
+
+
+_BURNER SETTING_
+
+The burner is adjusted at the factory before shipment but in case of
+improper operation at some future date Figure 1 will show proper
+setting. In all cases the flame retention ring should be concentric with
+the choke.
+
+[Illustration: FIGURE 1]
+
++--------+----------------+-----------------------+--------+---------+
+| MODEL  | NOZZLE         | CHOKE RING            |  "A"   |  I. D.  |
+| NO.    | DELAVAN SIZE   | NO. & DIAMETER        |  DIM.  |  VANES  |
++--------+----------------+-----------------------+--------+---------+
+| 87CPO  | 1.25 GPH 70 deg. A | 142640-002  2-5/8 D   | FLUSH  | 2-25/32 |
+| 108CPO | 1.65 GPH 60 deg. A | 142641      2-31/32 D | -3/16" | 2-25/32 |
+| 128CPO | 2.00 GPH 70 deg. A | 142641-003  2-31/32 D | +1/4"  | 2-29/32 |
++--------+----------------+-----------------------+--------+---------+
+
+[Illustration: (parts listed counter-clockwise from left side)
+
+Tubes
+37CP19
+08CP19
+728CP19
+4CP25
+40624
+144539
+134955
+144538
+131798
+131651
+140734
+142743
+R8184G
+V4046A-16
+1R111B-1BP
+140611
+141741
+144691
+141740
+MM1163
+141646-G03
+140606]
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Installation and Operation
+Instructions For Custom Mark III CP Series Oil Fired Unit, by Anonymous
+
+*** END OF THIS PROJECT GUTENBERG EBOOK OIL FIRED UNIT ***
+
+***** This file should be named 28166.txt or 28166.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/8/1/6/28166/
+
+Produced by Gerard Arthus, Diane Monico, and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
