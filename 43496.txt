@@ -1,0 +1,2407 @@
+The Project Gutenberg EBook of Sphinx Vespiformis, by Edward Newman
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Sphinx Vespiformis
+       An Essay
+
+Author: Edward Newman
+
+Release Date: August 18, 2013 [EBook #43496]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SPHINX VESPIFORMIS ***
+
+
+
+
+Produced by Chris Curnow and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+
+
+
+
+Transcriber's Note: Minor typographical errors have been corrected
+without note. Irregularities and inconsistencies in the text have
+been retained as printed. Words printed in italics are noted with
+underscores: _italics_. The cover of this ebook was created by the
+transcriber and is hereby placed in the public domain.
+
+
+
+
+SPHINX VESPIFORMIS:
+
+
+AN ESSAY
+
+
+BY
+
+EDWARD NEWMAN.
+
+
+    "All are but parts of one stupendous whole,
+    Whose body Nature is, and GOD the soul."
+
+
+LONDON:
+FREDERICK WESTLEY & A. H. DAVIS,
+STATIONERS' HALL COURT.
+1832.
+
+LONDON:
+
+PRINTED BY R. CLAY, BREAD STREET HILL,
+CHEAPSIDE.
+
+
+
+
+      TO
+      HIS HIGHLY-ESTEEMED FRIEND,
+      BRACY CLARK, ESQ.
+      FELLOW OF THE LINNAEAN SOCIETY OF LONDON,
+      MEMBER OF THE ROYAL INSTITUTE
+      OF FRANCE,
+      &c. &c.
+      _THIS LITTLE ESSAY_
+      IS
+      DEDICATED
+      BY
+                  THE AUTHOR.
+
+
+
+
+PREFACE.
+
+
+The question--What was the Sphinx Vespiformis of Linnaeus?--is one that
+has occurred to almost every entomologist. It seemed rather strange
+that Linnaeus should have described, in all his works, an insect which
+had no existence; yet that really appeared to be the case. Laspeyres,
+the clever monographer of the _Europaean Sesiae_, previously to the
+appearance of that work, wrote to my highly valued and ingenious
+friend, Mr. Clark, requesting that he would investigate and describe
+for him the real Linnaean specimen of Vespiformis which was in the
+Linnaean cabinet, at that time in the possession of the late Sir J. E.
+Smith. Mr. Clark not only described the specimen in question, but
+employed that excellent artist, Sydenham Edwards, to make a drawing of
+it, which was forthwith forwarded to Berlin. Laspeyres exclaims--"_Sed
+quod spectaculum!_--_Sesia asiliformis erat_."[1] This was too much to
+believe; the search was given up as hopeless, and the existence of the
+Linnaean Vespiformis was pretty much considered a fable. On making some
+inquiries, a few months back, about the species of AEgeria, the total
+loss of one out of the three Linnaean species appeared a little
+unaccountable; and seeing the name of my friend in Laspeyres' work, in
+the note above referred to, I determined to have recourse to him, as
+the best authority on the subject. Mr. Clark, with the greatest
+kindness, at once accompanied me to pay a visit to the said Sphinx,
+now in possession of the Linnaean Society: we instantly, on seeing it,
+fell in with the decision of Laspeyres--"_Sesia asiliformis erat_;"
+yet it agreed excellently with the character which Linnaeus had
+assigned to Vespiformis: "_Alis fenestratis; abdomine barbato nigro;
+incisuris tribus posterioribus margine flavis: capite annulo
+flavo_."[2]--No character could be more correct; the specimen was
+labelled in the handwriting of Linnaeus, and the fenestrated wings
+merely arose from the specimen being exceedingly wasted. The fact was
+decided: the proof is open to all; and the existence of Sphinx
+Vespiformis must henceforth cease to be a fable.
+
+          [1] Sesiae Europeae, p. 18. Obser.
+
+          [2] Linn. Syst. Nat. T. I. Pars. II. p. 804.
+
+To ascertain the place among insects, or even animated beings, which
+this Sphinx Vespiformis naturally occupies, I have attempted in the
+following pages.
+
+The SYSTEMA NATURAE has for years been the object of my most diligent
+search; but the idea which I have here taken of the subject is
+scarcely a month old. An anxiety to hear the opinions of others has
+urged me to scribble these few pages, with, I fear, far more haste
+than good speed; for it has happened that other engagements have
+prevented my affording them any time but that usually devoted to
+repose: so that the rapid and careless manner in which the sketch has
+been drawn, must be my apology for the very imperfect state in which I
+now offer it to the public. I feel, however, a firm conviction that my
+theory is too near an approach to truth, to suffer from any garb,
+however slovenly, in which I may have dressed it.
+
+I must for the same reason here observe, that I will in no way pledge
+myself to the infallibility of the precise points of contact hereafter
+proposed, nor shall I notice any attempts which may be made to
+invalidate the principle of my theory, by appealing to such trivial
+inaccuracies. Feeble efforts of this kind are naturally and very
+excusably called forth by a feeling of disappointment at the sudden
+destruction of favourite and long-cherished theories: skilfully
+managed, they often throw a momentary shade over truth, but never can
+extinguish it; he, therefore, who is confident in having truth on his
+side, would be acting ungenerously to quarrel with them.
+
+To conclude--for many excellent suggestions, and the kind and
+continued interest which he has taken in the progress of this little
+Essay, I embrace this opportunity of publicly acknowledging my sincere
+thanks to my esteemed friend, Mr. Edward Doubleday; feeling, however,
+that such thanks are a very inadequate return for his invaluable
+assistance.
+
+DEPTFORD, _January 25, 1832_.
+
+
+
+
+ERRATA.
+
+
+Page 14, line 27, _for_ I will suppose them, _read_ I will suppose, then,
+     41,       6, _for_ Lasciocampa, _read_ Lasiocampa
+     41,      23, _for_ of each, _read_ on each
+     42,       4, _dele_ previously
+     44, _note_, _for_ Lithosia, _read_ Lithosiae
+     52, line 33, _for_ Phalaenae, _read_ Phalaena
+     52,      38, _for_ kaned, _read_ naked
+
+
+
+
+SPHINX VESPIFORMIS.
+
+_&c._
+
+
+ON THE PRIMARY DIVISION OF NATURE.
+
+Any attempt to overthrow existing systems, originally devised and
+unanimously approved by men of superior talents and great acquirements,
+should not only be made but received with the greatest possible
+caution; but when, as in the arrangement of the objects of natural
+history, there exists no universally received plan, but each
+systematist has, for a few months, or at most, years, his little circle
+of immediate followers and admirers, one thing must be obvious,--that
+the true system is yet undiscovered; and, therefore, surely it is
+competent to every one, however unqualified, to try his hand at the
+task: that the true system has not been discovered, is admitted by Mr.
+MacLeay, the only individual who has made any thing like an approach to
+it; for, in the preface to the _Annulosa Javanica_, which appeared
+subsequently to the _Horae Entomologicae_, in which his circular and
+quinary system is proposed, he acknowledges, that, "as yet, we have not
+even arrived at the threshold of nature's temple."
+
+Some individuals would, I believe, argue that no fixed system or plan
+prevails in nature, but that each individual species exists quite
+independently of, and unconnected with all the rest; others, again,
+allow that there is a system, but without any other division than that
+of species; thus theoretically disallowing those plain and universally
+intelligible groups, which we term beasts, birds, fishes, and insects.
+It seems to me highly improbable that a Creator, who has, with such
+unerring wisdom, adapted means to their destined ends, should have
+performed any part of the mighty work of creation without a fixed and
+perfect design. If we consider that no muscle, tendon, or vein,
+however minute, whether in man, the highest, or in those animals which
+may be reckoned the lowest grade among created beings, but has
+functions appointed for it regularly to perform, and that no single
+portion of our frame can be parted with, without occasioning us
+inconvenience, it seems fair to infer, that no single atom, or no one
+created thing, exists without filling some appointed place in a great
+and perfectly organized and arranged whole; however far that whole
+may, and must be, above our limited understandings. To doubt the
+existence of a natural system appears to me to be precisely equivalent
+to doubting a creation; for one cannot conceive the various tribes of
+animals to have received their being at the hands of an Omnipotent
+Creator, and yet to be indebted, at the same time, to chance for those
+gradual shades of difference from each other, which are found so
+harmoniously blending group into group, that the practised naturalist
+may follow up the same peculiarity of habit or structure, however
+varied in its development, from one to the other of the most opposite
+beings which you can place before him. Infinitely varied, however, as
+the course of such a peculiarity must be, the naturalist never finds
+those sudden departures from the regular flow of variation, which all
+systems, even the most approved, are constantly exhibiting; the reason
+of which is, that, in thus tracing approaches in his mind, he will
+continually discover an individual completely surrounded by others,
+each of which partakes of its peculiarities, not only in a different
+degree, but in a different mode; and thus he will perceive the
+character on which his attention has been fixed, ramifying in all
+directions. Now no system, hitherto suggested, will at all cope with
+this; it has been the plan, and I imagine the fault of all our
+systems, that they are so constructed as to be incapable of receiving
+a character from, or imparting it to, more than a single individual:
+hence they never can possess capacity sufficient to exhibit those
+endless chains of relation which the mind so luxuriates in tracing.
+The want of such a system has been, I believe, universally
+acknowledged, and should my humble endeavour even prepare the way for
+its establishment, and act the mere part of a herald to proclaim its
+approach, I shall not only be satisfied, but delighted.
+
+I cannot here plough my toilsome track through the wild waste of
+systems and speculations, which have embarrassed, rather than
+assisted, natural history during the last hundred years; my aim will
+be more to make myself understood than comment on the merits of
+others, except as I can lay them under contribution to enhance my own.
+
+Previously to the publication of Mr. MacLeay's _Horae Entomologicae_, it
+appears to have been an opinion universally prevalent, that there
+existed in nature a regularly graduated scale of beings, beginning with
+man as the most perfect, and terminating in the least perfect creature
+known to possess life. One ingenious author had varied a little from
+this theory by allowing a double series to nature's works, which
+commencing on a level with the most perfect animal and most perfect
+plant, descended gradually and approached as they descended, until they
+met in those jelly-like substances which seem yet to hover between the
+two kingdoms, puzzling naturalists by their proximity to both--the
+system thus assuming the shape of the letter V.[3]
+
+          [3] The system of Lamarck.
+
+However convenient for the formation of a catalogue, or the
+arrangement of a cabinet, such a system may be; and however
+inconvenient or impracticable any other conceivable plan may appear, I
+think few will concur in imagining man capable of, or warranted in,
+thus setting up limits and boundary-marks to the works and power of
+his Maker; for the next step, as a matter of course, would be the
+application of similar restrictions to infinite space, which he might
+as reasonably expect to bring under his sapient admeasurement.
+
+Our country has the credit of having first sapped the foundation of a
+building, which, though by its founder[4] termed a commodious and well
+covered house, could not retain religion or reason among its inmates;
+indeed, the illustrious Swede was himself the first to see and to know
+that his mansion, however commodious, was built but on the sand; but
+knowing its imperfections, he cared not to alter them: he thought it
+enough to acknowledge without striving to amend them; in fact, he
+really seems to have considered the natural system, like the
+philosopher's stone, a mere _ens imaginationis_, the pursuit of
+which would be but a waste of time: he doubted not its existence, but
+he doubted man's ability to discover it.
+
+          [4] Linnaeus.
+
+Such was natural history when Mr. MacLeay's immortal work first
+diffused its splendour over the world. The power of thought, the
+profound research which he there exhibited, and the confession that
+"he was one of those who preferred an imperfect transitory glimpse of
+nature pure and unveiled, to a full view of the most commodious and
+ostentatious mantle that could be employed to conceal her features
+from the gaze,"[5] were such novelties in the science, that men
+scarcely credited their understandings: they began thinking, and have
+continued to think until the term naturalist is not, as it was but a
+short time back, immeasurably separated from that of philosopher. The
+extraordinary merit of the _Horae Entomologicae_ consists, not merely in
+disclosing and elucidating the invaluable fact, that a series of
+affinities, naturally arranged, has a constant tendency to describe a
+circle which eventually returns into itself: a still more important
+feature of the work is, that unceasing and determined endeavour
+evinced by its learned author to seek after, weigh, and examine facts,
+and to employ these alone in the support of his theories,--an
+endeavour indicative of that only true spirit of philosophy which has
+and can have no other end in view than the establishment of truth.
+
+          [5] Horae Entomologicae, preface, p. xxiv.
+
+That I suppose Mr. MacLeay to have mistaken the number which nature
+has adopted in the combination and distribution of her various
+tribes--that I totally dissent from his idea of analogies and
+affinities, and from his division or rather adoption of Clairville's
+division of insects into mandibulate and haustellate, will be
+sufficiently evident from the contents of this little Essay; but in
+these and all other instances, in which I feel myself bound to
+disclose any difference of opinion which may tend to reveal or
+establish truth, I hope I shall always be found urging my objections
+with the deference due to an author from whose works I have extracted
+many important facts, and the still more important discovery which
+forms the ground-work of my own theory.
+
+That nature has a decided tendency to the formation of circles, I
+cannot for one moment doubt. If there be yet doubters on that
+subject,--if there be yet those who deem the discovery of Mr. MacLeay
+a mere invention of his own, let them consider the plan of the
+universe, as established by the celebrated Newton,--let them behold
+the glorious sun, a circular centre of light and life; let them
+observe the circular attendant worlds, which revolve in circles about
+him, and which are themselves attended by circular moons, whose
+progression is still in circles: the very days of the year, a varied
+effect of the same universally operating cause, proclaim the existence
+of a circle, by lengthening and shortening until they arrive at the
+very day from which our observations began. These facts, these
+unquestionable facts, while they beautifully illustrate the existence
+of circles in the grand primary distribution of nature, point quite as
+decidedly to another conclusion, which it is my aim also to
+establish--that there is a tendency universally developed, in a
+greater or less degree, in all minor or less important circles to
+arrange themselves round major or more important ones. Systematists,
+although fully allowing the existence of this tendency in this the
+primary or highest system of nature which human intellect has hitherto
+been able to grasp; yet its application in detail to the systematic
+arrangement of the numerous objects of natural history has hitherto
+been totally neglected. It can hardly be supposed that the idea has
+never occurred to any of the illustrious writers who have devoted
+their time and talents to this interesting subject: it has most
+probably occurred, and been rejected as insupportable. It may perhaps
+be, that the apparent difficulty of arranging the objects of natural
+history thus, as it were, in a mass, has operated somewhat against the
+proposal or adoption of a plan like the present; but if we come to
+consider the question with the cool deliberation which an inquiry of
+this kind requires, I trust it will be generally considered that our
+first object is to discover, if possible, nature's plan; our second to
+adapt it to our own artificial ideas. Should the present, or any
+future scheme, prove incontrovertible,--and incontrovertible the real
+system of nature must be, whenever discovered,--it will then be high
+time to meditate on the best plan of rendering it serviceable to
+ourselves, and available to science; and objectors on this score must
+please to recollect that the calculations for eclipses, and other
+important astronomical phenomena, experienced any thing but delay or
+difficulty from Newton's development of the true solar system. Be the
+system of nature discovered when it may, it will never be found that
+_Appia Via_ which Linnaeus has made it out to be, but rather like the
+Cretan labyrinth, and whoever may happen to be the fortunate Theseus,
+must undertake the task of showing the way to his competitors, until
+it becomes so well known, that a map of the road[6] may be drawn for
+the use of all.
+
+          [6] A systematic catalogue.
+
+It being then incontrovertibly established, that nature possesses, on
+the grand scale, two tendencies; one, the formation of globes or
+circles, the other, the disposition of inferior creations to cluster
+round superior ones, is it too great a presumption to imagine
+tendencies thus exhibited in the creation and government of worlds, as
+in some degree typical of the design from which universal nature has
+been modelled? Is there the least violation of probability in supposing
+the great and beneficent CREATOR the centre of HIS works, and from the
+centre pervading and upholding HIS wonderful and stupendous creation?
+And again, may not minor centres typify those beings on whom HE has
+been pleased to bestow a marked superiority over those around them?
+Such an one is man, of whom it is said, "In His own image created he
+him."[7]
+
+          [7] Genesis i. 27.
+
+I will suppose them a system composed of an immense multitude of
+material beings, organic and inorganic, animate and inanimate,
+revolving in circles around the central, everlasting abode of that
+Providence who created, pervades, and upholds them, and can, by the act
+of HIS will, either annihilate or create anew,--a supposition much more
+readily admitted than rejected; and, although not positively proved,
+yet incapable of disproof from man's researches. I will further suppose
+the minor circles occasionally clustering round major ones; yet I am
+still in want of some number by which to allot to these circles their
+respective stations, and give something like a primary arrangement to a
+multitude that would be, without such an assistance to man's capacity,
+an utter wilderness of beings; and here it will be perfectly useless to
+devise or invent: the only right plan is carefully to examine all
+authority within our reach, and steadfastly endeavour to discover
+truth.
+
+No authority on this subject can be equal to the Scriptures; and there
+we find the number seven always used as a number of greater importance
+than any other;--the six days of creation, and the seventh day of
+rest, from that time more or less observed as a holy or superior day,
+by divine command,[8] is the first and one of the most remarkable
+instances: I need merely mention the seven clean animals which Noah
+was commanded to take into the ark, the seven plagues, seven years of
+famine and of plenty, and that more than two hundred other instances
+occur in the Old Testament. In the New the number seven occurs still
+more remarkably: as seven golden candlesticks, seven churches, seven
+angels, and seven spirits of God. I need scarcely go further; but
+being able to adduce the opinions which have been avowed by the
+greatest naturalists that have ever lived, I rejoice to strengthen my
+own opinion by such high authorities. M. le Baron Cuvier, in a paper
+published in 1795, divided all invertebrate animals into six groups,
+the vertebrates forming the seventh.[9] Our eminent countryman, Mr.
+Kirby, observes: "The number five, which Mr. MacLeay assumes for one
+basis of his system, as consecrated in nature, seems to me to yield to
+the number seven, which is consecrated both in nature and in
+Scripture. Metaphysicians reckon seven principal operations of the
+mind; musicians seven primary musical notes; and opticians seven
+primary colours. In Scripture the abstract idea of this number is
+fulness, completeness, perfection. I have a notion, though not yet
+sufficiently matured, that Mr. MacLeay's quinaries are resolvable into
+septenaries."[10] Our own observation will speedily convince us, that
+most groups of animals with which we are tolerably well acquainted are
+divisible into seven; we shall never find the number greater, and when
+less, we shall invariably perceive that the deficiency exists in
+groups of which our knowledge is particularly limited, for the
+perfection of a septenary distribution of any particular group will
+depend entirely on our acquaintance with that group: thus the groups
+at present known by the names Mammalia, Aves, and Insecta, resolve
+themselves instantly into sevens. No ingenuity can frame eight good
+groups of either, and no scheme, however plausible, can reduce the
+number to sixes or fives. An attempt to reduce birds into five groups
+has been made in this country; I cannot do better than refer the
+reader to it as a triumphant confirmation of the predominance of the
+number seven.[11] The great Linnaeus assigned to Mammalia seven orders,
+to Aves six, and to Insecta seven, in a system which, though capable
+of improvement in many of the orders, evidently points to the truth,
+and considering his limited means of reference, compared with what the
+naturalist now possesses, was a remarkable and magnificent monument of
+human talent.[12]
+
+          [8] Genesis ii. 3.
+
+          [9] Translation of Cuvier by Griffith, Vol. I. p. 64, note.
+          Cuvier has since adopted the number four.
+
+          [10] Introduction to Entomology, Vol. III. p. 15, note.
+
+          [11] By Mr. Vigors. Linnaean Transactions.
+
+          [12] It will be observed that in the Mollusca, Radiata, and
+          Acrita of MacLeay, all attempts to employ a particular
+          number in grouping will be found futile, a circumstance
+          obviously attributable to our ignorance; and the only
+          conclusion to be drawn from it is this: that, as these
+          tribes can never be rendered available for any numerical
+          distribution, so they can never be fairly and satisfactorily
+          adduced in refutation of such a distribution.
+
+To go back two thousand years before the birth of Linnaeus, may be
+thought rather an unlikely mode of obtaining proof of the value of a
+modern theory in natural history; yet at that time we find a system of
+insects[13] divided so accurately into seven groups, that every attempt
+to improve it has, as far as regards these great groups, proved an
+utter fallacy. Now this array of names, Aristotle, Linnaeus, Cuvier and
+Kirby, thus corroborating Holy Writ, even in direct opposition to our
+own observations, is entitled to a good degree of confidence; but how
+much more cheerfully is that confidence given when our own unbiassed
+judgment must thoroughly coincide!
+
+          [13] That of Aristotle.
+
+Presuming, therefore, that a septenary and circular arrangement, with
+one seventh superior to the others, does exist in nature, its first
+application must necessarily be made to the result of the six days'
+creation, which I consider as typifying six grand groups of matter,
+and the seventh--the day of rest, emphatically commanded to be kept
+holy--that Omnipotence who created and presides over the stupendous
+work.[14]
+
+          [14] I am fully aware that this part of the subject is far
+          above the comprehension of man, and felt exceedingly
+          reluctant to carry system farther than the two great
+          groups--animals and vegetables; but alluding, as I am
+          compelled to do so frequently, to the works of Mr. MacLeay,
+          I was fearful lest my silence on this particular subject
+          should be construed into consent. See _Horae Entomologicae_,
+          p. 179.
+
+To trace nature from the trivial differences which may distinguish
+between two kindred mosses--differences scarcely to be detected by the
+practised eye of the botanist--upwards to the grand grouping of
+organized matter, into kingdoms containing myriads of such
+species,--to define accurately major and minor divisions, and assign
+to each division, and each individual, its appropriate place in an
+enduring system, is a task, in all probability, far beyond the mental
+powers of any single individual, especially when we consider the
+interesting facts and fresh objects which are daily added to our store
+in such number as must convince the student that as yet he scarcely
+possesses a knowledge of one hundredth part of nature's works;[15] but,
+to pencil a dim and dubious outline,--to suggest whether nature has
+not aimed at such and such conclusions,--whether she has not chosen
+such and such paths, without making the slightest attempt to bend or
+turn her aside from her course where it does not precisely coincide
+with his own artificial schemes, may be fairly claimed as the
+privilege of any of her students, and ought to be freely granted to
+him by his fellow-labourers.
+
+          [15] In Britain we labour under another difficulty in this
+          respect, a difficulty which has proved beyond measure
+          mortifying during the progress of the present essay,--the
+          want of a national museum.--A private individual cannot be
+          expected to sacrifice all his time and money in procuring,
+          preparing, and arranging, a tolerably perfect collection; a
+          writer on natural history is, therefore, compelled to travel
+          round to two or three hundred private collections, and
+          solicit leave to make his memoranda. Few men of taste can
+          regret the purchase of the ancient works of art now open to
+          the public at the British Museum; but the immense sums of
+          public money granted to that institution should insure the
+          naturalist a similar treat with the artist. A collection of
+          vertebrate and annulose animals should be immediately
+          formed, arranged, and named after Cuvier, Latreille, or the
+          most approved authority of the day. Among the insecta, I
+          have no doubt a tolerably perfect--certainly, a very
+          useful--collection might with little trouble be made from
+          the specimens already in the Museum.
+
+In looking for a centre around which to arrange the almost infinite
+hosts of the animal kingdom, the vanity of man naturally enough
+suggests himself; but to gratify this vanity, he must submit to the
+somewhat mortifying necessity of admitting six families of apes and
+monkies to his immediate company, and the tribe thus constituted may
+be termed Primates,--a name originally conferred on it by Linnaeus.
+Anatomy, as well as external appearances, prove the propriety of this
+arrangement, however repulsive the idea may be to our false feelings
+of exclusiveness. Primates thus constituted, will be found to be the
+central seventh of a larger group, termed Mammalia by Linnaeus; a
+group, which includes all the truly viviparous and mammiferous
+animals. Amongst the outermost of these, as we retrograde gradually
+from the type, man, we shall find a bird typified in the bat; a shark
+in the seal; many other fish in the whale; a tortoise, crocodile, and
+slender lizards, in the armadillos, ant-eaters, &c., all thus
+exhibiting a tendency to borrow characters from other approaching
+groups. Mammalia, thus surrounded, must of necessity be the central of
+seven groups, within the compass of which will be found all animals
+which possess a frame of connected bones and a spinal marrow; these
+are termed Vertebrata, and, I think, will be found to constitute a
+central seventh of all animated nature.
+
+From this it will be apparent, that there are in nature forty-nine
+groups of animals, each of about the same value as Mammalia, as far as
+regards their relation to a whole. Distrustful of my own very limited
+knowledge of the subject, and fearful of encumbering science with
+crude theories and ill-defined divisions and characters which future
+discoveries may hereafter totally subvert, I shall content myself with
+observing, that I believe in the existence of such groups, and shall
+not presume to give them, at present, definitions or even names: the
+charge of ignorance is merited and easy to be borne, but the charge of
+attempting to establish divisions, in order to secure the paltry fame
+of naming them, I hope not to deserve.
+
+In some instances, these tribes or sub-kingdoms seem pointed out by
+nature's self in so decided a manner, that the lisping infant will at
+once recognise them. Where this is the case, what can definition
+avail? Let us refer to birds as one of these clearly marked divisions.
+I single it out as better understood than either of the others. Let us
+ask, To what does all the arrangement tend which has here been so
+lavishly bestowed? To utter confusion, volume after volume, essay
+after essay, open their yawning leaves, and repeat, again and again,
+one and all, utter hopeless, unintelligible confusion. But if,
+neglecting the high authorities on the subject _in toto_, we
+condescend to consult nature, we shall soon perceive that birds
+readily range themselves in seven good and clearly defined groups; one
+of which is preeminently distinguished from the rest, and yet partakes
+in some one or other of its component genera of the characters of all
+the other groups; such a sub-class must, therefore, be central; and,
+by a little care in availing himself of the most obvious approaches,
+the naturalist will find every other sub-class, and order, and genus,
+beautifully filling up their appropriate situations, without causing
+any of those distortions which so disfigure every existing arrangement
+of this interesting tribe. Syrrhaptes, Serpentarius, and all those
+hitherto parodoxical creatures which seem to have frightened our
+ornithologists out of their wits, are now not only admissible, but
+absolutely necessary to connect tribes which no one had previously
+supposed in the least degree related;--but I will not here forestall,
+as an attempt to point out the numerous and unlooked-for relations
+existing among the genera of birds, which the present plan has served
+to develop, forms the subject of a separate essay, already in a state
+of forwardness; and the more immediate object of my present inquiry,
+although a tenant of the air, is not to be sought for among its
+feathered tribes. I will, therefore, leave these for the present,
+fully intending that the ornithologist as well as the entomologist
+shall have an opportunity of examining whether my theory has truth and
+reason to support it, or whether he must condemn it as an _ignis
+fatuus_ of the brain.
+
+The law that rules animal rules also vegetable nature: the phaenogamous
+plants present a centre very nearly corresponding, in relative value,
+to vertebrates among animals; these, again, offer equal scope for
+subdivision; and the surrounding vegetations must be those at present
+termed cryptogamous, which vary as greatly among themselves as they
+collectively do from the more perfect and central ones: the various
+tribes of Fungi, Algae, Filices, Musci, &c., possessing wonderfully
+varied forms and characters, and assuming every size from the gigantic
+fern of the tropical islands to that almost invisible Mucor, which
+seems, by its instantaneous appearance, to be for ever floating in the
+air, prepared to vegetate wherever it may chance to fall, and has
+often afforded arguments to those who deny the dictum of _omnia ex
+ovo_, and support that of spontaneous reproduction; thus ennobling
+these almost nonentities, by assigning to them properties which man
+might pine for in vain, and which cannot be the attributes of dust.
+
+The centre for each particular group will not always derive that mark
+of superiority from its size, or intelligence, or beauty, or
+complicated structure, but from a combination of these qualities, and
+more particularly from uniting in itself the principal and more
+decidedly distinguishing characters of the group of which it forms the
+nucleus, and the gradation will by no means be found to be regular,
+from the most perfect in the centre to the least perfect on the
+circumference of minor groups, although I imagine this relative
+position to obtain in the extremes: on the contrary, the approaches
+towards perfection or imperfection will be infinitely varied,
+presenting the most complete labyrinth of intricacies that imagination
+can conceive, yet all disposed with that beautiful and wonderful
+regularity which proclaims more loudly than words, that "the natural
+system is the plan of creation itself, the work of an ALL-WISE
+ALL-POWERFUL DEITY."[16]
+
+          [16] Horae Entomologicae, preface, p. xiii.
+
+
+ON THE CLASSES OF INSECTA.
+
+Many theories, which read plausibly enough, we find, on attempting to
+apply them, totally at variance with facts: I will, therefore, not
+content myself with making unsupported assertions, but endeavour to
+summon to my aid fragments of the great whole, and array them before
+the reader, in what I consider order, asking of him, as an especial
+favour, that he will examine and compare the genera and species which
+I shall mention as related to each other in corroboration of my
+scheme; for much as I could wish by argument to convince him that a
+system of circles, grouped in sevens, exists universally throughout
+nature, yet I should much prefer that, by actual experiment, he should
+convince himself. With this view I will take a rapid survey of the
+central class[17] of Insecta, observing in what particulars it is
+related to those which surround it. I have selected insecta first
+because I already possessed a slight knowledge of its contents;
+secondly, because there exists little difference of opinion as to
+those contents;[18] and, thirdly, because Mr. MacLeay has given it as
+his opinion "that it is among insects above all other groups of
+animals, that owing to their myriads of species, the mode in which
+nature's chain is linked--a mode, the knowledge of which comprises all
+knowledge in natural history, will be most evident, and therefore most
+easily detected."[19]
+
+          [17] I have invariably used the term class, to designate the
+          orders of Linnaeus, and sub-class, for the next division, of
+          which seven are supposed to exist in every class: these
+          sub-classes may sometimes constitute natural orders, in
+          which case a plural termination is given; thus, Blatta
+          constitutes in itself a sub-class Blatta, a natural order
+          Blattae, and a genus Blatta; but generally a sub-class will
+          contain seven natural orders; as sub-class Scarabaeus
+          contains natural orders--Lucani, Coprides, Scarabaei,
+          Histeres, &c.
+
+          [18] The only question as to the contents of insecta, is,
+          whether the pediculi are true insects or not; the class
+          Hemiptera is so closely related to them, that I cannot think
+          it a great violation to place them in the outermost circle
+          of that class; the acari may be supposed meeting them in an
+          adjoining circle, but I have no desire to provoke
+          controversy on this minor point.
+
+          [19] Annulosa Javanica, preface, p. xi.
+
+[Illustration: THE CLASSES OF INSECTA.]
+
+It is somewhat remarkable that, although considerably upwards of two
+thousand years have elapsed since the first system of insects was
+promulged, at least the first of which we have any knowledge, yet no
+attempt has hitherto been successfully made to improve it; from this
+perfection I think we may fairly conclude, that the philosopher of
+Stagira was not merely a man of extraordinary talent, but that he had
+made himself the repository of what had previously been saved of the
+learning of his forefathers, in a day when it will be recollected the
+printing press had no existence; and we have nothing to prove that
+entomology had not degenerated through the two thousand years previous
+to Aristotle, as it unquestionably did during the two thousand years
+subsequent to the time of that philosopher, when our own immortal
+countryman, Ray, revived the science, and laid the foundation of a
+regenerated lustre, which, perhaps, may eventually rival that diffused
+by the great Stagirite himself. Be this as it may, the systematist has
+no choice but to go back two thousand years for the primary outline,
+or classification of insects; and, I may add, nothing but a desire to
+make myself clearly understood, prevents my adopting the nomenclature,
+as well as the division of Aristotle. I shall, however, employ the
+more modern and less appropriate names for the present, hoping that at
+a future day an opportunity may occur of doing justice to the merits
+of that writer, whom we are all compelled to follow, or to forsake the
+path of truth.[20]
+
+          [20] The learned authors of the _Introduction to Entomology_
+          have inserted a sketch of the Aristotelian system in that
+          work, a reference to which will convince the reader that it
+          is next to impossible for the entomologist to over-rate him.
+          See _Introduction to Entomology_, Vol. IV. p. 433.
+
+The reader who does not understand exactly what animals constitute the
+sub-kingdom Insecta, may refer to the _Introduction to Entomology_,
+where he will find the subject fully and accurately investigated.[21]
+It would be a needless incumbrance of my subject to repeat these
+definitions here, but as I am unable to meet with any characters
+for classes, by which relations and differences can readily and
+conveniently be traced, I have been induced to add a few definitions
+to those already in use, which I am the more willing to do because
+they will be useful here without ever perplexing science by forsaking
+the pages of this essay.
+
+          [21] Introduction to Entomology, Vol. III. pp. 1-51.
+
+  Column headings legend:
+
+  G: General character.
+  R: Resemblance to Imago.
+
+  +---------------------+------------+----------+-----------+---------------+
+  |                                   CLASSES                               |
+  |        LARVE        |           PUPA        |         IMAGO             |
+  |     G    |     R    |      G     |    R     |  Wings.   |    Mouth.     |
+  |----------+----------+------------+----------+-----------+---------------|
+  |   I. LEPIDOPTERA.                                                       |
+  | Polypod. | None.    | Quiescent. | None.    | Four,     | Antliate.     |
+  |          |          |            |          | scaly.    |               |
+  |----------+----------+------------+----------+-----------+---------------|
+  |  II. DIPTERA, _Arist._                                                  |
+  | Apod.    | None.    | Quiescent. | None.    | Two,      | Proboscidate. |
+  |          |          |            |          | and two   |               |
+  |          |          |            |          | poisers.  |               |
+  |----------+----------+------------+----------+-----------+---------------|
+  | III. HYMENOPTERA.                                                       |
+  | Various. | None.    | Quiescent. | Slight.  | Four,     | Mandibulate.  |
+  |          |          |            |          | membra    |               |
+  |          |          |            |          | naceous.  |               |
+  |----------+----------+------------+----------+-----------+---------------|
+  |  IV. COLEOPTERA, _Arist._                                               |
+  | Various. | Various. | Quiescent. | Slight.  | Two,      | Mandibulate.  |
+  |          |          |            |          | and       |               |
+  |          |          |            |          | two       |               |
+  |          |          |            |          | wing      |               |
+  |          |          |            |          | cases.    |               |
+  |----------+----------+------------+----------+-----------+---------------|
+  |   V. ORTHOPTERA.                                                        |
+  | Hexapod. | Perfect, | Active.    | Perfect, | Four,     | Mandibulate.  |
+  |          | except   |            | except   | structure |               |
+  |          | in       |            | in       | various.  |               |
+  |          | wanting  |            | wanting  |           |               |
+  |          | wings.   |            | wings.   |           |               |
+  |----------+----------+------------+----------+-----------+---------------|
+  |  VI. HEMIPTERA.                                                         |
+  | Hexapod. | Perfect, | Active.    | Perfect, | Four,     | Promuscidate. |
+  |          | except   |            | except   | structure |               |
+  |          | in       |            |   in     | various.  |               |
+  |          | wanting  |            | wanting  |           |               |
+  |          | wings.   |            | wings.   |           |               |
+  |----------+----------+------------+----------+-----------+---------------|
+  | VII. NEUROPTERA.                                                        |
+  | Various. | Various. | Various.   | Various. | Various.  | Various.      |
+  +----------+----------+------------+----------+-----------+---------------+
+
+The very imperfection of this table will constitute its principal
+utility, because, instead of acknowledging variety as a suitable
+definition of any particular part or state, the differences of which
+in respective classes, entomologists have been accustomed to consider
+characteristic, we find authors labouring to confine a group by what
+they would wish to consider good and solid characters, which
+characters they often at last leave so comprehensive, as not only to
+include the class which they had originally intended to define, but
+also a majority of those other classes which they had supposed
+previously disposed of. If, in reply, my reader should tell me that my
+seventh class was somewhat of this too comprehensive kind, I should
+simply reply that I intended it to be so; and if my reader happen to
+know a better, he can interline it in his copy. A space would then be
+occupied, which has hitherto in all such definitions been really,
+although not verbally, vacant.
+
+It is hard to break through the trammels of habit; it is hard to give
+up what one has for a long time taken for granted; it is hard to
+relinquish favourite schemes, however untenable: an innovator,
+however, is bound to deliberate well and coolly,--is bound to try all
+the various schemes before him with the test of reason. If the
+entomologist do this he will find his positive knowledge much less
+than he expected,--he will perceive that he is book-wise and
+fact-foolish; if, therefore, he would wish to arrive at truth, he must
+strip himself of his borrowed garments and all the theoretical dogmas
+he may have, however incautiously, imbibed, and trust entirely to what
+he has discovered himself, or what has been discovered by those who
+had no theory to support but truth,--no end to answer but amusement;
+for your theoretical writers, if they meet with a fact which militates
+against a favourite theory, will too often suppress it entirely, and
+on the same principle are ever anxious to magnify to an unnatural
+size, any slight, and often imaginary, circumstance, which they
+consider may tell in their favour. Among theories that have been thus
+established on very weak and insufficient foundations are all
+dichotomous divisions, especially those in which one group is defined
+as possessing and the other as wanting any fixed and peculiar
+character; a definition, by the by, applicable to nearly all
+dichotomies: the dichotomy to which I have here to allude is the
+division of insects into Mandibulata and Haustellata. Now every
+division founded on the presence or absence of a particular character
+should be received with the greatest caution, because the second group
+in which the character is absent[22] is sure to be too comprehensive.
+Mr. MacLeay,[23] himself no great friend to dichotomies in general, is
+completely led away by this particular one. He considers the classes
+I. II. and VI. of the foregoing table to constitute one grand order,
+and the classes III. IV. V. and VII. to constitute another; and, after
+Clairville, he calls the former order, Haustellata, and the latter,
+Mandibulata. Mr. MacLeay's name is a tower of strength to any theory;
+and his authority, added to the plausibility of the idea, has really
+given such a truth-like appearance to this division, that we see it
+now universally adopted. Let us examine its worth. First, I would ask,
+Can distinctive characters, thus drawn from part only of the external
+anatomy of insects, be sound, when to enforce them we are compelled to
+neglect various other characters which we have been accustomed to
+consider all important? Scopoli has said, "_Classes et genera
+naturalia non sola instrumenta cibaria, non solae antennae nec solae alae
+constituunt_;" but our dichotomizing entomologists tell us, that
+neither antennae, nor wings, nor habit, nor metamorphosis, are to be
+regarded at all, but "_sola instrumenta cibaria_;" at least, they
+infer this by separating Orthoptera and Hemiptera, by the intervention
+of several orders totally unrelated to either of them, a disruption
+which no nature-loving naturalist could for a moment admit. The truth
+is, there are seven kinds of mouth in insects, so distinct that good
+classes could be built on them,[24]--classes which would confirm those
+which Aristotle appears to have derived chiefly from other characters:
+of these seven, three are mandibulate, three are haustellate, and one
+without the rudiments of mandible or haustellum. The three which are
+mandibulate are somewhat similar, the three which are haustellate bear
+no more resemblance to each other than that which they all may be said
+to bear to that haustellated quadruped an elephant; and the tie which
+holds Haustellata together as a group is about as strong as one formed
+to bend in a genus Blaps mortisaga, Acrida aptera, Cimex lectularius,
+and the female of Bombyx antiquus, with the one sole character of
+being destitute of wings.
+
+          [22] And, be it observed, Haustellata merely means _not
+          mandibulate_; it does not propose to assert that the
+          contents of the tribe so named need have a particular kind
+          of haustellate mouth, or any mouth at all.
+
+          [23] Mr. MacLeay has written a little pamphlet on the
+          impropriety of the dichotomous system, which I recollect
+          reading, when published, with considerable pleasure. I
+          forget its title.
+
+          [24] If the reader happen to be unacquainted with the terms
+          which I have used in characterizing the mouth, he will find
+          them accurately and elaborately described in _Ind. to Ent._
+          Vol. III. p. 393, _et seq._ The orders of Fabricius depend
+          entirely on the formation of the mouth. See _Systema
+          Entomologiae_.
+
+A second fancy which I wish to combat is, that of analogy and affinity;
+and as Mr. MacLeay is by far the most learned and competent advocate of
+these distinct descriptions of resemblance, and as I cannot pretend to
+refer to or cope with the voluminous writings extant on this subject, I
+am necessitated to allude to his work alone. It will be seen by the
+_Horae Entomologicae_, (a work which I have already spoken of with
+unfeigned admiration,) that Mr. MacLeay considers that relation
+observable in the general appearance, habit, food, metamorphosis, &c.
+of insects, a relation of analogy, while that dependent solely on a
+fancied resemblance in the mouth he considers a relation of affinity:
+thus classes V. and VI., which, in five characters out of six, agree as
+closely as such comprehensive classes can do, he considers related by
+analogy, and classes I. and VI., which, in five characters out of six,
+are as unlike as insects can be, he considers related by affinity;[25]
+so Dr. Johnson, when he calls affinity "resemblance," must have made
+a capital blunder, for Mr. MacLeay proves clearly that it means
+dissimilarity. Classes I. and VI. however, I find will meet as the line
+becomes bent into a circle, and therefore we must conclude it to be a
+hidden affinity, for it certainly is not apparent; and moreover it must
+be remarked, that the relation between classes is but little apparent
+generally, except they are taken in pairs: thus, between I. and II.,
+between III. and IV., and between V. and VI., the relation is real and
+readily ascertained, although distant; while between II. and III.,
+between IV. and V., and between VI. and I., it becomes scarcely
+traceable. It is also worthy of notice, that the contents of either
+pair of classes, with the addition of class VII., may be formed into a
+tolerably perfect chain of genera, indeed with much less appearance of
+disconnexion than is observable on passing from either pair into the
+next pair,--a fact which attaches a degree of importance to the number
+three, on which, perhaps, at a future time, more may be said,--and thus
+a chain of relation would be established in each instance, leaving four
+whole classes entirely out of the question;--a chain which would
+steadily pursue its way, regardless and in open violation of all
+established laws of analogy, affinity and dichotomy; laws which I hope
+ere long to see pining away like Echo, until they also are really what
+I now fully believe them to be, _vox et praeterea nihil_.
+
+          [25] Horae Entomologicae, p. 367.
+
+Mr. MacLeay found that in his quinary groups one of each five
+contained genera or species related to other genera or species in each
+of the other four groups. That I may be thoroughly understood, I will
+quote the author's own words:--"In almost every group which has been
+set before the reader, he must have perceived that one of the five
+minor groups into which it is resolvable, bears a resemblance to all
+the rest; or, more strictly speaking, contains types which represent
+each of the four other groups, together with a type peculiar to
+itself."[26] As far as my observation has extended, this is universally
+the case; and whether the total number of groups be five or seven, I
+think I am safe in asserting that the only possible way of making
+these types, thus representing groups, approach such groups, is to
+place the heterogeneous group in the centre, and the homogeneous
+groups around it; taking care that the type peculiar to itself be its
+very centre, its "heart's core." Such a heterogeneous group, then, is
+Neuroptera: its characters as given,[27] I believe, perfectly correct;
+and can any one say they are sufficient? Certainly not; but had I
+described it thus--Class VII. Neuroptera, central, partaking of the
+characters of all the others, I think a better character could not
+have been given. This class contains a type peculiar to itself--the
+genus Libellula of Linnaeus: a genus so distinct, that several authors
+have supposed it to constitute one of the primary divisions of
+Insecta. It is, however, merely the Neuropterous type, the very
+essence of the class; and many of its species, Anax Imperator for
+instance, proclaim themselves by their imperial flight, their enormous
+size, their richly variegated colours, their despotic and cruel
+habits, emperors of the insect world. In this group we find the organs
+of sight, manducation, and locomotion, carried to a greater degree of
+perfection than we ever meet with, except in similar centres: like the
+king of birds, the dragonfly is unrivalled among his kind. From
+Libellula, the centre, we descend at once to Tinodes, or Psyche, on
+the circumference of the circle. Supposing Psyche to be the
+approaching genus to Lepidoptera, I think I need not enter very
+diffusely on the similarities. Passing to the right, we find that
+Diptera will next touch the central class; in which, after leaving the
+Phryganeae, we have now arrived among the next group, or sub-class,
+Ephemerae: and here, as we might expect, the inferior wings become much
+diminished--at the point of contact obsolete.[28] The flight, instead
+of being solitary, is in company, gracefully and gently rising and
+falling. The parts of manducation are become obsolete; while, in habit
+and appearance, the insect imitates the Tipulae and Chironomi, so
+exactly that the naturalist is foiled in his endeavours to distinguish
+between them, as they joyously dance together by myriads in the rays
+of the setting sun.
+
+          [26] Horae Entomologicae, p. 518.
+
+          [27] See the Table.
+
+          [28] In Cloeon.
+
+We now approach mandibulated orders, and we shall see the loss of
+mandibles in Phryganea and Ephemera, although apparently resulting
+naturally enough from their distance from the type Libellula, has yet
+another cause--the proximity of classes that have no mandibles: in the
+city-building Ants, the mandibles are very perfect, and, therefore, we
+may expect them, and we find them in the city-building Termites. The
+opinion of philosophers, such as the authors of the _Introduction to
+Entomology_, is always worth having, although I am doubtful of
+assertions about insects, when unconfirmed by thorough entomologists;
+and I believe as yet no entomologist is sufficiently acquainted with
+the real history of white ants, to decide positively as to their
+different stages of existence. The following quotation contains also a
+corroboration of the propriety of this approach:--"The white ants,
+though they belong to the Neuroptera order, borrow their instinct from
+the hymenopterous social tribes, and, in conjunction with the ants,
+(Formica,) connect the two orders. Their societies consist of five
+descriptions of individuals:--workers, or larvae; nymphs, or pupae;
+neuters, or soldiers; males and females."[29] The class Coleoptera now
+approaches the Neuroptera, and on each side the boundary we find larvae
+digging pitfalls in the sand to catch their prey, and having tubular
+mandibles to extract its juices when caught. We find them spinning
+silken cocoons, in which they change into quiescent pupae, incapable of
+taking nutriment; which may fairly be supposed a symptom of approach;
+but there is no insect whose imago I would venture to place on the
+circumference of the neuropterous circle at the point.
+
+          [29] Introduction to Entomology, Vol. II. p. 32.
+
+When we find an insect so doubtfully situated between two classes,
+that Linnaeus placed it in Neuroptera, Fabricius in Orthoptera,
+Latreille, in two of his works, in Orthoptera, and in two others in
+Neuroptera, MacLeay in Neuroptera, and Kirby and Spence in Orthoptera,
+I think it but fair to conclude, that the orders must approach very
+nearly to admit of this difference of opinion: such is Mantispa; and
+Mantis-like as it really is, it only borrows that appearance from
+being on the extreme circumference of the Neuropterous circle, and
+touching the Orthopterous one where Mantis must evidently be situated.
+Lastly, we see in Psocus the form, wings, and whole appearance of
+Aphis, so exquisitely imitated, that practised entomologists often,
+nay mostly, fail in separating them correctly: thus we find that class
+VII. contains five natural orders, the contents of which have
+been--and may be again, should the linear and dichotomous system
+continue in vogue--placed either in the class to which they truly
+belong, or respectively in classes I. II. III. V. and VI. at the mere
+option and caprice of the systematist. I have already admitted that I
+find no neuropterous insect sufficiently related, in its final state
+to class IV. to warrant my placing it in contact with that class; and
+that I may not be accused of assuming facts which exist only in my
+imagination, I am perfectly willing to conclude that no such insect is
+to be found; a conclusion that time and discovery, by falsifying, can
+only add yet one more buttress to a tower, which nature seems to point
+out as built by herself.
+
+There are a few little insects which, like the spiders which crept
+across Richard's brain, are somewhat perplexing to the naturalist, yet
+he cannot dispose of them as the monarch did of his spiders; I mean
+Pulex, Stylops, Thrips, Forficula. But, in truth, the first attempt
+of the systematist should be to place classes properly, and these
+disconnected species will, after a time, find appropriate places: they
+were no more created without a design than man; and their Creator,
+doubtless, has appointed them a station, although man, whose wisdom
+is utter ignorance, has not yet been able to discover it. It is
+impossible for the entomologist not to observe the general similarity,
+the family likeness if I may so express it, which exists between these
+genera; they appear a little way removed from Coleoptera, yet will
+not harmoniously join that class. Thrips is evidently mandibulated,
+although the dichotomists call it haustellated, and comes nearer to
+Stylops[30] than any other known genus: its larva is, I believe,
+unknown; but in March you may observe an active hexapod, lizard-like
+animal, running about the flowers of Ranunculus ficaria on sunny
+banks, and two or three months later you will find Thrips abundant
+on the same flowers in the same spots: this is no proof of their
+identity; but as the larva of Thrips and the imago of the said hexapod
+are equally unknown, there may be a surmise expressed on the subject.
+Mr. Kirby calls this hexapod Pediculus Melittae, and has given a
+description and plate of it in his _Monographia Apum_.[31] He there
+asserts that De Geer considered it the larva of the Meloee
+proscarabaeus, and some observations of my esteemed friend, Mr.
+Doubleday, who succeeded in obtaining the larva of Meloee from the egg,
+certainly tended to corroborate De Geer. But I am rather wandering
+from my subject, and, therefore, will consider these little creatures
+also, wandering like comets in eccentric courses over the whole
+system, now approaching Staphylinus, and anon Ichncumon, and, as they
+draw near, borrowing a character from each: they may, on the other
+hand, constitute disconnected links of some other mighty chain, the
+intervening parts of which are for a time hidden from the sight of
+man, and perhaps hereafter may be revealed; perhaps, again, they may
+occupy some of the chasms I have been compelled to leave vacant: but I
+deprecate, I detest the idea, of forcing any creature into a situation
+which nature has not evidently pointed out as its appropriate one, for
+the ignoble purpose of giving plausibility and imperfect perfection to
+a scheme.
+
+          [30] For a beautiful and accurate figure and dissections of
+          this rare insect, see Curtis's Entomology, pl. 226: for a
+          _popular_ figure, _Professor-edly_ of the same insect, see
+          Insect Transformations, p. 67.
+
+              A little knowledge is a dangerous thing.
+              Drink deep, or taste not the Pierian spring.
+
+          [31] Monographia Apum, Vol. II. p. 168.
+
+
+ON THE SUB-CLASSES, &c. OF LEPIDOPTERA.
+
+It may be thought a strange propensity to grapple with difficulties,
+that leads me to select Lepidoptera as a class, by which to exemplify,
+in detail, the septenary and circular arrangement. There is no class
+so puzzling to systematists, or for which science has done so
+little--no class is at present so badly arranged, and in none are
+barbarous combinations so much in vogue. Linnaeus founded divisions at
+the outset, on characters, "loose, vague, and insufficient:"[32] modern
+genera have a little improved minor details, and but little, for their
+places appear to have been assigned them by lot, and without the
+slightest regard to similarity or approach: in a word, the arrangement
+of Lepidoptera appears to have been conducted by collectors, who aimed
+rather at a pretty picture than a related series; and all our writers
+have rushed headlong by the same path, without staying an instant to
+consider whether they were right or wrong, like boys playing at
+follow-the-leader,[33] each occasionally leaping some wider gap, or
+descending some more dangerous precipice than his predecessor, as
+though for the very love of frolic and bravado. _One_, a talented
+writer, an assiduous collector, a most accurate observer, hesitated
+awhile, it is true, and it was thought he would have broken the line,
+but no,--he kept precisely to the track of Linnaeus and the rest of
+them, through Papilio, Sphinx, Bombyx, Noctua, Geometra, Pyralis,
+Tortrix, and Tinea; but, as he stood pledged to traverse no more than
+five fields, he hit on the ingenious expedient of asserting roundly,
+that the four last named were but one. In fact, the whole of this
+immense class presents, at this hour, nothing but a vast chaos, which
+seems to await the operation of some predicted spell to call it into
+order.
+
+          [32] Particularly in the sections of Papilio.
+
+          [33] Linnaeus.
+
+[Illustration: SUB-CLASSES OF LEPIDOPTERA.]
+
+These were apparent difficulties only; for, as no system existed to
+direct, so none existed to encumber or perplex. Too much is known now
+of Linnaean combinations, to assert, that he always thought correctly;
+and since his day no one has thought at all. Now, if you cannot obtain
+a nicely drawn plan, you prefer having a blank sheet of paper to one
+covered all over with scorings and markings, and then you may set to
+work and make your plan yourself. So, in natural history, contrariety
+of opinion perplexes, while the absence of opinion leaves the
+systematist perfectly unbiassed in the formation of his own. Again,
+copious and well-named[34] collections of this favourite class are by
+no means uncommon;[35] and through, the liberality of my friends, I had
+often been permitted to inspect them, and had gained a sufficient
+superficial knowledge of their contents, to be enabled, with the
+assistance of my own specimens, to cluster them pretty well into seven
+great families or sub-classes; and although, as I have noticed,
+nothing available existed on the subject of arrangement of
+Lepidoptera, either in essay, or treatise, or catalogue, or cabinet,
+yet there was to be found, up and down, much valuable matter, in the
+shape of what might be termed natural history of Lepidoptera. Finally,
+I knew, that could I master this class, I could stand my ground,
+because I had previously tried the experiment on the classes
+Hymenoptera and Coleoptera, and had found that, at the word seven,
+they fell into instant order, as at the touch of a magician's wand;
+and, as for the other classes, we are in such innocent and blissful
+ignorance of their contents, that were a scheme ever so futile, a
+century at least must elapse before its futility could be proved by
+Orthoptera, Hemiptera, or Diptera.
+
+          [34] I mean each species labelled with _a_ name.
+
+          [35] _British_ collections.
+
+Whoever will give himself the trouble to examine thoroughly a
+collection of British Lepidoptera, will find a very great majority of
+them evincing very evident symptoms of relation to one or other of the
+following species:--Papilio Machaon, Sphinx Ligustri, Pyralis
+verticalis, Tinea pellionella, Noctua pronuba, and Geometra roboraria;
+and should any form widely different from either of these occur, it
+may, if the larva be known, be placed in the centre of a ring formed
+by the groups, which we will suppose surrounding their six respective
+types; or, if its larva be unknown, it must await the discovery of
+that most unerring stage of its existence. I am persuaded, did
+entomologists know how much depends on the form, habit, food, and
+clothing of larvae, they would not be so neglected as they are at
+present. I have much to regret my own remissness in this respect, for
+it has seldom happened that I have found the larva of any insect which
+had not been previously well known, but it has tended to point out
+some approaches that had never before been thought of,--approaches,
+even when thus pointed out, totally irreconcilable with existing ideas
+of arrangement and combination of groups, but which now open to my
+view the most beautiful chains of affinities; and wonderfully but
+indubitably prove, that a single individual may be related to three,
+four, or even more apparently disconnected groups.
+
+Perhaps no better genus was ever formed than Papilio of Linnaeus; its
+diurnal flight, its erect wings, and its clavated antennae, at first
+bid defiance to the systematist who attempts to bring any other group
+into contact with it; indeed, in Britain we have nothing at all that
+will avail us in this respect, which compels me to have recourse to
+exotics, an assistance which I shall only avail myself of when I find
+it quite impracticable to furnish the approaches from indigenous
+species, the reference to which is attainable by every entomologist.
+Among foreign Papiliones, especially among those groups which approach
+our genera, Hesperia, Lycaena, Polyommatus, and Thecla, there appears
+to be an almost infinite variety of form. Now it is but reasonable to
+seize on any variations observable in genera or species from the
+prominent or typical genus or order from which they may be supposed to
+derive their more conspicuous character, and to employ such variations
+in arrangement as connecting links between the group to which they
+more decidedly belong, and the group to which, by such variation, they
+evince an approach: a precisely intermediate species or genus between
+two classes or sub-classes, or even orders, I have never met with,
+notwithstanding the renowned Linnaean maxim, that _Natura saltus non
+facit_; for did nature make no leaps, surely the question were
+immediately at rest as to the existence of any other division than
+species among created beings, a conclusion which even the most
+strenuous supporters of the Linnaean dogma decidedly resist. Among the
+Papiliones, this departure from the type may be looked for either in
+the form of the antennae, the position of the wings, or the time of
+flight. The first is obviously the most tangible should it occur, and
+it does occur. In Urania, the antennae have become setaceous; the club
+has entirely disappeared, yet the other peculiarities remain much as
+in Papilio. This single deviation may be assumed as pointing out a
+relation to Geometra, which the reader will perceive is supposed to
+meet the sub-class Papilio at this point. A second peculiarity is to
+be found in an insect figured by Godart, a Polyommatus in shape, but
+with pertinated antennae;[36] the genus he has very suitably named
+Barbicornis. This deviation, it must be observed, is in favour of the
+Bombyces, which we therefore suppose touching the sub-class at this
+point. A third deviation, of a very different kind, is observable in
+an insect which Latreille has figured in the Regne Animal, and placed
+among the Sphinges: he calls it Coronis D'Urvillii. The antennae in
+this genus, as in Castnia, are gradually incrassated, and they may
+probably be eventually both considered as Papiliones: of Coronis
+D'Urvillii, I cannot entertain a doubt, as the wings are too
+expansive, the antennae too long, the abdomen too short for it ever to
+retain its station among the Sphinges; the inferior wings are also
+very decidedly caudate, a common formation among Papiliones, but
+unknown among Sphinges; but, let this question be eventually decided
+_pro_ or _con_, the approach between Hesperiae and Sphinges is not
+likely to be disputed, nor the fact that it takes place somewhere in
+the neighbourhood of the genus Castnia.
+
+          [36] Latreille seems to think this to have been a deception,
+          and that the antennae which Godart found on the insect did
+          not belong to it. I cannot suppose that the latter author
+          could have been so grossly deceived.
+
+The next type is Sphinx Ligustri; and here again our British
+collections are obliged to plead poverty; few, however, as they are at
+present, I am compelled, if I purpose consulting nature, to reduce
+them about half: the AEgeriae and Zygaenae must be moved elsewhere; they
+look like Sphinges, but are none. I will begin then with Castnia, of
+which no more need be said. The next striking departure from the type
+occurs in having the abdomen furnished with tufts or brushes, which
+the insect spreads as it hovers over flowers, somewhat in the manner
+of a bird's tail. The long porrected antlia also has a resemblance,
+perhaps rather fancied than real, to the slender bill of a
+humming-bird, whence the tribe has received with us the name of
+English humming-birds. The genus Sesia I will place on the
+circumference of the circle, not doubting but nearer approaches to the
+Cossi may be discovered, or are even now known, but no better exists
+among our own Sphinges. The next point of contact will be with
+Pyralis; and here the genus OEgocera, figured in the Regne Animal,
+seems to claim its station: it is a decided Sphinx, with the palpi of
+Hypena proboscidalis, and Latreille has placed it between Sesia and
+Zygaena, from which it will be seen that I differ only in making Zygaena
+pass over the boundary line and into the next section.
+
+We enter the third sub-class then at Pyralis, and find ourselves among
+some of the most beautiful little creatures in existence--sylph-like
+beings, which spend their lives in the brightest sunshine and among
+the sweetest flowers. Linnaeus considered them Sphinges, from what
+character is not very apparent: the sub-character, applicable only to
+this section, is certainly correct; they are truly "_larva diversae_."
+As for the antennae being "_medio crassiores_," it is not the case,
+unless the increase and decrease of pectination can be considered as
+making them so. Of this particular tribe Latreille observes, "_Les
+autres lepidopteres de cette division ont dans les deux sexes, des
+antennes garnies d'un double rang de dents alongees ou bipectinees.
+Ceux qui out une trompe distincte forment le genre Glaucopis; ceux ou
+cette organe manque ou n'est pas distinct celui d'Aglaope--ces
+crepusculaires semblent se lier avec les Callimorphes._" The approach
+of the genus Aglaope to Aglossa, rather than to Callimorpha, seems to
+be presumable from the circumstance of its not possessing a tongue,
+the genus Glaucopis having more similarity to our genus Pyrausta,
+while some of its species, which appear to call for further generic
+division of the order, are closely allied to our Botys literalis, &c.
+The only British genera of this order are Zygaena and Ino; the latter,
+however, appears to be merely a species of some extra-European genus,
+as I have remarked several exotics of precisely similar form. The
+insects of this order have a stout and rather hairy larva, much like
+those of the generality of the sub-class, and in no respect allied to
+that of the Sphinges. Early in the summer they spin a glossy silken
+cocoon, generally attached to blades of grass, and remain but a few
+days in the pupa state. A great proportion of the perfect insects have
+hyaline spots and patches in their wings, and nearly all of them are
+brilliantly coloured. It is known that Linnaeus occasionally, as in
+Tenebrio and the present instance, made his genera recipients of
+species, which he found a difficulty in locating properly; but it is
+really astonishing to find a naturalist like Latreille abiding by so
+absurd a combination as the contents of the Linnaean genus Sphinx, and,
+in servile imitation, calling creatures which nothing but an unclouded
+sun ever tempts abroad--Crepuscularia.[37] It is no part of my present
+plan to assign names to orders, or to describe their contents, except
+in those particular instances in which the more immediate object of
+this Essay may render it imperative. I will, however, just observe,
+that I by no means consider Zygaena the type of the order, but merely
+the nearest point of contact with Sphinx, and an evident departure
+from its true type, which perhaps may be found in that ill-divided
+genus Glaucopis, the form and appearance of which is altogether more
+Pyralis-like than Zygaena. I am well aware that OEgocera and Zygaena do
+not harmonize so beautifully as many other approaches, and fully
+expect to see the connexion between these sub-classes much improved;
+but I have seized on these genera as demonstrating a tendency in each
+individual towards the sub-class to which it does not belong. The
+circumstance of Zygaena having been so long considered a Sphinx will
+warrant its situation on the very circumference of the circle which
+contains its order, until a more appropriate occupant of that
+situation can be found. At the central point of contact, the genus
+Aglossa presents a very Bombyx-like appearance; its shape, its want of
+the antlia, &c. indicate approach; and from the sub-class Tinea, the
+division of Pyralis is at present an imaginary one: at this point,
+after making what little comparison I am able, I am induced to place
+Galleria, Melia, and Ilithya, in Pyralis; and Chilo, and Crambus in
+Tinea.
+
+          [37] Volatu vespertino, _Lin._
+
+The fourth sub-class, Tinea, far exceeds in numbers either of the
+others, and probably all of them together; and where such a multitude
+of species exists, great diversity in form and habit may be expected:
+the Pterophori are a most singular tribe, and greatly resemble the
+Tipulae in many respects. I feel by no means certain that their
+situation would not be better between the lepidopterous sub-class,
+Tinea, and the dipterous sub-class, Tipulae, thus throwing them
+completely out of the lepidopterous circle; but this I leave. I am now
+only sketching a rough and hasty outline from nature. If I attempt to
+finish my drawing as I proceed, I shall find occupation sufficient for
+a lifetime. I have observed that I considered the chain of relation
+entering from the last sub-class at Chilo, or about that genus; the
+same order must of course include Crambus, and its congeners; the next
+order will contain Yponomeuta, which I will place at the point of
+contact; and the next point being among the true Tortrices will drive
+Halias fagana as a decided departure from their typical form to the
+very circumference of the circle where it touches Noctua.
+
+The fifth sub-class, Noctua, seems to be but one mighty genus: we will
+enter it from Halias fagana, an insect so nearly allied to Noctua in
+its larva, its pupa, and its imago, that for a long time I hesitated
+to which sub-class it belonged; again, in Cymatophora,[38] subtusa and
+retusa, I was fearful that by considering them Noctuae, I might deprive
+the order Tortrices of a genus on which perhaps many curious
+combinations might depend, and I now only place them in Noctuae until I
+may have an opportunity of examining their larvae, which I have not yet
+been fortunate enough to meet with. Towards the central sub-class
+there appear to be many genera which approach the line of contact;
+Agrotis and Chareas for instance:[39] I prefer taking the latter, and
+must mention the species Graminis, as I am fearful of encumbering my
+system with species to which I not only never intended to refer, but
+should probably place in some distant order, or perhaps sub-class. At
+the approach to Geometra, the genus Catocala, from its looping larva,
+seems to have a right to be placed: this I, however, look on with
+suspicion, as the larva appears to me any thing but a guide in the
+connexion of sub-classes; but I here succumb to customary usage in
+making this genus the approach to the real loopers, objecting,
+however, to the intervention of Phytometra, Euclidia, and Brepha.
+
+          [38] Ochsenheimer places Oo in this genus, and I observe Mr.
+          Stephens confines the genus to that one species. Mr. Curtis
+          places Oo in the genus Bombycia: this confusion of genera is
+          very puzzling, but I hope, by mentioning species, to make
+          myself understood. Oo is not at all applicable to my
+          purpose.
+
+          [39] Perhaps Noctua Lambda.
+
+The sixth and last of the exterior sub-classes is Geometra, and we
+shall find one insect which is completely a Geometra, and yet in the
+larva has two additional feet, and the abdominal fringe of Catocala:
+this is Metrocampus margaritaria,[40] an insect, without which the
+connexion of these sub-classes would have been difficult to establish.
+The next species I am acquainted with seems to be Rumia crataegaria,
+and after it the Thorn moths, as they are termed (Crocallis?): these
+lead to Geometra[41] in the centre, which may be considered the
+farthest removed from any of the surrounding sub-classes; from the
+genus Geometra a line may be drawn through Biston, Nyssia, and
+Hybernia, to the point of contact with Phalaena in the centre, and
+another through Boarmia, Abraxas, and Ourapteryx to Urania, from which
+genus of Papiliones perhaps the reader will recollect we set out.
+
+          [40] Of Mr. Curtis's _Guide_. I cannot consider fasciaria,
+          Mr. Curtis's next species, at all allied.
+
+          [41] Alcis. Curtis.
+
+The seventh and central sub-class, Phalaena, now claims our attention.
+The mere circumstance of having taken a little tour round it gives but
+a very poor idea of its contents, and although my reader may assure me
+he knows them sufficiently well already, that assurance will by no
+means satisfy me that he and I are at all agreed either as to what
+those contents may be, or as to their relative situations. Before,
+however, I again set in earnest to the task of pointing out relations
+and approaches, I feel that some apology is due for attempting the
+restoration of a beautiful and euphonious name to that grand group of
+Lepidoptera, to which it was originally assigned by the eminent
+naturalist who was the first to define and name such groups.[42] I am
+fully aware this is an attempt at innovation for which I can never be
+forgiven by the scientific; for the merit of the present day seems to
+consist in the total neglect of grouping and classifying, and in
+making a host of imaginary genera and species, for the mere pleasure
+of overwhelming us with a "farrago" of barbarous and unutterable
+names,--a practice which my unsophisticated and old-fashioned notions
+will never dwell on with that deferential awe which such profound
+science has an undoubted right to expect.
+
+          [42] Linnaeus.
+
+Again, on the subjects of _orders_, a term I have already been induced
+to use now and then, I am quite aware that I here am guilty of another
+misdemeanour, and more especially as I call them natural orders,
+meaning thereby orders among the contents of which nature has
+established the similarity; and to the formation of which "the
+cunningly devised fables" of man have contributed but very little; and
+meaning also that nature has implanted in us all, more or less, the
+power of distinguishing such orders by a mere glance, and without any
+reference to our books.
+
+Furthermore, the naming of orders which I have been obliged to mention
+by name, in the unscientific way which I have adopted, merely making
+them plurals of established names, of large and overgrown genera, I
+acknowledge to be a confession of ignorance not usual in this our day,
+especially as these old genera have almost in every instance the
+disadvantage of being euphonious, easily pronounced, expressive, and
+universally understood; and an opportunity once missed of coining
+names for three hundred new orders, (and each might have been a
+combination of consonants which no one could spell, or speak, or read,
+or understand,) alas! alas! may never occur again.
+
+To return; I suppose the sub-class Phalaena to contain seven natural
+orders, a number precisely similar to that discovered from
+observations made on the larva by that most accurate and indefatigable
+naturalist, Dr. Horsfield;[43] and I may add, my own divisions are
+derived from the same source, together with the pupa and whole habit:
+the perfect insect has no characters, hitherto discovered, by which we
+can ascertain either sub-class or order, and from this circumstance I
+am compelled to omit those genera of whose larvae I am ignorant,[44] and
+even to leave those as doubtful, of which I possess but a partial
+knowledge of that state.
+
+          [43] I regret not having Dr. Horsfield's work to refer to;
+          but I believe I am perfectly safe in stating from memory
+          that these seven he considered typed in the genera,
+          Saturnia, Lasiocampa, Cossus, Cerura, Arctia, Laria, and
+          Limacodes: two of these he manages to unite to other two, in
+          order to reduce the number to five, but I forget which.
+
+          [44] As the genera which I must mention ought necessarily to
+          be drawn entirely from one work, in consequence of authors
+          differing as to their contents, I have adopted those in Mr.
+          Curtis's _Guide_, invariably: below is a list of the genera
+          he has given in this section, with my own idea of their
+          situation attached to each, and the addition of six genera,
+          which Mr. Curtis does not consider as belonging to the
+          sub-class Phalaenae:
+
+              789 Trochilium    2 Cossi.
+              790 AEgeria        2 Cossi.
+              791 Hepialus      2 Cossi.
+              792 Cossus        2 Cossi.
+              793 Zeuzera       2 Cossi.
+              794 Stauropus     3 Notodontae.
+              795 Pygaera        3 Notodontae.
+              796 Clostera      3 Notodontae.
+              797 Notodonta     3 Notodontae?
+              798 Pterostoma    3 Notodontae.
+              799 Petasia       Sub-class Noctua.
+              800 Episema       Sub-class Noctua.
+              801 Colocasia     6 Lariae.
+              802 Dimorpha      3 Notodontae?
+              803 Cerura        3 Notodontae.
+              804 Ptilophora    3 Notodontae?
+              805 Endromis      Order uncertain.
+              806 Saturnia      7 Phalaenae.
+              807 Eriogaster    1 Bombyces.
+              808 Clisiocampa   1 Bombyces.
+              809 Lasiocampa    1 Bombyces.
+              810 Odenestis     1 Bombyces.
+              811 Gastropacha   1 Bombyces.
+              812 Hypogymna     6 Lariae.
+              813 Orgyia        6 Lariae.
+              814 Laria         6 Lariae.
+              815 Arctia        6 Lariae.
+              816 Arcturus      6 Lariae?
+              817 Spilosoma     5 Arctiae.
+              818 Phragmatobia  5 Arctiae.
+              819 Penthophera   Order uncertain.
+              820 Eyprepia      5 Arctiae.
+              821 Eulepia       4 Lithosiae.
+              822 Hypercampa    4 Lithosiae.
+              823 Callimorplia  4 Lithosiae.
+              824 Deiopeia      4 Lithosiae.
+              825 Lithosia      4 Lithosiae.
+              826 Nudaria       Sub-cl. Phryganea.
+              827 Psyche        Sub-cl. Phryganea.
+              828 Heterogena    Order uncertain.
+              829 Limacodes     Order uncertain.
+              854 Acronycta     5 Arctiae.
+              942 Platypteryx   3 Notodontae.
+              943 Drepana       3 Notodontae.
+              944 Cilix         3 Notodontae.
+
+Natural Order--_Bombyces_. Has an elongate cylindrical downy larva,
+which rolls itself into a ring when touched; the pupa changes in a
+close gummy oval cocoon, remarkably small for the size of the imago.
+Among the exotic species of Lasciocampa, we find in the males
+particularly slender bodies, expansive wings, the inferior grooved to
+receive the abdomen, and diurnal flight, all of them characters so
+indicative of an approach to Papilio, that we scarcely hesitate a
+moment in assigning it the approaching station, not but I expect fully
+that time will eventually furnish us with a connexion on each side yet
+more conclusive.[45] The second genus of Bombyces is probably
+Odenestis, and the third Gastropacha, whose prominent and elongated
+palpi appear to point out an approach toward a tribe of insects with
+the same peculiarity, of which there are several to be found in the
+following order:
+
+          [45] See a Papilio with the antennae of a Lasciocampa. Drury,
+          Vol. III. pl. v.
+
+Natural Order--_Cossi_. The larva is depressed; naked, except a very
+few scattered hairs; has sixteen feet; lives through one or more
+winters; never rolls itself in a ring when touched; feeds on the solid
+interior woody parts of vegetables. The pupa generally changes in a
+tough oval cocoon, interwoven with particles of its food. It has a
+double ring of raised denticulations of each segment of the abdomen,
+by means of which it is endowed with a considerable power of
+locomotion. The genus Zeuzera is very near the point of contact with
+the Bombyces. In Zeuzera there is much resemblance to the antennae of
+Gastropacha. One genus, or group of genera, I expect will prove to be
+Stygia, a native of New-Holland. A second, at the point of contact
+with Sesia in Sphinx, must be AEgeria; thus retaining its place among
+British insects, immediately between Sesia and Cossus.[46] This is the
+first of a series of the most beautiful instances of approach, or
+rather, of what ought to be termed _relations of analogy_, that any
+system has ever previously disclosed. As a few words will again be
+necessary on this subject, I refrain from any further observation
+here, than merely requesting the reader to examine how minutely the
+Sphinx characters are appropriated by a true lignivorous Phalaena,
+which cannot be said, in any of its prior and principal states, to
+have the most distant approach to Sphinx. A third genus is, probably,
+the strange and paradoxical exotic Oiketicos, which has been minutely
+described in the _Linnaean Transactions_; and a fourth is Hepialus.[47]
+This genus has some slight points in which it differs from the others
+of the order already known, the larva being radicivorous only, seldom
+or never ascending internally the stems of plants: it changes in the
+earth.
+
+          [46] It is a most singular chance that these genera should
+          have been placed so naturally, as the cause of this
+          proximity has never before been even hinted at.
+
+          [47] Another type of Hepialus is figured in Drury, Vol. II.
+          pl. xiii. 2.
+
+Natural Order--_Notodontae_. The larva is naked, has sixteen feet, and
+is, in different genera, furnished with excrescences, and apparent
+distortions in various parts of the body. The eighth or last pair of
+feet, and three last segments of the abdomen, are elevated; when the
+insect is at rest, the head and first segment are raised in a similar
+manner. In one genus (containing Camelina) the head and extremity of
+the abdomen nearly meet over the back, when raised in this singular
+manner. The posterior feet are frequently useless in walking; in some
+genera, entirely obsolete. The pupa is smooth, in a cocoon, mostly
+among dead leaves on the surface of the ground: sometimes it is
+glutinous, and interspersed with fragments of wood, like the last. I
+confess I am exceedingly puzzled both with the contents and extent of
+this order; but this arises from my having seen so few of the species
+in the larva state. Ptilophora plumigera, figured by Mr. Curtis,[48] I
+had always considered a Notodonta; but the larva evidently excludes it
+from the order, and, I should imagine, places it among the Noctuae;
+where among them I know not, for I have not the slightest idea of any
+congeners, either of the larva or imago. The larva from which a
+collector of Lepidoptera could expect to obtain such an imago would be
+unicolourous, stouter in the middle, elevated in the penultimate
+segment, and more attenuated towards the head.[49] Pygaera appears
+doubtful at first, but when observed quite at rest, and in a perfectly
+natural position, elevates the head and tail, though in a much less
+degree than the typical genus. Mr. Curtis's genus Notodonta contains
+several good species, which may be considered as typing the order, as
+Ziczac, Tremula, and Dictaeoides. The first species, Trepida (the
+Peridea serrata of Mr. Stephens,) seems more nearly related to
+Endromis. Both these may, however, probably belong to the order
+Notodontae, and be situate near the approach to the central order
+Phalaenae. Petasia cassinea and Episema caerleocephala appear to be
+genuine Noctuae, and very near Chareas graminis, and Rusina ferruginea,
+as far as my very imperfect knowledge of these four species will allow
+me to judge. Clostera is another departure from the type; but this may
+be accounted for, in some degree, by its close proximity to Hepialus,
+from which genus it borrows its remarkably short antennae, and other
+peculiarities. It seems a strange perversion of judgment to place
+Platypteryx at the end of or among the Geometrae; but Linnaeus did so,
+and that is enough. Hubner, Haworth, and a few others, positively
+ventured, in this glaring instance, to refer this genus to the
+Bombyces; but their ideas were thought to be wrong, and their judgment
+was, _nem. con._ reversed. I have elsewhere expressed a wish that my
+readers should convince themselves, and the frequent occurrence of the
+larvae of Platypteryx and Cerura would afford any naturalist abundant
+opportunity of ascertaining, that they can be referred to but one
+order. The approach of Platypteryx and Cilix to the Pyralides, in
+assuming so much of their characters, is very interesting, and is a
+most striking departure from the typical form. These genera also
+approach the Lithosiae, but not so nearly as some exotics.
+
+          [48] British Entomology, pl. 328.
+
+          [49] As the larva so decidedly forbids the introduction of
+          this insect among the Notodontae, and places it among the
+          Noctuae, it probably in some degree approaches Geometra
+          pennaria in the adjoining sub-class.
+
+Natural Order--_Lithosiae_. The difference between Lithosiae and Arctiae
+is rather difficult to point out; yet a difference exists, which it is
+perfectly impossible not to detect. The larva of Lithosiae has sixteen
+feet, is very active, is moderately hairy, does not readily roll
+itself in ring, but occasionally assumes that attitude. The pupa is
+smooth, changes in a slight web, in which the hairs are intermixed.
+The approach of Lithosia[50] to the genus Yponomeuta, in Tinea,
+scarcely need be pointed out. It will be observed, that Mr.
+Samouelle[51] was aware of this approach, and placed the genera
+Lithosia and Yponomeuta following each other. The splendid Callimorpha
+dominula, although, to all appearance, a real Arctia, must be included
+in this order, and placed in contact with the following one.
+
+          [50] See note for the genera of Lithosia.
+
+          [51] Ent. Useful Com. p. 249.
+
+Natural Order--_Arctiae_. Larva, with sixteen feet, generally very
+hairy, bear-like; rolls itself in a ring when touched; pupa smooth, in
+a slight web. Whether the whole of Mr. Curtis's genus Acronycta must
+be included in this order, I am not able positively to say: the genus
+Apatela of Mr. Stephens certainly must, and until I have obtained
+sufficient information to decide on Acronycta, we must bring Mr.
+Stephens's genus only into the order, leaving the remainder of the
+species undisposed of. The development of the antlia in Acronycta
+discovers as near an approach to Noctua, as Lithosia does to Tinea;
+but the bear-like, cocoon-spinning larva place these insects in close
+alliance with the true Arctiae.
+
+Natural Order--_Lariae_. Larva, with sixteen feet, and furnished with
+various brushes, or fascicles of hair, on different parts of the body,
+but mostly on the anterior dorsal segments; it rolls itself in a ring
+when touched. The genus Porthesia of Mr. Stephens may be considered a
+near approach to Eriogaster, in the following order, Bombyces, in many
+of its peculiarities, as the abdominal hair with which it covers its
+eggs, in its antennae, &c. Orgyia antiqua, on the other hand, is in
+habit, expansion of wing, slender body, and apterous female, a close
+approach to the Geometrae, near the genera Hybernia and Nyssia; in
+fact, were it not for the larva, that is, were the larva unknown, we
+should have no hesitation about placing this insect with the Geometrae.
+
+Natural Order--_Phalaenae_. Larva, with sixteen feet; it has a circle of
+wart-like protuberances on each segment, from each of which spring a
+few strong bristles; pupa, smooth, with a few bristles at the tail;
+changes in a cocoon, which is singularly left partly open at one end.
+We have but one species of this order in Britain, Saturnia
+carpini;[52] but among exotics there is a great variety, some
+remarkable for the immense expanse of their wings.[53] Probably
+Phalaena Atlas of Linnaeus is the centre of the group, and, if so, the
+centre and type of the class Lepidoptera.
+
+          [52] Saturnia carpini is the Pavonia minor of Linnaeus, who,
+          apparently, considered it a variety of a completely
+          different species: the retention of a name thus originating
+          in error is not justifiable.
+
+          [53] Drury has some fine figures of this order, particularly
+          Vol. I. pl. xviii. 2; Vol. II. pl. v. 1, pl. vi. 2, pl. xi.
+          1, 2, pl. xiii. 2; Vol. III. pl. xix. pl. xxiv. pl. xxv. pl.
+          xxxiv.
+
+I have previously given, in a note, a list of the genera which are
+usually considered as Bombyces, and ought, therefore, if properly
+placed, to be included in the sub-class Phalaena; five of those genera
+yet remain, and at present must be excluded from the sub-class:
+Penthophera, Heterogena, and Limacodes, because I know nothing of
+their history; Nudaria and Psyche, because, in the larva, pupa, and
+imago states, they have the habit and appearance of another class
+(Neuroptera). The time of their dwelling with Lepidoptera is over and
+gone; they have already occupied too long a position to which they
+were not entitled. The difficulty of assigning a situation to
+Limacodes I hope to see removed, as the larva is occasionally to be
+met with. I must also remark, that although I have proposed a
+situation for Endromis, I feel very doubtful as to its being the
+correct one. These doubts and difficulties will probably gain me much
+censure; but I must endeavour to shelter myself in some degree, by
+observing, that I am the first who has ever deviated from the original
+Linnaean arrangement of Lepidoptera, the first who has ever thought of
+appealing to nature in support of theory, or rather has waited for
+nature to supply him with theory; and surely some allowance is to be
+made for a first attempt of any kind. I would also plead the poverty
+of our British Fauna in the sub-class, and my almost entire ignorance
+of exotic Phalaenae. Even supposing myself acquainted with all our
+indigenous species, they will barely furnish a systematist with a clew
+to the truth: you may pick up a single link of a chain, yet fail to
+discover the length of that chain, or the situation in that chain
+which the link originally possessed.
+
+Having, then, pointed out, as clearly as my limited knowledge of the
+subject will permit, not only the principal contents of the class
+Lepidoptera, but endeavoured to establish them in appointed and fixed
+stations, and to show their mutual approaches, at least those of the
+most striking kind and essential to my purpose, I must now proceed to
+make a few remarks on the nature of these approaches. It will be
+observed, that they are, almost without an exception, what Mr. MacLeay
+considers relations of affinity, that is, the relation is between
+species which, in their imago state, have a real and positive
+similarity to each other; so much so, that entomologists, unacquainted
+with the prior states, and frequently even in direct defiance of their
+own knowledge of those states, place them in orders, and even
+sub-classes to which they do not belong; to which fact all our systems
+and catalogues bear most ample testimony. This similarity is by no
+means confined to a cursory glance at the insects, but bears the test
+of a minute anatomical investigation, the antlia, palpi and antennae
+demonstrating the approach quite as forcibly as the form and
+appearance of the whole insect. Where a tribe has short biarticulate
+palpi, a genus departing from the type will assume elongated and
+triarticulate palpi, should another tribe with those characters
+approach it: again, should a tribe with long antlia approach a tribe
+whose character it is to have none, we shall be sure to find a genus
+without antlia at the point of approach. On the other hand, the very
+egg, the larva, the pupa, the mode of feeding and description of food,
+the mode of metamorphosis, and, in fact, every prior quality, or
+state, from which distinctions could be obtained, differ so decidedly,
+that the characters of these often bear as near an approach to those
+of Hymenoptera, Neuroptera, and even Coleoptera, as to those of their
+own kindred, into immediate contact with which these approaches will
+be found inevitably to bring them. What term can then be applied to
+designate the real value of this species of approach? Supposing the
+terms analogy and affinity to have had good, sound, and distinct
+meanings, as originally employed and explained by great naturalists,
+they have now been so confused, confounded, and utterly misunderstood
+by ignorant persons, that either of these terms is entirely out of the
+question:[54] in fact, a suitable term by which to designate this
+peculiar species of relation or approach, I neither know where to
+find, or how to invent; and, therefore, I shall purpose simply to call
+it relation of larva, relation of pupa, or relation of imago, as the
+case may be.
+
+          [54] No individual need say with more heartfelt
+          sincerity--"Preserve me from my friends," than Mr. MacLeay;
+          let the naturalist read the _Horae Entomologicae_, and he will
+          pause in admiration at the vigorous, manly display of
+          intellect, which, frankly and eagerly seeking truth, throws
+          a golden lustre over every page; and, I confess, my eyes
+          were opened to the suspicion that all was not pure gold, by
+          the awkward and abortive attempts of commentators to prove
+          it so. Puerile schemes of applying the quinary system in
+          detail, and sundry vapourings about affinity and analogy,
+          have so mystified these subjects, that they already totter
+          to their very foundations, and must speedily fall; while the
+          existence of circles must stand for ever as a discovery of
+          which Britain is proud.
+
+In one instance, the relation of imago is, from several combining
+causes, which it will be unavailing to recapitulate, uncertain
+enough--that of Barbicornis and Lasiocampa; but I would ask the
+impartial reader, is it half so far-fetched and untenable as those in
+common use? Can human sagacity, in sheer wantonness, invent
+combinations more unnatural than ----, twenty or thirty of which we
+could all point to in our own cabinets? For the value of the other
+relations (eleven others) I appeal to the judgment of the assiduous
+collector, the experienced observer, the real nature-loving
+naturalist,--to him who has spent days in the woods, and not only
+captured but observed these delightful beings,--to him who never
+invented or supported a theory,--to him who is pledged to no system,
+to no party,--I ask him, nothing doubting of his concurrence, whether
+these relations do not too plainly bear the impression of nature's
+seal, to allow him to doubt one instant of their reality.
+
+In the next place a question occurs, how is the relative position
+of the sub-classes proved to be correct, seeing it is so totally at
+variance with what we have from our childhood been perfectly satisfied
+with?[55] It is proved correct, simply and solely by the harmony
+with which each flows into each,--with which neighbour meets
+neighbour,--comparable somewhat to that exquisite feeling which
+induces a man to bend to the peculiarities, and perhaps even little
+failings of a friend, until he makes them almost his own. It can
+hardly be supposed that the sub-classes naturally fell into the
+positions which I have assigned to them, without some little
+endeavour, on my part, to produce this harmony. This was far from the
+case. The discovery, if it be one, was the result of serious and
+deliberate study. Even after arriving at their present state, I have
+twice endeavoured to alter these positions, once in hopes of making
+some of the Tortrices meet the Papilionidae, as I had an idea that that
+very assiduous and ingenious naturalist, Dr. Horsfield, had mentioned
+the discovery of such an approach.[56] In vain, however, did _I_
+strive to discover such an approach, in either larva, pupa, or imago,
+while these points of resemblance were most abundant between the
+Geometrae and Papiliones; the pupa, as though in sport, being now
+suspended by the tail, now girted round the waist, now enveloped in a
+silken web; sometimes round-headed, sometimes pointed, sometimes
+eared; now smooth, anon angulated, black, brown, yellow, pure green,
+clouded, or spotted: of these, and a thousand other peculiarities,
+which tended to corroborate my ideas of arrangement, I refused
+invariably to avail myself, trusting to one guide only, which seems as
+steadfast as a rock: that _relation of imago constitutes approach of
+divisions; relation of larva is the tie which holds divisions
+together_. The second alteration I endeavoured to make, was to place
+the Papiliones in the centre, a situation to which their splendour and
+magnitude would really appear to give them a title. This idea seems
+every way so plausible, and so likely to be proposed by entomologists,
+should any such see merit enough in this system to give their
+attention to its minutiae, that I am compelled to consider it more at
+large.
+
+          [55] This question has occurred.
+
+          [56] It is so long since I have seen Dr. Horsfield's
+          beautiful work, that I will not pledge myself to the
+          doctor's making this assertion.
+
+To a sub-class selected for a centre, two qualities are indispensably
+requisite. They have been previously given from Mr. MacLeay, who, it
+will be remembered, discovered that one of each of his five groups
+contained types of the other four, besides a type peculiar to itself.
+This quality must hold good in any group thus selected for a centre;
+it must contain types of the six surrounding groups in the first
+place. Now, is this applicable to Papilio? Have we not already
+experienced the greatest difficulty in finding three good approaches,
+the smallest number which a sub-class can possess? How then can we
+hope, by any good fortune in discovery, to make ourselves masters of
+three other entirely new ones, and these to sub-classes to which it is
+confessedly the most unlike? Phalaena, on the contrary, presents us
+with Lasiocampa, AEgeria, Cilix, Lithosia, Apatela and Orgyia, five of
+which genera beautifully typify the approximating sub-classes. The
+preference on this score then is decidedly with Phalaena.
+
+The second position, that it should contain a type peculiar to itself,
+is almost a matter of course; but my own idea is, that the very centre
+should not only be a type of the genus, or order, or sub-class, but of
+the class itself of which it is the centre. From this position, then,
+a further and still more important question arises,--What is the type
+of Lepidoptera? The parts which afford the generic characters of
+Lepidoptera, and, I believe, generic characters in the perfect state
+are the only ones of any value, are these--the mouth, palpi, antennae
+and wings; and, as no medium can constitute a type, the excess of
+these characters, whether superlatively or diminutively considered,
+must be resorted to as the most probable means we possess of
+discovering what this type may really be. First, then, the mouth. In
+Lepidoptera, we find two distinct characters in this;--first, its
+entire absence; secondly, its being furnished with prodigiously long
+antlia. The first character is that of Phalaena, the second that of
+Sphinx. Next, the palpi are either entirely obsolete or exceedingly
+prominent, the first in Phalaena, the second in Pyralis. Thirdly, the
+antennae are remarkably pectinated, or clavated, or setaceous: the
+first character is that of Phalaena, the second that of Papilio, the
+third that of Noctua. Fourthly, the wings are enormously expansive in
+proportion to the body, or remarkably small,--the first is the
+character of Phalaena, the second that of Sphinx. It need scarcely be
+added, that all these characters are to be met with in every
+intermediate degree of intensity. Now, it appears, that Phalaena
+possesses an extreme of each of the four principal characters, Sphinx
+of two, Noctua of one, and Papilio of one; therefore Phalaena is the
+typical genus, Phalaenae the typical order, and Phalaena the typical
+sub-class of Lepidoptera: and a necessary conclusion from this fact
+is, the type of Lepidoptera is an insect without antlia or palpi, with
+very pectinated antennae and enormously expansive wings, and we may add
+nocturnal flight: so that such peculiar characters as the thick full
+body and prodigiously long antlia of Sphinx, the clavate antennae,
+erect wings, and diurnal flight of Papilio, argue a departure from,
+and not an approach to, the type.
+
+By a reference to the Diagrams exhibiting the classes of Insecta, and
+the sub-classes of Lepidoptera, it will at once be observed, that the
+central group in each case contains types of the surrounding groups.
+Now after a central group has thrown off a set of six forms, each
+representing, in general appearance, some group equally extensive with
+such central group, the faculty or power of throwing off such forms
+becomes, in a good degree, extinct, or, at any rate, very much
+debilitated. This can be no unforeseen, but a perfectly natural, and
+absolutely necessary consequence; for taking either of the two classes
+which are at present sought after, Lepidoptera and Coleoptera, we must
+observe, that did either of them possess as varied forms and
+characters as are to be found in Neuroptera, the essential and
+distinguishing character of that class, viz. variety, and the
+harmonious arrangement of the whole sub-kingdom, would both be
+entirely lost; and it would remain for human ingenuity to locate
+either of the classes centrally or externally, as caprice, or the love
+of differing from others, might dictate. I wish it to be observed,
+that Neuroptera, in the genera Psyche, Cloeon, Termes, Psocus and
+Mantispa, does not merely assume the form of the genera, Tinea,
+Chironomus, Formica, Aphis and Mantis, but actually possesses the
+characters and appearance of the classes Lepidoptera, Diptera,
+Hymenoptera, Hemiptera and Orthoptera. The obviously homogeneous
+character of Lepidoptera and Coleoptera, although, probably,
+containing in every sub-class more species than the whole of
+Neuroptera, clearly disproves the existence of variety amongst their
+contents, equal to that amongst the contents of Neuroptera. Yet the
+power, although weakened, is by no means extinct; for, amongst the
+central group, Phalaena, we find the sub-classes, Papilio, Sphinx,
+Pyralis, Tinea, Noctua and Geometra, most faithfully pourtrayed in
+Lasiocampa, AEgeria, Cilix, Lithosia, Apatela and Orgyia, and not
+merely the individual genera which may happen to approach. As far as I
+can discover, after this second series of types the faculty becomes
+much weaker, and, after a third, ceases entirely. A decided difference
+existing between the first and second series of types, must on no
+account be lost sight of, because it so decidedly proclaims the
+superiority of the first: in the first instance, the whole character
+of the central type, Libellula, is completely lost in each of the
+varying types; whereas, in the second instance, the characters of
+Phalaena are preserved most decidedly to the remotest ramifications of
+the class, subject, however, to the variations already pointed out.
+
+The natural order, _Cossi_, of which the larva and pupa have been
+already described, contains but ten genera, even including those whose
+claim to a place in the order is somewhat doubtful; and these ten are
+readily referable to six families. The genus, Stygia, of New Holland,
+seems from Latreille's description, decidedly to belong to this order.
+Speaking of Stygia Australis, he says, "_M. Villiers la considere
+comme intermediare entre les Sesies et les Zygenes; mais elle n'a
+point de trompe; ses palpes sont ceux de Cossus; ses antennes sont
+courtes, et nullement en fuse, et plus analogues a celles de certains
+Bombyx qu'a celles des Sesies et des Zygenes_."[57] Now the fact, as
+M. Latreille supposes, of having no antlia, argues most forcibly the
+impossibility of uniting this genus either with Sphinx or Zygaena; for
+the sub-class Sphinx not only possesses the most elongate and
+conspicuous antlia of any sub-class, but retains this character to its
+very circumference, and imparts it to approaching groups, whose types
+will be found entirely aglossate: its similarity therefore in shape to
+the Sesiae, which tribe is generally understood to include the AEgeriae,
+is merely that relation of imago which I have before so repeatedly
+pointed out. The situation, which without this genus must have been
+vacant, thus filled, gives us a most perfect chain of families
+throughout the order, except at the point of connexion with Phalaena, a
+point of no consequence, because it too much favours old theories to
+be contested.
+
+          [57] Regne Animal, tom. V. p. 395.
+
+It is rather remarkable, that in this order no instance should occur
+of more than three genera belonging to any one family, a number which
+I should hardly suppose complete, because a difficulty must always
+occur in placing, as in discovering the typical genus or species,
+where the number is confined to three.
+
+The introduction of a new generic name, after what has been said on
+that subject, may appear rather an inconsistency, but I found it
+indispensable, as the species in question would not bend to either of
+the established genera, Trochilium or AEgeria; it will, moreover,
+afford those whose labours in this way I have somewhat deprecated, a
+fair opportunity for retaliation. The families and their relative
+situations, as far as my immature and hastily-formed judgment will
+allow me to decide, I have shown in the annexed diagram: but it is now
+time for me to describe the species whose situation I am endeavouring
+to point out.
+
+Sub-kingdom, INSECTA.
+
+Characters from the imago.
+
+The body is divided into three parts, head, thorax, and abdomen; the
+head has two fixed compound eyes, and two moveable antennae. Insects
+have six jointed legs in pairs; they breathe by lateral spiracles.
+
+Class, LEPIDOPTERA.
+
+Characters from larva, pupa, and imago.
+
+Larva polypod, bears no resemblance to the imago; pupa quiescent,
+bears no resemblance to the imago. Imago has four scaly wings, and the
+mouth aglossate or antliate.
+
+Sub-class, PHALAENAE (central).
+
+Characters from larva, pupa, and imago.
+
+All varying (the universal character of such central groups).
+
+[Illustration: GENERA OF THE NATURAL ORDER COSSI.]
+
+Natural order, COSSI.
+
+Characters from the larva and pupa.
+
+Larva depressed, kaned; has sixteen feet, lives through one or more
+winters, never rolls itself in a ring when touched, feeds on the solid
+interior woody parts of vegetables; pupa changes in a tough cocoon, in
+which are interwoven particles of the larva's food; it has a double
+row of small raised denticulations on each segment of the abdomen,
+which give it partially the power of locomotion.
+
+Family AEGERIIDAE, Stephens.
+
+Characters from the Imago.
+
+Palpi triarticulate, incrassated at the base, acuminate at the apex,
+prominent, enclosing the antlia; antennae, sub-cylindric, gradually
+incrassated from the base nearly to the apex, the apex itself
+acuminate and terminated with a fascicle of hairs; ocelli, two. Flight
+diurnal in the hottest sunshine.
+
+Genus MEMYTHRUS.--_Sphinx_, Linn.; _Sesia_, Laspeyres; _AEgeria_, Fab.
+
+Characters from the imago.
+
+Palpi very prominent, and densely clothed with scales at the base, in
+appearance angulated; antlia fine, not so long as the antennae; antennae
+the length of the thorax, in the male much pectinated, in the female
+simple; superior wings clothed with scales, inferior hyaline.
+
+Sp. 1. MEMYTHRUS VESPIFORMIS.--_Sphinx Vespiformis_, Linn. Syst. Nat.
+II. p. 804, n. 31. _AEgeria Asiliformis_ of Fabricius, and other
+authors.
+
+Characters from the imago.
+
+Palpi black, yellow at the apex; antennae black, beneath testaceous;
+fulvous at the base; head black, excepting a white mark before each
+eye; a yellow ring round the neck; thorax black, with a yellow spot at
+the base of each superior wing; abdomen black, slightly barbate, with
+three equidistant yellow belts; superior wings deep fuscous, inferior
+hyaline; femora and anterior tibiae black, posterior tibiae and all the
+tarsi yellow.
+
+Inhabits England, but is very rare.
+
+Sp. 2. MEMYTHRUS CRABRONIFORMIS.--_Sesia crabroniformis_, Lasp.
+
+Inhabits Italy.
+
+Sp. 3. MEMYTHRUS CRASSIPES.--_Sphinx crassipes_, Drury.
+
+Inhabits Africa.
+
+Sp. 4. MEMYTHRUS TIBIALIS.--_AEgeria tibialis_, Fab.
+
+Sp. 5. MEMYTHRUS ----?--Unnamed in the Linnaean cabinet.
+
+Several other species probably exist, with which I have not happened
+to meet.
+
+The principal distinctions between Memythrus and AEgeria are, that the
+antennae in the former are not longer than the thorax; in the latter
+they are much longer; in the males of the former genus they are
+decidedly pectinated, in those of the latter but obscurely ciliated;
+in the former the anterior wings are always opaque, in the latter
+always hyaline.
+
+
+    _Natural Divisions to which the_ SPHINX VESPIFORMIS _of Linnaeus is
+    referable._
+
+    FIRST PRIMARY GROUP     ANIMALIA.
+    FIRST KINGDOM           ANNULOSA.
+    CENTRAL SUB-KINGDOM     INSECTA.
+    FIRST CLASS             LEPIDOPTERA.
+    CENTRAL SUB-CLASS       PHALAENA.
+    SECOND NATURAL ORDER    COSSI.
+    SECOND FAMILY           AEGERIIDAE.
+    SECOND GENUS            MEMYTHRUS.
+    FIRST SPECIES           VESPIFORMIS.
+
+
+FINIS.
+
+R. CLAY, PRINTER, BREAD-STREET-HILL.
+
+
+DIRECTIONS FOR PLACING THE DIAGRAMS.
+
+1. The Classes of Insecta to face page 21.
+
+2. The Sub-classes of Lepidoptera to face page 31.
+
+3. The Natural Order of Cossi to face page 52.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Sphinx Vespiformis, by Edward Newman
+
+*** END OF THIS PROJECT GUTENBERG EBOOK SPHINX VESPIFORMIS ***
+
+***** This file should be named 43496.txt or 43496.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/3/4/9/43496/
+
+Produced by Chris Curnow and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

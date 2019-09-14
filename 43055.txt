@@ -1,0 +1,1071 @@
+The Project Gutenberg EBook of Transactions of the American Society of
+Civil Engineers, vol. LXVIII, Sept. 1910, Start/End Papers, by Various
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Transactions of the American Society of Civil Engineers, vol. LXVIII, Sept. 1910, Start/End Papers
+       The New York Tunnel Extension of the Pennsylvania Railroad
+
+Author: Various
+
+Release Date: June 28, 2013 [EBook #43055]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK AM. SOC. CIVIL ENG., START/END ***
+
+
+
+
+Produced by Juliet Sutherland, Martin Mayer and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+[Transcriber's Note: Bolded sections are rendered with equal signs
+e.g. =bold=.
+
+The oe ligature is rendered as[oe] e.g. Ph[oe]nixville.
+
+The following table is a cross index relating ASCE
+papers to Project Gutenberg(TM) file directories e.g.
+http://www.gutenberg.org/files/18229/ for paper 1150.
+
+ +-----+------------------------------------------------------+------+
+ |Paper|PAPER NAME & Author                                   |  PG  |
+ | No  |                                                      | file |
+ |     |                                                      |  No  |
+ |-----+------------------------------------------------------+------|
+ |1150 |THE NEW YORK TUNNEL EXTENSION OF THE PENNSYLVANIA     |18229 |
+ |     |RAILROAD. By Charles W. Raymond                       |      |
+ |1151 |THE NORTH RIVER DIVISION. By Charles M. Jacobs        |18548 |
+ |1152 |THE EAST RIVER DIVISION. By Alfred Noble              |18065 |
+ |1153 |MEADOWS DIVISION AND HARRISON TRANSFER YARD. By E. B. |18012 |
+ |     |Temple                                                |      |
+ |1154 |THE BERGEN HILL TUNNELS. By F. Lavis                  |21083 |
+ |1155 |THE NORTH RIVER TUNNELS. By B. H. M. Hewett and W. L. |42149 |
+ |     |Brown                                                 |      |
+ |1156 |THE TERMINAL STATION WEST. By B. F. Cresson, Jr.      |17302 |
+ |1157 |THE SITE OF THE TERMINAL STATION. By George C. Clarke |18408 |
+ |1158 |THE CROSS TOWN TUNNELS. By James H. Brace and Francis |19037 |
+ |     |Mason                                                 |      |
+ |1159 |THE EAST RIVER TUNNELS. By James H. Brace, Francis    |18722 |
+ |     |Mason, and S. H. Woodard                              |      |
+ +-----+------------------------------------------------------+------+
+
+]
+
+
+
+
+TRANSACTIONS
+
+OF THE
+
+AMERICAN SOCIETY
+
+OF
+
+CIVIL ENGINEERS
+
+(INSTITUTED 1852)
+
+VOL. LXVIII
+
+SEPTEMBER, 1910
+
+Edited by the Secretary, under the direction of the Committee on
+Publications. Reprints from this publication, which is copyrighted, may
+be made on condition that the full title of Paper, name of Author, and
+page reference are given.
+
+NEW YORK
+
+PUBLISHED BY THE SOCIETY
+
+1910
+
+       *       *       *       *       *
+
+Entered according to Act of Congress, in the year 1910, by the AMERICAN
+SOCIETY OF CIVIL ENGINEERS, in the Office of the Librarian of Congress,
+at Washington.
+
+       *       *       *       *       *
+
+NOTE.--This Society is not responsible, as a body, for the facts and
+opinions advanced in any of its publications.
+
+
+
+
+CONTENTS
+
+
+ THE NEW YORK TUNNEL EXTENSION OF THE
+ PENNSYLVANIA RAILROAD
+
+ NO.                                                             PAGE
+
+ 1150 THE NEW YORK TUNNEL EXTENSION OF THE PENNSYLVANIA             1
+      RAILROAD. By Charles W. Raymond
+
+ 1151 THE NORTH RIVER DIVISION. By Charles M. Jacobs               32
+
+ 1152 THE EAST RIVER DIVISION. By Alfred Noble                     62
+
+ 1153 MEADOWS DIVISION AND HARRISON TRANSFER YARD. By E. B.        75
+      Temple
+
+ 1154 THE BERGEN HILL TUNNELS. By F. Lavis                         84
+
+ 1155 THE NORTH RIVER TUNNELS. By B. H. M. Hewett and W. L.       152
+      Brown
+
+ 1156 THE TERMINAL STATION-WEST. By B. F. Cresson, Jr.            303
+
+ 1157 THE SITE OF THE TERMINAL STATION. By George C. Clarke       340
+
+ 1158 THE CROSS-TOWN TUNNELS. By James H. Brace and Francis       391
+      Mason
+
+ 1159 THE EAST RIVER TUNNELS. By James H. Brace, Francis Mason,   419
+      and S. H. Woodard
+
+
+ MEMOIRS OF DECEASED MEMBERS
+                                                  PAGE
+
+  JOHN FISKE BARNARD, M. AM. SOC. C. E.            479
+
+  ROBERT L. ENGLE, M. AM. SOC. C. E.               480
+
+  CHARLES HERBERT DEANS, ASSOC. M. AM. SOC. C. E.  482
+
+  WILLIAM MEIER, ASSOC. M. AM. SOC. C. E.          485
+
+
+=This Volume and the succeeding Volume of Transactions (Vol. LXIX) will
+contain all the Papers descriptive of the New York Extension of the
+Pennsylvania Railroad. A general index covering both Volumes will be
+issued in Vol. LXIX.=
+
+  PLATES
+
+  PLATE                                                   PAPER PAGE
+
+  I.       Map and Profile, Pennsylvania Tunnel &          1150   19
+           Terminal R. R., North Bergen Tunnel to Long
+           Island City
+
+  II.      Map and Profile, Harrison Yard to Bergen Hill   1150   21
+           Tunnel
+
+  III.     Plan of Sunnyside Yard                          1150   23
+
+  IV.      View of Tunnel Under Part of Atlantic Avenue,   1151   37
+           Brooklyn, N.Y.
+
+  V.       New York Underground Railway Company: Section   1151   39
+           Through Surface and Underground Stations
+
+  VI.      Pennsylvania Railroad Extension: Map Showing    1151   45
+           Proposed Lines Leading to Those Finally
+           Adopted
+
+  VII.     Plan, Profile, and Triangulation, North River   1151   47
+           Tunnels
+
+  VIII.    Typical Sections Between Manholes, Bergen       1151   51
+           Hill Tunnels
+
+  IX.      Map of Manhattan Island from Twenty-third to    1152   63
+           Fortieth Streets
+
+  X.       Manhattan Shaft, Lines A and B                  1152   65
+
+  XI.      Long Island Shaft, Lines A and B                1152   67
+
+  XII.     Typical Tunnel Sections                         1152   69
+
+  XIII.    Plan and Profile, East River Tunnels            1152   71
+
+  XIV.     Map and Profile, Cross-Town Tunnels             1152   73
+
+  XV.      Plan and Profile of Lines A and B, and          1152   75
+           Sunnyside Yard
+
+  XVI.     Plan and Profile of the Pennsylvania Tunnel &   1153   77
+           Terminal R. R., from Harrison, N. J., to the
+           Hudson River
+
+  XVII.    Plan of Harrison Yard                           1153   79
+
+  XVIII.   Details of Shelters and Platforms, Harrison     1153   81
+           Transfer Station
+
+  XIX.     Details of Shelters and Platforms, Harrison     1153   81
+           Transfer Station
+
+  XX.      Lift Rail and Locking Device for Hackensack     1153   83
+           River Draw-Bridge
+
+  XXI.     Hackensack Portal, Bergen Hill Tunnels;         1154   85
+           Method of Using Cross-Section Rod; and Belt
+           Conveyor for Handling and Placing Concrete
+
+  XXII.    Scaffold Car; Headhouse; and Round Holes in     1154   87
+           Concrete Forms
+
+  XXIII.   Record of Drilling, Air Pressure, Mucking,      1154   95
+           etc., in Bergen Hill Tunnels
+
+  XXIV.    Belt Conveyor for Handling and Placing          1154  119
+           Concrete; Water-Proofing, Portion of
+           Completed Sand-Wall, etc.; and Methods of
+           Placing Concrete in Forms and Bench-Walls
+
+  XXV.     Telephone and Telegraph Ducts and Mandrels;     1154  129
+           Tunnel Lining Forms; Placing Water-Proofing;
+           and Section of Completed Lining
+
+  XXVI.    Form of Circuit-Breaker Chamber and Traveling   1154  137
+           Gantry; Forms for Storage Chamber; Rock
+           Packing Over Arches; Method of Water-Proofing
+           in Timbered Tunnels, etc.
+
+  XXVII.   Method of Placing Water-Proofing and Keying     1154  145
+           Arch; View of Completed Tunnel; General View
+           of Completed Hackensack Tunnel and Arches
+           Through Cut-and-Cover Section; and View of
+           Hackensack Approach
+
+  XXVIII.  Plan and Profile of Parts of North River        1155  153
+           Tunnels
+
+  XXIX.    Weehawken Shaft; and Tunnel Shield Showing      1155  159
+           Hood
+
+  XXX.     Yard and Offices at Manhattan and Weehawken     1155  161
+           Shafts
+
+  XXXI.    Tunneling Shield                                1155  167
+
+  XXXII.   Thirty-Second Street Tunnels and Shield         1155  175
+           Chambers
+
+  XXXIII.  General Methods of Excavation Adopted for       1155  177
+           Land Tunnels
+
+  XXXIV.   Plan and Longitudinal Section of Weehawken      1155  193
+           Tunnels
+
+  XXXV.    Apparatus for Cleaning and Rodding Electric     1155  205
+           Cable Ducts
+
+  XXXVI.   Diagram Showing Lines and Grades in River       1155  229
+           Tunnel North
+
+  XXXVII.  Cross-Section of Subaqueous Tunnels Showing     1155  231
+           Reinforcement
+
+  XXXVIII. Back of Shield in South Tunnel; and Rear View   1155  237
+           of Shield During Erection of First Ring of
+           Iron Lining
+
+  PLATE                                                   PAPER PAGE
+
+  XXXIX.   View of Meeting of Shields; and Lowering        1155  253
+           Segment into Tunnel Invert
+
+  XL.      Sections of Tunnel During Construction,         1155  255
+           Showing Shield, Air Locks, Platforms, Etc.
+
+  XLI.     Placing Key Segment; and Method of Grouting     1155  257
+           Outside Iron
+
+  XLII.    Duct Bench Concrete Form in River Tunnels       1155  283
+
+  XLIII.   End of Portable and Adjustable Forms            1155  285
+           for Building Side Bench; and Steel Rod
+           Reinforcement in River Tunnels
+
+  XLIV.    Details of 20-Ft. Movable Form and Traveler     1155  287
+           for Concrete Arches
+
+  XLV.     Traveling Concrete Form for Face of Bench       1155  291
+           Walls
+
+  XLVI.    Mechanical Analysis of Sand Used in Mortar      1155  297
+           and Concrete
+
+  XLVII.   Views Showing Condition of Work at Site of      1156  307
+           Terminal Station
+
+  XLVIII.  Views Showing Excavation and Supports for       1156  317
+           Ninth Avenue Structures
+
+  XLIX.    Views Showing Underpinning for Ninth Avenue     1156  321
+           Elevated Railway
+
+  L.       Views Showing Condition of Work Between Ninth   1156  325
+           and Tenth Avenues, and Progress on Concrete
+           Walls
+
+  LI.      Views Showing Box Drains and Tie-Rods in        1156  333
+           Walls; the Completed Tenth Avenue Portal; and
+           the Disposal Trestle
+
+  LII.     Girders Under the Ninth Avenue Elevated         1156  335
+           Railroad; Method of Supporting Elevated
+           Railway Columns; and View of Inside of Form
+           for Walls, Showing Drains, Tie-Rods, Etc.
+
+  LIII.    Pennsylvania Station, New York City; Plan       1157  341
+           Showing Area at Track Level
+
+  LIV.     Diagram Showing Widths of Base of Retaining     1157  349
+           Wall Required for Different Batters and
+           Pressures, Pennsylvania Station
+
+  LV.      Material Trestle Over N. Y. C. & H. R. R. R.    1157  361
+           Co.'s Tracks; and Construction of Pier No.
+           72, North River
+
+  LVI.     Material Trestle Showing First Chutes in        1157  363
+           Operation; and Views of East and West Pits at
+           Terminal Site
+
+  LVII.    Methods of Excavation, Cross-Town Tunnels,      1158  393
+           Manhattan
+
+  LVIII.   Views of Parts of First Avenue Plant,           1158  395
+           Cross-Town Tunnels
+
+  LIX.     Methods of Tunneling, Timbering, and Lining,    1158  399
+           Cross-Town Tunnels
+
+  LX.      Methods of Timbering and Underpinning,          1158  407
+           Cross-Town Tunnels
+
+  LXI.     Sections Showing Method of Excavating and       1158  413
+           Timbering in Heavy Ground, Three-Track
+           Tunnel; and Carriage Form for Side Walls,
+           Cross-Town Twin Tunnels
+
+  LXII.    Methods of Water-Proofing and Concreting,       1158  417
+           Cross-Town Tunnels
+
+  LXIII.   Methods of Excavation in All Rock, East River   1159  423
+           Tunnels
+
+  LXIV.    Tunneling in Compressed Air, Air-Lock,          1159  425
+           Caisson, etc., East River Tunnels
+
+  LXV.     Shields Fitted with Sectional Sliding Hoods     1159  433
+           and Sliding Extensions and with Fixed Hoods
+           and Fixed Extensions to Floors, East River
+           Tunnels
+
+  LXVI.    Rear of Shield Showing Complete Fittings,       1159  435
+           and Shield with Lower Portion of Bulkhead
+           Removed, East River Tunnels
+
+  LXVII.   Methods of Tunneling in Rock, East River        1159  437
+           Tunnels
+
+  LXVIII.  Operation of Shields, East River Tunnels        1159  439
+
+  LXIX.    Operations in Shoving the Shield Forward in     1159  441
+           Rock and Sand, East River Tunnels
+
+  LXX.     Small Shaft, Breasting and Poling, Shutters     1159  443
+           on Front of Shield, and Hydraulic Erector,
+           East River Tunnels
+
+  LXXI.    Operations in Shoving the Shield Forward in     1159  445
+           Sand, and Final Breasting and Bulkheading,
+           East River Tunnels
+
+  LXXII.   Method of Operating Shields in Soft Ground,     1159  453
+           East River Tunnels
+
+  LXXIII.  Reinforcement of Broken Plates, and Inflow of   1159  455
+           Soft Clay Through Shield, East River Tunnels
+
+  LXXIV.   Methods of Placing Concrete Inside the Iron     1159  475
+           Tube, East River Tunnels
+
+
+
+
+MEMOIRS OF DECEASED MEMBERS.
+
+
+=JOHN FISKE BARNARD, M. Am. Soc. C. E.=[1]
+
+[1] Memoir prepared by W. K. Barnard, Assoc. M. Am. Soc. C. E.
+
+DIED FEBRUARY 6TH, 1910.
+
+John Fiske Barnard was born in Worcester, Mass., on April 23d. 1829. He
+was graduated from the Bridgewater Normal School, and from Rensselaer
+Polytechnic Institute.
+
+In November, 1850, Mr. Barnard entered the railway service. He
+held various engineering and operating positions with the Grand Trunk
+Railway and its subsidiary lines in Lower Canada, and served as Chief
+Engineer of the Grand Trunk South of the St. Lawrence River for the
+last three years of his connection with that road.
+
+In May, 1869, he went to the Missouri Valley Railroad as Superintendent
+and Chief Engineer. During the same year he was appointed Chief
+Engineer of the Kansas City-St. Joseph and Council Bluffs Railroad,
+and remained with this road and the Hannibal and St. Joseph Railroad
+(both now a part of the Burlington Missouri Lines), as Chief Engineer,
+General Superintendent, and General Manager, until 1886. During this
+time Mr. Barnard was also President of the Atchison Union Depot Company
+and the St. Joseph Union Stock Yards Company, Secretary and Treasurer
+of the St. Joseph Depot Company, and Director in various railroad
+companies.
+
+In 1886, Mr. Barnard was appointed President and General Manager of
+the Ohio and Mississippi Railway, which position he occupied until
+1892. From that time until 1893, he was engaged on several reports
+of projected railroads and appraisals of industrial and railroad
+properties.
+
+From 1893 to 1898, Mr. Barnard was Receiver of the Omaha and St. Louis
+(now Wabash) Railway, during part of which time he was also President
+of the Alton Bridge Company, and Receiver of the St. Clair-Madison and
+St. Louis Belt Line.
+
+In the spring of 1905 he moved to Los Angeles, Cal., where he lived
+until February 6th, 1910, when, after an illness of several months, he
+died at his home at the age of 81 years.
+
+Mr. Barnard was elected a Member of the American Society of Civil
+Engineers on September 1st, 1880. He was also a Member of the American
+Geographical Society.
+
+
+=ROBERT L. ENGLE, M. Am. Soc. C. E.=[2]
+
+[2] Memoir prepared by O. E. Selby, Jun. Am. Soc. C. E.
+
+DIED OCTOBER 16TH, 1909.
+
+Robert L. Engle was born on December 5th, 1846. He was a product of
+the time when opportunities for technical training were few, so that
+his engineering education was gained largely by contact with actual
+work. He began his professional career after the Civil War, in which
+he served for two years in the One Hundred and Forty-eighth Indiana
+Volunteer Infantry.
+
+The first construction work of any note on which Mr. Engle was engaged
+was the building of the Ohio and Mississippi Railroad, now a part of
+the Baltimore and Ohio System, extending from Cincinnati to St. Louis.
+Later, and up to 1878, he was connected with the construction of the
+Cincinnati Southern Railway, Cincinnati's municipally owned railway,
+as Division Engineer, at Ray Springs, Tenn. This work included several
+tunnels and other heavy work in the mountain territory.
+
+After the completion of the Cincinnati Southern, Mr. Engle went West,
+and was engaged in the construction of the Santa Fe Railroad at
+Trinidad, Colo., in the capacity of Assistant Chief Engineer. Under
+his direction the Royal Gorge Hanging Bridge was built, and much other
+interesting work was carried out. Mr. Engle's forte was location, and
+in the mountainous regions of the West he found ample exercise for this
+faculty. From Trinidad he moved to Santa Fe, N. Mex. His name is borne
+by Engle, N. Mex., now a thriving Western town.
+
+While still in the West, Mr. Engle was connected with the Mexican
+Central Railroad, at Chihuahua, Mexico, on construction work, and with
+the Denver and Rio Grande Railroad. It is thus seen that he played
+a part in much of the important pioneer railroad development of the
+mountain region of the West.
+
+In 1885, Mr. Engle began work on the location and construction of the
+Chicago, Burlington, and Northern Railroad, now part of the Burlington
+System, being located at St. Paul, Minn., as Assistant Chief Engineer
+of that portion of the line north of La Crosse, Wis. Later, his
+jurisdiction included the whole line. During 1887 and a part of 1888,
+he had charge of the construction of the Illinois Valley and Northern
+Railroad, as Chief Engineer, at La Salle, Ill. In the latter part of
+1888 he conducted surveys for coal branch lines connecting with the
+Chesapeake and Ohio Railway, in the mountains of West Virginia.
+
+Beginning in September, 1889, Mr. Engle was Resident Engineer on the
+construction of the Louisville and Jeffersonville Bridge over the Ohio
+River. During his term of service the substructure, involving several
+deep pneumatic foundations, was built, and parts of the approaches
+were erected. During his stay at Louisville Mr. Engle was selected as
+Arbitrator in a matter of disputed classification between the company
+and the contractor for the Pike's Peak Rack Railroad, and effected a
+satisfactory settlement. Among other things his later service included
+location work on the Tennessee Central Railroad, in 1892; location
+and construction work for the Missouri, Kansas and Texas Railroad, in
+Arkansas; and construction work on the Tidewater Railroad, now the
+Virginian Railway, at Princeton, W. Va. At the time of his death he was
+employed as Engineer for the contracting firm of Carpenter and Boxley,
+at Johnson City, Tenn.
+
+With the death of Robert L. Engle, the Profession loses one of those
+sturdy, self-made engineers, to whom the country is largely indebted
+for pushing railroad construction overland and through the West. In
+character, rugged like the mountains with which he was associated,
+he was still the gentlest of souls to those associated with him in
+subordinate capacities. The writer knew him as Chief and friend for
+many years, and cannot recall any departures from the lines of the
+highest dignity, rectitude, good habits, and good nature.
+
+Mr. Engle was a Member of the Engineers' Club of Cincinnati from the
+time of its organization. He maintained his home in Cincinnati for
+twenty-one years, while his engagements kept him at various other
+places.
+
+On February 20th, 1879, Mr. Engle married Miss Sallie McQueety, of
+Cincinnati, and is survived by her and their son and two daughters.
+His family and social relations were most happy, although his enforced
+absences from home kept him from much of the social contact which his
+qualities deserved.
+
+Mr. Engle was elected a Member of the American Society of Civil
+Engineers on September 7th, 1881.
+
+
+=CHARLES HERBERT DEANS, Assoc. M. Am. Soc. C. E.=[3]
+
+[3]Memoir prepared by Emil Diebitsch and Edwin S. Jarrett, Members, Am.
+Soc. C. E.
+
+DIED MARCH 7TH, 1909.
+
+Charles Herbert Deans was born in Chester, Delaware County, Pa., on
+November 30th, 1863, and died at his home in Ph[oe]nixville, Pa., on
+March 7th, 1909.
+
+His father, Charles Woodbury Deans, was prominent in educational work,
+and was active in the early organization and in the popularization of
+the Common School System of the State of Pennsylvania.
+
+On his father's side Mr. Deans was descended from the Deans and
+Sterling families, who, immediately following the War of the
+Revolution, emigrated from Connecticut to Susquehanna and Wyoming
+Counties, Pennsylvania. His mother was Priscilla Lyons Williams, of
+Chester, Delaware County, Pa., who was descended from the Lyons family
+of New Jersey and the Williams and Pennell families of Pennsylvania.
+
+From both his father and his mother Mr. Deans inherited a taste and
+aptitude for study. His youthful environment was among books and in an
+atmosphere which naturally encouraged the desire he early formed to fit
+himself for a professional life.
+
+His education was begun in private schools, but later he attended
+the public schools, and was graduated from the High School at
+Ph[oe]nixville, Pa., in 1881. He spent the next four years in practical
+work, learning business methods, becoming an excellent and accurate
+accountant, and familiarizing himself, in the works of the Ph[oe]nix
+Iron Company, with mill and shop methods and practice, and the
+metallurgy of iron and steel.
+
+In 1885, Mr. Deans entered Lehigh University, well prepared in his
+studies, with a mind ripe for the absorption of further knowledge, and
+a temperament for enjoying to the utmost the four years of University
+life before him. He was a good student, standing well up in the first
+quarter of his class. He was elected a member of Theta Delta Chi
+Fraternity, was one of the Editors and Assistant Business Manager of
+the college Annual in his Junior year, and Business Manager of the
+Engineering Journal in his Senior year. He was graduated in 1889 with
+the degree of C. E.
+
+As a boy Mr. Deans was fond of games and all healthy outdoor sports.
+He was a lover of Nature and of animals, fond of fishing and hunting,
+and was never happier than when roaming the beautiful woods and
+mountains of his native State. With such tastes it was natural to
+find him, in his college days, a participator in, and an enthusiastic
+supporter of, athletic games.
+
+Not only in athletics, but in all things pertaining to Lehigh
+University, Mr. Deans was a most loyal and enthusiastic son of his
+Alma Mater, both at college and after he had gone out into the world.
+He thoroughly appreciated the benefits derived from his technical
+training, and was so eager that others should share them, that early in
+his business career he advanced sufficient funds to two ambitious young
+men to carry them through Lehigh.
+
+Immediately after graduation Mr. Deans entered the employ of Sooysmith
+and Company, the well-known foundation engineers and contractors. He
+rapidly advanced to positions of responsibility with this company, and,
+in 1895, became its Vice-President and Chief Executive Officer. When, a
+year or two later, Charles Sooysmith, M. Am. Soc. C. E., retired from
+active business, Mr. Deans organized, from the Sooysmith and Company
+staff, the Engineering Contract Company, of which he became President.
+Pressure of business seriously undermining his health, he was forced to
+give up temporarily all work in 1900, and to spend the next two years
+in the mountains of Northern Pennsylvania. On regaining his health, he
+associated himself with the firm of John Monks and Son, of New York
+City, and, at the time of his death, he was Second Vice-President of
+that company.
+
+While under his executive charge, both Sooysmith and Company and
+the Engineering Contract Company, constructed a number of the most
+important bridge foundations in the United States, and the former firm
+first successfully introduced pneumatic work in the foundations of the
+modern high office buildings of New York City, notably the Manhattan
+Life, Washington Life, Standard Oil, and Empire Buildings on Lower
+Broadway. At the time of his death, Mr. Deans was in full charge of the
+building of the piers of the reconstructed Baltimore and Ohio bridge
+over the Susquehanna River, at Havre de Grace, Md.
+
+In the early years of his connection with Sooysmith and Company,
+Mr. Deans was employed on work in the field, rising from subordinate
+positions to that of Superintendent in responsible charge of work.
+During this period he acquired an intimate and practical knowledge of
+foundation construction, and his subsequent career gave evidence of
+the value of this training. Being thus well-equipped, Mr. Deans soon
+became notable as a business engineer. His judgment on all substructure
+engineering problems was quick and keen, his thorough technical
+knowledge being supplemented by his penetrating practical sense. His
+business ability was of a high order, and his efficiency was largely
+increased by his industry and methodical habits. As a negotiator, he
+was in the first rank. His quick appreciation of the essentials in
+business transactions, his fertile resource in the most complicated
+financial dealings, his patience and persistence in the face of
+discouragement or delay, and his inflexible determination when once his
+decisions were reached, were qualities which placed him in the highest
+rank as a contracting engineer. To those with whom he came in close
+contact, Mr. Deans will always be remembered as exemplifying the ideal
+combination of technical training with business efficiency.
+
+He lightened the seriousness of his business transactions with a
+quick sense of fun, a fondness for a good story, and an infectious
+good humor. His genuine interest in the work of his associates and
+his unfeigned delight in their success won him many friendships which
+lasted throughout his life and which now keep his memory warm in the
+hearts of those who were fortunate enough to know him intimately.
+Strong of will, keen and clear-sighted in business transactions, loyal
+to his friends and to the interests entrusted to him, he was, above
+all, a genial, honorable, many-sided man, who loved his fellow men.
+
+Mr. Deans leaves a mother, Mrs. Charles W. Deans, of Ph[oe]nixville,
+Pa., a brother, John Sterling Deans, M. Am. Soc. C. E., Chief Engineer
+of the Ph[oe]nix Bridge Company, and two sisters, Mrs. R. Barclay
+Calley, of Seattle, Wash., and Mrs. Elmer E. Keiser, of Tacony, Pa.
+
+In 1893, Mr. Deans married Miss Helen Arnold of West Chester, Pa., who,
+with two sons, Charles Woodbury, aged 15, and Malcolm Arnold, aged 13,
+survives him.
+
+Mr. Deans was elected a Junior of the American Society of Civil
+Engineers, on December 3d, 1890, and an Associate Member on May 6th,
+1896.
+
+
+=WILLIAM MEIER, Assoc. M. Am. Soc. C. E.=[4]
+
+[4] Memoir prepared by William A. Theodorsen and E. James Fucik,
+Associate Members, Am. Soc. C. E.
+
+DIED FEBRUARY 14TH, 1910.
+
+William Meier, the son of the Reverend Jacob L. and Mary Meier, was
+born in Muscatine, Iowa, on April 10th, 1878, the family moving to
+Chicago, Ill., in the same year.
+
+Mr. Meier received his education in the public schools of Chicago and
+at the University of Illinois, from which he was graduated in 1901,
+with the degree of B. S. in Civil Engineering.
+
+After his graduation, Mr. Meier was engaged with various firms,
+principally in bridge and structural work. For a time he was with
+William M. Hughes, M. Am. Soc. C. E., and in January, 1905, he entered
+the service of the Scherzer Rolling Lift Bridge Company, as Assistant
+in the Chicago office; and later was appointed Assistant Engineer and
+Eastern Representative, with headquarters in New York City. At the time
+of his death, Mr. Meier was employed in the Bridge Department of the
+Chicago and North Western Railway.
+
+On February 14th, 1910, in diving from a spring-board, in the
+natatorium of the Young Men's Christian Association, he struck his head
+against the side or bottom of the tank. When his body was taken from
+the water, life was extinct, and all efforts at resuscitation were
+futile.
+
+Mr. Meier took great interest in all that pertained to his profession.
+
+He was elected an Associate Member of the American Society of Civil
+Engineers, on June 1st, 1909. He was also a Member of the Western
+Society of Engineers.
+
+
+
+
+
+End of the Project Gutenberg EBook of Transactions of the American Society
+of Civil Engineers, vol. LXVIII, Sept. 1910, Start/End Papers, by Various
+
+*** END OF THIS PROJECT GUTENBERG EBOOK AM. SOC. CIVIL ENG., START/END ***
+
+***** This file should be named 43055.txt or 43055.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/3/0/5/43055/
+
+Produced by Juliet Sutherland, Martin Mayer and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
