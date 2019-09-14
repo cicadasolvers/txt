@@ -1,0 +1,3705 @@
+The Project Gutenberg EBook of Systematics of Megachiropteran Bats in the
+Solomon Islands, by Carleton J. Phillips
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Systematics of Megachiropteran Bats in the Solomon Islands
+
+Author: Carleton J. Phillips
+
+Release Date: July 1, 2012 [EBook #40112]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SYSTEMATICS OF MEGACHIROPTERAN BATS ***
+
+
+
+
+Produced by Chris Curnow, Joseph Cooper, Tom Cosmas and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+
+Transcriber's Notes
+
+Text Emphasis
+================
+_Text_ - Italics
+=Text= - Bold
+
+Symbolic Representations
+==============================
+[F]   Female symbol
+[M]   Male symbol
+[BC]  Circle Black
+[TW]  Circle Top White
+[RW]  Circle Right White
+[BW]  Circle Bottom White
+[LW]  Circle Left White
+[RTW] Circle Right Third White
+[LTW] Circle Left Third White
+
+
+
+
+UNIVERSITY OF KANSAS PUBLICATIONS
+
+MUSEUM OF NATURAL HISTORY
+
+Vol. 16, No. 8, pp. 777-837, 17 figures in text
+
+December 16, 1968
+
+
+Systematics of Megachiropteran Bats in the Solomon Islands
+
+BY
+
+CARLETON J. PHILLIPS
+
+
+UNIVERSITY OF KANSAS
+
+LAWRENCE
+
+1968
+
+
+
+
+UNIVERSITY OF KANSAS PUBLICATIONS, MUSEUM OF NATURAL HISTORY
+
+Editorial Committee: E. Raymond Hall, Chairman; Frank B. Cross, Editor;
+Henry S. Fitch; J. Knox Jones, Jr.
+
+
+Volume 16, No. 8, pp. 777-837, 17 figs.
+
+Published December 16, 1968
+
+
+UNIVERSITY OF KANSAS
+
+Lawrence, Kansas
+
+
+PRINTED BY
+
+ROBERT R. (BOB) SANDERS, STATE PRINTER
+
+TOPEKA, KANSAS
+
+1968
+
+[Illustration]
+
+31-9490
+
+
+
+
+Systematics of Megachiropteran Bats in the Solomon Islands
+
+BY
+
+CARLETON J. PHILLIPS
+
+
+
+
+CONTENTS
+
+
+                                                                  PAGE
+
+  INTRODUCTION                                                     781
+
+  GAZETTEER                                                        783
+
+  METHODS AND MATERIALS                                            786
+
+  ACKNOWLEDGMENTS                                                  786
+
+  KEY TO GENERA                                                    787
+
+  _Rousettus amplexicaudatus hedigeri_ Pohle                       788
+
+  _Pteralopex atrata atrata_ Thomas                                791
+
+  _Pteralopex atrata anceps_ Andersen                              792
+
+  _Pteropus hypomelanus luteus_ Andersen                           796
+
+  _Pteropus admiralitatum solomonis_ Thomas                        796
+
+  _Pteropus admiralitatum colonus_ Andersen                        796
+
+  _Pteropus admiralitatum goweri_ Tate                             797
+
+  _Pteropus howensis_ Troughton                                    797
+
+  _Pteropus tonganus geddiei_ MacGillivary                         798
+
+  _Pteropus rayneri rayneri_ Gray                                  800
+
+  _Pteropus rayneri grandis_ Thomas                                801
+
+  _Pteropus rayneri rubianus_ Andersen                             802
+
+  _Pteropus rayneri lavellanus_ Andersen                           802
+
+  _Pteropus rayneri monoensis_ Lawrence                            803
+
+  _Pteropus rayneri cognatus_ Andersen                             803
+
+  _Pteropus rayneri rennelli_ Troughton                            804
+
+  _Pteropus woodfordi_ Thomas                                      804
+
+  _Pteropus mahaganus_ Sanborn                                     806
+
+  _Dobsonia inermis inermis_ Andersen                              808
+
+  _Dobsonia inermis_ new subspecies                                809
+
+  _Macroglossus lagochilus microtus_ Andersen                      813
+
+  _Melonycteris aurantius_ Phillips                                816
+
+  _Melonycteris woodfordi_ Thomas                                  816
+
+  _Nyctimene albiventer bougainville_ Troughton                    818
+
+  _Nyctimene albiventer_ new subspecies                            819
+
+  _Nyctimene_ new species                                          822
+
+  _Nyctimene major scitulus_ Andersen                              825
+
+  ZOOGEOGRAPHY AND SPECIATION                                      825
+
+  LITERATURE CITED                                                 834
+
+
+
+
+INTRODUCTION
+
+
+The Solomon Islands constitute an archipelago east of the large island
+of New Guinea and more than a thousand miles off the northeastern coast
+of Australia. This archipelago, which is principally of volcanic origin
+although sedimentary layers of calcareous rocks occur on many islands
+(Lever, 1934; Belkin, 1962), consists of a double chain of islands
+having a northwest-southeast axis of more than 600 miles. The
+archipelago is more or less an extension of New Guinea and in fact is
+connected to it in stepping-stone fashion by New Britain, New Ireland,
+and numerous smaller islands (see Fig. 1).
+
+Australia and New Guinea have many kinds of mammals but the only
+terrestrial mammals in the Solomon Islands are a species of the genus
+_Phalanger_ (order Marsupialia), and several species of four genera of
+rodents, one genus of which probably was introduced by man.
+Additionally, several kinds of bats have reached and colonized the
+Solomon Islands.
+
+    [Illustration: FIG. 1. Showing the Solomon Islands in relation to
+       major adjacent land masses.]
+
+In the past 100 years at least 43 species and subspecies of Chiroptera
+of 16 genera have been recorded from the Solomon Islands; of these 27
+species and subspecies of seven genera are in the suborder
+Megachiroptera. At least one genus of Megachiroptera is endemic as are
+numerous species of other genera, and subspecies of still other species.
+
+In 1963 and 1964, the Bernice P. Bishop Museum sent several collecting
+parties to the British Solomon Islands Protectorate and the Australian
+Trust Territory of New Guinea. In the Solomons, J. Linsley Gressitt,
+Philip Temple, Peter Shanahan, and Ray Straatmann visited many of the
+larger and more accessible islands and collected a wealth of zoological
+materials. I have had the opportunity to study and report on specimens
+of mammals, especially bats, collected by the persons named and
+deposited in the Bishop Museum. This report is the third in a series on
+bats from the Solomons (Phillips, 1966; 1967). Other specimens, mostly
+obtained in 1944 by personnel of United States military units, are
+stored in the United States National Museum and have been available for
+study. Aims of the following report are to (1) identify the
+megachiropteran bats to species and subspecies and (2) discuss
+distribution of these bats in the Solomon Islands.
+
+In all, 27 kinds (subspecies and monotypic species) of the order
+Megachiroptera are known from the Solomon Islands. These pertain to
+three subfamilies of the one family Pteropodidae.
+
+The 43 Solomon Islands, having a total land area of more than 15,300
+square miles (see Belkin, 1962:42-43), are listed in the gazetteer (see
+also Figure 2). Politically, all of the Solomon Islands except Buka and
+Bougainville, which are included in New Guinea Trust Territory under
+mandate to Australia, are in the British Solomon Islands Protectorate.
+
+The Solomons are within 300 to 700 miles of the equator and have a
+fairly constant tropical climate, except at high elevations. The
+temperature varies little; monthly mean temperature is between 81 deg. and
+83 deg. F. and at sea level ranges from about 70 deg. to 93 deg. F. yearly (Belkin,
+1962:42).
+
+Southeast tradewinds are relatively constant from May to October and
+this period, in general, is a dry season except at higher elevations on
+windward coasts. From December to March prevailing winds are from the
+north and precipitation throughout the island group is especially heavy.
+Rainfall on the island of Tulagi averages about 120 inches per year
+(Bryan, Edwin H., 1941; MS, p. 2, at Pacific Sci. Information Center,
+Bishop Museum) and up to 300 inches have been recorded on the north
+coast of Guadalcanal (Belkin, 1962:42-43). Occasional dry periods occur
+even in the period of December to March.
+
+Most islands of the Solomon Group support dense tropical rain forest.
+Much of it has been modified by man. Some clearings and scattered
+coconut plantations are found along coasts. On some of the larger
+islands (for example, Guadalcanal) coastal scrub (especially on leeward
+coasts) and extensive grassy areas are to be found. Additional notes on
+vegetation are in the gazetteer.
+
+The 165,000 persons living on the Solomon Islands are mostly
+Melanesians but some are mixed Papuan, Malay, and Polynesian. These
+native peoples are notorious for their cannibalistic tendencies; the
+eating of human flesh usually was related to warfare, although
+malefactors and human sacrifices accounted for some of the cannibalism
+(Cranstone, 1961:29). Prior to the Second World War few Europeans
+visited the Solomons and several islands still remain beyond reach of
+modern-day technology. For example, Rennell and Bellona islands, south
+of the main part of the archipelago, are visited only rarely, and then
+only by a medical officer or the Resident Commissioner. According to
+Troughton (1936:341), the islanders in the interior of Bougainville as
+late as 1935, were prone to kill and feast upon strangers. In 1932,
+Lewis (1951:37) felt that the natives of Malaita Island were especially
+resistant to outside interference by Caucasians and reported that no
+"white man or foreigner" was safe on Malaita.
+
+Troughton (1936), who listed Melanesian names for mammals, indicated
+that the native peoples distinguished between kinds of bats that closely
+resembled one another. Of these, the only bats that seem to be used as
+food belong to the genus _Pteropus_.
+
+
+
+
+GAZETTEER
+
+
+In the following list, currently-used names of islands are given; when
+available, older names and variant spellings are indicated in
+parentheses. For certain islands, especially those visited by field
+parties from the Bishop Museum or those frequently mentioned in previous
+literature on bats, some descriptive and ecological information also is
+provided.
+
+Latitude and longitude of islands are from publication no. 881 of the
+Hydrographic Office of the United States Navy Department (Anonymous,
+1944); names of islands were checked against a list by Brigham (1900);
+descriptive information mostly is from reports by Temple and Straatmann
+(1964, field notes, at the Department of Entomology, Bishop Museum).
+
+ALU.--7 deg. 07' S, 155 deg. 54' E.
+
+BANIKA.--9 deg. 05' S, 155 deg. 13' E.
+
+BARA (Gera).--9 deg. 31' S, 160 deg. 31' E.
+
+BELLONA (Bello).--11 deg. 18' S, 159 deg. 48' E.
+
+BOUGAINVILLE (Mamamolimo).--6 deg. 12' S, 155 deg. 15' E. This is the largest
+island in the Solomon Group, being 127 miles long (northwest to
+southeast) and about 59 miles across at the widest place. The highest
+elevations are 9850 and 10171 feet, at the tops of active volcanoes.
+Ecologically, Bougainville is mostly dense rain forest, which is less
+dense on the summits of higher mountains.
+
+BUKA.--5 deg. 15' S, 154 deg. 38' E.
+
+CHOISEUL.--7 deg. 04' S, 157 deg. 01' E. This island, formed along a
+northwest-southeast line of low mountains (maximum elevation of 3500
+feet), is about 90 miles long and 20 miles wide. Most collecting was at
+Malangona (Sasamunga on some maps) on the southwestern coast.
+
+FAURO.--6 deg. 55' S, 156 deg. 07' E. This small island, about 14 miles long
+(north-south) and six miles wide (east-west), lies about 10 miles south
+and east of Bougainville. Fauro is formed around a volcanic cone having
+a maximum elevation of 1925 feet; it has considerable dense mangrove
+swamp along the west coast, and mature rain forest with little
+understory growth. Most collecting was at Toumoa, on one of two southern
+peninsulas.
+
+FLORIDA (Nggela).--9 deg. 05' S, 160 deg. 16' E. Florida, the main island in the
+Nggela Island Subgroup, is mountainous and except for some small grassy
+areas, supports dense rain forest. It is nearly 25 miles long
+(east-west) and nine miles wide (north-south), with a maximum
+elevation, at Mount Barnett, of about 1366 feet. Most collecting was at
+Haleta, on the southwestern coast. At this locality there were scattered
+mangrove swamps, rain forest, and gardens inland.
+
+GANONGGA (Ronogo, Ronongo).--8 deg. 03' S, 156 deg. 35' E.
+
+GATUKAI.--8 deg. 47' S, 158 deg. 12' E.
+
+GHIZO (Gizo, Keso).--8 deg. 05' S, 156 deg. 59' E.
+
+GOWER (N'dai).--7 deg. 54' S, 160 deg. 34' E.
+
+GUADALCANAL (Guadalcanar).--9 deg. 15' S, 159 deg. 35' E. Guadalcanal is mostly
+of volcanic origin and has an irregular chain of mountains along the
+southern coast. The highest elevation is 8005 feet at Mount Popomanasiu.
+This large island is nearly 80 miles long (east-west) and 25 miles wide
+(north-south). Most of the northwestern part of Guadalcanal supports
+_alang-alang_ grass. The remainder of the island is heavily wooded.
+
+KILINAILAU (Cartaret).--4 deg. 44' S, 155 deg. 28' E.
+
+KOLOMBANGARA (Duki, Kulambangara).--8 deg. 00' S, 157 deg. 05' E. Kolombangara,
+formed from an extinct volcano, is about 18 miles in diameter and nearly
+circular. The highest peaks, rising as precipitous cliffs in some
+places, reach a maximum elevation of about 5000 feet. The vegetation is
+mostly virgin rain forest. Mangrove swamp and small coconut groves occur
+along the coast. Field parties from the Bishop Museum were able to reach
+the highest elevations, and concentrated their work along the
+southwestern side of the island.
+
+    [Illustration: FIG. 2. Solomon Islands. Principal islands
+       are named.]
+
+MALAITA (Mala, Malanta, Malayta).--9 deg. 00' S, 161 deg. 00' E. This long (104
+miles northwest to southeast), narrow (about 23 miles at its widest
+spot) island, between Santa Ysabel and San Cristobal islands, is
+basically of volcanic origin with some limestone (coral) deposits along
+the coast. Mount Kolovrat, having an elevation of 4275 feet, is the
+highest point. The Bishop Museum field party lived at Dala, in dense
+rain forest about 12 miles north of Auki on the northwestern coast of
+Malaita.
+
+MALAPA.--9 deg. 49' S, 160 deg. 53' E.
+
+MONO (Treasury).--7 deg. 22' S, 155 deg. 35' E. This is a small island (maximum
+elevation 1150 feet) in the Treasury Island Subgroup just south of
+Bougainville. Mono is about nine miles long (east-west) and five and one
+half miles wide (north-south). The basic volcanic core is described in
+field notes as topped with coral limestone.
+
+NEW GEORGIA (Kausagi).--8 deg. 20' S, 157 deg. 30' E. The New Georgia Subgroup
+is composed of 11 moderate-sized islands and islets. New Georgia Island,
+the main member of the subgroup, is 50 miles long (northwest to
+southeast) and from five to 30 miles wide. On the northern side several
+volcanic peaks attain an elevation of about 3000 feet. The entire island
+is forested.
+
+NGGELA (Florida Islands).--4 deg. 31' S, 154 deg. 11' E. This subgroup consists
+of several small to medium-sized islands between Guadalcanal and
+Malaita. Florida is the main island.
+
+NISSAN (Green, Sir Charles Hardy's).--4 deg. 31' S, 154 deg. 11' E.
+
+NUKUMANU (Le Maira, Tasman).--4 deg. 32' S, 159 deg. 25' E.
+
+ONTONG JAVA (Lord Howe Atoll, Liuniuwu).--5 deg. 25' S, 159 deg. 30' E.
+
+PAVUVO.--9 deg. 04' S, 159 deg. 08' E.
+
+RAMOS.--8 deg. 16' S, 160 deg. 11' E.
+
+RENNELL.--11 deg. 38' S, 160 deg. 14' E. This island, of limestone (coral)
+origin, along with Bellona, is nearly 100 miles southwest of any other
+member of the Solomons and has been regarded, because of this distance,
+as an oceanic island instead of a continental island. It is about 50
+miles long (east-west) and nine miles wide (north-south); its highest
+elevation is 500 feet.
+
+ROVIANA (Rendova, Rovianna, Rubiana).--8 deg. 21' S, 157 deg. 20' E.
+
+RUSSELL.--9 deg. 04' S, 159 deg. 12' E.
+
+SAN CRISTOBAL (San Christoval, Bauro, Makira, Arussi).--11 deg. 33' S, 161 deg.
+43' E. This island is composed mostly of ancient volcanic rock, has a
+maximum elevation of 4100 feet, is nearly 70 miles long (northwest to
+southeast) and 24 miles wide, and supports a dense rain forest.
+
+SANTA YSABEL (George, Ysabel, San Isabel, Isbel, Mahaga).--8 deg. 00' S,
+159 deg. 07' E. Santa Ysabel is a long (90 miles from northwest to
+southeast), narrow (19 miles at the widest spot), forested island,
+consisting of a single chain of volcanic mountains. The numerous bays
+and mouths of rivers provide excellent anchorages. Collecting was at
+Tatamba approximately two miles south of Tanambuli where the
+considerable area of forest was dense and bamboo thickets were abundant.
+
+SAVO (Savu).--9 deg. 08' S, 159 deg. 49' E.
+
+SHORTLAND.--7 deg. 03' S, 155 deg. 47' E.
+
+SIKAIANA (Stewart).--8 deg. 22' S, 162 deg. 44' E.
+
+SIMBO (Narovo, Naorovo, Naravo, Navoro, Sembo).--8 deg. 16' S, 156 deg. 31' E.
+
+STIRLING.--7 deg. 25' S, 155 deg. 35' E.
+
+TANABULI (Tanambuli, Tunnibili, Tunnibilis, Tunnibul, Tunnivula).--8 deg.
+24' S, 159 deg. 35' E.
+
+TAUU (Marqueen, Mortlock).--4 deg. 48' S, 157 deg. 32' E.
+
+TELIPARI.--8 deg. 15' S, 157 deg. 32' E.
+
+UGI.--10 deg. 14' S, 161 deg. 44' E.
+
+VANGUNO (Vangunu).--8 deg. 39' S, 158 deg. 00' E.
+
+VELLA LAVELLA.--7 deg. 43' S, 156 deg. 40' E. The coastline is rugged and
+indented by numerous small bays. Some peaks are 3000 feet high. The
+southeastern half of Vella Lavella is said to consist of uplifted coral,
+and to be thickly planted to coconut palms. The native population is
+concentrated here. The northwestern half of the island is rain forest
+and is nearly uninhabited. Most of the collecting was at Pusisama, on
+the southern beach and on Ulo Crater, an extinct volcano at the middle
+of the island.
+
+YANNTA.--10 deg. 20' S, 161 deg. 20' E.
+
+
+
+
+METHODS AND MATERIALS
+
+
+The phylogenetic arrangement and nomenclature in the text beyond are
+mainly that of Laurie and Hill (1954). The synonymies for accounts of
+genera are as follows: (1) first use of the generic name employed along
+with the original description, and (2) original proposals, in
+chronological order, of other generic names subsequently applied to the
+bat in the Solomons. The synonymies in accounts of species and
+subspecies are as follows: (1) first use of the accepted name, followed
+by its type locality, followed, in chronological order, by other
+references to the first name-combination, (2) first use of the
+name-combination employed herein (if different from the original
+combination), followed, in chronological order, by other references to
+the present name-combination, and (3) other name-combinations, in
+chronological order, employed for the bat in the Solomons. The word
+"part" is used in parentheses after a name if some specimens listed
+under that name are from the Solomon Islands and are referable to the
+species or subspecies being written about.
+
+Unless noted otherwise, specimens listed as examined were prepared
+originally as museum skins with skulls. Approximately 70 per cent of
+bats collected in the Solomons were preserved in formalin and now are
+stored in alcohol. Because it was necessary to obtain dimensions and
+examine various morphological characteristics of skulls, many crania
+were extracted from bats preserved in alcohol.
+
+Although all specimens in the Bishop Museum from the Solomon Islands
+have been catalogued with the prefix BBM-BSIP, catalogue numbers without
+prefixes in the lists of specimens examined refer to this museum.
+Catalogue numbers with the prefix USNM refer to specimens in the U. S.
+National Museum and those with the prefix AM-M refer to specimens in the
+Australian Museum.
+
+Unless indicated otherwise, all measurements in this paper are in
+millimeters and are of adults. Cranial measurements, and external
+measurements of specimens stored in alcohol, were taken by me. The
+cranial measurements were taken with dial calipers using techniques
+described by Hall (1946:672-685). External measurements (except length
+of forearm) of specimens originally prepared as dried study skins, were
+transcribed from specimen labels.
+
+Capitalized color nomenclature is from Ridgway (1912). Noncapitalized
+color terms are from published reports that did not use Ridgway's
+terminology.
+
+
+
+
+ACKNOWLEDGMENTS
+
+
+Financial support for this investigation was from (1) a United
+States Army Medical Research and Development Command grant
+(DA-MD-49-193-62-G65) to the Entomology Department of the Bernice P.
+Bishop Museum, and (2) a National Science Foundation grant (2185-4703)
+to the author, through the Committee on Systematics and Evolutionary
+Biology of The University of Kansas. I am grateful to many individuals
+who have helped me in various ways throughout the course of this study.
+Dr. J. Linsley Gressitt, Chairman of the Entomology Department, Bernice
+Bishop Museum, allowed me to study specimens collected by his
+expeditions; Professors E. Raymond Hall and J. Knox Jones, Jr., of the
+Museum of Natural History and the Department of Zoology, The University
+of Kansas, offered advice and guidance and constructively reviewed the
+manuscript. Other persons who have given me assistance and, in some
+cases, arranged for loans of comparative materials, are: Dr. David H.
+Johnson, Division of Mammals, United States National Museum; Mr. Hobart
+M. Van Deusen and Dr. Richard G. Van Gelder, Archbold Expeditions and
+Department of Mammalogy, American Museum of Natural History; Messrs.
+Ellis LeG. Troughton and Basil Marlow, Mammal Department, The Australian
+Museum; Dr. Joseph Curtis Moore, Department of Mammalogy, Field Museum
+of Natural History; Mr. John Edwards Hill, Mammal Room, British Museum
+(Natural History); Prof. William B. Davis, Department of Zoology, Texas
+A & M University; Miss Barbara Lawrence, Museum of Comparative Zoology,
+Harvard University. Messrs. Jerry R. Choate and H. H. Genoways, two
+colleagues in zoology at The University of Kansas, have assisted me in
+many ways, for which I am grateful. Linda Anne Phillips, my wife,
+prepared many of the figures and tables used herein. I thank also
+Setsuko Nakata, Edwin H. Bryan, Robert Bowan, and Ilse Koehler, who, as
+staff members of the Bishop Museum, were especially helpful to me. Most
+of the specimens reported herein were collected by Philip Temple and
+Peter Shanahan.
+
+
+
+
+Key to Genera
+
+  1.     Uropatagium lacking, or, if present, deeply indented in
+         center; tail vertebrae absent, or if present, free          2
+
+  1'.    Uropatagium present, not indented; tail vertebrae present,
+         free or in uropatagium                      MICROCHIROPTERA 1
+
+  2(1).  External tail-vertebrae lacking, or, if present, less
+         than 3 mm long                                              3
+
+  2'.    External tail-vertebrae more than 3 mm long                 6
+
+  3(2).  Small or medium-sized (forearm less than 50);
+         tongue long, extensile                                      4
+
+  3'.    Large (forearm more than 80); tongue not long and
+         extensile                                                   5
+
+  4(3).  Uropatagium present; small claw present on second phalanx
+         of second digit; tail short (about 3 mm)
+                                                =Macroglossus=, p. 812
+
+  4'.    Uropatagium absent; no claw on second phalanx of second
+         digit; no tail                         =Melonycteris=, p. 814
+
+  5(3'). Entire back set with hair; wing membranes not meeting
+         at middle of back                          =Pteropus=, p. 793
+
+  5'.    Back naked; wing membranes meeting at middle of back,
+                                                  =Pteralopex=, p. 790
+
+  6(2'). Nostrils having definite tubelike extensions
+                                                   =Nyctimene=, p. 817
+
+  6'.    Nostrils lacking tubelike extensions                        7
+
+  7(6'). Forearm less than 80; large, sharp claw on second phalanx
+         of second digit; four upper incisors      =Rousettus=, p. 787
+
+  7'.    Forearm more than 90; small, blunt claw on second phalanx
+         of second digit; two upper incisors        =Dobsonia=, p. 807
+
+
+Family PTEROPODIDAE
+
+
+Subfamily Pteropodinae
+
+
+Rousettus Gray
+
+   1821. _Rousettus_ Gray, London Medical Repository, 15:299, April 1.
+
+   1843. _Xantharpyia_ Gray, List of species ... British Museum, p. 37.
+
+   1852. _Cynonycteris_ Peters, Reise nach Mossambique, p. 25.
+
+The genus _Rousettus_ occurs throughout the tropical regions of the Old
+World, and in the Solomons is readily distinguished from all other
+megachiropteran genera by having both a small claw on the second digit
+and free caudal vertebrae. The oriental species have been divided into
+two groups on the basis of size (Tate, 1942:344). The subspecies
+_Rousettus amplexicaudatus hedigeri_ appears to be the sole
+representative of this genus in the Solomon Islands. Prior to 1953,
+several workers (Thomas, 1887b:323, 1888b:475; Matschie, 1899:68;
+Sanborn, 1931:11) used the name _Rousettus amplexicaudatus brachyotis_
+for it, but Pohle (1953) suggested that the specimens from the Solomons
+recorded by earlier workers were _R. a. hedigeri_ named by him on the
+basis of the specimen that he saw from Bougainville.
+
+
+=Rousettus amplexicaudatus=
+
+_Rousettus amplexicaudatus_ has at least three subspecies, one of which
+is endemic to the Solomon Islands. The species is wide-ranging, being
+known from as far west as Thailand (Ellerman and Morrison-Scott,
+1966:93) and as far east as the Solomons.
+
+    [Illustration: FIG. 3. Distribution of _Rousettus amplexicaudatus
+       hedigeri_. For names of islands see Fig. 2.]
+
+
+=Rousettus amplexicaudatus hedigeri= Pohle
+
+   1953. _Rousettus amplexicaudatus hedigeri_ Pohle, Z. Saeugetierk.,
+         17:127, October 27, type from Bougainville.
+
+   1887. _Cynonycteris brachyotis_, Thomas, Proc. Zool. Soc. London,
+         p. 323, March 15; 1888, Thomas, Proc. Zool. Soc. London, p. 475,
+         December 4, from Fauro.
+
+   1889. _Xantharpyia brachyotis_, Matschie, Die Megachiroptera ...
+         naturkunde, p. 68, from Guadalcanal.
+
+   1912. _Rousettus brachyotis_, Andersen, Catalogue of the Chiroptera
+         ... British Museum, 1:809; 1931, Sanborn, Publ. Field Mus. Nat.
+         Hist., Zool. Ser., 18:11, February 12, from Santa Ysabel.
+
+_Specimens examined_ (20 males and 21 females; all in alcohol; ten
+crania extracted and cleaned).--Guadalcanal in May, 23863, 23915; Fauro
+in April, 23804-5; Malaita in June, 24079; Choiseul in March, 23563-4,
+23616, 23627, 23630, 23632-3, 23642, 23658, 23663-4, 23680, 23692-3,
+23713, 23722; Kolombangara in January and February, 23343, 23366,
+23382-4, 23389-90, 23408-9, 23424, 23455, 23471-4, 23501.
+
+_Measurements._--Average and extreme external measurements of 13 males
+and 18 females are, respectively, as follows: Length of head and body,
+104.4 (99-118), 108.6 (104-117); tail vertebrae, 16.8 (13-19), 17.6
+(15-24); hind foot, 18.0 (16-19), 16.2 (12-18); ear, 15.9 (15-17), 15.0
+(14-16); length of forearm, 70.1 (66.0-74.1), 68.1 (65.0-69.1). Average
+and extreme measurements of skulls of five males and five females are,
+respectively, as follows: Greatest length of skull, 33.2 (33.0-33.7),
+31.5 (30.9-32.1); condylobasal length, 31.3 (30.9-31.9), 30.1
+(29.3-30.8); palatal length, 14.0 (13.3-14.8), 13.3 (13.0-13.7);
+zygomatic breadth, 20.8 (19.8-21.8), 19.4 (18.7-20.8); length of
+maxillary tooth-row, 11.0 (10.9-11.3), 10.3 (10.1-10.6); length of
+mandibular tooth-row, 12.6 (12.4-12.9), 11.8 (11.7-12.2).
+
+_Remarks._--The specimens from Choiseul, Kolombangara, and Malaita
+islands provide new records of distribution for _Rousettus
+amplexicaudatus hedigeri_ (Fig. 3). It was described as smaller than _R.
+a. brachyotis_ Dobson, which is known from New Guinea, Amboina, and the
+Bismarck Archipelago (Pohle, 1953:127-128). Andersen (1912:809) gave the
+range of length of forearm in _R. a. brachyotis_ as 73-81, whereas Pohle
+(1953:127) gave the length of forearm of the type specimen of _R. a.
+hedigeri_ (adult male) as 67. Measurements of specimens examined by me
+indicate that _hedigeri_ occurs throughout the Solomon Islands. Cranial
+measurements of my specimens and Pohle's type are less than those of _R.
+a. brachyotis_ (see Andersen, 1912:48).
+
+Sanborn (1931:11) noted that the forearms of three males examined by him
+were longer than that of a female. Mean and range for length of forearm
+of males and females listed herein, respectively, are 70.1 (66.0-74.1)
+and 68.1 (65.0-69.1). Also, each of seven cranial measurements taken by
+me averaged more in males than in females. Sagittal and lambdoidal
+crests are more prominent in males than in females.
+
+    TABLE 1. A Summary of Breeding Data for Females of _Rousettus
+       amplexicaudatus hedigeri_ Collected December to June.
+
+  ===========+===========+==============+===========+=============
+             |   Total   |    Number    |           |  Number of
+     MONTH   |  number   | adult [F][F] |  Number   |  immature
+             | collected |   collected  | lactating | individuals
+  -----------+-----------+--------------+-----------+-------------
+  December   |     3     |       3      |     3     |      0
+  January    |    11     |      11      |     8     |      0
+  February   |     6     |       0      |    --     |      1
+  March      |    16     |       1      |     0     |      9
+  April      |     2     |       2      |     0     |      0
+  June       |     1     |       1      |     0     |      0
+  -----------+-----------+--------------+-----------+-------------
+
+As shown in Table 1, adult females obtained in December and January were
+lactating when captured whereas those obtained in March, April, and
+June were not. More than half of the individuals collected in March were
+immature (judging from small size, unfused epiphyses, and lack of wear
+on teeth). The immature individuals probably had been nursing in
+December and January.
+
+
+
+=Pteralopex= Thomas
+
+   1888. _Pteralopex_ Thomas, Ann. Mag. Nat. Hist., ser. 6, 1:155,
+         February 1.
+
+   1762. _Pteropus_ Brisson, Regnum animale ..., ed. 2, p. 153.
+
+_Pteralopex_, with one species and two subspecies, is the only
+megachiropteran genus endemic to the Solomons. Thomas (1888b:475)
+considered this unusual bat a relic, isolated from the time when
+pteropodids had cuspidate cheek-teeth. Although two workers (Matschie,
+1899:11; Simpson, 1945:54) have synonymized _Pteralopex_ with
+_Pteropus_, I regard _Pteralopex_ as a morphologically distinct genus.
+
+Individuals of _Pteralopex_ can be distinguished from all species of
+_Pteropus_ in the Solomon Islands by the following features: wing
+membranes originate along dorsal midline; braincase diminutive relative
+to rest of skull; sagittal crest pronounced; cheek-teeth cuspidate,
+broad and massive; i2 about 10 times larger than i1; upper canines with
+well-developed secondary cusp; postorbital process fused with zygomatic
+arch, forming complete bony ring around orbit.
+
+Andersen (1909a:216; 1912:436) considered the relationships of
+_Pteralopex_ and _Pteropus_ and concluded that _Pteropus pselaphon_ Lay,
+1829, from the Sulphur Islands east of Taiwan, and _Pteropus samoensis_
+Peale, 1848, from the Samoan Islands, were the "closest" living
+relatives of _Pteralopex_. He stated further that _Pteralopex_ "presents
+in fact scarcely a single character which is not either developed to a
+certain extent or at least distinctly foreshadowed in _Pteropus
+pselaphon_, _pilosus_, _tuberculatus_, or _leucopterus_." In summary,
+Andersen thought several species of _Pteropus_ had undergone
+evolutionary development resembling that in _Pteralopex_, and that the
+latter, with its massive, cuspidate cheek-teeth, could be considered a
+highly modified _Pteropus_. For this hypothesis to be plausible, one
+must assume that the originally complex cheek-teeth of pteropodids
+became simple and, at least in the case of _Pteralopex_, secondarily
+became complex once again. According to present-day theory of
+evolutionary development, his hypothesis is improbable. Thomas
+(1888b:475) probably was correct when he considered _Pteralopex_ an
+isolated relic.
+
+Although _Pteralopex_ usually is listed after _Pteropus_ in phylogenetic
+arrangements (see, for example, Sanborn, 1931:21; Pohle, 1953:129;
+Laurie and Hill, 1954:40), I have placed _Pteralopex_ before _Pteropus_.
+
+
+=Pteralopex atrata=
+
+Two subspecies of _Pteralopex atrata_ (_P. a. atrata_ and _P. a.
+anceps_) have been named; specimens of both are rare in museum
+collections. Thomas (1888_a_:155) described adults of _atrata_. Sanborn
+(1931:21) examined the one additional specimen known to me and reported
+that it agreed with Thomas' description.
+
+Andersen (1909_b_:266) used a subadult female ("nearly fully grown") as
+the holotype of _anceps_. At least five additional specimens, all
+adults, of _anceps_ now are housed in various collections. Judging from
+these individuals, the holotype of _anceps_ was only four-fifths grown
+and because he used an immature individual, Andersen's (1912:437)
+criteria for distinguishing the two subspecies mostly are invalid.
+
+    [Illustration: FIG. 4. Distribution of _Pteralopex atrata_;
+       _P. atrata atrata_ ([RW]) and _P. atrata anceps_ ([BC]).
+       For names of islands see Fig. 2.]
+
+
+Key to Subspecies of _Pteralopex atrata_
+
+  1.  Length of forearm 139-144 mm.; dorsal surface of distal
+      one-fourth of tibia and entire metatarsus naked; known only
+      from Guadalcanal and Santa Ysabel islands
+                                            _Pteralopex atrata atrata_
+
+  1'. Length of forearm 162-166 mm.; dorsal surface of distal
+      one-fourth of tibia and entire metatarsus furred; known only
+      from Bougainville and Choiseul islands
+                                            _Pteralopex atrata anceps_
+
+
+=Pteralopex atrata atrata= Thomas
+
+   1888. _Pteralopex atrata_ Thomas, Ann. Mag. Nat. Hist., ser. 6,
+         1:155, February, type from Guadalcanal; 1888, Thomas, Proc. Zool.
+         Soc. London, p. 475, December 4; 1896, Heude, Mem. Hist. Nat.
+         Emp. China, 3:179; 1897, Trouessart, Catalogus Mammalium ...,
+         1:83; 1907, Miller, Bull. U. S. Nat. Mus., 57:60, June 29; 1912,
+         Andersen, Catalogue of the Chiroptera ... British Museum, 1:439;
+         1931, Sanborn, Publ. Field Mus. Nat. Hist., Zool. Ser., 18:21,
+         February 12, from Santa Ysabel.
+
+   1954. _Pteralopex atrata atrata_, Laurie and Hill, List of land
+         mammals of New Guinea, Celebes and adjacent islands, p. 40,
+         June 30.
+
+   1899. _Pteropus (Pteralopex) atrata_, Matschie, Die Megachiroptera
+         ... naturkunde, p. 11; 1904, Trouessart, Catalogus Mammalium ...,
+         Suppl., p. 49.
+
+_Specimens examined._--None.
+
+_Remarks._--_Pteralopex atrata atrata_ is known from four specimens from
+Guadalcanal and one from Santa Ysabel (Sanborn, 1931:21).
+
+Sanborn (_loc. cit._) reported that a specimen wounded at night, while
+feeding on young green coconuts, was the only fruit bat that attempted
+to attack the collectors. Troughton (1936:348) has suggested, on the
+basis of his experiences with _Pteropus_, that this behavior probably
+was a reaction from fear rather than an indication of general
+aggressiveness on the part of _Pteralopex_.
+
+
+=Pteralopex atrata anceps= Andersen
+
+   1909. _Pteralopex anceps_ Andersen, Ann. Mag. Nat. Hist., ser. 8,
+         3:266, March, type from Bougainville; 1912, Andersen, Catalogue
+         of the Chiroptera ... British Museum, 1:437; 1936, Troughton,
+         Rec. Australian Mus., 14:348, April 7; 1953, Pohle,
+         Z. Saeugetierk., 17:129, October 27.
+
+   1954. _Pteralopex atrata anceps_, Laurie and Hill, List of land
+         mammals of New Guinea, Celebes and adjacent islands, p. 40,
+         June 30.
+
+_Specimens examined_ (three males, two females; one skull-only and one
+in alcohol).--Choiseul in March, 23682; Bougainville in July, USNM
+276973-74, USNM 276928, USNM 277112.
+
+_Measurements._--Measurements of three males and one female are,
+respectively, as follows: Length of head and body, 280, 271, 261, 255;
+hind foot, 50, 54, 52, 59; ear, 23, 23, 26, 22; length of forearm, 160,
+162, 166, 171; greatest length of skull, 77.6, 77.9, 78.9, 77.0;
+condylobasal length, 74.3, 74.3, 75.5, 73.8; zygomatic breadth, 42.2,
+45.4, 43.1, 42.6; breadth across upper canines, 18.7, 21.1, 19.0, 19.0;
+breadth across first upper molars, 22.2, 25.3, 22.9, 22.0; length of
+maxillary tooth-row, 29.3, 29.8, 28.9, 28.2; length of mandibular
+tooth-row, 32.8, 32.8, 32.1, 31.4.
+
+_Remarks._--Heretofore, _Pteralopex atrata anceps_ was not known from
+Choiseul. The specimen from that island agrees well with specimens in
+the U. S. National Museum from Cape Torokina, Bougainville.
+
+The type specimen of this subspecies is a subadult and is smaller than
+the specimens examined by me; Andersen (1912:440) gave length of forearm
+of the type as 137 (as opposed to 164 in adults). He (1912:438) figured
+the dentition of _anceps_ and described the ways in which it differed
+from the dentition of _atrata_. Although he (1912:437) concluded that
+_anceps_ and _atrata_ represented "two stages of specialization of ...
+dentition," there apparently are few, if any, dental differences between
+the two subspecies. Teeth of adults of _anceps_ differ from teeth of the
+immature type of _anceps_ as follows: in adults the anterior basal ledge
+of P4 extends onto the labial surface, whereas in the type it does not;
+and maxillary and mandibular teeth in adults are spaced as in the
+subspecies _atrata_ (see Andersen, 1912:438, fig. 22) and not crowded as
+in the type of _anceps_. Distance between individual cheek-teeth
+apparently increases with growth of the cranium and mandible.
+
+Adults of _P. a. anceps_ that I examined are darker than the subadult
+type. The mantle in these adults is black, whereas it is seal-brown in
+the type (Andersen, 1912:439).
+
+An adult female was lactating when obtained on Bougainville in July
+(USNM 276928).
+
+
+Key to _Pteropus_ in the Solomon Islands
+
+  1.       Premolars having distinct basal ledges;
+           molars 2.5-4.0 wide                                       2
+
+  1'.      Premolars lacking definite basal ledges;
+           molars 1.0-2.4 wide                                      14
+
+  2(1).    Rostrum unshortened (orbit to anterior tip of nasals
+           about one-third greatest length of skull); dorsal
+           surface of tibiae nearly naked                            3
+
+  2'.      Rostrum shortened (orbit to anterior tip of nasals less
+           than one-third greatest length of skull); dorsal surface
+           of tibiae usually at least partially furred               8
+
+  3(2).    Forearm more than 128                                     4
+
+  3'.      Forearm less than 128                                     5
+
+  4(3).    Forearm about 155; venter and dorsum nearly black,
+           mantle pale yellow            =P. tonganus geddiei=, p. 798
+
+  4'.      Forearm 128-136; venter and dorsum near Mars Brown,
+           mantle Ochraceous or Cream-Buff
+                                       =P. hypomelanus luteus=, p. 796
+
+  5(3').   Mantle dark, russet or cinnamon, not strongly
+           contrasting with color of back
+                                  =P. admiralitatum solomonis=, p. 796
+
+  5'.      Mantle pale, Ochraceous-Buff or Cream-Buff, strongly
+          contrasting  with color of back                            6
+
+  6(5').   Mantle Ochraceous-Orange to Ochraceous-Buff, hairs pale
+           basally; forearm 108-111  =P. admiralitatum goweri=, p. 797
+
+  6'.      Mantle Ochraceous to Cream-Buff, but hairs dark brown
+           basally; forearm 110-122                                  7
+
+  7(6').   Length of forearm 110-112
+                                    =P. admiralitatum colonus=, p. 796
+
+  7'.      Length of forearm about 122           =P. howensis=, p. 797
+
+  8(2').   Forearm more than 145                                     9
+
+  8'.      Forearm less than 144                                    12
+
+  9(8).    Forearm more than 162                                    10
+
+  9'.      Forearm less than 162                                    11
+
+  10(9).   Forearm 167-173                =P. rayneri grandis=, p. 801
+
+  10'.     Forearm about 164             =P. rayneri rubianus=, p. 802
+
+  11(9').  Flanks and lower belly brightly colored, Burnt Sienna
+           to Sanford's Brown; forearm less than 150
+                                        =P. rayneri monoensis=, p. 803
+
+  11'.     Flanks and lower belly darker, near tawny; forearm
+           more than 150,              =P. rayneri lavellanus=, p. 802
+
+  12(8').  Pelage of dorsum tricolored; rump brightly colored;
+           forearm 139-141,               =P. rayneri rayneri=, p. 800
+
+  12'.     Pelage of dorsum bicolored; rump dark; forearm
+           less than 135                                            13
+
+  13(12'). Mantle tawny with some Ochraceous-Buff; forearm
+           about 130,                    =P. rayneri rennelli=, p. 804
+
+  13'.     Mantle russet, lacking Ochraceous-Buff; forearm
+           about 121,                    =P. rayneri cognatus=, p. 803
+
+  14(1').  Forearm more than 131; dorsum Tawny Olive
+                                                =P. mahaganus=, p. 806
+
+  14'.     Forearm less than 100; dorsum dark brown
+                                                =P. woodfordi=, p. 804
+
+
+=Pteropus= Brisson
+
+   1762. _Pteropus_ Brisson, Regnum animale ..., ed. 2, p. 153.
+
+_Remarks._--More species (seven) and subspecies (12) of _Pteropus_ occur
+in the Solomon Islands than of any other chiropteran genus. Other kinds
+of _Pteropus_, as yet unknown, may live there.
+
+The relationships among the species of these large fruit-eating bats,
+commonly termed "flying foxes," are obscure and the genus is in need of
+revision. The basic, definitive work is still that of Andersen (1912).
+Tate (1942) and Felten (1964_a_, 1964_b_) have offered some additional
+remarks but groupings and suggested relationships of species of
+_Pteropus_ almost entirely are the products of Kund Andersen. According
+to present-day concepts of variation and speciation, Andersen's criteria
+are artificial.
+
+Basically, there are three "species-groups" of _Pteropus_ in the Solomon
+Islands. The first is composed of species in which the rostrum is
+"unshortened" (its length about one third of greatest length of skull),
+and the cheek-teeth are of moderate size (M1 is 2.8-3.2 wide). The
+species are _P. hypomelanus_, _P. admiralitatum_, _P. tonganus_, and _P.
+howensis_. The first and second species were placed in the _Pteropus
+hypomelanus_ group by Andersen (1912:98).
+
+In the second group the rostrum is "shortened" (its length less than one
+third of greatest length of skull) and the cheek-teeth are of moderate
+to large size (M1 3.3-4.1 wide). _Pteropus rayneri_, endemic to the
+Solomons and represented there by at least seven subspecies, fits into
+this category.
+
+The third group is represented by _P. mahaganus_ and _P. woodfordi_.
+Both species are endemic to the Solomon Islands. In these species the
+rostrum is unshortened but the cheek-teeth are greatly reduced,
+especially in width (M1 is 1.0-2.2 wide). Both _P. mahaganus_ and _P.
+woodfordi_ can be included in the _Pteropus scapulatus_ group of
+Andersen (1912:402).
+
+
+=Pteropus hypomelanus=
+
+_Pteropus hypomelanus_ is a wide-ranging species of flying fox having at
+least seven subspecies; three occur in southeastern Asia, two on and
+near Celebes, and two in New Guinea and islands adjacent to the
+southeastern coast of New Guinea, including one island in the Solomons
+(Ellerman and Morrison-Scott, 1966:95; Laurie and Hill, 1954:32-33).
+
+    [Illustration: FIG. 5. Distribution of _Pteropus hypomelanus luteus_
+       ([TW]), _Pteropus admiralitatum solomonis_ ([RW]), _Pteropus a.
+       colonus_ ([BW]), _Pteropus a. goweri_ ([LW]), _Pteropus tonganus
+       geddiei_ ([RTW]), and _Pteropus howensis_ ([BC]). For names of
+       islands see Fig. 2.]
+
+
+=Pteropus hypomelanus luteus= Andersen
+
+   1908. Pteropus hypomelanus luteus Andersen, Ann. Mag. Nat. Hist.,
+         ser. 8, 2:362, October, type from Kiriwini Island, Trobriand
+         Islands; 1912, Andersen, Catalogue of the Chiroptera ... British
+         Museum, 1:128; 1947, Sanborn and Beecher, Jour. Mamm., 28:388,
+         November 19, from Banika Island, Russell Islands.
+
+_Specimens examined._--None.
+
+_Remarks._--Andersen (1908:362) identified specimens of _Pteropus
+hypomelanus_ from eastern New Guinea and three nearby islands (Conflict
+Islands, Trobriand Islands, and Woodlark Island) as _P. hypomelanus
+luteus_. Sanborn and Beecher (1947:388) identified a female from Banika
+Island in the Solomons as of this subspecies although this specimen was
+darker and had a slightly smaller skull than typical _P. hypomelanus
+luteus_. They noted that the pelage of the venter of the female was
+uniformly dark rather than the typical Ochraceous-Buff to Cream-Buff;
+the specimen was regarded as a dark phase of the subspecies. Although
+not recorded previously for _luteus_, other subspecies of _P.
+hypomelanus_ were known in dark phase as well as pale and intermediate
+phases of coloration (Andersen, 1912:122). The reported occurrence of
+_P. h. luteus_ on Banika Island extended the known geographic range
+about 450 miles eastward from Woodlark Island.
+
+
+=Pteropus admiralitatum=
+
+Three subspecies, all about the same size but differing in coloration,
+have been described from the Solomon Islands. _P. a. goweri_ is known
+only from Gower (Ndai) Island, notably removed from the western chain of
+islands inhabited by _P. a. colonus_ and _P. a. solomonis_. Only one
+other subspecies, from the Admiralty Islands, is known.
+
+
+=Pteropus admiralitatum solomonis= Thomas
+
+   1904. _Pteropus solomonis_ Thomas, Novit. Zool., 11:597, type from
+         Ghizo Island; 1912, Andersen, Catalogue of the Chiroptera ...
+         British Museum, 1:149; 1931, Sanborn, Publ. Field Mus. Nat. Hist.,
+         Zool. Ser., 18:12, February 12, from Ronongo (Ganongga), Vella
+         Lavella, and Narovo (Simbo) islands; 1947, Sanborn and Beecher,
+         Jour. Mamm., 28:389, November 19, from Banika and Guadalcanal
+         islands.
+
+   1954. _Pteropus admiralitatum solomonis_, Laurie and Hill, List of
+         land mammals of New Guinea, Celebes and adjacent islands, p. 33,
+         June 30.
+
+_Specimens examined._--None.
+
+_Remarks._--Andersen (1912:149) considered _Pteropus admiralitatum_, and
+especially the subspecies _P. a. solomonis_, to be the easternmost
+"representative" of _Pteropus hypomelanus_. In comparison with _P.
+hypomelanus luteus_, _P. a. solomonis_ differs mostly in size, being
+much smaller (length of forearm about 110 rather than 134). It is now
+known that both species occur on Banika Island in the Solomons.
+
+The subspecies _P. a. solomonis_ has been recorded from a "chain" of
+islands that included Vella Lavella, Simbo, Ghizo, Ganongga, Banika, and
+Guadalcanal (see Fig. 5).
+
+
+=Pteropus admiralitatum colonus= Andersen
+
+   1908. _Pteropus colonus_ Andersen, Ann. Mag. Nat. Hist., ser. 8,
+         2:363, October, type from Shortland Island; 1912, Andersen,
+         Catalogue of the Chiroptera ... British Museum, 1:150; 1931,
+         Sanborn, Publ. Field Mus. Nat. Hist., Zool. Ser., 18:12,
+         February 12, from Mono Island.
+
+   1954. _Pteropus admiralitatum colonus_, Laurie and Hill, List of
+         land mammals of New Guinea, Celebes and adjacent islands, p. 33,
+         June 30.
+
+   1887. _Pteropus hypomelanus_ (part), Thomas, Proc. Zool. Soc.
+         London, p. 471, December 4; 1898, Trouessart, Catalogus Mammalium
+         ..., 1:82, from "I. Salomonis."
+
+   1899. _Pteropus (Spectrum) hypomelanus_ (part), Matschie, Die
+         Megachiroptera ... naturkunde, p. 24.
+
+_Specimens examined._--None.
+
+_Remarks._--_Pteropus admiralitatum colonus_ is the largest of the three
+subspecies that occur in the Solomon Islands. It closely resembles _P.
+hypomelanus luteus_, except in being smaller throughout (see Andersen,
+1912:151-152, for measurements) and darker on the underparts.
+
+This bat has been found in a group of small islands (Alu, Mono, and
+Shortland) about 30 miles south of Bougainville. Because of this
+proximity and because yet another subspecies of this species occurs
+northward of Bougainville, it is interesting that neither Troughton
+(1936) nor Pohle (1953) included the species in their faunal lists for
+Bougainville.
+
+Andersen (1912:152) indicated that the M1 in _P. admiralitatum colonus_
+is smaller than in _P. a. solomonis_, the subspecies found in islands to
+the southeast (4.4-4.5 and 5.2, respectively), but Sanborn (1931:13)
+studied specimens of these two subspecies that overlapped in size of M1.
+
+
+=Pteropus admiralitatum goweri= Tate
+
+   1934. _Pteropus goweri_ Tate, Amer. Mus. Novit., 718:1, May 4, type
+         from Gower (Ndai) Island.
+
+   1954. _Pteropus admiralitatum goweri_, Laurie and Hill, List of
+         land mammals of New Guinea, Celebes and adjacent islands, p. 33,
+         June 30.
+
+_Specimens examined._--None.
+
+_Remarks._--_Pteropus admiralitatum goweri_ was described from six
+specimens collected in 1930 by the Whitney South Sea Expedition (Tate,
+1934:1). This subspecies closely resembles the other two subspecies of
+_P. admiralitatum_ (_colonus_ and _solomonis_) found in the Solomon
+Islands. Color and length of forearm (see key on p. 793) seem to be the
+only reliable criteria for distinguishing between these subspecies. The
+longitude of Gower Island, 160 deg. 34' E, was incorrectly listed in Laurie
+and Hill (1954:152) as 159 deg. 34' E.
+
+
+=Pteropus howensis= Troughton
+
+   1931. _Pteropus howensis_ Troughton, Proc. Linn. Soc. New South
+         Wales, 56:204, June 24, type from Lord Howe Islands (Ontong Java);
+         1950, Sanborn and Nicholson, Fieldiana:Zool., 31:329, August 31.
+
+_Specimens examined_ (one male, three females, and two sex unknown; two
+embryos in alcohol).--Liuniuwu, Lord Howe Islands (Ontong Java) in
+August, USNM 278703-6, USNM 279715-6.
+
+_Measurements._--Average and extreme measurements of one male and three
+females are as follows: Length of head and body, 185.2 (176-196); hind
+foot, 34.5 (33-36); ear, 21.5 (21-23); forearm not measured [broken in
+all specimens examined]. Cranial measurements of a male and a female
+are, respectively, as follows: Greatest length of skull, 55.3, 53.8;
+condylobasal length, 54.2, 52.8; palatal length, 26.7, 26.0; zygomatic
+breadth, 30.6, 29.9; breadth of braincase, 19.9, 19.2; breadth across
+first upper molars, 14.3, 14.3; length of maxillary tooth-row, 20.7,
+19.6; length of mandibular tooth-row, 23.1, --.
+
+_Remarks._--Apparently _Pteropus howensis_ is confined to Ontong Java
+(Lord Howe Islands) located northeastward of the main body of islands
+that constitute the Solomon Archipelago (see Fig. 5). According to A. J.
+Nicholson, who collected the specimens listed above, _P. howensis_ is
+not abundant in Ontong Java. He related this circumstance to the fact
+that these small islands are nothing more than parts of a coral atoll
+used almost entirely for the production of coconuts (see Sanborn and
+Nicholson, 1950:329).
+
+Specimens of _Pteropus howensis_ deposited in the U. S. National Museum
+agree well in most ways with the original description of the species by
+Troughton (1931:204-205). Slight variation in color is evident; in two
+specimens, the mantle, just posterior to the ears, is Ochraceous-Buff.
+
+The relationship of this species to other kinds of _Pteropus_ known from
+Melanesia is not clear. Troughton (1931:204, 206) compared _P. howensis_
+with _P. hypomelanus_ and _P. admiralitatum_ and found that it resembled
+each of them. Tate (1934:2) noted that the skull of _P. admiralitatum
+goweri_ was similar to that of _P. howensis_ in structure. The latter
+species is, however, larger (length of forearm 122 according to
+Troughton, 1931:205) than any subspecies of _P. admiralitatum_ (length
+of forearm 108-112). Also, the cheek-teeth of _P. howensis_ that I have
+studied are relatively larger than those of either _P. hypomelanus_ or
+_P. admiralitatum_. Furthermore, in _P. howensis_ there is a small but
+distinct cusp located medio-posteriorly on P4 (most noticeable in young
+individuals) that is more reduced or undeveloped in specimens of the
+other two species. Cheek-teeth of _P. howensis_ resemble those in a
+dull-colored specimen of _P. tonganus_ from Fiji Island with which I
+compared the specimens listed above.
+
+Weights and crown-rump lengths of the two embryos (in an advanced stage
+of development) examined were 20 and 29 grams and 43 and 51 mm.
+(apparently these are the specimens listed by Sanborn and Nicholson,
+1950:329).
+
+
+=Pteropus tonganus=
+
+_Pteropus tonganus_ has at least three subspecies, one of which has been
+recorded from the Solomons. The species ranges from a small island off
+the eastern coast of New Guinea, where there is an endemic subspecies,
+eastward to Tonga and the New Hebrides (Laurie and Hill, 1954:33-34).
+Felten (1964_a_) recently has reported on the species in the New
+Hebrides.
+
+
+=Pteropus tonganus geddiei= MacGillivary
+
+   1860. _Pteropus geddiei_ MacGillivary, Zoologist, 18:7134,
+         September, type from Aneitum Island, New Hebrides; 1912,
+         Andersen, Catalogue of the Chiroptera ... British Museum,
+         1:189; 1931, Sanborn, Publ. Field Mus. Nat. Hist., Zool.
+         Ser., 18:13, February 12, from Rennell Island in the Solomons.
+
+   1914. _Pteropus tonganus geddiei_, Revilliod, _in_ Sarasin and
+         Roux, Nova Caledonia (A), 1:341; 1954, Laurie and Hill, List
+         of land mammals of New Guinea, Celebes and adjacent islands,
+         p. 34, June 30.
+
+_Specimens examined._--None.
+
+_Remarks._--_Pteropus tonganus geddiei_, as far as is known, is the
+widest ranging subspecies of this genus. It is the only megachiropteran
+in the Solomon Islands having affinities with bats to the southeast (the
+New Hebrides, Santa Cruz Islands, Samoan Islands and Fiji Islands)
+rather than with those to the west (New Guinea). The subspecies _P.
+tonganus geddiei_, which ranges from the Solomons to the New Hebrides
+(about 500 miles straight-line distance), is said to be remarkably
+uniform throughout its range. Sanborn (1931:14) compared color and size
+in specimens from the Solomon Islands and the New Hebrides and found
+little variation. Another subspecies, _P. t. bascilicus_ Thomas 1915,
+apparently closely related to _geddiei_, is known from Dampier [=
+Kar-kar] Island off the northeastern coast of New Guinea and therefore
+farther westward from the New Hebrides than are the Solomon Islands.
+Additional remarks on the distribution of this species are in the
+section on Zoogeography and Speciation.
+
+
+=Pteropus rayneri=
+
+_Pteropus rayneri_ is endemic to the Solomon Islands. It is divisible
+into seven subspecies (see Fig. 6), which, excepting _P. r. rennelli_
+and _P. r. cognatus_, are strikingly colored--the mantle, back, and rump
+being of different colors. Differences in color and size provide
+characters differentiating the subspecies (see key, p. 793). Recorded
+lengths of forearms do not overlap between any two subspecies. _P. r.
+grandis_, northernmost in distribution, has the longest (about 170)
+forearm and _P. r. cognatus_, known from two of the southernmost
+islands, has the shortest (about 121).
+
+    [Illustration: FIG. 6. Distribution of _Pteropus rayneri_: _P. r.
+       rayneri_ ([RTW]); _P. r. grandis_ ([RW]); _P. r. lavellanus_ ([BC]);
+       _P. r. monoensis_ ([BW]); _P. r. rubianus_ ([TW]); _P. r. cognatus_
+       ([LW]); _P. r. rennelli_ ([LTW]). For names of islands see Fig. 2.]
+
+Adult males of _Pteropus rayneri_ have well-developed tufts of hair on
+each side of the neck where a gland is located (see Andersen,
+1912:259). Apparently these glands are not present in females as none
+were found in specimens studied by me or those reported by Sanborn
+(1931:16). Evidently, these glands are associated with sexual maturity
+in males because neither Sanborn nor I found them in subadult males.
+
+
+=Pteropus rayneri rayneri= Gray
+
+   1870. _Pteropus rayneri_ (part), Gray, Catalogue of monkeys, lemurs
+         and fruit-eating bats ... British Museum, p. 108, cotypes from
+         Guadalcanal; 1878, Dobson, Catalogue of the Chiroptera ...
+         British Museum, p. 33; 1879, Trouessart, Rev. Mag. Zool., 6:204;
+         1879, Trouessart, Ann. Sci. Nat. Zool, 8:16; 1887, Thomas, Proc.
+         Zool. Soc. London, p. 322, March 15; 1888, Thomas, Proc. Zool.
+         Soc. London, p. 472, December 4; 1898, Trouessart, Catalogus
+         Mammalium ..., 1:78; 1912, Andersen, Catalogue of the Chiroptera
+         ... British Museum, p. 254; 1931, Sanborn, Publ. Field Mus. Nat.
+         Hist., Zool. Ser., 18:15, February 12, from Guadalcanal
+         and Malaita.
+
+   1954. _Pteropus rayneri rayneri_, Laurie and Hill, List of land
+         mammals of New Guinea, Celebes and adjacent islands, p. 35,
+         June 30.
+
+   1899. _Pteropus (Spectrum) rayneri_ (part), Matschie, Die
+         Megachiroptera ... naturkunde, p. 22; 1904, Trouessart,
+         Catalogus Mammalium ..., Suppl., p. 51.
+
+_Specimens examined_ (four males and one female; one embryo in
+alcohol).--Guadalcanal in July and November, USNM 278700-02, USNM
+278142, USNM 278714.
+
+_Measurements._--Measurements of three males and one female are,
+respectively, as follows: Length of head and body, --, 210, 214, 215;
+hind foot, --, 33, 39, 42; ear, --, 23, 23, 23; length of forearm, --,
+138, 136, 134; greatest length of skull, 61.5, 59.2, 61.6, 61.2;
+condylobasal length, 61.4, 58.2, 60.3, 60.0; zygomatic breadth, 36.6,
+35.3, 35.4, 36.5; breadth of braincase, 23.7, 22.5, 22.6, 24.1; breadth
+across first upper molars, --, 16.9, 16.7, 16.8; width of M1, 3.4, 3.5,
+3.5, 3.5; length of maxillary tooth-row, 22.4, 22.1, 23.6, 23.2; length
+of mandibular tooth-row, 26.4, 25.5, 25.9, 25.6.
+
+_Remarks._--_Pteropus rayneri_ was named on the basis of two specimens
+(cotypes) obtained on Guadalcanal and listed as "male" and "female";
+according to Andersen (1912:254), however, both are females.
+
+_P. r. rayneri_ is known from Guadalcanal and Malaita (see Fig. 6), and
+is of almost the same size as _P. r. cognatus_, which is known from San
+Cristobal and Ugi, only about 40 miles to the southeast. In the latter
+subspecies the back and rump are the same color (Prouts Brown), whereas
+in _P. r. rayneri_ the rump is brightly colored and therefore contrasts
+strongly with the dark brown back. A specimen of _rayneri_ from Malaita
+was reported by Sanborn (1931:15) as unusually small and having a
+dark-colored rump patch. In the specimens examined from Guadalcanal,
+there is noticeable variation in color of the mantle that does not seem
+related to age or sex. In two specimens (adult male and female) the
+mantle is Cinnamon-Rufous tinged with Russet, strongly contrasting with
+the crown, which is Ochraceous-Tawny and has scattered silvery hairs.
+Another specimen has a darker mantle (near Chestnut-Brown) and a crown
+of about the same color, but with a few scattered Ochraceous-Tawny
+hairs.
+
+The skull of one adult male bears an extra peglike tooth posterior to M3
+on the right side.
+
+An embryo, in an advanced stage of development, in the collection of the
+U. S. National Museum, measures: Length of head and body, 98; hind foot,
+30; ear, 8.5; length of forearm, 48 (this may be the same specimen
+listed by Sanborn and Nicholson, 1950:329).
+
+
+=Pteropus rayneri grandis= Thomas
+
+   1887. _Pteropus grandis_ Thomas, Ann. Mag. Nat. Hist., ser. 5,
+         19:147, March, type from Shortland; 1887, Thomas, Proc. Zool.
+         Soc. London, p. 320, March 15, from Alu and Shortland; 1897,
+         Trouessart, Catalogus Mammalium ..., 1:80, from "I. Salomonis";
+         1899, Matschie, Die Megachiroptera ... naturkunde, p. 15; 1904,
+         Trouessart, Catalogus Mammalium ..., Suppl., p. 49; 1907, Miller,
+         Bull. U. S. Nat. Mus., 57:58, June 29; 1912, Andersen, Catalogue
+         of the Chiroptera ... British Museum, 1:259, from Bougainville;
+         1931, Sanborn, Publ. Field Mus. Nat. Hist., Zool. Ser., 18:16,
+         February 12, from Choiseul, and Santa Ysabel; 1936, Troughton,
+         Rec. Australian Mus., 19:348, April 7; 1953, Pohle, Z.
+         Saeugetierk., 17:128, October 27.
+
+   1954. _Pteropus rayneri grandis_, Laurie and Hill, List of land
+         mammals of New Guinea, Celebes and adjacent islands, p. 35,
+         June 30.
+
+_Specimens examined_ (six males and 10 females; five in
+alcohol).--Choiseul in March, 23580, 23644, 23593; Bougainville in July,
+August, September, and October, USNM 276926-7, USNM 276968, USNM
+277091-9.
+
+_Measurements._--Average and extreme measurements of four males and
+seven females are as follows: Length of head and body, 281 (260-302);
+hind foot, 52.3 (50-58); ear, 33.1 (31-37); length of forearm, 173
+(168-180). Average and extreme measurements of skulls of three males and
+six females are as follows: Greatest length of skull, 73.7 (71.3-77.7);
+condylobasal length, 73.1 (70.5-77.4); zygomatic breadth, 40
+(36.4-41.5); breadth across first-upper molars, 20.9 (18.3-22.1); length
+of maxillary tooth-row, 28.1 (26.9-29.9); length of mandibular
+tooth-row, 31.8 (29.7-32.7).
+
+_Remarks._--_Pteropus rayneri grandis_ is the largest subspecies of the
+species. It is also the widest ranging subspecies, being found on six
+islands (see Fig. 6).
+
+Although the specimens listed above agree well with descriptions of
+color given by Thomas (1887_a_:147) and Andersen (1912:259, 263-264),
+some individual variation is noticeable. In bats not yet fully grown
+(judging from small size, unfused epiphyses, and lack of wear on teeth),
+numerous scattered hairs on the sides of the face and crown are buffy.
+In adults the face and crown are blackish. With regard to individual
+variation in color of mantle and rump patch, specimens with the
+following combinations were noted (1) mantle Brick Red, rump patch
+bright, basal three-quarters of hairs white, tips Warm Buff (2) mantle
+darker, near Hessian Brown, rump patch dark, Chestnut along edges,
+center Ochraceous-Tawny (3) mantle Brick Red, rump patch intermediate
+between the two other types. Size of rump patch also is variable. In
+some specimens it extends onto the upper parts of the thighs whereas in
+other specimens it does not.
+
+Sanborn (1931:16) reported an extra tooth, behind the last lower molar,
+in a specimen from Choiseul. In one of three specimens in the Bishop
+Museum, m3 is lacking. Judging from Troughton's (1936:346) remarks, size
+of individuals varies considerably. Specimens that he examined from
+Bougainville had longer forearms (up to 177) and larger hind feet
+(54-57) than those examined by me from Choiseul. On the other hand,
+specimens listed above from Bougainville agree well with those from
+Choiseul. In many specimens in the U. S. National Museum, length of the
+right- and left-forearm differ. For example, in No. 276926 the right
+forearm measures 180 whereas the left is 174; in No. 277098 the right is
+172 and the left is 167. Troughton (1936:346) gave standard ear
+measurement in _P. r. grandis_ as ranging from 29.5 to 31.5. Ears of
+specimens that I examined varied from 31.0 to 37.0.
+
+
+=Pteropus rayneri rubianus= Andersen
+
+   1908. _Pteropus rubianus_ Andersen, Ann. Mag. Nat. Hist., ser. 8,
+         2:366, October, type from Rubiana; 1912, Andersen, Catalogue
+         of the Chiroptera ... British Museum, 1:255; 1931, Sanborn,
+         Publ. Field Mus. Nat. Hist., Zool. Ser., 18:15, February 12,
+         from Narovo (Simbo).
+
+   1954. _Pteropus rayneri rubianus_, Laurie and Hill, List of land
+         mammals of New Guinea, Celebes and adjacent islands, p. 35,
+         June 30.
+
+   1888. _Pteropus grandis_ (part), Thomas, Proc. Zool. Soc. London,
+         p. 470, December 4, from Rubiana; 1899, Matschie, Die
+         Megachiroptera ... naturkunde, p. 15; 1904, Trouessart,
+         Catalogus Mammalium ..., Suppl., p. 49.
+
+_Specimens examined_ (two males and one female).--Kolombangara, in
+February, 23458-60.
+
+_Measurements._--Measurements of two males and one female are,
+respectively, as follows: Length of head and body, 253, 265, 251; hind
+foot, 53, 50, 50; ear, 30, 31, 32; length of forearm, 158, 161, 160;
+greatest length of skull, 70.2, 67.4, --; condylobasal length, 67.0, --,
+68.4; zygomatic breadth, 40.0, 39.4, 40.7; breadth across first upper
+molars, 19.4, 20.4, 19.9; length of mandible, 53.9, 49.4, 51.3.
+
+_Remarks._--Kolombangara Island is a new locality for _Pteropus rayneri
+rubianus_; heretofore this subspecies was known only from Rubiana and
+Narovo islands (Andersen, 1908:366; Sanborn, 1931:15). The coloration of
+a specimen from Narovo Island was described as between that of _P. r.
+rubianus_ and _P. r. lavellanus_. Sanborn (1931:16) allocated it to the
+subspecies _rubianus_ on the basis of length of forearm.
+
+Andersen's descriptions (1908:366; 1912:256) of _rubianus_ were of a
+specimen stored in alcohol. Coloration of the museum skins examined by
+me is as follows: Dorsum from shoulders to rump near Vandyke Brown;
+crown and mantle Brick Red; face close to Mummy Brown; rump patch and
+thighs close to Warm Buff, strongly contrasting with back and mantle;
+base of hairs dark, Seal Brown; venter dark; chest about same as back
+but paler laterally (to Ochraceous Tawny); throat Brick Red.
+
+
+=Pteropus rayneri lavellanus= Andersen
+
+   1908. _Pteropus lavellanus_ Andersen, Ann. Mag. Nat. Hist., ser. 8,
+         2:366, October, type from Vella Lavella; 1912, Andersen,
+         Catalogue of the Chiroptera ... British Museum, 1:259; 1931,
+         Sanborn, Publ. Field Mus. Nat. Hist., Zool. Ser., 18:16,
+         February 12, from Ghizo and Ronongo.
+
+   1954. _Pteropus rayneri lavellanus_, Laurie and Hill, List of land
+         mammals of New Guinea, Celebes and adjacent islands, p. 36,
+         June 30.
+
+_Specimens examined_ (one male and one female).--Vella Lavella in
+November, 23192, 23142.
+
+_Measurements._--Measurements of a male and a female are, respectively,
+as follows: Length of head and body, 286, 282; hind foot, 55, 56; ear,
+30, 30; length of forearm, 156, 155; greatest length of skull, 72.9,
+67.6; condylobasal length, 71.8, 64.2; zygomatic breadth, 38.4, 37.9;
+breadth across first upper molars, 19.9, 19.8; length of mandible, 54.6,
+50.8.
+
+_Remarks._--_Pteropus rayneri lavellanus_ inhabits islands
+geographically near those from which _P. r. rubianus_ is known (see Fig.
+6) and in most respects the two subspecies closely resemble each other.
+_P. r. lavellanus_ is slightly the smaller (average length of forearm
+about 156 instead of 160) and darker. A bat from Narovo [Simbo] Island,
+only a few miles from Vella Lavella, identified by Sanborn (1931:16) on
+basis of its size as _P. r. rubianus_, resembled the subspecies
+_lavellanus_ in color and probably represents an intergrade between the
+two populations.
+
+The color of _P. r. lavellanus_ is close to that of _P. r. rubianus_
+except that the crown, mantle, and foreneck are near Chestnut-Brown, the
+basal portions of hair black, and the fur of the venter, from sternum to
+pectoral region, is dark, almost black (compare with description of _P.
+r. rubianus_ under account of that subspecies).
+
+Measurements of the male examined are greater than those of the female
+studied. Andersen (1912:259) noted that the canine teeth are heavier in
+males than in females.
+
+
+=Pteropus rayneri monoensis= Lawrence
+
+   1945. _Pteropus rayneri monoensis_ Lawrence, Proc. New England
+         Zool. Club, 23:63, March 26, type from Mono (Treasury); 1954,
+         Laurie and Hill, List of land mammals of New Guinea, Celebes
+         and adjacent islands, p. 36, June 30.
+
+_Specimens examined._--None.
+
+_Remarks._--_Pteropus rayneri monoensis_ is the most recently described
+subspecies of _P. rayneri_. Lawrence (1945:63) judged that in most ways
+this bat is intermediate between _P. r. grandis_ and _P. r. lavellanus_.
+Coloration of _monoensis_ indicates affinity with the former, whereas
+length of forearm (145-148) approaches that in the latter. The small
+skull, narrow palate, and whitish rump patch of _monoensis_ are
+differences that distinguish it from _grandis_ and _lavellanus_. The
+relatively isolated position of Mono Island may have been important in
+establishment of the distinctive features of this bat.
+
+Lawrence (1945:65) quoted a collector as stating: "They [individuals of
+_P. r. monoensis_] rest quietly during the day in the tops of
+heavy-leaved, tall jungle trees, and start flying about dusk, looking
+for feeding spots. There is usually quite a flight for fifteen to twenty
+minutes at twilight...."
+
+No additional specimens of this subspecies have been collected on small
+adjacent islands and _monoensis_ may therefore be confined to Mono
+Island.
+
+
+=Pteropus rayneri cognatus= Andersen
+
+   1908. _Pteropus cognatus_ Andersen, Ann. Mag. Nat. Hist., ser. 8,
+         2:365, October 1, type from San Cristobal; 1912, Andersen,
+         Catalogue of the Chiroptera ... British Museum, 1:251; 1931,
+         Sanborn, Publ. Field Mus. Nat. Hist., Zool. Ser., 18:15,
+         February 12, from San Cristobal and Ugi; 1954, Laurie and Hill,
+         List of land mammals of New Guinea, Celebes and adjacent islands,
+         p. 35, June 30.
+
+   1962. _Pteropus rayneri cognatus_, Hill, The natural history of
+         Rennell Island, British Solomon Islands, 4:9, February.
+
+   1870. _Pteropus rayneri_ (part), Gray, Catalogue of monkeys, lemurs
+         and fruit-eating bats ... British Museum, p. 108, from San
+         Cristobal; 1878, Dobson, Catalogue of the Chiroptera ... British
+         Museum, p. 33.
+
+   1904. _Pteropus_ (_Spectrum_) _rayneri_ (part), Trouessart,
+         Catalogus Mammalium ..., Suppl., p. 51.
+
+_Specimens examined._--None.
+
+_Remarks._--Specimens of _Pteropus rayneri cognatus_ first were reported
+under the name _Pteropus rayneri_ based on three specimens (one from San
+Cristobal and two from Guadalcanal). Because the description was based
+mostly on the two specimens from Guadalcanal, the name _rayneri_ is
+applicable to the bats from that island. Andersen (1908:365) thought
+that specimens that he studied, from San Cristobal, were specifically
+distinct from _P. rayneri_ and he proposed the name _Pteropus cognatus_
+for them. Later, Hill (1962:9) reduced _cognatus_ to subspecific status
+under _P. rayneri_.
+
+Presently _P. r. cognatus_ is known only from San Cristobal and the
+small adjacent island of Ugi (see Fig. 6).
+
+
+=Pteropus rayneri rennelli= Troughton
+
+   1929. _Pteropus rennelli_ Troughton, Rec. Australian Mus., 17:193,
+         September 4, type from Rennell Island; 1954, Laurie and Hill,
+         List of land mammals of New Guinea, Celebes and adjacent islands,
+         p. 35, June 30.
+
+   1962. _Pteropus rayneri rennelli_, Hill, The natural history of
+         Rennell Island, British Solomon Islands, 4:7, February.
+
+_Specimens examined._--None.
+
+_Remarks._--Until recently, _Pteropus rayneri rennelli_ was known from
+but a single specimen. Hill (1962:7) reported two additional specimens
+and pointed out that _P. r. cognatus_ and _P. r. rennelli_ probably
+represent the extremes of an east-west cline in size. _P. r. rennelli_
+and _P. r. cognatus_ differ from other subspecies of the species in
+lacking tricolored pelage on the dorsum, but their short rostrum clearly
+indicates affinity with other members of this complex group in the
+Solomon Islands (Hill, 1962:8).
+
+The relationship of the subspecies _rennelli_ and _cognatus_ is close,
+both geographically and genetically. Longer forearm, longer metacarpals,
+and longer mandibular tooth-row serve to differentiate _rennelli_ from
+_cognatus_.
+
+
+=Pteropus woodfordi= Thomas
+
+   1888. _Pteropus woodfordi_ Thomas, Ann. Mag. Nat. Hist., ser. 6,
+         1:156, February, type from Guadalcanal; 1888, Thomas, Proc. Zool.
+         Soc. London, p. 472, December 4; 1898, Trouessart, Catalogus
+         Mammalium ..., 1:78; 1907, Elliot, Field Columbian Mus., Zool.
+         Ser., 8:491; 1912, Andersen, Catalogue of the Chiroptera ...
+         British Museum, 1:410, from New Georgia and Guadalcanal; 1931,
+         Sanborn, Publ. Field Mus. Nat. Hist., Zool. Ser., 18:19, February
+         12, from Kolombangara; 1947, Sanborn and Beecher, Jour. Mamm.,
+         28:389, November 19, from Banika and Guadalcanal; 1954, Laurie
+         and Hill, List of land mammals of New Guinea, Celebes and
+         adjacent islands, p. 39, June 30.
+
+   1899. _Pteropus (Sericonycteris) woodfordi_, Matschie, Die
+         Megachiroptera ... naturkunde, p. 83; 1904, Trouessart, Catalogus
+         Mammalium ..., Suppl., p. 54.
+
+   1945. _Pteropus austini_ Lawrence, Proc. New England Zool. Club,
+         23:59, March 26, from Florida.
+
+_Specimens examined_ (four males and three females; five in alcohol and
+two skin-onlys).--Fauro, in April, 23727, 23790; Guadalcanal in May and
+June, 23823, 23931; Pavuvo (Russell Islands) in August and October, USNM
+277887, USNM 283872-3.
+
+_Measurements._--External measurements of two males and two females are,
+respectively, as follows: Length of head and body, 152, 128, 132, 155;
+hind foot, 29, 26, 31, 28; ear, 16, 14, 14, 17; length of forearm, 79,
+76, 86, 90.
+
+_Remarks._--Heretofore, _Pteropus woodfordi_ was known from New Georgia,
+Guadalcanal, Kolombangara, and Banika (see Fig. 7); specimens from Fauro
+and Pavuvo islands, listed above, provide new northern localities of
+record for this species.
+
+Judging by small size and unfused epiphyses, a bat obtained in April and
+another obtained in June are subadults. Specimens of adults, examined by
+me, agree well with the descriptions of _P. woodfordi_ by Thomas
+(1888_a_:156) and Andersen (1912:407-409), but are slightly smaller than
+specimens listed by Sanborn and Beecher (1947:389). Color of pelage in
+this species seems to vary. Adults seen have a pale head and mantle,
+contrasting strongly with the dark back. Andersen (1912:409) and
+Lawrence (1945:61) discussed individuals that had scattered silvery
+hairs mixed with dark fur dorsally and darker mantles that did not
+contrast noticeably with the rest of the dorsum.
+
+Lawrence (1945:389) named _Pteropus austini_ as a new species closely
+related to _P. woodfordi_ and other species of the _P. scapulatus_ group
+of Andersen (1912:402) and Tate (1942:336). Sanborn and Beecher
+(1947:389), studied a series of _P. woodfordi_ from Banika and
+Guadalcanal and found that skulls of two subadults agreed well with
+cranial characteristics ascribed to _P. austini_, which was based on two
+subadults. Lawrence (1945:61) stated also that "the interfemoral
+membrane is entirely absent medially in _austini_, while in _woodfordi_
+it is present as a barely discernible ridge 8 mm. wide." Andersen
+(1912:408) had earlier reported that in the type of _woodfordi_ the
+interfemoral membrane was "undeveloped in [the] centre." In 13 adults
+(in alcohol) studied by Sanborn and Beecher (1947:389), as well as in
+adults examined by me, the uropatagium is not present. In size, however,
+these specimens agree with dimensions given for _woodfordi_ by Thomas
+(1888_a_:156) and Andersen (1912:410); for example, length of forearm is
+93-99. According to Lawrence (1945:59) _austini_, in which the
+interfemoral membrane is lacking, is smaller than _woodfordi_ and has a
+forearm of about 84. In two juveniles of _P. woodfordi_ in the U. S.
+National Museum, the medially-developed interfemoral membrane is about 7
+wide. One specimen has small but distinct calcars whereas the other
+(slightly larger) apparently lacks calcars. This suggests individual
+variation in the presence or absence, as well as in the size, of the
+uropatagium in _Pteropus woodfordi_.
+
+Sanborn and Beecher (1947:389) decided that "until fully adult specimens
+showing the characters of _austini_ are available, it best be considered
+a synonym of _woodfordi_." For the following reasons I agree with these
+authors: (1) _austini_ is known from only two specimens, both of which
+are apparently subadults; (2) _austini_ is reported to have a forearm 84
+long and no interfemoral membrane, whereas _woodfordi_ has a forearm
+about 96 long and an interfemoral membrane that is only slightly
+developed; (3) specimens that agree in size and cranial characters with
+the type of _woodfordi_ but that lack an interfemoral membrane have been
+obtained; and (4) skulls of subadults of _woodfordi_ agree with the
+description of skulls of _austini_.
+
+Sanborn (1931:19) reported that specimens of _Pteropus woodfordi_ were
+obtained at night, while feeding on young green coconuts. Lawrence
+(1945:62) reported that in the late afternoon a collector found
+individuals of _austini_ [= _woodfordi_] in the fronds of a coconut
+tree, apparently feeding on pollen shoots. Sanborn and Beecher
+(1947:388) have reported malaria (_Plasmodium_) in _P. woodfordi_
+obtained on Guadalcanal. They suggested that malaria might have rendered
+one individual helpless because when it was found, on the ground, no
+wounds were evident and parasites were present in the blood.
+
+    [Illustration: FIG. 7. Distribution of _Pteropus woodfordi_ ([BW])
+       and _P. mahaganus_ ([BC]). For names of islands see Fig. 2.]
+
+
+=Pteropus mahaganus= Sanborn
+
+   1931. _Pteropus mahaganus_ Sanborn, Publ. Field Mus. Nat. Hist.,
+         Zool. Ser., 18:19, February 12, type from Santa Ysabel, also
+         reported from Bougainville; 1954, Laurie and Hill, List of
+         land mammals of New Guinea, Celebes and adjacent islands,
+         p. 39, June 30.
+
+_Specimens examined_ (one male and two females; one in
+alcohol).--Bougainville, in August and October, USNM 276972, USNM
+277104-5.
+
+_Measurements._--Measurements of one male and two females are,
+respectively, as follows: Length of head and body, 180, 204, 198; hind
+foot, 42, 38, 44; ear, 25, 23, 22; length of forearm, 134, 138, 140.
+Measurements of the skull of the male and one female are, respectively,
+as follows: Greatest length of skull, 52.5, 55.8; condylobasal length,
+50.9, 54.3; palatal length, 24.1, 26.0; zygomatic breadth, 28.9, 32.5;
+breadth across first upper molars, 14.4, 15.0; width of M1, 2.2, 2.2;
+length of maxillary tooth-row, 17.4, 18.4; length of mandibular
+tooth-row, 20.1, 21.4.
+
+_Remarks._--Sanborn (1931:19-21) described _Pteropus mahaganus_ on basis
+of six specimens, five from Santa Ysabel and one from Bougainville. The
+latter was in poor condition and only provisionally allocated to this
+species. The specimens examined by me (listed above) confirm the
+occurrence of _P. mahaganus_ on Bougainville.
+
+Sanborn (1931:20) described _mahaganus_ as "similar to and about the
+size of [_Pteropus scapulatus_] from Australia, but lighter in color,"
+and considered it, along with _P. woodfordi_, a member of the _Pteropus
+scapulatus_ group of Andersen (1912:402) and Tate (1942:336). I would
+judge, however, that _P. mahaganus_ and _P. woodfordi_ are much more
+closely related to one another than to _P. scapulatus_ of Australia. The
+only significant characteristic that the latter has in common with the
+two species from the Solomons is small cheek-teeth. In fact, teeth of
+_scapulatus_ are relatively smaller than teeth of either _mahaganus_ or
+_woodfordi_. Also, in _scapulatus_ the upper canines are widely
+separated due to lateral expansion of the palate at that point, whereas
+in _mahaganus_ and _woodfordi_ the width across the upper canines is
+relatively much less.
+
+
+=Dobsonia= Palmer
+
+   1898. _Dobsonia_ Palmer, Proc. Biol. Soc. Washington, 12:114,
+         April 30.
+
+   1810. _Cephalotes_ (part) E. Geoffroy, Ann. du Mus. d'Hist. Nat.,
+         15:104.
+
+_Dobsonia_, a genus of large to medium-sized fruit bats, occurring from
+Celebes to the Solomon Islands, contains at least nine species. One
+species and its two subspecies are endemic to the Solomons.
+
+_Dobsonia_ differs from all other genera of megachiropteran bats in the
+Solomons by combining absence of a small claw on the second digit and
+presence of external tail vertebrae.
+
+The cranium of _Dobsonia_ resembles, in some ways, the cranium of
+_Rousettus_ as well as that of _Pteropus_. Even so, in _Dobsonia_ the
+rostrum is shorter and the cheek-teeth, especially in the upper jaw, are
+more crowded. The anterior part of the mandible is narrow and the lower
+incisors are diminutive and often concealed by the flesh of the gum.
+
+
+=Dobsonia inermis=
+
+In a review of the genus _Dobsonia_, Andersen (1909_c_:532) named and
+described _D. inermis_ and _D. nesea_ from the Solomons. Specimens of
+_Dobsonia inermis_ from San Cristobal and Ugi were said to differ from
+specimens of _D. nesea_ from Alu, Shortland, and Rubiana in having
+perpendicular as opposed to anteriorly slanted upper canines. Andersen
+(1909_c_:532) reported that the two species were of "... the same
+general size." Troughton (1936:348-349) studied specimens of _Dobsonia_
+from Bougainville and Santa Ysabel and, because of individual variation
+in proclivity of the upper canines, concluded that _D. nesea_ was
+conspecific with _D. inermis_. He (p. 349) noted that the ears were
+shorter in _inermis_ than in _nesea_, but the size of teeth showed
+insular variation and a "... confusing amount of intergradation ...
+[that obscures] ... diagnostic importance."
+
+Specimens of _Dobsonia_ from Choiseul are smaller (externally and
+cranially) than those from Alu, Shortland, Rubiana, Bougainville, Fauro,
+Vella Lavella, Guadalcanal, Florida, Ugi, San Cristobal, and Rennell.
+Specimens from Santa Ysabel (see Fig. 8) are intermediate in size
+between those from Choiseul and the other islands listed. Judging from
+available specimens, two subspecies of _Dobsonia inermis_ occur in the
+Solomons. Specimens from Choiseul (see A, Fig. 8), which are smaller
+than those from other islands, represent one subspecies (heretofore
+unrecognized), whereas specimens from other islands (except Santa
+Ysabel) represent a second subspecies. Specimens from Santa Ysabel are
+slightly larger than those on Choiseul and are regarded as intergrades
+between the two subspecies. Specimens from Rennell, Ugi, San Cristobal,
+Florida, Fauro, and Guadalcanal are slightly smaller than those from
+Bougainville, Vella Lavella, Shortland, and Rubiana, but the differences
+are not great enough to warrant recognition of two subspecies.
+Therefore, the subspecific name _nesea_ is arranged as a synonym of
+_inermis_, which has priority, and the latter name is used for specimens
+of _Dobsonia inermis_ from the Solomon islands other than Choiseul and
+Santa Ysabel. Additional remarks on the distribution of this species are
+in the section on Zoogeography and Speciation.
+
+Pohle (1953:130) suggested that _Dobsonia inermis_ (as well as _D.
+crenulata_ and _D. praedatrix_) is conspecific with _D. viridis_, but
+Laurie and Hill (1954:41) did not adopt his suggestion. I have not seen
+adequate series of _crenulata_, _praedatrix_, and _viridis_ (none of
+which occurs in the Solomons) to judge systematic relationships of these
+kinds; therefore I follow Laurie and Hill.
+
+
+=Dobsonia inermis inermis= Andersen
+
+   1909. _Dobsonia inermis_ Andersen, Ann. Mag. Nat. Hist., ser. 8,
+         4:532, December, type from San Cristobal; 1912, Andersen,
+         Catalogue of the Chiroptera ... British Museum, 1:475.
+
+   1936. _Dobsonia inermis inermis_, Troughton, Rec. Australian Mus.,
+         14:349, April 7, from Santa Ysabel; 1954, Laurie and Hill, List
+         of land mammals of New Guinea, Celebes and adjacent islands,
+         p. 41, June 30; 1956, Hill, The natural history of Rennell
+         Island, British Solomon Islands, 1:74, November 28, from
+         Rennell Island.
+
+   1878. _Cephalotes peroni_ (part), Dobson, Catalogue of the
+         Chiroptera ... British Museum, p. 91; 1879, Trouessart, Rev.
+         Mag. Zool., 3:208; 1887, Thomas, Proc. Zool. Soc. London,
+         p. 323, March 15, from Ugi and San Cristobal; 1888, Thomas,
+         Proc. Zool. Soc. London, p. 476, December 4; 1897, Trouessart,
+         Catalogus Mammalium ..., 1:87.
+
+   1899. _Dobsonia peroni_ (part), Trouessart, Catalogus Mammalium
+         ..., 2:1278.
+
+   1909. _Dobsonia nesea_ Andersen, Ann. Mag. Nat. Hist., ser. 8,
+         4:532, December 1, type from Shortland Island; 1912, Andersen,
+         Catalogue of the Chiroptera ... British Museum, 1:476, from
+         Shortland and Rubiana; 1931, Sanborn, Publ. Field Mus. Nat.
+         Hist., Zool. Ser., 18:22, February 12, from San Cristobal.
+
+   1936. _Dobsonia inermis nesea_, Troughton, Rec. Australian Mus.,
+         14:348, April 7, from Bougainville; 1953, Pohle, Z. Saeugetierk.,
+         17:130, October 27; 1954, Laurie and Hill, List of land mammals
+         of New Guinea, Celebes and adjacent islands, p. 41, June 30,
+         from New Georgia.
+
+_Specimens examined_ (13 males and three females; three in alcohol,
+crania extracted and cleaned).--Fauro in April, 23728, 23740, 23751;
+Vella Lavella in November, 23134-36, 23141, 23145, 23147, 23149, 23151,
+23153; Guadalcanal in May and June, 23865, 23914, 24008; Florida in
+October, 24416.
+
+_Measurements._--See tables 2 and 3.
+
+_Remarks._--Heretofore, _Dobsonia inermis inermis_ was unreported from
+Fauro, Vella Lavella, Guadalcanal, and Florida. Apparently the
+subspecies occurs on most islands of the archipelago (see Fig. 9).
+
+In coloration and most cranial dimensions the specimens listed above
+agree with specimens of _D. i. inermis_ from Alu, Shortland, and Rubiana
+(Andersen, 1909_c_:532; 1912:475, 476), Bougainville (Troughton,
+1936:348, 349), and Rennell (Hill, 1963:74). The forearm in the adult
+male holotype of "_nesea_," from Shortland, is 109.5 as opposed to 109.0
+in an adult female topotype of _inermis_ from Ugi (Andersen, 1912:478)
+in the southeastern part of the archipelago (see Fig. 9). Forearms of
+specimens of _D. i. inermis_ from Vella Lavella are 107 to 112
+(measurements from labels because forearms of these specimens were
+broken and therefore could not be remeasured). Forearms of specimens
+from Fauro, Florida, Guadalcanal, and Rennell are 103.6 to 110.0 (see
+Hill, 1956:74). Variation in length of forearm probably is not
+significant because no cline is evident (see Fig. 9 and Table 2).
+
+In 1964, 11 specimens of _Dobsonia inermis_ were collected on Choiseul.
+They are smaller, externally and cranially, than specimens of _D.
+inermis_ from Sun Cristobal, Ugi, Rennell, Guadalcanal, Florida,
+Rubiana, Vella Lavella, Shortland, Alu, Bougainville, and Fauro, and may
+be named and described as follows:
+
+
+=Dobsonia inermis minimus=, new subspecies
+
+_Type._--Adult male skin and skull, in good condition (originally stored
+in 70 per cent alcohol for about one year), no. BBM-BSIP 23716, Bernice
+P. Bishop Museum; from Choiseul Island, British Solomon Islands
+Protectorate; obtained on 20 March 1964 by Philip Temple, original
+number 1524.
+
+_Distribution._--Choiseul Island (type locality); intergrades from Santa
+Ysabel also assigned to this subspecies.
+
+_Diagnosis._--Size small for species; wing membranes, feet, and ears
+black; dorsal surface of interfemoral membrane sparsely set with silvery
+hairs, other membranes naked; hair soft, medium length (10 on mantle, 5
+on crown), black hairs and scattered white hairs on face and crown; fur
+of dorsal surface of mantle composed of whitish hairs having faint olive
+cast imparting general color of Buffy-Citrine; hair of venter short
+(about 5), soft, and fine; general coloration Buffy-Citrine; cranium
+delicate; rostrum narrow in dorsal aspect (nasals not expanded
+laterally); forehead (junction of nasals and frontals) pronounced in
+lateral aspect; teeth resembling those of other subspecies of _D.
+inermis_ but slightly smaller.
+
+_Comparisons._--From adults of _Dobsonia inermis inermis_, which occurs
+on Rennell, San Cristobal, Ugi, Malaita, Florida, Guadalcanal, Rubiana,
+Vella Lavella, Shortland, Alu, Bougainville, and Fauro, _minimus_
+differs in being smaller. Average length of mandible 31.2 and 33.4. For
+other measurements see Table 2.
+
+From _Dobsonia praedatrix_, which occurs on New Britain, New Ireland,
+and Duke of York (northward of the Solomons), _minimus_ differs in being
+smaller in all dimensions; length of forearm averaging 100.5 as opposed
+to 116.0, and greatest length of skull 42.4 as opposed to 50.0.
+
+    [Illustration: FIG. 8. Greatest length of skull plotted against
+       zygomatic breadth for two subspecies of _Dobsonia inermis_. Symbols
+       represent _D. i. inermis_ ([BW]), _D. i. minimus_ ([TW]), and
+       intergrades assigned to _minimus_ ([BC]). Capital letters are used
+       to relate groups of specimens to the island or islands from which
+       they were collected; spatial distribution of specimens indicated in
+       the scatter diagram thus is shown in the inset map. Specimens from
+       Santa Ysabel and Bougainville are deposited in the Australian
+       Museum. The type specimen of _D. i. inermis_ is labeled "E." For
+       names of islands see Fig. 2.]
+
+    [Illustration: FIG. 9. Distribution of _Dobsonia inermis inermis_
+       ([BC]) and _D. inermis minimus_ ([RW]). For names of islands see
+       Fig. 2.]
+
+    TABLE 2. Average and Extreme Measurements of Two Subspecies of
+       _Dobsonia inermis_.
+
+  ================+====================================+===================
+                  |           _D. i. minimus_          | _D. i. inermis_
+                  +------------------+-----------------+-------------------
+                  |                  |                 |  Guadalcanal,
+    MEASUREMENT   |     Choiseul     |  Santa Ysabel   |  Fauro, Vella
+                  |     4 [M], 2 [F] |  1 [M], 2 [F]   |Lavella, Florida
+                  |                  |                 |    9 [M], 2 [F]
+  ----------------+------------------+-----------------+-------------------
+  Length of head  |                  |                 |
+    and body      |174.5 (170 -180  )|                 |174.5 (160  -190  )
+  Tail vertebrae  | 28.5 (24  - 33  )| 23.0 (21.5-24.0)| 30.4 ( 25  - 35  )
+  Hind foot       | 25.3 (25.1- 25.9)| 23.5 (23.5-24.0)| 29.3 ( 26.0- 31.6)
+  Ear             | 21.5 (21.0- 22.9)| 21.1 (21.0-21.5)| 23.1 ( 19  - 25  )
+  Length of       |                  |                 |
+    forearm       |100.5 (98.1-104.0)|105.3 (104 -107 )|108.4 (105  -112  )
+  2nd metacarpal  | 43.6 (42.6- 45.2)|                 | 48.1 ( 45.9- 50.9)
+  3rd metacarpal  | 61.5 (59.8- 62.9)|                 | 67.6 ( 65.2- 68.5)
+  4th metacarpal  | 57.5 (56.5- 58.5)|                 | 62.5 ( 58.7- 65.5)
+  5th metacarpal  | 59.0 (57.0- 60.5)|                 | 64.4 ( 61.8- 66.0)
+                  |                  |                 |
+  Greatest length |                  |                 |
+    of skull      | 42.4 (42.1- 43.5)| 44.0 (43.0-45.6)| 45.9 ( 45.2- 47.4)
+  Condylobasal    |                  |                 |
+    length        | 40.4 (39.5- 41.3)| 41.7 (41.1-42.6)| 43.6 ( 43.1- 45.0)
+  Zygomatic       |                  |                 |
+    breadth       | 25.6 (24.9- 26.8)| 26.5 (25.7-27.6)| 27.9 ( 27.2- 28.5)
+  Breadth of      |                  |                 |
+    braincase     | 16.8 (16.5- 17.4)| 18.0 (17.1-19.9)| 17.9 ( 16.7- 19.0)
+  Breadth across  |                  |                 |
+    upper canines |  8.4 ( 8.1-  8.7)|                 |  9.2 (  9.2-  9.5)
+  Breadth across  |                  |                 |
+    first upper   |                  |                 |
+    molars        | 12.1 (11.8- 12.6)|                 | 13.1 ( 12.6- 13.3)
+  Length of       |                  |                 |
+    maxillary     |                  |                 |
+    tooth-row     | 15.6 (15.5- 15.8)| 16.4 (16.0-17.2)| 16.4 ( 15.9- 17.0)
+  Length of       |                  |                 |
+    mandibular    |                  |                 |
+    tooth-row     | 17.1 (16.8- 17.6)| 17.8 (17.3-18.4)| 18.2 ( 17.8- 19.4)
+  ----------------+------------------+-----------------+-------------------
+
+_Measurements._--Comparative measurements of the subspecies _inermis_
+and _minimus_ are given in Table 2. Some measurements of the type are as
+follows: Length of head and body, 147; tail vertebrae, 31; hind foot,
+25; ear, 21; length of forearm, 99.5; 2nd metacarpal, 42.8; 3rd
+metacarpal, 62.7; 4th metacarpal, 58.5; 5th metacarpal, 59.1; greatest
+length of skull, 42.2; condylobasal length, 40.6; zygomatic breadth,
+25.8; breadth of braincase, 16.8; length of maxillary tooth-row, 15.8;
+length of mandible, 31.2.
+
+_Remarks._--_Dobsonia inermis minimus_ is the smallest subspecies of
+_Dobsonia inermis_. Specimens from Santa Ysabel, southeastward of
+Choiseul, are slightly larger than the type and paratypes of _minimus_.
+As can be seen in the scatter diagram (Fig. 8), a male from Santa Ysabel
+is as large as one male and most females of _D. i. inermis_. The other
+three specimens from Santa Ysabel also are slightly larger than
+specimens of _minimus_ from Choiseul, but are much smaller than
+specimens of _D. i. inermis_, and, therefore, are referred to _D. i.
+minimus_.
+
+Although there is a cline in size of _Dobsonia inermis_ from Choiseul to
+Florida (generally southward; Fig. 9), no cline in size is apparent
+between Choiseul and Fauro (generally westward). Specimens of _D.
+inermis_ from Fauro are average for the subspecies _inermis_; there is
+no evidence, in the small series available, of intergradation between
+_minimus_ on Choiseul and _inermis_ on Fauro.
+
+_Specimens examined_ (eight males and three females, all originally in
+alcohol; seven crania, all adults, extracted and cleaned).--Choiseul in
+March, 23565, 23628, 23637, 23665-67, 23640, 23714, 23716 (holotype),
+23717, 23720. Ellis LeG. Troughton kindly examined and measured nos.
+AM-M. 3693[M], AM-M. 3694[M], AM-M. 3937[F], and AM-M. 3940[F], from
+Santa Ysabel in the Australian Museum.
+
+
+Subfamily Macroglossinae
+
+
+=Macroglossus= F. Cuvier
+
+   1824. _Macroglossus_ F. Cuvier, Des dents des mammiferes ...
+         zoologiques, p. 248.
+
+   1840. _Kiodotus_ Blyth, _in_ Cuvier's animal kingdom ..., p. 69.
+
+   1891. _Carponycteris_ Lydekker, _in_ Flower and Lydekker, mammals
+         living and extinct, p. 654.
+
+   1902. _Odontonycteris_ Jentink, Notes Leyden Mus., 23:140, July 15.
+
+_Macroglossus_, the widest-ranging genus of macroglossine bats, occurs
+from southeastern Asia to the southern islands of the Solomon
+Archipelago (see Ellerman and Morrison-Scott, 1966:101; Laurie and Hill,
+1954:44). One species, known also from Celebes and New Guinea, occurs in
+the Solomons and is represented there by an endemic subspecies.
+
+Numerous generic names have been applied, at one time or another, to
+bats now considered as _Macroglossus_. Trouessart (1904:65) and Miller
+(1907:70) listed the one bat of this genus occurring in the Solomons
+under _Carponycteris_ and _Kiodotus_, respectively. Andersen (1911:642;
+1912:767) and, later, Sanborn (1931:22) identified this bat as
+_Macroglossus lagochilus microtus_. Troughton (1936:350), reporting an
+extension of range of this species in the Solomons, used the generic
+name _Odontonycteris_ without explanation. Andersen (1912:754) pointed
+out that Jentink originally established the name _Odontonycteris_ on the
+basis of an extra premolar in each upper jaw as opposed to the usual two
+in _Macroglossus_, and arranged _Odontonycteris_ as a synonym of
+_Macroglossus_ because "in no genus of Megachiroptera are dental
+anomalies of so frequent occurrence as in _Macroglossus_, and on no
+point of the jaws are these anomalies ... so often met with as on that
+occupied by the molar series." Sanborn (1931:22) and Phillips (1966:27)
+noted variation in number of incisors in _Macroglossus_ as well as in
+_Melonycteris_, another macroglossine genus. All of the more recent
+workers (Ellerman and Morrison-Scott, 1966; Pohle, 1953; Laurie and
+Hill, 1954) use the name _Macroglossus_.
+
+
+=Macroglossus lagochilus=
+
+_Macroglossus lagochilus_ has at least three subspecies, one of which is
+endemic to the Solomons. The species ranges from Celebes on the west to
+the Solomon Islands on the east, occurring not only in New Guinea but
+also on many of the small adjacent islands (see Laurie and Hill,
+1954:44).
+
+    [Illustration: FIG. 10. Distribution of _Macroglossus lagochilus
+       microtus_. For names of islands see Fig. 2.]
+
+
+=Macroglossus lagochilus microtus= Andersen
+
+   1911. _Macroglossus lagochilus microtus_ Andersen, Ann. Mag. Nat.
+         Hist., Ser. 8, 7:642, June, type from Guadalcanal, additional
+         specimens from Florida; 1912, Andersen, Catalogue of the
+         Chiroptera ... British Museum, 1:767; 1931, Sanborn, Publ.
+         Field Mus. Nat. Hist., Zool. Ser., 18:22, February 12, from San
+         Cristobal; 1953, Pohle, Z. Saeugetierk., 17:130, October 27,
+         from Bougainville; 1954, Laurie and Hill, List of land mammals
+         of New Guinea, Celebes and adjacent islands, p. 44, June 30.
+
+   1888. _Macroglossus australis_ (part). Thomas, Proc. Zool. Soc.
+         London, p. 476, December 4, from Guadalcanal.
+
+   1904. _Carponycteris nana_ (part), Trouessart, Catalogus Mammalium
+         ..., Suppl., p. 65.
+
+   1907. _Kiodotus_ sp., Miller, Bull. U. S. Nat. Mus., 57:70,
+         June 29.
+
+   1936. _Odontonycteris lagochilus microtus_, Troughton, Rec.
+         Australian Mus., 14:350, April 7, from Bougainville.
+
+_Specimens examined_ (14 males and 16 females; in alcohol).--Choiseul in
+March, 23654-57, 23614, 23629, 23643, 23645, 23647, 23677-79, 23684;
+Vella Lavella in December, 23277-79, 23283-84; Fauro in April, 23765;
+Guadalcanal in May and June, 23830, 23864, 23935; Kolombangara in
+January, 23385, 23399, 23397, 23407, 23420-21; Santa Ysabel in June,
+24067; Malaita in June, 24067.
+
+_Measurements._--Average and extreme external measurements of 14 males
+and 15 females are as follows: Length of head and body, 68.3 (63-72);
+tail vertebrae present but scarcely perceptible and therefore not
+measured; hind foot, 11.4 (9.0-12.9); ear, 12.0 (10.0-12.9); length of
+forearm, 37.6 (36.2-39.9).
+
+_Remarks._--The distribution of _Macroglossus lagochilus microtus_ has
+not been well known. Specimens herein reported from Choiseul, Fauro, and
+Vella Lavella provide new records of distribution. As shown on Figure
+10, the subspecies occurs throughout the Solomon Islands.
+
+_Macroglossus lagochilus microtus_ differs slightly from _M. l. nanus_
+Matschie, the subspecies of the Bismarck Archipelago and Admiralty
+Islands to the north of the Solomons. _M. l. nanus_ averages slightly
+larger than _microtus_ (see Andersen, 1912:768-769, for comparative
+measurements) but otherwise closely resembles it.
+
+Individual variation is evident in several measurements of the specimens
+at hand (in length of forearm, for example) but no clines are apparent.
+Four females obtained in March were lactating, as was one taken in
+December and one taken in January.
+
+
+=Melonycteris= Dobson
+
+   1877. _Melonycteris_ Dobson, Proc. Zool. Soc. London, p. 119,
+         June 1.
+
+   1877. _Cheiropteruges_ Ramsay, Proc. Linn. Soc. New South Wales,
+         2:19, July.
+
+   1887. _Nesonycteris_ Thomas, Ann. Mag. Nat. Hist., ser. 5, 14:147,
+         February.
+
+The genus _Melonycteris_ is known from three species, two apparently
+endemic to the Solomon Islands and the third occurring in eastern New
+Guinea and the Bismarck Archipelago (Laurie and Hill, 1954:45).
+
+Heretofore, the generic name _Nesonycteris_ has been applied to the
+species in the Solomons, whereas _Melonycteris_ has been restricted to
+the one species in the Bismarck Archipelago and New Guinea. Andersen
+(1912:792) judged that _Nesonycteris_ was clearly distinct from
+_Melonycteris_ on the basis of two characters (loss of a claw on the
+second digit and loss of the inner, lower incisors). On the other hand,
+he noted striking similarities in general cranial features, dentition,
+palatal ridges, tongue, and external appearance of the two genera. Pohle
+(1953:131) synonymized the two but Laurie and Hill (1954:45) considered
+them distinct. I have suggested previously (Phillips, 1966:26, 27) that
+characteristics used to distinguish between _Melonycteris_ and
+_Nesonycteris_ are of less than generic value. Variability of number of
+incisors in the upper jaw of specimens of _Melonycteris_ (and in other
+macroglossine genera, as well) indicates a lack of selective pressure
+for either increase or decrease in number of incisors. Furthermore, the
+loss of the small claw on the second digit might not be important
+because, as Bader and Hall (1960:15) have pointed out, limbs of bats
+vary more in phenotypic expression than do other parts of the skeletal
+structure.
+
+The discovery of a new species (_Melonycteris aurantius_) in the Solomon
+Islands sheds additional light on the problem. Although _M. aurantius_
+possesses the distinguishing characteristics of the genus
+"Nesonycteris," the species closely resembles _Melonycteris_ in other
+features. Similarity in structure of hair of _Melonycteris_ and
+_Nesonycteris_, as first reported by Benedict (1957:293), also supports
+the argument for synonymy (see Phillips, 1966:26).
+
+_Melonycteris aurantius_ lacks a small claw on the second digit and has
+only two lower incisors. In these ways this species is like _woodfordi_,
+which also is restricted to the Solomons. On the other hand, the
+structure of the skull of _M. aurantius_ is like that of _M. melanops_,
+which is the species found in the Bismarck Archipelago.
+
+Although _melanops_ is not yet known from the Solomon Islands, I have
+included it in the following key.
+
+Key to Known Species of _Melonycteris_
+
+  1.    Ventral surface darker than dorsum, but not strongly
+        contrasting with it; lacking a small claw on the
+        second digit,                                                2
+
+  1'.    Ventral surface nearly black, strongly contrasting with
+         dorsum; small claw on second digit,
+                                               =Melonycteris melanops=
+
+  2(1'). Pelage bright, Cinnamon-Rufous; postorbital region of
+         skull expanded (about 8.3 wide),
+                                      =Melonycteris aurantius=, p. 816
+
+  2'.    Pelage dark, near Wood-Brown or Cinnamon; postorbital
+         region of skull constricted (about 7.5),
+                                      =Melonycteris woodfordi=, p. 816
+
+    [Illustration: FIG. 11. Distribution of _Melonycteris aurantius_
+       [BC] and _M. woodfordi_ [LW]. For names of islands see Fig. 2.]
+
+
+=Melonycteris aurantius= Phillips
+
+   1966. _Melonycteris aurantius_ Phillips, Jour. Mamm., 47:23-27,
+         March 12, type from Florida Island, additional specimens from
+         Choiseul Island.
+
+_Specimens examined_ (six females; three in alcohol).--Florida in
+October, 24440; Choiseul in March, 23615, 23617, 23558, 23694, 23681.
+
+_Measurements._--Average and extreme measurements of six females are as
+follows: Length of head and body, 80.8 (77-106); hind foot, 17.2
+(16.0-18.7); ear, 12.7 (11.5-14.0); length of forearm, 49.3 (42.9-53.8).
+Average and extreme measurements of skulls of five females are as
+follows: Greatest length of skull, 31.8 (30.8-33.3); condylobasal
+length, 29.7 (28.6-32.4); zygomatic breadth, 18 (17.2-20.0); breadth of
+braincase, 12.6 (12.4-13.2); postorbital breadth, 8.3 (8.0-8.9); length
+of maxillary tooth-row, 10.1 (9.4-10.4); length of mandibular tooth-row,
+11.7 (10.8-12.2).
+
+_Remarks._--On Choiseul Island _Melonycteris aurantius_ was taken at the
+same locality as its congener, _Melonycteris woodfordi_.
+
+Externally, _M. aurantius_ resembles _M. woodfordi_. These species are
+the same size, but the former is brighter in color (nearly orange in
+adults) than the latter, which is Wood-Brown dorsally. Internally,
+differences between _M. aurantius_ and _M. woodfordi_ are more obvious.
+In the skull of _M. aurantius_, the postorbital region is expanded
+(measuring about 8.3), whereas in _M. woodfordi_ the postorbital region
+is constricted. Furthermore, in lateral aspect the posterior portion of
+the skull of _M. aurantius_ is down-turned and the angle of the facial
+axis with the basicranial axis is much more acute than in _M.
+woodfordi_.
+
+The number of upper incisors is highly variable in the six specimens of
+_M. aurantius_ that I have examined. In two specimens an extra tooth has
+erupted just anterior to I2 and there is a total of six upper incisors.
+In two other specimens an extra tooth has erupted in front of I2 on one
+side but not the other. I could find no trace of an extra tooth in the
+remaining two specimens.
+
+Practically nothing is known about the natural history of _M.
+aurantius_, or, indeed, that of either of the other two species of this
+genus. One field collector (Temple, _in litt._) for the Bishop Museum
+reported that he obtained both _M. aurantius_ and _M. woodfordi_ in the
+same mist net in one night. The holotype, an adult female, was lactating
+when obtained in October.
+
+
+=Melonycteris woodfordi= (Thomas)
+
+   1887. _Nesonycteris woodfordi_ Thomas, Ann. Mag. Nat. Hist., ser.
+         5, 14:147, February, type from Shortland Island; 1887, Thomas,
+         Proc. Zool. Soc. London, p. 324, March 15; 1888, Thomas, Proc.
+         Zool. Soc. London, p. 476, December 4; 1898, Trouessart,
+         Catalogus Mammalium ..., 1:90; 1899, Matschie, Die Megachiroptera
+         ... naturkunde, p. 91; 1904, Trouessart, Catalogus Mammalium ..,
+         Suppl., p. 66; 1907, Miller, Bull. U. S. Nat. Mus., 57:74,
+         June 29; 1912, Andersen, Catalogue of the Chiroptera ... British
+         Museum, 1:792, from Alu, Shortland, Fauro, and Guadalcanal; 1931,
+         Sanborn, Publ. Field Mus. Nat. Hist., Zool. Ser., 18:23, February
+         12, from Russell Island (Pavuvo); 1954, Laurie and Hill, List of
+         land mammals of New Guinea, Celebes and adjacent islands, p. 45,
+         June 30.
+
+   1953. _Melonycteris woodfordi_, Pohle, Z. Saeugetierk., 17:130,
+         October 27, from Bougainville Island; 1966, Phillips, Jour. Mamm.,
+         47:23, March 12, from Choiseul.
+
+_Specimens examined_ (three males and one female; in
+alcohol).--Choiseul, in April, 23413-14, 23434, 23275.
+
+_Measurements._--Average and extreme measurements of three males and one
+female are as follows: Length of head and body, 86.1 (83.1-91.0); hind
+foot, 19.6 (17.2-22.2); ear, 11.3 (10.8-11.7); length of forearm, 54.4
+(52.1-57.7).
+
+_Remarks._--Specimens of _Melonycteris woodfordi_ from Choiseul
+constitute a new locality of occurrence for the species. Apparently _M.
+woodfordi_ occurs throughout the Solomons (see Fig. 11).
+
+Thomas (1887_a_:147) named _Nesonycteris woodfordi_ in a preliminary
+report that appeared before the publication of the more detailed
+description of the genus and species (1887_b_:323-324). In the second
+paper he stated that the anterior projections of the premaxillary bones
+are separated distinctly in both _Nesonycteris_ and _Melonycteris_.
+According to Thomas (1887_b_:323), it was by some "accident" that Dobson
+(1878:4) reported the anterior projections of the premaxillary bones in
+_Melonycteris melanops_ to be united. Writing at a later date, Andersen
+(1912:785) reported that in _Melonycteris melanops_ the premaxillary
+bones have "simple contact with each other." Furthermore, in Andersen's
+(1912:791) illustration of _M. woodfordi_ the premaxillary bones are in
+contact anteriorly. In specimens of _woodfordi_ and _melanops_ examined
+by me, the premaxillary bones are in contact. In _M. aurantius_ the
+premaxillary bones are not in contact, and it differs from _woodfordi_
+in several other respects.
+
+In _M. woodfordi_, as in other macroglossine bats, there is variability
+in dentition. One specimen examined has a total of three upper incisors,
+and another had an extra peglike tooth just anterior to I1.
+
+
+Subfamily Nyctimeninae
+
+
+=Nyctimene= Borkhausen
+
+   1797. _Nyctimene_ Borkhausen, Deutsche fauna ..., 1:86.
+
+   1810. _Cephalotes_ E. Geoffroy, Ann. du Mus. d'Hist. Nat., 15:104.
+
+   1811. _Harpyia_ Illiger, Prodr. Syst. Mamm. et Avium, p. 118.
+
+   1837. _Gelasinus_ Temminck, Monographe de Mammalia ..., 2:100.
+
+Tube-nosed bats of the genus _Nyctimene_ occur from Celebes on the west
+to the Santa Cruz Islands on the east. Heretofore, two species (_N.
+albiventer_ and _N. major_), each with an endemic subspecies, were known
+from the Solomon Islands. Both species occur also in New Guinea and on
+many adjacent islands. A new species of _Nyctimene_, apparently endemic
+to the Solomons, and a new subspecies of _N. albiventer_ are named
+beyond.
+
+_Nyctimene_ is related closely to _Cynopterus_ and the "Cynopterus
+group" of Andersen (1912:691). Because _Nyctimene_ is a highly
+specialized bat, Miller (1907:75) placed it in a subfamily separate from
+that of _Cynopterus_ and its allies.
+
+Andersen (1912:696, 697) placed the species of _Nyctimene_ previously
+known from the Solomons in two groups, the "papuanus" group and the
+"cephalotes" group, on the basis of difference in length of forearm and
+length of maxillary tooth-row. Because of its short forearm (about 58),
+_N. albiventer_ is in the _papuanus_ group; and _N. major_, because of
+its long forearm (about 74), is in the _cephalotes_ group.
+
+Key to Species of Nyctimene in the Solomons
+
+  1.     Forearm longer than 70; males grayish-brown, females
+         pale gray,                        =N. major scitulus=, p. 825
+
+  1'.    Forearm shorter than 70; males dark brown, females
+         pale brown,                                                 2
+
+  2(1'). Forearm about 65,                    =N. malaitensis=, p. 822
+
+  2'.    Forearm less than 61,                 =N. albiventer=, p. 818
+
+
+=Nyctimene albiventer=
+
+This species occurs throughout New Guinea and on many adjacent islands,
+including the Bismarck Archipelago and the Admiralty and Solomon
+islands. The species varies geographically and five subspecies are
+recognized. The two subspecies in the Solomons resemble _N. albiventer
+papuanus_, the subspecies that ranges from eastern New Guinea to New
+Britain. _N. albiventer bougainville_ occurs in the western chain of
+islands of the Solomons, whereas another subspecies, named as new
+beyond, occurs in the eastern chain of islands (see Fig. 12).
+
+Sexual dichromatism is striking. As Andersen (1912:690) previously
+reported, females generally are paler, more brownish than males, which
+are dark and have a better defined black dorsal stripe.
+
+
+=Nyctimene albiventer bougainville= Troughton
+
+   1936. _Nyctimene bougainville_ Troughton, Rec. Australian Mus.,
+         19:349, April 7, type from Bougainville.
+
+   1954. _Nyctimene albiventer bougainville_, Laurie and Hill, List of
+         land mammals of New Guinea, Celebes and adjacent islands, p. 46,
+         June 30.
+
+   1953. _Nyctimene papuanus bougainville_, Pohle, Z. Saeugetierk.,
+         17:130, October 27.
+
+_Specimens examined_ (nine males, one female; nine in alcohol, nine
+crania extracted and cleaned).--Bougainville in December, AM-M. 5786
+(paratype); Guadalcanal in May, 23812, 23815, 23827; Kolombangara in
+January and February, 23369, 23381, 23388, 23406, 23444, 23456.
+
+_Measurements._--See Table 3.
+
+_Remarks._--Heretofore, _Nyctimene albiventer bougainville_ was not
+known from Kolombangara and Guadalcanal. The subspecies apparently
+ranges throughout the western chain of the Solomons.
+
+Troughton (1936:350) considered _Nyctimene bougainville_ specifically
+distinct from its nearest ally, _N. papuanus_. Pohle (1953:130) did not
+examine specimens of either kind, but on the basis of Troughton's
+description decided that _N. bougainville_ differed only subspecifically
+from _N. papuanus_. Laurie and Hill (1954:46) synonymized _bougainville_
+and _papuanus_ with _N. albiventer_. However, Troughton (1936:350)
+pointed out that in addition to size _bougainville_ differed from
+_papuanus_ by having narrower and longer pm3 and pm4. Judging from
+specimens examined by me, such is the case, and the difference is even
+more pronounced in m1.
+
+Specimens of _N. a. bougainville_ from Kolombangara and Guadalcanal
+agree with a paratype of this subspecies from Bougainville. Geographic
+variation, if present in the population in the western chain of islands
+(see Fig. 12), is slight and not notable in the series available. Some
+individual variation was found, especially in the shape of the
+interorbital region of the skull. An adult male from Kolombangara is
+unusually dark, almost black; color of the other specimens (all in
+alcohol) is consistent according to sex.
+
+_Nyctimene albiventer_ from Choiseul and Santa Ysabel is smaller, in all
+respects, than _N. albiventer_ from Bougainville, Kolombangara, and
+Guadalcanal (see Table 3), and therefore may be named and described as
+follows:
+
+
+=Nyctimene albiventer minor=, new subspecies
+
+_Type._--Adult male, skin and skull, in good condition (originally
+stored in alcohol for about one year), no. BSIP 23636, Bernice P. Bishop
+Museum; from Choiseul Island, British Solomon Islands Protectorate;
+obtained on 11 March 1964, by Philip Temple, original number 1441.
+
+_Distribution._--Known only from Choiseul and Santa Ysabel islands (see
+Fig. 12).
+
+_Diagnosis._--Small for _Nyctimene_; wing membranes brown with scattered
+yellow spots (dried specimens); uropatagium, feet, and ears brown;
+dorsum of tibia set with hair, ventral surface naked; dorsum of
+uropatagium sparsely set with pale brown hairs, ventral surface almost
+bare; fringe of hairs along two centimeters of dorsal and ventral
+surfaces of trailing edge of wing membrane; proximal third of dorsal
+surface of forearm sparsely set with hairs; pelage of back soft and
+thick, of medium length (about 7); hair on crown and nape short (about
+4); well-defined black dorsal stripe, extending from uropatagium to
+shoulders; skull resembling that of other subspecies of _N. albiventer_
+but relatively smaller; zygomatic arch delicate, slender anteriorly; P2
+small (see Fig. 14). Sexually dichromatic as follows: male--dorsum
+Hair-Brown, bases of hairs darker; hair on throat sparse, medium length
+(about 6), Hair-Brown; fur along sides of abdomen Drab; female--dorsum
+having Buffy-Brown cast, some individual hairs Hair-Brown; shoulders
+Sayal-Brown; hair on throat sparse, Hair-Brown on throat and midline of
+abdomen; sides of abdomen Sayal-Brown.
+
+_Comparisons._--From _Nyctimene major scitulus_, the largest member of
+this genus in the Solomons, _N. a. minor_ differs in being smaller in
+all measurements taken; forearm averaging 54.8 as opposed to 73.5;
+greatest length of skull 28.2 as opposed to 37.0, and females pale brown
+instead of pale gray.
+
+From nine adults of _Nyctimene albiventer bougainville_ from
+Bougainville, Kolombangara, and Guadalcanal, _minor_ differs as follows:
+averaging slightly smaller in all dimensions; forearm averaging 54.8 as
+opposed to 57.9; second metacarpal averaging 27.4 as opposed to 28.3;
+5th metacarpal averaging 38.5 as opposed to 40.0; condylobasal length
+26.7 as opposed to 28.0; length of mandibular tooth-row 10.3 as opposed
+to 10.9; mandible smaller (see Fig. 14); dorsal stripe fainter.
+
+From _Nyctimene albiventer papuanus_, known from eastern New Guinea, New
+Britain, and the Admiralty Islands, _minor_ differs as follows: slightly
+smaller in most dimensions; forearm averaging 54.8 as opposed to 57.0;
+length of maxillary tooth-row 8.9 as opposed to 9.8; length of
+mandibular tooth-row 10.3 as opposed to 11.0; breadth across upper third
+premolars notably less (7.5 as opposed to 8.4).
+
+_N. a. minor_ differs from _N. albiventer albiventer_ Gray, which occurs
+about 800 miles to the west of _minor_, in ways made apparent by the
+description by Andersen (1912:700-701). _N. a. minor_ occurs about 1500
+miles eastward of the place from which _N. a. draconilla_ Thomas, a
+subspecies essentially unknown to me, was named (see Laurie and Hill,
+1954:46).
+
+From _Nyctimene sanctacrucis_, known from the Santa Cruz Islands,
+_minor_ differs as follows: much smaller in all dimensions; forearm
+averaging 54.8 as opposed to 75; greatest length of skull 28.2 as
+opposed to 34.5; length of maxillary tooth-row 8.9 as opposed to 12.9.
+
+    [Illustration: FIG. 12. Distribution of _Nyctimene albiventer
+       bougainville_ ([BC]) and _N. albiventer minor_ ([LW]).
+       For names of islands see Fig. 2.]
+
+    [Illustration: FIG. 13. Scatter diagram comparing two subspecies
+       of _Nyctimene albiventer_. One individual of specimens thought
+       to be intergrades is as large as specimens of _Nyctimene a.
+       bougainville_, whereas the other three intergrades are about the
+       same size as specimens of _N. a. minor_. Symbols represent
+       _N. a. bougainville_ ([BW]), _N. a. minor_ ([TW]), and intergrades
+       assigned to _minor_ ([BC]). For names of islands see Fig. 2.]
+
+    TABLE 3. Average and Extreme Measurements of _Nyctimene albiventer
+       bougainville_ and _N. a. minor_.
+
+  ===============+==================+==================+===================
+                 |  _N. a. minor_   |  _Intergrades_   | _N. a.
+                 |                  |                  |    bougainville_
+                 |                  |                  |
+    MEASUREMENT  |    Choiseul,     |      Fauro       |   Kolombangara,
+                 |   Santa Ysabel   |                  |    Guadalcanal
+                 |   4 [M], 1 [F]   |   1 [M], 3 [F]   |    8 [M], 1 [F]
+  ---------------+------------------+------------------+-------------------
+  Length of head |                  |                  |
+    and body     |107.0 (105 -109  )|109.2 (105 -112  )|110.0 (106  -117)
+  Tail vertebrae | 20.0 (19.3- 20.5)| 21.0 ( 20 - 22  )| 19.2 ( 15.5- 23.0)
+  Hind foot      | 14.2 (13.5- 15.0)|                  | 14.3 ( 13.0- 15.9)
+  Ear            | 11.9 (11.0- 13.0)|                  | 12.8 ( 11.8- 14.5)
+  Length of      |                  |                  |
+    forearm      | 54.8 (54.0- 55.8)| 57.1 (55.9- 59.0)| 57.9 ( 55.8- 59.8)
+  Greatest       |                  |                  |
+    length of    |                  |                  |
+    skull        | 28.2 (27.2- 28.9)| 28.6 (28.3- 29.7)| 29.7 ( 28.6- 30.1)
+  Condylobasal   |                  |                  |
+    length       | 26.7 (26.2- 27.5)| 27.4 (26.6- 28.0)| 28.0 ( 27.8- 28.9)
+  Palatal length | 11.2 (10.9- 11.9)| 11.6 (11.3- 11.8)| 11.7 ( 11.0- 12.5)
+  Breadth of     |                  |                  |
+    braincase    | 12.0 (11.5- 12.4)| 12.0 (11.7- 12.2)| 12.3 ( 12.1- 12.8)
+  Zygomatic      |                  |                  |
+    breadth      | 18.9 (18.4- 19.7)| 18.6 (18.4- 19.2)| 19.2 ( 18.7- 20.0)
+  Interorbital   |                  |                  |
+    breadth      |  5.0 ( 4.7-  5.6)|  5.3 ( 5.0-  5.6)|  5.1 (  4.7-  5.5)
+  Breadth across |                  |                  |
+    first upper  |                  |                  |
+    molars       |  8.6 ( 8.4-  8.9)|  8.9 ( 8.7-  9.1)|  9.1 (  8.8-  9.6)
+  Maxillary      |                  |                  |
+    tooth-row    |  8.9 ( 8.7-  9.3)|  9.3 ( 9.1-  9.5)|  9.5 (  9.2-  9.8)
+  Mandibular     |                  |                  |
+    tooth-row    | 10.3 (10.0- 10.6)| 10.5 (10.2- 11.1)| 10.9 ( 10.7- 11.4)
+  ---------------+------------------+------------------+-------------------
+
+_Measurements._--Measurements of the two subspecies from the Solomons
+are given in Table 3. Some measurements of the type are as follows:
+Length of head and body, 108; tail vertebrae, 20.5; hind foot, 14.7;
+ear, 11.3; length of forearm, 55.1; 2nd metacarpal, 27.4; 3rd
+metacarpal, 39.0; 4th metacarpal, 37.5; 5th metacarpal, 39.1; greatest
+length of skull, 28.6; condylobasal length, 27.5; zygomatic breadth,
+18.4; length of maxillary tooth-row, 9.0; length of mandibular
+tooth-row, 10.4.
+
+_Remarks._--_Nyctimene albiventer minor_ closely resembles _N.
+albiventer bougainville_, differing from the latter mostly in size.
+Although adults of _minor_ average only slightly smaller than adults of
+_bougainville_ (see Table 3), there is only slight overlap (about 0.2 at
+most) in most minimum dimensions of external and cranial features of
+_bougainville_ and corresponding maximum dimensions of externals and
+crania of _minor_. The difference in size is clearly shown in Figs. 13
+and 14.
+
+Four specimens of _Nyctimene albiventer_ from Fauro herein are
+considered to be intergrades between _N. a. bougainville_ and _N. a.
+minor_. As shown in Table 3, the specimens from Fauro average slightly
+larger than those of _minor_ from Choiseul and Santa Ysabel and slightly
+smaller than specimens of _bougainville_ from Kolombangara and
+Guadalcanal. I have assigned the specimens from Fauro to _N. a. minor_
+because they generally are closer to _minor_ in size (see Fig. 13).
+
+_Specimens examined_ (five males and four females; seven in alcohol;
+seven crania extracted and cleaned).--Choiseul in February and March,
+23636 (holotype), 23631, 23540, 23646; Santa Ysabel in February, 23539;
+Fauro in April, 23742, 23743, 23763, 23764.
+
+One specimen of _Nyctimene_ from Malaita Island is smaller than
+_Nyctimene major_, which is known from Shortland, Alu, Florida, New
+Georgia, Guadalcanal, Choiseul, and Malapa (see Fig. 15) and is larger
+than either of the two subspecies of _Nyctimene albiventer_ known from
+Bougainville, Fauro, Kolombangara, Guadalcanal, Choiseul, and Santa
+Ysabel. This specimen represents a previously unknown species and may be
+named and described as follows:
+
+
+=Nyctimene malaitensis=, new species
+
+_Type._--Adult female, skin and skull, in good condition (originally
+stored in alcohol for about one year), no. BSIP 24103, Bernice P. Bishop
+Museum; from Malaita Island, British Solomon Islands Protectorate;
+obtained on 1 July 1964, by Peter Shanahan, original no. unknown.
+
+_Distribution._--Known only from Malaita (see Fig. 16).
+
+_Diagnosis._--Size average for genus but larger than closest relative,
+_Nyctimene albiventer_; wing membranes brown with scattered yellow spots
+(dried specimen); uropatagium, ears, and feet brown; dorsal surface of
+tibia set with hair, ventral surface bare; dorsal surface of uropatagium
+sparsely set with hair, ventral surface having few, scattered hairs;
+dorsal surface of trailing edge of wing membrane sparsely set with
+hairs, ventral surface bare; proximal third of upper- and under-surface
+of forearm set with hair; pelage of back luxuriant and soft (about 10
+long); hair on crown and nape shorter than on back (4 to 8);
+well-defined black dorsal stripe from shoulders to rump (about 2 wide);
+basal half of most hairs on dorsum Deep Mouse Gray, distal half Light
+Buff, tips Ochraceous-Tawny; some hairs on back entirely Light Buff;
+hairs of crown Light Ochraceous Buff tipped with Ochraceous-Tawny; hair
+on throat and along sides of abdomen Light Ochraceous Buff; hairs of
+ventral midline Smoke Gray; braincase narrow; zygomatic breadth
+relatively narrow; well-developed lambdoidal crest in female; rostrum
+short, wide; upper canines slanted posteriorly; upper incisors large;
+foramen ovale large (see Fig. 14).
+
+    [Illustration: FIG. 14. Dorsal and ventral views of skulls of
+       (A) _Nyctimene albiventer minor_ [specimen 23631 [M]],
+       (B) _N. a. bougainville_ [specimen 23381 [M]], and
+       (C) _N. malaitensis_ [specimen 24103 [F]].]
+
+_Comparisons._--From _Nyctimene major scitulus_, the largest kind of
+_Nyctimene_ in the Solomons, _malaitensis_ differs as follows: smaller
+in all dimensions (forearm 65 as opposed to 73.5); greatest length of
+skull 32.4 as opposed to 37.0; length of maxillary tooth-row 10.5 as
+opposed to 13.0; length of mandibular tooth-row 11.8 as opposed to 14.2.
+
+From nine adults of _Nyctimene albiventer bougainville_ from
+Bougainville, Kolombangara, and Guadalcanal, _malaitensis_ differs as
+follows: larger in all dimensions: forearm 65 as opposed to 57.9;
+greatest length of skull 32.4 as opposed to 29.7; zygomatic breadth 20.4
+as opposed to 19.2; and length of maxillary tooth-row 10.5 as opposed to
+9.5; length of mandibular tooth-row 11.8 as opposed to 11.1.
+
+From five adults of _Nyctimene albiventer minor_, from Choiseul and
+Santa Ysabel, _malaitensis_ differs in the same ways it differs from _N.
+a. bougainville_, but the contrast is even greater when _malaitensis_
+and _minor_ are compared.
+
+From _Nyctimene sanctacrucis_, known only from the Santa Cruz Islands,
+_malaitensis_ differs in being smaller in all dimensions: forearm 65 as
+opposed to 75; greatest length of skull 32.4 as opposed to 34.5; and
+length of maxillary tooth-row 10.5 as opposed to 12.9.
+
+_Measurements of the holotype._--Length of head and body, 118; tail
+vertebrae, 23.0; hind foot, 16.0; ear, 14.0; length of forearm, 65.0;
+2nd metacarpal, 33.2; 3rd metacarpal, 46.4; 4th metacarpal, 44.3; 5th
+metacarpal, 46.0; greatest length of skull, 32.4; condylobasal length,
+30.6; palatal length, 13.0; breadth of braincase, 12.5; zygomatic
+breadth, 20.4; interorbital breadth, 5.5; breadth across first upper
+molars, 9.5; length of maxillary tooth-row, 10.5; length of mandibular
+tooth-row, 11.8.
+
+    [Illustration: FIG. 15. Distribution of _Nyctimene malaitensis_ [BC]
+       and _N. major scitulus_ [RW]. For names of islands see Fig. 2.]
+
+_Remarks._--In size, _Nyctimene malaitensis_ is intermediate between _N.
+albiventer_ and _N. major_. Because the type of _malaitensis_ is brown
+and not pale gray, as are females of _major_, _N. malaitensis_ most
+likely is more closely related to _N. albiventer_, in which the females
+are brown. The teeth of the holotype and only known specimen of
+_malaitensis_ are too worn to be useful in determining the relationships
+between these species.
+
+When more specimens are available, _N. malaitensis_ may prove to be a
+subspecies of _N. albiventer_. At present, _malaitensis_ is accorded
+specific rank in order not to obscure the apparent relationships of _N.
+albiventer bougainville_ and _N. a. minor_. Additionally, _N.
+malaitensis_ is given specific rank because (1) it is larger (especially
+in external dimensions) than the largest subspecies of _N. albiventer_
+(compare above measurements with those in Table 3), and (2)
+_malaitensis_ does not form a cline with either of the two subspecies of
+_N. albiventer_.
+
+_Specimen examined_ (one female).--Malaita in July, 24103 (holotype).
+
+
+=Nyctimene major=
+
+This large species of tube-nosed bat has at least four subspecies, one
+of which (_N. major scitulus_) is endemic to the Solomons. The species
+occurs throughout eastern New Guinea and on many of the islands adjacent
+to the eastern coast of New Guinea, including the Trobriand Islands,
+the Bismarck Archipelago, and the Solomons (see Laurie and Hill,
+1954:47). The geographic distribution of the species generally is the
+same as that of _N. albiventer_.
+
+In _Nyctimene major_, as in _N. albiventer_, most males are
+grayish-brown, whereas most females are pale gray.
+
+
+=Nyctimene major scitulus= Andersen
+
+   1910. _Nyctimene scitulus_ Andersen, Ann. Mag. Nat. Hist., ser. 8,
+         6:623, December 1, type from Shortland; 1912, Andersen, Catalogue
+         of the Chiroptera ... British Museum, 1:711, from Shortland, New
+         Georgia, Florida, Guadalcanal; 1931, Troughton, Proc. Linnean Soc.
+         New South Wales, 56:206, July 15; 1931, Sanborn, Publ. Field Mus.
+         Nat. Hist., 18:22, February 12, from Choiseul and Malapa; 1942,
+         Tate, Bull. Amer. Mus. Nat. Hist., 80:342, December 31.
+
+   1954. _Nyctimene major scitulus_, Laurie and Hill, List of land
+         mammals of New Guinea, Celebes and adjacent islands, p. 47,
+         June 30.
+
+   1862. _Harpyia pallasi_, Gerrard, Catalogue of the bones ...
+         British Museum, p. 58.
+
+   1870. _Harpyia cephalotes_, Gray, Catalogue of monkeys, lemurs and
+         fruit-eating bats in the British Museum, p. 121.
+
+   1878. _Harpyia major_, Dobson, Catalogue of the Chiroptera ...
+         British Museum, p. 90; 1879, Trouessart, Rev. Mag. Zool., 3:207;
+         1887, Thomas, Proc. Zool. Soc. London, p. 323; 1888, Thomas, Proc.
+         Zool. Soc. London, p. 476; 1897, Trouessart, Catalogus Mammalium
+         ..., 1:87.
+
+   1899. _Cephalotes major_, Trouessart, Catalogus Mammalium ...,
+         2:1277.
+
+   1899. _Gelasinus major_, Matschie, Die Megachiroptera ...
+         naturkunde, p. 84; 1904, Trouessart, Catalogus Mammalium ...,
+         Suppl., p. 64.
+
+_Specimens examined_ (four males and one female; dried skins with skulls
+inside).--Florida in October, 24397, 24413, 24418, 24419.
+
+_Measurements._--External measurements of four males and one female are,
+respectively, as follows: Length of head and body, 134, 128, 134, 134,
+136; tail vertebrae, 28, 23, 27, 26, 21; hind foot, 20, 16, 19, 16, 21;
+ear, 17, 17, 17, 17, 18; length of forearm, 73.8, 68.0, 74.0, 73.6,
+78.0.
+
+_Remarks._--_Nyctimene major scitulus_ has been recorded only from the
+western chain of islands in the Solomons (see Fig. 15). Specimens
+examined by me agree well in external dimensions and color with
+specimens described by Andersen (1912:712) and Troughton (1931:206-207).
+
+
+
+
+ZOOGEOGRAPHY AND SPECIATION
+
+
+De Beaufort (1951:113) considered bats of "less zoogeographical
+importance" than other mammals because the ocean is not an "absolute
+barrier to their dispersal." Volant animals are ecologically terrestrial
+and therefore are more nearly earthbound than De Beaufort's remarks
+would suggest (see Miller, 1966:10). Indeed, many kinds of volant
+animals are endemic to the Solomons. Birds, for example, are well
+adapted for flight but pose some of the most complex zoogeographic
+problems in the area of New Guinea and the Solomon Islands (Mayr,
+1940:198; 1942:81-83; Koopman, 1957). Rapid speciation can take place
+in any situation where there is a high degree of isolation (Wright,
+1931; Lack, 1947). In fact, isolation is a most important factor in
+speciation of insular populations (Baker, 1951:55). The one genus, nine
+species, and 19 subspecies of megachiropterans that are endemic to the
+Solomons (Table 4) obviously indicate that bats, although volant, can be
+restricted to one or more islands long enough for new taxa to evolve.
+
+    TABLE 4. A Summary of the Kinds of Megachiropteran Bats in the
+       Solomon Islands and Their Affinities with Faunas of Adjacent
+       Islands.
+
+  ===========+========+==========+===========+============+===============
+             |        |          |  Common   | Common to  |   Common to
+             |        | Endemic  |  only to  | Solomons,  |   Solomons,
+             | Totals |    to    | Solomons  | Bismarcks, | New Hebrides,
+             |        | Solomons |    and    |    and     |      and
+             |        |          | Bismarcks | New Guinea | New Caledonia
+  -----------+--------+----------+-----------+------------+---------------
+  Genera     |    7   |     1    |     0     |      6     |       0
+  Species    |   16   |     9    |     1     |      6     |       1
+  Subspecies |   20   |    19    |     0     |      0     |       1
+  -----------+--------+----------+-----------+------------+---------------
+
+The megachiropteran bats of the Solomons have their affinities with the
+fauna of New Guinea (Table 4); the Solomons and New Guinea have six
+genera and six species in common. Because the two areas never have been
+connected (_via_ the Bismarck Archipelago) by dry land, bats probably
+have reached the Solomons by flying from island to island (see Durham,
+1963:357, 359, 361, 363). Deignan (1963:266) has dismissed voluntary or
+involuntary flight as possible explanations for distributions of bats
+and birds on islands of the Pacific.
+
+The taxonomic level of endemism can be used as an indicator of antiquity
+(Dobzhansky, 1941; Koopman, 1958:429-430). The one megachiropteran genus
+(_Pteralopex_) endemic to the Solomons apparently is an ancient relic.
+Bats of this monotypic genus occur on Bougainville, Choiseul, Santa
+Ysabel, and Guadalcanal (see Fig. 4). These four islands probably were
+contiguous during the maximum lowering of sea level in the Pleistocene
+(see Durham, 1963:362-363). Bats of the genus _Pteralopex_ are the only
+kind in the Solomons having a distribution that can be correlated with
+former land connections between islands.
+
+The distributions of 16 species of megachiropterans known from the
+Solomons are summarized in Table 5 and in Figure 16. The larger islands
+(in terms of surface area and elevation) in general have the highest
+number of species (Guadalcanal 10, Choiseul 9, and Bougainville 8). But
+Fauro, one of the smallest islands for which data are available, has six
+species of megachiropterans whereas San Cristobal and Malaita, two of
+the larger islands, have only three and four species, respectively.
+Possibly this difference signals the need for additional collecting.
+
+Bougainville and Choiseul, about 60 miles apart, have seven species of
+megachiropterans in common (Table 5). Fauro, 25 miles southeast of
+Bougainville and 35 miles west of Choiseul, shares five species with
+each of these islands (Fig. 16). _Pteralopex atrata_ and _Pteropus
+rayneri_ occur on Choiseul and on Bougainville, but not on Fauro.
+Individuals of these species are the largest fruit bats in the Solomons,
+and their absence on Fauro suggests, therefore, that this small island
+is ecologically unsuitable, at least in some months, for the support of
+populations of bats that require relatively large amounts of food. The
+small size of the island is consistent with this hypothesis, but several
+other islands as small as Fauro do support populations of the large
+kinds of _Pteropus_, at least in some months.
+
+    TABLE 5. A Summary of Distribution of All Species of Megachiropteran
+       Bats Known from the Solomons. Only Islands Well Known Faunistically
+       Are Listed.
+
+  Column headings:
+
+  A: Bougainville     I: Vella Lavella
+  B: Choiseul         J: Kolombangara
+  C: Santa Ysabel     K: Russell
+  D: Ndai             L: Guadalcanal
+  E: Malaita          M: San Cristobal
+  F: Florida          N: Ugi
+  G: Fauro            O: Rennell
+  H: Shortland        P: Ontong Java
+
+  ===================+==+==+==+==+==+==+==+==+==+==+==+==+==+==+==+==
+        SPECIES      | A| B| C| D| E| F| G| H| I| J| K| L| M| N| O| P
+  -------------------+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
+  R. amplexicaudatus | X| X| X|  | X|  | X|  |  | X|  | X|  |  |  |
+  P. atrata          | X| X| X|  |  |  |  |  |  |  |  | X|  |  |  |
+  Pt. hypomelanus    |  |  |  |  |  |  |  |  |  |  | X|  |  |  |  |
+  Pt. admiralitatum  |  |  |  | X|  |  |  | X| X|  | X| X|  |  |  |
+  Pt. tonganus       |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X|
+  Pt. howensis       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X
+  Pt. rayneri        | X| X| X|  | X|  |  |  | X| X|  | X| X| X| X|
+  Pt. woodfordi      |  |  |  |  |  |  | X|  |  | X| X| X|  |  |  |
+  Pt. mahaganus      | X|  | X|  |  |  |  |  |  |  |  |  |  |  |  |
+  D. inermis         | X| X| X|  | X| X| X| X| X|  |  | X| X| X| X|
+  M. lagochilus      | X| X|  |  |  | X| X|  |  | X|  | X| X|  |  |
+  M. woodfordi       | X| X|  |  |  |  | X| X|  |  | X| X|  |  |  |
+  M. aurantius       |  | X|  |  |  | X|  |  |  |  |  |  |  |  |  |
+  N. albiventer      | X| X| X|  |  |  | X|  |  | X|  | X|  |  |  |
+  N. major           |  | X|  |  |  | X|  | X|  |  |  | X|  |  |  |
+  N. malaitensis     |  |  |  |  | X|  |  |  |  |  |  |  |  |  |  |
+                     +--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
+      Totals         | 8| 9| 6| 1| 4| 4| 6| 4| 3| 5| 4|10| 3| 2| 3| 1
+  -------------------+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
+
+Santa Ysabel has six species of megachiropterans and 10 occur on
+Guadalcanal (Table 5). These two islands, separated by about 100 miles
+of water, share five species (_Rousettus amplexicaudatus_, _Pteralopex
+atrata_, _Pteropus rayneri_, _Dobsonia inermis_, and _Nyctimene
+albiventer_). The Nggela Group, in which Florida is the largest island
+and the only one from which bats have been collected, is 50 miles
+southeast of Santa Ysabel and 30 miles north of Guadalcanal (Fig. 16).
+Four species of megachiropterans are known from Florida (_Dobsonia
+inermis_, _Macroglossus lagochilus_, _Melonycteris aurantius_, and
+_Nyctimene major_). Three of these are known from Guadalcanal and one
+occurs on Santa Ysabel. This situation resembles the one involving
+Fauro, Bougainville, and Choiseul because none of the large bats
+(_Pteropus_ and _Pteralopex_) is known from Florida, even though two
+species of large bats that occur on Santa Ysabel to the northwest occur
+also on Guadalcanal to the south. Possibly Florida and the smaller
+islands that comprise the Nggela Group are ecologically unsuitable for
+large bats, or perhaps these small islands can support only limited
+numbers of individuals during part of a year.
+
+    [Illustration: FIG. 16. The number of megachiropteran species known
+       from individual islands (number within a circle) is compared with
+       the number of species common to two different islands (number
+       without a circle). For names of islands see Fig. 2.]
+
+Some of the small islands in the Solomons have populations of large
+fruit bats. For example, _Pteropus admiralitatum_ and _P. hypomelanus_
+have been reported from the small islands in the Russell Group (Table
+5). Possibly these species do not live concurrently in the Russells;
+specimens of the two were obtained in different years. Two small
+megachiropterans, _P. woodfordi_ and _Melonycteris woodfordi_, also
+inhabit the Russells. Shortland, a small island about 15 miles south of
+Bougainville, supports one large bat, _P. admiralitatum_, as well as
+smaller megachiropterans.
+
+Kolombangara and Vella Lavella are about the same size and are separated
+by about 15 miles of water. _Rousettus amplexicaudatus_, _Pteropus
+rayneri_, _P. woodfordi_, _Macroglossus lagochilus_, and _Nyctimene
+albiventer_ have been collected on Kolombangara but only _P.
+admiralitatum_, _P. rayneri_, and _Dobsonia inermis_ have been found on
+Vella Lavella. The difference in the known megachiropteran faunas is
+more striking when one compares each island with adjacent islands. Two
+species on Vella Lavella occur also on Choiseul, which is about 35 miles
+northeastward, and two species occur also on Shortland, which is 120
+miles northwestward (Fig. 16). Four of the five megachiropterans on
+Kolombangara also have been found on Choiseul, about 50 miles northward
+(Table 5). _Pteropus rayneri_ is the only megachiropteran known from
+both Kolombangara and Vella Lavella, even though the islands are
+separated by only a few miles of water. Inadequate data possibly account
+for the differences in the megachiropteran fauna, but I suspect that
+some other factors are involved. Although Vella Lavella and Kolombangara
+do have one species (_P. rayneri_) in common, a different subspecies
+occurs on each island--_rubianus_ on Kolombangara and _lavellanus_ on
+Vella Lavella (Fig. 17 and Table 6). This indicates that some factor or
+factors are operating to keep megachiropterans from moving frequently or
+easily from one island to the other.
+
+Each of several subspecies of species in the genus _Pteropus_ are known
+from one or two small islands separated by only a few miles from other
+islands on which different subspecies occur (see Fig. 6). Judging from
+this kind of distribution, these bats do not move frequently from island
+to island. Possibly this is because they cannot easily cross water
+barriers, or are not inclined to do so because food is abundantly
+available throughout the year on their home island. Because "flying
+foxes" frequently are seen in flight over water several hundred yards
+from shore, the first factor probably is unimportant--at least where
+short distances are involved. It seems most likely that when abundant
+food is available these bats have no reason to move even moderate
+distances.
+
+    [Illustration: FIG. 17. The number of subspecies of megachiropterans
+       known from individual islands (number within a circle) is compared
+       with the number of subspecies common to different islands (number
+       without a circle). For names of islands see Fig. 2.]
+
+Distributions of subspecies of polytypic species are summarized in Table
+6 and Figure 17. Generally, more subspecies are known from the larger
+islands than from the smaller islands (Guadalcanal with 5, Bougainville,
+Choiseul, and Santa Ysabel with 4, Fauro with 2.) The distributions of
+some subspecies can be used to judge the differential effectiveness of
+water gaps between islands. The distribution of _Pteropus rayneri
+lavellanus_ and _P. rayneri rubianus_ is an example.
+
+Choiseul and Santa Ysabel are separated by about 50 miles of water (see
+Fig. 17) but have three subspecies in common (_Pteropus rayneri
+grandis_, _Dobsonia inermis minimus_, and _Nyctimene albiventer
+minor_.) Choiseul is about 50 miles from Kolombangara and about 35 miles
+from Vella Lavella, but shares no subspecies with these smaller islands
+although some species are shared (Tables 5 and 6). From these data one
+can conclude that exchange of genes between populations on Choiseul and
+populations on Santa Ysabel is frequent but for some reason exchange of
+genes between populations on Vella Lavella and Choiseul and Kolombangara
+and Choiseul is infrequent. A series of small islands (Rob Roy, Wagina,
+and the Arnavon Islands, not named on the maps) connect Choiseul and
+Santa Ysabel in stepping-stone fashion (see Fig. 17). Possibly these
+small islands enhance movement of megachiropterans between Choiseul and
+Santa Ysabel.
+
+    TABLE 6. A Summary of Distribution of Polytypic Species of
+       Megachiropteran Bats in the Solomon Islands. Only Islands
+       Well Known Faunistically Are Listed.
+
+  Column headings:
+
+  A: Bougainville     I: Vella Lavella
+  B: Choiseul         J: Kolombangara
+  C: Santa Ysabel     K: Russell
+  D: Ndai             L: Guadalcanal
+  E: Malaita          M: San Cristobal
+  F: Florida          N: Ugi
+  G: Fauro            O: Rennell
+  H: Shortland        P: Ontong Java
+
+  ===================+==+==+==+==+==+==+==+==+==+==+==+==+==+==+==+==
+      SUBSPECIES     | A| B| C| D| E| F| G| H| I| J| K| L| M| N| O| P
+  -------------------+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
+  P. atrata atrata   | X| X|  |  |  |  |  |  |  |  |  |  |  |  |  |
+  P. atrata anceps   |  |  | X|  |  |  |  |  |  |  |  | X|  |  |  |
+  Pt. a. solomonis   |  |  |  |  |  |  |  |  | X|  | X| X|  |  |  |
+  Pt. a. colonus     |  |  |  |  |  |  |  | X|  |  |  |  |  |  |  |
+  Pt. a. grandis     |  |  |  | X|  |  |  |  |  |  |  |  |  |  |  |
+  Pt. r. rayneri     |  |  |  |  | X|  |  |  |  |  |  | X|  |  |  |
+  Pt. r. grandis     | X| X| X|  |  |  |  |  |  |  |  |  |  |  |  |
+  Pt. r. rubianus    |  |  |  |  |  |  |  |  |  | X|  |  |  |  |  |
+  Pt. r. lavellanus  |  |  |  |  |  |  |  |  | X|  |  |  |  |  |  |
+  Pt. r. monoensis   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X
+  Pt. r. cognatus    |  |  |  |  |  |  |  |  |  |  |  |  | X| X|  |
+  Pt. r. rennelli    |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X|
+  D. i. inermis      | X|  |  |  | X| X| X| X| X|  |  | X| X| X| X|
+  D. i. minimus      |  | X| X|  |  |  |  |  |  |  |  |  |  |  |  |
+  N. a. bougainville | X|  |  |  |  |  |  |  |  | X|  | X|  |  |  |
+  N. a. minor        |  | X| X|  |  |  | X|  |  |  |  |  |  |  |  |
+                     +--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
+      Totals         | 4| 4| 4| 1| 2| 1| 2| 2| 3| 2| 1| 5| 2| 2| 2| 1
+  -------------------+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--
+
+Florida, of the Nggela Group, is approximately halfway between Santa
+Ysabel and Guadalcanal. _Pteralopex atrata anceps_ occurs on Santa
+Ysabel and on Guadalcanal but is unknown from Florida. Fauro lies
+between Bougainville and Choiseul. _Pteralopex atrata atrata_ and
+_Pteropus rayneri grandis_ occur on Choiseul and on Bougainville but are
+unknown from Fauro. As suggested earlier, small islands like Fauro and
+Florida possibly cannot support large fruit bats, although they probably
+would utilize these small islands when in transit between larger
+islands.
+
+Fauro apparently is important to the distribution of the two subspecies
+of _Dobsonia inermis_ and _Nyctimene albiventer_ in the Solomons (see
+Figs. 9 and 13). In both species, one subspecies is found in the eastern
+chain of islands and one subspecies is found in the western chain.
+Specimens of _Dobsonia inermis_ from Fauro and Bougainville can be
+identified as the subspecies _inermis_ whereas those from Choiseul are
+assignable to the subspecies _minimus_. _Nyctimene albiventer
+bougainville_ occurs on Bougainville but specimens of _N. albiventer_
+from Fauro and Choiseul can be identified as the subspecies _minor_.
+Although interchange of genes occurs between populations on Bougainville
+and Fauro in the case of _D. inermis_, the population of _N. albiventer_
+on Fauro is at least partially isolated from the population on
+Bougainville.
+
+Rennell and Ontong Java are relatively isolated from other islands in
+the Solomons (see Fig. 17). Only one kind of bat (_Pteropus howensis_)
+is known from Ontong Java and apparently is endemic to that atoll.
+_Pteropus tonganus geddiei_, one of the megachiropterans that occurs on
+Rennell (Table 5), also is found in the New Hebrides and on New
+Caledonia (Table 4). This makes _P. t. geddiei_ the only megachiropteran
+bat in the Solomons that is more closely related to bats on islands to
+the southeast of the Solomons than to bats on other islands of the
+Solomons, the Bismarcks, or New Guinea, to the north and west. The other
+species of megachiropterans (_Dobsonia inermis_ and _Pteropus rayneri_)
+on Rennell are found also on other islands in the Solomons. It is to be
+noted that Mayr (1931) regarded the avifauna of Rennell as most nearly
+like that of the New Hebrides and New Caledonia. He suggested that the
+prevailing winds from the southeast have been important for birds that
+have reached Rennell. The New Hebrides and New Caledonia are four and a
+half times farther from Rennell than are San Cristobal and Guadalcanal.
+On first consideration a person might doubt that the winds would be
+favorable enough to compensate for the great distance between Rennell
+and the New Hebrides and New Caledonia. Darlington (1938) has used the
+formula X n/m to obtain a comparison of barriers of different widths.
+[X = the probability of an individual crossing a barrier of width m;
+the probability of an individual crossing a similar barrier of width n
+is the ratio n/m.] If this formula is applied here, one finds that winds
+from the southeast (that is, from the New Hebrides and New Caledonia)
+would have to be more than 100 times more favorable than winds from the
+northeast (from Guadalcanal and San Cristobal) in order to compensate
+for the distance of Rennell from the New Hebrides and New Caledonia.
+Even so, tropical storms with unusually strong winds, frequent during
+some parts of the year, possibly account for the present distributional
+pattern of bats and birds that live on Rennell.
+
+Whatever the means by which bats of the species _P. tonganus_ reached
+Rennell, the fact remains that specimens from Rennell cannot be
+distinguished from specimens of _P. tonganus geddiei_ from the New
+Hebrides and New Caledonia, more than 500 miles to the southeast.
+
+NOTE: An important and interesting paper on zoogeography of bats, which
+was published too late to be included here, is: Krzanowski, A., 1967,
+The magnitude of islands and the size of bats (Chiroptera), Acta Zool.
+Cracoviensia, 12:281-348.
+
+
+
+
+LITERATURE CITED
+
+
+ANONYMOUS.
+
+   1944.  Gazetteer of Solomon Islands, Bismarck Archipelago, and
+          Islands of the south-eastern end of New Guinea. Hydrographic
+          office of the United States Navy Department, No. 881.
+
+
+ANDERSEN, K.
+
+   1908.  Twenty new forms of _Pteropus_. Ann. Mag. Nat. Hist., ser. 8,
+          2:361-370, October.
+
+   1909a. On the characters and affinities of "Desmalopex" and
+          Pteralopex. Ann. Mag. Nat. Hist., ser. 8, 3:213-222, February.
+
+   1909b. Two new bats from the Solomon Islands. Ann. Mag. Nat. Hist.,
+          ser. 8, 3:266-270, March.
+
+   1909c. On the fruit-bats of the genus _Dobsonia_. Ann. Mag. Nat.
+          Hist., ser. 8, 4:528-533, December.
+
+   1911.  Six new fruit-bats of the genera _Macroglossus_ and
+          _Syconycteris_. Ann. Mag. Nat. Hist., ser. 8, 7:641-643, June.
+
+   1912.  Catalogue of the Chiroptera in the collection of the British
+          Museum, British Mus. (Nat. Hist.), London, 1:ci + 1-854, 79 figs.
+
+
+BADER, R. S., and HALL, J. S.
+
+   1960.  Osteometric variation and function in bats. Evol., 14:8-17, 3
+          figs., March 21.
+
+
+BAKER, R. H.
+
+   1951.  The avifauna of Micronesia, its origin, evolution, and
+          distribution. Univ. Kansas Publ., Mus. Nat. Hist., 3:1-359, 16
+          figs., June 12.
+
+
+BEAUFORT, L. E. DE.
+
+   1951.  Zoogeography of the land and inland waters. Sidgwick and
+          Jackson, London, viii + 208 pp., maps.
+
+
+BELKIN, J. N.
+
+   1962.  The mosquitoes of the South Pacific (Diptera, Culicidae).
+          Univ. California Press, Berkeley, 1:xii + 1-608, July 18.
+
+
+BENEDICT, F.
+
+   1957.  Hair structure as a generic character in bats. Univ.
+          California Publ. Zool., 59:285-548, 9 pls., 4 figs., October 10.
+
+
+BRIGHAM, W. T.
+
+   1900.  An index to the islands of the Pacific Ocean. Mem. Bernice P.
+          Bishop Mus., Honolulu, 2:1-170, maps.
+
+
+CRANSTONE, B. A. L.
+
+   1961.  Melanesia: a short ethnography. British Mus., London, 115
+          pp., 26 pls., 43 figs., map.
+
+
+DARLINGTON, P. J.
+
+   1938.  The origin of the fauna of the Greater Antilles, with
+          discussion of dispersal of animals over water and through the
+          air. Quart. Rev. Biol., 13:274-300, 5 figs.
+
+
+DEIGNAN, H. G.
+
+   1963.  Birds in the tropical Pacific, pp. 263-269, _in_ Pacific
+          Basin biogeography (J. L. Gressitt, ed.). Bernice P. Bishop Mus.
+          Press, Honolulu, xi + 563 pp.
+
+
+DOBSON, G. E.
+
+   1878.  Catalogue of the Chiroptera in the ... British Museum.
+          British Mus., London, xlii + 567 pp., 30 pls.
+
+
+DOBZHANSKY, T. G.
+
+   1941.  Genetics and the origin of species. Columbia Univ. Press, New
+          York, 2nd. ed., rev., ix + 466 pp., 24 figs.
+
+
+DURHAM, J. W.
+
+   1963.  Paleogeographic conclusions in light of biological data, pp.
+          355-365, 4 figs., _in_ Pacific Basin biogeography (J. L.
+          Gressitt, ed.). Bernice P. Bishop Mus. Press, Honolulu,
+          xi + 563 pp.
+
+
+ELLERMAN, J. R., and MORRISON-SCOTT, T. C. S.
+
+   1966.  Checklist of Palaearctic and Indian mammals, 1758-1946.
+          British Mus. (Nat. Hist.), London, 2nd. ed., 810 pp., July.
+
+
+FELTEN, H.
+
+   1964a. Flughunde der Gattung _Pteropus_ von den Neuen Hebriden
+          (Mammalia, Chiroptera). Senck. biol., 45:87-92, 6 figs., May 15.
+
+   1964b. Flughunde der Gattung _Pteropus_ von Neukaledonien und den
+          Loyalty-Inseln (Mammalia, Chiroptera). Senck. biol., 45:671-683,
+          December 21.
+
+
+HALL, E. R.
+
+   1946.  Mammals of Nevada. Univ. California Press, Berkeley, xi + 710
+          pp., frontispiece, 11 pls., 485 figs., July 1.
+
+
+HILL, J. E.
+
+   1956.  The mammals of Rennell Island. The natural history of Rennell
+          Island, British Solomon Islands, Copenhagen, 1:73-84,
+          November 28.
+
+   1962.  A little-known fruit-bat from Rennell Island. The natural
+          history of Rennell Island, British Solomon Islands, Copenhagen,
+          4:7-9, February 15.
+
+   1963.  A revision of the genus _Hipposideros_. Bull. British Mus.
+          (Nat. Hist.), 2:1-129, October.
+
+
+KOOPMAN, K. F.
+
+   1957.  Evolution in the genus _Myzomela_ (Aves: Meliphagidae). The
+          Auk, 74:49-72, 5 figs., January.
+
+   1958.  Land bridges and ecology in bat distribution on islands off
+          the northern coast of South America. Evol., 12:429-439, 2 figs.,
+          December.
+
+
+LACK, D. L.
+
+   1947.  Darwin's finches. Cambridge Univ. Press, Cambridge, x + 209
+          pp., 8 pls., 27 figs.
+
+
+LAURIE, E. M. O., and HILL, J. E.
+
+   1954.  List of land mammals of New Guinea, Celebes, and adjacent
+          islands. British Mus. (Nat. Hist.), London, 175 pp., June 30.
+
+
+LAWRENCE, B.
+
+   1945.  Three new Pteropus from New Caledonia and the Solomons. Proc.
+          New England Zool. Club, 23:59-69, March 26.
+
+
+LEVER, R. J. A. W.
+
+   1934.  Notes on mosquitoes of the British Solomon Islands. British
+          Solomon Islands Agr. Gaz., 2:16.
+
+
+LEWIS, A. B.
+
+   1951.  The Melanesians: People of the South Pacific. Chicago Nat.
+          Hist. Mus. Press, Chicago, 259 pp., 56 figs., maps, September.
+
+
+MATSCHIE, P.
+
+   1899.  Die Megachiroptera des Berliner Museums fuer Naturkunde. Druck
+          und verlag von George Reimer, Berlin, viii + 102 pp., 14 figs.
+
+
+MAYR, E.
+
+   1931.  A systematic list of the birds of Rennell Island with
+          descriptions of new species and subspecies. Amer. Mus. Novit.,
+          486:1-29, August 29.
+
+   1940.  The origin and the history of the bird fauna of Polynesia.
+          Proc. 6th Pacific Sci. Cong., 1939, 4:197-216.
+
+   1942.  Systematics and the origin of species from the viewpoint of a
+          zoologist. Columbia Univ. Press, New York, xiv + 334 pp.,
+          29 figs.
+
+
+MILLER, A. H.
+
+   1966.  Animal evolution on islands, pp. 10-16, _in_ The Galapagos
+          (R. I. Bowman, ed.), Univ. California Press, Berkeley.
+
+
+MILLER, G. S.
+
+   1907.  The families and genera of bats. Bull. U. S. Nat. Mus.,
+          57:xvii + 282, 14 pls., 49 figs., June 29.
+
+
+PHILLIPS, C. J.
+
+   1966.  A new species of bat of the genus _Melonycteris_ from the
+          Solomon Islands. Jour. Mamm., 47:23-27, 1 fig., March 12.
+
+   1967.  A new subspecies of horseshoe bat (_Hipposideros diadema_)
+          from the Solomon Islands. Proc. Biol. Soc. Washington, 80:35-40,
+          2 figs., March 24.
+
+
+POHLE, H.
+
+   1953.  Ueber die Fledertiere von Bougainville. Z. Saeugetierk.,
+          17:127-137, October 27.
+
+
+RIDGWAY, R.
+
+   1912.  Color standards and color nomenclature. Washington, D. C.,
+          iv + 44 pp., 53 pls.
+
+
+SANBORN, C. C.
+
+   1931.  Bats from Polynesia, Melanesia, and Malaysia. Publ. Field
+          Mus. Nat. Hist., Zool. Ser., 18:7-29, February 12.
+
+
+SANBORN, C. C., and BEECHER, W. J.
+
+   1947.  Bats from the Solomon Islands. Jour. Mamm., 28:387-391,
+          November 19.
+
+
+SANBORN, C. C., and NICHOLSON, A. J.
+
+   1950.  Bats from New Caledonia, the Solomon Islands, and New
+          Hebrides. Fieldiana (Zool.), 31:313-338, 6 figs., August 31.
+
+
+SIMPSON, G. G.
+
+   1945.  The principles of classification and a classification of
+          mammals. Bull. Amer. Mus. Nat. Hist., 85:xvi + 350, October 5.
+
+
+TATE, G. H. H.
+
+   1934.  An apparently new fruit bat of the _Pteropus hypomelanus_
+          group from Gower Island, Solomon Islands. Amer. Mus. Novit.,
+          718:1-2, May 4.
+
+   1942.  Pteropodidae (Chiroptera) of the Archbold Collections. Bull.
+          Amer. Mus. Nat. Hist., 80:331-347, December 31.
+
+
+THOMAS, O.
+
+   1887a. Diagnoses of two new fruit-eating bats from the Solomon
+          Islands. Ann. Mag. Nat. Hist., ser. 5, 60:147, February.
+
+   1887b. On the bats collected by Mr. C. M. Woodford in the Solomon
+          Islands. Proc. Zool. Soc. London, 23:320-328, 3 figs., 2 pls.,
+          March 15.
+
+   1888a. Diagnoses of six new mammals from the Solomon Islands. Ann.
+          Mag. Nat. Hist., ser. 6, 2:155-158, February.
+
+   1888b. The mammals of the Solomon Islands, based on the collections
+          made by Mr. C. M. Woodford during his second expedition to the
+          Archipelago. Proc. Zool. Soc. London, 33:470-484, 3 pls.,
+          December 4.
+
+
+TROUESSART, E. L.
+
+   1904.  Catalogus Mammalium tam viventium quam fossilium.
+          Quinquennale Supplementum, Berlin, vii + 929 pp.
+
+
+TROUGHTON, E. LEG.
+
+   1931.  Three new bats of the genera _Pteropus Nyctimene_, and
+          _Chaerephon_ from Melanesia. Proc. Linn. Soc. New South Wales,
+          56:204-209, June 15.
+
+   1936.  The mammalian fauna of Bougainville Island, Solomons Group.
+          Rec. Australian Mus., 14:341-353, April 7.
+
+
+WRIGHT, S.
+
+   1931.  Evolution in Mendelian populations. Genetics, 16:97-159,
+          21 figs.
+
+
+_Transmitted August 10, 1967._
+
+
+
+
+Transcriber's Notes
+
+Obvious typographical and punctuation errors repaired. The "Key to
+_Pteropus_ in the Solomon Islands" was moved above the beginning of the
+listing for =Pteropus= Brisson. Where figures or tables split
+paragraphs, they were moved above or below the split.
+
+
+Typographical Corrections
+
+  Page  Correction
+  ====  =======================
+   797  Liuinuwu => Liuniuwu
+   809  intermis => inermis
+   824  adbiventer => albiventer
+   832  Gaudalcanal => Guadalcanal
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Systematics of Megachiropteran Bats in
+the Solomon Islands, by Carleton J. Phillips
+
+*** END OF THIS PROJECT GUTENBERG EBOOK SYSTEMATICS OF MEGACHIROPTERAN BATS ***
+
+***** This file should be named 40112.txt or 40112.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/0/1/1/40112/
+
+Produced by Chris Curnow, Joseph Cooper, Tom Cosmas and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

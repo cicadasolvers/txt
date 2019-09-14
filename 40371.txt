@@ -1,0 +1,3862 @@
+Project Gutenberg's Britain in the Middle Ages, by Florence L. Bowman
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Britain in the Middle Ages
+       A History for Beginners
+
+Author: Florence L. Bowman
+
+Release Date: July 29, 2012 [EBook #40371]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK BRITAIN IN THE MIDDLE AGES ***
+
+
+
+
+Produced by Chris Curnow and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+BRITAIN IN THE MIDDLE AGES
+
+A HISTORY FOR BEGINNERS
+
+
+CAMBRIDGE UNIVERSITY PRESS
+
+C. F. CLAY, Manager
+
+LONDON: FETTER LANE, E. C. 4
+
+
+NEW YORK: G. P. PUTNAM'S SONS
+
+BOMBAY   }
+CALCUTTA } MACMILLAN AND CO., LTD.
+MADRAS   }
+
+TORONTO: J. M. DENT AND SONS, LTD.
+TOKYO: MARUZEN-KABUSHIKI-KAISHA
+
+All Rights Reserved
+
+
+  [Illustration: THE ARMING OF A KNIGHT]
+
+
+
+
+BRITAIN IN THE MIDDLE AGES
+
+A HISTORY FOR BEGINNERS
+
+
+BY
+
+FLORENCE L. BOWMAN, M.Ed.
+
+FINAL HONOUR SCHOOL OF MODERN HISTORY, OXFORD
+LECTURER IN EDUCATION, HOMERTON COLLEGE, CAMBRIDGE
+
+
+CAMBRIDGE
+AT THE UNIVERSITY PRESS
+1920
+
+_First Edition_ 1919
+_Second Edition_ 1920
+
+
+
+
+PREFACE
+
+
+Since, in the early stages of school work, it is more important to
+present, as vividly as possible, some of the fundamental historic ideas
+than to give any outline of events, it is hoped that this collection of
+stories, told from the chronicles, may provoke readers to discussion
+and further inquiry.
+
+Questions have been included in the appendix, some suggesting handwork,
+both as a means of presentation in lessons and for illustrative
+purposes.
+
+Considerable use has been made of literature as historic evidence.
+Stories like those of the Knights of the Round Table often leave us
+with a clearer impression of the spirit of the times than any historic
+record. Many books of the kind are now easily accessible and could be
+read side by side with the text. Collections of pictures, such as the
+Bayeux Tapestry, published by the Victoria and Albert Museum, and
+Foucquet's _Chroniques de France_, offer valuable opportunities
+for some research on the child's part.
+
+    F. L. BOWMAN.
+
+  HOMERTON COLLEGE
+  _December_, 1918
+
+
+
+
+CONTENTS
+
+
+CHAP.                                              PAGE
+
+    I. BEFORE THE COMING OF THE ROMANS                1
+
+   II. THE ROMANS                                     3
+
+  III. THE SAXONS                                     6
+
+   IV. THE SAXON VILLAGE                              9
+
+    V. THE COMING OF CHRISTIANITY                    15
+
+   VI. ALFRED AND THE DANES                          20
+
+  VII. THE BATTLE OF HASTINGS                        27
+
+ VIII. NORMAN KINGS                                  31
+
+   IX. NORMAN BARONS                                 34
+
+    X. NORMAN PRELATES                               39
+
+   XI. NORMAN BUILDERS                               44
+
+  XII. KNIGHTHOOD                                    47
+
+ XIII. THE KNIGHTS OF THE ROUND TABLE                52
+
+  XIV. THE CONQUEST OF IRELAND                       57
+
+   XV. THE COMING OF THE FRIARS                      61
+
+  XVI. THE THIRD CRUSADE                             64
+
+ XVII. THE LOSS OF NORMANDY. THE SIGNING OF
+         THE GREAT CHARTER                           69
+
+XVIII. THE FIRST PARLIAMENT                          71
+
+  XIX. THE CONQUEST OF WALES                         74
+
+   XX. THE WAR WITH SCOTLAND                         76
+
+  XXI. THE WAR WITH FRANCE                           79
+
+ XXII. THE WAR WITH FRANCE (_continued_)             83
+
+XXIII. THE BLACK DEATH AND THE PEASANTS' REVOLT      85
+
+ XXIV. THE WAR WITH FRANCE (_continued_)             89
+
+  XXV. NEW WORLDS                                    95
+
+SUGGESTIONS FOR STUDY                               100
+
+BIBLIOGRAPHY                                        102
+
+DATES                                               103
+
+TIME CHART                                          104
+
+
+
+
+ILLUSTRATIONS
+
+
+THE ARMING OF A KNIGHT                     FRONTISPIECE
+
+From John Duke of Bedford's _Book of Hours_
+(15th century). In the British Museum
+
+
+                                           TO FACE PAGE
+
+THE ABBEY OF CITEAUX                                 18
+
+From Viollet-le-duc, D_ictionnaire raisonne de
+l'architecture francaise_
+
+
+A SERVICE IN THE CHAPEL                              19
+
+From the _Miracles de Notre Dame_, collected
+by Mielot, Canon of S. Peter's at Lille, and
+finished on 10 April, 1456. In the Bibliotheque
+Nationale, Paris
+
+By arrangement with MM. Catala Freres, Paris
+
+
+HAROLD DEFEATS AND KILLS TOSTIG AND THE KING
+OF NORWAY AT STAMFORD BRIDGE                         30
+
+From the _Life of Edward the Confessor_
+(about 1260). In the University Library, Cambridge
+
+
+A BATTLE IN THE FIFTEENTH CENTURY                    31
+
+By Jean Foucquet, from the _Grandes chroniques
+de France_ (middle of the 15th century). In the
+Bibliotheque Nationale, Paris
+
+By arrangement with MM. Catala Freres, Paris
+
+
+ARCHITECT AND BUILDERS                               44
+
+From a Bible written at Lille, about 1270. In the
+library of Mr S. C. Cockerell
+
+
+BUILDING A CHURCH IN THE FIFTEENTH CENTURY           44
+
+By Jean Foucquet, from the _Grandes chroniques
+de France_ (middle of the 15th century). In the
+Bibliotheque Nationale, Paris
+
+By arrangement with MM. Catala Freres, Paris
+
+
+THE BUILDING OF THE TEMPLE OF JERUSALEM              45
+
+From the _Antiquites Judaiques_, by Jean
+Foucquet (middle of the 15th century)
+
+By kind permission of MM. Plon-Nourrit et Cie,
+Paris
+
+
+A SIEGE                                              46
+
+From Viollet-le-duc, _Dictionnaire raisonne de
+l'architecture francaise_
+
+
+GATEWAY AND DRAWBRIDGE                               47
+
+From Viollet-le-duc, _Dictionnaire raisonne de
+l'architecture francaise_
+
+
+A COURT OF JUSTICE, 1458. DUKE OF ALENCON CONDEMNED
+FOR TREASON BY CHARLES VII, KING OF FRANCE           72
+
+By Jean Foucquet. From _Le Boccace de Munich_. In
+the Royal Library at Munich.
+
+The King is seated on his throne, and below him
+the princes, and on his right the Chancellor of
+France with bands of gold on his shoulder.
+Sentence is being read by one of the officers of
+the law. On the King's left the lords of the
+Church are seated and below are the chief officers
+of the realm. Outside the barrier is the royal
+guard
+
+
+THE PARLIAMENT OF EDWARD I                           73
+
+The Archbishops of Canterbury and York are seated
+just below Alexander King of Scotland, and
+Llewelyn Prince of Wales. The two behind are
+supposed to be the Pope's ambassadors. There are
+19 mitred Abbots, 8 Bishops and 20 Peers present.
+The Chancellor and Judges are seated on the
+woolsacks.
+
+From Pinkerton, _Iconographia Scotica_. Probably
+drawn in the 16th century
+
+
+PREPARING THE FEAST                                  88
+
+From the _Luttrell Psalter_ (14th century).
+In the British Museum
+
+
+THE FEAST                                            89
+
+From the _Luttrell Psalter_ (14th century).
+In the British Museum
+
+
+A CHRISTIAN OF CONSTANTINOPLE BORROWING MONEY
+FROM A JEW AND PLEDGING HIS CRUCIFIX                 96
+
+From the _Miracles de Notre Dame_, collected
+by Jean Mielot, and finished on 10 April, 1456.
+In the Bibliotheque Nationale, Paris
+
+By arrangement with MM. Catala Freres, Paris
+
+
+MIELOT IN HIS STUDY                                  97
+
+From the _Miracles de Notre Dame_, collected
+by Jean Mielot, and finished on 10 April, 1456.
+In the Bibliotheque Nationale, Paris
+
+By arrangement with MM. Catala Freres, Paris
+
+
+A PRINTING PRESS                                     97
+
+A mark of Josse Badius Ascensius. From _De
+Sacramentis_ of Thomas Waldensis, 1521. In
+the University Library, Cambridge
+
+
+THE TWELVE MONTHS                                AT END
+
+From _Les tres riches heures de Jean de France,
+Duc le Berry_, chiefly the work of Pol de
+Limbourg, painted between 1412 and 1416 and now
+in the Musee Conde, Chantilly
+
+By kind permission of MM. Plon-Nourrit et Cie, Paris
+
+
+
+
+CHAPTER I
+
+BEFORE THE COMING OF THE ROMANS
+
+
+The world is very old, and it has taken a long time to discover much of
+the ancient story of Britain. Scholars have found out many things
+because they are able now to read the signs on the rocks and under the
+soil. From the tools left behind, from the remains of dwellings and
+from treasures found in graves, we have learned about the ways of men
+in times before history was written down.
+
+Once, it seems, Britain was a hot land. Great forests grew up
+everywhere. Strange wild creatures roamed about, and there were
+monsters in the waters.
+
+Once, too, it was a very cold land, and the snow lay in the valleys and
+ice-glaciers came sliding down the mountains, making great river beds
+as they passed.
+
+As it grew warmer, the ice melted and disappeared. The ice fields left
+pools of water behind them, the lakes that you find in the country
+still. The rivers, too, brimming over, flowed swiftly to the sea.
+Mighty rivers they must have been, broader and deeper than they are
+now.
+
+When men came, they made their homes in the caves and in underground
+dwellings, and later they built mud huts. They hunted for their food,
+learned to weave clothes from the grasses, to make weapons from stone
+and to strike fire from the rocks. This is a very long story and we
+know little about it.
+
+Of the Britons who dwelt here, we know something from those who had
+heard of them and wrote about them. Round about their villages, they
+made wattle-fences to keep away their enemies and the wild beasts that
+came out of the forests in winter nights.
+
+They were shepherds and had many herds of sheep and cattle, and they
+grew a little corn. Sometimes, travellers from far-off lands came to
+visit them, to exchange their eastern coins for grain and skins.
+
+The Britons loved beautiful things. They made cunning designs on their
+shields and helmets and with dainty tracings they ornamented their pots
+and jugs. They wove linen in fine patterns and knew how to make dyes.
+They were fond of music and told stories to one another of dragons and
+heroes and the great dreams of men.
+
+When their chief died, they raised a mound over his grave; sometimes,
+too, great pillars of stone. They carried presents of corn and meat and
+fruit to put upon the grave, because they thought he might need them on
+his long journey. In some parts of the country, there are pillars of
+stone set up in circles. It is thought that perhaps the Britons used
+these as temples, praying and making their offerings under the sky, in
+sunshine and starshine.
+
+The Romans said that the Britons loved riding wild horses, which they
+had tamed, and they were so skilful that however fast they galloped,
+the rider could make the horse stand quite still at any moment. They
+sometimes rode in chariots and drove furiously. When they went into
+battle they armed their chariots with sharp knives and cut the enemy
+down on both sides. But they did not use their chariots often, for they
+would rather tend flocks in the fields than go to war.
+
+
+
+
+CHAPTER II
+
+THE ROMANS
+
+
+The best soldiers in the world were the Romans, who came from the great
+city of Rome, far away in Italy. Everybody had heard of their mighty
+deeds, for they had conquered nearly every land except Britain, and to
+them Britain seemed to be in the farthest corner of the world, just on
+the edge, a land, no doubt, of dragons and strange wild people. Now the
+Romans had heard that there was meat and corn in plenty in the land,
+that there were tin mines, and tin was very useful for mixing with
+copper to make armour. So they invaded Britain.
+
+The great Roman army moved very slowly through the land, for there were
+few roads. Sometimes the soldiers had to cut down trees to make their
+way through the forests, sometimes they had to cross the dismal
+fenlands, sometimes to make a bridge over a flooded river, or to wade
+knee-deep through the swamps. As they marched, they had to fight with
+the Britons.
+
+The Scots had heard of their coming and were safely hiding in their
+fastnesses when the Romans reached the Borderland. Then the Romans
+built a great wall from sea to sea between the two countries, Scotland
+and Britain, a wall that must have taken several years to build even if
+they had thousands of men to build it. It was made of the finest stone,
+which they seem to have carried many miles across the country. It was
+nine feet wide and eighteen feet high and the turrets were placed so
+near together that the sentinels could call to one another and so send
+a message quickly. Below the wall, on the enemy's side, they dug a deep
+ditch, often having to make it through the hard limestone rock. Every
+mile, they built a spacious fort for the soldiers to rest in, well
+defended and quite close to the wall. Every four miles, there was a
+station, sometimes a small town, surrounded by a wide wall, too, where
+perhaps the chief officers lived. From station to station, from east to
+west, ran the great road, for the traffic of the army. Up to the gates
+of the stations, too, came the new Roman roads from the south, for the
+army sometimes had to call for help from other places and needed food
+and many things from the south. It must have been a stern duty to keep
+watch in the bleak winter months, and the soldiers seem to have had few
+comforts. The remains of this great wall still lie from Wallsend to the
+west coast.
+
+At the cross-roads, by the great rivers, the Romans built their towns
+and camps all over Britain, just like those they had known in Italy.
+Every town was surrounded by a great wall, whence the soldiers could
+keep a look-out for the enemy, and nobody could enter the place except
+through the gates between sunrise and sunset. Outside the town, they
+sometimes built an amphitheatre, where games and wild beast fights were
+held on holidays.
+
+The houses of the chief officers were built like those in sunny Italy.
+The most interesting room in the house was the bath-room, with a large
+tank, like a swimming bath, in the floor and a furnace to keep a good
+supply of hot water. The floor was paved with beautiful coloured tiles
+and scenes were painted on the walls. This room was very important,
+because the Roman often received his guests there and sometimes invited
+them to share in the ceremony of the bath. The garden was often lovely,
+there were orchards and smooth lawns and closely clipped hedges of box
+and yew, sometimes cut into fantastic shapes like birds and beasts.
+There were brightly coloured flowers, which had been brought from
+Italy--geraniums, roses and orchids. Then, there was the summer house,
+whose walls were made of tall trees growing close together, and inside
+were couches and rugs and sometimes even a little lake in the centre,
+where jellies and fruits were to be seen floating in beautiful dishes,
+to keep them cool and fresh, as though the summer in Britain were very
+hot.
+
+There was much work to be done. The Roman officer had to visit the
+camps, driving in his chariot or carried in his litter by his slaves.
+He had to see that the road-making went on well, for the Romans made
+fine roads through Britain from north to south, to the east and to the
+west. He had to look after the building of the factories, where the
+wool was made into cloth and dyed in the famous purple dye, and if he
+lived in the south west, the tin mines in Cornwall had to be
+supervised. Sometimes, he had even to take the long and difficult
+journey to Rome. The Britons looked on at this new life with great fear
+and wonder, and soon they learned to make better houses, to raise
+better crops and to live in the towns.
+
+When, three hundred years later, all the Romans were called to their
+own land to protect it against a strong enemy, the Britons were worse
+off than ever they had been before. Not only did the Scots come over
+the wall to burn and steal, but a new and a stronger enemy came over
+the seas from Denmark and Germany to seize the treasure that the Romans
+had left unguarded.
+
+
+
+
+CHAPTER III
+
+THE SAXONS
+
+
+These sea robbers were the Angles and the Saxons, and Britain became
+Angleland or England. They were fine men, tall and strong, with long
+fair hair and blue eyes. The Britons gazed in wonder as boat after boat
+glided into the bays. Graceful, brightly coloured boats they were, with
+forty oars on each side and a magnificent sail, sometimes made of silk,
+embroidered with a dragon or a serpent, the gift of a great prince may
+be. Every sailor, as he stepped ashore, became a soldier, armed himself
+with his shield which he took from the vessel's side, and a sword, the
+best in the world, dearer to him than all other treasures, made by the
+chief, or by a famous blacksmith.
+
+The Britons marked the chief long before he landed, for he stood at the
+prow or gave orders. His corselet was of beaten gold or bronze, his
+helmet too. If indeed he were a great champion, he carried on his
+helmet a pair of eagle's wings, or a cock's comb, as the reward of his
+bravery and skill in battle. All these men had been soldiers since they
+were twelve years old. They had learned "to run, to ride, to swim, to
+wrestle and to leap," so it is no wonder that the Britons fled before
+them in terror. Some fell into the hands of these stern warriors and
+became their servants, but those who lived in peace in the mountains of
+the west were called "Welsh," i.e. "foreigners," by all who heard of
+them afterwards. The Scots vanished into their fastnesses and the
+Saxons became lords of Britain.
+
+The Saxons loved fighting and hunting, but when the hunt and the fight
+were over they came back to their spacious halls, where they hung up
+their swords and trophies and gathered round the banquet table or sat
+by the fire, making rhymes and listening to the tales and songs of the
+gleemen. While the mead cup was being passed round, they heard the
+songs about the gods and the great heroes of old, and sometimes they
+liked to think that Odin took a seat amongst them and told his tale.
+Odin, the one-eyed father of all the gods, crept in with a scarlet
+cloak wrapped round him, feasted with them, and, at dawn, the doors of
+the hall opened mysteriously, a great wind blew, and he was gone.
+
+They had many stories about the gods and Valhalla, the home of the
+spirits, whither every good soldier hoped to journey at the end of his
+life. Thor was the great god of thunder; you could see his red beard,
+when the Northern light shone in the winter sky. Sometimes he drove by
+in his chariot with the sound of a storm, the lightning was the flash
+of his eye, and the thunder his mighty hammer striking the rocks as he
+passed.
+
+The most beloved of the gods of the northmen was Baldur, the god of
+Spring. Once, he had a dream that a great cloud passed over him, and
+his mother, in sorrow, summoned all the things upon the earth to
+promise never to hurt her son. Everything promised, the mountains and
+the trees and the rocks and the rivers, everything except the little
+mistletoe, which grew at the palace gate and was so small that nobody
+thought it could do any harm. But Loki, the god of mischief, Baldur's
+brother, guided the hand of blind Hoedur and so killed Baldur with an
+arrow made from the mistletoe.
+
+Odin was very angry when he heard the news and mounted his war horse to
+ride to Valhalla, to fetch Baldur from the home of the spirits. But the
+old witch, who sat at the gates, would not let Baldur return to the
+earth until she heard that everything on the earth was weeping for him.
+Everything did weep, except Loki and the little mistletoe. So the witch
+allows Baldur to come back for three months every year, and then the
+earth puts on her freshest green, the flowers blossom, the corn ripens,
+and gods and men rejoice. Thus, the Saxons showed how much they loved
+the sunshine and the warmth and the south winds that come in the summer
+time.
+
+When a hero died, the Saxons sent him on his journey to Valhalla, with
+food enough to last a week and with all his treasures, his sword and
+helmet, his hunting trophies and his most loved things. They liked best
+of all to send him on his boat across the unknown seas. They towed it
+to the harbour mouth, set fire to it, when the sun was going down,
+shouting as they watched it drift away, "Odin, receive thy Champion."
+They fancied Odin sat in the far North with all the gods waiting to
+welcome a brave man and to give him a seat of honour in his hall. For
+the Saxons thought a brave soldier the noblest of all men.
+
+
+
+
+CHAPTER IV
+
+THE SAXON VILLAGE
+
+
+Though the Saxons loved fighting, they soon learned to love peace and
+to rule their kingdoms well. They divided the spoil amongst themselves
+and the chiefs rewarded their soldiers with lands. They built their
+villages as near the streams as they could, so that they might get
+water easily. They built them near the woods, if possible, so that they
+could get timber to build their houses and fuel for the winter; but not
+so near that an enemy could spring on them suddenly without a warning,
+or the packs of hungry wolves come prowling round in the long, dark
+nights. Any stranger who came in sight of the village must blow his
+horn three times loudly, else the Saxons killed him, for they feared
+anyone they did not know.
+
+The soldiers who settled in the village were freemen, and they shared
+in the harvest of the soil. Only half the land was ploughed for seed
+and the other half was left fallow or idle for a year. In the ploughed
+land, they planted wheat or rye one year and barley next time, after a
+year's rest. Sometimes they divided the land and planted wheat in one
+half in October and barley in the other in March. When the ploughing
+was done, they were all very careful to throw up a little heap of earth
+to make a ridge between the strips in each field, so that each freeman
+might know his own strip in the wheat field and in the barley field
+too. He made bread from the wheat or rye and a drink from the barley,
+and if there were any to spare he would exchange it for some of the
+things he wanted very much, honey perhaps, for everybody needed that
+when there was no sugar.
+
+Beyond the ploughed lands, there was a piece of common ground, where
+all the freemen turned out their geese and cows and sheep and pigs,
+though the pigs liked the woods better, for there they could find
+acorns and hazel nuts.
+
+There was a hayfield, too, and, when spring came, a fence was put all
+round it and it was carefully divided into strips, so that everyone had
+a share of the hay. The "hayward" was a busy man, for it was his duty
+to keep the woods, corn and meadows. In haytime, he looked after the
+mowers. In August, he was to be seen, rod in hand, in the cornfields,
+watching early and late, so that no beasts strayed and trampled down
+the corn.
+
+When Lammastide came, all the freemen kept holiday for joy that harvest
+time had come.
+
+Now, there was sure to be one man who had more treasure than the
+others, and oxen perhaps for the plough. It was very hard work trying
+to plough the fields with less than eight, so the other freemen were
+glad to borrow the oxen sometimes. But the chief, the rich man, made a
+bargain, that those who borrowed his oxen should pay him by doing three
+days' work a week for him in his fields, for they had no money. So, in
+time, he became lord over them.
+
+Then he made a mill where all the corn should be ground into flour and
+every man who brought a sackful must pay so many handfuls of flour to
+the miller for his trouble. Not every village had a mill, so it
+sometimes happened that men travelled far to make a bargain with the
+miller, for they found it slow work to grind their own corn between the
+grindstones at home.
+
+From an old writing[1] that we have still, we can find out many things
+about the peasants, for they tell how they spend their time. The
+ploughman says: "I work hard. I go out at daybreak driving the oxen to
+the field and I yoke them to the plough. Be it never so stark winter I
+dare not linger at home for awe of my lord, but having yoked my oxen
+and fastened share and coulter, every day I must plough a full acre or
+more. I have a boy driving the oxen with a goad-iron, who is hoarse
+with cold and shouting. And I do more also. I have to fill the bins of
+the oxen with hay, and water them and take out their litter. Mighty
+hard work it is, for I am not free." The shepherd says: "In the first
+morning I drive my sheep to their pasture and stand over them in heat
+and in cold, with my dogs, lest the wolves swallow them up; and I lead
+them back to their folds and milk them twice a day, and their folds I
+move, and I make cheese and butter and I am true to my lord."
+
+          [1] AElfric's _Dialogues_.
+
+The oxherd says: "When the ploughman unyokes the oxen, I lead them to
+pasture and all night I stand over them waking against thieves; and
+then again in the early morning I betake them, well-filled and watered,
+to the ploughman."
+
+The King's hunter says: "I braid me nets and set them in fit places and
+set my hounds to follow up the wild game, till they come unsuspecting
+to the net and are caught therein, and I slay them in the net. With
+swift hounds I hunt down wild game. I take harts and boars and bucks
+and roes and sometimes wild hares. I give the King what I take because
+I am his hunter. He clothes me well and feeds me and sometimes gives me
+a horse or an arm-ring that I may pursue my craft merrily."
+
+The fisherman says: "I go on board my boat and cast my net into the
+river and cast my angle and baits and what they catch I take. I cast
+the unclean fish away and take the clean for meat. The citizens buy my
+fish. I cannot catch as many as I could sell, eels and pike, minnows
+and trout and lampreys. Sometimes I fish in the sea, but seldom, for it
+is a far row for me to the sea. I catch there herring and salmon,
+porpoises and sturgeon and crabs, mussels, periwinkles, sea-cockles,
+plaice and fluke and lobsters and many of the like. It is a perilous
+thing to catch a whale. It is pleasanter for me to go to the river with
+my boat than to go with many boats whale-hunting."
+
+The fowler says: "In many ways I trick the birds--sometimes with nets,
+with snares, with lime, with whistling, with a hawk, with traps. My
+hawks feed themselves and me in winter, and in Lent I let them fly off
+to the woods and I catch me young birds in harvest and tame them. But
+many feed the tamed ones the summer over, that they have them ready
+again."
+
+The merchant says: "I go aboard my ships with my goods, and go over sea
+and sell my things and buy precious things which are not produced in
+this country and bring them hither to you, brocade and silk, precious
+gems and gold, various raiment and dye-stuffs, wine and oil, ivory, and
+brass and bronze, copper and tin, sulphur and glass and the like. And I
+wish to sell them dearer here than I buy them there, that I may get
+some profit wherewith I may feed myself and my wife and my sons."
+
+While all the village people were busy at their work in the fields,
+they must have peace and order in the land. Every week, the lord and
+the freemen met together under the great oak tree to talk about
+business. If they heard of any evil deed done near their village, the
+lord rode out at the head of all the men who could ride or run, to find
+the evil doer, and they searched for miles, shouting "Hi! Hi!" and if
+they passed through any village, they summoned every freeman to follow
+in the chase. When the thief was found, he was brought back to his own
+village, and if he could not find any who would stand by him as "oath
+helpers," then none would listen to his tale. They said that only the
+great god could judge, so they prayed that Odin would send a sign.
+Sometimes, they bound the prisoner hand and foot and threw him into the
+village pond; if he floated they said, "He is not guilty." Sometimes,
+they burned the prisoner with hot irons or made him thrust his hand
+into boiling water; then the wounds were bound up; and if, after three
+days, they were healed and there was no scar, they said, "He is not
+guilty." But this did not happen often.
+
+Sometimes, if the man had a bad character, they branded him on the
+forehead with the sign of a wolf's head and took him to the forest,
+where he had to live all the rest of his life, for no one would have an
+outlaw in a village. If a man were afraid of being made an outlaw, he
+must find a great lord and ask him to protect him. If the man promised
+to work for a lord or gave him a present of fish or corn or honey every
+year he could find a lord. If it should happen that he were caught by
+the Hue and Cry, on that day the word of his lord in his favour was
+worth more than the words of six freemen against him. So most people
+worked for a lord.
+
+As time went on, the King began to call the lords and freemen together
+to ask them about a great war, or to make some new laws. They did not
+like going very much, for travelling was troublesome and dangerous. So
+the King usually asked only his cup-bearer and chamberlain and the
+great men of his court for advice.
+
+
+
+
+CHAPTER V
+
+THE COMING OF CHRISTIANITY
+
+
+Some there were who had heard of Christ in the old days, but a band of
+monks landing on the coast of Kent brought the news again to this
+country. Pope Gregory had sent Augustine from Rome to tell the Saxons
+about Christ, for he was sorry that they loved Odin and Thor, and did
+not know any other god. Ethelbert, the King of Kent, had a Christian
+wife, and he was very anxious to know what these strangers had to say
+about the new God. But he was afraid that they might know how to work
+charms and to call out wicked spirits, so he let Augustine and his
+monks preach to the people out of doors, for he thought that they could
+not harm any one in the open air. When the Roman monks preached, many
+people became Christians, but the old Saxon poets sang sorrowful
+stories of Odin's anger, and how the gods had left the world for ever
+because the people were not faithful. Bede tells a story of how the old
+wise men of Northumbria met together to decide whether they would give
+up the old gods for Christ or not, and as they sat in solemn silence,
+thinking of this great thing, an old man rose and said, "The present
+life of man, O King, seems to me like the swift flight of a sparrow,
+who on a wintry night darts into the hall, as we sit at supper. He
+flies from the storms of wind and rain outside, and for a brief space
+abides in the warmth and light, and then vanishes again into the
+darkness whence he came. So is the life of man, for we know not whence
+we came nor whither we go. Therefore if this stranger can tell us
+anything more certain, we should hearken gladly to him." Thus, they
+became Christians. They built churches in their villages; first of
+wood, then of stone.
+
+Many Christian teachers then came to England and built homes or
+monasteries, wherever they went, first of rough timber, then of stone.
+They made clearings in the forests and drained the fenlands, and the
+people followed and built houses for themselves near the monasteries,
+for they found that they could learn many things from the monks. The
+sick, the poor, the tired and the old were always welcome, and
+travellers too were glad to rest there, for there were no inns in those
+days.
+
+The monks were ruled by an abbot, and the nuns, who lived in other
+houses, by an abbess. They took a vow of poverty and thought that they
+served God best by giving their time to prayer and praise.
+
+They loved their monastery, and, as the centuries went by, they made it
+more and more beautiful. The people gave rich offerings and builders
+came from foreign lands, skilled in stonework and other arts. Carvings
+were made for the church, pictures were painted on the walls, and
+flowers and trees were brought from the Holy Land to plant in the
+gardens. In this way came the cedar trees and the juniper, and certain
+plants that now grow wild in parts of the country like the poisonous
+hellebore, the grape hyacinth and the little fritillary or snake's
+head. Great men brought gifts of frankincense and myrrh, to be burned
+in the church on holy days, or jewels for the altar, and silk from the
+east for hangings, but the greatest treasure of all was the "relic."
+People would travel many miles to see this, for those who saw it could
+be healed of their sickness or forgiven for their sins. There were many
+curious relics. There were little bits of wood, that men believed
+belonged to the real cross, on which Christ was crucified, and thorns,
+which were said to have come from His crown. S. Louis, King of France,
+built the beautiful Sainte Chapelle in Paris, where he might keep the
+crown of thorns, which the Crusaders brought from Palestine.
+
+The monastery was usually built round a square garden or lawn. On one
+side was the church, on another the hall and large kitchens and
+pantries, for there were often visitors, some of high estate, and they
+must be royally feasted. In the Rule of S. Benedict it was written,
+"Let all guests who come to the monastery be entertained like Christ
+Himself; because He will say, 'I was a stranger and ye took me in'."
+The guest-house must stand apart "so that the guests, who are never
+wanting in a monastery, may not disquiet the brethren by their untimely
+arrivals." Anyone could claim a lodging for two nights, and in a few
+monasteries there was stabling provided for as many as three hundred
+horses.
+
+There was a long dormitory where the monks slept. It was the custom for
+them to get up at midnight to make a procession into the church by the
+night stairs. There they said matins and lauds (the last three psalms),
+and then returned to the dormitory to sleep if it were winter until
+daybreak, if summer till sunrise. Only those who had worked hard in the
+fields all day were excused. They dressed by the light of the wicks set
+in oil in little bowls at either end of the dormitory.
+
+In the cloisters were troughs for washing before meals, filled with
+water by taps; and above were little cupboards for towels.
+
+Some monasteries had a library, for they were quite rich in books. Then
+there was a writing room, where the scribes were busy making beautiful
+copies of the precious books, some skilled in writing, others in
+painting and illuminating. When the writing was done, the artist
+brought his colours to make the capital letters and the little pictures
+in the text. There was music to be copied too, and the accounts of the
+Abbey must be kept neatly. Sometimes a chronicle was made of great
+events that happened. It is from such books as these that we have
+learned much about the story of the country.
+
+  [Illustration: THE ABBEY OF CITEAUX
+
+    A. Round this court, stables and barns. H. Guest houses and abbot's
+    quarters. N. The Church. I. The kitchen. K. The dining hall. M. The
+    dormitories. P. Cells of the scribes. R. The hospital.]
+
+  [Illustration: A SERVICE IN THE CHAPEL]
+
+The monks led peaceful lives in days when most men were busy about war.
+
+The monks divided the hours between sunrise and sunset into twelve
+equal parts, so it happened that the hour in winter was twenty minutes
+shorter than in summer. Every three hours, there was a service in
+church, prime at the first, terce at the third, sext at the sixth and
+none at the ninth. After prime, on summer mornings, the monks were
+summoned by the Abbot to the chapter house and there each man received
+his task. The latest business was talked about and plans were made for
+the coming guests. Then each monk went to his business, some to the
+gate to give food to the poor and help to the sick, some to work in the
+orchard and garden, to spin or to weave, though in some monasteries
+this kind of work was done for the brethren. They had their first meal
+at midday in the hall in silence. While they ate, one of their number,
+who had already had his meal, would read to them from a book of sermons
+or the Lives of the Saints. After grace, the Miserere (Psalm 51) was
+sung through the cloister. In summer, they would rest in the afternoon,
+in the dormitory or perhaps in the cloister, on the sunny south side,
+where they could read or think or pray. In winter, they worked at this
+time, because their nights were long. Vespers was read at sunset, then
+came supper. Compline ended the day, but it sometimes happened that
+they lingered in the warming-house to chat with one another, but this
+was against rules.
+
+Kings and princes found out what wise counsellors these men were and
+brought them to the courts to help them govern, though this was against
+the rules of the monastic orders.
+
+Then, in those days, Abbots began to ride forth like princes,
+monasteries were full of treasure and monks forsook the humbler ways of
+life they had once followed.
+
+
+
+
+CHAPTER VI
+
+ALFRED AND THE DANES
+
+
+After the Saxons had been in England many years, when their weapons had
+grown rusty and they had almost forgotten how to fight, bands of Danes
+came sailing over the North Sea to plunder the land. "God Almighty sent
+forth these fierce and cruel people like swarms of bees," says the
+chronicler. First, they carried away the beautiful things from the
+monasteries and churches, and then they came to live here. They drove
+the Saxons from their houses or built new villages by the side of the
+old ones. We know that they must have settled in Yorkshire and
+Lincolnshire, in Westmorland and Cumberland, because they gave Danish
+names to many places, such as Grimsby (Grim's town), Whitby, Appleby.
+In those days, the Danes grew very bold. "Ships came from the west
+ready for war with grinning heads and carven beaks," runs the legend,
+"the golden war banner" shining in the bows. They tried to conquer the
+west and south, as well as the north and east. In the land of the West
+Saxons, many battles were fought, and still the little band of hungry,
+worn-out soldiers stood at bay.
+
+It was at this time that Alfred was made King and, like his father and
+brothers, was soon defeated and driven into Athelney, a little island
+in the west in the midst of a great swamp. There, he spent the winter
+drilling his soldiers and making plans to drive away the Danes in the
+spring time. A story is told of how he went into the Danish camp as a
+bard. He carried a harp, and while the mead cup was handed round, he
+sang the old sagas. When the feast was done and the chess board was
+brought out, the captains talked about the war, as they played their
+favourite game. So Alfred heard their plans.
+
+The Danes were surprised when the spring came, for Alfred drove them
+out of his kingdom and made them promise never to come into the land of
+the West Saxons again.
+
+But he did not try to drive them out of England, for he knew that it
+would be many years before his people would be strong enough, perhaps
+not until his own children were grown up. So he worked hard all his
+life to make his people good soldiers and thoughtful men, in order
+that, when the time came, they could drive the enemy across the seas
+and rule over the whole land in their stead.
+
+"Formerly," said the King, "foreigners sought wisdom and learning in
+this land, now we should have to get them from abroad if we would have
+them." Alfred found his nobles careless and idle, they loved hunting
+and feasting and thought very little about ruling a kingdom or leading
+an army. They were too old to learn, but the king made up his mind that
+their children should grow up good soldiers and wise rulers. So he made
+a school at his court for these boys. There they learned the art of war
+and many other things too.
+
+They read the history of their own country from Bede's Book, that had
+been kept at York. This book was written in Latin, so the King had to
+have it translated for them. He had heard of the fame of a great
+writer, Asser, who lived in South Wales. Messages were sent to him to
+ask him to come to Alfred's court to write the history of the reign.
+Asser did not wish to leave his beautiful home, but in the end, he
+promised to stay for six months every year; that is why we know so much
+about this great King.
+
+Alfred turned into English some beautiful old Latin books that taught
+men how to rule well, and in the margins he himself wrote what he
+thought wise counsel. Two of these books had been written by Pope
+Gregory who sent Augustine to England, and at the beginning of one of
+them there are these words, "Alfred, King, turned each word of me into
+English and sent me to his writers, north and south, and bade them make
+more such copies that he might send them to the bishops."
+
+Alfred loved reading and he wrote down all the wise sayings that he
+found. Asser tells the story of how the King came to do this.
+
+"When we were one day sitting together in the royal chamber and were
+holding converse upon divers topics, as our wont was, it chanced that I
+repeated to him a quotation from a certain book. And when he had
+listened attentively to this with all his ears, and had carefully
+pondered it in the deep of his mind, suddenly he showed me a little
+book which he carried constantly in the fold of his cloak. In it were
+written the Daily Course and certain psalms and some prayers, which he
+had read in his youth, and he commanded that I should write that
+quotation in the same little book. And when he urged me to write that
+as quickly as possible, I said to him, 'Are you willing that I should
+write the quotation apart by itself on a small leaf? For we know not
+that at some time we shall not find some other such quotation or more
+than one, which will please you: and if it should so turn out
+unexpectedly we shall rejoice that we have kept this apart from the
+rest.'
+
+"And when he heard this, he said 'Your counsel is good.' And I, hearing
+this and being glad, made ready a book of several leaves, in haste, and
+at the beginning of it I wrote that quotation according to his command.
+And on the same day, by his order, I wrote in the same book no less
+than three other quotations pleasing to him, as I had foretold."
+
+"This book he used to call his handbook, because with the utmost care
+he kept it at his hand day and night and in it he found, as he said, no
+small comfort."
+
+Alfred desired to hear of other lands, but there were hardly any maps
+in those days and no books of geography. Great travellers were welcomed
+at his court, for, when he was very young, he had paid a visit to Rome
+and had seen a little of foreign lands. Othere, the famous seaman, who
+had sailed in the Arctic regions, came to tell his stories of the
+frozen seas that men could walk upon and of the strange midnights when
+the sun shone as bright as by day. Othere spoke of whales and walruses
+and he brought their tusks of fine ivory to show the King. Wulfstan
+came, too, and he had travelled in Prussia and brought stories of a
+land rich in honey and fish.
+
+Travellers came from the hot lands, from India and the far east. They
+brought presents of tiger skins and spices, of rich silks and jewels.
+They told stories of wonderful deserts, of the high snowy mountains and
+thick jungles, that they had passed on their long journey. The King
+delighted to read of elephants and lions and of "the beast we call
+lynx" that men said could see through trees and even stones.
+
+"Or what shall I say," says the chronicler, "concerning the daily
+intercourse with the nations which dwell from the shores of Italy unto
+the uttermost bounds of Ireland? for I have seen and read letters and
+gifts sent to Alfred by Elias, patriarch of Jerusalem."
+
+In this way the West Saxon folk heard of great, unknown countries and
+peoples, and the sons of the nobles learned not only "to run, to ride,
+to swim and to make runes or rhymes," but to be great rulers and
+adventurers as their forefathers had been.
+
+Alfred was a very busy King, for not only had he to receive ambassadors
+and counsellors, but he had to ride through the land, seeing justice
+done, and restoring the ruined churches and monasteries. He taught the
+workers in gold and artificers of all kinds, "to build houses majestic
+and good, beyond all that had been built before. What shall I say of
+the cities and towns which he restored, and of the others which he
+built, where before there had never been any? Or of the work in gold
+and silver, incomparably made under his directions? Or of the halls and
+royal chambers wonderfully made of stone and wood by his command? Or of
+the royal residences built of stone, moved from their former positions
+and most beautifully set up in more fitting places by the King's
+command?"
+
+The King gave many gifts to the craftsmen whom he had gathered from all
+lands, men skilled "in every earthly work," and he gave a portion "to
+the wayfaring men who came to him from every nation, lying near and
+far, and who sought from him wealth, and even to those who sought it
+not."
+
+There were no clocks in those days and the King was much troubled, "for
+he had promised to give up to God half his services." "He could not
+equally distinguish the length of the hours by night, on account of the
+darkness: and oftentimes of the day, on account of storms and clouds."
+"After long reflection on these things he at length, by a useful and
+shrewd invention, commanded his chaplain to supply wax in sufficient
+quantities." "He caused the chaplain to make six candles of equal
+length, so that each candle might have twelve divisions marked upon it.
+These candles burned for twenty-four hours, a night and a day. But
+sometimes, from the violence of the wind, which blew through the doors
+and windows of the chambers or the canvas of the tents, they burned out
+before their time. The King then considered by what means he might shut
+out the wind; and so he ordered a lantern which was closed up, by the
+King's command, by a door made of horn. By this means, six candles
+lasted twenty-four hours, and when they went out others were lighted."
+
+Thus the King left behind him as he wished "a memory in good works,"
+and, after him, his son and daughter drove the Danes eastward beyond
+Watling Street.
+
+The northmen came back with the strong King Cnut, who conquered the
+whole country. Now Cnut was a great king before he took England, for he
+ruled Sweden and Denmark and was lord over Norway. When he was crowned
+King of England, he began to love this kingdom more than all his lands,
+and he made his home in London. He wanted to be a real English King, so
+he looked for the old laws of Alfred the Great and told the English
+people that he would rule as Alfred had done.
+
+The King had a fine army of tall, strong soldiers, but he sent nearly
+all of them back to their own land and kept only three thousand
+house-companions for a body guard. The English people knew that he
+trusted them, for he could not have kept the land in order with so few
+soldiers, if the people had hated him. For seventeen years, there was a
+great peace in the land and ships could pass to and fro, carrying
+"skins, silks, costly gems and gold, besides garments, wine, oil,
+ivory, with brass and copper, and tin and silver and glass and such
+like."
+
+When Cnut's two sons had reigned in the land, then the Saxons once more
+had a Saxon King.
+
+
+
+
+CHAPTER VII
+
+THE BATTLE OF HASTINGS
+
+
+Edward the Confessor, the Saxon prince, had taken refuge in Normandy in
+the days when the Danish Kings ruled in England. There he learned to
+speak Norman French and to love Norman ways. When the Saxons chose him
+to be king, he brought some of his Norman friends to court with him. He
+was a man "full of grace and devoted to the service of God." He left
+the rule of his kingdom to three Saxon Earls, Siward the Stout, a man
+who struck terror to the hearts of the Scots, Leofric of the Marsh
+land, "wise in the things of God and men," and Godwin of Wessex.
+
+There was much trouble because there were no heirs to the throne, and
+the Norman chroniclers say that the King promised his crown to William,
+Duke of Normandy. The Saxons did not know this, and if they had they
+would not have crowned him; so they chose Harold, son of Godwin and
+brother of the Queen, to rule after Edward the Confessor. They chose
+Harold for he was a man after their own heart, strong and fearless,
+like the heroes of old. Harold had two elder brothers, but they were
+cruel and lawless and the people feared them.
+
+The Normans told a story of how Harold had been wrecked on the coast of
+Normandy, two years before this, and was taken before the Duke as a
+prisoner. The Duke would not let him go until he had sworn, with his
+hand upon the holy relics, that he would never claim the Saxon crown.
+
+When Edward died, Harold forgot this oath and the people crowned him
+with much rejoicing. When the news reached the Duke of Normandy "he was
+in his park of Quevilly, near Rouen, with many knights and squires,
+going forth to the chase." He had in his hand the bow, ready strung and
+bent for the arrow. The messenger greeted him and took him aside to
+tell him. Then the Duke was very angry. "Oft he tied his mantle and oft
+he untied it again and he spoke to no man, neither dare any man speak
+to him." Then he bade his men cut down the trees in the great forests
+and build him ships to take his soldiers to England. When they were
+ready, there arose a great storm and for many weeks he waited by the
+sea shore for a fair wind and a good tide. Tostig, too, Harold's
+brother, became very jealous and asked for a half of the kingdom. And
+because Harold would not listen, Tostig went to Norway, to beg the
+great King Hadrada to call out his men and ships and sail for England.
+So the Northmen sailed up the river Humber and took York. Then, Harold
+and his soldiers marched to the North to fight against Tostig. When he
+had pitched his camp, he sent word to Tostig, "King Harold, thy
+brother, sends thee greeting, saying that thou shalt have the whole of
+Northumbria or even the third of his kingdom, if thou wilt make peace
+with him." "But," said Tostig, "what shall be given to the King of
+Norway for his trouble?"
+
+"Seven feet of English ground," was the answer, "or as much more as is
+needful, seeing that he is taller than other men." Then said the Earl,
+"Go now and tell King Harold to get ready for battle, for never shall
+the Northmen say that Tostig left Hadrada, King of Norway, to join the
+enemy." And when Harold departed, the King of Norway asked who it was
+that had spoken so well. "That," said Tostig, "was my brother Harold."
+When Hadrada heard this he said, "That English king was a little man,
+but he stood strong in his stirrups." A great fight there was, and
+Hadrada fought fiercely, but he was killed by an arrow. When the sun
+set, the Northmen turned and fled, for Tostig, too, lay dead upon the
+field. That night there was a great feast in the Saxon camp.
+
+As they held wassail, a messenger came riding into the camp, breathless
+with haste, for he had rested not day nor night in the long ride to the
+North. He shouted to those who stood by, "The Normans--the Normans are
+come--they have landed at Hastings--Thy land, O King, they will wrest
+from thee, if thou canst not defend it well." That night, the Saxons
+broke up their camp and hurried towards London. The wise men begged
+Harold to burn the land, that the enemy might starve, but Harold would
+not, for he said, "How can I do harm to my own people?" So they rode
+off to meet the Duke near Hastings.
+
+Now Harold chose his battle-field very wisely, a rising ground, for
+most of his soldiers were on foot and many of the Normans were on
+horse-back and the King knew that it was hard riding up hill. So Harold
+stood under the Golden Dragon of Wessex watching the enemy below. In
+the front of the Normans rode their minstrel, throwing his sword into
+the air and catching it again, as he sang of the brave deeds of those
+knights of old, Roland and Oliver. Fierce was the onslaught, and soon
+the Normans turned to flee. Then were the Saxons so eager for the spoil
+that they came down from their high ground to chase the enemy. When the
+Duke saw this, he wheeled his men in battle array and the fight began
+again fiercer than ever. Then the Duke ordered a great shower of arrows
+to be shot up into the air, so that when they fell, they pierced many a
+good soldier. And Harold fell, shot through the eye by an arrow. Still,
+the Saxons fought on, for they held it shame to escape alive from the
+fields whereon their leader lay slain. That night, William pitched his
+tent where the King's banner had waved. Then came Gyda the mother of
+Harold to beg Harold's body from the Duke. But he gave orders that it
+should be buried by the seashore, "Harold guarded the cliffs when he
+was alive, let him guard them, now that he is dead," said William.
+
+So the King's mother and his brothers hid in the rocky west, in
+Tintagel, for fear of the Duke's anger.
+
+Then did William march slowly to London, burning and harrying the land,
+and all men feared him.
+
+  [Illustration: HAROLD DEFEATS AND KILLS TOSTIG AND THE KING OF NORWAY
+  AT STAMFORD BRIDGE]
+
+  [Illustration: A BATTLE IN THE 15TH CENTURY]
+
+There is a piece of "tapestry" still kept at Bayeux in France, showing
+how England was conquered. It was probably made later than the reign of
+William and perhaps was intended to go round the walls of the choir of
+Bayeux Cathedral, for it has been measured and found to be of the right
+length. Though it is old and torn and faded, we have been able to learn
+many things from it[2].
+
+          [2] There is a copy in Reading Museum. See _Guide to Bayeux
+          Tapestry_, published by Textile Department, Victoria and
+          Albert Museum.
+
+There were few histories written in those days, for the Normans were
+too busy fighting for their new lands and the English were too
+sorrowful to tell their story.
+
+
+
+
+CHAPTER VIII
+
+THE NORMAN KINGS
+
+
+The strong men of the north had not bowed to William the Conqueror on
+the field of Hastings, and when they heard that he was crowned, they
+armed themselves against him. The King marched towards the north
+slowly, burning and harrying the land as he passed, and his path was
+marked by flaming villages and hayricks.
+
+When he came into Yorkshire, he laid waste the land, and for nine years
+not an acre was tilled beyond the Humber, and "dens of wild beasts and
+of robbers, to the great terror of the traveller, alone were to be
+seen."
+
+The Saxons fled; some died of hunger by the wayside, some sold
+themselves as slaves, and a few hid themselves in the Fens, a great
+stretch of water and marsh land, in the east, dotted here and there
+with islands and sometimes crossed in winter on sledges. There Hereward
+the Wake built his camp in the swamps of Ely and there all true men
+gathered round him. He was bold and hardy and even William said of him,
+"if there had been in England three such men as he, they would have
+driven out the Normans."
+
+The King gave orders that a causeway should be built across the Fens
+and he besieged the Saxons in Ely, and some said that Hereward was
+betrayed. But William pardoned him and sent him to Normandy to command
+his army. Many stories are told of his adventures. It was said that he
+was slain one day as he slept in an orchard, for there were many in the
+King's court who envied him.
+
+The Conqueror was a wise king, and he desired to know what manner of
+kingdom he had conquered. "He held a great council and very deep speech
+with his wise men about this land, how it was peopled and by what men."
+
+So he sent his clerks to every shire and commanded them to write down
+on a great roll all that they could find out about the country. They
+were to ask of the lord and of the freemen in the villages and of the
+monks in the monasteries these questions: How much land have you? Who
+gave you that land? What services do you owe the King for it? Have you
+paid them? How many people dwell upon your land? How many soldiers must
+you lend to the King if need be? How many cattle have you? Have you a
+mill? (if they had, they owed every third penny to the King). Have you
+a fish pond? (fish was a great luxury).
+
+The lords and the monks were unwilling to answer, for they knew they
+must pay to the King all that was due. "So narrowly did the King make
+them seek out all this that there was not a single yard of land
+(shameful it is to tell, though he thought it no shame to do) nor one
+ox, nor one cow, nor one swine left out, that was not set down in his
+rolls, and all these rolls were afterwards brought to him." These
+records are called Domesday Book. The Kings, when they desired to get
+money or soldiers from the great lords and monks, turned to the
+Domesday Book.
+
+When the book was brought to the King, he summoned the lords and
+freemen to come to do him "homage." These men came and they placed
+their hands between the King's hands and, kneeling before him, they
+promised to be the King's men and to follow him in time of need. "Hear,
+my lord," said the baron, "I become liege man of yours for life and
+limb ... and I will keep faith and loyalty to you for life and death,
+God help me."
+
+William I made great peace in the land, and, as he was dying, he called
+his three sons to him, and to Robert, the eldest, he gave Normandy and
+to William Rufus, England. Then Henry turned sorrowfully to his father,
+"And what, my father, do you give to me?" The King replied, "I bequeath
+L500 to you from my treasury." Then said Henry, "What shall I do with
+this money, having no corner of the earth I can call my own?" But his
+father replied, "My son, be content with your lot and trust heaven,
+Robert will have Normandy and William England. But you also in your
+turn will rule over the lands which are mine and you will be greater
+and richer than either of your brothers."
+
+Rufus ruled over England thirteen years, and he was hated by the
+people. Robert gave Normandy to his brother for a sum of money; and
+thus Henry, when Rufus was dead, became Duke of Normandy and King of
+England. He married a Saxon lady and "there was great awe of him in the
+land, he made peace for man and beast."
+
+
+
+
+CHAPTER IX
+
+THE NORMAN BARONS
+
+
+The Norman barons who came to England with William the Conqueror were
+much disappointed, for they had hoped to share the kingdom with him and
+to be great lords. But William had not given them as much land as they
+desired, and he had made Domesday Book so that they should render to
+him due service and payment in return for his gifts. The barons had not
+always paid that which they owed; and Henry I made a rule that all
+should come to his Court three times a year, to Winchester at the feast
+of Easter, to Westminster at Whitsuntide and to Gloucester at
+Mid-winter, when he wore his crown, and then they should do homage and
+pay their taxes.
+
+To this court came the officers of the household, and the King
+appointed a Bishop to receive the money and priests to keep the
+accounts, since there were few among the nobles or citizens who could
+read, write and add figures. The money was counted out on a chequered
+table, and so the court came to be called the Exchequer.
+
+The barons could not easily cheat the King; for, when their money had
+been counted out upon the table, some of it was melted on the furnace,
+lest it should contain base metal, and it was weighed in the balances,
+lest the coins should have been clipped. Then Domesday Book was
+searched and the priests read out what sum was due to the King from
+this lord.
+
+When the Chancellor was satisfied, a tally was handed to the baron.
+This was a willow or hazel stick, shaped something like the blade of a
+knife, about an inch thick. Notches were cut in it to show the amount
+paid and the halfpennies were marked by small holes. The tally was then
+split down the middle through the notches, and the baron took one half
+so that he might show it to the Chancellor when he came to court to pay
+again, and the Chancellor kept the other half to prove that the baron
+was not cheating. Thus the King kept his barons in order and there was
+peace in the land.
+
+Now Henry I had an only son, and to him he gave a ship, "a better one
+than which there did not seem to be in the fleet," but as he was
+sailing from Normandy to England, it struck upon a rock and all
+perished, save only a butcher, who was found in the morning clinging to
+a plank.
+
+When the King heard the news, he was in great distress; for no woman
+had yet ruled in England and his daughter Matilda was married to a
+French Count, whom all the Normans hated for his fierce temper and
+overbearing ways. The King, nevertheless, made them swear to put her on
+the throne, but, when he died, the barons chose her cousin, Stephen,
+for "he was a mild man, soft and good, and did no justice."
+
+Stephen quarrelled with the Chancellor and closed the Court of
+Exchequer where the barons had paid their dues, and he let the barons
+build castles and coin their own money. When he was in need of
+soldiers, he hired foreign ruffians, and because he could not pay them,
+he let them loose upon the land to plunder: thus he "undid all his
+cousins had done."
+
+"The barons forswore themselves and broke their troth, for every
+nobleman made him a castle and held it against the King and filled the
+land full of castles. They put the wretched country folk to sore toil
+with their castle-building; and, when the castles were made, they
+filled them with devils and evil men. Then they took all those that
+they deemed had any goods, both by night and day, men and women alike,
+and put them in prison to get their gold and silver, and tortured them
+with tortures unspeakable. Many thousands they slew with hunger. I
+cannot nor may not tell all the horrors and all the tortures that they
+laid on wretched men in the land. And this lasted nineteen winters,
+while Stephen was King, and ever it was worse and worse.
+
+"They laid taxes on the villages continually, and, when the wretched
+folk had no more to give them, they robbed and burned all the villages,
+so that thou mightest easily fare a whole day's journey and shouldst
+never find a man living in a village nor a land tilled. Then was corn
+dear, and flesh and cheese, and there was none in the land.
+
+"If two or three men came riding to a village, all the village folk
+fled before them, deeming them to be robbers. Wheresoever men tilled,
+the earth bore no corn, for the land was fordone with such deeds, and
+they said openly that Christ and His Saints slept. Such, and more than
+we can say, we suffered nineteen winters for our sins." Then Stephen
+made a treaty with Matilda's son Henry and promised him the crown of
+England; for Henry was already a great prince, holding more lands than
+the monarch of France. Moreover, he was valiant in battle, strong in
+the Council chamber and never weary. The French King said of him,
+"Henry is now in England, now in Ireland, now in Normandy, he may be
+rather said to fly than go by horse or boat."
+
+Henry II could ride all night and, if need were, sleep in the saddle.
+"His legs were bruised and livid with riding." "He was given beyond
+measure to the pleasures of hunting; and he would start off the first
+thing in the morning on a fleet horse and now traversing the woodland
+glades, now plunging into the forest itself, now crossing the ridges of
+the hills, would in this manner pass day after day in unwearied
+exertion; and when, in the evening, he reached home, he was rarely seen
+to sit down whether before or after supper. In spite of all the fatigue
+he had undergone, he would keep the whole court standing."
+
+This tireless ruler, before he became King, had restored order in
+England, for he commanded the hired soldiers to be gone immediately,
+and they went as they had come like a flight of locusts. He destroyed
+more than a thousand castles, and those that were well built he kept
+for himself. "All folk loved him, for he did good justice."
+
+He opened the Court of Exchequer, so that the Barons were forced to pay
+all they owed Stephen for the nineteen years of his reign. He visited
+all the courts of justice in the land, and no man durst do evil, for
+none knew where the King might be. He appointed judges to travel round
+the country and to sit at Westminster and hear complaints, for many had
+sought the King in vain, so swiftly did he travel from place to place.
+Thus the barons were made to fear the King and rule justly.
+
+
+
+
+CHAPTER X
+
+NORMAN PRELATES
+
+
+There came one day, to the Abbey of Bec in Normandy, a great scholar
+named Lanfranc. The Abbot was building an oven, "working at it with his
+own hands. Lanfranc came up and said, 'God save you.' 'God bless you,'
+said the Abbot Herlwin. 'Are you a Lombard?' 'I am,' said Lanfranc.
+'What do you want?' 'I want to become a monk.' Then the Abbot bade a
+monk named Roger, who was doing his work apart, to show Lanfranc the
+book of S. Benedict's Rule; which he read and answered that, with God's
+help, he would gladly observe it. Then the Abbot, hearing this and
+knowing who he was and from whence he came, granted him what he
+desired. And he, falling down at the mouth of the oven, kissed
+Herlwin's feet."
+
+The fame of the Abbey of Bec spread far and wide. "Under Lanfranc,"
+said the chronicler, "the Normans first fathomed the art of letters;
+for under the six dukes of Normandy, scarce anyone among the Normans
+had applied to studies, nor was there any teacher found, till God, the
+Provider of all things, brought Lanfranc to Normandy."
+
+He was William the Conqueror's friend and counsellor and brought the
+Church into much honour when he became Archbishop of Canterbury.
+
+Among the strangers, who came to Bec, was Anselm. He had long desired
+to be a monk and had travelled over the Alps from Italy to join the
+order. When he was young, he used "to listen gladly to his mother, and
+having heard from her that there is one God in Heaven above, ruling all
+things, he imagined that Heaven rested on the mountains, that the
+palace of God was there and that the way to it was up the mountains."
+Before he was fifteen, he had written to a certain Abbot asking him to
+make him a monk, but he would not, when he heard that Anselm had not
+spoken to his father about it.
+
+Anselm was a scholar, too, and men counted it a great thing to have
+been taught by him. "He behaved so that all men loved him as their dear
+father." If any were sick, he nursed them; if any angry, he sought them
+out. It was said that even the King, Rufus, so harsh and terrible to
+all others, in his presence became gentle and gracious.
+
+When he was Abbot of Bec, he gave so much to the poor that the monks
+were often in need of bread themselves. Many came to seek his advice,
+"whole days he would spend in giving counsel" and his nights in
+correcting the books that had been copied out.
+
+When Lanfranc died, William Rufus brought the kingdom into much trouble
+and sorrow, by closing churches, taking their money and refusing to
+choose an Archbishop. It happened that the King fell ill and messengers
+were sent to Anselm begging him to see the King and show him the way to
+health. Anselm was stern and bade the King confess his sins, and those
+who stood round urged him to make Anselm Archbishop. When the King's
+choice was told him, Anselm trembled and turned pale. "Consider I am
+old and unfit for work, how can I bear the charge of all this church? I
+am a monk and I can honestly say I have shunned all worldly business.
+Do not entangle me in what I have never loved and am not fit for." The
+Archbishop of Canterbury was a great officer, for he anointed the King
+when he was crowned, he held many lands and must protect the Church
+against the King if need be, for the Church was rich and the King poor.
+
+The bishops and barons would not listen and they dragged him back to
+the King, shouting, "A pastoral staff, a pastoral staff." When they had
+found one, the King pressed it into his hand, though he held his fist
+clenched, and the crowd shouted, "Long live the Bishop." The Archbishop
+soon after asked for a council, for the King was still robbing the
+Church and "the Christian religion had well-nigh perished in many men."
+Rufus was angry, "What good would come of this matter for you?"
+
+"If not for me, at least, I hope, for God and for you."
+
+"Enough, talk no more of it to me."
+
+The Archbishop begged the King not to rob the Abbeys and the King
+answered, "What are the abbeys to you? Are they not mine? Go to! you do
+what you like with your farms and am I not to do what I like with my
+Abbeys?"
+
+"They are not yours to waste and destroy and use for your wars."
+
+The King said, "Your predecessor would not have dared to speak thus to
+my father. I will do nothing for you."
+
+Then Anselm departed with speed and left him to his will.
+
+"Yesterday," said the King, "I hated him much, to-day still more;
+to-morrow and ever after, he may be sure I shall hate him with more
+bitter hatred. As Father and Archbishop I will never hold him more; his
+blessing and prayers I utterly abhor and refuse."
+
+Anselm asked leave to go to Rome, for the Archbishop must wear the
+white stole, woven from the wool of the sheep of S. Agnes in Rome and
+blessed by the Pope "the Father of all Christian people."
+
+"From which Pope?" said the King, for there were two at this time.
+
+"From Urban."
+
+"Urban," said the King, "I have not acknowledged. By my customs, and by
+the customs of my father, no man may acknowledge a Pope in England
+without my leave. To challenge my power in this is as much as to
+deprive me of my crown."
+
+Anselm, seeing that in no way could he bring the King to have respect
+for the Church, went to Rome to seek the Pope's help. He said to the
+bishops and barons, "Since you, the Shepherds of the Christian people,
+and you, who are called chiefs of the nation, refuse your counsel to
+me, your chief, except according to the will of one man, I will go to
+the chief shepherd and prince of all."
+
+The Pope honoured Anselm by giving him the chief seat among the
+Cardinals, but he kept him waiting at the Court, for he feared to
+offend all other kings and tyrants.
+
+It was the custom to read the laws of the Church once a year in S.
+Peter's Church in Rome, and there was gathered there a great crowd of
+pilgrims from many countries. The Bishop of Lucca, a man of great
+stature and loud voice, was chosen to read the laws. When he had got a
+little way, his eyes kindled and he called out, "One is sitting among
+us from the ends of the earth in modest silence, still and meek. But
+his silence is a loud cry. The deeper and gentler his humility and
+patience, the higher it rises before God, the more it should kindle us.
+This one man, this one man, I say, has come here in his cruel
+afflictions and wrongs to ask for your judgment. And this is his second
+year and what help has he found? If you do not all know whom I mean, it
+is Anselm, Archbishop of England," and he broke his staff and threw it
+on the ground.
+
+"Brother, enough, enough," said the Pope, "good order shall be taken
+about this."
+
+"There is good need, for otherwise the thing will not pass with Him who
+judges justly."
+
+Anselm left Rome, for he knew the Pope could not help. With much
+patience and meekness, Anselm contended yet again with Henry I for the
+rights of the Church. Becket, too, Archbishop of Canterbury, the King's
+friend and servant, defended it once again in the days of Henry
+II--even with his life.
+
+
+
+
+CHAPTER XI
+
+NORMAN BUILDERS
+
+
+The Normans were soldiers and rulers and great builders too. With the
+white stone, which they found in their own land, they built magnificent
+cathedrals, abbeys and churches, for they were cunning craftsmen and
+dreamers.
+
+The Cathedral was vast and grand, with its stately pillars and roof so
+lofty that it was lost in dim shadows. The master mason, who planned
+it, took great joy in building and often travelled far to see the works
+of other men. There are pictures of him with his cap on his head, the
+sign that he was a master, and his compass in his hand.
+
+All the years of his life, the ironmaster laboured to cast a beautiful
+peal of bells. One old man died of joy on the day that his bells were
+first rung, for they were almost perfect.
+
+The Normans, who came to England, did not forget their art. They built
+Ely Cathedral in the midst of the Fens, and Durham, overlooking the
+river. "You might see churches rise in every village and monasteries in
+the towns and cities, built after a style unknown before," says William
+of Malmesbury.
+
+At first, they built of the rough stone found in the quarries worked by
+the Romans in other days. Woods were cut down to give fuel for the
+lime-kilns, and machines were devised for lifting blocks of stone,
+roads and even waterways were made for this great traffic.
+
+  [Illustration: ARCHITECT AND BUILDERS]
+
+  [Illustration: BUILDING A CHURCH IN THE 15TH CENTURY]
+
+  [Illustration: IMAGINARY PICTURE OF THE BUILDING OF THE TEMPLE OF
+  JERUSALEM, SHOWING GOTHIC ARCHITECTURE]
+
+So much work was there for the masons that there were not skilled
+craftsmen enough in the land to do all that was needed. As the years
+went by and the people gave to the Church of their riches, more new
+buildings were made and yet more decoration was used. Organs were built
+and stained glass of lovely hues was put in the windows, orange and
+blue and red, colours so rich they seemed almost to have caught and
+held the sunlight.
+
+A monk, who was also an artist, wrote "Man's eye knoweth not whereon to
+gaze; if he look up at the vaults, they are as mantles embroidered with
+spring flowers; if he regard the walls, there is a manner of paradise;
+if he consider the light streaming through the windows, he marvelleth
+at the priceless beauty of the glass and at the variety of this most
+precious work."
+
+So full of riches were these buildings that S. Bernard, and other
+preachers too, called to the monks to remember their vows of poverty
+and to return to humbler dwellings like those they had once built where
+they might worship God.
+
+Round the Saxon earthworks, the Normans built strong walls that they
+might hold them against foreign foe or angry neighbour. By the rivers
+and on high rocks, they made great keeps or towers, first of timber,
+later of stone, where they could withdraw if pressed by foes. The stone
+walls were often 13 feet thick and round about there was a deep moat.
+The doorway was of stout oak barred with iron. Over this, they would
+drop the portcullis, a single grate of iron, worked from a chamber
+above by cords and chains round a windlass. Across the moat, they flung
+a drawbridge, which could be raised at pleasure. There were only a few
+rooms in the keep, storerooms below and chambers in the two stories
+above, for the Norman lord only sought shelter there in times of siege.
+In such a tower, he was safe enough if he had plenty of food and a
+well, secure from the enemy.
+
+Sometimes the Normans built strong walls and another moat round about
+the keep, and towers where they kept watch by night and day, looking
+towards the four quarters of heaven lest an enemy should surprise them.
+
+Much later, when the lord brought his family and soldiers to live in
+the castle, they made it still larger. Storerooms and stables were
+built round the courtyard and above these were the chambers of the lord
+and his followers. Here was a fine larder and a kitchen where the ox
+and wild boar were roasted whole and the mead was brewed and brown
+bread baked.
+
+There was a great hall where everyone dined and where the servants
+slept at night. The floor was strewn with rushes, for there were no
+carpets until the days of Queen Eleanor, and then they were hung on the
+damp cold walls or put on the tables. Down the centre of the room ran a
+long table, sometimes fixed to the floor, sometimes on trestles, with
+wooden benches on either side, covered with osier matting. Under the
+table, the dogs gathered to gnaw the bones that were flung to them. For
+the meat was carried round on a spit and each man helped himself with a
+knife from his girdle.
+
+  [Illustration: A SIEGE]
+
+  [Illustration: GATEWAY AND DRAWBRIDGE]
+
+So strong were these castles that, though the enemy used a ram, it was
+almost impossible to make a breach in the walls. If they brought
+scaling ladders, it was difficult to climb when the moat ran below and
+the archers shot from the ramparts. If they mined beneath the rock, the
+defenders could make a counter-mine. The besiegers could bring
+catapults to hurl heavy stones upon the walls, and siege towers to
+shoot their arrows high. These attacks were usually in vain, for the
+garrison of a castle only surrendered when there was famine.
+
+These were days of great strife and turmoil, and strong was the King in
+whose reign it was said that "a man might travel through his realm with
+his bosom full of gold, unhurt."
+
+
+
+
+CHAPTER XII
+
+KNIGHTHOOD
+
+
+In such troublous times when there was great fear abroad, when men
+feared the King, feared their neighbours and feared all foreigners, it
+seemed to them necessary that every lord should be trained to war. Yet
+they learned, too, to honour the courteous, gentle, generous knight,
+sworn to help the weak, and if need be to fight for the faith of
+Christ.
+
+Every knight served his lord for many years before he was deemed worthy
+of knighthood. At seven years old he became a page, attending his lord
+and lady in hall and bower. From the chaplain and the ladies he heard
+of gentleness and courtesy and love. In the field, he was taught by the
+squires to cast a spear, bear a shield, and march with measured tread.
+With falconer and huntsman, he sought the mysteries of wood and river.
+
+Then he became a squire, carving and serving in hall, offering the
+first cup of mead to his lord and the guests, carrying ewer and basin
+for them to wash after the meal. Upon him fell the duty of clearing the
+hall for dancing and minstrelsy and setting the tables for chess and
+draughts.
+
+In the field, he learned to ride a war-horse and to practise warlike
+exercises. Armed with a lance he tilted at the quintain, a shield bound
+to a pole or spear fastened in the ground. After the Crusades, the
+figure of a Saracen, armed at all points and brandishing a wooden
+sabre, was set up instead of the shield. If the squire could not strike
+it in the centre of face or breast, it revolved rapidly and struck him
+in the back. Then there was the pel, a post or tree stump, six feet
+high. This he struck at certain points, marked as face and breast and
+legs, covering himself at the same time with a shield. He must learn
+also to scale walls, to swim, to bear heat, cold, hunger and fatigue.
+
+If he were a "squire of the body" he bore the shield and armour of his
+lord in battle, cased and secured him in it and assisted him to mount
+his war-horse. To him fell the honour of defending the banner and
+securing the prisoners. If his lord were unhorsed, he must raise him
+and give him a new mount; if wounded, he must bear him to a place of
+safety. Froissart tells the story of a knight who fought as long as his
+breath served him and "at last at the end of the battle, his four
+squires took him and brought him out of the field and laid him under a
+hedgeside for to refresh him, and they unarmed him and bound up his
+wounds as well as they could."
+
+The squire did not fight unless his lord was sore pressed, but he kept
+a careful watch, as did the son of the King of France, at Poitiers,
+standing by his father in the melee, though he was but fifteen,
+shouting "Guard thyself on thy right, father. Guard thyself on thy
+left, father," till he was taken prisoner.
+
+A squire might be dubbed a knight on the battle-field in reward for
+bravery, or at the age of twenty-one he became a knight if he so
+desired, and this was the manner of his knighting, though often some of
+these ceremonies were left out. In the evening, he was placed in the
+care of "two squires of honour, grave and well seen in courtship and
+nurture and also in the feats of chivalry." A barber then attended and
+shaved him and cut his hair. After this he was led by the squires into
+his chamber where a bath was prepared, hung within and without with
+linen, and covered with rich cloths. While he was in the bath, "two
+ancient and grave knights attended on him, to instruct and counsel him
+touching the order and feats of chivalry." When this had been done,
+they poured some of the water of the bath over his shoulders, signing
+the left shoulder with the Cross. He was then taken from the bath and
+put into a plain bed without hangings, and there he remained until his
+body was dry. Then the two squires arrayed him in linen and a white
+shirt, and over that "a robe of russet with long sleeves, having a hood
+thereto like unto that of a hermit." In this way, knights of the order
+of the Bath were made.
+
+Then the "two ancient and grave knights" returned and led him to the
+chapel, the squires going before them "sporting and dancing, the
+minstrels making melody." And when they had been served with wines and
+spices they went away, leaving only the young squire, his companions,
+the priest, the chandler and the watch who kept the vigil of arms till
+sunrise. At daybreak he confessed to the priest, heard matins, took
+part in the service of the Mass, offering a taper and a piece of money
+stuck in the taper as near the lighted end as possible, the taper to
+the honour of God, the money to the honour of the person who made him a
+knight.
+
+Afterwards he was taken back to his chamber and remained in bed until
+the knights, squires and minstrels went to him and roused him. The
+knights then dressed him, mounted their horses and rode to the hall or
+the church where the new knight was to receive knighthood. His future
+squire rode before him, bareheaded, carrying his sword by the point of
+the scabbard with his spurs hanging from the hilt. If they rode to the
+hall, the lord there delivered the right spur "to the most noble and
+gentle knight" present and directed him to fasten it on the squire's
+right heel. The knight, kneeling, placed the squire's foot on his knee,
+fixed the spur and signed him with the Cross. In the same way, the left
+spur was fixed by another knight. And he, who was to create the new
+knight, took the sword and girded him with it, and then embracing him,
+lifted his right hand and smote him on the neck or shoulder, saying "Be
+thou a good knight."
+
+When this was done they all went to the chapel with much music, and
+there the sword was sprinkled with holy water by the priest who gave it
+to the knight, saying "Receive thy sword and use it in thine own
+defence and that of the Holy Church of God and to the confusion of the
+enemies of the Cross of Christ and for the Christian faith."
+
+"Be thou a knight who lovest peace, firm, faithful and a true servant
+of God." Then girt with his sword the new knight arose, drew it from
+its sheath and waved it twice mightily over his left arm and put it
+back in the scabbard. Sometimes it happened as he came from the chapel,
+that the master cook awaited him at the door, and claimed his spurs as
+a fee, saying, "If thou do anything contrary to the order of chivalry
+(which God forbid) I shall hack the spurs from thy heels."
+
+Some rode forth to protect "the good peace of the Lord their God" and
+some to break it.
+
+
+
+
+CHAPTER XIII
+
+THE KNIGHTS OF THE ROUND TABLE
+
+
+If we want to know about the ways of men in those days, we must read
+some of their tales. Many stories were sung and told of knightly deeds
+and adventures. There are a number that have come down to us about a
+great king, Arthur, and his knights, called the Knights of the Round
+Table. These are recorded in that "noble and joyous book" _Le Morte
+Darthur_, which Caxton printed.
+
+We do not know where this King lived nor are we sure where his kingdom
+lay. The English story-teller says he lived in Wales, but the French
+people say he lived in their land. When he was crowned King, those who
+loved him took a vow to follow him wherever he went. He chose twelve
+knights who promised to help the weak and suffering and to release men
+from their enemies. These were the Knights of the Round Table and they
+rode out into all the world to seek adventure.
+
+There was the good knight Sir Tristram, "the best chaser of the world
+and the noblest blower of an horn of all manner of measures, for, as
+books report, of Sir Tristram came all the good terms of hunting and
+all the sizes and measures of blowing of an horn; and of him we had
+first all the terms of hawking and which were beast of chase and which
+were vermins and all the blasts that belonged to all manner of games."
+
+There, too, was the beloved Knight Launcelot, "the courteoust Knight
+that ever bare shield, the kindest man that ever struck with sword, the
+goodliest person that ever came among press of knights, the meekest man
+and the gentlest that ever ate in hall among ladies, the sternest
+knight to mortal foe that ever put spear in rest."
+
+King Arthur had a beautiful sword and he came by it in this way.
+Merlin, the magician, led him down to the shores of a great lake, and
+as they gazed upon the dark waters an arm "clothed in white samite"
+came forth, holding the sword Excalibur. "With that they saw a damsel
+going upon the lake. What damosel is that? said Arthur. That is the
+Lady of the Lake, said Merlin; and within that lake is a rock and
+therein is as fair a place as any on earth, and richly beseen; and this
+damosel will come to you anon and then speak ye fair to her that she
+will give you that sword. Anon withal came the damosel unto Arthur and
+saluted him and he her again. Damosel, said Arthur, what sword is that,
+that yonder the arm holdeth above the water? I would it were mine for I
+have no sword. Sir Arthur, King, said the damosel, that sword is mine,
+and if ye will give me a gift when I ask it you, ye shall have it. By
+my faith, said Arthur, I will give you what gift ye will ask. Well!
+said the damosel, go ye into yonder barge and row yourself to the sword
+and take it and the scabbard with you and I will ask my gift in time.
+So Sir Arthur and Merlin alit and tied their horses to two trees, and
+so they went into the ship, and when they came to the sword that the
+hand held, Sir Arthur took it up by the handles and took it with him,
+and the arm and the hand went under water."
+
+Then Merlin built the King a beautiful palace at Camelot and there they
+brought the Queen Guinevere. Now some of Arthur's knights went in
+search of the Holy Grail, a mysterious cup, that had disappeared
+because men were evil. They thought that if they could find it and
+bring it back to the earth again, there would be no more sorrow nor
+pain.
+
+One day, there came in to the court an old man, clothed all in white,
+and there was no Knight that knew from whence he came. And with him,
+both on foot, he brought a young Knight, in red arms, without a sword
+or shield, save a scabbard hanging by his side. "Sir," said the old man
+to King Arthur, "I bring you here a young Knight." Then the old man
+made the young man un-arm him, and he was in a coat of red sandal and
+bare a mantle upon his shoulders that was furred with fine ermine, and
+put that upon him, and the old man said unto the young Knight, "Sir,
+follow after." And so he brought him unto the Siege Perilous. Now this
+was a seat at the Round Table, covered with a cloth, and no man durst
+sit in it, for Merlin had said that only he who should see the Holy
+Grail might sit therein without harm. "The old man removed the cloth
+and found letters written 'This is the siege of Sir Galahad the Good
+Knight'." "Sir," said the old man, "wit ye well, this place is yours."
+Then all the Knights of the Round Table marvelled greatly of Sir
+Galahad that he durst sit in that Siege Perilous."
+
+Then Sir Galahad took his seat in the Siege Perilous. "Then anon they
+heard cracking and crying of thunder, that they thought the place
+should fall. In the midst of this blast entered a sunbeam more clearer
+by seven times than ever they saw day and all they were alighted of the
+grace of the Holy Ghost. Then began every knight to behold other and
+either saw other, by their seeming, fairer than ever they saw afore.
+There was no Knight might speak one word a great while and so they
+looked every man on other as they had been dumb. Then there entered
+into the hall the Holy Grail covered with white samite, but there was
+none might see it, nor who bare it. And there was all the hall
+fulfilled with good odours and every knight had such meats and drinks
+as he best loved in this world. And when the Holy Grail had been borne
+through the hall, then the Holy Vessel departed suddenly that they wist
+not where it became; then had they all breath to speak."
+
+Then all the Knights of the Round Table arose and set forth in search
+of the Holy Grail, and through the world they wandered doing deeds of
+might and valour as they passed. But the Holy Grail never came back to
+the earth again, for not all the Knights were pure. Then King Arthur
+grew old and weary and was wounded unto death in battle. "Therefore,
+said Arthur unto Sir Bedivere, take thou Excalibur, my good sword, and
+go with it to yonder water side, and when thou comest there I charge
+thee throw my sword in that water and come again and tell me what thou
+there seest. My lord, said Bedivere, your commandment shall be done,
+and lightly bring you word again. So Sir Bedivere departed and by the
+way he beheld that noble sword, that the pommel and the haft was all of
+precious stones; and then he said to himself: if I throw this rich
+sword in the water, thereof shall never come good but harm and loss.
+And then Sir Bedivere hid Excalibur under a tree. And so, as soon as
+might, he came again unto the King and said he had been at the water
+and had thrown the sword in the water. What saw thou there? said the
+King. Sir, he said, I saw nothing but waves and winds. That is untruly
+said of thee, said the King, therefore go thou lightly again and do my
+commandment, as thou art to me dear, spare not, but throw it in. Then
+Sir Bedivere returned again and took the sword in his hand, and then
+him thought sin and shame to throw away that noble sword and so again
+he hid the sword and returned again and told to the King that he had
+been in at the water and done his commandment. What saw thou there?
+said the King. Sir, he said, I saw nothing but the waters wappe (lap)
+and waves wanne (ebb). Ah traitor untrue, said King Arthur, now hast
+thou betrayed me twice. Who would have weened that, thou that hast been
+to me so dear? and thou that art named a noble Knight would betray me
+for the richness of the sword. But now go again lightly, for thy long
+tarrying putteth me in great jeopardy of my life, for I have taken
+cold. And but if thou do now as I bid thee, if ever I may see thee, I
+shall slay thee with mine own hands; for thou wouldst for my rich sword
+see me dead. Then Sir Bedivere departed, and went to the sword and
+lightly took it up and went to the water side; and there he bound the
+girdle about the hilts and then threw the sword as far into the water,
+as he might; and there came an arm and an hand above the water and met
+it and caught it and so shook it thrice and brandished and then
+vanished away the hand with the sword in the water. So Bedivere came
+again to the King and told him what he saw."
+
+Then came the three Queens and took Arthur in their hands and bore him
+to the barge. They floated out across the seas towards the west and
+there was the sound as of a city rejoicing at the return of a hero.
+
+
+
+
+CHAPTER XIV
+
+THE CONQUEST OF IRELAND
+
+
+Away to the west lay the beautiful country of Ireland. It was known in
+all the world for its riches, and the ships of many lands were seen in
+its havens. For the rivers and seas were full of fish, the pastures
+gave abundant food to the flocks and herds. "Dark was the shadow of the
+corn in their fields" of which "great plenty was sent over-seas," and
+rich was the harvest of their orchards. Merchants came laden with
+spices, figs, pepper and ginger, with wine and carpets and many things
+from the east to offer in exchange for their wealth.
+
+It was the home of craftsmen, skilful in all manner of handiwork. They
+made the beautiful book of Kells, "the great Gospel of Columkill, the
+chief relic of the western world on account of its unequalled cover."
+So wonderful was their work in illuminating and lettering that an
+English writer who saw one of their books in 1185 said that it must
+have been done by angels, not men.
+
+Gold and silver were found in the land, and of these their goldsmiths
+wrought delicate ornaments. Their blacksmiths too were famed for fine
+armour and good weapons.
+
+They were weavers, and their cloth was sold in England; "white and
+green, and russet and red," for they had the secret of making lovely
+dyes. Of the reign of a good King it was said, "In his time, there was
+abundance of dye-stuff." Kings and Queens in far-off lands were anxious
+to buy their cloth for trimming mantles and gowns. The Irish made linen
+too, both fine and coarse, and leather gloves, shoes and belts.
+
+The people of Ireland were given to hospitality and were courteous in
+their ways. They loved rich clothes and beautiful things, and in their
+stories and songs you may still read of the fine golden goblets and
+beakers of horn from which they quaffed their ale, of the dress of
+cloth of gold that the lady donned when she entertained the poets, of
+the crimson velvet mantle bordered with black velvet that the chieftain
+wore on feast-days. Of their wide hanging linen sleeves, an Englishman
+wrote "30 yards are little enough for one of them."
+
+They were singers and makers of song like the Saxon people. They loved
+the harp and delighted in the old stories, such as you may still read,
+of the hero Cuculain and Deirdri of the Sorrows, of Patrick and the
+saints.
+
+William Rufus looking towards this rich country had said: "For the
+conquest of that land, I will gather together all the ships of my
+kingdom and will make them a bridge to cross over." But the King had no
+leisure to set sail for Ireland.
+
+In the days of Henry II, it befell that Dermot, King of Leinster,
+carried off the wife of O'Ruarc, the one-eyed, Prince of Meath, who was
+"heart-struck both by his shame and by his loss." Then he gathered his
+men together and marched against Dermot, "a man tall of stature and
+stout of frame, a soldier whose heart was in the fray and held valiant
+among his own nation. From often shouting his battle-cry, his voice had
+become hoarse. A man who liked better to be feared by all than loved by
+any." So his followers left him and Dermot sought refuge in Bristol.
+
+One of his men, who was sorry at his departure, wrote in the margin of
+the Book of Leinster, where you may still see them, these words: "O
+Mary! It is a great deed that has been done in Erin on this day;
+Dermot, King of Leinster and of the Foreigners, to have been banished
+by the men of Erin over the sea East-wards! Uch, Uch, O Lord! What
+shall I do?"
+
+Now Dermot asked help of the Normans in England, saying:
+
+    Whoever shall wish for land or pence,
+    Horses, trappings or chargers,
+    Gold or silver, I shall give them
+    A very ample pay.
+    Whoever may wish for soil or sod
+    Richly shall I enfeoff them.
+
+The Normans were glad of the promises of gold and of land and willingly
+set sail for Ireland. Strongbow, Earl of Pembroke, was their leader, "a
+man with reddish hair, freckled skin, grey eyes and tall of stature,"
+strong in battle and of much wisdom.
+
+The King of Leinster gave him Eva, his daughter, in marriage. Then did
+the Kings submit to Dermot, for there was much bloodshed and he "made
+Ireland a trembling sod." When the King died, Strongbow succeeded him,
+and Henry II, when he heard the news, was not willing that his barons
+should be lords in a new land. Therefore, he too set sail for Ireland
+that they might do him homage. And all the lords and chiefs came, for
+they feared him.
+
+Then the Norman barons built castles and married Irish ladies, and they
+no more desired to return to England, for Ireland was a country
+abounding in treasure.
+
+"The old chieftains of Erin prospered under these princely English
+lords, who were the chief rulers and who had given up their surliness
+for good manners, their stubbornness for sweet-mildness and their
+perverseness for hospitality."
+
+So Ireland prospered, but it is not easy to find out its ancient
+history, for many of the old books have been lost or burnt and some
+have been used as though they were of no account. "By long lying shut
+and unused," says one writer, hundreds of years ago, "I could hardly
+read," and "by taylors being suffered to cut the leaves of the books in
+long pieces to make their measure" many pages are missing.
+
+
+
+
+CHAPTER XV
+
+THE COMING OF THE FRIARS
+
+
+About this time, Francis, the son of a merchant, was born in Italy in
+the town of Assisi. When he grew up his parents were very proud of him
+and gave him much money, for he dressed gaily, feasted often and led
+the young men of fashion.
+
+Then it chanced that he fell ill and, as he lay upon his bed, he
+thought of the sick and the poor, of the rich monks and the idle
+priests, and he made up his mind when he grew well to live as Christ
+lived among men.
+
+He left his father and mother, to their great sorrow. He gave all he
+had to the poor and dwelt near a ruined chapel beyond the city gates.
+There he busied himself in rebuilding the chapel, and when he came
+amongst men it was with a cheerful countenance and a merry heart to do
+them service.
+
+Though many laughed at him, some desired to become his followers, "and
+those who took upon themselves that life gave away to the poor all that
+they chanced to have. And they were content with one tunic patched as
+they required, within and without, together with a girdle and
+breeches."
+
+In the heat of the day, on the dusty roads, S. Francis and his
+companions trudged along, singing songs of joy and cheering those whom
+they chanced to meet. At night, they sometimes lay out-of-doors,
+singing praises all the while of "Sister moon and the stars bright and
+precious and comely" and watching for the rising of the sun, "that doth
+illumine us with the dawning of day."
+
+For food, they laboured or begged, and of that which was left they gave
+to the poor. One day, when they had done their begging, they met
+together to eat in a place without the city, where was a fine fountain
+and hard by a fine broad stone, upon which each set the alms that he
+had begged.
+
+And S. Francis, seeing that Brother Masseo's pieces of bread were more
+and finer and larger than his own, rejoiced with great joy and said,
+"Brother Masseo, we are not worthy of such vast treasures," and when he
+repeated many times these words, Brother Masseo made answer,
+
+"Father, how can one speak of treasure, where is such poverty and lack
+of all things whereof we are in need? Here is not cloth, nor knife, nor
+plate, nor porringer, nor house, nor table, nor man-servant nor
+maid-servant."
+
+Quoth S. Francis, "And this it is that I account vast treasure, wherein
+is no thing at all prepared by human hands but whatsoever we have is
+given by God, as doth appear in the bread that we have broken, in the
+table of stone so fine and in the fount so clear; wherefore I will that
+we pray unto God that He make us love with all our heart the treasure
+of holy poverty, which is so noble that thereunto did God Himself
+become a servitor."
+
+Of his courtesy and love towards all creatures on the earth, many
+stories are told. "And as with great fervour, he was going on the way,
+he lifted up his eyes and beheld some trees hard by the road, whereon
+sat a great company of birds well-nigh without number, whereat S.
+Francis marvelled and said to his companions, 'Ye shall wait for me
+here upon the way and I will go to preach unto my little sisters the
+birds.'"
+
+"And he went into the field and began to preach unto the birds that
+were on the ground and immediately those that were on the trees flew
+down to him and they all of them remained still and quiet together
+until S. Francis made an end of preaching."
+
+It was a great surprise even to his followers that so many should seek
+him. Quoth Brother Masseo, "I say, why doth all the world come after
+thee and why is it seen that all men long to see thee and hear thee and
+obey thee? Thou art not a man comely of form, thou art not of much
+wisdom, thou art not noble of birth, whence comes it then that it is
+after thee the whole world doth run?"
+
+And as his companions increased in number, he made a journey to Rome to
+desire the Pope to bless their Order. There is a story which may not be
+true that when the Pope saw his untrimmed hair and beard and read the
+rules, which seemed too hard for any man to keep, he made answer, "Go,
+brother, go to the pigs, for you are more like them than men, and read
+to them the rules you have drawn up."
+
+Then Francis humbly bowed his head and went away and coming to a field
+where there were pigs, he rolled in the mud with them. Then he returned
+to the Pope and said, "My lord, I have done as you commanded, grant me
+now, I beseech you, my petition." The Pope was astonished at his
+humility and, repenting of his own harshness, he granted the prayer.
+
+Thus was the order of the Grey Brothers or Friars[3] founded. Soon the
+little Brothers of S. Francis were scattered over the world and many
+joined them in England. They had no possessions, and they travelled
+from place to place preaching to the people and tending the sick and
+the lepers, of whom there were many in sore need.
+
+          [3] French _Freres_, Latin _Fratres_.
+
+
+
+
+CHAPTER XVI
+
+THE THIRD CRUSADE
+
+
+In the time of William Rufus, Peter the Hermit travelled from country
+to country calling all Christian men to follow him to Palestine; for
+the holy places where Christ and His disciples had lived had fallen
+into the hands of fierce men, the Mohammedans. The pilgrims had been
+tortured and forbidden to enter Jerusalem, and their number was great,
+for men of all nations went sometimes in sorrow and carrying rich gifts
+to make their prayers at the tomb of Christ where, it was said, many
+wonders were done. Those who had sinned much sought forgiveness, those
+who were sick desired health and others came to pray for friends and
+patrons.
+
+Therefore the preacher asked of the rich that they should give all that
+they had, and of the strong and valiant that they should fight for the
+banner of the Cross.
+
+And many set out for the war--peasants and princes, French, Italian,
+English and Austrian--to rescue the land that some held dearer than
+their own. In that great company was Robert of Normandy, who had sold
+his dominions to his brother that he might go.
+
+The way was long and perilous, through forests, over mountains, by
+strange towns and across the treacherous sea, and many died of hunger
+or of fever on the journey. Twice did the Christian armies march to
+Jerusalem, yet though they took the city, they could not keep it. Then
+Richard of the Lion-heart, son of Henry II, planned to join the Third
+Crusade, for he was a great soldier and loved war.
+
+The King begged money from everyone for his journey. He invited his
+barons to join him and bring their best men, and from those who would
+not come he asked large sums of money, promising to pray for them when
+he reached Jerusalem.
+
+He seized the treasure of the Jews, for they were a people who worked
+hard and spent little. The Jews were much hated, and when the news went
+abroad that the King had taken their money, the English thought to do
+him service by killing them; but the King was angry, for he had only
+wanted their money.
+
+Then Richard sold the chief offices in his court to those who could pay
+well, caring little how they ruled while he was away. When he had
+gathered treasure enough, he set out with the boldest of his barons,
+and John, his brother, was left to govern England.
+
+After many adventures, he arrived at Acre, and there he found the
+French King and the Austrians and others surrounding the city. Then
+Richard besieged it and took it and the great army made him their
+leader, for they admired his prowess. The French King was much angered
+and returned home, and the Austrian Duke was envious and led his troops
+back to their own land. But Richard marched towards Jerusalem. Over the
+burning desert went the soldiers in their armour, so heavy that if a
+man fell from his horse, he would be stifled to death unless a comrade
+were near to raise him; and the horses found it heavy work in the
+shifting sand. At the rear of the army rode the Knights Hospitallers,
+who had made vows to succour the wounded and those who fell by the way,
+and for this service they were held in high esteem.
+
+The enemy watched in hiding to cut off the stragglers by the way.
+Mounted on swift Arab steeds and clothed in light garments, they moved
+rapidly, and the poisoned arrow was a deadly weapon. When the tired
+soldiers came in sight of Jaffa, it was the season of oranges and the
+time of vintage was at hand, so there they made a camp.
+
+Much refreshed they marched within twelve miles of Jerusalem, but the
+weather was bad and their tents were torn up and whirled away. The
+horses perished of cold and the stores were spoiled and their armour
+grew rusty and many fell ill from long sojourn in this land. There,
+too, Richard received a letter telling him that his brother John was
+plotting to take away his inheritance and that the King of France
+intended to make war on Normandy.
+
+Reluctantly he turned his back upon the Holy City, for he had desired
+above measure to take it. When one of the knights would have pointed it
+out to him in the camp, he snapped the switch he held in his hand and
+cast his surcoat over his head, praying with tears, "O Lord God, suffer
+not mine eyes to behold Thy Holy City, since Thou wilt not suffer me to
+deliver it out of the hands of Thine enemies."
+
+Now the Mohammedans held Richard in great awe. When the officers
+returned to their master after a battle, he asked them mockingly
+whether they were bringing Richard in chains and they answered, "Know,
+O King, for a surety that this Richard of whom you inquire is not like
+other men. In all time, no such soldier has been seen or heard of; no
+warrior so stout, so valiant or so skilled; his onset is terrible, it
+is death to encounter him, his deeds are more than human."
+
+Then Richard made a truce with the valiant Saladin, the ruler of the
+Mohammedans, and this was to last three years and three months and
+three days and three hours, and once again pilgrims were allowed to
+visit the tomb of Christ. Now the King dared not return through France
+for fear of the French monarch, therefore he pretended he was a rich
+merchant, and hiring two ships he sailed for Austria, hoping to make
+his way through that land in disguise. But the Duke of Austria hated
+him almost as much as did the French King.
+
+One evening, Richard sent his page into a city for food, and by mistake
+he carried the King's gloves in his belt and on them was embroidered
+the golden lion of England. And the lord of the castle happening to be
+in the market place saw these and gave orders to follow. Then Richard
+was captured and cast into a donjon to await the Duke's pleasure. The
+Duke demanded a ransom for the King so large that he thought the
+English could not pay it. But Eleanor, the King's mother, rested not
+till she had raised the money, and the English paid gladly.
+
+When the Crusaders returned to their own lands they spoke of the
+strange things they had seen and of the courage of Christian soldiers
+of many nations. Then also the people began to desire spices and silks
+from the East more than ever before, and they must often have longed
+for oranges, figs, grapes and dates, such as these adventurers
+described.
+
+
+
+
+CHAPTER XVII
+
+THE LOSS OF NORMANDY. THE SIGNING OF THE CHARTER
+
+
+By the river Seine, on a high rock, Richard built a fine castle to
+guard Normandy. When the King of France heard of its building, he said,
+"If its walls were of iron I would take it," and Richard replied, "If
+its walls were of butter I would hold it," and he named it Chateau
+Gaillard, Saucy Castle. When Richard died, his brother John did not
+trouble to keep many soldiers there, and the King of France was glad,
+for he desired it greatly.
+
+Eleanor, the King's mother, gathered soldiers for her son, and though
+she was very old she did her best to save Normandy. Yet Saucy Castle
+fell and the Norman barons would not fight for John. So Normandy was
+lost and the barons had to choose between their French lands and their
+English lands. Many, who were fierce and turbulent, went to live in
+Normandy, and those who had learned to love their new country stayed in
+England. Though they still spoke French they served England well and
+tried to make the King rule more justly.
+
+Now the people of England had been proud of Normandy and they were
+angry with John because he had lost it. In his days, too, there was a
+great quarrel between the King and the Pope, and the priests were
+forbidden to hold any services in England, and for five years the
+churches and monasteries were closed, the dead were buried without
+prayer in the ditches and highways, and no one could marry in church.
+
+"The images of saints were taken down and veiled; the frequent tinkle
+of the convent bell no longer told the serf at the plough how the weary
+hours were passing or guided the traveller through the forest to a
+shelter for the night." The people grew afraid, and they hated the
+King, who was the cause of much evil.
+
+Yet John did not care, and he would not receive the new Archbishop whom
+the Pope had sent. Then the Pope banished the King from the Church and
+declared him an outlaw, whose life any man might take, and still the
+King had no fear. At last, the Pope offered the English crown to the
+French King and John knew that the French King was a dangerous enemy,
+therefore he promised to do whatever the Pope wished.
+
+So the new Archbishop, Stephen Langton, was received by the King. Soon
+he began to talk with the barons of the wrongs that the King did daily
+in the land, and they searched for the old charter that Henry I had
+given his people. Then they drew up the Great Charter, asking the King
+to grant them justice.
+
+John met the barons and the Archbishop in a meadow near Windsor, called
+Runnymede. When he saw the charter he said, "These articles are pure
+foolishness! Why do they not ask me for the Kingdom at once? I will
+never give them such freedom as would make me a slave." But looking
+round at the fierce barons there, unwillingly he set his seal to it.
+
+Thus the King promised that no freeman should be imprisoned without a
+trial by his equals, that no one should be fined so heavily that he
+could not pay or that he had to give up the tools by which he earned
+his daily bread. He promised too that he would not take money from his
+people without asking the advice of his council and that he would let
+the merchants come and go freely in the land.
+
+In London, you may still see the old charter signed by the barons who
+were present, and bearing the King's seal, and when you are able to
+read it, you can find out what other promises the King made that day.
+
+
+
+
+CHAPTER XVIII
+
+THE LAWS OF EDWARD I AND THE FIRST PARLIAMENT
+
+
+IN the days of Henry III, the barons had become powerful, and his son
+Edward I remembered the days of Stephen and how the great lords had
+destroyed "the good peace" of the realm, and he wisely framed the laws
+against them.
+
+Now the King had grown poor and the barons had grown rich. They did not
+care to pay their taxes, so they pretended to give their lands to the
+Church. These lands were then "in the dead hand" because the Church
+held them for ever and owed nothing to the King. Yet all the time, the
+priests took their share and the lands were still held by the barons,
+free of all dues to the King. So the King forbade any man to give lands
+to the Church without his permission.
+
+Again, many had taken lands which did not belong to them and seized the
+King's dues in the courts and no one had made inquiries since Domesday
+Book was written. The King sent round his messengers to ask by what
+right they held their lands and courts, and the barons were angry. One
+man drew out his sword and defied the King, saying, "My ancestors came
+over with William and won the lands with their sword, and with the
+sword I will keep them." The King made other laws and the barons feared
+him.
+
+Edward desired that the people in the towns should prosper, for he
+hoped to get money from the traders. Much complaint was made that the
+roads were in danger from lurking bands of robbers and the cities too
+were unguarded. The merchants suffered most, for their mule packs,
+carrying merchandise, had to be strongly guarded. So the King gave
+orders concerning the watch and ward and bade the townsmen search out
+the evil doers or pay heavy fines for every crime done in their
+boundaries.
+
+The gates of the towns were to be shut from sunset to sunrise and the
+trees and undergrowth were to be cut down for a distance of 200 feet on
+either side of the highway, lest they gave shelter to men with evil
+intent.
+
+  [Illustration: A COURT OF JUSTICE IN THE 15TH CENTURY
+
+    Duke of Alencon condemned for treason by Charles VII, King of
+    France, 1458
+
+    The figure of the artist is to be seen inside the barrier, turning
+    from the scene as though he were not interested]
+
+  [Illustration: THE PARLIAMENT OF EDWARD I
+
+    This picture probably dates from the 16th century]
+
+Then the King planned to take not only from the richest of the nobles
+and the priests but also from the treasure chests of the citizens. When
+he was about to make war and desired money, he sent out a letter asking
+not only the bishops and barons to meet him but two knights from every
+shire and two citizens from every city and two burgesses from every
+borough.
+
+The new comers were at first flattered to sit with the great barons,
+but soon they found it very troublesome, for the King asked for much
+money, the journey to the meeting place was often long and dangerous
+and the King would take no excuses for absence. Then the members began
+to find fault with the King and to ask how he spent the money, and they
+made even the strong man Edward sign again the Great Charter.
+
+There is an old picture of one of these parliaments and in it the
+artist has drawn, not only the two Archbishops seated on either side of
+the King but also the King of Scotland and the Prince of Wales, but
+this no doubt he did to show the power of Edward I over these princes,
+for they never really were in Parliament. The judges sat on the four
+woolsacks which faced one another. On the right of the King sat the
+Archbishops, Bishops and Abbots; on the left, the great lords; and
+opposite him the Commons stood.
+
+
+
+
+CHAPTER XIX
+
+THE CONQUEST OF WALES
+
+
+In the old days, the Britons had fled before the Northmen, who came
+conquering from the east-ward; but those who dwelt in the mountain
+fastnesses of the west had been secure from Saxon and Norman foes.
+Their country was called Wales or the land of the foreigner, by all who
+heard of it. Between England and Wales lay the borderland or Marches as
+the Normans named it, and there the troublesome Norman barons had been
+given lands by the King to keep them far from the court and busy with
+their wild neighbours.
+
+When Edward ruled in England, Llewelyn, "towering above the rest of
+men, with his long red lance, and red helmet of battle, crested with a
+fierce wolf," was Prince of Snowdon. The bards sang of his fame and
+prophesied that he should rule from sea to sea. "Men spoke of the
+return of King Arthur, they whispered that the Northmen should be
+driven back to their fatherland" and the nation waited in expectation.
+
+Llewelyn desired to marry the daughter of one of the Lords of the
+Marches and to find friends among those barons. Edward, fearing this,
+captured the bride on her way to Wales and summoned the prince to
+London to do homage for his lands; but he would not come.
+
+"We dare not submit to Edward," said the Welsh, "nor will we suffer our
+prince to do so, nor do homage to strangers whose tongue, ways and laws
+we know nought of."
+
+So the King raised an army and marched into their country by way of the
+old Roman road along the north coast. His army marched untroubled with
+heavy stores and baggage, for Edward was a great soldier and had
+planned that his fleet should attend him, sailing in sight of the
+coast, till they reached the island of Anglesey, the granary of the
+Welsh.
+
+As he marched, he gave orders to build strong castles. Builders and
+architects were as busy as soldiers and there was great rivalry amongst
+them. Some boasted of the number of towers, some of their size, some of
+the speed at which they were able to build. The fine castle of Conway
+was made from the stones of a stronghold close by. Carnarvon and
+Beaumaris were built to guard the island of Anglesey, and Caerphilly
+looked towards the lands of the South Welsh.
+
+Llewelyn, hidden in the wilds of Snowdon, hoped ever that the King
+would risk a march into these unknown paths, but he waited in vain.
+Then Llewelyn fought on the coast road, but with dismay he saw himself
+cut off on all sides but one, and, looking towards the south, he knew
+it to be his only way of escape, and that was the land of his enemies.
+There, it is said, he died, by the treachery of the South Welsh, as he
+stood upon the bank of a river, but the South Welsh say that he was
+slain in battle by his enemies, the English.
+
+Then Edward summoned the Welsh to meet him at Carnarvon Castle, where
+he promised they should do homage to a new Welsh Prince, whom he would
+choose. When the day came, he showed to them his eldest son, who had
+just been born at Carnarvon, and they paid homage.
+
+Among the laws which he made, he bade the Welsh speak English, but to
+this day they can speak in their own tongue. "My people," said the
+Welsh chieftain, "may be weakened by your might and even in great part
+destroyed, but unless the wrath of God be on the side of its foe it
+will not perish utterly, nor deem I that other race or other tongue
+will answer for this corner of the world before the Judge of all at the
+last day save this people and the tongue of Wales."
+
+
+
+
+CHAPTER XX
+
+THE WAR WITH SCOTLAND
+
+
+The old King of Scotland, dying, left his kingdom to his little
+granddaughter, the Maid of Norway, who was only seven years old. Edward
+planned to marry her to his son the Prince of Wales and so make England
+and Scotland one kingdom. He sent a ship to bring her from Norway in
+the winter and he stored it with good things, with toys and sweetmeats
+for the voyage.
+
+The weather was stormy and Margaret died on the voyage. There was much
+woe in Scotland and trouble in the English King's mind. Many Scottish
+nobles claimed the crown and they asked Edward to choose amongst them.
+It was a difficult matter but Edward was trusted, for all men praised
+him as the Lion of Justice.
+
+He chose Balliol to rule over them, but this man proved himself of no
+wisdom and little counsel and his rivals Bruce and the Red Comyn were
+more powerful than he.
+
+Balliol thought to win favour of the Scots by defying the English King.
+Edward then harried the land and carried off the Stone of Destiny from
+Scone. This stone was said to be Jacob's Pillow and had been brought to
+Ireland long ago and thence into Scotland. On it, all the Kings of
+Scotland had sat to be crowned and it was put in Westminster Abbey,
+where it still lies underneath the coronation chair. English barons
+were sent to rule Scotland but they were not so wise as Edward and
+there was bitterness among the people.
+
+In their distress, they found a leader in William Wallace, who drilled
+them to fight on foot against the foreigner, for they were too poor to
+buy horses and ride into battle in costly armour. On the field, they
+stood close together, shoulder to shoulder, awaiting the onslaught of
+the knights, and then they fought with spear and battle-axe.
+
+The English soldiers were taken by surprise, for they had never heard
+of such a strange army nor seen such steady ranks of men. Edward,
+however, was a thoughtful general, and he soon learned to use his Welsh
+archers to trouble the Scots and break their lines. Yet when they were
+driven from the field, he found he could not rule in Scotland as he had
+done in Wales, for it was a barren land and the Scots were a hardy
+people.
+
+Now there was a great feud between Bruce and the Red Comyn. One day
+when the two met, they entered a church to talk and Bruce killed his
+foe on the steps of the high altar and, rushing out, he cried to his
+men, "I doubt I have slain the Red Comyn." "Ye doubt? I make certain,"
+cried one of his followers as he pushed his way into the church.
+
+The people of Scotland were angry for this sin in their hero, but they
+could not do without him, for Wallace had been caught and hanged as a
+traitor. So they crowned the Bruce in the old city of Scone, and the
+golden circlet was placed upon his head by the Countess of Buchan,
+whose husband was with the invader.
+
+Many stories are told of these times and of the high courage of the
+Scots, for there were great perils in this strife and there was hunger
+and cold and faithlessness.
+
+Hearing of the deeds of this man, who had once paid vows to him,
+Edward, now an old man, led his armies northward again. There on the
+Borderland he died, leaving this charge to his son, that he should rest
+neither day nor night till he was prince of Scotland also.
+
+Yet the young King turned his face towards London to make ready for his
+coronation and wedding. Then the Bruce became indeed King of Scotland,
+and seven years afterwards, when it was too late, the English King
+marched with his men to the field of Bannockburn. There he was defeated
+and from the shame of that day he could never escape.
+
+The Scots harried the north of England for many a year. They rode on
+swift ponies, carrying only a tin platter and a bag of oatmeal for
+food, drinking from the streams and eating flesh when they could catch
+wild deer or mountain sheep or the fat oxen in the pastures. It was a
+hard matter to find this army, for they rode hither and thither
+silently, surely and swiftly. Thus was Scotland separated from England
+for many a generation.
+
+
+
+
+CHAPTER XXI
+
+THE WAR WITH FRANCE
+
+
+In the days of "the courteous knight" and King, Edward III, a great war
+was waged with France, for the English merchants complained bitterly
+that the French had troubled them as they passed bearing wool to the
+great markets. So bold had the French become that they had harried the
+Isle of Wight and burned many villages along the southern shore.
+
+As the King passed over seas to make war, he came in sight of the
+harbour of Sluys, "and when he saw so great a number of ships that
+their masts seemed to be like a great wood, he demanded of the master
+of his ship what people he thought they were."
+
+He answered and said, "Sir, I think they be men laid here by the French
+King, and they have done great displeasure in England, burnt your town
+of South Hampton and taken your great ship, Christopher." "Ah," quoth
+the King, "I have long desired to fight with the Frenchmen, and now
+shall I fight with some of them by the grace of God and S. George."
+
+The battle began with the sound of trumpets and drums and other kinds
+of music and "it endured from the morning till noon, for their enemies
+were four to one and all good men of the sea." But the English fought
+so valiantly that they obtained the victory and Edward received the
+title of Lord of the Seas.
+
+Some years later, Edward led his men into France to take Paris, but he
+found that a great army was drawn up to defend the city and that the
+bridges over the rivers had been destroyed. Many of his soldiers fell
+sick, so he hastened towards Calais. Then the French King gave chase.
+
+On the hill of Crecy, Edward III drew up his men to await the enemy.
+While they were waiting, a great thunderstorm burst over the land, and
+the King gave orders that the archers should cover their bows with
+their cloaks lest the heavy rain should spoil them. But the French
+King, in his haste, urged his men forward, and, wet and weary, they
+came in sight of their foe.
+
+When the French King saw the hosts on the hill, "he hated them" and
+bade the Italian crossbowmen, whom he had hired, begin the attack. They
+said their strings were slack and they could not fight that day, but he
+called them cowards and bade them fall on.
+
+As they advanced into battle, the sun shone in their faces, and when
+they drew near "the Italians made a great leap and cry to abash the
+English but they stood still and stirred not for all that. And a second
+time, they made another leap and a dreadful cry and stepped forward a
+little but the Englishmen removed not one foot. Again they leapt and
+cried and went forward till they came within shot, then the English
+archers stepped forward one pace and let fly their arrows so hotly and
+so thick that it seemed snow. When the Italians felt the arrows
+piercing through their heads, arms and breasts, many of them cast down
+their cross-bows and cut their strings and ran back discomfited."
+
+When the French King saw them fleeing, he said, "Slay those rascals,
+for they will hinder us and block up our path for nothing." Then the
+men-at-arms dashed in among them and killed a great number and still
+"the English kept shooting wherever they saw the thickest press and the
+sharp arrows ran into the men-at-arms and into their horses and many
+fell among the Italians and when they were down they could not get up
+again, for the press was so thick that one overthrew the other."
+
+It was in this battle that gunpowder was first used, but the cannon was
+only fired once an hour, and then it frightened those who stood by more
+than the enemy.
+
+The Prince of Wales, who was but sixteen years old, was hard-pressed by
+the horsemen of France, and the Knights under his banner sent a
+messenger to his father, the King, who was watching the battle from a
+windmill on the hill.
+
+"Is my son dead or hurt or felled to the ground?" asked Edward.
+
+"No sir, but hardly pressed."
+
+"Then go back to them that sent you and tell them to send to me no more
+whatever betide as long as my son is alive, and bid them let him win
+his spurs, for, please God, I wish this day and the honour thereof to
+be his and those that are with him." And they that heard it were
+greatly encouraged.
+
+The old King of Bohemia, fighting for the French, was led into battle
+by four of his comrades, for he was dim of sight. There he fell
+fighting, and his crest of three black feathers, with the motto, "Ich
+Dien," "I serve," was taken by the Prince and has been worn by his
+successors ever since.
+
+The French King was wounded and his soldiers scattered in dismay. Then
+the English made great fires and lighted up torches and candles, for it
+was very dark. And the King came down to the field and said to his son:
+
+"Fair son, God give you good perseverance, ye are my good son, thus ye
+have acquitted you nobly; ye are worthy to keep a realm." The prince
+inclined himself to the earth, honouring his father.
+
+
+
+
+CHAPTER XXII
+
+THE WAR WITH FRANCE (_continued_)
+
+
+Calais was the great port of Northern France. It was a strong town and
+the King besieged it. For eleven months it held out against him. The
+King was sore displeased that he should tarry so long before its gates,
+and when the citizens desired to make peace he demanded that six
+burgesses, bare headed, bare footed, in their shirts, with halters
+about their necks and with the keys of the castle and town in their
+hands, should give themselves as a ransom for the inhabitants.
+
+The bell in the market place was sounded and the people assembled. When
+they heard this "they began to weep and make much sorrow." At last the
+richest burgess of all the town, called Eustace of Saint Pierre, rose
+up and said openly, "Sirs, great and small, great mischief it should be
+to suffer such people as be in this town to die by famine or otherwise,
+wherefore to save them, I will be the first to put my life in
+jeopardy."
+
+Then another honest burgess rose and said: "I will keep company with my
+gossip Eustace," and so the six offered themselves and went and
+apparelled them as the King desired.
+
+When they were brought into the camp, they begged for mercy, "then all
+the earls and barons and others that were there wept for pity. The King
+looked felly (cruelly) on them, for greatly he hated the people of
+Calais for the great damages and displeasures they had done him on the
+sea before."
+
+Then he commanded their heads to be stricken off. Every man requested
+the King for mercy but he would hear no one on their behalf.
+
+"They of Calais have caused many of my men to be slain, wherefore shall
+they die like-wise."
+
+Then the Queen kneeled down and sore weeping said, "Ah, gentle sir,
+since I passed the sea in great peril, I have desired nothing of you,
+therefore now I humbly require you in honour of the Son of the Virgin
+Mary, and for the love of me, that ye will take mercy on these six
+burgesses."
+
+The King beheld the Queen and stood still in a study a space and then
+said: "Ah dame, I would ye had been now in some other place, ye make
+such request to me that I cannot deny you. Wherefore I give them to you
+and do your pleasure with them."
+
+"Then the Queen caused them to be brought into her chamber and made
+their halters to be taken from their necks and caused them to be new
+clothed and gave them dinner at their leisure and then gave them each
+some gold and made them to be brought out of the host in safeguard and
+set at their liberty."
+
+This is the story told by Froissart, who attended on the Queen, and
+thus did Calais fall into the hands of the English, and over its
+portals the conquerors inscribed the proud boast,
+
+    Then shall the Frenchmen Calais win
+    When iron and lead like cork shall swim.
+
+
+
+
+CHAPTER XXIII
+
+THE BLACK DEATH, AND THE PEASANTS' REVOLT
+
+
+In those days, the great men of the land were rich and they dressed
+gaily in silk and fur, gorgeous were their jewels, and their scabbards
+were decked with beauteous workmanship. From their bridles jangled the
+merry bells, as they followed their hounds to the hunt.
+
+The court too was magnificent. The King gave bounteous feasts and there
+were many dishes set before the guests.
+
+"There came in at the first course, before the King's self,
+
+    Boars' heads on broad dishes of burnished silver,
+    Flesh of fat harts with noble furmenty,
+    And peacocks and plovers on platters of gold,
+    Herons and swans in chargers of silver,
+    And tarts of Turkey full pleasant to taste.
+    Next hams of wild-boar with brawn beglazed,
+    Barnacle-geese and bitterns in embossed dishes,
+    Venison in pasties, so comely to view,
+    Jellies that glittered and gladdened the eye.
+    Then cranes and curlews craftily roasted,
+    Conies in clear sauce coloured so bright,
+    Pheasants in their feathers on the flashing silver,
+    With gay galantines and dainties galore.
+    There were claret and Crete wine in clear silver fountains
+    Rhenish wine and Rochelle and wine from Mount Rose
+    All in flagons of fine gold; and on the fair cupboard
+    Stood store of gilt goblets glorious of hue,
+    Sixty of one set, with jewels on their sides.
+
+When the banquet was over the guests washed their hands in rosewater
+and partook of wine and spices in another chamber.
+
+But the poor were much oppressed. Their fare was very simple, a loaf of
+beans and bran, an oaten cake with cheese or curds and cream, and
+sometimes perhaps parsley and leeks or cherries and apples in their
+season.
+
+Of the poor ploughman, the poet sang,
+
+    His coat of the cloth that is named carry-marry,
+    His hood full of holes, with the hair sticking through them;
+    His clumsy knobbed shoes cobbled over so thickly,
+    Though his toes started out as he trod on the ground,
+    His hose hanging over each side of his hoggers,
+    All plashed in the puddles as he followed the plough;
+    Two miserable mittens made out of old rags,
+    The fingers worn out and the filth clotted on them,
+    He, wading in mud, almost up to his ankles,
+    And before him four oxen, so weary and feeble,
+    One could reckon their ribs, so rueful were they.
+    His wife walked beside him, with a long ox goad,
+    In a clouted coat cut short to the knee,
+    Wrapped in a winnowing sheet to keep out the weather,
+    Her bare feet on the bleak ice bled as she went.
+    At one end of the acre, in a crumb-bowl so small,
+    A little babe lay, lapped up in rags,
+    And twins two years old tumbled beside it,
+    All singing one song that was sorrowful hearing,
+    For they all cried one cry, a sad note of care.
+
+A year after the siege of Calais, a great sorrow befell all men, for a
+little ship coming out of the east brought a terrible plague, called
+the Black Death. And the wind blew the plague from the south to the
+north, and as it passed, the towns were left desolate, for the rich
+escaped into the woods and many of the poor died. In Bristol, "the
+living were scarce able to bury the dead and the grass grew several
+inches high in Broad Street and High Street."
+
+When the wind reached the border of Scotland, it changed and blew from
+the north-west and down the eastern coast of England it sped, slaying
+thousands by the way. When it was gone, the lords could find but few to
+gather in the harvest and those that were left demanded high wages.
+Many landowners turned their fields into pastureland. For one shepherd
+and his dog could look after many sheep and there were merchants in
+Calais ready to buy English wool.
+
+In vain did the lords beg the King to forbid the labourer to ask for
+hire. If a man fled from his lord's land, whereon he was born, he
+should be branded with the letter F for fugitive, but still the
+peasants got away and offered themselves for hire in other places and
+those for whom they laboured were glad to have them.
+
+The peasants had many grievances. The wars with France had cost much
+money and the taxes were heavy. There were few who gave thought to the
+labourer and his troubles, for the monks had become idle and rich, and
+the friars had forgotten their vows and the priests their duties.
+
+Among the people, there was a band of sturdy men, who had learned to
+read and who took ideas of freedom from the Bible. They preached that
+the peasants should take up arms against the King and his lords, for
+they said, "they are clothed in velvet and warm in their furs and their
+ermine, while we are covered with rags. They have wine and spices and
+fine bread and we oat cake and straw and water to drink. They have
+leisure and fine houses, we have pain and labour, the wind and the rain
+in the fields. Yet it is of us and our toil that these men hold their
+state," and the people said
+
+    When Adam delved and Eve span
+    Who was then the gentleman?
+
+So the peasants planned to march to London to seek the new King, the
+boy Richard II, who was but fifteen years old, and "armed with clubs,
+rusty swords and axes, with old bows, reddened by the smoke of the
+chimney corner and old arrows with only one feather," they came to the
+city, only to find that the gates were shut.
+
+Then they threatened to burn and slay, and the citizens in their fear
+said, "Why do we not let these good people enter into the city? They
+are our fellows and what they do is for us." So the gates of the city
+were opened and the peasants sat down in the houses to eat and drink
+and afterwards they burned the dwellings of foreigners and great lords
+and slew many.
+
+The King was left alone in the Tower, for the courtiers had fled, and
+desiring to speak with the rebels, he rode out to an open space beyond
+the city where they were gathered, and there he entered in among them
+and said to them sweetly, "Ah, ye good people, I am your King. What
+lack ye? What will ye say?"
+
+Such as understood him answered, "We will that ye make us free for
+ever, ourselves, our heirs and our lands."
+
+  [Illustration: PREPARING THE FEAST]
+
+  [Illustration: THE FEAST]
+
+"Sirs," said the King, "I am well agreed thereto; withdraw you home
+into your houses and into such villages as ye came from and leave
+behind you of every village two or three and I shall cause writings to
+be made and seal them with my seal, the which they shall have with
+them, containing everything that ye demand." They said, "It is well
+said, we desire no better," and so they returned to their own homes.
+
+The King could not keep his promise to the peasants, for the lords were
+stronger than he, yet not long after this time we find the peasants
+more free and labouring for hire.
+
+
+
+
+CHAPTER XXIV
+
+THE WAR WITH FRANCE (_continued_)
+
+
+When Henry V was crowned King, he desired much to revive the glories of
+Crecy and so he summoned his nobles to war. Then he built a great fleet
+to carry them to France, cutting down the oak trees in the Forest of
+Epping for that purpose.
+
+He was much loved by all his soldiers, "for in wrestling, leaping and
+running, no man could compare with him. In casting of great iron bars
+and heavy stones, he excelled all men, never shrinking at cold, nor
+slothful for heat; and when he most laboured, his head commonly
+uncovered; no more weariness of light armour than a light coat, very
+valiantly abiding at need both hunger and thirst, so manful of mind as
+never to seem to quinch at a wound or to smart at the pain."
+
+When he came into the realm of France, he laid siege to the strong city
+of Harfleur. It was summer time and many of the soldiers fell sick.
+Though the town was captured, Henry could but turn his back on Paris
+and march homeward on the old road to Calais, as his great-grandfather
+Edward III had done in like case.
+
+"The English were brought into some distress in this journey, by reason
+of their victuals in manner spent and no hope to get more: for the
+enemies had destroyed all the corn before they came. Rest could they
+none take, for their enemies with alarms did ever so infest them; daily
+it rained and nightly it freezed; of fuel there was great scarcity;
+money enough, but wares for their relief to bestow it on had they none.
+Yet, in this great necessity, the poor people of the country were not
+spoiled nor anything taken of them without payment, nor any offence
+done by Englishmen."
+
+In the French camp, there was much strife and discontent, yet when the
+news of the English King's distress reached them, and they sent after
+him their herald to demand ransom, the King answered with scorn. So
+Mountjoy, King-at-arms, was sent to the King of England to defy him as
+the enemy of France and to tell him that he should shortly have battle.
+King Henry advisedly answered, "Mine intent is to do as it pleaseth
+God. I will not seek your master at this time, but if he or his seek me
+I will meet them, God willing." When he had thus answered the herald,
+he gave him a princely reward and licence to depart.
+
+Then the French, coming to the field of Agincourt, and seeing how small
+an army stood before them, sent the herald once again to seek a ransom.
+Henry answered that he would never pay such ransom. "When the messenger
+was come back to the French host, the men of war put on their helmets
+and caused their trumpets to blow to the battle."
+
+As the English soldiers looked at the great host before them, there
+were some who sighed for the thousands lying idle in England. Henry,
+hearing them, answered, "I would not have a single man more. If God
+give us the victory it will be plain that we owe it to His grace. If
+not, the fewer we are, the less the loss for England." "What time is it
+now?" he asked. "The bells are ringing prime [six o'clock], my lord,"
+answered the Bishop. "Now it is good time," said the King. "England
+prayeth for us, let us be of good cheer. Banners advance!"
+
+Then these Frenchmen came pricking down, as they would have over-ridden
+all our company. But God and our archers made them soon to stumble, for
+our archers shot never arrow amiss that did not pierce and bring to
+ground horse and man. And our King fought like a man, with his own
+hands. So were the French put to rout, though they indeed had been
+strong in their pride.
+
+Then the King passed into England and "in this passage the seas were so
+rough and troublous" that two ships were driven ashore, and the French
+prisoners said they would rather fight in another battle than cross the
+seas again. As they came in sight of the shore, the townsmen of Dover
+came out to meet them, wading waist-deep in the water, so great was
+their joy at the news. Bonfires were lit and bells were rung and money
+was freely given to the soldier King.
+
+"The mayor of London and aldermen, apparelled in orient grained
+scarlet, and four hundred commoners, clad in beautiful mulberry cloth,
+well-mounted and trimly horsed, with rich collars and great chains met
+the King on Blackheath, rejoicing at his return, and the clergy of
+London, with rich crosses, sumptuous copes and massy censors, received
+him at S. Thomas of Waterways [on the Old Kent Road] with solemn
+procession."
+
+It was not long before he set out again to win back Normandy, lost by
+John long ago. He laid siege to its chief city, where there was much
+suffering, of which the King had pity.
+
+    Of the people to tell the truth
+    It was a sight of mickle ruth;
+    Much of the folk that was therein
+    They were but bones and the bare skin
+    With hollow eyes and face a-peak,
+    They scarce had strength to breathe or speak.
+
+When the city surrendered, the King, "clothed in black damask, mounted
+on a black horse, with a squire behind him, bearing a fox-brush on a
+spear, for a banner, rode to the minster to give thanks for his
+victory."
+
+Then Henry marched on towards Paris, for "he had such knowledge in
+ordering and guiding an army with such a gift to encourage his people
+that the Frenchmen had constant opinion he would never be vanquished in
+battle." The Dauphin of France was idle and the old French King ill, so
+it befell that Henry married the French Princess and ruled Northern
+France.
+
+To the sorrow of all men he died soon after, and his son when he grew
+up had many troubles; for in those days, a soldier was held more in
+honour than a poet and a dreamer.
+
+Some years after Henry's death, Joan of Arc appeared to rescue her land
+from the enemy, for there was no hope either in the Dauphin who should
+have been its King or among the French lords who had lost their honour.
+
+Joan described how it happened to her in these words, "At the age of
+thirteen, I had a voice from God to guide me, and the first time I was
+very frightened; this voice came at the hour of noon in summer time, in
+my father's garden; it was on a fast day, I heard the voice on the
+right side where the church is. I saw at the time a great light."
+
+Then the Archangel Michael addressed her desiring that she should "have
+pity on the fair realm of France." She answered him, "Messire, I am but
+a poor maiden; I know not how to ride to the wars or to lead
+men-at-arms." But the voices were ever in her ear.
+
+When her friends desired her not to go, she answered them, "I had far
+rather rest and spin by my mother's side; for this is no work of my
+choosing, but I must go and do it, for my Lord wills it." "And who is
+your Lord?" they asked. "He is God," she said.
+
+When she had come with much danger and trouble to the place where the
+Dauphin lay, she desired to see him, but those that stood round mocked
+her.
+
+Coming into the presence, she said, "Gentle Dauphin, my name is Jeanne
+the Maid. The Heavenly King sends me to tell you that you shall be
+anointed and crowned in the town of Reims and you shall be lieutenant
+of the Heavenly King, who is the King of France."
+
+After many weary days, the Dauphin considered her message and he gave
+to her some of his armed men that she might prove that God was on her
+side. He bade her go to get back the good city of Orleans, which was in
+dire need by reason of the great armies of the English encamped round
+about it.
+
+Then was the might of the maid proved, for no sooner had her standard
+touched the walls of the city than the town was saved. Soldiers, who
+had scoffed or stood aside, now joined her. Thus was she able to march
+through the land in triumph to the city of Reims, where it was the
+custom to crown the Kings of France, and in the host there marched the
+Dauphin.
+
+In that city, she crowned the King, and the English fell back at the
+terror of her name. Then kneeling before the King, she said, "O gentle
+King, the pleasure of God is done, would it were His pleasure that I
+might go and keep sheep once more with my sisters and my brothers. They
+would be rejoiced to see me again."
+
+The King dared not let her go, yet she had many enemies, for the lords
+of France did not care to think that she had led their armies. To their
+bitter shame, they made little effort to save her from the English and
+she was burnt as a witch. From that day, the English gradually lost all
+France save Calais.
+
+So the victories of Henry V were of no avail and there was much poverty
+in England and murmuring against the rulers.
+
+
+
+
+CHAPTER XXV
+
+NEW WORLDS
+
+
+The barons came back from France. They were practised in the art of war
+and they turned their homes into strong forts and their servants into
+soldiers. Of these, they found many who were well versed in arms and
+ready to fight. They gave them food and lodging for their services and
+liveries to distinguish them from the followers of their neighbours and
+they no longer fought for the King but each for his own gain.
+
+The squires in the manors and the merchants in the towns stood in awe
+of these unruly subjects of the realm, but against them there was no
+remedy, and every man was forced to choose out a lord to protect him.
+
+Of the long wars which these men waged, fighting for the rival princes
+of York and Lancaster, for the white and the red rose, and of the havoc
+that they wrought in the land, there are many stories.
+
+Though the barons made war on one another, the citizens held their
+markets and fairs and worked with skill in their trades. Foreigners
+desired to buy, and they were anxious for peace with a country that
+could give them the finest wool. More ships were built to cross the
+narrow seas, and they were free to come and go, since England watched
+them from her two eyes, Calais and Dover.
+
+The merchants began to use more of their own good wool and many skilled
+craftsmen were needed for cloth making. First the wool was sorted and
+the coarse taken from the fine, then it was dyed, orange, red, green,
+russet made from madder, or blue from woad, a flower, which grew
+abundantly in France. The carder came next and the spinster spun it
+into long threads on her distaff.
+
+    The weaver next doth warp and weave the chain,
+    Whilst Puss, his cat, stands mewing for a skein.
+
+The cloth was cleaned and thickened by the walkers, who trampled it in
+a trough of water and stretched it upon tenters to dry. Then came the
+rower who beat it with teazles to find out all the loose fibres and the
+shearman stood by with shears to cut off the knots and ends when they
+appeared. Before it was sold, the drawer must mend any holes or bad
+places in it:
+
+    The drawer last that many faults doth hide,
+    (Whom merchant nor the weaver can abide)
+    Yet is he one in most clothes, stops more holes
+    Than there be stairs to the top of S. Paul's.
+
+  [Illustration: A CHRISTIAN OF CONSTANTINOPLE BORROWING MONEY FROM A
+  JEW AND PLEDGING HIS CRUCIFIX]
+
+  [Illustration: MIELOT IN HIS STUDY]
+
+  [Illustration: A PRINTING PRESS]
+
+They worked as a rule from five in the morning till seven at night in
+summer and from dawn till dusk in winter, with half an hour for
+breakfast, and an hour and a half for dinner and a sleep on hot days.
+There was a holiday for every festival of the Church.
+
+Of Jack of Newbury's workshop we read,
+
+    Within one room being large and long
+    There stood two hundred looms full strong;
+    Two hundred men, the truth is so,
+    Wrought in these looms all in a row.
+    By every one a pretty boy
+    Sate making quils with mickle joy,
+    And in another place hard by
+    An hundred women merrily
+    Were carding hard, with joyful cheer,
+    Who singing sate with voices clear.
+    And in a chamber close beside
+    Two hundred maidens did abide,
+    In petticoats of stammel red,
+    And milk-white kerchers on their head.
+
+Those who worked in one trade bound themselves together into a gild,
+and often lived in one quarter of the city to protect one another;
+those who desired to become members must serve seven years'
+apprenticeship. To guard their honour, the masters made a strict rule
+that no work should be sent to market until it had been inspected and
+found well done.
+
+If a man fell ill, he received help from the gild. When the feast days
+came round and all made holiday, the elders of the gild provided a
+banquet and pastimes, and sometimes they welcomed the players who acted
+stories from the Bible and old legends. There was dancing and feasting
+and much merriment.
+
+So the citizens became more important than great barons and soldiers,
+for they brought trade to the country and riches to the King's
+Exchequer.
+
+A new world, too, was opening to the people, the world of books. With
+care the monks had copied down the old stories and histories, but there
+were few who could procure them to read.
+
+The printing press was brought to England by Caxton. He was an English
+merchant, trading in the city of Bruges. It was his custom to spend his
+spare time in reading Latin and French stories. He translated the story
+of Troy into English, and the Duchess of Burgundy and her courtiers
+liked it so much that they asked him to write several copies. He says
+that his pen was so much worn, his hand so weary and his eyes so dim
+that he thought it worth while to learn the art of printing from those
+who could teach him.
+
+Then he brought a press to London, and out of his shop he hung a sign
+"Books bought here good cheap." Only the rich could buy, for books were
+very dear. He printed the stories of King Arthur and also the Golden
+Legend, or Lives of the Saints, Reynard the Fox and many another tale.
+That the poorer folk might also read, he printed a few sheets of poems
+and fables. Among them was a book of good teachings for children. In
+this he bade them,
+
+    Arise early
+    Serve God devoutly
+    The world busily
+    Go thy way sadly [seriously]
+    Answer demurely
+    Go to thy meat appetently
+    And arise temperately.
+
+      And to thy soup [suppers] soberly
+      And to thy bed merrily
+        And be there jocundly
+        And sleep soundly.
+
+It was at this time that scholars were beginning to read the old
+writings of the Greeks, and there were many other books, too, that they
+desired to have printed.
+
+Then also men were moved to seek what lay beyond the ocean in the far
+west. They were in search of a new way to India, for India seemed to
+them the treasure house of the world. Out of the east came gold and
+silver and spices and silk, but the way was by mountain and desert and
+many a dangerous place. Few had ventured far across the uncharted seas
+that stretched away towards the setting sun, for their ships were small
+and much at the mercy of the winds. It was necessary, too, to put into
+shore to get fresh stores of water when rain failed. A sailor wrote of
+their sufferings from thirst on one of these voyages, "The hail-stones
+we gathered up and ate more pleasantly than if they had been the
+sweetest comfits in the world. The rain-drops were so carefully saved,
+that, as near as we could manage it, not one was lost in all our ship.
+Some hung up sheets, tied with cords by the four corners and a weight
+in the middle, that the water might run down thither, and so be
+received into some vessel set or hung underneath.... Some lapped with
+their tongues the boards under their feet, the sides, rails and masts
+of the ship. He who obtained a can of water by these means was spoken
+of, sued to, and envied as a rich man."
+
+It was with a good compass and stout heart that Columbus and his men
+set sail to find India, and to their great joy they saw, after many
+months, "a little stick loaded with dog roses" floating in the sea, a
+sign that they were near land.
+
+The natives, pointing to the setting sun, told them to seek gold in the
+great lands that lay beyond. Columbus thought he had found India, but
+it was America. To these lands adventurers came to seek for treasure
+and soon to find a new home.
+
+
+
+
+SUGGESTIONS FOR STUDY
+
+
+ 1. Find out from the pictures in the Saxon Calendar:
+
+    (_a_) the occupations of the Saxons,
+    (_b_) the instruments they used in farming,
+    (_c_) the kind of dress they wore.
+
+      (See Traill and Mann, _Social England_.)
+
+ 2. Plan and build a Saxon village (in a sand tray or with clay, etc.).
+
+ 3. Write down what you think the miller and the goose boy would say in
+the dialogue.
+
+ 4. Describe a Saxon Hall. (Read descriptions in Beowulf and Ivanhoe.)
+
+ 5. Look at some old manuscripts, if you can, and make some illuminated
+letters.
+
+ 6. Build a monastery in cardboard, paper or clay.
+
+ 7. Cut out in paper some figures of Saxons and make a procession on
+their way to Church to keep a festival.
+
+ 8. Write the story of Alfred's messenger arriving at the monastery to
+borrow the chronicle for the King's use.
+
+ 9. Make a piece of tapestry showing a scene from the history of the
+Normans.
+
+10. What can you discover about the Normans from the pictures of the
+Bayeux Tapestry?
+
+11. Find out about Hereward the Wake.
+
+12. Build a castle and defend it.
+
+13. Find out some more stories of S. Francis of Assisi.
+
+14. Find out as many Norman French words in English as you can.
+
+15. Read the tales of Robin Hood.
+
+16. Cut out of paper some figures of soldiers and make a picture by
+pasting them on a large sheet, showing them landing in England after
+the victory at Crecy.
+
+17. Find out about a tournament and make the lists. (See Scott's
+_Ivanhoe_.)
+
+18. If there are any old buildings where you live, find out when they
+were built and who used them.
+
+19. Make a subject-index to the book and arrange it in alphabetical
+order.
+
+20. Make a date chart and illustrate it with pictures.
+
+
+
+
+BIBLIOGRAPHY
+
+
+_Social England_ (illustrated). Vols. I. and II. Ed. Traill and Mann
+(Cassell).
+
+_Anglo-Saxon Chronicle._ (_Everyman's Library._ Dent.)
+
+_The Chronicles of Froissart._ (Globe Edition. Macmillan.)
+
+_Grandes Chroniques de France._ Foucquet. Bibliotheque Nationale,
+Berthaud Freres. 5 fr.
+
+_Alfred the Great._ B. A. Lees. (_Heroes of the Nations._ Putnam.)
+
+_St Anselm._ R. W. Church. (Macmillan.)
+
+_English Monasteries._ A. H. Thompson. (_Cambridge Manuals._)
+
+_English Monastic Life._ F. A. Gasquet. (_Antiquary's Books._ Methuen.)
+
+_The Chronicle of Jocelind of Brakelond._ (_King's Classics._ Chatto
+and Windus.)
+
+_Chivalry._ F. W. Cornish. (Fisher Unwin.)
+
+_The Making of Ireland and its Undoing, 1200-1600._ Mrs J. R. Green.
+(Macmillan.)
+
+_Mediaeval Art._ W. R. Lethaby. (Duckworth.)
+
+_Wayfaring Life in the Middle Ages._ J. J. Jusserand. (Fisher Unwin.)
+
+_Mediaeval England._ M. Bateson. (_The Story of the Nations._ Fisher
+Unwin.)
+
+_Social Life in England from the Conquest to the Reformation._ G. G.
+Coulton. (Cambridge University Press.)
+
+_Bibliography of Mediaeval History, 400-1500._ Leaflet 44. Historical
+Association.
+
+* _A Picture Book of British History._ Vol. I, to 1485. 190
+illustrations. Ed. S. C. Roberts. (Cambridge University Press.)
+
+* _Guide to Bayeux Tapestry._ Victoria and Albert Museum. Department
+of Textiles. 6_d._
+
+* _Oxford Supplementary Histories._ (Source books. Henry Frowde and
+Hodder & Stoughton.)
+
+* _Old Stories from British History._ York Powell. (Longmans.)
+
+* _Heroes of Asgard._ Keary. (_Everyman's Library._)
+
+* _Beowulf._ C. Thomson. (Marshall.)
+
+* _The little flowers of S. Francis._ (_Everyman's Library._)
+
+* _The Knights of the Round Table._ Malory. (Blackie.)
+
+* _Stories of Robin Hood._ (_Told to the Children_ Series. Jack.)
+
+* _A History of Everyday Things in England._ Vol. I. M. and C. H. B.
+Quennell. (Batsford.)
+
+  * _Suitable for Children._
+
+
+
+
+DATES
+
+
+   B.C. 55    The Romans first landed in Britain.
+  A.D. 410    Saxons began to settle in Britain.
+       410    Romans left Britain.
+       597    S. Augustine landed.
+       787    Danes invaded England.
+     871-901  Alfred reigned.
+    1017-1035 Cnut reigned.
+      1066    Battle of Hastings.
+      1070    Lanfranc became Archbishop of Canterbury.
+      1086    Domesday Book.
+      1093    Anselm became Archbishop of Canterbury.
+      1096    The First Crusade.
+      1107    The Exchequer was founded.
+      1162    Becket became Archbishop of Canterbury.
+      1169    Strongbow landed in Ireland.
+      1147    The Second Crusade.
+      1189    The Third Crusade.
+      1204    The Loss of Normandy.
+      1215    The Great Charter.
+      1283    Conquest of Wales.
+      1295    The Model Parliament.
+      1295    War with Scotland began.
+      1346    Battle of Crecy.
+      1346    The Siege of Calais.
+      1347    The Black Death.
+      1381    The Peasants' Revolt.
+      1415    The Battle of Agincourt.
+      1429    Joan of Arc took Orleans.
+      1476    Caxton set up a printing-press.
+    1455-1485 The Wars of the Roses.
+      1492    Columbus discovered America.
+
+
+
+
+_Time Chart_
+
+   B.C. |                           | B.C. |
+  _4000_| _Egyptian Calendar fixed_ |_1000_| (_as below_)
+     -- |                           |   -- |
+     -- |                           | _900_|
+     -- |                           |   -- |
+     -- |                           | _800_|
+     -- |                           |   -- |
+     -- |                           | _700_|
+     -- |                           |   -- |
+     -- |                           | _600_|
+     -- |                           |   -- |
+     -- |                           | _500_|
+     -- |                           |   -- |
+     -- |                           | _400_|
+     -- |                           |   -- |
+     -- |                           | _300_|
+     -- |                           |   -- |
+     -- |                           | _200_|
+     -- |                           |   -- |
+     -- |                           | _100_|
+     -- |                           |   -- | _Romans landed in Britain_
+  _3000_| _Babylon founded_         | .....| BIRTH OF CHRIST
+     -- |                           |  A.D.|
+     -- |                           |  100 |
+     -- |                           |   -- |
+     -- |                           |  200 |
+     -- |                           |   -- |
+     -- |                           |  300 |
+     -- |                           |   -- |
+     -- |                           |  400 |
+     -- |                           |   -- |Saxons invaded Britain
+     -- | _Hebrews enter Palestine_ |  500 |
+     -- |                           |   -- |Augustine landed in
+        |                           |      |  Britain
+     -- |                           |  600 |
+     -- |                           |   -- |
+     -- |                           |  700 |
+     -- |                           |   -- |
+     -- |                           |  800 |
+     -- |                           |   -- |
+     -- |                           |  900 |
+     -- |                           |   -- |
+  _2000_|                           | 1000 |
+     -- |                           |   -- | William the Norman invaded
+        |                           |      |   Britain
+     -- |                           | 1100 |
+     -- |                           |   -- |
+     -- |                           | 1200 |
+     -- |                           |   -- |
+     -- |                           | 1300 |
+     -- |                           |   -- |
+     -- |                           | 1400 |
+     -- |                           |   -- | Columbus discovered
+        |                           |      |   America
+     -- |                           | 1500 |
+     -- |                           |   -- |
+     -- |                           |   -- |
+     -- |                           |   -- |
+     -- |                           |   -- |
+     -- |                           |   -- |
+     -- |                           |   -- |
+     -- |                           |   -- |
+     -- |                           | 1900 |
+     -- |                           |   -- |
+  _1000_|                           |   -- |
+
+[Scale 1 inch to 500 years]
+
+
+
+
+THE TWELVE MONTHS
+
+
+In the following pages twelve pictures are reproduced from a _Book of
+Hours_ of the 15th century. All except "Feeding pigs in November"
+were painted by Pol de Limbourg for the Duke of Berri.
+
+Each of them shows a typical occupation of the season and most of them
+have a famous castle in the background.
+
+  A FEAST IN JANUARY
+  A FARM IN FEBRUARY
+  PLOUGHING AND VINE-LOPPING IN MARCH
+  A BETROTHAL IN APRIL
+  THE FIRST OF MAY
+  HAYMAKING IN JUNE
+  HARVESTING AND SHEEP-SHEARING IN JULY
+  HAWKING AND SWIMMING IN AUGUST
+  THE VINTAGE IN SEPTEMBER
+  SOWING SEEDS IN OCTOBER
+  FEEDING PIGS IN NOVEMBER
+  HUNTING BOAR IN DECEMBER
+
+  [Illustration: A FEAST IN JANUARY
+
+    Showing the Duke of Berri seated at table, with a tapestry in the
+    background]
+
+  [Illustration: A FARM IN FEBRUARY]
+
+  [Illustration: PLOUGHING AND VINE-LOPPING IN MARCH
+
+    In the background, the castle of Lusignan on the Vienne, the
+    favourite residence of the Duke of Berri]
+
+  [Illustration: A BETROTHAL IN APRIL
+
+    In the background, the Castle of Dourdan, belonging to the Duke of
+    Berri]
+
+  [Illustration: THE FIRST OF MAY
+
+    In the background, the Towers of Riom, the capital of the Duchy of
+    Auvergne, belonging to the Duke of Berri]
+
+  [Illustration: HAYMAKING IN JUNE
+
+    In the background, the Towers of Paris, showing the Sainte
+    Chapelle, the Conciergerie and the postern gate on the Seine]
+
+  [Illustration: HARVESTING AND SHEEP-SHEARING IN JULY
+
+    In the background, the Castle of Poitiers, rebuilt by the Duke of
+    Berri]
+
+  [Illustration: HAWKING AND SWIMMING IN AUGUST
+
+    In the background, the Castle of Etampes, acquired by the Duke of
+    Berri]
+
+  [Illustration: THE VINTAGE IN SEPTEMBER
+
+    In the background, the Castle of Saumur, in a district noted for
+    its vineyards]
+
+  [Illustration: SOWING SEEDS IN OCTOBER
+
+    In the background, the River Seine and the old Louvre
+
+    Note the scarecrow with a bow in his hands]
+
+  [Illustration: FEEDING PIGS IN NOVEMBER
+
+    This picture is by another artist at the end of the 15th century]
+
+  [Illustration: HUNTING BOARS IN DECEMBER
+
+    In the background, the Castle of Vincennes
+
+    This picture was borrowed from an Italian artist]
+
+
+  CAMBRIDGE: PRINTED BY
+  J.B. PEACE, M.A.,
+  AT THE UNIVERSITY PRESS
+
+
+
+
+
+
+End of Project Gutenberg's Britain in the Middle Ages, by Florence L. Bowman
+
+*** END OF THIS PROJECT GUTENBERG EBOOK BRITAIN IN THE MIDDLE AGES ***
+
+***** This file should be named 40371.txt or 40371.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/0/3/7/40371/
+
+Produced by Chris Curnow and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

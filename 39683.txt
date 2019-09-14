@@ -1,0 +1,809 @@
+The Project Gutenberg EBook of Memoranda on the Maya Calendars Used in the
+Books of Chilan Balam, by Charles P. Bowditch
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Memoranda on the Maya Calendars Used in the Books of Chilan Balam
+
+Author: Charles P. Bowditch
+
+Release Date: May 12, 2012 [EBook #39683]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MEMORANDA ON THE MAYA ***
+
+
+
+
+Produced by Julia Miller, Paula Franzini and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+
+
+
+
+
+
+
+                     MEMORANDA ON THE MAYA CALENDARS
+                           USED IN THE BOOKS OF
+                               CHILAN BALAM
+
+                                    BY
+                           CHARLES P. BOWDITCH
+
+ (From the American Anthropologist (N. S.), Vol. 3, January-March, 1901)
+
+                                 NEW YORK
+                           G. P. PUTNAM'S SONS
+                                   1901
+
+
+
+
+    MEMORANDA ON THE MAYA CALENDARS USED IN THE BOOKS OF CHILAN BALAM
+
+                         BY CHARLES P. BOWDITCH
+
+
+Dr Brinton, in his _Maya Chronicles_, has translated the following
+passages from the Book of Chilan Balam of Mani:
+
+    ... in the thirteenth Ahau Ahpula died; for six years the count of
+    the thirteenth Ahau will not be ended; the count of the year was
+    toward the East, the month Pop began with (the day) fourth Kan; the
+    eighteenth day of the month Zip (that is) 9 Ymix, was the day on
+    which Ahpula died; and that the count may be known in numbers and
+    years, it was the year 1536.
+
+And again from the Book of Chilan Balam of Tizimin:
+
+    The thirteenth Ahau; the death of Ahpulha took place; it was the
+    sixth year when ended the count of the thirteenth Ahau,--the count
+    of the year was from the east (the month) Pop passed on the fourth
+    Kan; on the eighteenth of (the month) Zip, 9 Imix was the day
+    Ahpulha died; it was the year 1536.
+
+In his remarks on these books Dr Brinton says:
+
+    According to the reckoning as it now stands, six complete great
+    cycles were counted, and parts of two others, so that the native at
+    the time of the Conquest would have had eight great cycles to
+    distinguish apart.
+
+    I have not found any clear explanation how this was accomplished.
+    We do not even know what name was given to this great cycle,[1] nor
+    whether the calendar was sufficiently perfected to prevent
+    confusion in dates in the remote past.
+
+  [1] It should be noted that the grand cycle, which Dr Brinton refers
+  to, is the period of 13 x 7200 days = 93,600 days or 260 periods of
+  360 days; while the grand cycle according to Goodman's method is 13
+  x 144,000 days or 5200 periods of 360 days.
+
+It would seem, however, as if the reckoning of time as given in these
+books is very accurate, fixing a date which would not be duplicated
+within a limit of thirty-five hundred or four thousand years.
+
+The Books of Chilan Balam number the katuns on a different principle
+from that used on the inscriptions or in the Dresden Codex, but the two
+methods can be readily and usefully brought together, as the katun
+itself remains the same in both methods. In the inscriptions the katuns
+are numbered from 0 to 19, using Goodman's method though not his exact
+nomenclature, and twenty of them equal one cycle. In the Chilan Balam
+books, the katuns are named as Katun 13 Ahau, Katun 11 Ahau, etc., these
+being the days with which they begin or with which the previous katun
+ended; and as after thirteen katuns the same name is again given, this
+nomenclature fixes a date within a period which equals 13 multiplied by
+the number of days in a katun. There has been a difference of opinion as
+to this number of days in a katun, but it is clear from the Books of
+Chilan Balam that their reckoning was by terms of 20 x 360 days. The
+followers of Perez, however, insist that the length of the katun was 24
+x 365 days. Sr Perez has indeed made this assertion,[2] but he rests his
+opinion to a great degree on the fact that the naming of the katuns
+proceeded in the following order, taking their names from the day Ahau
+with which they began, viz.:
+
+    Katun 13 Ahau,
+    Katun 11 Ahau,
+    Katun  9 Ahau,
+    Katun  7 Ahau, etc.,
+
+and that by starting with a katun which begins with 13 Ahau and counting
+forward a period of 24 x 365 days, we should reach another katun
+beginning with 11 Ahau. But the same result is brought about by
+considering the katun as a period of 20 x 360 days, as has been shown by
+Dr Seler, among others; and since the Books of Chilan Balam state
+distinctly that they reckon by so many scores of so-called years, and
+as the initial dates of the inscriptions all reckon in the same way, it
+is now generally considered that the katun consisted of 20 x 360 or 7200
+days. An objection to considering a katun as 20 x 360 days may be raised
+in that the Books of Chilan Balam use the word "ano" or year, but this
+can be easily explained by the fact that the Spanish "year" was the
+period which most nearly agreed with their tun or 360-day period, and
+that the Books did not pretend to speak with scientific accuracy.
+
+  [2] Stephens, _Incidents of Travel in Yucatan_, p. 441 et seq.
+
+Besides the above count, it is well known that the Mayas had a
+year-and-month count. This consisted in naming each one of the twenty
+days and in attaching to each of these days one of the numbers 1 to 13.
+Besides this, each day so numbered was declared to be a given day of a
+given month and to occur in a year marked by one of the year bearers--as
+for instance in the Book of Chilan Balam, already quoted, where the day
+is given as 9 Ymix 18 Zip in the year 4 Kan. Now this day and this year
+could recur only after the lapse of fifty-two years or 18,980 days.
+
+It should be noted here that in the inscriptions and in the Dresden
+Codex, the day Ymix was always the day 4, 9, 14, or 19 of any month,
+showing that the day 1 of the month was Eznab, Akbal, Lamat, or Ben;
+while in Landa and the Books of Chilan Balam the day Ymix was the day 3,
+8, 13, or 18, showing that the day 1 of the month was Cauac, Kan, Muluc,
+or Ix. That is, the months in modern times began with the day which
+followed the day with which the months began in more ancient times. As
+the tables are calculated for the inscriptions, it will be well, in
+order to facilitate our calculations, to call the day on which Ahpula
+died the nineteenth of the month Zip, instead of the eighteenth of that
+month.
+
+Given that the katun consisted of 7200 days, a Katun 13 Ahau could not
+recur until after the lapse of 13 x 7200 or 93,600 days, and the
+recurrence of any day marked by the year-and-month count, and occupying
+any particular place in a given katun, could not occur until after the
+lapse of a period which is found by finding the least common multiple of
+the two numbers 93,600 and 18,980. This is 6,832,800 days, which is a
+period of 360 calendar rounds of 18,980 days or of 52 years each. This
+is equal to 18,720 years, and, in the method of reckoning shown in the
+initial dates of the inscriptions, would equal 3 grand cycles, 8 cycles,
+and 9 katuns, or, to use the method of Goodman, 3.8.9.0.0.0.
+
+I have said that a day marked by the year-and-month count, and occupying
+any particular place in a given katun, could not recur until the lapse
+of this long period. This would be true if the day was specified as
+being a given day in a given tun in a given katun, or even if the day
+was stated as falling in a given uinal of a given tun in a given katun.
+But in the case before us the death of Ahpula is said to have taken
+place in the Katun 13 Ahau when six tuns or years of that katun remained
+unexpired. Even with this rather loose designation such a day would not
+recur within a period of 3500 or 4000 years.
+
+The day 4 Ahau 8 Cumhu seems to have been regarded as the beginning day
+of the beginning cycle of some grand cycle. From this day all the
+initial series of the inscriptions of Copan and Quirigua, of Piedras
+Negras and Tikal, so far as we know them, count, except one where this
+day 4 Ahau 8 Cumhu is itself given. In this place (on Stela C of
+Quirigua) 4 Ahau 8 Cumhu is reckoned thus: "Grand cycle glyph
+.13.0.0.0.0.", while in the Temple of the Cross it is declared to be a
+thirteenth cycle. As this was the beginning date, there is reason to
+believe that the beginning cycle of a great cycle received the number
+13.
+
+I give here the first and last terms of a list of the beginning days of
+the Katuns 13 Ahau in a complete round of 18,720 years occurring after
+the beginning of the grand cycle called by Goodman Grand Cycle 54, which
+began with 4 Ahau 8 Cumhu. It is of little consequence what particular
+number is given to the grand cycle, as the whole series forms a
+continuous count, and I shall therefore follow Goodman, who gives the
+number 54 to the grand cycle glyphs common to Copan, Quirigua, etc.
+
+If 54.13.0.0.0.0. or the beginning of the grand cycle, called Grand
+Cycle 54 by Goodman, begins with 4 Ahau 8 Cumhu, a Katun 13 Ahau will
+appear two katuns after this or with the count of
+
+    54.13.2.0.0.0.     13 Ahau 8 Mol       Year 10 Ix,
+
+and other Katuns 13 Ahau will follow at intervals of 13 katuns as here
+given:
+
+    54.13.15.0.0.0.    13 Ahau  8 Pax      Year  6 Ix.
+        1. 8.              "    3 Xul            3 Cauac.
+        2. 1.              "    3 Kankin        12  "
+
+     .    .    .    .    .    .    .    .    .   .   .
+
+    57.5.19.0.0.0.     13 Ahau 18 Ceh           11 Kan.
+       6.12                    13 Uo             8 Muluc.
+       7. 5.                   13 Yax            4  "
+         18.                   13 Cumhu         13  "
+    57.8.11.0.0.0.     13 Ahau  8 Mol           10 Ix.
+
+But we are seeking a Katun 13 Ahau in which 14 tuns have elapsed and of
+which 6 tuns still remain unexpired. We must, therefore, add 14 tuns or
+14 x 360 days = 5040 days to each of the dates given and we shall then
+have the following complete list of the beginning days of Tun 14 of
+Katun 13 Ahau for the term of 18,720 years:
+
+    54.13. 2.14.0.0.    9 Ahau 18 Zotz          11 Kan.
+          15.                  18 Ceh            7 Kan.
+        1. 8.                  13 Uo             4 Muluc.
+        2. 1.                  13 Yax           13 Muluc.
+          14.                  13 Cumhu          9 Muluc.
+        3. 7.                   8 Mol            6 Ix.
+        4. 0.                   8 Pax            2 Ix.
+          13.                   3 Xul           12 Cauac.
+        5. 6.                   3 Kankin         8 Cauac.
+          19.                  18 Zip            5 Kan.
+        6.12.                  18 Zac            1 Kan.
+        7. 5.                  13 Pop           11 Muluc.
+          18.                  13 Chen           7 Muluc.
+    54. 8.11.14.0.0.           13 Kayab          3 Muluc.
+        9. 4.                   8 Yaxkin        13 Ix.
+          17.                   8 Muan           9 Ix.
+       10.10.                   3 Tzec           6 Cauac.
+       11. 3.                   3 Mac            2 Cauac.
+          16.                  18 Uo            12 Kan.
+       12. 9.                  18 Yax            8 Kan.
+    55.13. 2.14.0.0.           18 Cumhu          4 Kan.
+                                                --------
+          15.                  13 Mol            1 Muluc.
+        1. 8.                  13 Pax           10 Muluc.
+        2. 1.                   8 Xul            7 Ix.
+          14.                   8 Kankin         3 Ix.
+        3. 7.                   3 Zotz          13 Cauac.
+        4. 0.                   3 Ceh            9 Cauac.
+          13.                  18 Pop            6 Kan.
+        5. 6.                  18 Chen           2 Kan.
+        5.19.                  18 Kayab         11 Kan.
+        6.12.                  13 Yaxkin         8 Muluc.
+        7. 5.                  13 Muan           4 Muluc.
+          18.                   8 Tzec           1 Ix.
+        8.11.                   8 Mac           10 Ix.
+        9. 4.                   3 Zip            7 Cauac.
+          17.                   3 Zac            3 Cauac.
+                                                --------
+       10.10.                   3 Uayeb         12 Cauac.
+       11.03.                  18 Mol            9 Kan.
+          16.                  18 Pax            5 Kan.
+       12. 9.                  13 Xul            2 Muluc.
+    56.13. 2.14.0.0.           13 Kankin        11 Muluc.
+          15.                   8 Zotz           8 Ix.
+        1. 8.                   8 Ceh            4 Ix.
+        2. 1.                   3 Uo             1 Cauac.
+          14.                   3 Yax           10 Cauac.
+        3. 7.                   3 Cumhu          6 Cauac.
+        4. 0.                  18 Yaxkin         3 Kan.
+          13.                  18 Muan          12 Kan.
+        5. 6.                  13 Tzec           9 Muluc.
+        5.19.                  13 Mac            5 Muluc.
+        6.12.                   8 Zip            2 Ix.
+         7.5.                   8 Zac           11 Ix.
+          18.                   3 Pop            8 Cauac.
+        8.11.                   3 Chen           4 Cauac.
+        9. 4.                   3 Kayab         13 Cauac.
+          17.                  18 Xul           10 Kan.
+       10.10.                  18 Kankin         6 Kan.
+       11.03.                  13 Zotz           3 Muluc.
+          16.                  13 Ceh            12 Muluc.
+       12. 9.                   8 Uo             9 Ix.
+    57.13. 2.14.0.0.            8 Yax            5 Ix.
+          15.                   8 Cumhu          1 Ix.
+        1. 8.                   3 Mol           11 Cauac.
+        2. 1.                   3 Pax            7 Cauac.
+          14.                  18 Tzec           4 Kan.
+                                                --------
+        3. 7.                  18 Mac           13 Kan.
+        4. 0.                  13 Zip           10 Muluc.
+        4.13.                  13 Zac            6 Muluc.
+        5. 6.                   8 Pop            3 Ix.
+        5.19.                   8 Chen          12 Ix.
+        6.12.                   8 Kayab          8 Ix.
+        7. 5.                   3 Yaxkin         5 Cauac.
+          18.                   3 Muan           1 Cauac.
+        8.11.                  18 Zotz          11 Kan.
+
+The only places where a year 4 Kan appears are at the dates
+
+    55.13. 2.14.0.0.[3]     9 Ahau 18 Cumhu     Year 4 Kan, and
+    57. 2.14.14.0.0.        9 Ahau 18 Tzec      Year 4 Kan.
+
+But as the words used are that 6 years (or tuns) remained before the end
+of the katun, and as a slightly longer time than just 6 tuns may have
+remained, and as the month Zip in which the death of Ahpula occurred is
+the third month of the year and so is near the beginning of the year 4
+Kan, it is quite possible that the beginning of the Tun 14 may have been
+in the latter part of the preceding year, in which case, in addition to
+the preceding dates, the following date might be the one which we are
+seeking:
+
+    55. 9.17.14.0.0.        9 Ahau 3 Zac        Year 3 Cauac.
+
+  [3] It is necessary to remember that, by Goodman's methods, these
+  figures represent periods of past time. Thus the number 2 of the katun
+  means that 2 katuns have passed, and that the current katun is what we
+  should call the third; and that 0.0 means that a full count of uinals
+  and kins has occurred and that the current uinal and kin are what we
+  should call the first.
+
+As 9 Ymix 19 Zip is said to be in the year 4 Kan, we shall find this
+date before the dates of the beginning of Tun 14 in the first two cases
+and after the beginning of Tun 14 in the last case. This date of 9 Ymix
+19 Zip will then be numbered thus, placing the three dates in
+consecutive order:
+
+    1) 55.13. 2.13. 3. 1.      6 tuns 299 days to end of Katun 13 Ahau.
+    2) 55. 9.17.14.11. 1.      5  "   139   "      "       "     "
+    3) 57. 2.14.13.16. 1.      6  "    39   "      "       "     "
+
+In no one of the cases is the date 9 Ymix 19 Zip exactly 6 tuns before
+the end of the Katun 13 Ahau, but it is possible that the annalist took
+no account of fractions of tuns, either in excess of the 6 tuns or
+otherwise. Thus in the first and last cases of the three, as first
+given, he may have said to himself, "There are but 6 whole tuns
+remaining of the katun and I will call it 6," or in the second case he
+may have said: "There are 5 tuns remaining and 139 days besides; I will
+call it 6 tuns." Whichever was the plan he followed, we can have at
+present no means of ascertaining except from the results which we obtain
+by calculation.
+
+The date found on Stela 9 of Copan, which is the earliest date of these
+stelae of that place, in which the numbers preceding the period glyphs
+are given by the line-and-dot method, is 54.9.6.10.0.0. This precedes
+the above dates by the following periods:
+
+    1) 0.3.16.3. 3.1. =   548,341 days =  1,502 years 111 days.
+    2) 1.0.11.4.11.1  = 1,952,861  "   =  5,350   "    14  "
+    3) 2.6. 8.3.16.1  = 4,667,001  "   = 12,786   "   111  "
+
+If, now, we accept the first date of 55.13.2.13.3.1. as the date of
+Ahpula's death, we shall have the date of Stela 9 of Copan as A.D. 34,
+since the death occurred in 1536. If we accept the second date,
+55.9.17.14.11.1., as the true one, Stela 9 must represent a date of B.C.
+3814, and in the case of the third date, 57.2.14.13.16.1. in which the
+period to elapse to the end of Katun 13 Ahau is the nearest to an exact
+6 tuns, we should throw back Copan to B.C. 11,250. It is not probable,
+however, that either of the last two dates is correct, both because of
+the immense time which would have elapsed and because the monuments show
+signs of no such age. We are therefore left to the date A.D. 34 as the
+probable date of the earliest stela of Copan which we know of at
+present.
+
+The following table gives the earliest and latest dates in Copan and
+Quirigua as far as we know them, together with the dates of our calendar
+corresponding thereto, on the supposition that the above date is rightly
+deciphered:
+
+ Copan:   Stela 9, 9. 6.10.0.0                                  A.D.  34.
+            "   N, 9.16.10.0.0 = 197  years later than A.D. 34  A.D. 231.
+ Quirigua:  "   C, 9. 1. 0.0.0 = 108 +  "  earlier  "   "  say  B.C.  75.
+            "   K, 9.18.15.0.0 = 241 +  "   later   "   "       A.D. 275.
+
+If this is correct, Copan lasted, so far as the erection of stelae is
+concerned, for about 200 years, and Quirigua for about 350 years, though
+of course this may be only a small part of the period of their
+existence.
+
+The above calculations have been made on the supposition that the
+initial dates record the date of the erection of the stelae, and on the
+further supposition, as has been stated, that the same principle of
+calculating time has been continued from the earliest ages. There is,
+however, some evidence that a change has been made, at least in detail.
+It has already been seen that the beginning day of the month has been
+shifted from the Eznab, Akbal series to the Cauac, Kan series of days.
+What difference this would have made in the relation of the
+year-and-month count with the long count it is impossible to say without
+knowing the means used to effect the change; but it is quite likely that
+this relation was not affected. In the Book of Chilan Balam of Mani is
+the entry: "The Thirteenth Ahau; then Pop was counted in order." And in
+the Book of Chilan Balam of Chumayel we find, "The Thirteenth Ahau; Pop
+was set in order." This statement occurs in the early part of the
+chronicle, and the calculation of the Ahaus goes on after it in exactly
+the same way as before it. This setting in order of Pop would not then
+seem to have made any difference in the long count. At least it is very
+probable that it means merely that the seasons and the calendar were
+made to agree.
+
+Dr Brinton (_Maya Chronicles_, p. 85) also gives a translation of a part
+of the Codice Perez, which refers to the "Doubling of the Katuns." The
+statement is very obscure, but only tends to show that while the
+counting of the katuns was carried on as in the Books of Chilan Balam,
+the first of the series was called Katun 8 Ahau instead of Katun 13
+Ahau, while the last of the series was Katun 10 Ahau. This would not
+necessarily change the consecutive order of the katuns, but might merely
+give a new starting-point.
+
+While, therefore, it is impossible to say what change, if any, was made
+in the reckoning of time, it may be said that there is no evidence at
+present to show that the old relation of the long count to the
+year-and-month count and to the count of the Books of Chilan Balam did
+not continue to the time of the arrival of the Spaniards. Moreover, the
+date of A.D. 34 for the monuments of Copan and Quirigua is by no means
+unlikely to be the true one. At all events the above discussion of the
+reckoning will not be useless if it succeeds in bringing out new facts,
+and no one will be more ready to recognize any new evidence than I shall
+be, even if the above deductions shall be shown to be erroneous.
+
+
+
+
+       *       *       *       *       *
+
+
+
+
+Transcriber's note:
+
+In general every effort has been made to replicate the original text as
+faithfully as possible, including some instances of inconsistencies of
+spelling (Ahpula/Ahpulha; Ymix/Imix) and possible irregularities in the
+use of commas and periods in Mayan dates.
+
+
+
+
+
+End of the Project Gutenberg EBook of Memoranda on the Maya Calendars Used
+in the Books of Chilan Balam, by Charles P. Bowditch
+
+*** END OF THIS PROJECT GUTENBERG EBOOK MEMORANDA ON THE MAYA ***
+
+***** This file should be named 39683.txt or 39683.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/9/6/8/39683/
+
+Produced by Julia Miller, Paula Franzini and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
