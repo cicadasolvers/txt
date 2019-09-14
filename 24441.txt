@@ -1,0 +1,1711 @@
+The Project Gutenberg EBook of The Stoker's Catechism, by W. J. Connor
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Stoker's Catechism
+
+Author: W. J. Connor
+
+Release Date: January 27, 2008 [EBook #24441]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE STOKER'S CATECHISM ***
+
+
+
+
+Produced by Stephen Blundell and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/American Libraries.)
+
+
+
+
+
+
+
+
+
+THE STOKER'S CATECHISM
+
+
+
+
+                  THE
+
+           STOKER'S CATECHISM
+
+
+                   BY
+
+              W. J. CONNOR.
+
+
+                [Device]
+
+
+                London:
+ E. & F. N. SPON, LIMITED, 57 HAYMARKET
+               New York:
+ SPON & CHAMBERLAIN, 123 LIBERTY STREET
+                  1906
+
+
+
+
+Transcriber's Note:
+
+    Minor typographical errors have been corrected without note. Variant
+    spellings have been retained. The oe ligature is shown as [oe].
+
+
+
+
+PREFACE.
+
+
+There is no trade or calling that a working man is more handicapped in
+than that of a Steam Boiler Stoker; there are no books on stoking; the
+man leaving his situation is not anxious to communicate with the man who
+is taking his place anything that might help or instruct him; and the
+new man will be shy of asking for information for fear of being thought
+incapable for the post he is seeking; and the transfer takes place
+almost in silence, and the new man has to find out all the ways and
+means at his own risk, sometimes at his employer's expense.
+
+My object is to instruct that man in his business without his knowing
+it, or hurting his very sensitive opinion on stoking and other matters;
+for I am well aware that it is only the least experienced who are the
+hardest to convince, or instruct--against their will. I have therefore
+ventured to devise this simple method of question and answer, which I
+have named "The Stoker's Catechism," which I hope may instruct and
+interest him.
+
+I will not encumber this preface with my personal qualifications for
+this little work--the answers to the questions might suffice.
+
+                                                    W. J. C.
+
+
+
+
+THE STOKER'S CATECHISM.
+
+
+1. _Question._--How would you proceed to get steam up in a boiler?
+
+_Answer._--Having filled the boiler with water to the usual height, that
+is to say, about four inches over the crown of the fire-tube, I throw in
+several shovelfuls of coal or coke towards the bridge, left and right,
+keeping the centre clear; then I place the firewood in the centre, throw
+some coals on it, light up, and shut the door. Then I open the
+side-gauge cocks to allow the heated air to escape, and keep them open
+till all the air has cleared out and steam taken the place of it; by
+this time the fire will require more fuel, and when the steam is high
+enough I connect her by opening the stop-valve a little at a time till
+it is wide open and ready for work.
+
+
+2. _Question._--Supposing there are boilers working on each side of the
+one you got steam up in, how would you act?
+
+_Answer._--I would light the fire by putting in a few shovelfuls of live
+coal from one of them instead of using firewood; that is all the
+difference I would make.
+
+
+3. _Question._--What is the cause of the rapid motion of the water in
+the gauge-glass at times? Is that motion general throughout the boiler?
+
+_Answer._--No; air enters the boiler with the feed-water, and the
+gauge-glass tube being in the vicinity of the incoming water, some of
+the air enters the glass and flies up rapidly through the top cock and
+into the boiler again; in fact there is very little motion of the water
+in the boiler at any time while working. I have proved this to be so,
+and in this manner: the boiler cleaners having finished the cleaning,
+hurriedly scrambled out of the boiler and left several tools they had
+been using on the crown of the fire-box, namely, a bass hand brush, a
+tin can, and a tin candlestick, and a small iron pail; the manhole cover
+was put on and boiler filled and put to work before the things were
+thought of, and then it was too late and they had to remain there until
+the next cleaning time, which was thirteen weeks; and when the boiler
+was at last blown out and the manhole cover removed, the things were on
+the crown of the fire-box exactly as they were left three months
+previously. In order to satisfy myself of this, to me, extraordinary
+discovery, I placed several articles on the crown of the fire-box,
+things that could not stop up the blow-off pipe if they were swept off,
+and got up steam as usual, and after three months' hard steaming I blew
+out the water and steam, took off the manhole cover, and there were the
+things as I had left them thirteen weeks previously; of course they were
+all coated with fine mud, but no signs of having moved a hair's breadth.
+
+
+4. _Question._--But water in an open caldron with a fire under it, as in
+the steam boiler, will madly sweep the sides and bottom with terrific
+ebullition. How would you account for the great agitation in the open
+caldron while the steam boiler had hardly any, although both vessels had
+fierce fires under them?
+
+_Answer._--In the matter of the open caldron the action of the water has
+no resistance but that of the atmosphere, whereas in the steam boiler
+the movement of the water is resisted from the moment it is heated, for
+then a vapour rises above it, and, as the heat increases, the resistance
+to the movement of the water is proportionally increased, and as the
+heat of the steam increases the pressure on the water increases
+proportionally all through, the steam being above the water. Any old
+stoker knows that when getting steam up in a boiler the lower parts are
+often only warm when there may be eight or ten lb. on the square inch in
+the upper portions; when the water begins to boil the steam rises in the
+form of minute globular particles, and remains above the water until
+there is an outlet for it by opening the stop-valve or through the
+safety-valve; and as the pressure is the same throughout every part,
+nook and corner, and angle, there can be no dominating force to cause
+any agitation within the boiler.
+
+
+5. _Question._--What is superheated steam, and why is it used?
+
+_Answer._--If a boiler is placed at a long distance from the engine or
+whatever the steam may be used for, there is much or little condensation
+according to the distance and the weather, so that there would always be
+water mixing with the steam, and that is most objectionable where a
+steam engine is concerned, and by super-heating the steam it comes to
+the engine as hot and dry as if the boiler were close by; but whatever
+the heat of the steam may be, the pressure cannot be increased after the
+steam has left the boiler. In proportion to the pressure of steam so is
+the heat of it; the higher the pressure the hotter the steam.
+
+
+6. _Question._--If your water gauge-glass broke while the boiler was
+working, how would you proceed to rectify the mishap?
+
+_Answer._--By immediately shutting off both cocks, the water-cock first,
+then I would open the blow-out cock (at the bottom of the gauge-glass)
+and keep it open to the finish, and commence unscrewing the nuts,
+clearing them of any bits of india-rubber that adhered to them, also the
+sockets. Get one of the half dozen glasses already cut, and my string of
+rubber rings, enter two rings on the bottom end of the glass, slip the
+nut over them, slip two rings on the top part of the glass after having
+slipped the nut on, and enter the rings in the sockets, then screw up
+both top and bottom nuts by hand alternately, and when screwed up
+evenly, open the steam cock a shade to warm the glass, and when it is
+hot enough, open it more and commence closing the blow-out cock, by
+tapping it lightly by hand, then open the steam cock a little more and
+open the water cock a little also, and shut off the blow-out cock, and
+presently the water enters the glass, and both top and bottom cocks may
+now be opened to their full extent, and the job is done.
+
+
+7. _Question._--How would you cut a water gauge-glass to the proper
+length?
+
+_Answer._--I usually cut a piece of iron wire the length the glass
+should be, in this way: I measure the length from under the top nut to
+the top of the bottom nut, and cut my iron wire to that measurement;
+then I cut several glasses in my spare time, instead of doing it when
+the glass breaks. I mark a circle where I wish to cut the glass, and
+with a three-corner file I run it round this circle to a depth of the
+16th of an inch, and break it off on the edge of the vice, bench, or
+other solid woodwork; of course this iron-wire gauge will perhaps only
+answer for this particular boiler, but in some stoke-hold the boilers
+are all alike with regard to the gauge-glasses.
+
+
+8. _Question._--What is the cause of a vacuum in a boiler? And how does
+it affect her injuriously?
+
+_Answer._--The vacuum is mostly caused by letting cold water into a hot
+boiler, the hotter the boiler the stronger the vacuum; when the water is
+hotter than the boiler, there will be little vacuum; a strong vacuum in
+the boiler will cause the air outside to press on the boiler in
+proportion--the stronger the vacuum inside, the greater the pressure
+outside. In this circumstance the pressure is misplaced for the boiler
+was constructed to bear an internal pressure and not an external
+pressure. And in getting steam up the pressure on the boiler has to be
+reversed, and this tends to loosen the plates and rivets and makes her
+leak, if she never leaked before. I have frequently known boilers to be
+filled with water over-night to be ready for lighting up in the morning,
+and have found the gauge-glass empty; this puzzled me at first, but on
+opening the blow-out cock of the water-gauge the air rushed into it with
+a gurgling noise, then I knew there was water in the boiler held up by
+the vacuum, but I soon altered that by opening the side-cocks, and
+letting air into her which soon killed the vacuum, and down came the
+water into the glass again to the proper level. When getting steam up, I
+always open one of the side gauge cocks and keep it open until steam
+issues from it; that permits the foul air to escape and prevents a
+vacuum being created; there used to be a vacuum valve in the vicinity of
+the steam dome, that opened inwards and prevented a vacuum from being
+created.
+
+
+9. _Question._--If you had only one boiler and one engine at work, how
+would you manage to clean your one fire without letting the steam go
+down?
+
+_Answer._--When pushed for steam, which usually occurs when the fire is
+getting dirty, I get ready all the tools and some of the best of the
+coals, and having a bright fire I take the long poker and skim all the
+fire to one side and throw a couple of shovelfuls of coals evenly over
+it and rake out all the clinkers on the opposite side, then with the
+long poker (some people call it Kennedy) I skim all the fire over to the
+opposite side and throw a couple of shovelfuls of coals evenly over the
+bright fire, and rake out the clinkers on the other side, then I spread
+the fire evenly over the bars and sprinkle some more coals over all, and
+shut the door. This performance from first to last need not take more
+than ten minutes, and the boiler was making steam all the time, and at
+the finish I had a better fire than at the beginning, and the steam
+hardly lost a pound; but the job must be done quickly.
+
+
+10. _Question._--What is the cause of the humming noise that issues from
+a steam boiler at times, and how would you prevent it?
+
+_Answer._--It is caused chiefly through bad stoking, in having an uneven
+fire, full of holes, or crooked bars, the cold air rushing through where
+there is the least resistance, and into the tubes, causes the humming
+noise--a locomotive nearing home after her day's work has very little
+fire on the bars and will generally hum, so there is some excuse for
+her, but none for a stationary boiler. Some stokers take credit to
+themselves for making the boiler "Hum"; when coals are thrown into the
+fire indiscriminately--small and large--the air finds the least
+resistance through the small coals, which soon burst into holes, while
+the lumps remain solid; then the air rushes into the holes and the
+humming commences; or, if the firebars are not equally separated, the
+air enters the widest space and the boiler hums; or it may be that the
+bars next the side of the fireplace are out of line and lets the air
+rush up against the side and the boiler hums. If the stoker would only
+drop a shovelful of coals dexterously into each hole the humming would
+stop immediately, or level the fire with the rake or long poker, or open
+the fire door if the rake is too heavy, and the noise will cease. The
+chief point is to have a good set of firebars and well placed; if they
+are too long they will hump in the middle or they will bulge sideways;
+if they are too close together they become red-hot because there is not
+room enough for the air to pass between them to keep them moderately
+cool, and if they are too short they will drop down into the ash-pit.
+
+
+11. _Question._--Why is it more difficult to keep steam-tight the
+manhole cover of a portable boiler than the manhole cover of a
+stationary boiler?
+
+_Answer._--The portable cover is usually on the side of the boiler, and
+about half the cover is immersed in the water and half in the steam; the
+portion under water is about 212 deg. of heat, the portion of the same cover
+in the steam is about 500 deg. of heat, the hottest part expanding much more
+than the cooler part, and is constantly tending to tear itself away from
+the lower portion of the cover, and the joint cannot stand the unequal
+strain. The manhole cover of a stationary boiler is nearly always on top
+of the boiler, and the heat is equal all over it and no contraction and
+expansion to cause the joint to leak as in the portable cover.
+
+
+12. _Question._--How would you prepare a boiler for the inspection of a
+boiler inspector?
+
+_Answer._--I would blow her right out, take off the manhole cover, take
+out the safety valve, take out all firebars and the bridge, take down
+flue-port brickwork, have the boiler and flues thoroughly cleaned and
+swept, have a lamp or candle ready to light, a hand hammer and chisel,
+or scraper, a pailful of clean water, and a wad of cotton waste. When
+the inspector arrives, he quickly dons his overalls; I hand him the
+light and the tools and waste, and he is into the fireplace in a jiffy;
+down the side flues, under the boiler, giving a whack with the hammer
+now and then, and scraping off any suspicious scale, etc.; and when he
+comes out, as black as any sweep, he slips out of the overalls, gives
+them a whack against the wall, folds them up tight, and crams them into
+the black bag; has a dive in the pail, and is soon ready to go off
+somewhere else. But he tells me something about the boiler before he
+goes--not to my discredit.
+
+
+13. _Question._--How do you proceed to get her to work again, and what
+materials do you use?
+
+_Answer._--I first proceed to build the bridge and flue-ports, put in
+the firebars, the thin bars at the sides; then I replace the
+safety-valve, taking care not to damage it or its seat, fill the boiler
+with clean water, put in the boiler the usual quantity of Naenaires
+Anti-Corrosion liquid, or the powder, make the manhole joint with
+plaited three-strand spun yarn and stiff putty (red lead and white lead)
+and lay the fire, which is done in this way: throw a dozen shovelfuls of
+coals towards the bridge, and to left and right of it till they reach
+near to the dead-plate, leaving the centre clear for the firewood; then
+throw in three or four shovelfuls of coals over the wood, with oily
+waste or paper in front, and she is ready for lighting, and the "fire
+is laid." The material for the bridge and the flue ports are firebricks
+and fireclay; these are rather expensive, but I learnt a wrinkle in the
+building up of bridge and flues. Through the frequent removals of these
+for boiler inspection and the hitting of the end of the long poker,
+several bricks were broken every three months, and I came to the
+decision to try stock bricks faced with fireclay as mortar; and I was
+more than satisfied with the result, and ever since then I used stock
+bricks and fireclay only.
+
+
+14. _Question._--How high should the top of the bridge be from the crown
+of the boiler or from the fire-tube?
+
+_Answer._--The bridge should be about nine inches from the crown of the
+fire-tube, if it were eight the draught would be curtailed, if it were
+ten the draught under the bars would be diminished, through much air
+passing over the bridge instead of under the firebars. As I had
+permission from my employers to build the bridge to the best advantage
+for myself in keeping up the steam, and having tried different heights
+for many years, I found that nine inches was the nearest to perfection.
+And in these experiments two additional bridges were built in one
+boiler; six feet behind the ordinary bridge was a concave bridge and six
+feet behind that was a convex bridge. The concave bridge was built
+close up to the bottom of the fire-tube, and resembled a small archway,
+and extended down to within nine inches of the bottom or shell of the
+fireplace; the convex bridge was built on the bottom of the shell and
+reached to within nine inches of the fire-tube. When the flame from the
+furnace shot over the ordinary bridge, it clashed down under the concave
+bridge, then rose up and swept through the convex bridge and away to the
+bottom flues; the object of these three bridges, in one tube and for one
+fire, was to keep the flame and heat in the boiler as long as possible,
+instead of the heat flying swiftly over the bridge and out of the
+boiler. This experiment seemed to answer very well, but as there were
+several other boilers connected with this one there was no opportunity
+of testing it correctly, but the three bridges remained established, and
+were frequently shown to engineers and others.
+
+
+15. _Question._--What advantage is there in having the blow-off pipe of
+a boiler entering it from the top instead of at the bottom?
+
+_Answer._--I am not aware of any advantage in it, but I am aware of a
+disadvantage in it, and it is this, that while the boiler is being blown
+right out for the purpose of cleaning, or other reasons, the stoker will
+often commence doing some other work, and in due course the boiler is
+filled up with water, and the fire lighted, and by-and-by the stoker
+comes to see what progress she is making; he looks at the water-gauge
+but sees no water in it because it has syphoned out of the boiler; at
+first the heated air pressed on the water and forced it through the
+blow-off pipe, and then the pipe became a syphon, and the pressure
+increasing as the water leaves the boiler, she is soon emptied, and if
+the fire is not raked out, soon burnt. Such a mishap could not happen to
+a boiler with the blow-off pipe at the bottom, for when the stoker blows
+out his boiler he must shut the cock before he can fill her, and when
+filled there is no chance of the water escaping out again.
+
+
+16. _Question._--Is there not some disadvantage in having the blow-out
+cock at the bottom of the boiler?
+
+_Answer._--Yes; the cock and pipe are subject to corrosion on account of
+water dripping down on them from the stoke-hold floor, as some stokers
+quench their clinkers and ashes while they are up against the front of
+the boiler, instead of drawing them forward a few inches from the front:
+and as the pipe is out of sight under the plates of the floor, nobody
+takes the trouble to lift them and examine--not only the pipe and the
+cock, but that part of the boiler where the water streams down from the
+drenched ashes so frequently. So there are disadvantages in both methods
+of blowing out the boiler, and always will be, until the stoker learns
+his business, and takes an interest in his work, not only for his own
+sake, but his employer's also.
+
+
+17. _Question._--What is the most important appendage to a steam boiler?
+
+_Answer._--The safety-valve, but it is not always a safety-valve, when
+it is weighted to twice the amount the boiler is certified to be worked
+at safely. As an instance: Amongst the many engines employed at the
+Midland Extension Works, St. Pancras, was a light steam crane for
+hoisting earth from the deep excavations, there were in use small wooden
+skips, and the pressure of steam was forty-five lb.; but after a time
+there arrived large iron skips that the crane could not lift, even when
+empty; there were about twenty men depending on the crane for their work
+and the navvy-ganger was anxious for "something to be done," and the
+crane man hinted about weighting the safety-valve, and no sooner said
+than almost done; the safety spring balance was screwed down, and a
+railway chair suspended from it by strong copper wire, and the steam
+allowed to rise until it reached ninety lb. on the inch, and the big
+iron skips were hoisted with their load of heavy ballast as easily as
+the wooden ones had been. The boiler _happened_ to stand it.
+
+
+18. _Question._--Have you any other instance?
+
+_Answer._--Yes; in an establishment in Hammersmith some years ago, the
+stoker was in the habit of putting a bit of iron on the end of the
+horizontal lever of a safety valve when the steam rose too high, and the
+manager was about, and when it went down he would take off the bit of
+iron and put it where he could find it for the next occasion. The
+manager had gone away one day, and advantage was taken of it to have a
+little carouse in which most of the men took a part; and when the steam
+rose the stoker popped his bit of iron on the lever and all was quiet
+for a time, when another noisy safety-valve began to blow off, and on
+went another bit of iron that stopped the noise, and during all this
+time the fires of seven or eight boilers were burning fiercely, and the
+stoker should have checked his fires instead of what he had done; but in
+the midst of the carouse all the boilers began to belch forth steam when
+the manager came on the scene. The stoker tried to pick off the bits of
+iron before the manager could see them, but the steam was to high for
+that; and when at last the noise subsided and the steam had cleared
+away, the whole of the revellers were on view, caught in a trap, as
+there was only one exit. Most of the men were fined or suspended, the
+bits of iron were discovered on the levers, and the stoker had a week's
+notice to clear out, and lock-up valves were fitted on every boiler and
+the keys kept in the manager's desk ever after.
+
+
+19. _Question._--Can you always depend on the safety-valve lifting when
+the steam rises?
+
+_Answer._--I always keep an eye on the pressure gauge, and if I find
+that the safety-valve does not lift at the pressure it ought to lift at
+I know that the valve is sticking, and I lift the lever and let the
+steam out; the cause of the sticking may be that the valve has worn down
+in its seat and becomes conical, or there may be a shoulder on the valve
+that would cause it to stick, or it may be that the lever and fulcrum
+were smeared with oily dirty waste in the process of cleaning and not
+wiped off, but left to bake between the parts, which would prevent the
+free action of the safety valve.
+
+
+20. _Question._--Why is the safety-valve lifted at times, especially
+when getting steam up?
+
+_Answer._--It is often done by old stokers as well as new ones, and is
+more of a silly habit than of trying the pressure of the steam,
+especially as there is nowadays a pressure gauge for every boiler in a
+stoke-hold. By lifting the safety-valve while steam is in the boiler and
+dropping it down again is a dangerous practice; there is a rush of steam
+to the valve when lifted, and when it drops the rush of steam is
+instantly stopped, and rebounds like an india-rubber ball hit against
+the wall, and this commotion within the boiler is likely to blow the
+stop-valve to pieces or the manhole cover off. Besides that, there is
+always dust floating on the surface of the water, especially in a boiler
+just cleaned, and when the valve is lifted the dust is carried up with
+the steam, and when the valve is dropped the dust is caught under it and
+often causes the valve to leak.
+
+
+21. _Question._--When the water in the gauge-glass appears motionless
+while the boiler is working, what does it portend, and how would you
+proceed to rectify the stagnation of the water?
+
+_Answer._--It portends that the passage for the water is choked and
+requires clearing, and I would lose no time in commencing to rectify the
+stoppage; as a stoker who is responsible for the safety of the boiler I
+am always prepared for emergencies. I commence by shutting both cocks of
+the glass, the steam and the water, and unscrew the small bolt in the
+water gauge, which is fixed there for the purpose of clearing the tube
+that conveys the water to the glass, and with an iron wire in one hand,
+I open the water cock with the other hand, and push the wire into the
+small hole from which I took the bolt, giving several pushes and pulls
+while the water and steam are flying out, until the tube is quite clear;
+then I withdraw the wire, shut the cock, and serve the steam cock in
+like manner; and while I was doing all this the bottom cock of the gauge
+(the blow-out cock) was open from the beginning. Then I commence to put
+the pressure on the glass by warming it with steam from the top cock
+slowly; then I open the water cock a little, and so on, alternately;
+then I commence shutting the blow-out cock a little. By these
+man[oe]uvres the pressure on the glass is put on gradually instead of
+popping it on too suddenly and breaking the glass, as is often done by
+the _more-haste-the-less-speed_ stoker; now I shut the bottom cock and
+open the other two, and the water bounds into the glass quite frisky,
+and the boiler is safe for the present.
+
+
+22. _Question._--What would be the consequence if the steam cock of the
+water gauge was choked, while the water cock was clear, or vice versa?
+
+_Answer._--The consequence would be most serious for the boiler, as the
+water would be forced up into the glass by the steam under it, and would
+make it appear as if too much water was in the boiler, and the stoker
+would proceed in the usual way to blow out some of this, apparently,
+surplus water; and then watch to see it come down to the working level
+in the glass, but he watches in vain--it will never come down. He might
+empty the boiler dry, and the water in the glass will be there as long
+as a breath of steam remains in the boiler to keep it up. And in the
+event of the water-cock being choked while the steam-cock was clear the
+consequence would be equally dangerous, for the water that was in the
+glass before the stoppage occurred would remain in it, for the stoppage
+would not allow it to drop down into the boiler again; so there it would
+remain, and when the stoker came round to look at his boiler, unless he
+happened to notice that no movement of the water was visible, he would
+pass on without further ado, and remain in total ignorance of his
+danger. Hence the necessity for the stoker to blow out his water gauge
+every time he comes in front of his boiler, and if the water enters the
+glass in a sluggish or dilatory way the cocks need to be cleared of the
+partial stoppage, and let the water enter the glass with a rush.
+
+
+23. _Question._--Could a boiler collapse without affecting the fusible
+plug?
+
+_Answer._--Yes; the tank that supplied the boiler with water leaked
+badly, and to stop the leaks a quantity of fine oatmeal was mixed with
+water and poured into it, and in due time reached the boiler; but
+instead of the oatmeal permeating the whole of the water in the boiler,
+it never got beyond the parts surrounding the fireplace; it stuck on the
+sides and top thickly, and was baked hard on them. After a few days the
+sides of the fire-tube bulged inwards nearly twelve inches, and the
+boiler had to be stopped and blown out, and the fusible plug was found
+to be unaffected--it was one selected by a Boiler Insurance Company, who
+had to repair this damage, and the stoker was exonerated from blame, but
+there is little doubt that if the plug had leaked the mishap would have
+been attributed to shortness of water and the stoker would be blamed for
+what he did not do, and get the sack into the bargain.
+
+
+24. _Question._--Why is it that an injector can force water into a
+boiler from which the steam comes to work the injector at a greater
+pressure than is in the boiler?
+
+_Answer._--The secret of the working of the injector is due to the
+velocity of the steam issuing from the point of a conical tube, and
+water issuing from another conical tube somewhat larger than the steam
+cone, and a partial vacuum created in the barrel by the steam and cold
+water meeting--as both cones face each other. The cones are about four
+inches long, one and a quarter inch wide at the mouths, and about one
+half of an inch at the points. The suction pipe, steam pipe and delivery
+pipe are about one inch diameter, and the overflow pipe half an inch
+diameter, and the water tank three feet below the level of the injector,
+the space within the barrel might be twelve square inches; the water and
+steam cocks are supposed to be always open, and this is how the injector
+is started working. The water-wheel is turned partly round, and a
+figured disc behind it indicates the quantity of water let into the
+barrel, while the steam is let in by turning a wheel attached to a
+quick-screw spindle; then there are ructions inside--the steam and water
+have come together, and the water overflows through the half-inch pipe;
+but by a little manipulation of the water, air will soon start it
+working; then the overflow ceases, and the air rushes into the pipe and
+hums, and the injector is working. And the reason of its working is, in
+my humble opinion, the concentration of water and steam, with the vacuum
+thrown in, that gives additional pressure to the water in the injector.
+I might venture to say it gives fully ten lb. on the square inch over
+and above the pressure of steam within the boiler.
+
+
+25. _Question._--The noise created by the injector while working being
+very objectionable, could it be mitigated? And, if so, how?
+
+_Answer._--Yes; I succeeded in quieting an injector in one establishment
+where anything louder than the scratching of a goose-quill was
+considered a nuisance. I first began by putting a piece of paper against
+the mouth of the overflow pipe while the injector was working, and the
+noise ceased, but soon after that the paper was sucked up into the
+injector. I then applied a leathern disc, which answered well, and
+proved just the right thing; sometimes the water blurted out, but not
+often, and the leathern disc was permanently established; but the
+injector would not work with water above 100 degrees of heat; so I would
+start with cold water and gradually turn on the hot water and shut off
+the cold, and she never noticed the change, but the noise was stopped.
+
+
+26. _Question._--How would you quiet a noisy pump--one of those stuck up
+in a corner of the stoke-hold that can be heard, but not often seen?
+
+_Answer._--I had one of them once--a very good little "Manchester Donkey
+Pump," but as noisy as they make 'em--and it became a question whether
+she should be discarded for an injector; she was bolted to a wall in the
+basement of a block of offices and could be heard throughout the
+building, and my employer told me that he would willingly give a 5_l._
+note to anyone who would stop the noise. The donkey was vertical; I took
+off both valve covers and drilled a 3/8-inch hole in each projection
+from the cover that gave the valve its lift, and drove a wooden peg into
+each hole from the under side, and rasped them down to give the required
+lift, and put the covers on again and started the donkey, and after some
+more raspings of the plugs I started her again, and this time was
+successful; she worked like india-rubber, no noise whatever, and I
+gained more than was offered to quiet her--a cheque of 21_l._ This
+happened in Draper's Gardens, Throgmorton Avenue, E.C.
+
+
+27. _Question._--When several boilers are working in a row, and one of
+the middle ones has to be cleaned, what would you do to keep it cool
+enough to enable the men to do the cleaning, and also to protect them
+while in the boiler?
+
+_Answer._--Having blown her right out I would take off the wheel of the
+stop-valve spindle, tie a piece of canvas on the top of the spindle and
+lock the wheel up, so that no one should open the stop-valve while the
+men were in the boiler. Many dreadful things have happened through some
+thoughtless or meddlesome idiot opening the stop-valve while men were
+working in the boiler. I also cover the blow-off cocks of the boilers in
+steam, as there is usually a pipe into which the steam and water is
+carried off running parallel with the cocks, and take charge of the
+spanner used in opening them, in case an absent-minded stoker might
+attempt to blow some of the muddy water out of his boiler when the men
+were in the empty one, and scald them to death, the steam rushing up
+through the blow-off. I then fill the boiler up with cold water several
+times, and allow cold water to play into the boiler from the manhole by
+means of the hose pipe, and the blow-off cock being open there is always
+a cool atmosphere for the men to work in; they can remain longer in the
+boiler, do twice the amount of work, and in less time than in a
+scorching atmosphere. When the cleaning is done and the boiler rinsed
+out, I shut the blow-off cock and fill her with clean water to the usual
+height; take off the canvas on the spindle, replace the wheel, and the
+boiler is ready for lighting up the fire.
+
+
+28. _Question._--Does familiarity with one's work as stoker sometimes
+lead to carelessness and then to mishaps? And, if so, give an instance?
+
+_Answer._--Yes; familiarity in doing things frequently during work,
+tends to a careless off-hand style of self-importance that has often
+caused trouble and mishap. A crane driver employed at the Midland
+Railway Extension at St. Pancras, came to work one winter's morning and
+the steam being already up, turned it on to warm the steam chest and
+cylinder, preparatory to commencing work for the day, forgetting that it
+had been freezing hard all night, and split the steam chest to pieces.
+His plea of defence was that steam had remained in the chest and
+condensed, and become ice, then expanding, burst the steam chest; this
+plea served all right, but the following summer he was less successful.
+He came to me during the dinner hour and said, "Jack, I can't get any
+water into my boiler, will you come over and look at her?" I did go
+over, and on looking at the water gauge saw it was empty, opened the
+cocks, but dry steam came forth, opened the fire door and found a bright
+fire of coke; while the engine was pegging away to get water into the
+boiler. I said, "Bill, stop your engine and draw your fire at once, and
+my name's Walker." I went back quicker than I came; and an hour later
+he came over to me looking very down, and said, "Jack, I've done it." I
+knew what he meant and went over with him to look at the boiler. It was
+as complete wreck, and I told him to fly off and get any money that was
+owing him before he got locked up; he did go, and I never saw him since.
+This man was an engine fitter before he took to engine driving--poor
+fellow, I was very sorry for him. Another instance. A stoker had to fill
+a boiler and get up steam in her one Sunday morning, there was a big
+tank over the stoke-hold from which water was taken to fill cold
+boilers, a two-inch pipe with stop-cock led to the top of each boiler
+from the bottom of the tank. But the tank was empty on this occasion; a
+donkey pump close by was used to keep the tank filled, but this boiler
+was the one from which the donkey took her steam, and was now empty, but
+the stoker solved the puzzle: a boiler with steam was in use about fifty
+yards away, and having a steam-pipe connection to the empty one he
+opened the cock and commenced letting the steam into her, but it was
+condensing as fast as it went in; and being one of the extra clever
+ones, he lighted a fire in the grate so as to stop the condensing, and
+did stop it, and let in sufficient steam to work the donkey-pump and
+partly filled the tank, and was proceeding to open the two-inch cold
+water pipe when one of the workmen passing by saw some cotton waste
+smoking strongly on top of the boiler, which induced him to open the
+furnace door, and he saw that the boiler was red-hot and collapsed; he
+rushed up to the stoker who had his hand already on the stop-cock to let
+water into her when he was forcibly pulled away from it, much against
+his will, but when he saw the damage he had caused he sheered off and we
+saw no more of him. This case occurred at the London Hydro-Carbon Oil
+Works, Southall, W. One more: On a Sunday morning a stoker came in to
+break the joint of a manhole, empty the boiler and fill her up again
+with water. After taking the dogs off and securing the cover from
+falling into the boiler, the stoker gave the cover a tap with the end of
+the spanner to loosen the joint, but the cover showed no signs of
+slackening, and the end of a crowbar was requisitioned but without
+result; and in this case, as in a former one, my opinion was solicited
+as well as help. I used the crowbar end harder every blow; when at last
+the cover seemed to spring downwards and upwards, I dropped the bar
+instantly, thinking the devil had a hold of the cover. After a moment's
+thought I went down into the stoke-hold and opened one of the gauge
+cocks and steam rushed out; there were no pressure gauges in this
+establishment; every one of the twenty boilers had eight weights
+suspended from the lever of the safety-valve, each weight representing
+five lb. pressure. I took off the weights one by one, and when five of
+them had been removed steam began to blow off, showing that fifteen lb.
+pressure was in the boiler while I was trying to knock the manhole cover
+in. On inquiry it transpired that the man whose duty it was to blow out
+this boiler the previous day asked his mate to do it, and the mate
+forgot all about it (it being Saturday night), and these omissions
+nearly caused a catastrophe. This occurred in Pimlico, S.W.
+
+
+29. _Question._--What advantage to the employer is the self-acting
+stoker for steam boilers?
+
+_Answer._--He can use the very cheapest and smallest coals; the cold air
+is never permitted to enter the boiler; there is no cleaning out fires
+with the door wide open; the steam is more uniform in pressure; the
+boiler will last longer, and little or no smoke. There is a drawback to
+these advantages: there must be a live stoker to keep the automatic
+stoker up to its work; he has to keep the coals supplied to the "Jacob's
+Ladder"; he has to regulate the supply of coals to the boxes over each
+boiler, and regulate the supply of coals dropping down into the
+fireplace, regulate the speed of the travelling furnace by means of the
+ratchet, clean out the ash-hole of clinkers every two hours and wheel
+them out of the stoke-hold, regulate the water-supply to the boilers,
+and keep the steam at the proper pressure, and rectify any and every
+derangement and mishap that occurs to the self acting stoker.
+
+
+30. _Question._--But are not these "self-acting stokers" smoke consumers
+as well?
+
+_Answer._--The self-acting stokers have to be kept working by the live
+stoker, and are smoke consumers so long as the coals let down on the
+travelling furnace is exactly proportionate to the requirements of it,
+but if the supply should exceed what is necessary, the grate becomes
+choked with coals and has to be cleared of some of them, and in doing
+this with coals partly burnt, smoke is inevitable; and if the supply is
+insufficient, the grate becomes bare of fuel, and cold air finds its way
+through the bars and checks the steam. To remedy this, the coal is let
+down and carried onward by the moving grate before they can be ignited,
+and soon begin to smoke, so that in these two extremes, too much or too
+little coals will cause smoke; but if this type of furnace is in charge
+of a competent stoker, there is little chance of the bars being choked
+with coals, or starved for want of them.
+
+
+31. _Question._--Is it not possible to consume the smoke of a boiler
+furnace independent of patents and mechanical contrivances that can
+only be worked by an experienced stoker?
+
+_Answer._--I have proved it possible where several boilers were
+connected and working, and using small and smoky coals. In an
+establishment in West London the system in vogue was in this manner: all
+the bridges were built hollow, and an iron flap covered the bottom of
+the bridge, and a long iron rod from the flap was carried to the front
+of the boiler, and an inch steam pipe with cock attached entered the
+fireplace above the door, and was joined to a two-inch perforated pipe
+that was fixed from left to right over and above the dead-plate. When
+the fires required replenishing, the flap was opened, then the door and
+steam cock, and six shovelfuls of coals were hastily thrown in evenly
+over the fire, and the door was then shut. The result of this
+performance was a mixture of steam and smoke observable at the chimney
+top, the steam was kept on while any smoke was visible; then the next
+boiler was served in like manner, and was a continual round of work to
+the exclusion of other things. This method prevailed for many years
+before I came on the scene, and noticing that a great quantity of steam
+was wasted for the purpose of hiding the smoke, and the six shovelfuls
+of coals hardly compensated for the steam spread over them, I induced
+the man who built the bridges, after inspection, to build them solid,
+and then I commenced a new method of firing, in this manner: I sprinkle
+the small coals with water from a hose-pipe, and burn one fire down low,
+but bright; I shut the damper nearly close and commence firing towards
+the bridge and sides, until the grate is full nearly to the crown of the
+fireplace, allowing the gas to remain in the furnace and flues for
+twenty minutes, then I open the damper a couple of inches; by this time
+there are numerous jets of flame flickering all over the coals, and now
+I open the damper to the full extent and I soon have a rousing
+steam-making fire. I serve the next low fire in like manner, and so on.
+But it is necessary always while burning one fire down for the purpose
+of banking it up, to have all the other fires in good condition and
+capable of keeping up the steam independently of the one to be banked
+up; if the others should burn down too low before one of them is banked,
+smoke will follow the neglect. I remained several years in this employ;
+my method was very successful, with proper care and watchfulness, and
+was adopted in a similar establishment in South London. The former
+establishment was the West Middlesex Water Works, and the latter the
+Southwark and Vauxhall Water Works. One ton of Welsh coals was allowed
+every twenty-four hours to get the seven fires up after cleaning. Here
+is another method for consuming the smoke, but is a very wasteful one;
+four or five shovelfuls of small smoky coals are thrown on or near the
+dead-plate, where they remain until they become sufficiently heated to
+ignite, and are then pushed on to the bars by the rake, and a similar
+quantity again thrown on the dead-plate, and when ignited pushed on to
+the bars as before, and so it is continued. It is expected that the
+smoke while passing over the bright fire towards the bridge will be
+ignited, but only a very small portion of it becomes flame, and the
+smoke tends to deaden the bright fire to a great extent. The door has to
+be opened so frequently in this method, and in pushing the coals from
+the dead-plate to the bars a large amount of live fuel drops down into
+the ash-pit, and if this should be thrown into the furnace again, the
+fire is deadened immediately. There is no economy in this method, which
+I tried years ago but never continued since.
+
+
+32. _Question._--Is there any difference, and if so, what is it, in
+locomotive and stationary boiler stoking?
+
+_Answer._--There is a wide difference between the methods, not only of
+firing but of the general work of the firemen and the stoker. (I cannot
+see why one should be called stoker and the other fireman, for they
+both have to keep the fire going and the steam up). The loco. fireman
+had to be at the engine shed forty-five minutes, and the driver thirty
+minutes, before the time of the train starting; the fireman gets the
+stores necessary for the journey, such as oil, tallow, cotton waste,
+yellow grease, and perhaps fog signals, gets his lamps from the lamp
+room already trimmed--these are the head lamp, side lamp, water gauge
+lamp, tail lamp and hand lamp; he places the head lamp on the right hand
+side of the buffer plank, the side lamp on the left side of the tender,
+the gauge lamp close to the glass, the tail lamp behind the tender; he
+has to take his engine to be coaled (it used to be coke in my early days
+on the L. & N. W. R.), and fills his tender with water, and brings his
+engine over a pit, fills the axle-boxes of engine and tender; by this
+time the driver shows up, and goes under the engine and thoroughly
+examines every part of the gear; then he oils her, and both men sign on
+for the particular train that the engine's number is in line with, and
+run down the incline to Euston, where they hook on to their train and
+wait. If it should turn out to be a particularly heavy train, the driver
+will request the pilot-engine driver to hook on and go perhaps as far as
+Tring or Wolverton with the train, otherwise the pilot will detach at
+the top of the incline at Camden; if it should be a night train, with
+the pilot in front, it is an experience never to be forgotten by a young
+stoker. (I was not far in my teens when I had this experience, but an
+old man now). And at last the signal is given us to start; we blow the
+whistle and off we go, two engines panting, puffing, sending up showers
+of sparks, and soon we leave Camden behind, and by the time we reach
+Watford we are travelling about fifty miles an hour; this is the speed
+to test the stoker who has to light his lamps the while, travel round
+the foot-plate and keep his balance, and replenish his fire and climb
+the tender frequently; but the passenger trains are a luxury in
+comparison to the luggage trains. The luggage engines being bigger and
+stronger than the passenger engine requires more steam and water,
+because she has more than double the load to run with, and at the
+stations wagons have to be shunted frequently and often re-shunted; some
+are left and others taken to far-off places; the guard's van has to be
+detached always in order to have it at the end of the train; the stoker
+is hard at work with the brake putting it on and off, jumping down to
+hold the points, or coupling wagons--this is not his business, but he
+does it to facilitate the work. When the luggage train had to get into a
+siding to let a passenger train go by, there was no pit (except at a
+station) for the engine to stand over, and both men would have to crawl
+under the engine to do anything necessary, through wet, or snow, or mud;
+and when starting the engine out of the siding or from a station, and
+the driving wheels slipping round, the stoker had to jump down with his
+shovel and scrape up a bit of gravel, or sand, or clay, and pop it on
+the rail in front of the driving wheel, and if that should stop the
+slipping, the engine gave a bound forward and the stoker had to run to
+keep up with the engine, throw his shovel on to the foot-plate, and
+scramble up the best way he could, or be left behind. In bad weather, if
+it rained, hailed, or snowed, both driver and stoker had to keep a
+look-out by holding their hands up before their eyes and looking between
+their fingers; when it rained, and one side of each man was wet through,
+they would change places till the other side got wet through also. These
+were the good old times. Drivers and firemen in the present time may
+thank their stars that the way was well paved for them before they
+started. So there is hardly any similarity between a stationary boiler
+stoker and a locomotive stoker, except keeping the steam up perhaps; the
+loco. stoker is the king of all stokers.
+
+
+33. _Question._--How is the stoking done on a big steam ship?
+
+_Answer._--In a Royal West Indian Mail Steam Packet, in which I was
+stoker, there were forty-five stokers and coal trimmers, forty-five
+sailors, besides a number of stewards, stewardesses, six engineers, six
+ship's officers, several mail officials, butchers, bakers, and a brass
+band of eighteen musicians. There were two stoke-holds, one fore and one
+abaft the funnel, and four boilers in each, and four furnaces in each
+boiler, and three stokers in each stoke-hold, also three trimmers in
+each stoke-hold. There was the same method of working in both
+stoke-holds, and a constant and continual round of firing kept up day
+and night. When going down on watch I have a piece of waste in each hand
+to protect them from the hot handrails; I commence work by cleaning the
+small tubes of four furnaces, then clean out the four furnaces, rake out
+the ashes from the pit and fill them and the clinkers into iron buckets,
+which the sailors haul up and empty over the ship's side. And while I am
+engaged in this work my two mates are doing my firing for me--which is
+in this way: one man fires every other fire of the sixteen fires, then
+goes round again and fires those he missed the first round, then his
+mate takes the shovel from his hands and fires every other fire, then
+fires those he missed the first round; the third man does likewise, and
+so it is constant firing all through. And having towering hot boilers
+both sides of us and roaring furnaces behind and in front, the sweat
+pours from us continually, and we are glad to pop into the engine room
+after firing to get a draught of somewhat cooler air. I happened to have
+the middle watch--12 midnight to 4 a.m.--which is the worst of the
+watches, for when I came off at four the hands on deck were always doing
+something to make a noise, and there is little chance of getting a
+sleep, and hammocks must be stowed away before eight; then breakfast,
+and the brass band strikes up for half an hour; but if there had been
+dog-watches all of us would share in the middle watch--as follows:--
+
+    Brown       Morning    Watch     4 to  8 a.m.
+    Jones       Forenoon     "       8 to 12 noon.
+    Robinson    Afternoon    "      12 to  4 p.m.
+    Brown       First Dog    "       4 to  6 p.m.
+    Jones       Second Dog   "       6 to  8 p.m.
+    Robinson    First        "       8 to 12 midnight.
+    Brown       Middle       "      12 to  4 a.m.
+    Jones       Morning      "       4 to  8 a.m. = 24 hours.
+
+A few hours after leaving Southampton all hands are mustered and
+apportioned to man the seventeen boats hanging from the davits, eight on
+each side, and the captain's gig under the stern; after this ceremony we
+get an allowance of grog. The fires are now beginning to be dirty,
+having clinkers seven or eight inches thick, which are not allowed to be
+pulled out until the whole fire is cleaned at the usual time; this
+order from the chief engineer surprised me at the time, as clinkers are
+not calculated to increase the steam, so I left them there to deaden the
+fire, but later on I found the solution; I was told by an old stoker
+that there was sharp competition between the chief engineers as to who
+could do the voyage at the least expense of coals, and that information
+explained the action of our chief engineer who would often perambulate
+the deck till midnight, watching the windsails that they should remain
+with their backs to the wind in order to prevent a breath of cool air
+reaching the fires, that would cause them to burn a few more pounds of
+coals, while some of the stokers were often hauled up in the ash-bucket
+fainting from the stifling heat of the foul-smelling stoke-hold. We were
+all supplied with fishing-lines and hooks of three different sizes, and
+extra grog when getting steam up. The method of cleaning and polishing
+the engines and all bright work was very effectual, and did the stokers
+great credit; after having scoured and polished the steel and bright
+ironwork they were frosted, in imitation of hoar frost. A pot of hot
+tallow and white lead in which a clean piece of cotton waste was dipped,
+and the parts smeared evenly in line with the metal, and when this dried
+it was dabbed, or patted, with another clean piece of waste also dipped
+in the hot tallow, which gave the metal a good imitation of hoar frost;
+the brass and copper work were burnished and shone like gold. The boat
+drill and fire drill create some wonder for the passengers, as they
+always happen unexpectedly; the former begins in this way: a large gong
+is rapidly hit with a mallet by the quartermaster, and all those stokers
+and sailors, who belong to the seventeen boats hanging from the davits,
+immediately make their way towards them and commence to clear the falls,
+and the word is given to lower all boats, while the men hold their oars
+ready to push off, and the boats are run down nearly to the water's
+edge; then it is up all boats, and those on deck run them up in a jiffy
+to their places under the davits, and coil the tails up, and this ends
+the boat drill. The fire drill takes place on another day, and commences
+in this manner: the ship's bell is rapidly rung by the quartermaster;
+the unusual rapidity of the ringing attracts the attention of all the
+passengers who commence to crowd the upper deck; the stokers drop down a
+dozen hose-pipes on the deck and run them out straight, and screw them
+to nozzles leading down to the engine room. The engineers pop the pumps
+on and up comes the water; every hose is now stiffened and the branches
+are all directed over the ship's side, where they make a grand display.
+All those of the ship's company who take no watches, as cooks, stewards,
+bandsmen, etc., have each a pail full of water in hand, others a
+blanket over their arm, all in exact line, and ready to help if
+required; and after a few minutes' display of the hose-pipes, the
+boatswain's whistle ends this drill for this voyage, and the hose-pipes
+are disconnected, rolled up, and hung up, to be ready at any moment if
+required. There are plenty of amusements on board, such as single-stick,
+glove-boxing, wrestling, etc. But the game of the "Man in the Chair," is
+one of the most laughable. A piece of board, 12 inches by 18 inches, in
+which a strong rope is inserted in a hole in each corner and knotted on
+the underside, the four ropes are carried upwards and made fast to the
+forestay, and the "chair" has to be 6 feet from the deck. There are
+perhaps thirty stokers in this game, and each one has twisted his black
+silk neckerchief into rope shape, and a volunteer sits on the chair,
+holding on to one of the chair-ropes with one hand and in the other his
+silken rope. During these preliminary tactics the passengers are
+crowding round to see what may happen. At last the man on the chair
+gives the word "Ready Boys," and then commences a real slogging match,
+hitting the chairman on legs, arms, face, neck, anywhere they can hit
+him, and every hit being a matter of chance the passengers roar when the
+man in the chair delivers a stinger to his tormentors; his blows come
+with double force, as he is high above them, and swinging round and
+round, and to and fro, they come unexpectedly and cause roars of
+laughter; while this is going on a little tub, called a spitkin, is
+surreptitiously pushed in view, and a few silver coins dropped into it
+by one of our men, which causes the audience to dip their hands in their
+pockets and a few pounds in silver are quickly thrown in; and after half
+an hour's play this game comes to an end. One more specimen of the many
+games that delight the passengers: about twenty men stand close together
+and in line, their faces to the ship's head, the front man has a bandage
+on his eyes, any one in the rank is at liberty to step out and go up to
+him and slap his cheek, and dart off to his place in the rank before the
+blindfold touches him; if he does, the touched one has to don the
+bandage, and the other pulls his bandage off and takes a place in the
+rank. When the slap is delivered, the slapper darts back to his place in
+the rank with all possible speed, and the slapped one darts after the
+other like greased lightning, and touches the wrong man perhaps, and
+pulls the bandage off, only to have to put on again, while the
+passengers roar with delight; the little tub is not forgotten in this
+game; and then the climax comes when we think the blindfold has had
+enough of it, and when a burly stoker steps out to deliver his slap, the
+rank closes up tightly, and on rushing back to his place with the
+blindfold at his heels, and the wild exertions of the man to squeeze
+himself into the rank before he is touched and the joy of the blindfold
+who has just touched his man, creates loud cheers and laughter, and the
+burly man has to don the bandage and take his stand in front. Before
+arriving at St. Thomas, there is a general clean up, bilges pumped out,
+engines cleaned, boiler fronts and lagging polished; the passengers are
+preparing for another voyage to some of the islands further west, as
+Trinidad, St. Vincent, Barbadoes, Martinique, St. Kitts, St. Lucia, etc.
+On entering the harbour guns are fired in our honour, and we return the
+compliment by firing our six-pounder from the forecastle, the Colonial
+steamer comes alongside our ship, when there are cheers and waving of
+handkerchiefs and handshaking; the bumboats come alongside also and many
+people, and board our ship, offering us a great variety of things for
+sale; women galavanting over every part soliciting the officers'
+washing, etc., etc. Our engines receive a thorough overhaul, boilers are
+cleaned, cabins and stairways painted, and all bright metal cleaned and
+repolished; our coals are delivered on board by a swarm of men, women
+and youths, of both sexes, carrying them in small wicker baskets on
+their heads, and stepping on a scale or counter on their way to the
+ship, the process occupying about three days for about 800 tons of Welsh
+coal. At last the time has come for starting for home; all visitors are
+ordered off the ship: moorings are cast off, and a man at the voice-pipe
+speaks to the engineers down below, and the great paddle-wheels revolve
+slowly for a minute, while the band strikes up some appropriate air, as
+"Afloat on the Ocean my days gaily fly," or "Afloat on the Ocean Wave."
+Then commence the wild cheering and waving of hats and handkerchiefs
+while the great paddles have lashed the water into white foam, and we
+are fairly off for a fourteen days' voyage home. In all our games on
+board in which I took part I noticed the distinguished presence of our
+highly respected captain, which I am sure greatly enhanced our takings
+in the little dish.
+
+
+34. _Question._--How is a hydraulic pump constructed?
+
+_Answer._--There are various sizes, ranging from a 1/4-inch to 4 inches
+in the diameter of the plunger or piston, as it is sometimes called; the
+larger size would be constructed in this manner; the barrel of the pump
+is 3 feet long, and on its top, and in line with it, and in the same
+casting, an air chamber is situate into which water and air enter at
+every suction of plunger, and serve as a buffer or cushion in the
+delivery stroke. The spindle of the plunger is connected to the piston
+of the steam engine by a hole and stuffing box in the cylinder cover,
+and a connecting crosshead secures the spindle of the plunger and the
+extra piston, so that would bring the crank of the engine, the
+connecting rod, piston, extra piston, and plunger all in a straight
+line, and a direct stroke. About 6 inches of the plunger is occupied by
+the packing at the outer end; a solid ring of iron an inch wide, and an
+inch high, and securely pinned to the plunger, has a leather cup pushed
+on to it, then a loose ring is slid up against the back of the leather
+cup and another cup, and another ring, until the space for the packing
+is filled up; then a nut is screwed up behind these which brings cups
+and rings tightly together, and a jam-nut with a split-pin going through
+nut and spindle and opened wide enough to clear the sides of the barrel,
+and the hydraulic pump is ready for work.
+
+
+35. _Question._--How is a hydraulic accumulator constructed, and why is
+it necessary?
+
+_Answer._--By having an accumulator, a lift, crane, or press, works
+smoothly, as there is a steady and smooth supply of the power; whereas
+without it, the lift, crane, or press, would work in jerks or jumps;
+with every stroke of the pumps there would be a jerk; it would be an
+intermittent not a continual power. The accumulator consists of a
+cylinder of cast iron about 9 feet in height, 4 feet outside diameter
+and 3 feet internal diameter; it rests on massive oaken timbers about 4
+feet from the ground; inside the cylinder is a ram 9 feet high, also 2
+feet outside measurement, and 12 inches diameter inside; it is
+lathe-turned, smooth and bright; four slabs of cast iron, each a quarter
+of the circumference of the base of the cylinder, are placed over four
+steel bolts that have to support the dead weight, each bolt being about
+12 feet high, 4 inches in diameter, with square necks and flat heads,
+and a hole in each slab to receive the bolts; the flat heads of the
+bolts are to facilitate the accumulator resting level on the oaken
+timbers; the slabs would be 2 tons each. On the slabs are fixed small
+segments all round and round the base of the cylinder until the required
+number (perhaps 150) is placed one on top of the other, each segment
+weighing 2 cwt.; then the crosshead is placed over the top tier, and
+having a hole in each of its four arms it is entered on the bolts which
+have a screw-thread; the nuts are put on and screwed up tightly, and the
+accumulator is erected.
+
+
+36. _Question._--How is the accumulator started working?
+
+_Answer._--The engines are started pumping into the ram and cylinder,
+whose drain-cocks have previously been opened, and air and water issues
+from them; when the air has escaped they are shut off, and then the
+great mass of iron and steel begins to tremble and totter and moves
+upwards and upwards, and on nearing the limit of its journey the top of
+the accumulator lifts a projecting lever which has a small chain
+attached to it, the bottom end of the chain is attached to the steam
+throttle valve, and when the chain is pulled up at the top the steam is
+shut off at the throttle-valve and the engine stops, but will start as
+soon as any water is taken from the accumulator.
+
+
+37. _Question._--Is there any similarity in terms used in hydraulic work
+and steam boiler work?
+
+_Answer._--There are several terms common to hydraulics and steam; the
+steam boiler might be called an accumulator of power; there is a
+slide-valve in hydraulics as in the steam engine, to admit the power and
+to allow the exhaust to escape; there are stop-valves and intermediate
+valves in hydraulics, as in steam pipes, also air-vessels in each: there
+are suction and delivery pipes and valves in each, and relieve valves
+also in each; there is a cylinder in each in which the power is
+concentrated; there are reversing levers in a hydraulic crane, as in a
+steam crane.
+
+
+38. _Question._--Who invented the atmospheric engine, and how was it
+constructed?
+
+_Answer._--Savory, a mining agent, invented the first method, which he
+called an engine, of drawing water up from a well by means of a vacuum
+which he happened accidentally to discover a method to create, and the
+pressure of the atmospheric combined with it. He procured a real steam
+boiler with a safety valve and gauge cocks and erected two vessels in
+which to create a vacuum; a suction pipe from the bottom of each vessel
+led down into a well beneath the vessels, and a valve that opened
+upwards was on the end of each pipe. When about to start work, steam
+from the boiler was turned into one of the vessels, and kept on until it
+was as hot as the boiler itself, while a drain cock was kept open the
+while, and when air and water had been forced out of the vessel steam
+was shut off, and water from a tank above the vessel was allowed to flow
+on it, which soon made a vacuum inside the vessel, and water was sucked
+up through the valves opening upwards and delivered into a tank placed
+for the purpose. While this performance was in progress, the other
+vessel was being charged with steam to repeat the performance, etc. This
+is the extent as far as I know of Savory's claim to be the inventor of
+the atmospheric engine.
+
+
+39. _Question._--Who was the real inventor then?
+
+_Answer._--Newcomen and his partner Cawly adopted a working beam, that
+is, a beam working on a centre or trunnion. At one end of the beam was
+the pump, at the other was an iron cylinder with an iron piston in it;
+both ends of the beam were arched or sexton-shaped, and had a chain on
+each, one connected to the pump rod, the other to the piston rod. When
+about to start work, the piston being up near the top of the cylinder,
+steam was let in under it and a jet of water was let in which soon
+condensed the steam and created a vacuum within the cylinder, and the
+piston was drawn down to the bottom and the pump drawn up with its load
+of water; and a counter weight was attached to the pump-rod to always
+bring the piston to the top of the cylinder after each descent. This is
+a very brief description of this atmospheric engine; there were now only
+two cocks to open and close--the steam cock and water cock, and the
+engine only required a boy for this purpose, but the boy himself added a
+share in this engine. In order to have a relief from the monotony of
+opening and shutting the cocks alternately, he tied strings to the
+handles and then connected to the working beam in such a manner that the
+cocks were opened and closed exactly at the nick of time; this caused
+the engine to work far more regularly and to do twice the work it had
+done previously, the boy's name was Humphrey Potter.
+
+
+40. _Question._--What did James Watt do in connection with the
+atmospheric engine?
+
+_Answer._--Watt being a mathematical instrument maker, was requested to
+repair an old engine used by some students of Glasgow University; having
+finished the repairs, and in working this model (the best type of the
+atmospheric engine), he found and proved by many and various
+experiments, that an enormous waste of fuel was absolutely necessary in
+working the engine; he found great difficulty in keeping the air from
+entering the cylinder, and the cylinder top was so exposed to the
+atmosphere that the steam was much condensed when it entered the
+cylinder, and he came to the conclusion to put a cover on the top of the
+cylinder, and allow the piston-rod to play in a hole in the cover with a
+gland and stuffing box, and _to press down the piston with steam instead
+of the atmosphere_. This engine was no longer atmospheric, it was a real
+steam engine, the first ever seen or constructed, for steam was used to
+create the vacuum, and steam was used to work the piston; but this was
+only the beginning of his great improvements. This engine though
+suitable for the purpose of pumping water, was totally unsuitable for
+continuous rotary motion, the steam acting only on the downward stroke
+after the piston had been pulled up to the top of the cylinder by means
+of the additional weight fixed on the pump end of the beam. He devised a
+method to admit steam under the piston as well as above it, but the
+flexible chains although suitable for the down stroke of the piston were
+powerless in the up stroke, they would hang listless and useless. This
+being so, he determined to get rid of the chains at both ends of the
+beam, and also both arched ends, and substitute a ridged connection at
+both ends of the beam. He put an iron connecting rod from the end of the
+beam to the pump rod, and the other end of the beam was connected to the
+piston rod by a crosshead; to this engine he attached that grand
+appendage the "Parallel Motion" which is the pride of the beam engine up
+to to-day. He devised the improvement of the separate condenser for the
+exhaust steam, instead of the jet of water under the piston. He invented
+the crank for his engine, also the sun and planet motion, also the
+throttle valve, also the counter to indicate the number of revolutions
+the engine had performed, also the "Cut off," the steam moving the
+piston by expansion when it was cut off at one-third the length of the
+cylinder, and thus saving two-thirds of the steam and a more uniform
+rate of speed.
+
+
+41. _Question._--Give a description of the Sun and Planet method, and
+why he invented it?
+
+_Answer._--The sun and planet were two cog-wheels geared into each
+other, the sun being 3 feet diameter and the planet 2 feet diameter, the
+latter was keyed tightly on the bottom end of the connecting rod, and
+the sun which was keyed tightly on the end of the shaft, that was to
+revolve and work the machinery. But although this method did make the
+machinery revolve, it was not smoothly, for when the planet wheel was at
+either top or bottom of the sun wheel, the power of the engine was less
+effective than it was half way in the opposite positions. This led Watt
+to add a large wheel on the shaft of the sun wheel, called the fly
+wheel, which equalised the rate of motion to uniformity. Watt invented
+the crank for his engine, but one of his men gave the tip to an engineer
+at Bristol, who forthwith took out a patent for it and forestalled Watt,
+who had to invent another means--the sun and planet. But when the term
+of the patent expired, Watt resumed the crank method instead of the sun
+and planet, which was noisy, the wear and tear very great, and also
+expensive.
+
+
+42. _Question._--What other things did Watt do towards the perfection of
+the steam engine?
+
+_Answer._--He added the air pump to his engine to draw the condensed
+steam and water from his separate condenser; he invented the throttle
+valve and the governor, in order to sustain a uniform rate of speed in
+the engine, whatever pressure of steam might be on, or variation of
+work, whether heavy or light.
+
+
+43. _Question._--Why is the power of the engine called horse-power?
+
+_Answer._--Before the invention of the engine, horses were employed in
+mills and mines, and other places; the number of horses employed in a
+mill or mine, indicating the amount of work going on, and the necessity
+of employing them, and when the steam engine came on the scene, and a
+purchaser wanted, he was told that the engine was equal to so many
+horses; that comparison gave the purchaser a clear idea of the engine he
+required. Savory was the first to suggest this comparison, but Watt knew
+that horses differed in size and strength, and in order to be sure of a
+safe standard for his engine power he experimented with big horses in
+some London breweries, and after careful calculation and comparison he
+fixed a horse-power at 32,000 lb., that is to say, that a horse could
+lift that weight of water one foot above the ground in a minute for
+eight hours per day. This standard has remained ever since, although it
+is above the average of the power of the average horse, it is in favour
+of the purchaser of an engine, as well as being capable of working more
+than eight hours a day, or twenty hours if required.
+
+
+44. _Question._--What is meant by "nominal horse-power"?
+
+_Answer._--It is a rough and ready way of giving some idea of the power
+of an engine or engines on the basis of the number of inches in the area
+of the cylinder or cylinders, but when the process of taking the diagram
+of the engine is gone through the term nominal is dropped, and indicated
+horse-power is then expressed, because it was proved by actual
+experiment and certainty.
+
+
+45. _Question._--How is that performance accomplished?
+
+_Answer._--In horizontal engines there are generally two gun-metal
+screw-plugs on the top of the cylinder, one over each end and in front
+of the piston; when a diagram is to be taken, these plugs are taken out
+and other screws put in their places, to which a copper pipe is
+attached; the screw plugs are 1 inch in diameter, also the copper pipes;
+and exactly mid-way on the copper pipe is a small cylinder which moves
+on a pivot, by means of a string with a turn round it. One end of the
+string is fixed by a clip on the connecting rod, the other end anywhere
+to keep the string tight, so that by the movement of the steam entering
+the cylinder at either end, and the connecting rod working backwards and
+forwards, the small cylinder is made to turn frontways and backways; and
+within the small cylinder is another cylinder very much smaller; it has
+a tiny piston within it, and as the steam presses on the little piston
+at every stroke of the engine, a pencil from the outer cylinder is fixed
+in a slot and marks the movements of the little piston on a roll of
+prepared paper, slid over the inner cylinder for that purpose, the
+pencil being kept up to the paper by means of a small steel spring. This
+diagram on the paper cylinder, not only is used for determining the
+power of the engine, but for detecting any irregularity in the
+slide-valve movements. Every hour during the trial the finished diagram
+is torn off the roll and a fresh one started, and when time is up the
+engine is stopped and the diagrams compared. Then commence the
+calculations, which are gone through somewhat in this manner: the common
+multiplier is found by multiplying the area of the piston in inches by
+the speed of the piston in feet per minute and the product divided by
+32,000 (Watt's horse-power), then the effective mean pressure found on
+the diagram is multiplied by the common multiplier, and the quotient
+will be the _indicated_ horse-power of the engine.
+
+
+46. _Question._--How is the consumption of coals apportioned to the
+horse-power of the engine at the finish of the trial?
+
+_Answer._--The consumption of coals in pounds is divided by the product
+of the indicated horse-power and the time in hours. The quotient is the
+quantity consumed per horse-power per hour.
+
+
+47. _Question._--Would the quality of the coals used in the trial be of
+the same quality as will be used in the ordinary working of the boiler
+after the trial is ended?
+
+_Answer._--No; the coals which are used in the trial are generally the
+best Welsh, not shovelled up indiscriminately, but carefully
+hand-picked, weighed and wheeled into the stoke-hold; the engine during
+the trial is lavishly supplied with oils and tallow, with great
+regularity. After the trial, and the horse-power is indicated, the
+boiler resumes her ordinary work; the stoker is ever after expected to
+create sufficient steam with very inferior coals to develop the same
+amount of power in the engine as was done in the trial. I think that is
+very unfair to the stoker.
+
+       *       *       *       *       *
+
+"Let the finish give you pleasure" was the last headline in my last
+school copybook in the long, long ago; and it has given me as much
+pleasure to begin this catechism as to finish it; it has given me
+pleasure to offer to brother stokers my very long experience in stoking,
+and kindred vocations, such as hydraulics, steam-pipe joint making,
+water-pipe joint making, engine driving, etc., in the hope that in the
+perusal of this catechism they may find something to their advantage.
+And with my best wishes for their future success, remain their true
+friend.
+
+                                                    W. J. C.
+
+1906.
+
+       *       *       *       *       *
+
+        LONDON: PRINTED BY WILLIAM CLOWES AND SONS, LIMITED
+ GREAT WINDMILL STREET, W., AND DUKE STREET, STAMFORD STREET, S.E.
+
+
+
+
+
+End of the Project Gutenberg EBook of The Stoker's Catechism, by W. J. Connor
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE STOKER'S CATECHISM ***
+
+***** This file should be named 24441.txt or 24441.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/4/4/4/24441/
+
+Produced by Stephen Blundell and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/American Libraries.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
