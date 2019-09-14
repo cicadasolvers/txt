@@ -1,0 +1,1546 @@
+The Project Gutenberg EBook of The Water Supply of the El Paso and
+Southwestern Railway from Carrizozo to Santa Rosa, N. Mex., by J. L. Campbell
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Water Supply of the El Paso and Southwestern Railway from Carrizozo to Santa Rosa, N. Mex.
+       American Society of Civil Engineers: Transactions, Paper No. 1170
+
+Author: J. L. Campbell
+
+Release Date: August 5, 2005 [EBook #16440]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE WATER SUPPLY OF THE EL ***
+
+
+
+
+Produced by Juliet Sutherland, Jared Ryan Buck and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+
+AMERICAN SOCIETY OF CIVIL ENGINEERS
+
+INSTITUTED 1852
+
+TRANSACTIONS
+
+Paper No. 1170
+
+THE WATER SUPPLY OF THE EL PASO AND SOUTHWESTERN RAILWAY FROM CARRIZOZO
+TO SANTA ROSA, N. MEX.[A]
+
+BY J.L. CAMPBELL, M. AM. SOC. C.E.
+
+WITH DISCUSSION BY MESSRS G.E.P. SMITH, KENNETH ALLAN, and J.L.
+CAMPBELL.
+
+
+
+
+_Location_.--The El Paso and Southwestern Railway traverses the arid
+country west of the 100th Meridian in New Mexico, Texas, and Arizona, as
+shown on the map, Fig. 1. The water supply herein described serves that
+division of this road lying between Carrizozo and Santa Rosa, a distance
+of 128 miles.
+
+_Rainfall_.--The average annual precipitation is 9.84 in. The year 1909
+was exceptionally dry, with a rainfall of less than 5 in.
+
+_Original Water Supply_.--East and west of El Paso, for distances of 270
+miles in each direction, the railway crosses no streams, and the supply
+was obtained from wells ranging from 100 to 1,100 ft. in depth. On the
+division served by the new supply, this well-water is of very bad
+quality, as shown in Table 1.
+
+After the most thorough practicable treatment, these waters were still
+so bad that they caused violent foaming, low steam pressure, hard
+scaling, rapid destruction of boiler tubes, high coal and water
+consumption, extraordinary engine failures and repairs, small engine
+mileage, low train tonnage, excessive overtime, and a demoralized train
+service.
+
+
+[Footnote A: Presented at the meeting of May 4th, 1910.]
+
+
+TABLE 1.
+
+----------------------------------------------------------------
+            |  Incrusting solids, in  |  Non-incrusting solids,
+  Station.  |    grains per gallon.   |   in grains per gallon.
+----------------------------------------------------------------
+Carrizozo   |           31            |             7
+Ancho       |           14            |            14
+Gallinas    |           91            |             8
+Varney      |          180            |            14
+Duran       |          127            |            55
+Tony        |          115            |            11
+Pastura     |          141            |             6
+Pintado     |           81            |             9
+Santa Rosa  |          140            |            29
+----------------------------------------------------------------
+
+
+_New Water Supply_.--The writer was directed to find, if possible, a
+supply of good water, and his efforts proved successful. The pure water
+now in use has eliminated the adverse conditions before mentioned; has
+improved the _esprit de corps_ of the train service; and, in a short
+time, the reduction in operating expenses will liquidate the first cost
+of the new supply.
+
+This supply is taken from the South Fork of Bonito Creek, which flows
+down the eastern slope of White Mountain. The latter is 12,000 ft. high,
+and is 16 miles south of Carrizozo (Fig. 1). The watershed is a granite
+and porphyry formation, heavily timbered, and the stream is fed by snow
+and rain. This combination yields an excellent water, carrying on an
+average 6.05 grains of incrusting and O.95 grains of non-incrusting
+solids per gallon. The North Fork of the creek carries 16.60 and 2.40
+grains, respectively. Below the junction of these forks, the water
+contains 10.48 grains of incrusting and 1.57 grains of non-incrusting
+solids per gallon; and a branch pipe line takes water from the creek
+during intervals in dry years when the daily flow of the South Fork is
+less than the consumption.
+
+_The Water Plant_.--The water is taken to and along the railway in pipe
+lines. The system includes 116 miles of wood pipe, 19 miles of iron
+pipe, one 422,000,000-gal. storage reservoir, four 2,500,000-gal.
+service reservoirs, two pumping plants in duplicate, and accessories of
+valves, stand-pipes, etc.
+
+From a small concrete dam across the creek at an elevation of 7,728 ft.,
+the pipe line drops down the narrow valley eastward, 5-1/2 miles, to an
+elevation of 6,980 ft, where it turns abruptly north, rising in 1 mile
+to a table-land, 7,215 ft. above sea level, across which it continues
+northward 5 miles to the storage reservoir, which is on the north edge
+of this elevated country. Hereafter, this reservoir will be called the
+Nogal Reservoir, from the old mining village of Nogal lying 1-1/2 miles
+to the north and 600 ft. below it. From this reservoir, the line drops
+abruptly to the Carrizozo plain, and crosses the latter northward to
+Coyote, at Mile 156, on the railway, at an elevation of 5,810 ft.,
+passing, on the way, 6 miles east of Carrizozo, to which a branch pipe
+runs, Carrizozo being 5,430 ft. above sea level. There is a
+2,500,000-gal. reservoir at Coyote, and a similar one at Carrizozo.
+
+
+[Illustration: FIG 1. MAP OF LINES OF EL PASO & SOUTHWESTERN SYSTEM]
+
+
+This describes the gravity section of the line which brings the water
+from the mountain stream to the railway. From Nogal Reservoir to the
+latter, the capacity of the pipe is equal to the future daily
+requirements; from the source of supply to the reservoir, the pipe has
+twice as great a capacity, thereby storing surplus water. This section
+is 32 miles long, with a 6-mile branch line.
+
+The second, or pumping section, extends eastward along the railway,
+rising from an elevation of 5,810 ft. at Coyote to 6,750 ft. on the Corona
+summit, which is the water-shed line between the Rio Grande on the west
+and the Rio Pecos on the east. At Coyote a pumping station lifts the
+water to Luna Reservoir and the pumps at Mile 171, and the latter lift
+it to the reservoir on Corona summit at Mile 192-1/2. This section is
+36-1/2 miles long.
+
+The third, or gravity section, extends from the reservoir on the Corona
+summit to the Rio Pecos at Mile 272, dropping from an elevation of 6,750
+to 4,570 ft. in 80 miles. The pipe line extends to Pastura, 58-1/2 miles
+from Corona, as shown on Plate V.
+
+Where the pipe line passes a water tank on the railway, a 4-in. branch
+pipe is carried to the bottom of the tank and up to the top, where it is
+capped by an automatic valve. A gate-valve is placed in the branch pipe
+at its junction with the pipe line.
+
+There are regulating, relief, check, blow-off, and air-valves,
+air-chambers, and open stand-pipes on the line, too numerous to mention
+in detail. They are designed to keep the wood pipe full, regulate flow,
+prevent accumulation of pressure and water-hammer, and remove sediment.
+
+_Water Pipe_.--A study of the profile developed a system of hydraulic
+grades, pipe diameters, and open stand-pipes limiting the pressure to
+130 lb. per sq. in., except on 19 miles of the pump main between Coyote
+and Corona where the estimated maximum pressure is 310 lb.
+
+Investigation justified the assumption that wood pipe under a pressure
+of 130 lb. would give satisfactory service for 25 years, on which basis
+it would be less expensive than cast iron, and therefore it was used.
+Cast iron was considered preferable to steel for pressures not exceeding
+310 lb. on account of its greater durability.
+
+_Wood Pipe_.--Machine-made, spirally-wound, wood-stave pipe, made in
+sections from 8 to 12 ft. long, with the exterior surface covered with a
+heavy coat of asphalt, was selected in preference to unprotected,
+continuous, stave pipe. The diameters were not so great as to require
+the latter.
+
+The first 40 miles of wood pipe was furnished by the Wykoff Wood Pipe
+Company, of Elmira, N.Y., and the Michigan Pipe Company, of Bay City,
+Mich., delivered the remaining 76 miles.
+
+The pipe is wound with flat steel bands of from 14 to 18 gauge and from
+1 to 2 in. wide. The machine winds at any desired pitch and tension. At
+each end the spiral wind is doubled two turns, the second lying over the
+first and developing a frictional resistance similar to that of a double
+hitch of a rope around a post. The ends of the band are held by screw
+nails or a forged clip, the latter being the better. It has two or three
+spikes on the under side which seat into the stave, and two side lugs on
+top which turn down over the band. The latter passes twice over the seat
+on the clip, the first turn holding the clip to the stave, while the
+second turn is held by the lugs which are hammered down over it. The end
+of the band is then turned back over the clip and held down by a staple.
+
+The staves are double-tongued and grooved and from 1-3/8 to 2 in. thick.
+The smaller thickness is sufficient. The exterior face of the staves
+should be turned concentric with the axis of the pipe and form a circle,
+so that the band will have perfect contact with the wood.
+
+The joints are formed by turning a chamber in one end of the pipe and a
+tenon on the other, or both ends are turned to a true exterior circle
+and driven into a wood or steel sleeve. The chamber and tenon were used
+in this work.
+
+Finally, each piece of pipe is covered with as much hot asphalt as it
+will carry.
+
+_Steel Bands_.--The specifications required bands of mild steel, of
+60,000 lb. strength, with an elastic limit half as great. The winding was
+spaced to limit the tension to 15,000 lb. per sq. in. If severe
+water-hammer is present, the ordinary working stress should be
+materially less than the latter, otherwise the spiral bands will stretch
+enough to permit the water to spurt out between the staves. This was
+determined to be true on 4,500 ft. of 12-in. pipe connecting the
+Carrizozo Reservoir with a water column at the roundhouse there. In
+pumping tests at the mills, attempts were made, at various times, to
+burst the pipe, but they never succeeded. Before the elastic limit was
+exceeded, the water was running out between the staves as fast as the
+pump forced it in. On the following day, pipe thus tested would carry
+the pressure for which it was designed without leaking. Except for
+defects in the band, pipe of this kind will not burst in the service
+for which it is properly designed. This is true, without exception, of
+the 100,000 pieces of pipe in this service.
+
+There has been some trouble with a number of the riveted splices on the
+banding. Such a splice occurs for every spool of banding used. In every
+case where one of these splices has pulled apart, the break was the
+result of defective riveting, permitting the rivets to pull out. In no
+case has a rivet been found sheared off, and even one good rivet appears
+to be sufficient to prevent rupture. The explanation is found in the
+high frictional resistance between the band and the pipe, which
+distributes the weakness of a bad splice over several adjacent turns of
+the band around the pipe. The band loosens a few turns only on either
+side of a parted splice, generally not more than three. In no case has
+any pipe been removed from the trench, repairs being made without
+interruption to the flow of water.
+
+It is desirable to substitute welding for the riveting of these splices.
+The trouble is not present with the round band, the wrapped splice of
+the latter giving practically 100% efficiency.
+
+The flat band was chosen for this work because it is the more
+effectively buried in and protected by the asphalt, and will not crush
+the soft wood staves under high pressure. The longevity of either the
+flat or the round steel band is dependent primarily on effective
+protection against contact with corrosive elements. Wrought iron should
+be used for this kind of service, and, for the same reason, for many
+other purposes. Engineers and consumers should join in some
+comprehensive and effective plan to bring back the old-time production
+of high-grade wrought iron.
+
+_Wood Staves_.--The staves of this pipe are of Michigan and Canadian
+white pine. This pine cannot now be had of clear stuff or in long
+lengths in large quantities; otherwise, it is unexcelled. Douglas fir
+and yellow pine, coarser and harder woods, have the advantages of clear
+lumber and long length. Cypress is not as plentiful, and redwood is
+costly. The mill tests did not determine definitely the minimum degree
+of seasoning necessary, and press of time compelled the acceptance of
+some rather green lumber. Service tests do not show that there is any
+abnormal leakage from pipe made of such lumber, and it could not now be
+distinguished in the trench by such tests. Undoubtedly, however,
+thorough air seasoning should be required.
+
+_Bored Pipe_.--Owing to its small size, a part of the 3-1/2-in. pipe
+was bored from the log. This was a mistake, for bored pipe has a rough
+interior and a reduced capacity. The inspection and culling are
+difficult and unsatisfactory, and imperfections readily apparent in a
+stave frequently escape detection in bored pipe.
+
+_Pipe Joints_.--The chamber and tenon of this pipe is an all-wood joint,
+4 in. deep. An iron sleeve makes a better and stronger joint. It
+compensates for any lack of initial tension in the banding over the
+chamber of the wood joint, and secures full advantage of the swelling of
+the wood. Cast iron is better than steel; it is more rigid, and its
+granulated surface breaks up the smoothness of the wood surface swelling
+against it. One objection to the cast-iron sleeve is that of cost, but
+it adds 4 in. to the effective length of every section of pipe, as
+compared with the wood joints. On the Pacific Coast, a banded wood-stave
+sleeve is used with success.
+
+_Coating_.--To preserve the banding from corrosion and the wood from
+exterior decay, the pipe is thoroughly enveloped in refined asphalt
+having a flow-point adjusted to the prevailing temperature during
+shipment and laying. One grade can be used through a considerable range
+of temperature. This coating endured a 2,000-mile shipment successfully.
+Each piece was carefully inspected along the trench, and any break in
+the coating was thoroughly painted with hot asphalt. Enough of the
+latter came in barrels, with the pipe, from the factory.
+
+The first 37 miles of this pipe has been in service for two years.
+Recent inspections show the coating to be in excellent condition and the
+steel underneath to be bright and clean. In some cases, where the
+initial pressure and leaking between the staves of the dry pipe were
+great, the escaping air and water lifted the coating into bubbles. At
+some points where this lifting was great enough to rupture the asphalt,
+and the soil is heavily charged with alkali, some corrosion has begun.
+
+The integrity and impermeability of this asphalt coat are quite as vital
+as constant saturation. This coating protects the entire pipe from
+exterior contact with destructive agencies. With such effective exterior
+protection, a constantly full pipe is not so imperative. In the exterior
+protection of the wood, this coated pipe has quite an advantage over
+continuous stave pipe.
+
+Each piece of pipe goes directly from the winder to the asphalt rolls,
+then to an adjacent saw-dust table, then back to the rolls, then to the
+table again, and then to the dry finishing rolls at the opposite end of
+the table. The coating thus consists of two layers of asphalt and two of
+saw-dust. When the pipe leaves the finishing rolls, the coat is hard and
+smooth and about 1 3/16 in. thick. This describes the coating as done at
+Bay City, Mich.
+
+At Elmira, N.Y., one application of asphalt and saw-dust only, without a
+finishing dry roll, completed the work; but the band was run through a
+bath of hot asphalt as it was wound, thus coating its underside also.
+This initial treatment of the band on the Wykoff pipe is necessary
+because the exterior of the stave is neither planed nor turned to a
+circle. The exterior of the pipe forms a polygon, and the band is in
+perfect contact only at the angles. The theory in regard to the Michigan
+pipe is that the perfect contact of the band and the wood on the true
+exterior circle excludes air from the under surface of the metal, and
+prevents corrosion. Experience appears to justify this theory.
+
+_Cast-iron Pipe_.--Beginning at the first pumping plant at Coyote, at
+Mile 156, and running up to Mile 166, and again commencing at the Luna
+pumps, at Mile 171, and extending up to Mile 179, the minimum pressure
+on those portions of the pump main is more than the 130 lb. per sq. in.
+allowed for wood pipe, and the final estimated maximum pressures run up
+to 310 lb.
+
+The selection of iron pipe for these pressures was, first, as between
+steel and cast-iron; and, second, as between the lead joint of the
+standard bell and spigot pipe and the machined iron joint of the
+universal joint pipe. Again, the choice was as between lead and leadite
+for the bell and spigot pipe.
+
+Cast iron was selected because of the certainty of its long life, and
+the bell and spigot pipe was selected on the basis of comparative costs
+for pipe laid. The standard lead joint was chosen on the result of
+tests. This cast-iron pumping main has a diameter of 12 in. throughout.
+
+_Pipe Weights._--Makers of standard bell and spigot pipe urged the usual
+heavy weights selected for municipal service and heavy water-hammer.
+Three pressures, _viz_., 217, 260, and 304 lb., were used for the
+division of pipe weights, on which the standard pipe-makers specified
+shell thicknesses of 0.82, 0.89, and 0.97 in. Eliminating water-hammer
+and adopting a working stress of 2,400 lb., the thicknesses are reduced
+to 0.54, 0.65, and 0.76 in. To make the latter conform to the
+specifications of the New England Water-Works Association, the pipe was
+cast to 0.57, 0.65, and 0.77 in. The reduction in cost amounts to
+$52,811.
+
+By the provision of air-cushions, hereafter described, the writer's
+anticipation of no water-hammer on the pumping main has been fully
+realized.
+
+The pipe was manufactured and inspected under the above-mentioned
+specifications.
+
+_Pipe Joints_.--There was a question about the reliability of the lead
+joint at 300 lb. The writer had a section of 12-in. pipe, with standard
+joints containing 22 lb. of lead, laid and tested to 500 lb. without
+sign of failure or leakage. The joints were caulked down 3/16 in. below
+the face of the bell. Of 8,700 joints thus made in the field, not one has
+blown out or failed. A few weeped slightly on top, and they were made
+permanently tight by additional caulking. The present maximum pressure
+is 278 lb. These joints are the standard joints specified by the New
+England Water-Works Association. It should be borne in mind that there
+is no water-hammer on this line. In 8,700 joints, 198,000 lb. of lead and
+3,200 lb. of oakum were used, or 22.76 and 0.37 lb. per joint.
+
+Leadite was tested in competition with lead, but it leaked at 100 lb.
+and failed under a sustained pressure of 300 lb. It is a friable
+material, and cannot be caulked successfully. Its principal ingredient
+appears to be sulphur. The failure was by slow creeping out of the
+joints. It is melted and poured, but not caulked. It has attractive
+features for low pressures and for lines not subject to movement or
+heavy jarring.
+
+_Air-Cushions_.--To prevent water-hammer on the pumping main, all pumps
+are provided with large air-chambers. In addition, and as the special
+feature for absorbing the shock of pumping under high pressure through a
+pipe 21 miles long, a large air-chamber in the form of a closed steel
+cylinder, 5 ft. in diameter and 15 ft. long, is mounted on the pumping
+main outside of the pump-house. This cylinder is set on its side, in
+concrete collars, directly over the pipe beneath, to which it is
+connected by a 12-in. tee, in which a 12-in. gate-valve is set. The
+cylinder is provided with a glass gauge, cocks, etc. It was designed for
+a working pressure of 300 lb., and, at each pumping plant, it has proved
+to be entirely air-and water-tight. As indicated by sensitive gauges on
+the pump main, just beyond these large air-chambers, the latter absorb
+all the water-hammer which gets beyond the air-chamber on the pumps.
+
+_Air-Pumps_.--Each pumping plant is provided with four automatic
+air-charging devices, connecting to all air-chambers of the pumps and to
+the air-chamber on the pumping main. They are of the Nordberg type, and
+have proved very efficient. They are operated only a part of the time;
+otherwise, they accumulate too much air in the chambers.
+
+_Air-Valves_.--On the entire line there are 144 automatic air-valves
+made by the United States Metal Manufacturing Company, of Berwick, Pa.
+They are working satisfactorily.
+
+_Gate-Valves_.--In addition to the customary gate-and check-valves at
+the reservoirs and pumping stations, gate-valves are located at
+necessary points and elevations in the line to control the flow of water
+and keep the pipe full, even to the extent of closing all such valves
+tight and holding the line full without flow. This is for the purpose of
+delivering through a full pipe any desired quantity of water less than
+that required to keep the open pipe full. This, of course, is on account
+of the wood pipe. As the differences of elevations are very great on the
+gravity sections of the line, and as any one valve might inadvertently
+become closed tight when other valves above would be open, the bursting
+of the pipe under such conditions is prevented either by a pressure
+relief valve attached to and immediately above the gate-valve, or by an
+open stand-pipe erected on some suitable elevation between the valves.
+This is more clearly shown on the profile, Plate V, of the ground line
+and the hydraulic grades of the pipe line. An inspection of this profile
+will show that these controlling valves are located so that, when
+closed, the pressure against them does not rise above the maximum
+pressure on the section above, due to the hydraulic grade of the line
+when carrying its full capacity.
+
+_Safety Valves_.--To prevent rupture of the pipe or injury to the pumps,
+in case the pumping mains should become obstructed, a 6-in. pop safety
+valve is mounted on the main just beyond the large air-chamber already
+described. These valves are set to release at the maximum working
+pressure of the pumps when the regular quantity of water is being
+pumped, and they are piped to the adjacent reservoir, so that there is
+no loss from them.
+
+_Check-Valves_.--Check-valves are placed in the pumping main to prevent
+the backward flow of water. There is one near the pumps, and one at the
+upper end and outside of the reservoir into which the main discharges.
+
+_Blow-Off Valves_.--These valves are located in all material valleys or
+depressions.
+
+_Stand-Pipes_.--Between the gate-valves, at certain points where the
+maximum hydraulic grade is not more than 60 ft. above the surface of the
+ground, open stand-pipes are erected. If the grade line is too high,
+relief-valves are used, as stated. Also at two points, where a steep
+grade ends near the ground surface and is followed by a flatter grade,
+stand-pipes are erected.
+
+These stand-pipes are of 6-in. iron pipe standing in a special casting
+in the pipe line and enclosed in a concrete base. They are, of course,
+open at the top, and vary in height from 15 to 60 ft., depending on the
+elevation of the hydraulic grade. They have given some checks on the
+position of this grade during the velocity measurements hereinafter
+described. Their locations are shown on the profile, Plate V.
+
+_Nogal Reservoir_.--Nogal Reservoir is the storage unit of the system,
+and is on the north edge of a table-land, 1,700 ft. above the railway, on
+the Carrizozo plain, 15 miles away. It is 11-1/2 miles from the head of
+the pipe on Bonito Creek.
+
+This reservoir is a natural basin or bowl, 1/2 mile in diameter across
+the top, 1/4 mile on the bottom, and 36 ft. deep. A level line, 1,500 ft.
+long, drawn from its bottom, comes out to grade on the north declivity
+of the table-land. On this level line an open cut was made and the
+outlet pipe laid. The cut was then closed by a dam.
+
+The supply pipe from Bonito Creek delivers water into the basin over the
+top of its southern rim, the water, as it leaves the pipe, flowing over
+a standard weir, without end contractions, into a stone gutter. A
+by-pass pipe, with suitable valves, passes around the western side of
+the basin and connects to the outlet pipe.
+
+This comparatively small amount of work equipped a very good natural
+reservoir with a capacity of 422,000,000 gal., which can be increased to
+1,000,000,000 gal. by embankments across low places in the rim.
+
+_Service Reservoirs_.--At Coyote, an artificial service reservoir, 100
+by 200 ft. on the bottom, with slopes of 1-1/2 on 1 and a total depth of
+15 ft., serves as an equalizer of the flow to and away from the pumps
+at that point. The pump-house is built alongside this reservoir. The
+delivery pipe from the Nogal Reservoir runs directly to the pumps, but
+has a tee-branch, 50 ft. long, into the Coyote Reservoir. This branch
+passes through a valve chamber between the pump-house and the reservoir.
+In this chamber there are controlling valves and an automatic overflow.
+This overflow is provided against the contingency of a full reservoir
+and idle pumps. If the pipe line is delivering water faster than the
+pumps discharge it, the surplus goes into the reservoir. This
+arrangement is self-acting and controlling. There is a similar
+arrangement at the Luna pumping plant, also at the Carrizozo service
+reservoir, and at the regulating reservoir on the Corona summit.
+
+Each of the four service reservoirs is of the same size, and lined with
+4 in. of 1:2:4 concrete. At Luna and Corona the concrete is reinforced
+with 3/8-in. round rods spaced 12 in. from center to center, both ways.
+This reinforcement should have been used in all the work.
+
+_Pumping Plants_.--The pumps at Coyote and Luna are Nordberg duplex,
+cross-compound, condensing, crank-and-fly-wheel machines, with 6-in.
+plungers, traveling 600 ft. per min. at full normal speed, and designed
+to work against 300 lb. per sq. in. They have a guaranteed efficiency of
+135,000,000 ft-lb. per 1000 lb. of steam at 150 lb. and superheated 75
+degrees.
+
+The boilers are 125-h.p., Sterling, water-tube, with Foster
+superheaters, and 33-in. stacks, 100 ft. high.
+
+Each plant is in complete duplicate pump and boiler units, only one set
+working at a time.
+
+The pump building is a substantial concrete, brick, and steel structure,
+50 by 80 ft. in plan, with a fire-wall, with two steel doors dividing
+the floor space into an engine-room 50 by 50 ft., and a boiler-room 50
+by 30 ft. A concrete coal-bin adjoins the exterior boiler-room door.
+Coal is delivered directly from the car to the bin.
+
+The plant is lighted by a small, but very complete, engine and dynamo on
+one base and run by steam from the Sterling boilers.
+
+The two plants are exactly alike throughout.
+
+_Reservoir Leakage_.--The Nogal Reservoir basin is covered with from 2
+to 5 ft. of good clay, except where it is punctured by a dike, or washed
+down to the underlying sandstone by a few gullies. These punctures or
+washes were covered or filled with clay from 1 to 4 ft. deep. During the
+first season the leakage, above the 6-ft. contour, was at the rate of 2
+in. per day.
+
+As the water fell, due to leakage, evaporation, and use, a herd of from
+300 to 400 cattle were worked around the shore line. This reduced the
+leakage to 3/8 in. below 8 ft., and to nothing below 6 ft., above the
+outlet. As the flow line rises higher each season, the puddling will be
+continued to the top. The leakage at 12 ft. above the outlet, or 17 ft.
+above the bottom, is still approximately 1 in. per day. The total
+puddling, to date, covering two seasons, is equivalent to 11,150 days'
+work of one cow, and covers an area of 1,500,000 sq. ft.
+
+The clay packed densely, the final hoof marks being not more than 1/4
+in. deep and remaining distinct under the water around the shore line
+for one year. Apparently, the reservoir will finally become water-tight
+at all elevations.
+
+The soil in which the four service reservoirs on the railway are built
+proved to be about the worst for such work. In its natural state on the
+prairie, after the excavation for the reservoir was completed, it
+filtered water at the rate of 3 ft. per day. Tamping and puddling still
+left a filtration of 12 in. per day, with a tendency to increase. Enough
+water filtered through the concrete to produce settlement and cracks.
+Finally, the concrete was water-proofed with two coats of soap, two of
+alum, and one of asphalt. This has made all the reservoirs water-tight.
+Elaterite, an asphalt paint made by the Elaterite Paint and
+Manufacturing Company, of Des Moines, Iowa, was used successfully on the
+Luna Reservoir. This paint is applied cold, and preliminary tests showed
+it to be quite efficient.
+
+The analysis of the soil is as follows:
+
+
+Loss on ignition                 3.35
+Silica                          56.36
+Oxide of iron                    2.93
+Oxide of aluminum                8.97
+Calcium oxide                   15.95
+Magnesium oxide                  0.98
+Oxides of sodium and potassium   0.47
+Carbonic acid                   11.35
+Sulphuric acid                   0.11
+Chlorine                         0.04
+Manganese                      Traces
+                               ------
+                               100.51
+Insoluble matter, 64.50 per cent.
+
+
+_Pipe-Line Leakage_.--There is no measurable leakage from the iron
+pipe. By thorough inspection and measurement at the end of two years,
+leakage on the wood pipe, between Coyote and Bonito Creek, from the
+11-and 12-in. pipe, was found to be as follows:
+
+
+On 8.6 miles, 11-in. pipe, 146,600 gal. per day = 17,046 gal. per mile.
+ " 4     "    12  "    "    14,829  "    "   "  =  3,702  "    "    "
+
+
+The 7-1/2-in. pipe on this section appears to be leaking less than the
+12-in. pipe. Inspection and measurement of it are to be made in a short
+time.
+
+There is no material leakage from the 10-and 16-in. pipe between Bonito
+Creek and Nogal Reservoir, as determined by velocity and volumetric
+measurements hereafter described. The greatest probable error in the
+velocity measurements would not exceed 1/2 per cent. If such error
+existed, and was all charged to leakage, it would amount to but 17,204
+gal. per day, or 1,582 gal. per mile, out of a daily delivery of 3,784,000
+gal.; but the measured discharge of the pipe, as determined by the
+velocity, was 5.84 sec-ft., while the mean maximum volume of this water
+over the weir at the end of the pipe is recorded by the weir as 5.88
+sec-ft.
+
+From Coyote, east along the railway, the wood pipe is remarkably tight.
+The rate of leakage from it, as determined by 600 observations uniformly
+distributed, was as follows:
+
+
+11-in. pipe              = 120 gal. per mile per day.
+8-1/2 and 7-1/2-in. pipe = 268  "    "    "   "   "
+
+
+The maximum rate on 1 mile was 1,613 gal. The minimum found was zero.
+
+The observations were made by uncovering a joint and measuring the
+leakage therefrom for 10 min. A graduated glass measuring to drams was
+used. The rate of leakage varied from 5 drops to 45 oz. in 10 min. Of
+the joints uncovered 57% was found to be leaking. It is rather
+remarkable that, in the large leakage of the 11-and 12-in. pipe between
+Coyote and Bonito, only one out of every eight joints was leaking. This
+indicates a physical defect in such joints. The largest leak found on
+one joint was at the rate of 17[,?]280 gal. per day. Leakage between or
+through the staves is not measurable, as it is not fast enough to come
+away in drops unless there is some imperfection in the wood.
+
+The insignificant leakage of 120 gal., stated above, is from the 11-in.
+pipe in the pumping main between Coyote and Corona. The present maximum
+working pressure on it is 100 lb. per sq. in. All the figures given
+above include visible and invisible leakage, the latter being such as
+does not appear on the surface. The visible leakage is but a small part
+of the total.
+
+_Stopping the Leaks_.--Generally, any ordinary leak is readily stopped
+by pine wedges. Sometimes a loose joint requires individual bands bolted
+around it. Bran or saw-dust is effective in stopping the small leaks
+which cannot be reached by the wedges. The good effect of the latter is
+likely to be destroyed by a rapid emptying of the pipe. If the water is
+drawn out faster than the air can enter through the air-valves, heavy
+vacuums are formed down long slopes, and the air forces its way in
+through the joints and between the staves. The result is that the pipe
+will frequently leak badly for some time after it is refilled, although
+it may have been tight previously.
+
+A full pipe and a steady pressure are highly desirable. This doubtless
+accounts to some extent for the extreme tightness of the wood pipe in
+the pumping main.
+
+_Grade Lines_.--The hydraulic grade lines, shown on Plate V, were laid
+as best fitting the controlling elevations. The various diameters of
+pipe were determined by Darcy's general formula, with _C_ = 0.00033 for
+wood and = 0.00066 for iron pipe, checking by Kutter's formula, with _n_
+= 0.01 for wood and = 0.012 for iron. These coefficients were taken as
+conservative and on the safe side, and such they proved to be. It was
+desired that the line should carry not less than 5 sec-ft. to Nogal and
+half as much beyond.
+
+_Velocities_.--The pipe line from Bonito Creek to the Nogal Reservoir
+affords excellent conditions for velocity and capacity measurements,
+there being no distribution service from it. Beginning at the creek, it
+consists of 12,700 ft. of 10-in. wood pipe, with a hydraulic grade of
+0.03338, followed by 48,000 ft. of 16-in. wood pipe, with a hydraulic
+grade of 0.0030625, ending on the south rim of the Nogal Reservoir.
+There is an open stand-pipe where the two pipes and grades join.
+
+When this section of the line was laid, the last car of 16-in. pipe was
+late in arriving and, as it was desirable to get water into the
+reservoir as soon as possible, 500 ft. of 10-in. pipe were laid in the
+lower part of the 16-in. line, near the reservoir, as indicated on Fig.
+2, which shows the hydraulic grades and the pipe diameters of this
+section of the line.
+
+When the first two velocity measurements, of March 10th and 31st, 1908,
+described below, were made (after the line had been put into service on
+February 20th, 1908), the 500 ft. of 10-in. pipe were still in the
+16-in. line, and the hydraulic grade was defined by the solid line,
+_ABCDE_, Fig. 2.
+
+When the third measurement, of May 12th, 1909, also described below, was
+made, the 10-in. pipe had been replaced by 16-in. pipe, and the
+hydraulic grade was defined by the solid line, _ABE_.
+
+
+[Illustration: FIG. 2.]
+
+
+The dotted line, _AFE_, is the approximate theoretical position which
+the grade, _ABCDE_, should have assumed when the 500 ft. of 10-in. pipe
+were taken out of the 16-in. line. On the contrary, it took the position
+of the grade line, _ABE_.
+
+During the interval between March, 1908, and May, 1909, the water came
+to overflow from the stand-pipe at _B_, when the line was running under
+full pressure, indicating an increase of capacity in the 10-in. pipe
+greater than a corresponding increase in the 16-in. The alignment of the
+10-in. line, vertically and horizontally, is more regular and uniform
+than the 16-in. line. The latter has many abrupt curves and bends,
+vertically and horizontally. It crosses nine sharp ridges and dips under
+as many deep arroyos. This introduces a fixed element of frictional
+resistance which does not decrease with the increasing smoothness of
+the interior surface of wood pipe, and probably accounts for the higher
+resistance of the 16-in. line.
+
+From Fig. 2 it appears that, while the 10-in. line had an initial
+coefficient of roughness slightly greater than 0.009 and now equal to
+it, the 16-in. line had one equal at first but now slightly less than
+0.01.
+
+The line from Bonito Creek to Nogal Reservoir was to have a capacity of
+5 sec-ft. Referring to the profile, it was determined that for the
+hydraulic grade of 33-1/3 ft. per 1000 ft., a 10-in. pipe was necessary,
+and that a 16-in. pipe was required for the grade of 3 ft. per 1000 ft.
+
+_Test No. 1_.--On March 10th, 1908, a quantity of bran was poured into
+the upper end of the 10-in. pipe at _A_ (Fig. 2), and the time of its
+appearance at the lower end of the 16-in. pipe at _E_ was noted. The
+time was 3 hours and 50 min.
+
+This gave:
+
+Area   of 10-in. pipe =     0.5454 sq. ft.
+  "    "  16 "    "   =     1.3960  "   "
+Length "  10 "    "   = 13,200 ft.
+  "    "  16 "    "   = 47,500  "
+Time,                 = 13,800 sec.
+
+
+Let _x_ = velocity of flow in 16-in. pipe, in feet per second, then 2.56
+_x_ = velocity of flow in 10-in. pipe, in feet per second.
+
+From which:
+
+
+ 13,200    47,500
+------- + ------- = 13,800
+2.56_x_     _x_
+
+            _x_   = 3.805
+
+    and 2.56_x_   = 9.740
+
+
+The discharge is:
+
+
+     For the 16-in. pipe, 1.396  x 3.805 = 5.31 cu. ft. per sec.;
+and, for the 10-in. pipe, 0.5454 x 9.74  = 5.31 cu. ft. per sec.
+
+
+The question arose as to whether or not the particles of bran in the
+water traveled as fast as the water flowed. It was also desired to check
+by observation the relative velocities in the two pipes, as above
+deduced.
+
+_Test No. 2_.--To determine these points, a second test was made, on
+March 31st, 1908, twenty days after the first one. In this test, green
+aniline, red potassium permanganate, and bran were used. An observer
+was placed at the end of the 10-in. line at _B_ (Fig. 2), and, by
+letting a small quantity of water run from a relief-valve there, he was
+able to note the time of the appearance of the colors and the bran.
+
+The green was started in the upper end of the 10-in. pipe, at _A_ (Fig.
+2), at 8.30 A.M. It appeared at _B_ in 22 min., and at _E_ in 3 hours and
+52 min.
+
+The red was started at 8.45 A.M. It reached _B_ in 21-1/2 min., but it
+was so faded that the time of its appearance at _E_ could not be noted
+exactly.
+
+The bran was started at 9.00 A.M. It reached _B_ in 22 min., and
+appeared at _E_ in 3 hours and 51 min.
+
+From the average of these figures, the velocities were:
+
+
+In the 16-in. pipe, 3.792 ft. per sec.
+ "  "  10 "     "   9.695  "   "   "
+
+
+and the discharges were:
+
+
+In the 10-in. pipe, 5.287 cu. ft. per sec.
+ "  "  16 "     "   5.293  "   "   "   "
+
+
+The application of the equation for equalized relative velocities, as in
+the first test, gives:
+
+
+Velocity in  16-in. pipe = 9.705
+   "     "   10 "     "  = 3.791
+Discharge of 16 "     "  = 5.292
+   "      "  10 "     "  = 5.293
+
+
+These last figures would check exactly, except for dropping figures in
+the fourth decimal place.
+
+The results of these two tests, considering that 20 days elapsed between
+them, are in very close agreement, and establish the fact that bran is
+an accurate medium of measurement.
+
+_Test No 3_.--The 500 ft. of 10-in. pipe in the 16-in. line near the
+reservoir (Fig. 2) were replaced by 16-in. pipe in the summer of 1908.
+
+On May 12th, 1909, green aniline was started through the pipe at _A_ at
+11.00 A.M., 11.30 A.M., and 12.00 P.M. In each case it appeared at _E_ in
+3 hours and 31 min. This time is 20 min. less than that observed in the
+tests of the previous year, and is due to the removal of the 10-in. pipe
+from the 16-in. line and to the increasing smoothness of the interior
+surface of the pipe.
+
+The relative velocities and discharges under the third test, using the
+nomenclature of the first and correcting the lengths of pipe on account
+of the removal of the 10-in. pipe near the reservoir, are:
+
+
+48,000  +     12,700
+-----      --------- = 12,660
+ _x_         2.56_x_
+
+                 _x_ =  4.183
+
+         and 2.56_x_ = 10.708
+
+
+and the discharges are:
+
+
+From the 10-in. pipe = 5.840 cu. ft. per sec.
+  "   "  16 "    "   = 5.839  "   "   "   "
+
+
+_Coefficients_.--On May 12th, 1909, the 10-in. line was working on a
+grade of 0.03338, and, with _n_ = 0.009, _C_ should have been 131. It
+was actually 138, making _n_ = 0.00866. The 16-in. line was working on a
+grade of 0.0030625, and, with _n_ = 0.009, _C_ should have been 145. It
+was actually 141, making _n_ = 0.0092.
+
+Referring to the estimated hydraulic grade between Coyote and Corona
+(Plate V), the coefficients, 0.01 and 0.012, were used for wood and
+iron, respectively, on which basis, the maximum pressure at Coyote was
+expected to be 304 lb. and, at Luna, 310 lb. per sq. in. The actual
+maximum at Coyote, with pumps at full normal speed, was 270 lb., and, at
+Luna, 278 lb., indicating that the values of the coefficients taken were
+too high. This checks with the tests between Bonito and Nogal.
+
+Of course, the iron pipe will increase in roughness, and, in time the
+pumping pressure will approach the calculated amount. The interior of
+the iron pipe now has a smooth coat of asphalt.
+
+_Pipe Breakage_.--The breakage or damage to the wood pipe in shipment
+occurred on the ends, the tenons being most exposed to injury from
+shifting in the cars. The damage due to the shipment and handling of the
+Elmira pipe was 1% and one-half as much for the Bay City pipe. Less than
+6 pieces out of 100,000 laid have had to be removed from the trench.
+
+The iron pipe came from Chattanooga, and was badly handled in transit.
+Much of it was transferred en route, and 6% was broken when received.
+The breaks were generally cracks of the spigot end. Of this broken pipe,
+practically all was cut and laid. The average cut was about 16 in. from
+the spigot end of 533 pieces. This cut pipe has caused no trouble in the
+trench.
+
+At least 27 pieces of cracked pipe got past the field inspectors and
+into the trench. This cracked pipe began blowing out at a pressure of 50
+lb., and continued until the full normal pumping pressure was reached,
+when the breaks suddenly ceased. These pipes were broken out at the rate
+of 1 or 2 per day, with an occasional day between breaks. A 24-hour
+work-train service was maintained. The pipe gang soon became skilled,
+and could put in a new section of pipe in from 4 to 6 hours. Each break
+generally caused an interruption of about 6 hours to the pumps on the
+section where it occurred. The best record was 3 hours and 50 min. from
+the stopping to the starting of the pumps. This strenuous life lasted 30
+days. Most of these breaks were in or near the middle of the pipe.
+Evidently, the field inspectors were not expecting cracks in that
+locality. An inspection usually indicated that the pipe had been struck
+by the bell of another one in the vicinity of the break.
+
+All pipes were lifted from the car carefully and laid down at the trench
+along the track in a single movement by a logging crane, and were not
+broken in such handling.
+
+Three breaks only have been reported as due to defective metal or
+casting. No break of a sound shell of full thickness has been found.
+
+_Trenching_.--Deep frosts are unknown in this section. The pipe was laid
+so that the top was about 1 ft. below the surface of the ground. The
+trenching was a simple matter. Part of the work between Bonito and the
+railway on the Carrizozo plain was done by Buckeye ditchers. All other
+ditching was done by a railroad plow followed by pick and shovel, or by
+the two latter tools only. The ditcher could open 2,000 ft. of trench per
+day, but averaged about 500. The plow and 35 men could open 3,500 ft. A
+chain about 6 ft. long separated the end of the plow beam and the double
+tree. In this way the trench was plowed to the bottom. Two mules, two
+men, and a scraper could back-fill 3,500 ft. per day.
+
+_Pipe Laying_.--Between Bonito and the railway, one gang of ten men
+could lay 4,000 ft. of 12-in. pipe per day. The average was much less,
+owing to a variety of causes. At the end, the railway company added to
+the contractor's force, and laid the last 10 miles of pipe in 7 days,
+there being a half dozen separate gangs at work.
+
+Along the railway, the day's record on wood pipe was 4,000 ft. of 11-in.,
+6,200 ft. of 7-1/2-in. and 8345 ft. of 3-1/2-in, pipe laid by a gang of
+eight men after the pipe was distributed along the trench. These eight
+men, of whom five were Americans, laid 76 miles of pipe, and became
+expert. Their operation was like the working of a clock.
+
+On the 12-in. iron pipe, the regular day's work was 96 joints, or 1,152
+ft. of pipe laid and caulked. The record was 1,644 ft. Two gangs laid
+101,300 lin. ft. in 60 days. Such a gang consisted of 1 foreman, 1
+inspector, 8 caulkers, 4 yarners, 1 melter, 1 pourer, 1 helper, and 10
+men putting pipe into the trench.
+
+_Cost Data_.--The pipe from Bonito to the railway was laid by contract.
+The price was 18 cents per lin. ft. laid and back-filled from the
+railway to the Nogal Reservoir, and 28 cents from Nogal to Bonito. In
+addition, 50 cents per ton per mile was paid for hauling pipe, and extra
+compensation for setting valves. From Coyote, east along the railway,
+the work was done by the railway company under the writer's direction.
+
+The total cost of laying 384,300 ft. of wood pipe, from 11 to 3-1/2 in.
+in diameter, was $18,156.77, or 4.72 cents per ft., divided as follows:
+
+
+Ditching       $0.0249
+Laying          0.0113
+Back-filling    0.0110
+               -------
+    Total      $0.0472
+
+
+This includes unloading from the cars. Train service cost 1/3 cent per
+ft. additional.
+
+The pipe gang, including back-filling, consisted of 1 foreman, at $100
+per month, one assistant foreman at $75, and about 30 Mexicans at $1 per
+day. The rates were the same in the ditching gang. The plow team cost $6
+per day.
+
+Including all general expense, the cost does not exceed 6 cents per lin.
+ft.
+
+The cost of laying 101,300 ft. of 12-in. cast-iron pipe was $23826.67, or
+23.5 cents per ft., divided as follows:
+
+
+Ditching       $0.0249
+Laying          0.1180
+Back-filling    0.0110
+Lead            0.0790
+Oakum           0.0014
+               -------
+    Total      $0.2343
+
+
+This includes train service and unloading pipe, but nothing for tools.
+The foreman and inspector received $100 per month, the caulkers, $3;
+pourer, $3; melter, $2.50; 2 pipe-men, $2, and laborers, $1 per day.
+Professional caulkers wanted $5 per day. Carpenters, blacksmiths, and
+boiler-makers made good caulkers; their work is standing perfectly under
+a 275-lb. service.
+
+The cost of the pumping plants complete per horse-power is as follows:
+
+
+Pumps      $79.00
+Boilers     18.70
+Building    41.70
+           ------
+  Total   $139.40 per h.p.
+
+
+The approximate cost per million gallons of storage capacity is as
+follows:
+
+
+Nogal Storage Reservoir  $103.00
+Carrizozo Service  "    3,040.00
+Coyote      "      "    2,880.00
+Luna        "      "    3,480.00
+Corona      "      "    2,720.00
+
+
+To cover general expense, 3% should be added to all the costs above
+given. The costs per foot of pipe-laying include the setting of all
+specials, valves, and stand-pipes. The difference of cost in laying
+11-in. and 3-1/2-in. wood pipe is not nearly as great as the difference
+in diameter or the total quantity laid on record days. While the record
+is 4,000 ft. and 8,345 ft., the 76 miles of pipe of all diameters were
+laid in a total time, including all delays, of 223 days, or an average
+of only 1723 ft. per day. The cost of the 11-in. pipe is covered by 7
+cents per ft. The pipe was laid by a single gang as fast as it was
+received from the factory.
+
+The reduction from 7 to 3-1/2 in. at Mile 230 (Plate V) is on account of
+delivering water to the Santa Fe's new transcontinental low-grade line
+which crosses the El Paso and Southwestern Railway at Vaughn, and has a
+division point there. On its adjacent divisions, the Santa Fe had the
+same trouble with local waters which compelled the El Paso and
+Southwestern to find a better supply. The Bonito water is conducted to
+and used at points 160 miles from its origin on Bonito Creek.
+
+
+
+
+DISCUSSION
+
+
+G.E.P. SMITH, ASSOC. M. AM. SOC. C.E. (by letter).--The author has done
+great service to the West in demonstrating the practicability of
+transporting small water supplies to great distances.
+
+Close association with the desert is required to appreciate fully its
+waterless condition. For most of the year there are no living waters on
+the surface. As a rule, ground-waters are concentrated beneath very
+limited areas of valley land. The great masses of valley fill in some
+places are underdrained to great depths and in other places are so
+compacted and cemented as to be impervious. Wells sometimes are driven
+from 1,000 to 2,000 ft., without securing any supply at all. Moreover,
+desert ground-waters are often exceedingly hard or alkaline, and,
+therefore, are unfit for many uses.
+
+In going to the high mountains for a supply, the author has struck a
+principle of wide application. In many of the mountains of the Southwest
+there are springs and small streams of excellent water. Often, as in the
+case discussed, very little storage is required. These streams, however,
+are absorbed or disappear before reaching even the mouths of the canons,
+and the problem has been to convey the water to distant cities and
+mining camps at reasonable cost. There are several cities in Arizona now
+possessing pumped water supplies, which have possible gravity supplies
+of superior quality. The writer believes that ultimately the gravity
+supplies will replace the pumping plants.
+
+In the Bonita pipe line, wood-stave pipe was used for the gravity
+sections. In other localities, where the grade of the line is very
+uniform, as would be the case down a typical clinoplain, cement pipe is
+deserving of consideration. It would cost no more than wood stave, would
+be more durable, and, furthermore, it need have no greater leakage. Its
+cost, however, increases rapidly when built to withstand high pressures.
+
+The use of bran for determining velocities is of interest. The results
+are in close accord with those obtained from the weir measurements. In
+the measurement of ground-water velocities by means of salts in
+solution, it is found that the velocities of different filaments of
+waters are extremely variable, and a quart of salt solution, after
+moving forward a few feet, is widely dispersed. It would be of value to
+know to what extent the bran was distributed during its 4-hour journey
+through the pipe line, and during how many minutes it was being
+discharged at the lower end of the line. Was the first appearance, or
+the average time of appearance, accepted for computing the velocity of
+flow?
+
+KENNETH ALLEN, M. AM. SOC. C.E. (by letter).--From its lightness,
+toughness, flexibility, and the facility with which it can be laid, wood
+pipe has manifest advantages for use in inaccessible places and where
+handling is difficult; loss in transportation is almost negligible, it
+will stand much unequal settlement without cracking, and ordinary leaks
+are easily repaired.
+
+The coating of the bands is of such great importance that it should be
+inspected very thoroughly, in order to remedy defects before the
+back-filling is done. The writer has found Durable Metal Coating an
+excellent preservative. Bands coated with this preparation were buried
+in a salt marsh, and, after a year, the metal was found intact and the
+coating fresh and elastic. This coating, however, does not adhere very
+firmly to a smooth metal surface, so that, with careless handling,
+patches may become rubbed or torn off.
+
+There is no advantage in coating the surface of the pipe. To prevent
+decay, such pipe should carry water under pressure or be laid in a
+saturated soil, so that the wood of which it is made will always be
+saturated, and coating the wood may interfere with this. Under these
+conditions the life of such pipe is not known, but it is evidently very
+great. Large quantities of wood pipe have been removed from trenches in
+Boston, New York City. Philadelphia, Baltimore, and elsewhere, usually
+in perfectly sound condition. It was commonly made of logs of spruce,
+yellow pine, or oak, from 12 to 18 ft. long, 12 to 24 in. in diameter,
+and with a bore from 3 to 6 in. in diameter. Some 6-in. pipe taken up in
+Philadelphia had an external diameter of 30 in. The ends were usually
+bound with wrought-iron collars, and adjacent lengths were connected by
+an iron thimble driven into the end of each piece.
+
+A few years ago the writer took up more than 2000 ft. of wood pipe of
+this kind, which had been laid in saturated soil about a century
+earlier. It was of Southern pine logs, about 16 in. in diameter, 14-1/2
+ft. long, and had a 5-in. bore. Joints were made with tapering cast-iron
+ferrules 9 in. long, and connections to smaller service pipes were made
+with similar but smaller ferrules of cast brass. The wood was apparently
+as sound as when it was first laid.
+
+The use of flat iron for wrapping or banding pipe is believed to be
+wrong in principle. Round iron furnishes the requisite strength with the
+least exposure to corrosion, and ensures a more perfect contact with the
+wood.
+
+In a 42-in. stave pipe laid by the writer for the Water Department of
+Atlantic City, N.J., the lumber used was Washington fir, cypress having
+been found difficult to procure in sufficient quantity, and redwood
+being more costly and no better. In this, his experience coincided with
+that of the author. Cedar was considered, but could not be obtained in
+sufficient lengths or quantity, and long-leaf pine which would have
+passed the somewhat rigid specifications would have been difficult to
+secure. It is believed, however, that there is a field at least for
+long-leaf pine for such construction. Washington fir was found admirable
+in every respect, and was moderate in cost at that time.
+
+The bands were bent in the field, and, after heating in an oven for
+about 3 min., were dipped in bunches of five into a kettle of melted
+mineral rubber at a temperature of about 400 deg. Fahr., and then hung up
+for the coating to harden. This took place rapidly, as the work was done
+in winter. If the band were wound spirally, the coating would have to be
+done in the shop, but field coating is preferable, as it avoids injury
+to the coating during transportation.
+
+An advantage of wood pipe for conveying water is its low coefficient of
+friction. The results obtained by the author (_n_ = 0.00866 to 0.0092)
+appear to be very low as compared with determinations made for
+wood-stave pipe. Kutter's coefficient for the latter varies from 0.0096
+in the case of the 30-in. pipe at Denver,[B] to from 0.012 to 0.015 as
+determined by Messrs. Marx, Wing, and Hoskins for the 72-in. pipe of the
+Pioneer Power Plant of Ogden.[C] Probably 0.011 would be a fairly safe
+figure to use in designing new work.
+
+
+[Illustration: FIG. 3. DETAILS OF OLD WOOD PIPE.]
+
+
+J.L. CAMPBELL, M. AM. SOC. C.E. (by letter).--Referring to Mr. Smith's
+question about the velocity measurements by bran, the first appearance
+of the bran and the colors was taken because the intervals of time given
+thereby were in close accord among themselves and with the weir
+measurements. The time from the first trace of bran or color until final
+disappearance varied between 15 and 20 min. Bran in abundance or
+pronounced color showed in 2 min. after the first appearance, while the
+disappearance or fading was noticeable after a period of from 7 to 10
+min. It required 2-1/2 min. to get the bran or colors into the intake at
+the head of the line and leave the water clear.
+
+
+[Footnote B: _Transactions_, Am. Soc. C.E., Vol. XXXVI, p. 26.]
+
+[Footnote C: _Journal_, New England Water Works Assoc., Vol. XXII, p.
+279.]
+
+
+Mr. Allen refers to the bored wood pipe laid many years ago in Eastern
+cities. The writer's experience indicates that a bored pipe will not
+deliver as much water as a planed stave pipe, on account of the greater
+interior roughness of the former.
+
+Referring to the profile, the 8-1/2-in. pipe between Corona and Duran
+had a theoretical capacity of 744,000 gal. per day. A recent test showed
+it to be delivering water at the rate of 759,000 gal. per day.
+
+The 3-1/2-in. pipe between Vaughn and Pastura had a theoretical capacity
+of 84 000 gal. per day. It delivers only 65,000 gal. per day. There are
+5 miles of bored pipe on the upper end of this section. Pressure
+gaugings show a hydraulic gradient in excess of the theoretical on the
+bored pipe, whereas the stave pipe on the lower end carries the 65,000
+gal. on a flatter gradient than the theoretical one.
+
+Experience on this pipe line indicates that _n_ = 0.009, in Kutter's
+formula, closely approximates the capacity of planed wood stave pipes of
+8 to 16 in. in diameter. The writer favors the use of 0.01 as
+conservative and economical.
+
+With equal exposure to corrosion, the round band is undoubtedly the
+better, but the flat band has the advantage of being completely buried
+in the protective coat of the particular kind of wood pipe under
+consideration.
+
+
+
+
+
+End of the Project Gutenberg EBook of The Water Supply of the El Paso and
+Southwestern Railway from Carrizozo to Santa Rosa, N. Mex., by J. L. Campbell
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE WATER SUPPLY OF THE EL ***
+
+***** This file should be named 16440.txt or 16440.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/6/4/4/16440/
+
+Produced by Juliet Sutherland, Jared Ryan Buck and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+*** END: FULL LICENSE ***
+
