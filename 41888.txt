@@ -1,0 +1,3035 @@
+The Project Gutenberg EBook of De Mortuis Nil Nisi Bona, by
+Ernest Evan Spicer and Ernest Charles Pegler
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: De Mortuis Nil Nisi Bona
+       Being a Series of Problems in Executorship Law and Accounts
+
+Author: Ernest Evan Spicer
+        Ernest Charles Pegler
+
+Contributor: D. F. de l'Hoste Ranking
+
+Illustrator: E. T. Reed
+
+Release Date: January 20, 2013 [EBook #41888]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DE MORTUIS NIL NISI BONA ***
+
+
+
+
+Produced by tallforasmurf and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/American Libraries.)
+
+
+
+
+
+
+
+
+
+TRANSCRIBER'S NOTES
+
+Three minor typographical errors were found and corrected, none of which
+affected the sense of the text.
+
+The FOREWORD is in Latin. For the reader's convenience it is repeated at
+the end of the text with a free English translation inserted.
+
+       *       *       *       *       *
+
+[Illustration: Title Page with decoration ]
+
+        DE
+      MORTUIS
+     NIL NISI
+       BONA:
+
+        BY
+
+  SPICER & PEGLER
+
+  ILLUSTRATED BY
+    E. T. REED
+
+       *       *       *       *       *
+
+  _BY THE SAME AUTHORS_
+
+
+  By SPICER and PEGLER.
+
+    BOOK-KEEPING AND ACCOUNTS. (Third Edition.)
+    PRACTICAL AUDITING. (Second Edition.)
+    AUDIT PROGRAMMES. (Third Edition.)
+    PRACTICAL BOOK-KEEPING AND COMMERCIAL KNOWLEDGE.
+    INCOME TAX IN RELATION TO ACCOUNTS. (Third Edition.)
+    EXAMINATION NOTE BOOK FOR ACCOUNTANT STUDENTS. (Second Edition)
+    UNDERWRITERS' ACCOUNTS. (Second Edition.)
+    TABLE A: A COMPARATIVE ANALYSIS. (Second Edition.)
+    INCOME TAX PROBLEMS.
+    KEY TO INCOME TAX PROBLEMS.
+    THE MOTOR ACCOUNT BOOK AND REGISTER.
+
+  By ERNEST EVAN SPICER, F.C.A.
+
+    AN OUTLINE OF THE MONEY MARKET.
+    THE ACCOUNTS OF AN EXECUTOR. (Third Edition.)
+    INTERNAL CHECK IN RELATION TO A MANUFACTURERS'
+       BUSINESS. (Second Edition.)
+    RESERVES, ANNUITIES AND SINKING FUNDS. (Second Edition.)
+    INCOME TAX CLAIMS AND APPEALS. (Second Edition.)
+    A SUMMARY OF THE INCOME TAX PROVISIONS OF THE FINANCE (1909-10)
+       ACT, 1910. (Second Edition.)
+    INCOME AND SUPER-TAX, AND ITS LEGAL EVASION.
+    DISSOLUTION, AMALGAMATION AND RECONSTRUCTION ACCOUNTS.
+    DIVISIBLE PROFITS AND DIVIDENDS.
+    THE EXPORTATION OF BRITISH CAPITAL.
+    THE DEPRECIATION OF GILT-EDGED SECURITIES.
+
+  By ERNEST C. PEGLER, F.C.A.
+
+    SOME NOTABLE FRAUDS IN ACCOUNTS. (Second Edition.)
+    AN AUDIT OF TRUST ACCOUNTS.
+    STOCK EXCHANGE TRANSACTIONS.
+    THE PRINCIPLES OF AUDITING.
+    COMPARATIVE AND INTERIM ACCOUNTS.
+
+  By RANKING, SPICER and PEGLER.
+
+    EXECUTORSHIP LAW AND ACCOUNTS. (Third Edition.)
+    PARTNERSHIP LAW.
+    ARBITRATION AND AWARDS.
+    MERCANTILE LAW.
+    BANKRUPTCY AND DEEDS OF ARRANGEMENT ACT. 1913.
+
+  By RANKING and SPICER.
+
+  A PRIMER OF COMPANY LAW
+
+       *       *       *       *       *
+
+           DE MORTUIS NIL NISI BONA
+
+  BEING A SERIES OF PROBLEMS IN EXECUTORSHIP
+               LAW AND ACCOUNTS
+
+                      BY
+
+                SPICER & PEGLER
+
+             CHARTERED ACCOUNTANTS
+
+       60, Watling Street, London, E.C.
+
+
+    WITH A FOREWORD IN THE LATIN TONGUE BY
+
+     D. F. de l'HOSTE RANKING, M.A., LL.D.
+
+
+                ILLUSTRATED BY
+
+                  E. T. REED
+
+                Price 5/- net.
+
+                    London:
+
+             H. FOULKS LYNCH & CO.
+
+           9, Fenchurch Street, E.C.
+
+                     1914
+
+       *       *       *       *       *
+
+                    To
+          All Spinster Aunts and
+              Bachelor Uncles
+           who do their duty by
+         their Nephews and Nieces
+                    in
+           Matters Testamentary
+  This Book is affectionately dedicated.
+
+       *       *       *       *       *
+
+
+
+
+PREFACE.
+
+
+No one can say that our Motives are unworthy, for our object is to
+instruct. But there are some who may object to our Methods, and it is to
+such that we offer, not an apology, but an explanation.
+
+A very large section of the Public cling to the belief that Law must be
+as dry as Dust, and Accounting as tedious as the Treadmill.
+
+The truth is, it is not the Practice of Law or of Accounting that is
+uninteresting, but rather is it the Theory which is often rendered so by
+Teachers whom Providence never ordained to teach.
+
+If, therefore, the employment of unorthodox methods helps to interest
+the Student in his subject, and to stimulate him to further effort, any
+apology would be out of place.
+
+                                                ERNEST EVAN SPICER.
+                                                  ERNEST C. PEGLER.
+
+  60, Watling Street,
+    London, E.C.
+      January, 1914.
+
+
+
+
+FOREWORD.
+
+By D. F. de l'Hoste Ranking, M.A., LL.D.
+
+
+De mortuo illo quid dicam? "Nilnisi bonum" ut aiunt.
+
+Sed quid si nil boni fecit? De bonis licet loqui.
+
+At si nulla bona reliquit? De eo tacere decet: si neque bonum fecit nec
+bona acquisivit nil valet.
+
+Sed si bona reliquit in sermonem hominum semper venit; vitia operta sunt;
+pecuniam fecit, illa quidem "non olet." Quem heredem instituit? Extraneis
+haec omnia livori proxima videntur. Te autem si tu aut cognatione aut
+affinitate propinquus exspectatio tenet. An mea interest? Si sic habet,
+quanti? Suave est ex magno tollere acervo; ejus pecunia quid non facere
+possim?
+
+Siste, amice; aliquantulum cogita; supersunt multi cognati; fieri potest
+ut aut cum aliis bona partire debeas, aut exheredatus sis.
+
+Gerrae! Sine dubio testamentum fecit: et cum ratione constat me alicuius
+rei legatarium esse. Nemo enim magis eum fovit; alii omnes cognati
+asseclae; solus eum amavi.
+
+Insipiens, inter os et offam multa intervenire possunt. Audi de gente
+Fulvia fabellam: de multis mutato nomine narratur.
+
+(In scena est coenatio Georgii Fusci, argentariorum interpretis. Fuscus,
+bene coenatus, alterum cyathum Falerni sorbillat. Accurrit uxor, commota;
+in manu litteras resignatas tenet).
+
+U. Georgi!
+
+F. Quid tibi nunc est? Num quid novi est?
+
+U. Amita mea Maria decessit!
+
+F. Bene! nunquam postea illud vile Sabinum necesse erit obsorbere: magnum
+est solatium.
+
+U. At tu Georgi semper id laudasti!
+
+F. Et tu simul filiaeque semper miratae estis Persicam illam detestabilem
+et psittacum dissonum, et laudibus extulistis: pretium fuit vetulae
+placere.
+
+U. Esto: illa vero suavia erant. At hic mihi litterae a cognitore ejus
+Semaureo allatae: dicit se hodie vesperi te conventurum.
+
+F. Demiror si testamentum fecit! Sin minus omnia ad te perveniunt, tu
+heres ex asse; cognati alii desunt.
+
+U. Est quidem mariti nepos iste.
+
+F. Nullus: tu sola heres: si intestata omnia ad te.
+
+U. Tabulas vere fecit: cognitor scribit se te conventurum quia testamentum
+ad rem tuam maxime pertinet.
+
+F. Mihi crede igitur! Aliquid magni tibi legavit: haud verisimile illam
+quidquam juveni Albo legasse: nunquam iliam observavit; homo nil est nisi
+pictor ignotus aut aliquid simile: uxorem quoque duxit quamdam inopem, et
+eis saepe amita tua subvenire debuit.
+
+U. Fores pulsantur: advenit cognitor!
+
+F. Dic famulae ut alteram cyathum ponat.
+
+(Ingreditur Dominus Semaureus.)
+
+Quid agis vir doctissime? Mea uxor dixit te venturum; nonne ob testamentum
+amitae ejus?
+
+S. Sic res habet, Fusce; venio ad te quod hoc res tua maxime refert; et
+scio te onus suscepturum.
+
+F. An sic habet? Vetulae illi multa bona provenere ut opinor.
+
+S. Permulta: super haec te consulendum putavi. Hic mecum tabulas attuli
+ut eas inspicias.
+
+F. Bene est; Dignissima erat; cui semper plurimum tribui. Falerni sume
+cyathum.
+
+S. Benigne dicis; dimidium: bona venia uxoris tuae est mihi in animo
+summas testamenti reddere; ad illam quoque pertinet. (Testamenta allata
+resignat.)
+
+Post nonnulla famulis legata ita instituit:
+
+  "Fratris filiae Mariae lego Persicam et Psittacum quae animalia
+  tantopere admirata est, certa fiducia se illis hospitium
+  praebituram; eidem etiam lego annulum meum gemmatum. Nepoti
+  ejusdem Mariae viro Georgio Fusco lego omne quod in hypogaeo
+  superest vinum illud Falernum quod semper laudabat."
+
+F. (In malam rem.)
+
+S. "Quod ad ceteras possessiones Georgius Fuscus heres esto ex asse:
+(subridet Fuscus et uxori in aurem susurrat "ita ut dixi.")
+
+S. (Conversa tabula) "et rogo eum ut cum primum potuerit haereditatem
+adire, omnibus et fundis et mobilibus venditis, pecunias in cautionibus
+publica auctoritate factis collocet et fructus reddat nepoti mariti mei
+Jacobo Albo et uxori suae in aetatem aut utri eorum vita superarit: eis
+mortuis ut inter liberos eorum caput dividat: aut liberis sine prole
+defunctis caput reddat ad sodalitatem Anthropophagis Africanis informandis
+et nutriendis institutam: praemio sint fiduciario viginti in annum
+librae."
+
+F. Anus odiosa et malefica! At enitar ut testamentum rescindatur;
+inofficiosi testamenti querelam instituam! Delira fuit!
+
+S. Immo mentis omnino compos fuit, Improbe: sic summa fide clamabo et
+testabor. Verba tua pro tempore et re indecora. Tui piget me: evado.
+
+F. Maria!
+
+U. Georgi!
+
+Uterque. Exsecrabilis Illa!
+
+(Aulaeum tollitur.)
+
+[Illustration: Charles Augustus Algernon de Jones "... he gave Five
+Thousand Pounds to London's Home for Lost and Straying Hounds."]
+
+
+
+
+PROBLEM No. 1.
+
+
+  Within St. Dunstan's Churchyard rest the bones
+  Of Charles Augustus Algernon de Jones,
+  Who left, besides a widow, tall and fair,
+  Four infant daughters all with ginger hair.
+
+  The worldly goods of which he died possessed
+  Were valued, net, twelve thousand of the best.
+  He died intestate, left no real estate,
+  Broke his neck hunting at a five-barred gate.
+
+  Two years before he left this vale of tears,
+  He justified his wife's most anxious fears,
+  He spent ten thousand on a rope of pearls,
+  A gift to one of Daly's Chorus Girls.
+
+  This was a falling from the narrow course
+  Which lasted but a fortnight; then remorse
+  O'ercame him, and he gave five thousand pounds
+  To London's Home for Lost and Straying Hounds.
+
+  This good deed mollified his jealous wife,
+  And two years later, when he quitted life,
+  The widow buried anger with the bones
+  Of Charles Augustus Algernon de Jones.
+
+       *       *       *       *       *
+
+      And now as everyone knows
+      This tragedy comes to a close,
+      With fallings and failings
+      And funeral wailings
+      'Mid sighings and sobbings and woes.
+
+      Do not think that this story is lax
+      Or of improbability smacks;
+      I tell you it's true,
+      And I'm waiting for you
+      To say what did the Revenue Tax.
+
+
+
+
+PROBLEM No. 2.
+
+
+And when Joseph was dead his son Benjamin took unto himself a Wife and
+they had issue, two Boys and one Girl.
+
+Now the elder of these two Sons was comely to gaze upon and when he was
+yet two years from Man's Estate his Father said unto him, "My Son, your
+Father's Brother is old and nearing death. Take heed, therefore, lest his
+wealth be scattered amongst the Gentiles." And the Son answered, "Fear
+not, my Father, from henceforth I will be unto my Father's Brother as a
+Son."
+
+But after Seven Days had passed away the Uncle died and all his Flocks and
+Herds were left to his Brother Benjamin's Children. And on the Seventh Day
+after the Brother's death, the Woman, whom Benjamin had taken to wife,
+gave birth to Twin Children, and after Seven more Days had passed, the
+Male Child sickened and died. And Benjamin wept for his Son and looked
+not upon the Child that lived, and refused all meat, so that he weakened,
+and after Seven more Days he was buried in the Tomb of his Fathers (near
+Shepherd's Bush).
+
+       *       *       *       *       *
+
+N.B.--There were fortunately no further deaths in Benjamin's family,
+and the Uncle's Legacy to his "Brother's Children," which was valued for
+Probate at L12,000, was duly divided between them.
+
+How much did each receive?
+
+
+
+
+PROBLEM No. 3.
+
+
+Sir Hazel Knut, Bart., died, and the whole of his Estate, after the
+payment of Estate Duty, Debts, and all expenses, amounted to exactly
+L15,000.
+
+He bequeathed the following Legacies, all free of Duty except the Settled
+Property.
+
+  _Lady Knut_, his widow, L2,000.
+
+        Lady Knut also had the use of a Governess Cart, together
+      with a Shetland Pony, for life, with remainder over to the
+      Toddington Cottage Hospital. These were valued for Probate at
+      L60, and the value of the life interest was computed at L12.
+
+  _George Filbert_ (aged 12), a son of Lady Knut by a former husband,
+    L200.
+
+  _Selina Knut_, daughter (aged 4), L1,200.
+
+  _George Lightfoot_, son-in-law, who married Sir Hazel's charming
+    daughter Rose, L1,200. Rose predeceased Sir Hazel by 4 years, but
+    the Twins survived. To each of these children Sir Hazel left One
+    Thousand Guineas.
+
+  _Mrs. Gubbins_, Sir Hazel's aged mother, L1,000.
+
+  _Mr. Gubbins_, Stepfather to Sir Hazel, the Racehorse "Fleetfoot,"
+    aged 14, by Footrest out of Fleet Rabbit, valued at L19 19s. 0d.
+
+  _Rev. Stirling Knut_, nephew, L100.
+
+  And L50 each to the following:
+
+  _Cutforth Crawley_, Lady Knut's sister's son.
+
+  _Lady Augusta Ramsbotham_ (sister-in-law, Lady Knut's eldest
+    sister).
+
+  _Dorothy Smith_, who married Robert, Sir Hazel's eldest son, 3
+    months after the funeral.
+
+The Residue of the Estate was left absolutely to Robert.
+
+       *       *       *       *       *
+
+Show how much Sir Robert Knut inherited.
+
+[Illustration: The Racehorse, "Fleetfoot." By "Footrest" out of "Fleet
+Rabbit." Aged 14.]
+
+
+
+
+PROBLEM No. 4.
+
+
+Mr. Mordecai Moribund was a pessimist during life and died a violent
+death. His facial appearance was much disfigured by a sad squint, and this
+affliction to his eyes contributed in no small degree to the tragedy which
+at once deprived Mrs. Moribund of a husband and a son. The son, a bright
+youth of twenty summers, had been sent down from Oxford University by
+the authorities rather as a warning to others than for any great offence
+which he had committed. Nevertheless, the disgrace was keenly felt by his
+mother, and it was for this reason that Mr. Moribund decided to take him
+for a trip to India, until time had healed the wound.
+
+Arrived in India, Mr. Moribund promised his son, Morton, to arrange for
+a tiger shooting expedition. This fatal promise caused all the trouble,
+for Mr. Moribund, owing to his visual defects, thought he observed a
+tiger approaching from the west and forthwith discharged his rifle. The
+bullet missed the tiger and passed through the head of the unfortunate
+Morton, who was thereby killed on the spot. Mr. Moribund, horrified by
+the accident, moved his position and slid from the back of the elephant
+right into the jaws of the infuriated animal. Assistance was rendered
+immediately, and Mr. Moribund was rescued from his unfortunate position,
+but not before he had sustained injuries from which he succumbed four days
+subsequently.
+
+Mr. Moribund, by his will, left everything of which he was possessed to
+his widow absolutely. This property, after deducting debts, amounted to
+L137,500, but an examination of his affairs disclosed the fact that two
+years previously he had conveyed as an absolute gift to his son, Morton,
+the sum of L100,000. This money had been invested by Morton in Bearer
+Bonds of the Royal Japanese Steamship Company at an average price of L80%,
+but on the date of Morton's death these Bonds stood at L120%. Morton, by
+will, had left his entire fortune to a Miss Flossie Teazle, an actress
+whom he had met at Oxford.
+
+[Illustration: The Death of Mr. Mordecai Moribund.]
+
+Show what duties were payable to the State as a direct consequence of the
+Tragedy.
+
+       *       *       *       *       *
+
+Note.--The following epitaph, shamelessly copied from one in Malmesbury
+Abbey, was inscribed on Mr. Moribund's Tomb:--
+
+      In bloom of life
+      He's snatched from hence,
+      He had not room
+      To make defence;
+      For Tyger fierce
+      Took life away,
+      And here he lies
+      In bed of clay
+  Until the Resurrection Day.
+
+
+
+
+PROBLEM No. 5.
+
+
+It is a strange circumstance that little men with red hair usually have
+large families. At any rate Septimus Hawkins had red hair and twelve
+children, of whom eleven were living, but strangest of all he died
+intestate worth L122,600 subject to the payment of Estate Duty, and of
+which the Real property was valued at L36,000.
+
+[Illustration: "Mrs. Hawkins had been very beautiful in her younger
+days."]
+
+Mrs. Hawkins had been very beautiful in her younger days, but time and
+children had robbed her of her rosy cheeks; and realising that widow's
+weeds did not become her, she withdrew shortly after the funeral to the
+seclusion of a country life, where she spent her time ministering to the
+sick, and looking after her late daughter Pearl's two small children. The
+names of her children in chronological order were as follows:--
+
+   1.   P  earl. Died 1912
+   2.   E  dward.
+   3.   R  ebecca.
+   4.   S  elina.
+   5.   E  mma.
+   6.   V  era.
+   7.   E  velyn.
+   8.   R  ichard.
+   9.   A  melia.
+  10.   N  athaniel.
+  11.   C  hlotilde.
+  12.   E  rmyntrude.
+
+How should the property of the late Septimus Hawkins be distributed, and
+how much did the respective beneficiaries receive?
+
+
+
+
+PROBLEM No. 6.
+
+
+Very few men can state with any degree of accuracy how long they will
+live, but Nathaniel Hibbert told his Wife he would die at 8 o'clock in the
+morning of Tuesday, the 22nd April, 1913, and he did die at that very time
+on that very day. He was standing on some scaffolding when a platform gave
+way under his very feet, and he broke his spinal cord. In other words he
+was hanged. His Solicitor urged him to make a Will and the prison Chaplain
+added his earnest entreaties, but Mr. Hibbert turned a deaf ear to all
+such suggestions. Even the sight of his Wife and only child did not affect
+his determination, and he died intestate.
+
+       *       *       *       *       *
+
+What happened to the L1,200 of which he died possessed?
+
+[Illustration: "Mr. Chicory loved his wife almost as much as Mrs. Chicory
+loved her husband."]
+
+
+
+
+PROBLEM No. 7.
+
+
+Mr. Chicory loved his wife almost as much as Mrs. Chicory loved her
+husband. They had lived together for nearly forty years, and every
+Saturday morning throughout that long time Mr. Chicory had faithfully
+handed over to his wife his entire earnings, which were not much, and
+deducted only 5s. per week, which served as pocket money for Mr. Chicory,
+and enabled him to provide coals during the winter months, collection
+money at church, oil for the lamps, and sundry presents from time to time
+to his children, to say nothing of the Lame Crossing Sweeper.
+
+Each week a small sum was deposited in the Post Office Savings Bank, and
+when Mr. Chicory died, not only had he to the credit of this account a
+balance of L108 0s. 10d., but his Cottage, which was valued at L90, was
+his own Freehold Property. He had made a Will and paid the Solicitor
+10s. 6d. for drawing it up, and nobody could have read what he said about
+his old wife, to whom he left everything, without feeling a lump in the
+throat.
+
+On the day of his funeral not one blind was undrawn in all the Cottages
+round about, and Mr. Michaelmas, the Carriage Builder, sent a landau
+specially for Mrs. Chicory. At least one hundred people went to the
+Church, where the good old Vicar read the Service, and the Lame Crossing
+Sweeper painted his broom-handle black.
+
+Mrs. Chicory, some weeks later, paid the Solicitor another 10s. 6d., as
+a fee, and asked him to do the rest.
+
+       *       *       *       *       *
+
+What did he do?
+
+
+
+
+PROBLEM No. 8.
+
+
+Men who are mean during life and who would grudge a present of 5s. to
+the postman at Christmas, or who would spend a whole day in another man's
+motor car and fail to tip the Chauffeur at the end of the journey, often
+prove very generous with their money when they die and can no longer enjoy
+the satisfaction of possession, which during lifetime they cherished so
+dearly.
+
+Such creatures usually bequeath their property to Charitable Institutions
+at the expense of deserving relatives, who have, at any rate, in Equity,
+a claim to at least some small share thereof.
+
+The Law of Italy corrects this injustice, and no man can will away at
+death the whole of his property to strangers, if he leaves a Widow or
+Relatives living of a nearer kinship than a First Cousin.
+
+Now Vincentio Dorando was an Italian subject, whose nearest living
+relative was a First Cousin once removed. He had been educated at Oxford
+and had spent the greater portion of his life in England, but at the time
+of his death he was domiciled in France. He left no property of any sort
+in Italy or France, and no duties were found to be payable in either of
+these Countries. He had property in England, however, which consisted
+of L15,000 Japanese 4-1/2 per cent. Bonds at 94, a Freehold House valued
+at L2,500, and some Furniture and Pictures which were stored at Messrs.
+Hudson's Repository, and which were valued for Probate at L480. The only
+debt due at death was a Tailor's Bill for L62.
+
+He had made a perfectly valid Will in England, by which he bequeathed all
+his property, with the exception of his Real Estate, to his old Oxford
+friend, Mr. James Duncan, for life, with remainder over to Mr. Duncan's
+eldest son. He left the Freehold House to another Oxford friend, Mr.
+Wallstone.
+
+       *       *       *       *       *
+
+Show what Duties were payable to the Inland Revenue Authorities upon the
+death of Mr. Vincentio Dorando.
+
+[Illustration: The Jollybuck Twins--as they appeared, no doubt, to Mrs.
+Jollybuck and the Nurse--prospective world-geniuses.]
+
+
+
+
+PROBLEM No. 9.
+
+
+The Nurse described them as the most wonderful Twins she had ever seen;
+but then Monthly Nurses always speak in this way!
+
+The Mother said that she had never known children exhibit such
+intelligence at so early an age; but then Mothers always think in that
+way, especially of their first!
+
+The Father wanted to drown the yelling little brats, and had turned on
+both taps in the bathroom; but then Fathers always want to do something
+rash!
+
+Altogether it was a very merry little family, and when the Twins were
+three months old and had been duly christened and vaccinated, Mr.
+Jollybuck called on his Solicitor and altered his Will so as to provide
+for the family which had been so anxiously hoped for and so long in
+coming.
+
+But alas for Mrs. Jollybuck, for whom Widow's weeds were to be so soon
+necessary, and a plague on all false chemists who fail to label their
+blue bottles "With Care." Mr. Jollybuck swallowed Carbolic Acid instead
+of Ipecacuanha Wine, and after the payment of Estate Duty, Debts and all
+Expenses, except Legacy Duty, his Estate consisted of L16,000 Cash on
+Deposit at the London, City and Midland Bank, L15,000 India 3-1/2% Stock
+at 92, and Furniture valued at L500. By his Will he left:
+
+   (a) India Stock and the Furniture to his Widow, free of Duty.
+
+   (b) L6,000 to his Widow.
+
+   (c) L12,000 and the Residue of his Estate to his only Son.
+
+   (d) L12,000 to his Brother.
+
+   (e) L500 to his only Daughter.
+
+       *       *       *       *       *
+
+Draw up a Statement showing the amount each beneficiary under Mr.
+Jollybuck's Will is entitled to receive.
+
+
+
+
+PROBLEM No. 10.
+
+
+Family Trees are almost as interesting to study as Bradshaw, and, at any
+rate in this case, quite as instructive. In fact, without a Tree it is
+almost impossible to remember who Mrs. Gubbins really was.
+
+The following, which eliminates all irrelevant matters, gives the
+descendants of George Gubbins, the founder of the family:--
+
+
+     GENEALOGICAL TREE OF THE GUBBINS FAMILY
+
+                  George Gubbins
+     _____________________|___________________
+     |        |         |                    |
+  George    John    Charles                Oscar
+     |        |         |                    |
+   John    George    Oscar                Charles
+     |        |         |        ____________|_____________
+     |        |         |        |       |       |        |
+  George    John    Charles     Rose   Violet  Daisy    Poppy
+
+
+Now John Gubbins, the grandson of George Gubbins, founder of the Gubbins
+Family, married Elizabeth Greatheart, on Christmas-Day, and on the
+anniversary of their wedding day little George Gubbins first saw the
+light. But little George knew not his father, for John Gubbins died when
+George was but two months old.
+
+In his Will John Gubbins appointed his Cousin, George Gubbins, to be his
+executor, and thus it was that George Gubbins was brought into close touch
+with the Widow Gubbins.
+
+Friendship ripened into love and resulted in Mrs. John Gubbins becoming
+Mrs. George Gubbins. In due course Mrs. George Gubbins presented her
+husband with a little boy, who was christened John after his first cousin
+once removed.
+
+Little John grew in grace and played very prettily with little George
+Gubbins, who was his stepbrother and second cousin rolled into one, and
+altogether it was a very happy little party, until one day little John's
+Father, George Gubbins, was knocked down by a Steam Roller just in front
+of his own house, and was rolled into his own gravel drive.
+
+Now the Steam Roller belonged to a Company, of which Oscar Gubbins, son of
+Charles Gubbins and grandson of George Gubbins the Founder of the Family,
+was a Director.
+
+Hearing of the accident he hastened to comfort the Widow in her
+affliction, and succeeded so well that after a decent interval had elapsed
+Mrs. George Gubbins became Mrs. Oscar Gubbins.
+
+A child was born two years later, three months prior to the death of Oscar
+Gubbins, the Father. The little boy was christened Charles, and after the
+funeral of Oscar Gubbins, Mrs. Gubbins took her three little boys, George,
+John and Charles, to Ventnor, in the Isle of Wight, for a change of air.
+
+It was in the lounge of the Sea View Hotel at Ventnor that Mrs. Gubbins
+met Mr. Charles Gubbins, first cousin to her three late husbands.
+
+Now Mr. Gubbins had ofttimes heard of the much-weeded Widow, but when he
+saw her for the first time with the naked eye, he realised what happy men
+John, George and Oscar Gubbins must have been.
+
+[Illustration: "When Mr. Charles Gubbins saw her for the first time with
+the naked eye, he realised what happy men John, George and Oscar Gubbins
+must have been."]
+
+And when Mrs. Gubbins first saw Mr. Charles Gubbins she thought how empty
+widowhood really was, and what fine men were the Grandsons of George
+Gubbins, Founder of the Gubbins Family.
+
+Such feelings were not to be denied, and after three months of courtship
+Mr. Charles Gubbins and Mrs. Oscar Gubbins were declared man and wife by
+the Rev. Stephen Collins.
+
+For 10 years Mr. and Mrs. Charles Gubbins lived together as happily as a
+married couple could, and four beautiful daughters, Rose, Violet, Daisy
+and Poppy were born to them.
+
+And then Mrs. Gubbins died intestate leaving Personal Property valued for
+Probate at L12,000, and Real Property valued at L8,000.
+
+       *       *       *       *       *
+
+How was this divided?
+
+
+
+
+PROBLEM No. 11.
+
+
+Some people say there is no romance in business and that a Brass Plate
+never brings Clients. Don't you believe that for one moment. Why, Jones
+owed all his misfortunes in life to a Brass Plate and a Motor 'Bus! It
+happened as follows:--
+
+Mrs. James Wardle's Husband died on the 30th April, 1914. He was always
+called Mrs. Wardle's Husband, and he very properly left her his entire
+fortune, which, at his death, consisted of the following property:--
+
+    Freehold Property valued at L6,500, subject to a Mortgage of
+      L4,500 at 5% per annum. The Interest was paid up to the 31st
+      March, 1914.
+
+    L3,500 Local Loans 3% Stock quoted at 86-88.
+
+    L2,750 2-3/4% Annuities quoted at 77-8.
+
+    L2,000 Caledonian Railway Consolidated 4% Stock quoted at 98-100
+      cum. div.
+
+    L800 3% Bradford Corporation Stock quoted at 95-1/2-96-5/8 cum.
+      div.
+
+    Life Policies and Bonuses L1,575.
+
+    Household Furniture L350.
+
+    L1,500 Loan at 5% per annum. The Interest had been received up to
+      31st December, 1913.
+
+    Sundry Debts due to Testator, L346.
+
+    Sundry Debts due by Testator, L550.
+
+    Funeral Expenses, L42.
+
+Mr. Wardle had for many years left his affairs entirely in the hands of
+his Solicitor, but Mrs. Wardle, who was Sole Executrix, thought--and very
+properly too--that the combination of a Solicitor and a Professional
+Accountant was to be preferred. She therefore journeyed to the City
+with the intention of consulting her Stockbroker on the matter, but by
+a curious Providential dispensation, the Motor Omnibus broke down just
+opposite Jones' office, and his Brass Plate attracted the Sweet Lady's
+attention!
+
+He prepared the Estate Duty Account, the affidavit being delivered on the
+31st July, 1914, and he is now Mrs. James Wardle's Second Husband.
+
+       *       *       *       *       *
+
+Do as Jones did, but ignore Income Tax, and beware of Widows.
+
+[Illustration: "Julius Jones was a poet."]
+
+
+
+
+PROBLEM No. 12.
+
+
+Julius Jones was a poet, and although he died prematurely on the 30th
+June, 1914, his name will be remembered by posterity as the author of the
+beautiful Hymn, of which the first line runs "Farewell, old buck, we part
+to meet again!"
+
+He left the following Estate:--
+
+  Cash at Bank                           L1,500
+  Household Furniture                       350
+  Life Policies                           2,000
+  Securities valued at death at          18,650
+  Freehold Property                       8,500
+                                        -------
+                                        L31,000
+
+Liabilities at death were L200, and Funeral Expenses amounted to L30.
+Legal Expenses were also paid, amounting to L170.
+
+The Securities and the Furniture realised L19,000 and L300 respectively.
+
+A Legacy of L500 was left to his Nephew (free of duty).
+
+The eldest Son of the Testator (Patrick) was given the option by the Will
+to take over the Freehold Property at L7,500, which he elected to do. The
+residue of the Estate was to be divided equally between the three children
+of the Testator:--
+
+      Patrick,
+      Peter,
+      Paul,
+
+but he directed that the amounts of L3,000, L2,000 and L1,000 advanced to
+them respectively on the 1st June, 1911, were to be brought into hotchpot.
+
+       *       *       *       *       *
+
+Prepare an Account showing the division of the residue, taking into
+account the Duties payable, but ignoring Interest on Advances.
+
+[Illustration: "Duly witnessed by his aged Housekeeper, Mrs. Uskins, and
+the Gardener."]
+
+
+
+
+PROBLEM No. 13.
+
+
+It would be indelicate to indicate the exact portion of Mr. Hobson's
+anatomy that was so fiercely attacked by the mad dog, but it is sufficient
+to say that the bite was the indirect cause of his death.
+
+He anticipated the end, for shortly before he passed away he called in his
+Solicitor, Mr. Crawley, and made a fresh Will, which was duly witnessed
+by his aged Housekeeper, Mrs. Uskins, and the Gardener.
+
+The Estate, which consisted entirely of Personal Property, comprised:--
+
+  (1) Share in the firm of Hobson Bros., L11,500.
+
+  (2) Bonds to Bearer valued at L6,300.
+
+  (3) Cash at Bank L220.
+
+The debts due by deceased, including a Loan from the Bank secured on the
+Bonds to Bearer, amounted to L3,160, and the Funeral Expenses came to L42.
+
+The Property was bequeathed as follows:--
+
+  Mrs. Hobson (Widow), L2,500.
+
+  George Hobson (Son, aged 27), L2,000.
+
+  Selina Hobson (Daughter, aged 18), L2,000.
+
+  Wickham Crawley (Solicitor), L200.
+
+  Maria Hawkins (Niece, aged 28), L1,000.
+
+  George Hobson, Junr. (Grandson, aged 4), L1,500.
+
+  Mrs. Uskins (Housekeeper), L500.
+
+  Mrs. Rumbolt (Deceased Brother's Wife), L500.
+
+  Mrs. Hobson, Senr. (Deceased's Mother), L2,000,
+
+  and the Residue to the Widow absolutely.
+
+Prepare a Distribution Account.
+
+[Illustration: "London and North Western Consolidated Stock."]
+
+
+
+
+PROBLEM No. 14.
+
+
+Solomon Solfar was a solemn man, and his Will was proved in solemn form.
+He died quietly in his bed on the 1st April, 1912, leaving a Widow, two
+Sons (Matthew and Mark), and one Daughter (Mary).
+
+On the 1st April, 1913, after all Debts, Testamentary and other Expenses
+had been paid, the Estate consisted as follows:--
+
+  L6,000 2-3/4% Annuities at 76-5/8.
+
+  L2,000 Swansea Corporation 3% Stock at 83 (Interest payable 1st
+      January and 1st July).
+
+  L6,000 London and North Western Consolidated 4% Stock at 103
+      (Dividends payable 15th February and 15th August).
+
+  1,000 Birmingham Small Arms Cum. 5% Preference Shares of L5 each at
+      L5-1/4 (Dividends payable 1st March and 1st September).
+
+  L5,000 British Westinghouse 4% Debenture Stock at 63 (Interest
+      payable 1st January and 1st July).
+
+Mr. Solfar made during his lifetime advances of L500 to each of his
+Sons, which at his death were brought into Hotchpot, and interest charged
+thereon at 5% per annum. He directed his Estate to be left in Trust, the
+Income to be applied, first in payment of L75 a quarter to Mrs. Solfar,
+and the balance to be distributed half-yearly in equal shares to Matthew,
+Mark and Mary.
+
+Write up the books of the Trust, ignoring Income Tax, for the year ending
+31st March, 1914, the balance of Income in hand on 1st April, 1913 (after
+making all necessary payments to the beneficiaries) being L12 0s. 0d.
+
+[Illustration: Mr. Hopkins' bodyguard, The Pride of Bristol.]
+
+
+
+
+PROBLEM No. 15.
+
+
+The life of Hezekiah Hopkins had been a warning rather than an example
+to others, and the administration of his affairs at death caused his
+Executors and Trustees to use words which are only permissible amongst
+gentlemen when the ladies have withdrawn from the dinner table.
+
+Mr. Hopkins died on the 25th June, 1913.
+
+His Will had been proved, Estate Duty and Legacy Duty had been paid, but
+the Trust could not be closed owing to the fact that the Residuary Estate
+had been left to Nathaniel Hopkins, a nephew, for life with remainder
+over to the said Nathaniel's eldest god-son Walter Blackside, subject to
+an annuity of L200 which the Testator had covenanted to pay to the "Pride
+of Bristol," a prize fighter, who had acted as bodyguard to Mr. Hopkins
+during that gentleman's earthly peregrinations.
+
+The Residuary Estate consisted of the following property:--
+
+  (1) Leasehold Property having 30 years to run, producing L900 per
+      annum. The property, which was valued for probate at L15,000,
+      and which was subject to a Ground Rent of L100 per annum, was
+      sold on on the 24th June, 1914, for L16,400 and the proceeds
+      invested on the following day in Consols at 73, including
+      brokerage, &c.
+
+  (2) Deceased's Share in the firm of Hezekiah Hopkins & Co. This
+      amounted to L18,000 upon the death of Mr. Hopkins, and,
+      according to the Partnership Deed, was to be paid out by
+      instalments of L6,500 a year including interest at 5% on the
+      unpaid balances. The first instalment was to be paid on the
+      first anniversary of deceased's death.
+
+  (3) A Reversionary Interest in the Estate of his Uncle Mr. John
+      Oppit, the life interest of which was being enjoyed by Mrs.
+      Oppit. This Reversionary Interest was valued, at the death of
+      Mr. Hopkins for probate purposes, at L850, and was retained
+      until the 25th June, 1916, when it fell into possession. It then
+      consisted of L1,500 India 3-1/2% at 88.
+
+  (4) L10,000 invested in a Loan redeemable on the 24th June, 1915,
+      with interest at 10% per annum payable half-yearly on the 25th
+      December and the 24th June in each year.
+
+      The Trustees decided on their own responsibility to retain
+      this investment, which was redeemed on the due date and the
+      interest paid in the meanwhile.
+
+  (5) L10,000 India 3% Stock at 84, purchased by Deceased on 18th
+      June, 1913.
+
+Upon the 25th June in each year the balance of Corpus Realised was to be
+placed on deposit with the Hong Kong and Shanghai Bank at 4%, less any
+fraction of L100 which was to be retained on Current Account at the Union
+of London and Smith's Bank.
+
+Mr. Nathaniel Hopkins died on the 25th June, 1916.
+
+       *       *       *       *       *
+
+Write up the books showing the position of affairs when Mr. Blackside came
+into the property, ignoring Income Tax.
+
+
+
+
+PROBLEM No. 16.
+
+
+Mrs. Wiggins was the Life Tenant and Mr. Gilbert Gunter was the
+Remainderman of the Property left by the late Ebenezer Wiggins.
+
+Mr. Gunter had begun to despair of ever enjoying the fruits of Mr.
+Wiggins' generous intentions, when, fortunately for him, on the 14th
+March, 1914, Mrs. Wiggins got a fish bone lodged in her gullet and died
+two hours later.
+
+The Accounts had been prepared regularly on the 21st September each year,
+the anniversary of Mr. Wiggins' death, and the following is the Balance
+Sheet, dated 21st September, 1913:--
+
+EBENEZER WIGGINS Decd.
+
+       Dr.       Balance Sheet, 21st September, 1913.       Cr.
+
+                        L   s. d. |                         L   s. d.
+  To Estate Account  33,900  0  0 |By Investments:
+  "  Income    "        125  0  0 |  India 3 per Cent.:
+                                  |    L25,000 at 72     18,000  0  0
+                                  |  Chili 4 per Cent.:
+                                  |    L5,000 at 90       4,500  0  0
+                                  |  London United
+                                  |    Tramways:
+                                  |  L10,000 4 per Cent.
+                                  |    Debentures at 70   7,000  0  0
+                                  |  West African
+                                  |    Trading Co., Ltd.:
+                                  |  1,000 Shares L1
+                                  |    each fully paid    1,000  0  0
+                                  |" Freehold House       2,600  0  0
+                                  |" Furniture and
+                                  |    Effects              800  0  0
+                                  |" Cash at Bank           125  0  0
+                     ------------ |                      -----------
+                    L34,025  0  0 |                     L34,025  0  0
+
+Mr. Gunter requires Accounts to be prepared, showing the position
+of affairs at the 14th July, 1914, and volunteers the following
+information:--
+
+  (1) The Investments remain unaltered, with the exception of the
+      India 3% Stock, which was sold on the 10th January, 1914, and
+      the proceeds, viz., L18,500, were invested in a Mortgage at 5%
+      Interest payable half-yearly on the 10th July and 10th January
+      each year.
+
+  (2) The Coupons on the Chili 4% Bonds are payable on the 1st April
+      and 1st October, and the Interest on the London United Tramway
+      Debenture Stock on the 1st January and 1st July in each year.
+
+  (3) On 3rd July, 1914, a Final Dividend at the rate of 15% per
+      annum, free of Tax, was declared by the West African Trading
+      Company, Ltd., and paid on the 8th July, 1914, making, with the
+      interim dividend paid on the 10th January, 1914, 10% for the
+      year ended 30th June, 1914, free of tax.
+
+  (4) The Freehold House was let on a full repairing lease at an
+      annual rental of L146, the assessment was also L146. The rent
+      is payable quarterly on the usual quarter days.
+
+  (5) The Trustees had paid to the late Mrs. Wiggins L75 on account
+      of income on the 12th day of each month, including March, 1914.
+
+  (6) The Professional Accountant's fee for writing up the books from
+      the 22nd September, 1913, to 14th July, 1914, and making the
+      necessary adjustments was agreed at 100 guineas, and this fee
+      was to be apportioned between Mr. Gunter and the Estate of Mrs.
+      Wiggins deceased equally.
+
+       *       *       *       *       *
+
+Write up the Accounts for the period, making the necessary adjustments,
+and prepare Balance Sheet dated 14th July, 1914, showing the amount due.
+
+
+
+
+PROBLEM No. 17.
+
+
+Mr. Montagu Summers had a conscientious objection to the Income Tax, and
+a positive loathing of the Super-Tax, and the trouble lay in the fact that
+he had amassed a considerable fortune in the City of London.
+
+Something had to be done, however, to relieve Mr. Summers of a portion
+of this scandalous taxation, and so, converting as much of his property
+into cash as he could spare, he invested the same in various ways in other
+countries.
+
+He bought Russian 4-1/2% Bonds in Holland of the nominal value of 200,000
+Guilders, and a Freehold Farm near Amsterdam, which cost in English money
+about L8,000.
+
+He bought Freehold Land in Canada, for which he paid L80,000, and
+deposited with the Calgary Investment & Security Trust $300,000 at 5%.
+
+He lent on Mortgage in New Zealand L40,000, and he had a balance of Fcs.
+8,600 to his credit at the Swiss Bankverein, Berne.
+
+[Illustration: "Mr. Montagu Summers had a conscientious objection to the
+Income Tax, and a positive loathing of the Super-Tax."]
+
+On the 14th November, 1913, Mr. Summers died of blood poisoning, the
+result of cutting a corn with a blunt razor.
+
+His property in England consisted of his Furniture and Effects valued at
+L3,800, Cash balance at the London, City & Midland Bank, Queen Victoria
+Street, L300, and his interest as a Partner in the firm of Montagu Summers
+& Nephew, which was agreed at L32,640.
+
+The Russian Bonds were sold on the Amsterdam Exchange for 180,000
+Guilders, the Farm was valued at 112,800 Guilders, and the Land in Canada
+was estimated for duty purposes at $122,000.
+
+Assuming the Death Duties in Holland to be 5%, in Switzerland nil, and
+the rates in the Colonies to be similar to what they are in this Country,
+show what Estate Duty would be payable in England.
+
+The rates of Exchange can be taken as follows:--
+
+      Holland--12  Guilders = L1
+  Switzerland--25    Francs = L1
+       Canada-- 5   Dollars = L1
+
+All accruing income to be ignored.
+
+
+
+
+PROBLEM No. 18.
+
+
+Mr. Harold Wimpole died in his Opera Hat, and was buried in Willesden
+Cemetery.
+
+His Will had been proved, Estate Duty had been paid, and the Widow,
+who was the sole Beneficiary, had found considerable consolation in the
+L56,200 which had come to her.
+
+This L56,200 represented the Gross Estate, less Debts due by Mr. Wimpole
+at his death L1,416, Funeral Expenses L39 17s. 0d. which were regarded by
+all, including the Inland Revenue Authorities, as most reasonable, Estate
+Duty, Interest on Estate Duty L31 16s. 0d., Testamentary Expenses L140
+3s. 0d. and Legacy Duty.
+
+[Illustration: "The Curate looked at the Widow, and the Widow looked at
+the Curate."]
+
+Eight months had passed away and the rules of Society permitted Mrs.
+Wimpole to smile occasionally; the Curate, who took an extraordinary
+interest in Mrs. Wimpole's salvation and the carving of an ancient
+Japanese Cabinet, had called for tea. The Reverend gentleman, with a
+sandwich in his hand, was recording the incidents connected with the
+birth of Buddha, when his fingers happened to touch the spring of a secret
+drawer in the aforementioned Cabinet.
+
+The Curate looked at the Widow, and the Widow looked at the Curate, and
+there they stood together, hand in hand, like two young children, in
+silent amazement, for the secret drawer in the Japanese Cabinet disclosed
+25 4-1/2% Foreign Government Bonds to Bearer, of the nominal value of
+L500 each, and several memoranda of Stock Exchange dealings between Mr.
+Wimpole and his Broker. The coupons were payable on the 10th March, and
+the 10th September in each year, and the last coupon which had been cut
+off was dated 10th September, 1912, exactly 8 months previous to the
+death of Mr. Wimpole. Mrs. Wimpole consulted the Reverend Oscar Veritas
+long and earnestly over the matter, and the Reverend Oscar admitted that
+it was a case necessitating very great firmness of character and honesty
+of purpose. Ultimately, however, he arrived at the conclusion that Mrs.
+Wimpole would be unworthy to bear his name in the future, unless she did
+her duty in the present instance.
+
+What was the pecuniary value of the good man's conclusions to the Inland
+Revenue in the matter of Estate and Legacy Duty, bearing in mind the fact
+that the Bonds stood at 92 on the day of Mr. Wimpole's death, and 90, ten
+months later when Mrs. Wimpole's Solicitor finally settled the matter?
+
+       *       *       *       *       *
+
+Note.--The Honeymoon was spent in Japan.
+
+
+
+
+PROBLEM No. 19.
+
+
+Sir Robert Rushforth, J.P., was a big man with a big heart and a wooden
+leg. He had inherited a fortune, gone bankrupt, and married a Widow, and
+if anyone had told him he wasn't a sportsman he would have called that
+individual a liar, and opened a second bottle.
+
+He died on the 4th June, leaving all his property to his Widow, with the
+exception of his wooden leg, which he directed to be handed over to the
+Royal Hospital for Incurables, at Putney.
+
+Such was the man, and the contents of his Will so exactly reflected the
+character of her husband that Lady Rushforth at once had recourse to the
+smelling salts on reading the document.
+
+He directed the debts, from which he had obtained a legal discharge in
+Bankruptcy, to be paid in full, he forgave all his Debtors, and instructed
+his Widow, whom he had appointed sole Executrix and Residuary Legatee,
+to meet in full all his Gaming Debts. He further directed that a certain
+debt, in respect of which he had pleaded in his younger days the Statutes
+of Limitation, should be paid in full.
+
+The name of this latter creditor was Gunter, and the debt, amounting to
+L25, was in respect of repairs to certain pig-sties.
+
+The discharge from Bankruptcy had been obtained by Sir Robert eight years
+previous to his death. His liabilities had amounted to L16,200, and he
+had paid 2s. 6d. in the L.
+
+He owed his bookmaker, Mr. Hollins, of Houndsditch, L200.
+
+He had lent his Vicar, the Rev. Aaron Cranium, L100, his sister Blanche
+L300, and his intimate but impecunious friend, Mr. Algernon O'Gizzard,
+L50. This latter loan was rendered necessary by reason of the fact that
+Mr. O'Gizzard had stood bail for a friend who had got into trouble with
+the police, and who failed to put in an appearance before the Magistrates
+on the day appointed. Now, Sir Robert happened to be on the Bench that
+morning, and ordered the bail to be estreated before he realised with whom
+he was dealing.
+
+Apart from the above property Sir Robert left Personal Estate valued at
+L62,000. There was no Real Property.
+
+Show what Estate Duty and Legacy Duty were payable upon Sir Robert's
+death.
+
+       *       *       *       *       *
+
+Note.--The wooden leg was returned by the Secretary of the Royal
+      Hospital for Incurables at Putney, and being found to be of no
+      intrinsic value was eventually deposited in the family Mausoleum
+      at Norwood.
+
+
+
+
+PROBLEM No. 20.
+
+
+Mr. James Hotchkiss died in the autumn of age on the morning of his 93rd
+birthday.
+
+During his protracted life he had always surrounded himself with every
+comfort, and was reputed to be an exceedingly rich man.
+
+No wonder then that his death should occasion an unparalleled outburst of
+grief and hatbands on the part of his weeping relatives.
+
+After the funeral, the chief mourners met in the library and the Family
+Solicitor, with a glass of wine within easy reach, read out the last Will
+and Testament of James Hotchkiss Deceased.
+
+This interesting document brought a ray of comfort to bleeding hearts, for
+several substantial Legacies were mentioned, all free of duty, and two at
+least of the prospective Legatees were observed to make rapid calculations
+on the left shirt cuff.
+
+[Illustration: "To Rachel and Joyce Proudfoot (my sister's little girls,
+aged 32 and 27 respectively), L10,000 each."
+
+Joyce: "Think of it, Rachel!! Ten thousand pounds!!! Why the young fellows
+will simply chase us!!!"]
+
+To Sophia Hotchkiss ("my own dear Wife") the deceased left his Horses,
+Carriages, Motor Car, Household Furniture, Pictures, including the
+Landscape by Earp, Linen, Plate, Glass, &c., absolutely.
+
+To George Proudfoot ("my dear sister's only son") the deceased left his
+Horned Cattle, i.e., Cows, and L20,000.
+
+To Rachel and Joyce Proudfoot ("my sister's little girls"), the deceased
+bequeathed L10,000 each. The Misses Proudfeet were aged 32 and 27
+respectively.
+
+To Richard, William and Algernon Hotchkiss ("my never-to-be-forgotten
+brother's sons") the deceased left L20,000 each, and to John Willett ("my
+faithful valet"), L2,000.
+
+The Residue of the Estate was bequeathed absolutely to the Widow.
+
+The Executors lost no time in having the Property valued and the debts due
+by the deceased at his death, ascertained, and their efforts disclosed
+"a very lamentable state of affairs," at least, such was the opinion
+expressed by the Reverend Stephen Collins who had called to comfort the
+Widow in her affliction.
+
+The Horses, Carriages, Motor Car, &c., including the Landscape by Earp,
+were valued at L2,000; the Horned Cattle, i.e., the Cows, were put down
+at L400, and the rest of the Property at L40,893 16s 0d.
+
+The Debts due by the deceased amounted to L1,720 0s. 0d., and the Funeral
+Expenses to L339 7s. 0d. These latter were considered unreasonable by the
+Inland Revenue Authorities, and in spite of several very eloquent appeals
+addressed to them by the Executors, including a touching letter from the
+Reverend Stephen Collins dealing with the blameless life of the deceased,
+the amount allowed was fixed at L33 16s. 0d.
+
+The Testamentary Expenses, exclusive of Estate Duty, amounted to L186 13s.
+0d.
+
+       *       *       *       *       *
+
+What amount was eventually received by each Legatee?
+
+[Illustration: "At the age of 16 he made the acquaintance of Miss
+Harriett Hopkins. In the following spring he had successfully reached the
+'Walking-out' stage."]
+
+
+
+
+PROBLEM No. 21.
+
+
+Mr. and Mrs. Turvey were justly proud of their son "'Erbert." He was their
+only child, and always wore a Frock Coat, Brown Boots and White Spats on
+Sunday. In fact, as everyone said, he gave a tone to Bethnal Green.
+
+But the ways of Providence are strange, and it is futile to seek for
+explanations where none are vouchsafed. It is enough to say that Mr.
+Herbert's anatomy came into violent contact with a brewer's dray one
+Thursday afternoon, and that a promising young life was cut short at the
+early age of 19.
+
+His Life Story has yet to be written, and it is but the barest outline
+that can be here recorded.
+
+At the age of 16 he made the acquaintance of Miss Harriett Hopkins. In the
+following spring he had successfully reached the "walking out" stage. He
+was formally engaged at the age of 17 and at 18 he was married. Six weeks
+before he died he made two very remunerative investments. He borrowed from
+his Employers--without worrying them about so small a matter--the sum of
+L6, which he converted into L600 by successfully backing "Hump Back" at
+100 to 1 for the "Cesarewitch." He also insured his life for L100.
+
+Having satisfactorily adjusted the small matter of the Loan without in
+any way arousing his Employers' suspicions, he joined a Burial Club, made
+a Will, and died ten days later.
+
+By his Will he appointed his Widow sole Executrix, and divided his Estate
+as to one-fourth part to his father Oliver Turvey, as to one-sixth part
+to a former landlady Mrs. Korphdrop, and the residue to his Widow.
+
+The Estate consisted of the following:--
+
+  Cash L564.
+
+  Insurance Policy, L100.
+
+  Burial Club Money L14.
+
+  Household Furniture and Effects L12.
+
+The Funeral Expenses amounted to L12.
+
+Mr. Herbert Turvey was buried on the third Thursday after Guy Fawkes'
+Day, and on the following Tuesday fortnight the Widow gave birth to a son.
+Both mother and child progressed amazingly and everybody called to visit
+Harriett, but chiefly to satisfy their curiosity as to the amount which
+she inherited.
+
+       *       *       *       *       *
+
+Don't keep them waiting.
+
+
+
+
+PROBLEM No. 22.
+
+
+Mrs. George Dumpkins was very vexed that any Estate Duty at all should be
+payable, and when she was told that a Corrective Affidavit would have to
+be presented she threatened to change her Solicitors. As she very properly
+said she had sufficient troubles already without having to pay for more,
+and the Chancellor of the Exchequer, whoever he was, ought to be ashamed
+of himself for taxing Widows so scandalously.
+
+She entirely disagreed with the opinion of her Solicitor as to the
+necessity of presenting this Corrective Affidavit, and insisted upon
+having Counsel's opinion on the matter. The following facts were therefore
+submitted to the learned gentleman:--
+
+Mr. Dumpkins' Estate had been proved for Probate purposes at L71,000,
+but during the year after death the following Assets were realised and
+Liabilities settled, viz.:--
+
+  L18,000 3-1/2% India Stock valued for Probate at 94-7/8, realised
+    91-1/2.
+
+  Share in Ship valued at L4,000, realised L3,500.
+
+  Sundry Liabilities estimated for Probate at L8,000, were
+    subsequently found to be L8,700. (This included L75 cost of
+    bringing deceased's body from abroad.)
+
+  Stock-in-Trade valued at L10,250, realised L9,400.
+
+  L6,000 Mortgage Debentures valued at L7,500 were sold at par.
+
+The opinion of Counsel was received in due course, and the Solicitor
+smiled.
+
+       *       *       *       *       *
+
+By what amount was the Estate Duty increased or decreased? Ignore any
+adjustment in respect of Interest on Estate Duty.
+
+
+
+
+PROBLEM No. 23
+
+
+Mr. William Wiggins made all his money out of Pickles, and when he died
+his body was embalmed. To use the Widow's words, "'e 'opped it" on the
+14th June, 1914.
+
+He left his fortune to Mrs. Wiggins, his nephew Herbert Huggins (commonly
+known as 'Erb 'Uggins), and his cousin Joe Gubbins, in equal portions.
+
+The Will was duly proved, Estate Duty at 9% was paid, and the interest on
+the Estate Duty amounting to L165 3s. 0d. was paid on the 14th November,
+1914.
+
+       *       *       *       *       *
+
+What was the value of the Net Legacy received by each Beneficiary? There
+was no Real Estate.
+
+[Illustration: "For nearly 25 years he had been a Judge of the Probate
+Division."]
+
+
+
+
+PROBLEM No. 24.
+
+
+Mr. Justice Oats died in harness. He worked like a horse throughout his
+long career on the Bench, and was universally regarded as a thoroughbred
+sportsman. For nearly 25 years he had been a Judge of the Probate Division
+of the High Court of Justice, and like many others in a similar position,
+died intestate. Not that this was the intention of the learned Judge, for
+he had prepared a Will on the back of an envelope, but forgetting that
+even he was subject to the laws of the land, had entirely overlooked the
+necessity for signing it. He died, therefore, intestate.
+
+His Net Estate, after the payment of the Estate Duty on the Personal
+Property, amounted to L68,570, of which the Real Property was valued at
+L24,200.
+
+For many years the Judge had been a Widower, and his only child had died
+in infancy. His youngest brother, Alfred, was living, however, and he
+had a nephew, the son of his deceased brother Charles. The Judge had,
+in addition, three first cousins, one of whom was a lady who had thrice
+refused offers of marriage, the acceptance of any one of which would
+have made her Lady Oats. She was, however, a Quakeress, and her enemies
+hinted that she refused the Judge lest the combination of the name of her
+religious faith and her marriage name should bring upon her the nickname
+of "Lady Porridge."
+
+       *       *       *       *       *
+
+How was the Judge's property divided?
+
+
+
+
+PROBLEM No. 25.
+
+
+The following letter was received by the Rev. Stephen Collins on the 22nd
+March, 1914:--
+
+
+                                              147, Eaton Avenue, W.
+                                                  21st March, 1914.
+
+  My dear Mr. Collins,
+
+  As an old and much honoured friend of my late husband may I implore
+  you to be with us at breakfast on Tuesday, the 1st April, at 9 a.m.?
+
+  My son Montgomery comes of age on that day and I feel that it
+  would be a particularly appropriate occasion for his Vicar to say
+  a few words on the seriousness of life, and the responsibilities of
+  riches.
+
+  Perhaps you do not know that my husband left everything to me except
+  L10,000 India 3-1/2% Stock which he bequeathed (in my opinion
+  misguidedly) to our two boys, Montgomery and Algernon, in equal
+  shares. At the date of the Colonel's death, six years ago, these
+  were valued at 102, but now, alas, are worth no more than 90. The
+  Income up to the 6th January last has been regularly handed over to
+  the boys in accordance with their father's wishes, but on the 1st
+  April, L5,000 of the Stock will have to be sold and handed over to
+  Monty.
+
+  Mr. Crawley, my Solicitor, has promised to be present, and I have
+  sent invitations to my Stockbroker, Professional Accountant, and
+  the Bank Manager.
+
+  Do come, dear Mr. Collins,
+
+                                    And believe me to remain,
+
+                                          Yours very sincerely,
+
+                                                AUGUSTA MAWSTONE.
+
+  Note.--The breakfast was a great success. Everybody turned up and
+        the Rev. Stephen Collins spoke for 47 minutes. The L5,000
+        Stock was sold at 90 net, and the necessary entries were
+        made in the books of the Trust, showing the settlement of
+        Montgomery's interest in the Estate.
+
+       *       *       *       *       *
+
+What was it?
+
+[Illustration: "The Rev. Stephen Collins spoke for 47 minutes."]
+
+
+
+
+PROBLEM No. 26.
+
+
+Sir John Hopper, Bart., died on the day set apart for the Feast of St.
+Valentine. He had been a Widower for some 12 years, and the age of his
+only daughter was 23.
+
+The Family consisted of four Sons and one Daughter, whose names in order
+of age were:--
+
+  John Long,
+  George Rhode,
+  Oscar Truclod,
+  Charles Grarze,
+  Rose Marie.
+
+Sir John died intestate, possessed of the following Estate:--
+
+  Net Residue of Personalty, L24,000.
+
+  Real Property:
+
+    Freehold Estate 4 miles outside Canterbury, Kent, L5,000.
+      Delightful situation, 4 Reception Rooms, 8 Bed and Dressing
+      Rooms, 2 Bathrooms, Modern Kitchen apartments, including
+      Servants' Hall, usual Offices, Good Stabling and 4 Acres of
+      Garden. Caretaker within.
+
+    Freehold Estate, 1 mile outside Guildford, Surrey, L8,000.
+
+    Freehold Estate in the City of Nottingham, L10,000.
+
+       *       *       *       *       *
+
+Show how the Estate of Sir John Hopper will be divided.
+
+
+
+
+PROBLEM No. 27.
+
+
+Colonel Filbert, stepson to the late Sir Hazel Knut, paid a brief visit
+to the Brazils, and died on the voyage home on the 1st January, 1914.
+
+He left a considerable Estate, and bequeathed many useful Legacies, all
+free of Duty, to deserving Relations and Friends. One of the provisions
+in his Will was to the effect that a sum of L5,300 should be placed on
+Deposit at the Bank to be paid over by instalments at regular intervals
+to his two Executors, John Bunting and Nathaniel Whittel, and was to be
+regarded by them as a Salary for their services.
+
+Each was to receive a Starting Salary at the rate of L500 per annum,
+but whereas John Bunting's Salary was to be increased by L100 per annum,
+Nathaniel Whittel's Salary was to be increased by L25 half-yearly.
+
+As soon as the L5,300 was exhausted the Salaries were to cease, and in the
+meanwhile the Interest on the Deposit was to be paid over to the General
+Estate.
+
+The Salaries were to be drawn half-yearly, the first to be payable exactly
+six months from the date of Colonel Filbert's death.
+
+       *       *       *       *       *
+
+Write up a Cash Account, showing how the Legacy of L5,300 was divided
+between the Executors.
+
+[Illustration: "Miss Tulip's heart was forthwith pierced."]
+
+
+
+
+PROBLEM No. 28.
+
+
+Every Sportsman will admit that it is immoral to bet upon a certainty,
+and most business men will endorse the maxim that only fools speculate
+without inside information.
+
+Now Mr. Hunter never gambled, but he was open, like most other men, to
+a sound speculation, and when he learned in his capacity of Clerk to
+a well-known Solicitor that Miss Rose Tulip had inherited a fortune of
+L60,000 odd, he naturally felt interested.
+
+Many obstacles separated Mr. Hunter from the object of his choice, but he
+persevered, and on one particularly sunny afternoon he let loose a chance
+arrow with such well-directed aim that Miss Tulip's heart was forthwith
+pierced.
+
+The Engagement caused some little flutter in the Dove Cot, and Lady Tulip,
+Miss Rose's widowed Mother, at once changed her Solicitors in spite of a
+promise on their part to decorate Mr. Hunter with the "Order of the Boot,"
+a promise which was promptly converted into an accomplished fact.
+
+Every effort was made to induce Miss Rose to reconsider her decision, but
+this only seemed to lead to further complications, for on the 14th July
+Mr. George Tulip announced his engagement to Mr. Hunter's only sister,
+Rebecca.
+
+This was the last straw and the lamentations of the proud Tulip Family
+were only exceeded by the rejoicings of the Family Hunter.
+
+The prospective Bridegrooms met and made all the necessary arrangements,
+and Mr. Hunter, who had had a legal training, drew up four simple Wills
+whereby each left to the Widow, or Widower, all the worldly goods of which
+he, or she, was possessed.
+
+These documents were signed and witnessed, and four days later the double
+wedding was solemnized quietly at the Church of Saint Augustine.
+
+After the ceremony Mr. and Mrs. Hunter and Mr. and Mrs. Tulip journeyed
+to Liverpool Street Station and caught the 2 o'clock train to Clacton,
+where the honeymoon was to be spent.
+
+They arrived comfortably in time for tea, and Mr. Hunter insisted on
+treating the whole party to Winkles.
+
+Now, whether it was the Winkles or whether it was the pins, is a matter
+upon which the two London Specialists who were called in failed to agree,
+but the fact remains that within a very short time of devouring the
+aforementioned delicacies, the whole party became alarmingly ill, and two
+days later Mr. Tulip and Mrs. Hunter died.
+
+Mr. Tulip's Estate, which consisted entirely of Personalty, was valued for
+Probate at L8,420, and Mrs. Hunter's Estate, which consisted entirely of
+Realty, was valued at L72,422.
+
+       *       *       *       *       *
+
+What Legacy and Succession Duty was payable on behalf of Mrs. Tulip, and
+by Mr. Hunter?
+
+
+
+
+PROBLEM No. 29.
+
+
+The Rev. Stephen Collins delivered a very moving address on Total
+Abstinence at the Mothers' Meeting on the 14th June, 1913, and three weeks
+later Mr. Gunter died.
+
+Now some of the parishioners were inclined to connect the two events,
+particularly as Mrs. Gunter happened to form one of the band of Mothers
+on that memorable occasion, and was known to have given her husband Toast
+and Water for Supper on the following evening.
+
+Be that as it may, it is an undoubted fact that Mr. Gunter, in a codicil
+to his Will, nominated the Rev. Stephen Collins in place of Mrs. Gunter
+as Life Tenant of the Income arising from the property of which he (Mr.
+Gunter) died possessed.
+
+After the payment of all Duties, Debts and Expenses, this property
+consisted of Assets producing Income as follows:--
+
+  (1) L300 per annum, free of tax, payable quarterly on the usual
+      quarter days.
+
+  (2) L160 per annum, free of tax, payable half-yearly, on the 30th
+      June and 31st December.
+
+  (3) L140 per annum, free of tax, payable yearly, on the 29th
+      September.
+
+The Income was received regularly on the due dates and the Reverend
+Gentleman had given a formal receipt for everything due up to and
+including the 31st December, 1913.
+
+On the 30th April, 1914, Stock No. 1 was sold cum. div. at a profit of
+L500, and the proceeds were re-invested in a security, the income from
+which was L320 per annum, free of tax, payable half-yearly on the 30th
+June and 31st December.
+
+On the 20th June, 1914, Stock No. 2 was sold ex. div. at a loss of L100,
+and the proceeds were re-invested in a Stock ex. div. bringing in L140
+per annum, free of tax, payable quarterly on the usual quarter days.
+
+The Rev. Stephen Collins recognises that the Trustees are honourable men
+and that their intentions are worthy, but nevertheless he is anxious and
+wishes to be in a position to reassure Mrs. Collins as to the income which
+he will receive for the year ending 31st December, 1914.
+
+It is interesting to note that Mr. Collins has now published the Address
+delivered at the Mothers' Meeting on the 14th June, 1913, trusting that
+the seed sown broadcast may find its way into fruitful soil.
+
+
+
+
+PROBLEM No. 30.
+
+
+A prosperous Solicitor usually occupies very dirty offices, and his
+furniture is mostly Mid-Victorian and rickety.
+
+Mr. John Storalore was no exception to this rule and never seemed to
+object to such surroundings, but on the contrary always appeared to be
+surrounded by such objects.
+
+He was sitting in his office one June afternoon and was dozing over
+some particularly dusty documents when his clerk announced Sir Pufferby
+Pawstone. Now Sir Pufferby was an important client who always had his hair
+cut and called on his Solicitor when he found himself with nothing better
+to do. It is not surprising, therefore, that Mr. Storalore should receive
+him with open arms and assume a very profound expression.
+
+After the usual courtesies had been exchanged, and Lady Pawstone's health
+touched upon, Sir Pufferby announced that he desired to make a Will.
+
+Mr. Storalore was all attention and took elaborate notes of Sir Pufferby's
+testamentary wishes, which were extensive and complicated. This done,
+Sir Pufferby begged Mr. Storalore to give him a brief and concise account
+of the steps which it is necessary for Executors and Trustees to take in
+the administration of the affairs of a deceased person from the moment of
+death up to the final distribution of the Residue.
+
+       *       *       *       *       *
+
+Do not worry about what Mr. Storalore actually said to Sir Pufferby, for
+Sir Pufferby was an old woman, and Mr. Storalore knew his client, but say
+what he would have said to you in answer to such a question.
+
+
+
+
+PROBLEM No. 31.
+
+
+Mr. George Huggins died on the 31st October, 1913, and with the exception
+of a few legacies, bequeathed free of duty, he left the whole of his
+property to his Widow for life with remainder over to his friend Mr.
+Giblets, provided that gentleman outlived Mrs. Huggins.
+
+Now this arrangement placed Mr. Giblets in an embarrassing predicament,
+especially as Mrs. Huggins' health improved so wonderfully after her
+husband's death.
+
+It appeared to Mr. Giblets, therefore, that matrimony was the only safe
+solution of the difficulty, and so he went on his knees before the Widow.
+But the lady grasped the situation immediately, and declined the honour.
+
+Friendship being thus early at an end Mr. Giblets resolved to worry the
+Widow, bearing in mind the saying that "Worry kills." So he set himself to
+quibble about every detail in the administration of the late Mr. Huggins'
+Estate, particularly as regards the apportionment of Revenue between
+Capital and Income. But the Widow would not worry, and wisely suggested
+to the Solicitors that all matters involving accounts should be left to
+some first-class Firm of Professional Accountants to settle.
+
+This was done, and the following are the Cash Receipts and Payments made
+by the Trustees up to the 30th June, 1914.
+
+       *       *       *       *       *
+
+What amount was paid to Mrs. Huggins on the 30th June, 1914?
+
+                  _Receipts._
+
+  1913.                                                        L  s. d.
+
+  Oct.   3  Cash at Bank and in house                         532 17  4
+  Nov.   5  Yorkshire Coal Co., dividends half-year ending
+            30th September, 1913, free of tax
+
+  1914.
+  Jan.   5  Dividends on India Stock, less tax                 47  1  8
+  " "   14  Sale of Investments                             1,764  8  9
+  Feb.   8  Caledonian Railway Dividends, half-year ending     32 19  2
+             31st December, 1913
+  March  3  Sale of Furniture                                 243  6  8
+  " "   25  Quarter's Rent of Property to date, less tax at    16  1 10
+             1s. 2d.
+  " "   31  North British Investment Trust Dividends, 6        70  0  0
+             months to date, free of Tax
+  "     31  West Ham Gas Co., half-year's Debenture            47  1  8
+             Interest, less tax
+  Apr.   5  Dividends on India Stock, less tax                 47  1  8
+  June  15  Sale of Jewellery                                  32  5  0
+  " "   25  Quarter's Rent of Property                         20  0  0
+
+                  _Payments._
+
+  1913.
+
+  Nov.   7  Medical Attendance and Nursing fees                31 10  0
+  " "   25  Mrs. Huggins, on account                           50  0  0
+  Dec.  31  Estate Duty                                       532  6  8
+  " "   31  Interest thereon                                    2 13  3
+
+  1914.
+
+  Jan.  16  Valuation fees                                     15 15  0
+  Feb.   1  Widow, further on account                          50  0  0
+  " "   16  Funeral Expenses                                   31 10  0
+  March 25  Half-year's Ground Rent, due this day, less tax     4 18 11
+  " "   31  Debts due at death                                 73  6  8
+  Apr.   1  Widow, further on account                          50  0  0
+  " "   30  Legacies                                          250  0  0
+  May    3  Duty thereon                                       20  0  0
+  " "   31  Executorship Expenses                               5  6  8
+  June   1  Solicitor's Costs re Probate                       32  6  8
+  " "   15  Mason's Expenses, restoring, &c, Tombstone         15 15  0
+  " "   30  Paid Widow Balance due to her.
+
+
+
+
+PROBLEM No. 32.
+
+
+Mr. Nathaniel Soworthy, a great breeder of prize pigs, had the misfortune
+to be knocked down one day by his favourite Berkshire Boar, and his head
+was cut open on the corner of the pig-sty. Notwithstanding the fact that
+Mr. Soworthy prided himself exceedingly on the extreme cleanliness of his
+pig-sties, where, as he was often heard to say, he would be quite ready to
+eat his own dinner, he discovered on that lamentable occasion what must
+have been the sole surviving microbe on the premises which, entering his
+circulation, set up blood poisoning with the result that he passed away a
+few days later, viz., at 6 p.m. on the evening of the 31st January, 1914.
+
+Mr. Soworthy was a man of many hobbies, and in addition to his prize pigs
+he possessed a unique collection of silver salt-cellars reputed to be one
+of the finest in the country. This was valued for Probate at L5,000, while
+the pigs were estimated to be worth L2,500.
+
+In addition he died possessed of the following property:--
+
+  L5,000 India 3% quoted at 75-3/8-7/8.
+
+  10,000 Ordinary Shares of L1 each in the Improved Pork Pie Factory,
+      Ltd., valued at 25/- per share.
+
+  L4,000 Mortgage at 4-1/2% on the farm known as "Little Watchem,"
+      interest payable 30th September and 31st March, paid to 30th
+      September, 1913.
+
+  Cash in the house, L15.
+
+  Cash at the Bank L355 on Current Account and L2,000 on deposit at
+      3%, interest payable 30th June and 31st December.
+
+  L5,000 Policy in the Live Stock Breeders' Mutual Assurance Society,
+      upon which the Bonus at the date of death amounted to L190.
+
+  Household Goods, Horses, and Motor Car, L3,500.
+
+  Implements of Husbandry, L150.
+
+  The Freehold Estate, comprising Mansion House, Park, and Home
+      Farm known as "The Piggeries," valued at L15,000, subject to a
+      Mortgage of L10,000 at 4-1/2%, interest payable 30th November
+      and 31st May, paid to 30th November, 1913.
+
+  He was also life tenant of Real Property producing L3,000 per
+      annum, in respect of which there was income accrued due but not
+      received prior to death amounting to L900.
+
+By his Will he left the following bequests:
+
+  L1,000 in trust to the President for the time being of the Royal
+      Society for the Propagation and Improvement of Pigs, to be
+      invested and the interest awarded annually in prizes for the
+      best sucking pigs.
+
+  L100 to the Perennial Society of Whole Hoggers, of the local branch
+      of which he was the esteemed and Honorary President; and
+
+  His famous White Sow, known as the "Soworthy Sow," to his lifelong
+      friend the celebrated judge of pigs, Mr. Anthony Golightly
+      Wackenbath.
+
+The prize pigs were directed to be sold and realised L2,690. The
+collection of silver salt-cellars was bequeathed to the Victoria and
+Albert Museum on condition that it should be shown as a whole and named
+the Soworthy Collection. This bequest was accepted.
+
+[Illustration: "His famous White Sow, known as the 'Soworthy Sow.'"]
+
+The debts due at death amounted to L215, and the funeral expenses to L45.
+
+Within a week of the funeral the famous Soworthy Sow died in giving
+birth to a fine litter of ten little pigs, two of which unfortunately
+pre-deceased their Mother. The result of this event had been awaited
+before sending the Sow to Mr. Wackenbath, who was thus deprived of this
+mark of the deceased gentleman's affection. The value of the Sow alive
+had been L50, but dead she was not worth more than L3 10s. 0d., while
+the litter, whose father was the same Berkshire Boar that had been the
+unwitting cause of Mr. Soworthy's death, were worth L2 a-piece.
+
+       *       *       *       *       *
+
+Prepare the Estate Duty Account, the affidavit being brought in on the
+31st March, 1914. Show the amount of duty and interest payable.
+
+
+
+
+PROBLEM No. 33.
+
+
+Referring to the preceding Problem, all bequests were left free of duty
+and the residue of the estate was left in equal shares to Mr. Soworthy's
+grand-daughter, his brother, and his adopted son.
+
+The India Stock was sold on the 25th March, 1914, at 77; the Shares in
+the Improved Pork Pie Factory, Ltd., realised 24/- per share net on the
+25th May, 1914, after receipt on the 1st May of a Final Dividend of 1/-
+per Share paid in respect of the year ending 31st March, 1914, an interim
+dividend of 6d. per share having been received by Mr. Soworthy prior to
+his decease.
+
+The Mortgage on "Little Watchem" Farm was called in and paid off on
+the 30th June, 1914, while "The Piggeries" was directed to be sold and
+realised L14,500 after payment of all expenses, completion being made on
+31st May.
+
+The household goods and implements of husbandry were sold at the same time
+and produced L3,000 and L120 respectively.
+
+The Policy money with bonus was received on February 25th and the proceeds
+of the sale of pigs on March 5th, while the income from the Real Estate
+was received on February 10th.
+
+Estate and Legacy Duties were paid on March 31st, and the debts, funeral
+expenses and legacies were also paid on the same date. Executorship
+expenses amounting to L250 were paid on June 14th.
+
+On the last day of each month such portion of the cash balance as was
+available in round thousands was placed on deposit at 3%.
+
+       *       *       *       *       *
+
+Prepare Residuary Account as at June 30th, 1914, and state the duties
+payable on the Residue.
+
+
+
+
+PROBLEM No. 34.
+
+
+Referring to the two preceding Problems, prepare an Account to be rendered
+by the Executors to the Residuary Beneficiaries, showing the realisation
+and distribution of the Estate, the final payment to the Residuary
+Beneficiaries taking place on July 1st, 1914.
+
+
+
+
+PROBLEM No. 35.
+
+
+To anyone not in the secret, the conduct of Mr. Pipkin would appear
+inexplicable, for on March 3rd, 1914, he very deliberately entered a
+Tobacconist's shop, ordered a threepenny cigar, and afterwards resigned
+his position as Assistant Book-keeper in Messrs. Macfarlane's Grocery
+Establishment.
+
+The secret, however, lay in the fact that Mrs. Pipkin had come into money,
+and Mr. Pipkin very naturally felt himself independent of other people
+and yearned for the ease and comfort appertaining to the position of a
+retired gentleman of means.
+
+Mrs. Pipkin's fortune consisted of a life interest in the Property left
+by Mr. Austen Friars, who died on the 28th February, 1914.
+
+This property was represented by the following assets:--
+
+  L2,000 3-1/2% Hongkong Stock, interest payable half-yearly, on the
+    1st April and 1st October.
+
+  200 Shares of L5 each (L2 10s. 0d. called up and paid) in the
+    Commercial Banking Co., Ltd.
+
+  Freehold House bringing in L80 a year, payable quarterly, on the
+    usual Quarter Days. This house was assessed at L67, and the Income
+    Tax was paid by the Tenant on the 5th January, 1914.
+
+  750 L1 Shares, fully paid, in the Perpetual Rays Co., Ltd.
+
+April, 1914, was the very happiest month in Mr. Pipkin's whole life,
+and he spent most of his time smoking his pipe in his back garden, or
+improving his mind by contemplating the educative pictures of the local
+Cinema.
+
+The months of May and June, however, did not prove quite so pleasant,
+and by the middle of July Mr. Pipkin actually threatened Mrs. Pipkin that
+unless she kept the baby quiet he would look out for another job.
+
+And then August came round which proved to be the most miserable month
+of Mr. Pipkin's whole life, for Mrs. Pipkin was suddenly taken ill after
+consuming a liberal portion of Tinned Salmon. Never before did he realise
+how much he loved his Wife or what a blow to his heart her death would
+be. He never left her bedside and he spared no expense, but, in spite of
+all, Mrs. Pipkin passed away on the 19th August, 1914.
+
+It would be idle to attempt to depict Mr. Pipkin's feelings; it is enough
+to say that he became a poorer but a wiser man.
+
+On the 3rd April, 1914, a dividend for the year ending 31st January, 1914,
+at the rate of 7-1/2% was declared on the 200 shares in the Commercial
+Banking Co., Ltd., and a similar dividend was declared on the 4th April,
+1915, in respect of the year ending 31st January, 1915.
+
+On the 19th August, 1914, a final dividend at the rate of 15% per annum,
+free of tax, was declared on the 750 Shares in the Perpetual Rays Co.,
+Ltd., for the half year ending 30th June, 1914. An interim dividend had
+been received on the 31st January, 1914, in respect of the half year
+ending 31st December, 1913, at the rate of 10% per annum, free of tax.
+
+No interim dividend was paid during the Company's year ending 30th June,
+1915; but on the 31st July, 1915, a dividend at the rate of 10%, free of
+tax, was declared in respect of the year ending 30th June, 1915.
+
+       *       *       *       *       *
+
+Show the exact amount payable to Mrs. Pipkin and her Estate in respect of
+her life interest under the Will of Mr. Austen Friars.
+
+[Illustration: "Two Sons, who, if the truth was told, Drank much more than
+they ought'er."]
+
+
+
+
+PROBLEM No. 36.
+
+
+  On Lady Day the death occurred
+    Of Hubert Henry Huckett,
+  Who fell beneath a brewers' dray
+    And promptly kicked the bucket.
+
+  He left a very charming Wife,
+    And one enchanting Daughter,
+  Two Sons, who, if the truth was told,
+    Drank much more than they ought'er.
+
+  His Will was proved and it was found
+    He'd left as weird collection
+  Of Stocks and Shares as e'er was known
+    Within man's recollection.
+
+  He'd (L) 60 Bags and 40 Coils
+    100 Common Can. Pacs.,
+  And (L) 40 Berthas, 60 Lions
+    And 42 Brazil Tracs.
+
+  He'd 80 Knackers, 20 Breads
+    And just (L) 400 Saras,
+  (L) 1,000 Middies, 20 Tanks,
+    And (L) 57 Claras.
+
+  200 Chinas (L) 90 Megs,
+    10 Virgins (L) 40 Doras,
+  (L) 1,000 Vestas, Matches 10,
+    12 Bones and (L) 80 Noras,
+
+  The Cash at Bank was L80,
+    The Cash in House was seven,
+  The Furniture was valued at
+    Four hundred pounds eleven.
+
+  Debts due at death were L90,
+    And no one in their senses
+  Can say that L20 was much
+    For Funeral Expenses.
+
+  The Trustee read the Will with care
+    And studied it minutely,
+  And found that all was left unto
+    The Widow absolutely,
+
+  Except some Legacies, which made
+    The worthy man feel dizzy,
+  He read "I hereby leave my Bags
+    Unto my daughter Lizzie."
+
+  "I leave the Virgins to my son,
+    Advising him to hold them,
+  Unless it proves upon my death
+    I've previously sold them."
+
+  "I solemnly bequeath my Bones
+    Unto my second sonny,
+  Although I know they'll quickly be
+    Converted into money."
+
+  "I also feel in duty bound
+    To leave my brother's kiddies
+  A Legacy, so let his girls
+    Take over all the Middies."
+
+  "My Trustee gets a hundred pounds
+    For trouble and attention,
+  All Legacies are duty free,
+    Perhaps I ought to mention."
+
+  "Those whom I leave will thus receive,
+    A generous provision,
+  And when all's paid, they'll see I've made
+    A very just division."
+
+_The following lines were addressed by the Trustee to the Professional
+Accountant:_--
+
+  You are a man, to Law and Figures bred,
+  I am a Layman, and I fear to tread
+      The unknown way.
+  You know the course Executors should take
+  To carry out their Trust, without mistake,
+      Without delay.
+
+  Give me then help to ascertain the rate
+  Of Duty payable on the Estate;
+      The Residue,
+  Which goes to Mrs. Huckett, and which may
+  Be challenged by her lawyer; and I'll pay
+      A fee to you.
+
+
+            PARTICULARS OF INVESTMENTS LEFT BY
+               H. H. HUCKETT, Deceased.
+   ---------------------------------------------------------------------
+  |Short Name |Full Name of Investment.  |Amount left   |Cum. Div Price |
+  |of         |                          |by Deceased.  |at Date of     |
+  |Investment.|                          |              |Death          |
+   ---------------------------------------------------------------------
+  |Bags       |Buenos Ayres Gt. Southern |L60 Stock     |116-117        |
+  |           | Rly. Ordinary Stock      |              |               |
+   ---------------------------------------------------------------------
+  |Coils      |Californian Oilfields     |40 Shares L1  |5-3/4-6-1/4    |
+  |           | Ordinary Shares          |each          |               |
+   ---------------------------------------------------------------------
+  |Can. Pacs. |Canadian Pacific Rly.     |100 Shares    |233-1/2-234-1/2|
+  |           | Common Stock             |$100 each     |($5=L1)        |
+   ---------------------------------------------------------------------
+  |Berthas    |London, Brighton & South  |L40 Stock     |89-3/4-90-1/4  |
+  |           | Coast Rly. Deferred Stock|              |               |
+   ---------------------------------------------------------------------
+  |Lions      |J. Lyons & Co., Ltd.,     |60 Shares L1  |6-5/16-6-9/16  |
+  |           | Ordinary Shares          |each          |               |
+   ---------------------------------------------------------------------
+  |Brazil     |Brazil Traction Light and |42 Shares     |89-90 ($5=L1)  |
+  |Tracs.     | Power                    |$100 each     |               |
+   ---------------------------------------------------------------------
+  |Knackers   |Harrison, Barber & Co.,   |80 Shares L5  |1-1/2-2        |
+  |           | Ltd.                     |each          |               |
+   ---------------------------------------------------------------------
+  |Breads     |Aerated Bread Co., Ltd.   |20 Shares L1  |4-1/4-4-1/2    |
+  |           |                          |each          |               |
+   ---------------------------------------------------------------------
+  |Saras      |Great Central Rly.        |L400 Stock    |14-1/4-14-1/2  |
+  |           | Deferred Stock           |              |               |
+   ---------------------------------------------------------------------
+  |Middies    |Midland Rly. Deferred     |L1,000 Stock  |70-1/2-71      |
+  |           | Ordinary Stock           |              |               |
+   ---------------------------------------------------------------------
+  |Tanks      |Tanganyika Concessions    |20 Shares L1  |2-3/8-2-5/8    |
+  |           |                          |each          |               |
+   ---------------------------------------------------------------------
+  |Claras     |Caledonian Rly. Deferred  |L57 Stock...  |18-1/4-18-1/2  |
+  |           | Converted Ordinary Stock |              |               |
+   ---------------------------------------------------------------------
+  |Chinas     |Eastern Extension         |200 Shares    |12-7/8-13-3/8  |
+  |           | Telegraph Co. Ordinary   | L10 each     |               |
+  |           | Shares                   |              |               |
+   ---------------------------------------------------------------------
+  |Megs       |Mexican Rly. 1st          |L90 Stock     |136-137        |
+  |           |  Preference Stock        |              |               |
+   ---------------------------------------------------------------------
+  |Virgins    |Virginia New Funded Bonds |10 Bonds $100 |84-86 ($5=L1)  |
+  |           |                          |each          |               |
+   ---------------------------------------------------------------------
+  |Doras      |South Eastern Rly.        |L40 Stock...  |58-3/4-59      |
+  |           | Deferred Stock           |              |               |
+   ---------------------------------------------------------------------
+  |Vestas     |Railway Investment Co.    |L100 Stock    |14-1/2-15-1/2  |
+  |           |Deferred Stock            |              |               |
+   ---------------------------------------------------------------------
+  |Matches    |Bryant & May, Ltd.,       |10 Shares L1  |7/8-1-1/8      |
+  |           |Ordinary Shares           |each          |               |
+   ---------------------------------------------------------------------
+  |Bones      |Wickens, Pease & Co.      |12 Shares L5  |3/4-1-1/4      |
+  |           |Ordinary Shares           |each          |               |
+   ---------------------------------------------------------------------
+  |Noras      |Great Northern Rly.       |L80 Stock...  |50-1/2-51-1/2  |
+  |           |Deferred Stock            |              |               |
+   ---------------------------------------------------------------------
+
+
+
+
+PROBLEM No. 37.
+
+
+The late Mr. John Bunyon died in affluent circumstances after having, by
+the exercise of keen business instincts, overcome those obstacles which
+confront every great philanthropist who combines the cause of humanity
+with the desire to achieve wealth and fame.
+
+In his early days he vended to a suffering but suspicious public, a
+commodity known as "Bunyon's Specific"; and it was his custom at this time
+to commence his nightly oration to his potential patients at the street
+corner with the words, "Ladies and Gentlemen, I have extracted corns from
+all the Crowned Heads of Europe."
+
+In later years, when by the aid of judicious advertising he had convinced
+the public that no home was complete without his famous Specific, Mr.
+Bunyon sold his business to a Limited Company, and on then calculating
+his wealth, found himself rich beyond the dreams of avarice.
+
+He thereupon decided to enter Society, and after some difficulty
+procured an introduction to Mr. James Rooker, who obtained for him--for
+a consideration--the entree into that sphere of Social life which he was
+so eminently fitted to adorn. On Mr. Rooker's advice, he purchased a
+Freehold House in a favourable quarter of the West End of London, but
+owing to a desire not to disturb certain Investments, he raised L2,500 of
+the purchase price by Mortgage, which at the time of his decease had not
+been repaid.
+
+In view of the great services rendered to him by Mr. James Rooker, Mr.
+Bunyon promised to remember him and his family in his Will; which led Mr.
+Rooker to be very solicitous concerning Mr. Bunyon's health until he was
+certain that a Will had been executed, and subsequently caused him much
+speculation as to whether an early decease of his Patron might not be more
+beneficial than the advantages to be gained from him whilst alive.
+
+Mr. Bunyon's death put an end to these speculations, and it occurred
+under the following circumstances. Having met Mr. Rooker by appointment
+at that gentleman's house, they spent a merry hour at the card table,
+much to Mr. Rooker's advantage. They then sallied forth in a Taxi-cab;
+when suddenly remembering that he had parted with all his ready cash,
+and knowing that Mr. Rooker never paid for cabs on principle, Mr. Bunyon
+ordered the chauffeur to drive to Attenborough's and there placed his
+diamond pin in pledge for the sum of L5. Feeling somewhat faint after
+this exertion, he instructed the chauffeur to drive to a Chemist's where
+he ordered a pick-me-up. The Chemist not knowing his customer, considered
+his symptoms a fit case for a dose of "Bunyon's Specific," of which Mr.
+Bunyon unwittingly partook, and so met his death.
+
+Mr. Bunyon's Will was found to contain the following Legacies and Devises
+in favour of the Rooker Family:--
+
+  Mr. James Rooker, my Diamond Pin.
+
+  Mr. Tracey Rook Rooker, 1,000 Shares in "Bunyon, Ltd."
+
+  Mr. Ricardo Rook Rooker, my Freehold House in London.
+
+  Miss Christabel Rook Rooker, L100 of Consols out of my L2,000
+    Consols.
+
+  Miss Emmeline Rook Rooker, L100 payable out of my L2,000 Consols.
+
+It was found that both the Shares in "Bunyon, Ltd." and the Consols, had
+been sold shortly before Mr. Bunyon's death. The Freehold House was valued
+at L6,500, the Diamond Pin at L25.
+
+       *       *       *       *       *
+
+The Net value of his Estate when aggregated was L108,000. What did the
+Rooker Family receive, and what duties were payable by them?
+
+[Illustration: BY APPOINTMENT TO H.M. THE KING J. MILES & Co Ltd Printers
+68 & 70. Wardour St, London, W. ]
+
+
+
+[TRANSCRIBER'S NOTE: In the following, the original text of the Foreword
+is repeated with an informal English translation by proofer "Lucy 24"
+(Louise Hope). This was not in the original text, but is provided by the
+transcribers for the convenience of the reader. The English text below is
+placed in the public domain.]
+
+
+
+
+Foreword.
+
+By D. F. de l'Hoste Ranking, M.A., LL.D.
+
+
+  De mortuo illo quid dicam?
+    What shall I say about the deceased?
+
+  "Nilnisi bonum" ut aiunt.
+    "Nothing but good" as they say.
+
+  Sed quid si nil boni fecit?
+    But what if he didn't do any(thing) good?
+
+  De bonis licet loqui.
+    One can talk about his goods.
+
+  At si nulla bona reliquit?
+    But what if he left no goods?
+
+  De eo tacere decet:
+    One should keep quiet about that:
+  si neque bonum fecit nec bona acquisivit nil valet.
+    if he neither did good nor acquired goods, he is worthless.
+
+  Sed si bona reliquit in sermonem hominum semper venit;
+    But if he left property, people always talk about him;
+  vitia operta sunt;
+    his faults are concealed;
+  pecuniam fecit, illa quidem "non olet."
+    he made money, and it "doesn't smell".
+
+  Quem heredem instituit?
+    Whom did he name as heir?
+  Extraneis haec omnia livori proxima videntur.
+    To outsiders all these seem next door to envy.
+
+  Te autem si tu aut cognatione aut affinitate propinquus
+      exspectatio tenet.
+    But you--if you are close, either by acquaintance or relationship,
+        expectation grips you.
+  An mea interest? Si sic habet, quanti?
+    But does it concern me? If that's how it is, how much?
+  Suave est ex magno tollere acervo;
+    It's pleasant to receive a big heap;
+  ejus pecunia quid non facere possim?
+    with his money, what couldn't I do?
+
+  Siste, amice; aliquantulum cogita;
+    Stop, friend; think a little;
+  supersunt multi cognati;
+    there remain many friends;
+  fieri potest ut aut cum aliis bona partire debeas,
+      aut exheredatus sis.
+    it may be that either you have to share the goods with others,
+        or you are disinherited.
+
+  Gerrae! Sine dubio testamentum fecit:
+    Nonsense! Without a doubt he made a will:
+  et cum ratione constat me alicuius rei legatarium esse.
+    and it's reasonable to think I was left something.
+  Nemo enim magis eum fovit;
+    For nobody took better care of him;
+  alii omnes cognati asseclae; solus eum amavi.
+    all his other friends only cared about his money; I alone loved him.
+
+  Insipiens, inter os et offam multa intervenire possunt.
+    O fool, many things can come "between the mouth and the morsel"
+    [Latin idiom, like "many a slip between cup and lip"?]
+  Audi de gente Fulvia fabellam:
+    I've heard the story of the Fulvian people:
+  de multis mutato nomine narratur.
+    it is told of many, with the name changed.
+
+  (In scena est coenatio Georgii Fusci, argentariorum interpretis.
+    (Setting: The dining room of George Black, assayer of money.
+  Fuscus, bene coenatus, alterum cyathum Falerni sorbillat.
+    Black, having dined well, is enjoying his second glass of port.
+  Accurrit uxor, commota;
+    His wife runs in, excited;
+  in manu litteras resignatas tenet).
+    in her hand she holds a signed paper.)
+
+  U. Georgi!
+       George!
+
+  F. Quid tibi nunc est? Num quid novi est?
+       What's the matter with you? What's happening?
+
+  U. Amita mea Maria decessit!
+       My aunt Mary has died!
+
+  F. Bene! nunquam postea illud vile Sabinum necesse erit obsorbere:
+       Good! I will never again have to drink her vile claret:
+     magnum est solatium.
+       that's a great solace.
+
+  U. At tu Georgi semper id laudasti!
+       But George, you always praised it!
+
+  F. Et tu simul filiaeque semper miratae estis Persicam illam
+        detestabilem
+       And you and your daughter always admired that detestable Persian
+     et psittacum dissonum, et laudibus extulistis:
+       and the raucous parrot, and sang their praises:
+     pretium fuit vetulae placere.
+       that's the cost of pleasing old women.
+
+  U. Esto: illa vero suavia erant.
+       Never mind: They were really agreeable.
+     At hic mihi litterae a cognitore ejus Semaureo allatae:
+       But this letter was sent to me by her solicitor [Semaureus]:
+     dicit se hodie vesperi te conventurum.
+       he says he is coming to [see] you this evening.
+
+  F. Demiror si testamentum fecit!
+       I'll be amazed if she made a will!
+     Sin minus omnia ad te perveniunt,
+       If not, everything goes to you;
+     tu heres ex asse;
+       you are the [default/intestate] heir;
+     cognati alii desunt.
+       there are no other relatives
+
+  U. Est quidem mariti nepos iste.
+       There's that nephew of her husband.
+
+  F. Nullus: tu sola heres:
+       That's nothing: you alone are the heir:
+     si intestata omnia ad te.
+       if she [died] intestate, everything goes to you.
+
+  U. Tabulas vere fecit:
+       She really made an accounting:
+     cognitor scribit se te conventurum quia
+       her solicitor writes that he is coming to you because
+    testamentum ad rem tuam maxime pertinet.
+       her will greatly concerns your business.
+
+  F. Mihi crede igitur!
+       Then believe me!
+     Aliquid magni tibi legavit:
+       She left you something big:
+     haud verisimile illam quidquam juveni Albo legasse:
+       it's hardly likely that she left anything to young White:
+     nunquam illam observavit;
+       he never paid any attention to her;
+     homo nil est nisi pictor ignotus aut aliquid simile:
+       he is nobody except an unknown painter or something like that:
+     uxorem quoque duxit quamdam inopem,
+       he also married some penniless woman,
+     et eis saepe amita tua subvenire debuit.
+       and your aunt always had to come to their assistance.
+
+  U. Fores pulsantur: advenit cognitor!
+       There's a knock at the door: her solicitor has arrived!
+
+  F. Dic famulae ut alteram cyathum ponat.
+       Tell the maid to bring another glass.
+
+  (Ingreditur Dominus Semaureus.)
+    (Enter Mr [Semaureus].)
+
+     Quid agis vir doctissime?
+       How are you, my esteemed friend?
+     Mea uxor dixit te venturum;
+       My wife said you were coming;
+     nonne ob testamentum amitae ejus?
+       is it about the will of her aunt?
+
+  S. Sic res habet, Fusce;
+       That's how it is, Black;
+     venio ad te quod hoc res tua maxime refert;
+       I come to you because this concerns you greatly;
+     et scio te onus suscepturum.
+       and I know you will take up the burden.
+
+  F. An sic habet?
+       Is that how it is?
+     Vetulae illi multa bona provenere ut opinor.
+       The old lady left a large property, I think.
+
+  S. Permulta: super haec te consulendum putavi.
+       Very large: I thought to consult you about it.
+     Hic mecum tabulas attuli ut eas inspicias.
+       I have brought the accounting with me so you can study it.
+
+  F. Bene est; Dignissima erat; cui semper plurimum tribui.
+       Good; she was a worthy lady; I always said so.
+     Falerni sume cyathum.
+       Have a glass of port.
+
+  S. Benigne dicis; dimidium:
+       You are very kind; half a glass;
+     bona venia uxoris tuae est mihi in animo
+       with the permission of your wife I am thinking of telling you
+     summas testamenti reddere;
+       the amounts in the will;
+     ad illam quoque pertinet.
+       it concerns her too.
+     (Testamenta allata resignat.)
+       (Opens the will he has brought.)
+
+     Post nonnulla famulis legata ita instituit:
+       After several bequests to servants, it states:
+
+    "Fratris filiae Mariae lego Persicam et Psittacum
+      To my brother's daughter Mary I leave the Persian and the Parrot,
+    quae animalia tantopere admirata est,
+      which animals she greatly admired,
+    certa fiducia se illis hospitium praebituram;
+      in the full confidence that she will provide a good home for them;
+    eidem etiam lego annulum meum gemmatum.
+      to her I also leave my diamond ring.
+    Nepoti ejusdem Mariae viro Georgio Fusco lego omne
+      To my niece Mary's husband George Black I leave
+    quod in hypogaeo superest vinum illud Falernum
+      all the wine that remains in my cellar because
+    quod semper laudabat."
+      he always praised it.
+
+  F. (In malam rem.)
+       (Black is unhappy.)
+
+  S. "Quod ad ceteras possessiones
+       As to my remaining possessions,
+     Georgius Fuscus heres esto ex asse:
+       let George Black inherit all:
+     (subridet Fuscus et uxori in aurem susurrat "ita ut dixi.")
+       (Black smiles and whispers in his wife's ear "as I said.")
+
+  S. (Conversa tabula)
+       (Turning the page)
+     "et rogo eum ut cum primum potuerit haereditatem adire,
+       "and I ask him to go to the inheritance as soon as possible,
+     omnibus et fundis et mobilibus venditis,
+       to sell both real property and chattel,
+     pecunias in cautionibus publica auctoritate factis
+       to deposit the money in a bank
+     collocet et fructus reddat nepoti mariti mei
+       and give the interest to my husband's nephew
+     Jacobo Albo et uxori suae in aetatem
+       John White and his wife for their lifetimes
+     aut utri eorum vita superarit:
+       or to whichever of them outlives the other:
+     eis mortuis ut inter liberos eorum caput dividat:
+       when they die, the capital is to be divided among their children:
+     aut liberis sine prole defunctis
+       or if their children die without offspring
+     caput reddat ad sodalitatem Anthropophagis Africanis
+       the capital goes to the African Cannibal Mission
+     informandis et nutriendis institutam:
+       established to educate and provide for them:
+     praemio sint fiduciario viginti in annum librae."
+       let the executor's pay be twenty pounds a year."
+
+  F. Anus odiosa et malefica!
+       Hateful and malicious old woman!
+     At enitar ut testamentum rescindatur;
+       I will try to overturn the will;
+     inofficiosi testamenti querelam instituam!
+       I will make a complaint about this useless will!
+     Delira fuit!
+       She was mad!
+
+  S. Immo mentis omnino compos fuit, Improbe:
+       On the contrary she was of completely sound mind, unworthy man:
+     sic summa fide clamabo et testabor.
+       I will affirm and witness to this.
+     Verba tua pro tempore et re indecora.
+       Your words are spontaneous and unfitting.
+     Tui piget me: evado.
+       I am ashamed of you: I shun you.
+
+  F. Maria!
+       Mary!
+
+  U. Georgi!
+       George!
+
+  Uterque. Exsecrabilis Illa!
+       Both. Detestable woman!
+
+  (Aulaeum tollitur.)
+    (Curtain.)
+
+
+
+
+
+End of the Project Gutenberg EBook of De Mortuis Nil Nisi Bona, by
+Ernest Evan Spicer and Ernest Charles Pegler
+
+*** END OF THIS PROJECT GUTENBERG EBOOK DE MORTUIS NIL NISI BONA ***
+
+***** This file should be named 41888.txt or 41888.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/1/8/8/41888/
+
+Produced by tallforasmurf and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/American Libraries.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
