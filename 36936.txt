@@ -1,0 +1,3085 @@
+The Project Gutenberg EBook of Lectures on Ventilation, by Lewis W. Leeds
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Lectures on Ventilation
+       Being a Course Delivered in the Franklin Institute of Philadelphia
+
+Author: Lewis W. Leeds
+
+Release Date: August 1, 2011 [EBook #36936]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LECTURES ON VENTILATION ***
+
+
+
+
+Produced by Chris Curnow, David Garcia and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+
+
+
+
+[Illustration]
+
+
+
+
+
+
+LECTURES ON VENTILATION:
+
+  BEING A COURSE DELIVERED IN THE FRANKLIN INSTITUTE, OF PHILADELPHIA,
+  DURING THE WINTER OF 1866-67.
+
+
+BY LEWIS W. LEEDS,
+
+    Special Agent of the Quartermaster-General, for the Ventilation
+    of Government Hospitals during the War; and Consulting Engineer
+    of Ventilation and Heating for the U. S. Treasury Department.
+
+
+=Man's own breath is his greatest enemy.=
+
+
+  NEW YORK:
+  JOHN WILEY & SON, PUBLISHERS,
+  2 Clinton Hall, Astor Place.
+  1869.
+
+
+
+  Entered according to Act of Congress, in the year 1868, by
+  LEWIS W. LEEDS,
+  In the Clerk's Office of the District Court of the United
+  States for the Southern District of New York.
+
+
+  New York Printing Company,
+  81, 83, _and_ 85 _Centre Street_,
+  New York.
+
+
+
+
+PREFACE.
+
+
+These Lectures were not originally written with any view to their
+publication; but as they were afterwards requested for publication in the
+Journal of the Franklin Institute, and there attracted very favorable
+notice, I believed the rapidly increasing interest in the subject of
+ventilation would enable the publishers to sell a sufficient number
+to pay the expense of their publication; and, if so, that this very
+spirit of inquiry which would lead to the perusal of even so small a
+work, might be one step forward towards that much-needed more general
+education on this important subject.
+
+It was not my desire to give an elaborate treatise on the subject of
+ventilation. I believed a few general principles, illustrated in a
+familiar way, would be much more likely to be read; and, I hoped, would
+act as seed-grain in commencing the growth of an inquiry which, when once
+started in the right direction, would soon discover the condition of the
+air we breathe to be of so much importance that the investigation would
+be eagerly pursued.
+
+                                                               L. W. L.
+
+
+
+
+CONTENTS.
+
+
+LECTURE I.
+
+    Philadelphia a healthy city--Owing to the superior ventilation
+    of its houses--But the theory of ventilation still imperfectly
+    understood--About forty per cent. of all deaths due to foul
+    air--The death rate for 1865--Expense of unnecessary sickness--In
+    London--In Massachusetts--In New York--In Philadelphia--Consumption
+    the result of breathing impure air--Entirely preventable--Infantile
+    mortality--Report on warming and ventilating the Capitol--Copies
+    of various tables therefrom--Carbonic acid taken as the
+    test, but not infallible--The uniform purity of the external
+    atmosphere--Illustrated by the city of Manchester--Overflowed
+    lands unhealthy--Air of Paris, London and other cities--Carbonic
+    acid in houses--Here we find the curse of foul air--Our own
+    breath is our greatest enemy--Scavengers more healthy than
+    factory operatives--Wonderful cures of consumption by placing
+    the patients in cow stables--City buildings prevent ventilation,
+    consequently are unhealthy--The air from the filthiest street
+    more wholesome than close bed-room air--Unfortunate prejudice
+    against night air--Dr. Franklin's opinion of night air--Compared
+    with the instructions of the Board of Health, 1866--Sleeping with
+    open windows--Fire not objectionable--A small room ventilated is
+    better than a large room not ventilated--Illustration--Fresh
+    air at night prevents cholera--Illustrated by New York
+    workhouse--Dr. Hamilton's report--Night air just as healthy
+    as day air--Candle extinguished by the breath--The breath falls
+    instead of rises--Children near the floor killed first--Physicians'
+    certificates do not state "killed by foul air"--Open fire-places
+    are excellent ventilators--All fire-boards should be used for
+    kindling wood--Illustration showing when ceiling ventilation
+    is necessary.
+
+                                                                 PAGE 3
+
+
+LECTURE II.
+
+    The effect produced by heat upon the movements of air--Air
+    a real substance--Exerts a pressure of fifteen tons on an
+    ordinary sized man--It cannot be moved without the expenditure
+    of power--The sun's rays the great moving power--They pass
+    through the forty-five miles of atmosphere without heating it,
+    and heat the solid substances of the earth's surface--Experiments
+    showing the effect of radiant heat and reflected heat--The air
+    of the room not pure and dry--The ordinary moisture absorbs
+    from fifty to seventy times as much as the air--Many gases
+    absorb much more--The moisture in the air the great regulator of
+    heat--Air is heated by coming in immediate contact with hotter
+    substances--Impossibility of any air remaining at rest--The
+    practical application of these principles--The open fire acts like
+    the sun, heating by radiation only--Probable electric or ozonic
+    change in furnace-heated air--The stove heats both by radiation
+    and circulation--The stove nor the open fire not suitable for
+    large crowded rooms--Circulating warmed air best--Erroneous views
+    in regard to ventilation--Experiments with liquids of different
+    densities--When warming and ventilating by circulating air, the
+    escape for the used air should be from the bottom of the room--But
+    when ventilating with cooler air the escape should be from the
+    top of the room--Windows should lower from the top and flues open
+    at the bottom of the room--The fashionable system of heating by
+    direct radiation, without any fresh air, very objectionable.
+
+                                                                PAGE 18
+
+
+LECTURE III.
+
+    One breath of impure air shortens our life--Difficulty of getting
+    pure air to breathe in houses and cars--Foul air in steam
+    cars--Want of the proper knowledge regarding ventilation among
+    all classes--Want of ventilation in this lecture room--Want
+    of ventilation in the Cooper Institute, and in many other new
+    and splendid buildings--Street cars very foul--My own chamber
+    fully ventilated--I have no new patent idea, sufficient for all
+    time without further thought--Constantly varying conditions
+    require separate intelligent thought and action--The air
+    moves horizontally in summer--Flues are then of no account--We
+    must depend on open doors and windows--How to ventilate a sick
+    room in the morning--The same in the evening--Windows should
+    always lower from the top--To make air move in the summer is
+    the great desideratum--When in motion the cold air falls and
+    warm air rises; when at rest, it is arranged in horizontal
+    layers, according to temperature--A flue is simply a passage
+    for air of different temperatures--Experiments with flues
+    of different temperatures--Expansion of air by heat--Weight
+    required to keep it from expanding--Heating air weakens it
+    instead of giving it power--Experiments showing draughts by
+    lighted candles--Ventilation of churches--Illustrations not
+    exaggerated--Examination of church in neighborhood--Fresh air
+    taken from foul cellar--No fresh air supplied to churches used as
+    hospitals in Washington--Depending on a sham ventilator painted
+    on the solid wall--Foul air in Philadelphia schools--New York
+    public schools--Many of the ventilators perfect shams--Covered up
+    air-tight by the capping stones--Importance of the evaporation
+    of water--A strong fire in basement will draw gas out of
+    second story stove--A strong fire up stairs will draw foul
+    gases from untrapped sewers--A very healthy location may
+    thus be made very unhealthy--Drs. Palmer, Ford and Earle's
+    report of epidemic at Maple Wood Institute--An arrangement for
+    ventilation that ought to be in every house--Flues generally
+    too small, especially in Philadelphia--Very large ones put in
+    government hospitals, which proved thoroughly efficient--The
+    leading points in regard to heating--The fresh air must be
+    warmed before entering in winter--A hot water furnace requires
+    additional moisture--Heating by steam--Steam-pipes ought to be
+    laid through the street the same as gas and water--Two-thirds
+    of heating surface should be for heating the fresh air and one
+    third for direct radiation--Forty pounds of water required to
+    be evaporated every minute for U. S. Senate Chamber--All stoves
+    should have fresh-air boxes--Dampers in fresh air-boxes not
+    good--Experience has fully demonstrated that careful attention
+    to these things will be amply rewarded by increased health,
+    strength, happiness and longevity.
+
+                                                                PAGE 31
+
+
+    Article relating to the Grand Prize awarded to Hospital Ventilation
+    and other Sanitary arrangements, Paris Exhibition.
+
+                                                                PAGE 51
+
+
+
+
+LECTURES ON VENTILATION.
+
+
+
+
+LECTURE I.
+
+
+Philadelphia is one of the healthiest cities in the United States, and,
+in proportion to the number of its inhabitants, few more healthy cities
+exist in the world.
+
+This is not owing especially to its more salubrious situation, but
+should be attributed, in a great measure, to the accidental superiority
+of the ventilation of a large proportion of its dwelling-houses.
+
+Notwithstanding this comparative excellence, the theory of ventilation
+is not so thoroughly understood, nor is the practice so perfect, even
+in this city, that no advantage can be gained by further knowledge upon
+the subject.
+
+Far from it. From the very best information we can command, and with
+the most accurate statistics at our disposal, we are forced to the
+conclusion that about forty per cent. of all the deaths that are
+constantly occurring are due to the influence of foul air.
+
+The Registrar of Records of New York gives nearly half the deaths in
+that city as resulting from this cause.
+
+The deaths in this city for 1865, according to the report of the Board
+of Health, were seventeen thousand one hundred and sixty-nine; the
+average age of those who died was between twenty-three and twenty-four
+years. It ought to have been twice that, as shown by some districts in
+the city and also in the country, where the houses are so arranged that
+they frequently have good ventilation.
+
+Taking the deaths caused by foul air at a very low estimate, say forty
+per cent. of the whole, (the per centage from that cause is not so great
+as in New York,) we have six thousand eight hundred and sixty-eight
+deaths in this city, caused alone by impure air, in one year.
+
+It is estimated by physicians that there are from twenty-five to thirty
+days of sickness to every death occurring; there would therefore be
+something like two hundred thousand days of sickness annually as an
+effect of foul air.
+
+We all know how very expensive sickness is, but few persons realize
+the enormous aggregate expense of unnecessary sickness in a city like
+Philadelphia.[1]
+
+This subject has awakened much interest in Europe of late years, and
+has led to the expenditure of immense sums of money, for the purpose
+of improving the sanitary condition of its cities.
+
+Dr. Hutchinson estimated the loss to the city of London, growing out of
+preventable deaths and sickness, at twenty millions of dollars annually,
+and Mr. Mansfield estimates the loss from this cause to the United
+Kingdom at two hundred and fifty millions of dollars.
+
+In the single State of Massachusetts, an estimate exhibits an annual
+loss of over sixty millions of dollars by the premature death of persons
+over fifteen years of age.
+
+It is estimated that a few only of the principal items of expense
+incurred by preventable sickness in the city of New York amount to
+over five millions of dollars annually.
+
+And if it is thought that Philadelphia is exempt from such enormous
+unnecessary expense, just glance at the report of the Board of Health
+for last year, and see how the deaths from disease of the lungs largely
+exceed those from any other disease.
+
+Consumption is almost entirely the result of breathing impure air,--it
+is as preventable by the exclusive use of pure air as _maniaa potuor_
+drunkenness is by the exclusive use of pure water. And see, too, what
+slaughter among the innocents--over twenty-five per cent. of the whole
+deaths were under one year of age.
+
+The infantile mortality is by many considered the most delicate sanitary
+test. But why does such an intelligent community as this so neglect
+its own interest?
+
+They have listened to and satisfied the first imperative demands of
+nature--shelter from the elements and warmth,--and in doing this they
+have not brought into use that much higher order of intellect which can
+alone teach them how to supply, in connection with an agreeable warmth,
+an abundance of pure air in their otherwise air-tight houses.
+
+I have been much interested in examining a large collection of tables
+of the analysis of air, which accompany a report to Congress, on
+"Warming and Ventilating the Capitol," prepared by Thomas U. Walter,
+Professor Henry and Dr. Wetherill. These tables were made by men of
+various nations, giving the results of their analysis of air taken
+from all manner of places, from great elevations on the mountains and in
+balloons, from the valleys, from the centre of the ocean, and from the
+middle of the continent, in cities and in the country, in winter and in
+summer, at night and in the day, and also the comparative analysis of the
+air _out of doors and in houses_. Believing that these would be of much
+interest and assistance to us in the investigation of the subject under
+consideration, I have had copies made of some of the most interesting.
+
+These give the per centage of carbonic acid in the air as the test of
+the amount of impurities in it.
+
+This is not an infallible test by any means--there are various other
+causes of deterioration. There is the exhaustion of the oxygen constantly
+occurring to support combustion and animal life; there are various other
+deleterious products of combustion and respiration besides carbonic
+acid. But, as carbonic acid is always found in certain known proportions
+in pure air, and is always formed in certain known quantities by
+respiration or combustion, it is considered by many to give a very fair
+indication of the condition of the atmosphere with reference to its
+influence on animal life or combustion.
+
+I think one of the most valuable lessons to be learned by the study of
+these tables is the uniform purity of the external atmosphere all over
+the world, even in large cities.
+
+This is strikingly illustrated in the case of the analysis of the air
+in the city of Manchester.
+
+We have nothing in this country like that city, where two millions of
+tons of coal are burned annually, the smoke from which fills the air
+and stretches like a black cloud far into the country.
+
+Thus, added to the five hundred tons of carbonic acid thrown from the
+lungs of its animal life every day, are many times that amount, (some two
+thousand tons,) daily, pouring out from its forest of factory chimneys.
+
+To this city were the labors of the "Health of Towns Commission" first
+directed, to see if they could not find in the air of its streets that
+mysterious influence that has caused such alarm throughout the civilized
+world, as the thoughtful and intelligent sanitarian sees one-half of
+all his fellow-citizens hurried to untimely graves.
+
+They were disappointed, and well might Dr. Smith exclaim, after the
+most thorough and careful investigations, "How insignificant are the
+works of art in contaminating that vast ocean of air that is constantly
+sweeping over the surface of the earth!" But do not be discouraged:
+more recent investigations have discovered the whereabouts of this
+pestilential breath.
+
+I have placed the table of Dr. Angus Smith's analysis of the air of
+Manchester at the head of the list, and have copied it complete, because
+it is the only table that I have examined of the analysis of the air of
+towns in Europe or North America, in which there occurs an amount of
+carbonic acid exceeding ten parts in ten thousand.
+
+Here we see three such cases in the twenty-eight experiments, one ten,
+one twelve and one fifteen.
+
+The average of the whole is also greater than in any other similar
+tables, being about seven and a half parts in ten thousand. This is
+certainly quite a perceptible contamination, pure air containing four
+or four and a half parts in ten thousand. Yet considerable as this
+appears in this view, the additional amount of carbonic acid is only
+the proportion that would be added to the air, if unchanged, of a room
+fifteen feet square and ten feet high, by a father, mother and three
+children, with a gas-light, in seven minutes.
+
+And this, probably, is the highest average contamination that is produced
+by artificial means upon the air of any city in the world.
+
+There are, of course, great natural causes which affect the air of
+whole countries, such as the decomposition of great masses of vegetable
+matter similar to that occurring on the low flat lands along rivers,
+especially where they overflow their banks, like the Ohio and Mississippi.
+The best system of ventilation, as applicable to this kind of foul air,
+is to keep as far out of its reach as possible.
+
+The other tables giving the analysis of the air of London, Paris, Madrid,
+Geneva, Bolton, England, at different elevations on the mountains, on the
+Atlantic Ocean, Washington City and various other places, are interesting
+only because they show so great a uniformity in the carbonic acid, seldom
+exceeding six parts to the ten thousand, and seldom under four.
+
+But now let us look upon the other side of the room. Here we have tables
+giving the "carbonic acid in houses." Here we will find very different
+results. But the first is a green-house; in that there is no trace
+of carbonic acid in the evening and scarcely a trace in the morning.
+Plants, you know, absorb the carbonic acid, and give off oxygen, while
+animals absorb the oxygen and give off carbonic acid, thus keeping up
+the equilibrium in nature, as is so beautifully shown in the aquarium.
+Plants are generally supposed to give off carbonic acid at night, but
+it must be in very small quantities.
+
+I consider them very conducive to health in a living-room, morally and
+physically.
+
+But this want of carbonic acid does not last long.
+
+The next is M. Dumas' lecture-room. At commencement of lecture 42.5,
+and at close of lecture 67 parts in ten thousand.
+
+Now, I think we are on the right track for discovering that mysterious
+poison that has carried so many of our friends to their graves, even
+in the very prime of life.
+
+Here we have dormitories, 52; do., 37; asylum, 17; school-room, 30;
+do., 56; Chamber of Deputies, 16; Opera Comique, parterre, 15; do.,
+ceiling, 28; stable, 7; do., 14; hospital, Madrid, 30; do., do., 43;
+air of bed-room on rising in the morning, 48; the same after being
+ventilated two hours, 16; railroad car, 34; workshop, Munich, 19; full
+room, do., 22; lecture-room, 32; beer-saloon, 49; and worst of all is
+a well-filled school-room, 72 parts of carbonic acid in 10,000.
+
+That, I think, is enough. Here we have the solution of the whole mystery.
+
+It is not in the external atmosphere that we must look for the greatest
+impurities, but it is in our own houses that the blighting, withering
+curse of foul air is to be found. We are thus led to the conclusion
+that _our own breath is our greatest enemy_.
+
+The "Health of Towns Commission," in their investigations, after
+examining various trades, where the employees were confined mostly in
+houses, and having left the scavengers to the last, expecting to find a
+rich harvest of mortality among them, were much surprised to find them
+more healthy than many very clean occupations, but which were conducted
+in houses instead of in the open air. I have not the statistics before
+me, but I should not be surprised to learn that that singular race of
+beings that live in the sewers of Paris were as healthy, if not even
+more so, than the operatives of some of those exquisitely beautiful,
+clean, air-tight factories of New England.
+
+There was quite an account made a few years ago of the wonderful cures
+of consumption that had been performed by the patient being removed to
+the stable where he could be in close proximity to the cow, and I have
+no doubt many consumptive patients would find great benefit by such a
+course of treatment, not that there is any virtue in the smell of the
+cow, but that the air of the cow-stable would be nearer pure than that
+of their own chamber.
+
+Many go or send their families to the country in summer to get fresh
+air. Some go to the sea-side, others to the mountains; but there ensues
+a greater change in a few minutes in a close bed-room by being occupied
+by a family than there is difference between the external air of any
+city and that of the country.
+
+The reason why cities are so much more unhealthy than the country, is
+not because the air in the street is so much more impure, but because
+the houses are so built together that this vast ocean of air cannot
+get at and through them to purify them as it does in the houses in the
+country, and the reason why Philadelphia is so much more healthy than
+its neighbor, New York, is because the houses here are built more like
+those of the country, so that the air can sweep all around them, and
+sometimes through them.
+
+I therefore believe, that a family living in the filthiest street in
+our city, if they were careful to have a constant current of air from
+that street, filthy as it was, passing through the house at all times,
+night and day, would be more healthy, other things being equal, than
+a family spending their winters in the finest house, if kept air-tight,
+in the healthiest location in the city, and their summer in the country,
+especially if they were always careful to exclude the _night air_ from
+their bed-rooms.
+
+I say "night air;"--there is, unfortunately, an unnecessary prejudice
+against what is termed night air, which means, I suppose, fresh external
+air from the dark.
+
+To show that this is not a new idea, I will read a few lines from the
+writings of a very accurate reasoner and an eminently practical mechanic
+and philosopher, one whom I consider even now one of the very best
+authorities upon the subject of heating and ventilation. I mean the
+illustrious man after whom this Institute was named, Benjamin Franklin.
+
+In his letter to Dr. Ingenhaus, physician to the Emperor, at Vienna,
+he says: * * * * "for some are as much afraid of fresh air as persons
+in the hydrophobia are of fresh water. I myself had formerly this
+prejudice--this _aerophobia_, as I now account it,--and dreading the
+supposed dangerous effects of cool air, I considered it an enemy, and
+closed with extreme care every crevice in the rooms I inhabited.
+Experience has convinced me of my error. I now look upon fresh air as
+a friend: I even sleep with an open window. I am persuaded that no common
+air from without is so unwholesome as the air within a close room that
+has been often breathed and not changed. Moist air, too, which I formerly
+thought pernicious, gives me now no apprehensions; for considering that
+no dampness of air applied to the outside of my skin can be equal to what
+is applied to and touches it within, my whole body being full of moisture,
+and finding I can lie two hours in a bath twice a week, covered with
+water, which certainly is much damper than any air can be, and this
+for years together, without catching cold, or being in any other manner
+disordered by it, I no longer dread mere moisture, either in air, or in
+sheets or shirts; and I find it of importance to the happiness of life,
+the being freed from vain terrors, especially of objects that we are
+every day exposed inevitably to meet with.
+
+"You physicians have of late happily discovered, after a contrary opinion
+had prevailed some ages, that fresh and cool air does good to persons
+in the small-pox and other fevers. It is to be hoped, that in another
+century or two we may all find out that it is not bad even for people in
+health. And as to moist air, here I am at this present writing in a ship
+with above forty persons, who have had no other but moist air to breathe
+for six weeks past; everything we touch is damp, and nothing dries, yet
+we are all as healthy as we should be on the mountains of Switzerland,
+whose inhabitants are not more so than those of Bermuda or St. Helena,
+islands on whose rocks the waves are dashed into millions of particles,
+which fill the air with damp, but produce no diseases, the moisture being
+pure, unmixed with the poisonous vapors arising from putrid marshes and
+stagnant pools, in which many insects die and corrupt the water. These
+places only, in my opinion, (which, however, I submit to yours,) afford
+unwholesome air; and that it is not the mere water contained in damp
+air, but the volatile particles of corrupted animal matter mixed with
+that water, which renders such air pernicious to those who breathe it;
+and I imagine it a cause of the same kind that renders the air in close
+rooms, where the perspirable matter is breathed over and over again by
+a number of assembled people, so hurtful to health.
+
+"After being in such a situation many people find themselves affected by
+that _febricula_, which the English alone call a _cold_, and, perhaps,
+from that name, imagine they have caught the malady by _going out_
+of the room, when it was, in fact, by being in it."
+
+Now, to show that his hopes have not yet been fully realized, although
+one century has nearly closed since he wrote what I have just read,
+and this unnecessary and unfortunate prejudice against night air still
+prevails extensively, I will read a few lines from the highest public
+medical authority in this city. It is the instructions of the Board of
+Health for the prevention of cholera for 1866:
+
+
+    ARTICLE--"VENTILATION."
+
+    "Your premises, particularly sleeping apartments and cellars,
+    should be thoroughly ventilated. Ventilation is no less a purifier
+    than water.
+
+    "It cleanses by oxidizing and drying. Keep your houses open and
+    your windows hoisted during the day in good weather, and from ten
+    o'clock until four in the afternoon, that they may have the full
+    benefit of sunlight and free circulation of pure air. _During
+    the remaining hours of the day, and through the night, keep the
+    windows closed._ When the weather is cool or rainy, be sure to
+    keep a fire in the house, in order to prevent dampness, or in
+    sparsely settled neighborhoods, or in the suburbs of the city,
+    have a fire in the house the entire season."
+
+On page 9 we read: "Be careful to dress comfortably for the season,
+_avoid the night air_ as much as possible, and when thus exposed, put
+on an extra garment and do not go into _the night air_ when in a state
+of perspiration."
+
+Thus, while recognizing the great value and importance of ventilation in
+a general way, they give the most definite instructions for thoroughly
+and most effectually preventing it, because it is at night, especially
+when we are asleep and _cannot move from the air, that the air ought
+to be moved from us_.
+
+The frequent recommendations to avoid "night air" are simply
+recommendations to smother ourselves to death, because the foul, poisonous
+exhalations from our lungs cannot be removed from our chambers without
+being replaced by night air; there is no other fresh air at night but
+night air.
+
+The recommendation to build a fire in the house on cool days, and in
+low marshy districts every day in the year, is an excellent one.
+
+The recommendations to dress warmly and to avoid checking a perspiration
+suddenly, are valuable suggestions and too much attention cannot be
+paid to them.
+
+But they are of equally great importance in reference to day air as to
+night air.
+
+To shelter oneself from the sudden change of temperature after sundown
+is an animal instinct, and a very necessary one, which is strongly
+implanted in man and beast alike.
+
+The harm comes from the fact of so intelligent and intellectual a body
+as the Board of Health of Philadelphia encouraging the accomplishment
+of this very desirable object, by thwarting that great universal law
+of our Creator, the ceaseless agitation of the air by which it purifies
+itself, (and by which perversion of nature's laws millions are already
+being killed unnecessarily every year,) instead of their encouraging
+its accomplishment in that much more healthy and rational way by adding
+more clothing or more fuel to the fire, and still continuing to breathe
+the pure air at night as well as in the day-time.
+
+I have practised for many years sleeping with my windows open every
+night, summer and winter, allowing the unobstructed breeze to flow
+across my bed, to the great improvement of my health and strength.
+
+There is no objection in a well ventilated room to having a fire if
+desired. A small room with a hot stove or open fire and the windows open,
+is much more wholesome than a large air-tight room freezing cold.
+
+Let us illustrate this by a simple experiment. Here we have a very small
+tube, in which we place a lighted candle, occupying nearly the entire
+space--this burns brightly, you see.
+
+[Illustration: Fig. 1.]
+
+Here we have another glass chamber, much handsomer and twenty times
+as large; we also place a similar candle in it, that burns with equal
+brightness, but watch them both for a few moments--see how rapidly
+this light in the large chamber diminishes in size.
+
+[Illustration: Fig. 2.]
+
+That represents, in a beautiful manner, the diminished force of your
+life in an air-tight room. There it goes--entirely extinguished by
+foul air in so short a time, but the other continues to burn just as
+brightly as when first lighted. The smaller one had the window open,
+so to speak; we will imagine the candle in the large chamber to be a
+consumptive patient who thought the room so large he did not need the
+windows open. Remember, therefore, that no matter how small your room
+is, if there is a constant circulation of fresh air through it, the lamp
+of your life will burn brightly; but if ever so large and air-tight,
+your life will soon be extinguished.
+
+Instead of averting the cholera by avoiding fresh air at night, the
+experience of the last summer seems to have taught us just the contrary;
+for whilst most physicians admit that they are still unable to explain
+satisfactorily, the cause or remedy for this most mysterious disease,
+that has within a lifetime carried its fifty millions of victims from
+time to eternity, they almost universally believe it is a foul air
+poison, and they have as yet found no surer prevention than pure air.
+
+One of the most striking illustrations of this, and perhaps one of the
+most wonderful cures of cholera on record, was that of the New York
+Workhouse on Blackwell's Island. It lasted only nine days, but in
+that brief period one hundred and twenty-three out of eight hundred
+inmates died. I visited the building with Dr. Hamilton, on the third
+day after its appearance, but the hospital then contained sixty or
+seventy patients, and some twenty-five or thirty had died within
+twenty-four hours.
+
+Dr. Hamilton attributed the rapid propagation and fatality of the
+disease, after it once had gained admission, mainly to confinement and
+crowding. It was observed that the cholera was confined, for several
+days, among the women; the women had the smallest apartments, were most
+crowded in their cells, and with few exceptions, were employed within
+the building, in close contact with each other during the day. The men
+were employed mostly in the quarries and out of doors.
+
+The doctor's prescription on that occasion is worth studying. It is
+very short and simple, however.
+
+A slight change was made in the diet; disinfectants were used; fifteen
+drops of the tincture of capsicum with an ounce of whisky, as a stimulant
+at night, was all the medicine given to each individual. But the great
+means the doctor relied upon for success, was pure air all the time. They
+were kept out of doors from morning until night, and all the windows
+were kept open night and day; and although in the hot weather of summer,
+fire was made in the wards, to insure more perfect ventilation. In six
+days after the initiation of these simple hygienic measures, the epidemic
+entirely disappeared.
+
+The disorders and sickness caused by the too rapid chilling of the
+unprotected body after sundown, have given rise, I have no doubt, to that
+erroneous popular prejudice so common among all classes, even those of
+education and ordinarily good common sense, who imagine there is some
+peculiar poison or source of unhealthiness in the air at night, that
+is not contained in the air in the day-time. It will no doubt greatly
+relieve the minds of these from such "vain terrors," and prove most
+conclusively the entire fallacy of such reasoning, to examine these
+tables again. In the copies I have made, I have not classified the
+results given by day and by night, but a careful examination in detail,
+fails to show any appreciable difference in the aggregate, by day or
+by night.
+
+Mene's numerous experiments on the air in Paris, gave less carbonic
+acid at night than in the day-time.
+
+Lewey's analysis on the Atlantic ocean, one thousand miles from the coast,
+gave a decided excess in the day over that of the night. He attributes
+this to the action of the sunlight upon the ocean liberating the gases
+which it holds in solution.
+
+In cities there is a much larger quantity given off from burning coals
+of factories in the day-time than at night.
+
+It is not improbable, however, that the more rapid evaporation of
+moisture towards evening may carry with it the volatile particles of
+corrupted animal and vegetable matter to an extent slightly in excess
+of that which occurs in the morning, but it is believed these would not
+equal the greater contamination from burning coals, and the usually
+greater stillness of the air, producing partial stagnation, so that
+the air would be a little nearer pure at night than in the day-time.
+And how unmistakably do all these investigations prove what we ought to
+have known and accepted without a moment's hesitation, that the Creator,
+who has made such vast and such minute provisions for supplying every
+living creature with a constant and copious supply of fresh air, and
+has made it so important for their existence that they cannot live a
+moment without it, has made the air at night just as pure and wholesome
+as in the day-time.
+
+We have thus traced the scourge of foul air to our houses, and much
+of it to our bed-rooms. The next question is, how to get clear of it.
+
+We want to know, however, what poisons the air, so as to know in what
+part of the room it is to be found.
+
+We will try a very simple experiment, to show you what a deadly poison
+the breath is,--to the flame of a candle, at any rate.
+
+Here is a simple glass tube, open at both ends--an ordinary lamp
+chimney--a candle burns freely as you see, and would burn so all night,
+if it did not burn out. I will now remove the candle, and breathe into
+the tube through this pipe, and now you see how suddenly the candle is
+extinguished as I drop it in again.
+
+[Illustration: Fig. 3.]
+
+Animals are killed suddenly or after a more prolonged struggle, by the
+exhaled breath, according to the activity or sluggishness with which
+the blood circulates--a bird would be killed very soon--some partially
+torpid animals would live a long time. Man has great endurance--struggles
+long and hard; but if closely confined, will be poisoned to death in
+one night, as in the case of those confined in the celebrated Black
+Hole of Calcutta, and on board of vessels where they have been confined
+below decks in time of a storm. Others will struggle on longer, as in
+the case of the two thousand and twenty-six who died of consumption last
+year, in Philadelphia.
+
+And now let us see in which part of the room this deadly poison of our
+breath is mostly found.
+
+It is the popular idea, that because the body, and consequently the
+breath, is warmer than the ordinary temperature of a room, it rises and
+accumulates at the ceiling.
+
+Upon this theory most of our buildings have been ventilated whenever
+any attention whatever has been given to the subject; but that theory
+is incorrect; consequently, all practice based thereon is also wrong.
+
+This subject of the direction taken by the breath upon leaving the
+body, has been warmly discussed within a few years. It has been a very
+difficult matter to prove conclusively and satisfactorily, but I think
+we have devised some very simple experiments that will prove to you
+very clearly what we have stated.
+
+I have here a simple glass tube two feet long and one and a half inch
+interior diameter; one end is closed with a rubber diaphragm, through
+which is passed a small rubber tube--the other end is all open. We will
+rest this about horizontal, and taking a little smoke in the mouth, it
+will be discharged with the breath into the glass tube; it is first thrown
+towards the top, but it soon falls, and now see it flowing along the
+bottom of the tube like water--watch it as it reaches the far end--there,
+see it fall almost like water.
+
+[Illustration]
+
+Now, by raising the closed end of the pipe, you see we can pour it all
+out, and by filling it again and raising the other end, it falls back.
+Thus you see that, notwithstanding the extra warmth in the breath, it
+is heavier than the atmosphere, and falls to the floor of an ordinary
+room like this, say, when the temperature is from 60 deg. to 70 deg.. This is
+owing to the carbonic acid and moisture contained in it.
+
+I have varied this experiment in a number of ways, by passing it through
+smaller tubes and discharging it into the air in one or two seconds
+after leaving the lungs, and by passing it through water of various
+temperatures, and discharging it into rooms of different temperatures,
+with the same general results. As the temperature of the air diminishes,
+the tendency of the discharged breath to rise increases. Much care is
+required in conducting these experiments, to avoid as much as possible,
+the local currents which are always present in a room.
+
+This is a very important fact to be borne in mind; yet notwithstanding
+this, there are times, under certain circumstances, in which the foul
+air will be found in excess at the top of the room.
+
+For the further examination of this subject, we have here a little
+glass-house with glass chimneys and fire-place in the first and second
+stories.
+
+[Illustration]
+
+As the flame of a candle is such a beautiful emblem of human life,
+we will remove the roof and part of the floor of the second story,
+and place four candles in our house. They are all of different heights,
+you see. We will call them a father, mother and two children.
+
+As carbonic acid is that much dreaded poison in our breath, and the
+heavy portion of it which causes it to fall to the floor, we will make
+a little by placing a few scraps of common marble in this glass vessel,
+and pouring over it some sulphuric acid.
+
+It is now forming, and will fall and flow across the floor the same
+as carbonic acid does when it pours into a basement from the gutters
+on the street or filthy yards where it is formed, and before it is
+absorbed or diluted by the current of pure air sweeping over them.
+It first kills the smallest child, because it is nearest the floor. You
+remember the excessive infantile mortality in this city in 1865. This is
+partially owing to their breathing more of this foul air near the floor,
+and partially owing to the great fear of their mothers and nurses,
+of letting the little innocents get a breath of fresh air for fear it
+will give them colic, and consequently they smother them to death.
+
+The other child dies next, and then the mother, and lastly the father.
+
+Thousands are thus poisoned to death by their own breath every year.
+But did you ever see a physician's certificate that gave you any such
+idea? Why do not the doctors tell the living, in such language as they
+can understand, what killed their friends, so they may avoid it in
+their own case, instead of giving it in some Latin terms which I fear
+many interpret to mean some special dispensation of Divine Providence
+instead of the true cause--their utter disregard of the laws their
+Creator made for the preservation of their health?
+
+Had this family known enough about ventilation to have kept the
+fire-place open, with a little fire in it now and then, they would not
+have been thus killed.
+
+Let us see--we will take out the fire-board which has been put in to
+make the room look a little neater, and with a very small light there
+to create a draft in the chimney.
+
+We will again light the candles, and pour in the poisonous breath.
+Ah! there goes the little one--he is hardly high enough to keep out of
+that deadly current flowing across the floor.
+
+We shall have to let it in a little slower, or we will set him on
+a platform, as many persons who have carefully studied this subject,
+consider it judicious to do. Now, by the smoke from this taper, you can
+see the air is flowing across the floor and up the chimney.
+
+There has been a steady current flowing in long enough to have filled
+the house, but the lights are all burning brightly, and you thus see
+the value of an open fire-place for ventilation. Thousands of lives are
+thus saved, and many more would be if all fire-places were kept open. I
+have recommended hundreds of fire-boards to be cut up for kindling-wood,
+as I consider this is the best use that can be made of all fire-boards.
+
+Never stop up a fire-place in winter or summer, where any living being
+stays night or day. It would be about as absurd to take a piece of
+elegantly tinted court-plaster and stop up the nose, trusting to the
+accidental opening and shutting of the mouth for fresh air, because
+you thought it spoiled the looks of your face so to have two such great
+ugly-looking holes in it, as it is to stop your fire-place with elegantly
+tinted paper because you think it looks better.
+
+If you are so fortunate as to have a fire-place in your room, paint it
+when not in use; put a bouquet of fresh flowers in every morning, if you
+please, or do anything to make it attractive; but never close it.
+
+Now, there are other conditions in which a fire-place or an opening near
+the floor, will not answer for ventilation. This occurs in rooms where
+the air is made impure by burning lamps or gas, and where the fresh
+air entering the room is cooler than the temperature of the room itself.
+
+To illustrate this, we will put the roof on and take the entire floor
+away, or as it will be a little more convenient, we will represent it
+by this glass-house, using this shade for that purpose.
+
+[Illustration]
+
+This is supported some six inches from the floor, and has no bottom.
+By lighting another candle and standing it outside, you can judge by
+comparison, of the foulness of the air inside.
+
+The tallest one is affected first, this time. You see that is a perfectly
+formed light, but it gives but about half the light the one does on the
+outside; this is the way with many of us who are obliged to, or rather
+do, breathe foul air half the time.
+
+We often think, by comparing ourselves with others around us, that we
+are pretty fair specimens of humanity, while really we do not give more
+than half the light in the world that we ought to do, and kill ourselves
+before our work is half done.
+
+You see the two tallest are dead already, and the others will soon
+follow--there they go. Here is the bottom of the house removed, and
+yet these candles all went out for want of fresh air.
+
+Therefore, when we see the air is made impure by burning candles or gas
+lights, owing to its exceeding heat, the foul air is mostly at the top
+of the room, and especially when the fresh air enters cooler than the
+air in the room. We will find, however, that in a very few minutes the
+candles will relight long before the contained air or the glass shade
+cools down to the temperature of the room.
+
+The products of combustion, like those of respiration, are heavier than
+the ordinary atmosphere, and consequently fall to the floor very soon
+if not removed while very hot, by special openings immediately over
+them in the ceiling; after it has thus fallen, provision must be made
+for its removal from the level of the floor, in connection with the
+foul air from the breath.
+
+I hope that by these few simple experiments, and the statistics presented
+here this evening, we have strengthened your previous convictions of
+the importance of fresh air, because we are well aware that you will
+find, as you proceed in your investigations of this subject, that it
+is frequently surrounded with complications; yet the laws governing
+the circulation of air of different temperatures, are as fixed and
+immovable as the laws governing the rising and setting of the sun,
+and with a very little careful investigation, can be easily understood.
+
+And we believe no similar amount of money or thought, will produce a
+greater amount of satisfaction than the increased health, strength and
+happiness thus secured.
+
+
+
+
+LECTURE II.
+
+
+As I stated in our last lecture, much interest is being awakened, in this
+country and in Europe, by recent investigations showing the enormous
+numbers of untimely deaths that are caused throughout all classes of
+society by foul air.
+
+It would have been a startling announcement, ten years ago, to have
+stated that impure air caused as many deaths, and as much sickness,
+as all other causes combined, and yet the most diligent and accurate
+investigations are rapidly approaching that conclusion.
+
+Few really comprehend the immense pecuniary loss, to say nothing of the
+amount of suffering, that we endure by this extra and easily preventible
+amount of sickness.
+
+I propose, this evening, to enter upon the consideration of one of the
+most important parts of our subject--_the effect produced by_ HEAT _upon
+the movements of air_.
+
+I think it probable that many of us do not comprehend the actual reality
+of the air.
+
+We are apt to say of a room that has no carpet and furniture in it,
+that it has nothing in it, while, if it is full of air, it has a great
+deal in it.
+
+A room between twenty-seven and twenty-eight feet square contains one
+ton of air--a real ton, just as heavy as a ton of coal. Now, there is
+not only twenty-seven feet, but more than twenty-seven miles of air
+piled on top of us. The pressure of the atmosphere at the level of the
+ocean is about fifteen pounds to the square inch. An ordinary sized
+man sustains a pressure of about fifteen tons, and were it not that
+this pressure is equal in all directions, we would be crushed thereby.
+
+We must accustom our minds, therefore, to consider air a real substance,
+and that it is as totally unable to move itself, or to be moved, without
+_power_, as water or coal. It requires just as much power to move a ton
+of _air_ from the cellar to the second story, as it does a ton of coal.
+
+Heat is the great moving power of air. Those whose attention has not
+been especially directed to the subject of the amount of power exerted by
+the sun's rays upon the earth, have little conception of its magnitude.
+
+The power of all the horses in the world, added to the power of all the
+locomotives, and of all the immense steam engines in all the world,
+express but a small fraction of the power exerted by the sun's rays
+upon the earth. It is estimated to be sufficient to boil five cubic
+miles of ice-cold water every minute.
+
+His rays are the chosen power of the Creator for moving all matter
+upon the globe. It is his rays that lie buried in the vast coal fields
+beneath the earth. His rays cause every spear of grass to grow, rear
+the mighty oak, form the rose, burst its beautiful buds, and send its
+perfume through the air.
+
+No bird warbles its sweet music in the air, no insect breathes, save by
+his power, and all animals love to bask in the genial glow of his light
+and heat. He rolls the scorching air of the tropics to frozen lands,
+and wafts the ships across the seas. He forces the heated waters of the
+equator to the poles, tempering all the earth. He lifts the water from
+the sea to sprinkle all the land and cap the distant mountains with
+eternal snow.
+
+Now, let us examine a little more minutely how this influence is exerted
+upon the _air_, which is the subject we are especially interested in
+at present.
+
+Does it commence at the top, and heat it, layer by layer, until it reaches
+the bottom? Not at all; but it passes through the whole forty-five
+miles of air, heating it very little, if any, and falls upon the solid
+substances at the earth's surface, heating them, which, in turn, heat the
+air by its individual particles coming into immediate contact with those
+solid hotter substances.
+
+We will endeavor to illustrate this in a crude way.
+
+[Illustration: Fig. 7.]
+
+Here we have a tin tube, _a_, fifteen feet long and ten inches in
+diameter, open at both ends; two feet from one end we introduce this
+ascending pipe, _b_, the upper end of which is merely inserted in a
+small flue, extending to the top of the building. The height of this
+flue is sufficient to make a current of air pass through this tube,
+as you will see by holding this smoking taper at the far end. We will
+now place a large heated ball, _c_, at this end, and outside of that we
+will place this reflector, _d_, pressing it quite close to the end of
+the tube, so that no air can enter here.
+
+The rays of heat from this ball, or from any other warm body, are thrown
+like rays of light, in every direction equally; there would, therefore,
+be some of the rays thrown through this tube to the other end without
+any reflector, but the proportion that would reach the other end would,
+of course, be small.
+
+We therefore collect those going the other way, and change their course,
+and then send them straight through the tube to the far end.
+
+We will place another reflector, _e_, at the far end, to receive and
+concentrate those rays, in the focus of which we will place a candle,
+F, with a little phosphorus on it, to show you that the rays of heat are
+passing through.
+
+There you see the candle is lighted, thus proving that there is a
+strong current of radiant heat coming from the hot ball, through the
+tube to this end. And you see by this smoke that there is a current of
+air passing the other way.
+
+Now, we want to know how much that air is heated in passing the whole
+length of this tube against that shower of radiant heat, or whether air
+absorbs radiant heat at all; but, before going to the other end, where
+the hot ball is, we will take two thermometers that have been lying here,
+side by side, both indicating a temperature of 69 deg.. One of them, _g_,
+we will hang at this end, about opposite to the centre of our tube,
+which, I think, will give us a fair average of the entering air, first
+removing, however, the candle that has been lighted, and the reflector.
+
+We will hang the other thermometer in the ascending tube, at the end
+near the heated ball. We have had two glasses, H, inserted here, so
+that we might observe what was going on within by the smoke from this
+taper. You see there is a strong current of air passing up the tube,
+all of which must come from the far end, flowing against the strong
+current of radiant heat going in the opposite direction. Now, leaving
+this thermometer to rise or fall according to the temperature of the
+air flowing through, we will go to the other end and examine another
+very interesting part of this experiment: it is the manner in which the
+radiant heat is received and appropriated by different substances.
+
+Radiant heat is thrown from a hot body in every direction equally, but
+no two kinds of substances receive those rays of heat in the same manner,
+nor do they make the same use of them after they have received them.
+
+Every substance receiving heat, however, must give a strict account of
+it. It must give out an equal amount of heat, or, what is taken as an
+equivalent, some action or power.
+
+I have a sheet of ordinary tin, and as I hold this polished side behind
+this light, you see it throws a belt of light across the room; and as
+I put it in front of the end of our tube, and turn it so that the rays
+of heat will be reflected in your faces, I think some of you will be
+able to feel the reflected heat. The rays of heat are turned from their
+course, and thrown in a belt of light across the room, similar to the
+rays of light.
+
+But you cannot give away and keep the same thing. This bright polished
+surface appropriates but a very small portion of the radiant heat. A
+thermometer hanging for some minutes against the back has scarcely risen
+one degree; but we have given the other side a coating of lamp black,
+with a little varnish, and by turning that side towards the pipe, the
+result will be quite different. By this coat of black varnish the whole
+character of the sheet of tin is changed. The black, however, has but
+little to do with it; if it were white, or red, or blue, the formation
+of the surface being similar in every respect, the result would be the
+same almost precisely.
+
+Instead of acting merely as a guide-post, to _change_ the _direction
+only_ of the rays of heat, as before, it now becomes a receiving depot,
+absorbing nearly all the heat that comes to it. It must soon become
+filled, however. The thermometer hanging at the back has risen six
+degrees already, and is going up rapidly; it must soon begin to distribute
+its extra stores. But mark the different manner of distributing the
+heat. Instead of _reflecting_ the whole all in one direction, as when
+received on the other side, it now _radiates_ them equally in every
+direction.
+
+Some solid substances allow the rays, both of heat and light, to pass
+directly through them without either reflecting or absorbing them. Other
+substances allow the rays of light to pass through them, but absorb much
+of the radiant heat, like clear glass.
+
+Rock salt is one of the best non-absorbents of radiant heat, allowing
+nearly the whole of the rays of heat to pass through unobstructed.
+
+We will now return to our experiment at the other end of the tube. I
+find there is something wrong here--the mercury in the thermometer has
+risen several degrees. I knew this was rather a crude arrangement for
+illustrating this very beautiful and interesting part of our subject,
+but I hoped it would assist me a little in conveying to you the idea I
+desired to impress upon your minds. I find, however, that it is scarcely
+delicate enough to illustrate perfectly what I wanted to show.
+
+But this increased temperature is not owing to the effect of radiant
+heat on the air coming from the far end, for I find by the heat at the
+top of the pipe, between the heated ball and this ascending pipe, I, and
+by the current of heated air on the side next the ball, that there is
+a current of _circulating air_ that _has been heated_ by coming into
+immediate _contact_ with the hot ball.
+
+I designed this smaller tube, _k_, to carry off the air thus heated, but
+it appears to be too small.
+
+We ought to have had a piece of rock-salt to have closed the end of
+this tube, so that the radiant heat would have passed through without
+allowing any _circulation_ of _heated air_, but I was unable to find
+such a piece. But Professor Tyndall, in his lectures before the Royal
+Institute of Great Britain, gives the results of a large number of very
+accurate and beautiful experiments tried for the purpose of determining
+whether the forty-five miles of atmosphere surrounding the earth absorbed
+_any_ of the sun's rays, and if so, how much?
+
+These experiments prove, in the most conclusive manner, that dry pure
+air is almost a perfect non-absorbent of radiant heat. Thus, were the
+air entirely dry and pure, the whole forty-five miles through which the
+sun's rays have to pass, would absorb a very small fraction thereof,
+so that in the length of our tube it would be but an exceedingly small
+fraction of one degree, that is, for pure dry air.
+
+But is the air of this room pure and dry? Very far from it.
+
+Professor Tyndall found that the moisture alone in the air of an ordinary
+room, absorbed from fifty to seventy times as much of the radiant heat
+as the air does. Air and the elementary gases--oxygen, hydrogen and
+nitrogen--have no power of absorbing radiant heat, but the compound
+gases have a very different effect; for instance, olifiant gas absorbs
+7950 times as much as air; ammonia, 7260; sulphurous acid, 8800 times.
+Perfumes, also, have a wonderful power of absorbing radiant heat.
+
+The moisture in the air, however, is of the greatest practical importance
+in various ways. It is the great governor or regulator or conservator
+of heat; it absorbs it and carries it from point to point and into
+places where the direct rays of the sun could not get; it is like a
+soft invisible blanket constantly wrapped around us, which protects us
+from too sudden heating or too sudden cooling.
+
+Professor Tyndall, speaking of the moisture in the air, says: "Regarding
+the earth as a source of heat, no doubt at least ten per cent. of its
+heat is intercepted within ten feet of its surface." He also says:
+"The removal for a single summer's night of the aqueous vapor from the
+atmosphere which covers England, would be attended by the destruction
+of every plant which a freezing temperature could kill.
+
+"In Sahara, where the soil is fire and the wind is flame, the
+refrigeration is painful to bear."
+
+And in many of our furnace-heated houses, we have an atmosphere very
+similar in point of dryness to that of Sahara, but more impure.
+
+The foregoing remarks in regard to the impossibility of heating air,
+apply especially to radiant heat. Air does become heated, but in
+a different manner; it is heated by each individual particle or atom
+coming in immediate contact with some hotter substance. See what a
+wonderful provision for creating a constant circulation of the air.
+The sun's rays pass through it without heating it, but they heat the
+surface of the earth at the very bottom of the ocean of air; this, in its
+turn, heats the air by each individual atom coming in immediate contact
+with these hotter substances, expanding them so that they must rise,
+thus enabling the colder and heavier particles to rush in and take their
+places. With this great universal moving cause, in connection with the
+innumerable minor causes resulting from the very different absorbing,
+radiating and reflecting powers of various substances, it becomes
+almost impossible for the air to be entirely and absolutely at rest,
+even in the most minute crack or cranny, or bottle corked air-tight.
+
+Now, to apply these principles to every-day life, to the heating and
+ventilation of our houses, taking the _open fire_ first, we find that
+it acts like the sun, heating exclusively by direct radiation. The rays
+of heat fall upon the sides of the room, the floor and ceiling, and
+the solid substances in the room, which thus become partially heated,
+and in their turn become _secondary radiators_. This radiant heat from
+the fire does not heat the air in the room at all, but the air becomes
+partially warmed by coming in immediate contact with the sides of the
+room, the furniture, &c.
+
+One great reason, therefore, why an open fire is so much more wholesome
+than any other means of artificial heating, is because it more nearly
+imitates the action of the sun.
+
+The rays of heat fall upon our bodies, heating them, while it leaves the
+air cool, concentrated and invigorating for breathing. The bright glow
+of an open fire has a very cheering and animating effect. It produces
+a very agreeable and healthy excitement.
+
+It is not improbable that future careful investigations may prove that
+there is an important change takes place in the electric or ozonic
+condition of air as it passes over, or in contact with, hot iron, which
+does not occur to the air of a room heated by the open fire.
+
+The air in a room heated by an open fire can scarcely become stagnant,
+because that fire must necessarily be constantly drawing a considerable
+amount of air from the room to support combustion, the place of which
+will be supplied by other air, and here is where one of the greatest
+inconveniences arises in the use of the open fire; if the air entering
+to supply this exhaustion comes in at a crack of the door or window,
+on the opposite side of the room, and that air is cold, say 10 deg. or 15 deg.
+above zero, it flows across the floor to the fire, chilling the feet
+and backs of those sitting in its track. It is quite possible to roast
+a goose or round of beef in front of a fire, while the air flowing by
+it into the fire is freezing cold. This should be remedied by having
+the air flowing in partially warmed before it enters, say to a
+temperature of 40 deg. to 50 deg., either by having the halls overflowed by
+partially warmed air, and opening a door into it, or by admitting the air
+to enter around the back of the fire-place, as Dr. Franklin arranged it.
+
+Thus, while an open fire is the healthiest known means of heating a
+small room, and should be in the family sitting-room of every house,
+and in offices and other places where the occupants are at liberty to
+move closer or further from the fire at pleasure, yet it is entirely
+unsuitable for a large building, or for rooms where many persons are
+assembled, and have fixed seats, similar to a school, lecture-room,
+factory, &c.
+
+A stove in a room heats both by direct radiation and by heating the air
+that comes in immediate contact with it.
+
+But our latest styles of elegant new patent gas-consuming air-tight
+stoves, require so small an amount of air to support combustion, that
+there is a strong probability of the occupants of a room thus heated
+smothering to death for want of fresh air, sooner or later, and generally
+the former.
+
+But a stove, if properly used, creates a comfortable and wholesome
+atmosphere, and is one of the most economical means of heating now
+known. There should always be a separate pipe for introducing the fresh
+air from the external atmosphere, which fresh and cold air should be
+discharged on or near the top of the stove. And if this supply of fresh
+air is abundant, with a constant evaporation of moisture sufficient to
+compensate for the increased capacity therefor due to the additional
+heat given it, and an opening into a heated flue near the ceiling, to be
+opened in the evening when the gas-lights are burning, or when the room
+is too hot, and kept shut at all other times, with another opening into
+a heated flue on a level with the floor, which should be kept _always
+open_ to carry off the cold, heavy foul air from the floor--a stove
+thus arranged for many small isolated rooms, makes one of the most
+economical as well as most comfortable and wholesome means of heating
+at our command. It combines the three great essentials necessary for
+comfort and health--_warmth_, partially by direct radiation, _fresh air_
+and _moisture_. But neither the open fire nor the stove, as desirable as
+they may be in many small rooms, are suitable for large rooms, especially
+where many persons are assembled. Heating principally by circulating
+warmed air, or in combination with direct radiation from exposed pipes
+filled with steam or hot water, is in such cases more convenient.
+
+It is in connection with this system of heating by circulating warm air,
+that the erroneous views in relation to ventilation generally entertained
+by the public, produce the most injurious effects.
+
+The special points to be borne in mind in considering this subject are
+that, when in motion, warmer air rises and colder air falls; but when at
+rest, the stratums of air of different temperatures arrange themselves
+horizontally.
+
+One other thing: we must remember _temperature_ has nothing to do with the
+purity or impurity of the air. The pure air entering a room is _sometimes_
+colder than the average temperature of the room, and falls to the floor,
+forcing the warmer, and, in that case, fouler air to the upper part of
+the room.
+
+But frequently, in winter, the fresh air enters _warmer_ than the average
+temperature of the room, and _rises to the ceiling_, and flows across
+the room above the colder and fouler air that has been longer in the
+room. You must not forget the experiments in our first lecture, showing
+that the breath in an ordinary room, of a temperature of 70 deg., fell to
+the floor instead of rising to the ceiling. I propose illustrating this
+part of our subject, by using a little glass room to show the movements
+of air of different temperatures. We can either use air of different
+temperatures, showing the motion of the various currents by a little
+smoke; or, as the laws governing the circulation of liquids of different
+densities are so similar, and by the use of a little coloring matter
+will express to an audience of this kind more promptly and clearly the
+ideas which we wish to convey, we therefore propose using the different
+colored liquids this evening.
+
+The colors, of course, have nothing to do with the densities, but are
+merely used as a convenient method of designation; the red representing
+heat or rarity, and blue, coldness or density.
+
+The room is now filled with clear water, slightly blue, to represent
+cold, and a little salt, which makes it a little more dense than fresh
+water. Now, I will let in at the top a little fresh water, colored
+red by cochineal, to represent heat, and by making a similar opening
+on the opposite side for its escape, you will be able readily to see
+in what direction it moves. There, see it entering--see how it flows
+directly across the top of the room, and escapes at the opening on the
+opposite side. You see it disturbs the lower and colder parts of the
+room but very little. Thus a large flow of pure fresh warm air might be
+going through a room all day, and be entirely wasted, neither warming
+nor ventilating it. Fortunately, there are but few buildings arranged in
+quite so absurd a manner as this. I believe it was tried in the House of
+Lords, on the erection of the new Houses of Parliament, but, of course,
+failed. I think they still adhere to it in some of the wards of some
+Insane Asylums, where they depend, I suppose, upon the excitement of the
+patients to keep themselves warm and the air stirred up. I also noticed
+this arrangement in a new building just being finished, a few years
+since, at Yale College. The architects of that building had probably been
+impressed with the dreadful effects upon the health of students of the
+air from our ordinary hot air furnaces, and thought they would avoid all
+such danger. I think, however, it would have answered their purpose just
+as well, and been much more economical, to have placed the furnaces at
+the coal mines, and saved the trouble and expense of carrying the coal so
+far. I expect they have made other arrangements, probably, by this time.
+
+[Illustration: Fig. 1]
+
+[Illustration: Fig. 2]
+
+[Illustration: Fig. 3]
+
+We will now close the opening at the top for the _inlet_ of the fresh
+warmed air, and open a valve, so as to allow it to flow in at the bottom.
+We will allow the opening at the top for the _outlet_ of the foul(?)
+air to remain as before, (see Fig. 1, Lithograph plates.) This is quite
+an improvement; it agitates the air much more than the other, and by
+going and standing directly over the register, you can always get in the
+current of fresh warm air. But you see to what a very small portion of
+the room the heated air is confined, rising in one perpendicular column
+directly to the ceiling, and then flowing horizontally along the ceiling
+to the outlet. How little it disturbs the main portions of the room,
+especially the lower and occupied part.
+
+I hope you will notice that this illustrates the popular notions of
+ventilation. I suppose three-fourths of all the buildings in this country,
+or in Europe, where any attempts at artificial ventilation have been made,
+are thus arranged. Dr. Franklin knew better, and made a much more perfect
+arrangement than this. But we are probably mostly indebted to that very
+able and enthusiastic advocate of ventilation, Dr. Reid, for this popular
+opinion. The whole of the plan that he advocated is but little understood
+by the public. He assumed that the natural warmth of the body created an
+ascending current around us, and caused the breath to rise towards the
+ceiling, and consequently, in all artificial arrangements, it was best
+to endeavor to imitate this natural movement of the air. And to overcome
+the great practical difficulty we see here exhibited, of the fresh warm
+air flowing through the room, and disturbing so small a portion of it, he
+proposed making the whole floor one register, and thus have an ascending
+column over the entire room. For this purpose, the floors in the Houses
+of Parliament were perforated by hundreds of thousands of gimlet holes,
+and the whole cellar made a hot air chamber. This was a magnificent
+idea, and, I believe, in some few instances, where fully carried out,
+has given a good degree of satisfaction; but it is always difficult to
+adjust the opening and the pressure so as to cause an even flow over
+so large a surface, and at the same time to be so gentle as not to be
+offensive to those with whom it comes in contact. But this thorough
+diffusion cannot be conveniently applied in one case in a thousand. It
+must necessarily be always very extravagant, as it will constantly require
+a great amount of air to insure a thorough circulation through all parts
+of the room. I wish, therefore, most emphatically, to condemn all systems
+relying upon openings in the ceiling for the escape of the foul air,
+while depending upon the circulation of warmed air for obtaining the
+necessary additional warmth. In practice they are universally closed
+in winter, for the purpose of keeping warm, and as such openings have
+been so generally considered the _only_ ones necessary for the proper
+ventilation of a room, and as they had to be shut in winter, just when
+artificial ventilation was most necessary, it has created a very strong
+prejudice in the popular mind against all ventilation.
+
+The result of the advocacy of these impracticable theories by so many
+able and learned men, (most physicians writing upon this subject have
+adopted them,) has been the shutting up of many thousands and tens of
+thousands, till they have smothered to death.
+
+The ravages of consumption and the excessive infantile mortality, and the
+many diseases resulting from foul air poisons, are in a great measure
+due to the general advocacy of these false theories. As I have before
+said, Dr. Franklin knew better than this, and had we been contented to
+have followed his simple practical advice, instead of being dazzled by
+the splendid theories of others, thousands of our friends would now be
+with us who died long since for the want of fresh air.
+
+Now, let us see how Dr. Franklin says a room ought to be ventilated.
+He says, "the fresh air entering, becoming warmed and specifically
+lighter, is forced out into the rooms, rises by the mantel-piece to the
+ceiling, and spreads all over the top of the room, whence, being crowded
+down gradually by the stream of newly warmed air that follows and rises
+above it, the whole room becomes in a short time equally warmed." This is
+the principle upon which his celebrated Franklin stove was arranged. Now,
+let us see if we can arrange our little glass house so as to illustrate
+this. We will first fill it with what we call our cold air, and will
+close the outlet at the top, and take out the fire-board. Now, as I
+let in the warm fresh air, it rises immediately to the top, as before,
+and flows across the ceiling, but as it cannot escape there, it forces
+the cold air down, and causes it to flow out at the fire-place. See how
+quickly the whole room is filled with the fresh warmed air. Ah! I see
+I am a little too fast--there appears to be a stratum of a foot or two,
+lying on the floor, that is not disturbed yet. It flows out at the top
+of the fire-place, and therefore does not reach to the floor. This is
+frequently the cause of cold feet and much discomfort. We will make the
+opening directly at the floor, (see Fig. 2, Lithograph plate,) and that
+forces all the cold air out, warming and ventilating the whole room. Here
+is the whole problem solved in the most beautiful and simple manner.
+And you may exclaim, as you see the simplicity and perfect working of
+this, how came any one ever to think of anything else.
+
+Here, again, you see the value of that most excellent and valuable of
+household arrangements, the open _fire-place_; even without the fire it
+serves a most important purpose.
+
+[Illustration: Fig. 4]
+
+[Illustration: Fig. 5]
+
+[Illustration: Fig. 6]
+
+We must not forget, however, that there are other circumstances in
+which it will not do to depend on the fire-place alone for ventilation.
+Now, by leaving the fire-place open, just as it is, and the room full
+of warm air, we will simply change the _condition_ of the air supplied,
+and allow cold air to flow in at the bottom instead of the top. (See Fig.
+3.) There, you see the fresh _cold_ air simply falls to the bottom and
+flows across the floor, without disturbing the upper part of the room at
+all. It acts just the reverse of the hot air let in and taken out at the
+top of the room. When you are ventilating a room by _opening a window_,
+therefore, it is often necessary to open it at the top; but remember
+when you are ventilating by doors and windows, (which are the great
+natural ventilators,) _they_ are an entire substitute for flues--flues
+are then of no account. All _windows_, therefore, ought to be made to
+_lower from the top_, and all ventilating _flues_ ought to be made to
+_open at the bottom_ of the room.
+
+I have noticed another very interesting feature in regard to the
+circulation of liquids of different densities; for instance, suppose we
+fill our little room half full with salt water, and the remainder with
+fresh water, we will now apply a spirit lamp to the bottom of the room.
+As the salt water becomes heated it rises rapidly, yet not to the top of
+the room, but only half-way, or to the top of the denser liquid, and then
+spreads across the room horizontally. Thus the salt water will keep up
+a rapid circulation, and may be heated almost to a boiling temperature
+_underneath_, and without heating or disturbing, the cold fresh water
+_above_. I have tried some very beautiful experiments of this kind with
+a number of liquids of different densities in the same vessel. Gases
+of different densities are probably influenced in a similar manner by
+the application of heat. And here we see the value of that beautiful
+law of the diffusion of gases, by which each gas, no matter what its
+density, is equally diffused in all directions through the other gases,
+independent of temperature.
+
+I desire to call your attention this evening to one other distinct
+system of heating--I mean that very convenient, economical, cleanly and
+FASHIONABLE system of heating by direct radiation from steam-pipes.
+
+As steam has become such a common article in all large buildings, both
+for power and as a convenient means of distributing heat, most large
+buildings are thus heated; and as a perfectly air-tight building can be
+very easily heated thus, and as most persons are too ignorant or too
+careless to provide a separate and distinct supply of fresh air simply
+for ventilation alone, the consequence is, that this system, thus
+so shamefully abused, is probably drying up more talent and killing
+more business men in our cities than any other system in existence.
+This applies especially to the editorial rooms of nearly every one of our
+leading newspapers and publishing houses. They use steam for driving their
+beautiful printing presses, and the heating and ventilation, or rather,
+the entire want of ventilation, in their offices, would indicate that
+they think that the same power that drives their presses, to do the
+printing so nicely, is entirely sufficient to drive them to write the
+original articles for the printer, and that they have no more need of
+_fresh air_ than their presses.
+
+You may think that I am certainly mistaken that so intelligent a class
+of the community, who are building such splendid fire-proof buildings,
+such perfect palaces of iron and stone and marble, as our newspaper
+establishments are building in New York, Philadelphia and other large
+cities, would never make such a blunder as to omit providing the
+most abundant supply of pure, fresh air to every employe in their
+establishments, and at all times, both in summer and winter.
+
+Should there be any one present thus doubtful, I wish he would undertake
+to get any one of our enterprising newspaper establishments to publish
+in their paper an accurate intelligible account of their system of
+ventilation, illustrating clearly the known quantity of pure, fresh air
+delivered within using distance of each one of the editors and employes.
+
+I think he would soon come to the same conclusion I have, that the
+advice of the minister to his congregation would be very applicable to
+them--"Always do as I _say_, but never do as I _do_."
+
+
+
+
+LECTURE III.
+
+
+In my first lecture, I endeavored to show how much we were suffering from
+the effects of foul air, and the advantages to be gained by supplying
+ourselves all the time with pure air. Because we must first feel that
+there is something to be gained before we will make any great effort
+towards obtaining a given result.
+
+In my second lecture we considered the general principles governing the
+circulation of air, the courses of its movements, the manner of the action
+of heat upon different kinds of substances, which creates a constant,
+ceaseless motion of the air, in all places, from the minutest corked
+bottle to the vast currents that sweep over the face of the earth.
+
+Now, having learned the necessity for pure, fresh air, and studied the
+general laws governing its circulation, let us apply these principles to
+every-day life. To every-_day_ life? I should say every-_hour_ life--nay,
+every _moment_ of our lives; for twenty times every minute of our entire
+life, from the cradle to the grave, do we breathe what ought to be pure
+air. Is it always pure?
+
+If we breathe one single breath, in the entire day, of _impure_ air, it
+will weaken us, deduct from our capacity to attend to our daily duties,
+and shorten our lives, in exact mathematical proportion to the amount of
+impurity in that one single breath. Now, we breathe twenty times every
+minute, twelve hundred times every hour, twenty-eight thousand times
+every day, and nothing but absolute and perfectly pure air answers the
+exact requirements of perfect health.
+
+Well, you may ask, at first thought, if fresh air is such a panacea for
+all evils, and there is such an abundance of it out of doors, why not
+breathe it, and always enjoy perfect health?
+
+Think one moment. I eat my breakfast in the morning, generally refreshed
+by a night of good sound sleep, (for I sleep with my windows open.)
+Immediately after breakfast, I enter the cars to come to the city. What
+a smell comes from the car as the door is opened! and unless I wish
+to incur the displeasure, or provoke the indignation, of almost every
+passenger, by opening a window, I am obliged to sit in that foul,
+offensive atmosphere, and breathe the poisonous exhalations from my
+own lungs, and that from dozens of others, some of them, it may be,
+badly diseased, (most persons' lungs _are diseased_ in this country,
+from breathing foul air, and many other diseases besides consumption
+are produced thereby.)
+
+Thus, in one half hour, I have inhaled six hundred times of this foul
+and poisonous air, and the blood has carried it to every portion of my
+body, so that my entire system is completely saturated, poisoned, yes,
+thoroughly poisoned by it, from the crown of my head to the soles of
+my feet.
+
+And thus is the day commenced. Your blood is thoroughly poisoned before
+your breakfast is digested; for your breakfast will no more digest
+without pure air than the coal in your stove will burn without it. You
+are subjected to headache, dyspepsia, and a half dozen other aches and
+pains, and are tired out long before night. And thus you are killed long
+before you would die if you breathed pure air only.
+
+And am I relieved from the difficulty when I arrive in the city?
+
+Start to-morrow morning at the Delaware River, on Arch or Walnut
+Streets, or any other street, and go to the Schuylkill. Inquire of every
+individual, in office, store, dwelling or factory, if he knows whether
+he had pure air to breathe all day, or whether he can tell you, with
+any degree of accuracy, how pure the air was in the room he occupied
+for any hour of that day.
+
+I fully believe there is not one in ten--no, not one in a hundred--of the
+most intelligent men in that entire street, doctor, lawyer, architect,
+or any other, that can give you an accurate account of the condition of
+the air breathed during any one hour of the day. That is not all. There
+is scarcely one in a hundred that can satisfy you, by an intelligent
+description, of the means used for providing it:
+
+First--Assuming the air outside to be pure, that there was a constant,
+positive and sufficient supply of that outside air introduced.
+
+Secondly--That that pure air was not deteriorated by overheating, or
+contaminated by being mixed with the poisonous gases of the burning coal.
+
+Thirdly--That there was sufficient moisture added to it to compensate
+for its increased capacity for moisture, due to its expansion by the
+additional heat given to it, (which is a very important thing.)
+
+Fourthly--That there was any accurate, positive means provided for
+insuring the fresh air to be brought within reach of the lungs of those
+for whom it was intended.
+
+And, lastly--That there was a positive means provided for the removal of
+all the poisoned air thrown from the lungs, so that none could possibly
+be _re-breathed_.
+
+No; you will find them in close, unventilated offices, in close factories,
+in almost _air-tight_ dwellings. In the large stores they do better.
+
+The air is very commonly overheated, it is often mixed with impurities,
+and very seldom supplied with a proper amount of additional moisture.
+
+The air is often so dry, that in a few minutes' conversation the linings
+of the air-passages to your lungs become parched and husky, producing
+irritation and a feverish condition of the system. And even in this room,
+to-night, do you see any opening at your feet, connected with a heated
+flue, for drawing the foul air from the floor as fast as thrown from your
+lungs? I believe there is not a square inch provided for that purpose.
+
+Or, do you see any escape immediately above the gas-lights, for carrying
+off the burned air while hot enough to escape? Not one. There are two
+or three openings, I think, in the back part of the room, just at the
+ceiling, but for your breath to get there, it must rise and pass by
+the zone of respiration, and much of it be again re-breathed; and the
+products of combustion, as we have seen, would cool sufficiently to fall
+to the floor long before they reached that point.
+
+I take the liberty of calling your attention to this with more freedom,
+because it does not indicate any special inattention on the part of the
+Managers. It is not an exceptional case, but it is the rule. It is the
+popular opinion of the proper means of ventilation.
+
+Go with me, if you please, to that magnificent building, completed but
+a few years since, at a cost of half a million of dollars, and given by
+its noble and generous founder to the city of New York. You will notice,
+inscribed above the entrance, cut in the solid stone, "To the Arts and
+Sciences." Look in this reading-room--perhaps the most useful and most
+appreciated of any public reading-room in the United States. See the large
+numbers of honest, industrious mechanics, snatching an hour from their
+labors, to look over the current literature of the day. Here, certainly,
+we shall find the most perfect arrangement for heating and ventilation
+that our knowledge of the arts and sciences could suggest. Let us see
+the arrangements for bringing in the fresh air, for warming it in cold
+weather, and for removing the foul air.
+
+What! no provision for a regular supply of fresh air? Not one foot,
+not one inch--neither are there any regular flues for the removal of the
+foul air. And this most remarkable condition of things is but repeated
+in the magnificent hotels, marble palaces used as offices, and in many
+of the new and splendid colleges; and, we might almost say, in all other
+buildings throughout the length and breadth of our land.
+
+Thus you see how difficult it is for one to mingle freely in the society
+of his fellow-men, under existing circumstances, without being subjected
+to being poisoned by foul air. In going from here to my home, to-night,
+I shall have to ride in those cars, the air of which I dread more than
+I ever dreaded the small-pox or cholera. I have been in hospitals where
+I have seen much of both. They may slay their thousands, but foul air
+its tens of thousands. And it is only when I get to my room, where I
+shall probably sleep to-night with two windows well open, allowing the
+unobstructed breezes of half a mile of open country to sweep through
+my chamber, that I shall feel entirely secure from the contaminating
+influences of foul air, and enjoy to its full extent the greatest of
+God's temporal blessings to man--_pure air_.
+
+I have no new patent idea to present to you, which shall secure to you
+at all times perfectly pure air, without any further trouble on your
+part. There are no two constitutions precisely alike, any more than there
+are two human faces, or two handwritings, and there are no two hours in
+our entire life in which all the physical conditions of our body are
+precisely the same. It would be just as absurd, therefore, to go to a
+ventilating establishment, and tell the proprietor to ventilate your
+house or office, and pay the bill when it came in, and content yourself
+by saying: "Well, I am glad this ventilating business is done with. I have
+got my house ventilated, and the bills paid, and I am glad I am _through_
+with that vexatious business." I say this would be just as absurd as it
+would be, in case you had some pain or ache, to go to your doctor and
+get some medicine, and therewith content yourself, and say: "Well, I am
+glad this doctoring business is over with; I have been dreading it all
+my life. I have been to the doctor's at last, have been doctored, and got
+my medicine and paid my bill, and so I am through with that vexatious
+business."
+
+No--you must first feel that fresh air is worth taking some trouble
+to obtain. You must then make it a _study how_ to obtain it without
+_chilling_ or _overheating_ your body, in winter and in summer, at night
+and in the day time, when you are lying down and when you are sitting
+up, before eating and after eating, before exercising, while exercising,
+and after exercising--when you are well and when you are sick, when you
+are alone and when you are in the crowded cars, or in a crowded room, in
+wet weather and in dry, and for the ever varying changes of the external
+atmosphere--all these conditions require separate and intelligent thought.
+
+In summer we depend almost exclusively on the natural movements of
+the air. To cause the air to _move_ is then the great matter. We must
+then remember that the great masses of air move horizontally, not
+perpendicularly. Of course, there are many little disturbing influences,
+but I mean the great mass of the air moves over the surface of the
+earth in horizontal strata. You can see this by the smoke of the
+locomotive on the prairie, which can be seen sometimes for twenty or
+thirty miles, stretching along just above the horizon. All _flues_,
+therefore, are of little account in summer. We must depend on open doors
+and windows. Suppose you wish to ventilate your room in the morning,
+the air outside having become a little warmer than the air inside, and
+the upper parts of the window only lowered: the warmer air would flow
+across the top of the room, leaving the air undisturbed in the lower and
+colder part. In this case, the window should be raised from the bottom,
+or a door opened that would afford an escape for the air.
+
+But again, suppose this same room to want ventilating in the evening.
+The room has become warm through the day, and the outside evening air
+is cooler than the room, and then, if you raise the windows from the
+bottom only, the cooler air will flow across the bottom of the room,
+leaving the upper part undisturbed and foul.
+
+No doubt you have all noticed, frequently, that in going into a room in
+the evening, when your heads were above the window opening, it would be
+quite hot, but if you stooped down below the line of the open window,
+it would be cool and pleasant. All windows should be made to lower from
+the top, to meet this special case. If you are boarding, or are so
+unfortunate as to be put in a room where the great blunder has been made
+of not having the windows to lower, go to the nearest carpenter shop
+next morning, before breakfast, and get a chisel, and cut six or eight
+inches off the little strip which supports the sash, and, with a gimlet,
+bore a hole directly through the sash, on both sides, and with a nail you
+can keep the sash up in its place, when necessary. I have had hundreds,
+yes, I suppose, thousands, made to lower this way in the hospitals.
+
+Motion, motion is the great desideratum in summer. You have all noticed,
+no doubt, how pleasant it is to go into a cool room, like a parlor, that
+has been kept shut up on a hot summer's day; but in a short time it begins
+to feel oppressive, and it is more comfortable to have the windows open,
+and a _circulation_ of air, even if it should be a little hotter than
+the stagnant cool air.
+
+Never sleep with closed windows in summer. It is in winter, however,
+that the greatest care is required in providing a constant supply of
+pure air. If we would but accustom our minds to comprehend, readily and
+quickly, that cold air falls and warm air rises, it would assist us in
+our conclusions. We all know that, of course, but we do not practice
+_applying_ it readily and quickly on all occasions.
+
+In summer, as I have said, the air moves horizontally, and then windows
+and doors are the great means of ventilation; but as cold weather
+approaches, we must keep the windows shut, excepting when in bed. In
+winter, therefore, we must resort to flues for the means of creating a
+circulation, and for conveying the air from one part to another. A flue
+is simply a passage--a communication--for air of different temperatures.
+A flue has no power to _create_ a draught. If the air within is colder,
+it will have the power to fall; if warmer, it will be driven up.
+
+[Illustration: Fig. 8.]
+
+For illustrating this, I have here some glass tubes about two feet long
+and two inches diameter. This one (Fig. 8) has been lying on the table
+some time, and I suppose is very nearly the temperature of the air in
+the room. I have here a little tin box, which answers for a connecting
+tube, and over one of the openings I stand this tube, and by the smoke
+from this taper, first held at the top, you see there is no current
+down the tube. And again, by holding the taper at the lower opening,
+you see there is no current passing up the flue. But I will remove that,
+and place one (Fig. 9) over the same opening that is warmer, and now you
+can see how strongly the smoke is drawn down through this lower opening,
+and see it flowing up this warm flue, and out at the top.
+
+We will now substitute a cold flue (Fig. 10). This condenses the air,
+and it falls rapidly. This action often occurs in the spring and early
+part of summer, especially in the morning, as the external air becomes
+heated, and the solid mason-work of the chimney remains cold, causing
+a descending current, which is often noticeable by the smell of soot
+in the room. We will now add this tube, of the same temperature as the
+room (Fig. 11), to see if the additional height will not make an ascending
+current. But you see the smoke is still drawn down, the height of the
+flue adds a little to its power, but the difference in its temperature
+is the controlling force.
+
+[Illustration: Fig. 9.]
+
+[Illustration: Fig. 10.]
+
+[Illustration: Fig. 11.]
+
+[Illustration: Fig. 12.]
+
+We will now place another tube over the lower opening (Fig. 12). Just see
+what a wonderful effect that has! Here is the air rushing down this short
+flue and up the two cold ones. We called those two first pipes cold, but
+our ideas of heat and cold are simply _comparative_; everything is warm,
+or has heat in it. Perhaps some of us think there is not much heat in
+the air when it comes whistling around our ears 15 deg. or 20 deg. below zero;
+but the cold rigid chemist will still extract many degrees of heat from
+that.  We must, therefore, remember that absolute temperature has nothing
+to do with the air passing up or down a flue--it is simply _comparative_
+temperature.
+
+[Illustration: Fig. 13.]
+
+Let me show you one more experiment. Here are two tubes we have had
+heated; as you see, the smoke rushes up them rapidly. But now we will
+add this third one (Fig. 13), which reverses the current at once. The
+two first are hot, taking the _temperature of the room as the standard_,
+but the third one is still _hotter_.
+
+[Illustration: Fig. 14.]
+
+The form of a flue has but little to do with the draught; the height has
+a slight influence, but bear in mind constantly that the great moving
+power in all flues is the variation of temperature.
+
+Now, let us make a practical application of this principle.
+
+Wait a moment: just let us lay this one aside, but not forget it, as we
+shall want to refer to it in a few moments, and try another experiment
+which has some bearing upon the subject.
+
+I have here a tube just one foot square and two feet long, and one foot
+from the bottom there is what we will suppose to be an air-tight piston
+that can be moved without friction. Now, suppose we heat that air 490 deg.
+(for the sake of easy remembering, say 500 deg.); this would just double
+its volume--it would then be two cubic feet in size instead of one.
+
+Now, suppose that, instead of letting this air expand, we should put a
+weight on it, so as to keep it in its place, how much do you think we
+should have to place on? Two thousand one hundred and sixty pounds, or
+about one ton. Now, what do we find these 2160 pounds to represent? It
+is the weight of a column of atmosphere with a base of one foot square,
+or fifteen pounds multiplied by 144 square inches--it is the weight that
+would rest upon the piston if all the air was taken out from under it.
+Therefore, if you add about 500 deg. of heat to a cubic foot of air, it makes
+it two cubic feet of air; or, if you attempt to keep it from expanding,
+you must put a ton weight upon it.
+
+Mark one thing, however, if it takes ten ounces of coal to heat that air
+to 490 deg., which we do by piling our ton weight upon it, it will take
+fourteen ounces of coal if we allow it to expand to two feet.
+
+In the former case, where the air remains stationary, it had done no
+work. It was ready to go to work, but it had not commenced. But in the
+case of its expansion, it had done a great work. What was it? Why it had
+lifted that ton of atmospheric air one foot in height, and that work was
+what used up the difference between ten parts and fourteen parts of coal
+(I don't trouble you with fractions).
+
+You see, therefore, to make the air quit the earth and ascend into the
+upper regions, requires a positive power, the same as it does to drive
+some poor simple people away from the fire on a cold day.
+
+We often say that, by heating air, we give it power to ascend; instead
+of which heating it destroys its power to maintain its position. It
+weakens--enervates it--so that its neighbors easily drive it out and
+take its place.
+
+One cubic foot of air, diluted to two feet, would be driven about two
+miles and a half high before it found any body as weak as itself, for
+every 350 feet in height, in round numbers, the pressure diminishes by
+an amount equal to one degree, or forced under water thirty-four feet
+reduces it to one-half its bulk.
+
+Now, let us go back and finish our syphon, or flue experiment.
+
+Here we have our little glass house again. We will take the roof off
+and put a pretty large family in it--I mean large in numbers, if not
+in size. You may call it a school, or public meeting, or church, or
+whatever you please. Suppose, for illustration, we call it a church,
+and we will call this larger light in this end the minister speaking
+to the congregation. You see, the lights are a good deal agitated,
+and flare around a good deal.
+
+There is a rush of air down at this end, and, as it becomes heated,
+it rises at the other. Let us cover about one-half of this up. Now see
+what a rush of air there is _down_ these flues, instead of _up_ them,
+as there ought to be. Here, you see, the main body of the building,
+though much shorter than the flues, forms the heated leg of the syphon;
+and you may thus recognize why many of the ventilating flues, put in the
+cold outside walls of many of our large buildings, persist in working
+the wrong way, and cold air blows down there, instead of the foul air
+going up.
+
+But there seems to be too much draught. Let us put the roof on. Ah, that
+is better; but, then, what a draught there is down this chimney-flue.
+Call the sexton, and have that stopped up quickly, or those sitting near
+there will soon catch their death of cold, and will never come here again.
+
+You see, however, they shine very brightly, notwithstanding all the
+draught, but there, now, it is all closed up as snugly as the most
+fashionable church in town. See how quiet and peacefully they burn now.
+
+Ah, there is one just gone to sleep. You must excuse him, he probably
+was up most of the night with a sick child. And there goes another.
+I think he must have been very busy for the last week settling up his
+last year's accounts. Just see, they are going to sleep so fast, I don't
+think we can pretend to give excuses for them all.
+
+And, now, is not that a brilliant congregation to be preaching to?
+Everyone dead asleep excepting the preacher himself, and I suspect he
+feels stupid enough to go to sleep, but it would not look well; and he
+has to tax his energies so severely he will hardly get over it, so as
+to be good for anything for the balance of the week.
+
+You may think this an exaggerated representation of the real facts. Do
+not deceive yourselves. A few months since I was requested by one of
+the congregation to visit a building within a few minutes' walk of this
+place, and see if there was not some defect in the ventilation. The
+gentleman stated to me that he sometimes attended the class-meeting,
+and would be glad to go oftener, but it was held in the basement story,
+and it was quite impossible for him to keep awake, as he had to get up
+and go out two or three times during the evening, to get a little fresh
+air, or he could not keep awake.
+
+I examined it. The ceilings were low-only nine or ten feet;--then there
+were two old leaky portable furnaces, which were used as occasion
+required for heating the large room above, or the basement room when
+the class-meeting was held.
+
+The only ventilation they had was to let off the surplus heat (if they
+had any, which was seldom) into the room above.
+
+Now for fresh air. By a very careful and minute examination, I discovered
+a little pipe (I think it was about six inches in diameter) to each
+stove (both of which would not be over half as large as what I have to
+supply my own bedroom), for the supply of the fresh air for that whole
+congregation. _Fresh air_, did I say? Well, let us see where this
+fresh air comes from. The janitor, after taking us down and showing
+where he kept the ashes, wood, old benches, and all sorts of rubbish,
+was about going up, but said I, "Where is the part where you get the
+fresh air to the furnaces?" "Oh," he said, "he could not get to that,
+it was such a rough place, and there was a sewer or gutter (from the
+adjoining graveyard I suppose) running right across it." And from that
+place, too rough to be got at, with an open sewer running through,
+and too foul to go into, was where they got the _fresh air_ (!) from
+for the whole of that congregation to breathe.
+
+And do you suppose this is an exception? Let me tell you. During the
+first year of the late war I was called upon by the Sanitary Commission
+to examine the hospitals in Washington City with reference to their
+ventilation. A large number of the churches in that city were used for
+hospital purposes, and many of them were heated by hot-air furnaces,
+and in not _one single instance_ had they fresh air boxes to them,
+neither had they any means for carrying off the foul air. The furnaces
+were generally placed in a hole excavated under the main part of the
+building, and all the ground around them left exposed, and the air
+was sucked in from the fermenting, decaying vegetable mould under the
+building. And this place around the furnace was the place where all
+the filth and old rubbish was thrown to get it _out of the way_, and
+it was thoroughly out of the way too, for the surgeon in charge or any
+inspector never got there to see it. In some cases I found this space
+around the furnace used as the dead house!
+
+Did I say there was no attempt in any of those buildings for systematic
+ventilation? I ought to have made one exception.
+
+I called one morning about ten o'clock at one of the finest new churches,
+which was then being occupied as a hospital, and asked for the surgeon in
+charge. He had not arrived. (They did not often venture in before eleven
+o'clock, the wards became so foul during the night it took till that time,
+with the windows up, to get them fit for the surgeon in charge to venture
+in.) I inquired of the wardmaster how the building was ventilated. "Oh,
+very well--very well, indeed--they had good ventilation," pointing up to
+a large, splendid ventilator in the ceiling. "Do you keep that always
+open?" I asked. "Oh, certainly," he replied. But I always have a great
+suspicion of those ceiling ventilators, as they are generally shut. So
+I walked around the ward, and when under it asked him again if he thought
+that was open. A smile came over his face as he discovered, for the first
+time, it was a handsome fresco painting on the solid wall. And this was
+the only practical systematic attempt at any ventilation in any of the
+church buildings used as hospitals in all Washington.
+
+I have not been in any of the public schools in this city for many years,
+but a gentleman told me the other day that he called at one of the
+fashionable schools up town to get his son and take him home under his
+umbrella, as it had commenced raining since morning, and as he opened
+the school room door he was perfectly shocked, as he staggered back from
+the gust of horrible foul air that came rushing out of that room.
+
+I have examined most of the public schools in New York since I have those
+of Philadelphia.
+
+They have a way of their own of doing public business over there. There
+has been a good deal said about ventilating public schools of late years,
+and as it was such a scientific and fashionable matter they must have
+their schools ventilated of course.
+
+I was very unfortunate in my intercourse with the Directors of the Public
+Schools. I did not happen to meet with many of those high toned, liberal,
+scientific gentlemen that are on many of the committees, of course.
+
+Those beautiful and ornamental gratings called registers are accepted as
+the external proof of good ventilation, suggesting as they do the flow
+of an abundance of pure fresh air. So registers were bought freely and
+put in all the rooms, top and bottom, with splendid red and green and
+blue tassels, altogether making a handsome show and doing the very able
+and scientific gentlemen on the School Boards great credit for their
+enterprise and great care for the welfare and interest of the pupils
+under their charge.
+
+Now, let us examine the operation of these registers. Holding a
+handkerchief in front of them, there it remained perfectly motionless.
+It neither blew hot nor cold--it was perfectly lukewarm, motionless. Go
+to another--the same. And to another--the same. Well that is singular.
+Let us go on the roof and see what can be the matter. A careful search
+fails to discover any flues at all, but a mechanical examination shows
+that the coping-stone has been put on them, making all the flues as
+thoroughly air-tight as the solid wall--more perfectly capped than that
+chimney. There had been no attention paid to having the holes for the
+ventilating flues cut through the coping-stone.
+
+Yes, I believe that to-day a large proportion of all those flues with
+the elegant ventilating registers at the top and bottom of the room,
+are capped and made as thoroughly air-tight as the solid wall, and are
+as perfect shams and as useless as the elegant frescoed ventilator on
+the solid wall of the church hospital in Washington.
+
+I do not believe that Philadelphians have gone quite thus far in
+satisfying the public demand for ventilation in the public schools. They
+may not have _done any more_, but I believe they have not _pretended_
+to do quite as much.
+
+Excuse me a few minutes; I must illustrate another very great deficiency.
+The simple illustration I will give you represents almost the universal
+condition of our hot-air furnaces.
+
+Much complaint was made of the uncomfortable feeling in one of the large
+public schools, where they had some 1200 or 1500 scholars. I was called
+to examine it. I asked, as is my usual habit, if they evaporated plenty
+of water. "Oh, yes; they had given the janitor full directions about
+keeping the evaporating pans always full." I found the evaporating pans
+full, sure enough, rather to my surprise, but what do you think they were
+filled with? Several old brooms, half charred, and some old water buckets
+all fallen to pieces, and other rubbish thrown in there _out of the way_.
+
+And now those of you who have been trusting to your servants to keep
+water in your furnaces, if you will take a candle when you go home and go
+down and examine your own furnaces, you will most likely find them dry,
+and if you go to the public schools in the morning you will see that
+they too are not an exception.
+
+I wish I had time to explain the dreadful effect of this want of moisture
+in all our artificially heated rooms. The air in winter is very dry, the
+moisture is squeezed out as the water is squeezed out of this sponge. But
+as you heat it you enlarge its volume again, and it sucks up the moisture
+just as this sponge does, and if you do not supply this moisture in other
+ways it will suck the natural moisture from your skin and your lungs,
+creating that dry, parched, feverish condition so noticeable in our
+furnace and other stove-heated rooms. Few persons realize the great
+amount of water necessary to be evaporated to produce the natural
+condition of moisture corresponding with the increased temperature
+given the air in many of our rooms in winter.
+
+I have copied a table expressing in grains troy the moisture contained
+in one cubic foot of air when saturated:
+
+        Degrees     Grains of vapor
+      Fahrenheit.   in cubic foot.
+
+           10             0.8
+           20             1.3
+           30             2.0
+           40             2.9
+           50             4.0
+           60             6.0
+           70             8.0
+           80            10.0
+           90            15.0
+          100            19.0
+
+Thus you see, taking the air at 10 deg. and heating up to 70 deg., the ordinary
+temperature of our rooms, requires about nine times the moisture contained
+in the original external atmosphere, and if heated to 100 deg., as most of
+our hot-air furnaces heat the air, it would require about twenty-three
+times the amount in the external atmosphere.
+
+This is a very interesting and important subject, but I am sorry I have
+not time for further explanation.
+
+I see some kind friend has been around and opened the doors of our
+meeting-house and awakened the sleepers. And now you see the lights shine,
+and the cheeks glow as brightly as would those of our young ladies could
+they be persuaded to go skating, or take a five mile walk every day,
+rain or shine, and sleep with the windows open, and never ride in any
+of our cars, or go to parties or any other public gatherings unless the
+buildings where they are held are well ventilated.
+
+But those dreadful drafts! People will not bear them. Let us see if
+we can accommodate them. Put on the roof, and here comes this dreadful
+current again down the ventilating flue. Well, ventilating flues have the
+name of being great humbugs. Let us shut them up. There are your poor
+consumptive patients--there they go, you see. One-half dead already,
+and the rest will soon follow if we cannot rescue them. Let us open the
+flue again. See how they brighten up as the fresh air comes in. There
+is no use of disputing about it, you must have _a current of fresh air
+coming into the house_ or you will surely die.
+
+Now let us change the programme. Let us build a fire in this fire-place
+in the lower story--that burns up brightly. Where does it get fresh air
+from now? There can be no current down the chimney. Let us search it out
+with this smoking taper. Ah, here it is coming down through the ventilator
+from the very top of the house. We will soon stop that by this cap. But
+see, it still burns as brightly as ever. Let us try again. Ah, do you
+see the smoke rushing down the second story chimney and across to the
+stairway, and down the stairs, and across the room again to this fire?
+
+_There is a valuable hint._ Have you not noticed frequently gas in the
+room from the fire-place or stove, and especially at night? And do you see
+how easily it would be to account for it if the house were shut up tight
+at night, with a large fire in the kitchen or furnace in the cellar,
+and but a small fire in the second story? Don't you see how the whole
+products of combustion, all the poisonous gases, may be drawn out into
+the room? You often notice accounts of whole families being smothered to
+death in one night, but many seem to think if they are not smothered to
+death the first night, that it is not so very dangerous after all, and
+not knowing how to remedy it easily go on from day to day and sometimes
+escape the whole winter with a little of their lives left.
+
+Now, let us put out the fire in the first story and make one in the
+second.
+
+You must remember that this is not a fashionable double ceiled and
+plastered air-tight house. It is much more open, in proportion to its
+size, than any ordinary house. And now, as this lower flue has been so
+highly heated, it may take some time for the fire in the second story
+fire-place to become heated sufficiently in excess to cause the air to
+draw down the longest flue to the bottom of the house and up the stairs
+to the second story fire-place, but it will soon do it.
+
+I wish you to notice one thing here particularly, and each one apply
+it to your own particular case. You know the lower part of the house is
+closed up tight to keep out the robbers, and if great care is not taken
+to give an abundant supply of fresh air to your chambers otherwise,
+it will be drawn up through the hall out of your kitchen and cellar,
+and as the cook has left the range lid off and shut the dampers, you
+will have a suffocating smell of gas all over the house. But the worst
+danger of all is the air that may be drawn in from an untrapped sewer
+or cesspool. This is a very common but great source of ill-health.
+
+Sanitarians have given much attention to this subject lately, and have
+been astonished at the magnitude of the evil. I have long maintained
+that a family might go to the highest and most healthy location in the
+world, and by a little carelessness might accumulate sufficient filth
+around them, and by closing up the house at night and allowing the foul
+gases from untrapped sewers and cesspools to enter through the halls
+to their sleeping rooms, to thus make what would otherwise be a healthy
+place a very unhealthy one.
+
+As a case in point, I would refer to a very interesting report of Doctors
+Palmer, Ford, and Earle, giving an account of their investigations of the
+causes of a severe epidemic that occurred in the summer of 1864 in a young
+ladies' seminary in Massachusetts. "The Maplewood Institute" is situated
+in Pittsfield, one of the most beautiful of those charming New England
+villages, which, to external appearances, are the very emblem of all that
+is pure and healthy. Yet even in this lovely place, from an ignorant or
+careless arrangement of the drains and cess-pools, much of the foul gas
+generated there found its way into the building,[2] making sixty-six out
+of seventy-four young ladies sick, fifty-seven of whom had the typhoid
+fever and thirteen died. Many similar cases are frequently occurring,
+some few of which, like this, are carefully investigated, and the causes
+removed. Many more, however, go unnoticed, and are accepted as special
+dispensations of Providence, when it is all due to our own negligence.
+
+I want to show you an arrangement that ought to be in every house. We
+have seen the power of a fire to create a draft, and if you will think
+a little you will notice that the kitchen fire is the most considerable
+and most permanent power in ordinary dwellings, and this ought to be
+made use of to ventilate the kitchen, water-closet and bath-room in
+every house. But you must not make an opening directly into the kitchen
+flue; if you do you will interfere with the draft of the kitchen fire,
+and if you interfere with the kitchen fire you will soon wish yourself
+at anything but keeping house.
+
+But we can easily get over that trouble. We will use this square glass box
+again to represent a flue. I don't mean this to represent the size--it
+ought to be twice that size. In the centre we will put a cold pipe, to
+show you that a pipe without any heat in it would only cause the foul
+air to tumble down into the room. Thus you see the smoke descending. We
+will substitute a pipe with a gas light to heat it. Now you see what
+a rapid current there is out of this large flue. See what a splendid
+arrangement this is for ventilating, and it may be extended so as to
+ventilate the whole house. It is not necessary that the room to be
+ventilated should be adjoining, but a pipe can be carried between the
+floors 50 or 100 feet.
+
+I had an opportunity, during the late war, of thoroughly testing this
+system of ventilation in the government hospitals.
+
+Let me say here that a very common mistake in making ventilating flues
+is, that they are entirely too small to be of any value. One of these
+little Philadelphia flues, four by nine inches, made with rough bricks,
+and nearly or entirely choked up with mortar, as many of them are
+frequently found, is of no account. They are simply a deception, and
+a perfect provocation to a sensible man.
+
+[Illustration: Fig. 15.]
+
+I commenced by making some in Washington, for single wards, thirty
+inches square, but in St. Louis, and Louisville, and Nashville, where
+buildings four or five stories high were used for hospitals, I made them
+much larger, some three feet square and some four feet by six feet. Some
+buildings, where the ventilation was so bad and the water-closets were
+so offensive that the government had to abandon them, I had ventilated
+by these immense shafts, heated by the kitchen and laundry fires, which
+proved thoroughly efficient and entirely satisfactory.
+
+I had hoped to have time to discuss the subject of heating more fully
+in connection with ventilation, but cannot; but I will state, in the
+simplest manner, a few of the leading points first.
+
+_You must have fresh air all the time._ In summer you can get it by
+opening the doors and windows. In winter it must be warmed before
+entering the room. It must not enter the room cold and flow across
+the floor to the other side before it reaches the heating apparatus.
+You can bear a large amount of fresh air if it strikes you in the face
+and evenly over the whole body, but never let a jet of cold air blow
+upon any small portion of your body.
+
+To avoid these local currents sucking in at cracks, you must make
+provision for the introduction of an amount of air _larger_ than the sum
+of all these cracks, and your exhaust flue besides. This air must be
+partially warmed before entering. If this is done by a hot-air furnace,
+it must have a large fresh air box, which should be from eighteen inches
+to two feet for a large house. It should have a large evaporating vessel,
+with a ball-cock to supply it. You cannot get the servants to attend
+to it, and you must never allow the air from your cellar to enter your
+furnace to be driven up stairs. Never allow the furnace to get red-hot.
+
+A hot water furnace disturbs the natural conditions of the air the least,
+and, on that account, is a very healthy means of artificially heating
+air. But they are necessarily expensive, and so few persons really
+appreciate the value of pure air, that but few will go to the expense
+of introducing them. It is a mistake to suppose that they do not dry the
+air, so to speak. You cannot elevate the temperature without increasing
+the capacity for moisture. A hot water furnace, therefore, requires
+the artificial evaporation of water to give the warmed air its true
+hygrometric condition.
+
+Heating the air by steam is the next most healthy means; as the surfaces
+used are heated a little hotter, less of it answers the same purpose. The
+first cost is therefore less. It is the most rapid and convenient means
+of conveying heat to any distant point of anything now in use. Under
+the pressure of an ordinary boiler it will travel seven miles in one
+minute. The time I hope is not far distant when the subject of heating and
+ventilation will receive an amount of attention due to its importance.
+I believe then we shall have steam pipes laid through our streets, the
+same as gas and water now are. The present system of each man keeping
+up separate fires all over his house is as crude, and extravagant, and
+unnecessary as it would be for every man to make his own gas or have
+his own well for water.
+
+Where a steam furnace is used, two-thirds of the heating surface should
+be put below the floor and fresh air brought into it, and from there
+conducted to the rooms through large pipes. This warmed air should be
+let into the room at the floor, and an opening into an exhaust flue,
+two-thirds the size of the inlet, should be provided at the floor for the
+escape of the foul air. The remaining one-third of the heating surface
+should be exposed in the halls and some in the other parts of the house,
+to heat by direct radiation, but under no circumstances should a room or
+office be occupied _heated exclusively by direct radiation_ from exposed
+steam pipes. It is one of the worst, most unhealthy, _killing systems_
+in existence.
+
+Steam furnaces require the evaporation of an additional amount of moisture
+as well as any other system of heating. According to Dr. Wetheral's
+investigation, it would require the evaporation on some days of nearly
+forty pounds of water every minute in the Senate Chamber to maintain the
+proper hygrometric condition. Probably one of the very best arrangements
+is to have a good steam furnace, with a large fresh air box letting
+in an abundance of air moderately warmed, and overflowing the house
+with this, and some direct radiation in the halls, and a good, bright,
+cheerful open fire in the family sitting-room.
+
+But if you cannot have a steam or hot water furnace, you can make a
+room very comfortable indeed with a stove, if you will but introduce
+all the fresh air required for the room directly against or on top of
+the stove. No stove ought to be put up without having a supply of fresh
+air from the outside, and a large evaporating vessel, kept constantly
+filled with water, with an opening in the heated flue near the floor
+for the escape of the foul air.
+
+In conclusion, allow me to urge upon you to examine your furnace
+this evening or to-morrow morning, and if there is no fresh air box
+communicating with the external atmosphere, go to the nearest carpenter's
+shop before going to your business, and get him to come at the earliest
+possible moment and put in a good large one, and if he asks you where
+you want the damper in the cold air box, tell him you don't want any.
+
+Dampers in cold air boxes are handy things to have in the house, when
+used properly, but, like fire-arms, are very dangerous if you do not
+understand them. Yes, dampers in cold air boxes and other contrivances
+for keeping the fresh air out of houses, have killed more persons than
+all the fire-arms ever made in this country or any other.
+
+If you have no evaporating vessel in the furnace, stop at your furnace
+man's, and tell him to put in two good large evaporating vessels in such
+a position that they will evaporate two or three buckets of water a day
+in cold weather.
+
+And if you have a stove at your office, stop on your way down and buy
+a good large earthen pan to set on the top of the stove, and keep it
+always full of water. Make a pipe for the inlet of fresh air to every
+stove over which you have any control, and never remain in a room one
+day without a good opening at the floor for the escape of foul air.
+
+And from my own experience, and that of many others whom I know to
+have given much attention to this subject, I can assure you, with the
+fullest confidence, that you will be most amply rewarded for your care
+in this respect by increased health, strength and happiness, and by the
+reasonable prospect of a long life.
+
+
+
+
+VENTILATION.
+
+THE GRAND PRIZE AWARDED AT THE PARIS EXHIBITION.
+
+
+Added to the many other gratifying signs of a rapidly increasing interest
+in the all-important subject of the proper supply of pure air to our
+houses, is the awarding of the grand prize of the Paris Exhibition to
+Dr. Evans, for an American sanitary collection.
+
+The Sanitary Commission, during our late war, acted upon the principle
+since expressed by the report of the Board of Health of New York. They
+say: "And viewing only the causes of preventable diseases and their
+fatal results, we unhesitatingly state that the very first sanitary want
+in New York and Brooklyn is VENTILATION--ventilation supplied in all
+existing tenant-houses, work-rooms, school-rooms and places of
+assemblage--and in all that shall hereafter be constructed."
+
+The early recognition during the late war, both by the Sanitary Commission
+and the government officials, of the important fact that many more men are
+killed by breathing foul air than are killed by the enemies' bullets, led
+them to use very active exertions to secure good ventilation in hospitals
+and camps, and to teach the men themselves the value thereof. The result
+has been highly satisfactory. The fact that we must make some positive
+provision for a constant supply of fresh air to every occupied room,
+and not rely on accidental cracks and openings, is now very generally
+felt. The simple, practical and efficient means used by the government
+has done much towards creating this wholesome public opinion.
+
+The annexed plan (excepting a stove and twelve beds, omitted from
+centre of plan, indicated by the space) is a copy of one I furnished
+the Committee; and which was faithfully executed in preparing one of
+the models of hospitals, the arrangements of which have been so highly
+appreciated, and has shared one of the grand prizes at the Paris
+Exhibition.
+
+It is a representative plan, showing the general arrangements of wards
+in a large number of the hospitals.
+
+[Illustration: Fig. 1.]
+
+The special arrangements of flues, V, for winter ventilation, and the
+introduction of the fresh air around the stove, were not introduced into
+the hospitals in Philadelphia, built at the commencement of the war. And
+the subsequent orders of the Surgeon General and Quarter Master General
+for the introduction thereof were protested against by the Surgeons of
+Philadelphia, owing probably partially to their proverbial objection to
+changes of any kind, and partially to that dread of "ventilation" made
+but too popular by the many erroneous theories which propose to introduce
+the fresh air directly into the room, and at times, too, when it is even
+below the freezing point, without first warming it. These arrangements,
+shown in the accompanying plan and section, were thoroughly tested,
+however, in many of the hospitals subsequently built in many of the
+Western cities.
+
+The plan of ridge ventilation, shown in the accompanying section, I
+applied first in St. Louis, in the summer of 1863. It is the principle
+of the Emerson ventilator applied to ridge ventilation. Much trouble
+had been experienced with other forms on account of their allowing the
+storms to beat in, and the difficulty of opening and closing them with
+the various changes of wind; this form fully remedies those objections,
+and can be left open without inconvenience at all times while snowing
+or raining. It uses the force of the wind, whenever there is a current
+passing over the top of the building, for sucking the air out of the ward,
+because the air in passing across the top of the building is deflected
+from the straight line by the angle of the roof-board, which creates a
+partial vacuum in the space below, which, with the friction of the passing
+current with that coming out of the ward, makes an outward draught,
+varying in proportion to the velocity of the external current. This is
+often very useful, especially in summer, when there is not sufficient
+difference between the external air and that in the ward to create a
+current. There is often a considerable force in the passing current at
+the top of the building when there is much less below.
+
+[Illustration: Fig. 2.]
+
+But of course these openings had to be closed in winter to prevent all
+the heat from escaping. It then became necessary in wards that had no
+fireplaces, to make something as substitutes therefor. Wooden shafts or
+flues were made to answer this purpose.
+
+I at first made large wooden boxes, placing them in the centre of the
+wards, and allowing them to extend down to within twelve or eighteen
+inches of the floor. This was of great advantage, but as the true principle
+of ventilation is to have an opening for the exit of the contaminated
+air at the feet of each occupant of a room, or at the head of the bed
+of each patient in a hospital, it was soon observed that these shafts
+were too few and far between to make a very perfect arrangement.
+
+The necessity for providing for the escape of the foul air from the
+level of the floor in winter, so as to utilize the heat, was, after
+much opposition, finally established and officially acknowledged by the
+government officers. Then arrangements were made for its introduction
+into the government hospitals in a more perfect manner.
+
+I believe in no case, however, was it so fully carried out as to place
+a ventilating flue between each bed, but in some they were arranged, as
+shown (marked V) in the accompanying plans between every other two beds.
+
+These flues were carried together and extended through the ridge of the
+roof and capped as an Emerson ventilator; the opening into the large
+flue, extending to just below the ceiling, was closed in winter at all
+times, excepting when the room was too warm. This was for the exhaust,
+but of no less importance was the supply.
+
+The popular dread of ventilation arises in a great measure from the
+supposition that good ventilation implies a strong draught of cold air
+upon your back or feet or some other unfortunately exposed place. Such an
+unfortunate occurrence must be fully remedied in any system of ventilation
+before it can become popular.
+
+As the simplest way of getting at this, all the fresh air required to
+supply the partial vacuum created by the exhausting shafts was brought in
+around the stoves, and partially warmed before entering. At the first the
+stoves were entirely encased, and the fresh air allowed to encircle them
+completely, but experience soon demonstrated the desirableness of having a
+portion of the hot stove exposed for direct radiation, so that the feeble
+and chilly ones might come near to it and warm themselves. There should
+always be a considerable amount of direct radiation in every hospital;
+that from an open fire is the best, but that from a stove or steam-pipe
+is very good.
+
+Arrangements were also made for the evaporation of a large amount of
+water.
+
+As the first winter approached after the commencement of the war, the
+idea seemed almost shocking to me of putting the sick and wounded men
+in such open barracks, generally without plastering, and made, as many
+of them were, with rough boards and very open.
+
+But experience soon taught me the very great superiority of these light
+and airy buildings over many of the elaborately finished, dark, air-tight
+structures, such as hotels, colleges, new-fashioned asylums, &c., which
+the government was compelled to take for hospital purposes.
+
+In fact, when completed with the ventilation as above described, with the
+abundant sunlight on both sides, without any obstructing partitions and
+abundantly warmed in winter, and with the proper supply of moisture, they
+made undoubtedly the most comfortable and wholesome class of buildings,
+as a whole, that have ever been erected for hospital purposes, not
+excepting even many of the recent elaborately finished buildings, where
+not unfrequently too much dependence has been placed on the very meagre
+and insufficient effect produced by attempts at artificial ventilation,
+instead of relying more upon the great natural means of ventilation--an
+abundance of large open windows, open fires and good ventilating stoves.
+
+The ventilation of the latrines or water-closets of a hospital, as well
+as any other place, is a matter of great importance.
+
+In the spring of 1863, I had put up in a hospital in Washington a
+ventilating shaft for the latrine room, similar to the one shown on the
+plans. This was an experiment, but it proved so satisfactory that it
+was subsequently ordered to be applied in all the principal hospitals.
+
+The difficulty in the isolated wards was, that it required a separate
+fire in each shaft in the summer. Where it is possible to get it near
+the kitchen or bake-oven fire, that answers a splendid purpose; but
+in the single wards it is not necessary to keep up a constant fire; a
+few sticks of wood every morning answer the purpose of keeping the air
+in the shaft warmer than the surrounding atmosphere, which, of course,
+creates the proper draught.
+
+These shafts were made very large--never less than thirty inches square
+and sometimes three feet by six feet. The popular plan of opening the
+water-closet windows and allowing much of the fresh air to enter the
+building that way was strenuously avoided; the windows in the closet were
+fastened shut, and then the air to supply this large exhaust shaft was
+drawn from the adjoining ward or room, which ventilated that ward and
+prevented any unpleasant odor from the closets returning into the ward.
+
+Wherever it was possible, a sheet iron or cast iron pipe was carried up
+into the centre of this shaft from the kitchen, laundry, bakery or any
+other constant fire, and where no heat from a permanent fire or from a
+steam coil could be obtained, a small stove for the purpose was provided.
+
+                                                        LEWIS W. LEEDS,
+                                                      _Germantown, Pa._
+
+7th mo. 26th, 1867.
+
+
+
+
+_The subjoined are a few of the Letters received from prominent
+Sanitarians and others._
+
+
+                                Office of the Superintendent of Health,
+                                            Providence, August 5, 1867.
+
+    Friend Leeds.
+
+    Your Lectures on Ventilation have been received. I am much
+    interested in them, and think the views given are correct. I
+    hope they will be widely circulated. Too much cannot be said to
+    the people upon the subject.
+
+    Ventilation is all-important. Indeed, I think that if the air
+    could be constantly kept in motion, the worst sources of impure
+    air in our cities would be rendered almost free from danger.
+
+    In seasons of epidemic cholera, the most oppressive feature of
+    danger is the stagnation which exists in the atmosphere. There
+    was good sense and true philosophy in the old custom of burning
+    bonfires to keep off disease. I must close, wishing you much
+    success in your efforts to awaken the people to the importance
+    of this subject.
+
+    Truly yours,
+
+                                                  EDWIN M. SNOW, M. D.,
+                                              Superintendent of Health.
+
+       *       *       *       *       *
+
+
+                                        Bangor, Maine, August 23, 1867.
+
+    My Dear Leeds.
+
+
+    Your pamphlet was duly received. I have read it with much interest,
+    and believe it to be worthy of extended circulation. It is the
+    clearest paper on the subject I have yet read.
+
+                                   Yours, in haste, A. C. HAMLIN, M. D.
+
+       *       *       *       *       *
+
+
+                            64 Madison Avenue, New York, Aug. 23, 1867.
+
+    My Dear Friend.
+
+    I have just read your Lectures on "Ventilation," and I am very
+    much obliged to you for the entertainment and instruction they
+    have given me. You have very happily hit upon a style which is
+    neither flippant nor dry. I am sure the lectures will be read,
+    and if read, they will do a great deal of good.
+
+    I have all my life been talking and writing in this direction,
+    imploring the people to take less medicine and more pure air;
+    and I feel truly grateful for the help your strong shoulders have
+    given me in what has thus far proved to be a labor of Hercules.
+
+    Your particular method of ventilating buildings I had many
+    opportunities of proving while I was Medical Inspector
+    U. S. A., and I assure you that no plan was ever more simple
+    and inexpensive--none could have been more effective. Indeed,
+    I may say that I never knew it to fail.
+
+    To you, therefore, I fully believe the country is indebted for
+    the lives of many thousands of men.
+
+    With sentiments of esteem,
+                       I remain yours truly,
+
+                                              FRANK H. HAMILTON, M. D.,
+           Prof. Principles of Surgery, Military Surgery, Hygiene, &c.,
+                               Bellevue Hospital Medical College, N. Y.
+              Author of Work on Fractures and Dislocations, Treatise on
+                                                  Military Surgery, &c.
+
+    L. W. LEEDS, Esq.
+
+       *       *       *       *       *
+
+
+                            Office of the Metropolitan Board of Health,
+                                                   No. 301 Mott Street,
+                                           New York, August 26th, 1867.
+
+    Friend Leeds.
+
+    Your Lectures on Ventilation have given me much pleasure, and
+    have renewed my confidence in the utility of popular instruction
+    upon the subject. I heartily thank you for the thoughtful care
+    with which you have set forth all the essential principles of
+    ventilation, in language so free from technical words, and so full
+    of plain and homely illustration, that even an uneducated reader
+    can fully understand all you have written. The good Dr. D. Boswell
+    Reid, Dr. Wyman and myself had each attempted to use such a style
+    of explanation and instruction; but you have far excelled us all.
+
+    The first want of every living being is fresh air, and unless the
+    human lungs are supplied with such air constantly at the rate of
+    from ten to thirty cubic feet every minute, by night as well as
+    by day, perfect health and vigor cannot be preserved. Then, too,
+    there are exhaled from the surface of the body and from the lungs,
+    such quantities of waste organic matter, which tend to immediate
+    putridity, that it, together with the carbonic acid, would keep
+    the human body immersed in a deadly vapor of these exhalations,
+    were not fresh air supplied. The illustrations by which you have
+    made these truths easily understood, are admirably given in your
+    lectures, and the method, by which you would best insure success
+    in removing the foul and supplying the pure fresh air in every
+    place where persons live or sleep, are, as I believe, from my own
+    careful studies of this subject, most correct and trustworthy.
+    Indeed, I am able to say that, in my examinations of the vast
+    number of hospitals and buildings which you ventilated during
+    the late war, under authority from the intelligent and humane
+    Quartermaster-General of the army, the proof of entire success
+    in your work was everywhere witnessed. Simplicity, invariable
+    certainty and a liberal sufficiency characterizes these admirable
+    methods of yours.
+
+    I wish every family in the land had a copy of these lectures.
+
+    Sincerely yours,
+
+                                                  ELISHA HARRIS, M. D.,
+                  Corresponding Secretary Metropolitan Board of Health.
+
+    To LEWIS W. LEEDS, Esq.
+
+       *       *       *       *       *
+
+
+                                       VAUX, WITHERS & Co., Architects,
+                         No. 110 Broadway, New York, August 27th, 1867.
+
+    Dear Mr. Leeds.
+
+    I am glad to receive your Lectures in printed form, and trust
+    that they may be widely read throughout the community.
+
+    Having been in the habit for several years past, of consulting
+    with you professionally in regard to the arrangements to be made
+    for heating and ventilation in plans for public and private
+    buildings, I take this opportunity to acknowledge the value
+    of the aid thus given; and as I feel assured, from a lengthened
+    personal experience, that your thorough knowledge of the subject,
+    both theoretically and practically, is calculated to render your
+    assistance particularly valuable in the adjustment of complex
+    and intricate plans, I trust that one result of the circulation
+    of your interesting pamphlet may be to introduce you more widely
+    to members of the architectural profession.
+
+    I remain, Dear Mr. Leeds,
+                       Yours faithfully,
+
+                                                          CALVERT VAUX.
+
+    LEWIS W. LEEDS,
+        Heating and Ventilating Engineer.
+
+       *       *       *       *       *
+
+
+                               110 Broadway, New York, Aug. 30th, 1867.
+
+    Mr. LEWIS W. LEEDS was employed early in the war of the rebellion
+    by the Sanitary Commission, as an agent to urge the necessity to
+    the health and strength of the army, of the thorough ventilation
+    of tents and quarters, and to devise and suggest to the proper
+    officers the adoption of the best means for this purpose.
+
+    At a later period of the war, at the suggestion of the Commission,
+    the Quartermaster's Department engaged his services, and gave him
+    large discretionary powers for the ventilation of hospitals. He
+    was thus employed during all of the war, with great advantage,
+    and the improvements which he brought about were unquestionably
+    the means of saving thousands of lives. * * * *
+
+    Mr. Leeds has a special talent for making improvements in houses of
+    ordinary construction, by means which may be readily adopted, and
+    with materials which may be anywhere procured without difficulty
+    or great expense.
+
+    Mr. Leeds' course of lectures on Ventilation is calculated to
+    supply instructions of great practical utility. An invaluable
+    addition to the health, happiness and wealth of the nation
+    would result, if they could be delivered before every school in
+    the country.
+
+                                                     FRED. LAW OLMSTED,
+                    First General Secretary of the Sanitary Commission.
+
+       *       *       *       *       *
+
+
+                                                   Treasury Department,
+                 Office of the Supervising Architect, Sept. 11th, 1867.
+
+    My Dear Friend.
+
+    Your valuable Lectures on Ventilation have been received, and have
+    been read with much pleasure, more especially as you are about
+    the only person I have ever met, who, after making the ventilation
+    and heating of buildings a specialty, has condescended to follow
+    the laws of nature, and provide the means of adapting them to our
+    artificial modes of life. Your lectures show a thorough study
+    and knowledge of the principles involved, which are, like all
+    natural principles, very simple if once understood. I have also
+    to take this means of acknowledging the valuable aid that I have
+    received from you on many occasions, and to express a hope that
+    you will not despair, but relying on the adage that "truth is
+    mighty" &c., go on with your exposures of the absurdities of the
+    complicated and costly humbugs that are so fashionable at present,
+    and trust you will succeed not only in your missionary labors,
+    but find them pecuniarily profitable.
+
+    Very respectfully,
+
+                                                         A. B. MULLETT,
+                                                 Supervising Architect.
+
+    LEWIS W. LEEDS, Esq.,
+    Engineer Ventilation and Heating,
+    Germantown, Penn'a.
+
+       *       *       *       *       *
+
+
+
+
+FOOTNOTES.
+
+[Footnote 1: I mean merely pecuniarily--in dollars and cents;--the cost
+in physical pain and mental anxiety, of course, cannot by computed in
+dollars and cents.]
+
+[Footnote 2: In addition to which there appeared to be a deficiency in
+the arrangements for ventilation.]
+
+
+
+
+
+
+End of Project Gutenberg's Lectures on Ventilation, by Lewis W. Leeds
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LECTURES ON VENTILATION ***
+
+***** This file should be named 36936.txt or 36936.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/6/9/3/36936/
+
+Produced by Chris Curnow, David Garcia and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
