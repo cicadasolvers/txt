@@ -1,0 +1,2802 @@
+The Project Gutenberg EBook of Studies in Central American Picture-Writing, by
+Edward S. Holden
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Studies in Central American Picture-Writing
+       First Annual Report of the Bureau of Ethnology to the
+       Secretary of the Smithsonian Institution, 1879-80,
+       Government Printing Office, Washington, 1881, pages 205-245
+
+Author: Edward S. Holden
+
+Release Date: November 20, 2007 [EBook #23562]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK CENTRAL AMERICAN PICTURE-WRITING ***
+
+
+
+
+Produced by PM for Bureau of American Ethnology, Julia
+Miller, and the Online Distributed Proofreading Team at
+http://www.pgdp.net (This file was produced from images
+generously made available by the Bibliotheque nationale
+de France (BnF/Gallica) at http://gallica.bnf.fr)
+
+
+
+
+
+Transcriber's Note:
+
+This book was originally published as a part of:
+
+  Powell, J. W.
+  1881  _First Annual Report of the Bureau of Ethnology to the
+        Secretary of the Smithsonian Institution, 1879-'80._ pp.
+        205-245. Government Printing Office, Washington, D.C.
+
+The table of contents and index included in this version of the book was
+extracted from the complete volume.
+
+A number of typographical errors found in the original text have been
+maintained in this version. They are marked in the text with a [TN-#].
+A description of each error is found in the complete list at the end of
+the text. Original spelling has been maintained. A list of inconsistently
+spelled words is found at the end of the text.
+
+
+
+
+
+     SMITHSONIAN INSTITUTION--BUREAU OF ETHNOLOGY.
+                J. W. POWELL, DIRECTOR.
+
+
+                        STUDIES
+                          IN
+           CENTRAL AMERICAN PICTURE-WRITING.
+
+
+                          BY
+
+                   EDWARD S. HOLDEN,
+  PROFESSOR OF MATHEMATICS, U. S. NAVAL OBSERVATORY.
+
+
+
+
+TABLE OF CONTENTS
+
+
+List of illustrations                                              206
+Introductory                                                       207
+Materials for the present investigation                            210
+System of nomenclature                                             211
+In what order are the hieroglyphs read?                            221
+The card catalogue of hieroglyphs                                  223
+Comparison of plates I and IV (Copan)                              224
+Are the hieroglyphs of Copan and Palenque identical?               227
+Huitzilopochtli, Mexican god of war, etc.                          229
+Tlaloc, or his Maya representative                                 237
+Cukulean or Quetzalcoatl                                           239
+Comparison of the signs of the Maya months                         243
+
+
+
+
+LIST OF ILLUSTRATIONS
+
+  Figure 48.--The Palenquean Group of the Cross                    221
+         49.--Statue at Copan                                      224
+         50.--Statue at Copan                                      225
+         51.--Synonymous Hieroglyphs from Copan and Palenque       227
+         52.--Yucatec Stone                                        229
+         53.--Huitzilopochtli (front)                              232
+         54.--Huitzilopochtli (side)                               232
+         55.--Huitzilopochtli (back)                               232
+         56.--Miclantecutli                                        232
+         57.--Adoratorio                                           233
+         58.--The Maya War-God                                     234
+         59.--The Maya Rain-God                                    234
+         60.--Tablet at Palenque                                   234
+
+
+
+
+STUDIES IN CENTRAL AMERICAN PICTURE-WRITING.
+
+BY EDWARD S. HOLDEN.
+
+
+I.
+
+Since 1876 I have been familiar with the works of Mr. JOHN L. STEPHENS
+on the antiquities of Yucatan, and from time to time I have read works
+on kindred subjects with ever increasing interest and curiosity in
+regard to the meaning of the hieroglyphic inscriptions on the stones and
+tablets of Copan, Palenque, and other ruins of Central America. In
+August, 1880, I determined to see how far the principles which are
+successful when applied to ordinary cipher-writing would carry one in
+the inscriptions of Yucatan. The difference between an ordinary
+cipher-message and these inscriptions is not so marked as might at first
+sight appear. The underlying principles of deciphering are quite the
+same in the two cases.
+
+The chief difficulty in the Yucatec inscriptions is our lack of any
+definite knowledge of the nature of the records of the aborigines. The
+patient researches of our archaeologists have recovered but very little
+of their manners and habits, and one has constantly to avoid the
+tempting suggestions of an imagination which has been formed by modern
+influences, and to endeavor to keep free from every suggestion not
+inherent in the stones themselves. I say the stones, for I have only
+used the Maya manuscripts incidentally. They do not possess, to me, the
+same interest, and I think it may certainly be said that all of them are
+younger than the Palenque tablets, and far younger than the inscriptions
+at Copan.
+
+I therefore determined to apply the ordinary principles of deciphering,
+without any bias, to the Yucatec inscriptions, and to go as far as I
+could _certainly_. Arrived at the point where demonstration ceased, it
+would be my duty to stop. For, while even the conjectures of a mind
+perfectly trained in archaeologic research are valuable and may
+subsequently prove to be quite right, my lack of familiarity with
+historical works forced me to keep within narrow and safe limits.
+
+My programme at beginning was, _first_, to see if the inscriptions at
+Copan and Palenque were written in the same tongue. When I say "to see,"
+I mean to definitely prove the fact, and so in other cases; _second_, to
+see how the tablets were to be read. That is, in horizontal lines, are
+they to be read from right to left, or the reverse? In vertical columns,
+are they to be read up or down? _Third_, to see whether they were
+phonetic characters, or merely ideographic, or a mixture of the
+two--rebus-like, in fact.
+
+If the characters turned out to be purely phonetic, I had determined to
+stop at this point, since I had not the time to learn the Maya language,
+and again because I utterly and totally distrusted the methods which, up
+to this time, have been applied by BRASSEUR DE BOURBOURG and others who
+start, and must start, from the misleading and unlucky alphabet handed
+down by LANDA. I believe that legacy to have been a positive misfortune,
+and I believe any process of the kind attempted by BRASSEUR DE BOURBOURG
+(for example, in his essay on the _MS. Troano_) to be extremely
+dangerous and difficult in application, and to require a degree of
+scientific caution almost unique.
+
+Dr. HARRISON ALLEN, in his paper, "The Life Form in Art," in the
+_Transactions of the American Philosophical Society_, is the only
+investigator who has applied this method to Central American remains
+with success, so it seems to me; and even here errors have occurred.
+
+The process I allude to is something like the following: A set of
+characters, say the alphabet of LANDA, is taken as a starting point. The
+_variants_ of these are formed. Then the basis of the investigation is
+ready. From this, the interpretation follows by identifications of each
+new character with one of the standard set or with one of its
+_variants_. Theoretically, there is no objection to this procedure.
+Practically, also, there is no objection if the work is done strictly in
+the order named. In fact, however, the list of _variants_ is filled out
+not before the work is begun, but during its progress, and in such a way
+as to satisfy the necessities of the interpreter in carrying out some
+preconceived idea. With a sufficient latitude in the choice of
+_variants_ any MS. can receive any interpretation. For example, the _MS.
+Troano_, which a casual examination leads me to think is a _ritual_, and
+an account of the adventures of several Maya gods, is interpreted by
+BRASSEUR DE BOURBOURG as a record of mighty geologic changes. It is next
+to impossible to avoid errors of this nature at least, and in fact they
+have not been avoided, so far as I know, except by Dr. ALLEN in the
+paper cited.
+
+I, personally, have chosen the stones and not the manuscripts for study
+largely because _variants_ do not exist in the same liberal degree in
+the stone inscriptions as they have been supposed to exist in the
+manuscripts.
+
+At any one ruin the characters for the same idea are alike, and alike to
+a marvelous degree. At another ruin the type is just a little different,
+but the fidelity to this type is equally great. Synonyms exist; that is,
+the same idea may be given by two or more utterly different signs. But a
+given sign is made in a fixed and definite way. Finally the MSS. are, I
+think, later than the stones. Hence the root of the matter is the
+interpretation of the stones, or not so much their full interpretation
+as the discovery of a _method of interpretation_, which shall be sure.
+
+Suppose, for example, that we know the meaning of a dozen characters
+only, and the way a half dozen of these are joined together in a
+sentence. The _method_ by which these were obtained will serve to add
+others to the list, and progress depends in such a case only on our
+knowledge of the people who wrote, and of the subjects upon which they
+were writing. Such knowledge and erudition belongs to the archaeologists
+by profession. A step that might take me a year to accomplish might be
+made in an instant by one to whom the Maya and Aztec mythology was
+familiar, if he were proceeding according to a sound method. At the
+present time we know nothing of the meaning of any of the Maya
+hieroglyphs.
+
+It will, therefore, be my object to go as far in the subject as I can
+proceed with certainty, every step being demonstrated so that not only
+the archaeologist but any intelligent person can follow. As soon as the
+border-land is reached in which proof disappears and opinion is the only
+guide, the search must be abandoned except by those whose cultivated and
+scientific opinions are based on knowledge far more profound and various
+than I can pretend or hope to have.
+
+If I do not here push my own conclusions to their farthest limit, it
+must not be assumed that I do not see, at least in some cases, the
+direction in which they lead. Rather, let this reticence be ascribed to
+a desire to lay the foundations of a new structure firmly, to prescribe
+the method of building which my experience has shown to be adequate and
+necessary, and to leave to those abler than myself the erection of the
+superstructure. If my methods and conclusions are correct (and I have no
+doubts on this point, since each one has been reached in various ways
+and tested by a multiplicity of criteria) there is a great future to
+these researches. It is not to be forgotten that here we have no Rosetta
+stone to act at once as key and criterion, and that instead of the
+accurate descriptions of the Egyptian hieroglyphics which were handed
+down by the Greek cotemporaries[TN-1] of the sculptors of these
+inscriptions, we have only the crude and brutal chronicles of an
+ignorant Spanish soldiery, or the bigoted accounts of an unenlightened
+priesthood. To CORTEZ and his companions a memorandum that it took one
+hundred men all day to throw the idols into the sea was all-sufficient.
+To the Spanish priests the burning of all manuscripts was praiseworthy,
+since those differing from Holy Writ were noxious and those agreeing
+with it superfluous. It is only to the patient labor of the Maya
+sculptor who daily carved the symbols of his belief and creed upon
+enduring stone, and to the luxuriant growths of semi-tropical forests
+which concealed even these from the passing Spanish adventurer, that we
+owe the preservation of the memorials of past beliefs and vanished
+histories.
+
+Not the least of the pleasures of such researches as these comes from
+the recollection that they vindicate the patience and skill of forgotten
+men, and make their efforts not quite useless. It was no rude savage
+that carved the Palenque cross; and if we can discover what his efforts
+meant, his labor and his learning have not been all in vain. It will be
+one more proof that human effort, even misdirected, is not lost, but
+that it comes, later or earlier, "to forward the general deed of man."
+
+
+
+
+II.
+
+MATERIALS FOR THE PRESENT INVESTIGATION.
+
+
+My examination of the works of Mr. J. L. STEPHENS has convinced me that
+in every respect his is the most trustworthy work on the _hieroglyphs_
+of Central America. The intrinsic evidence to this effect is very
+strong, but when I first became familiar with the works of WALDECK I
+found so many points of difference that my faith was for a time shaken,
+and I came to the conclusion that while the existing representations
+might suffice for the study of the general forms of statues, tablets,
+and buildings, yet they were not sufficiently accurate in detail to
+serve as a basis for the deciphering I had in mind. I am happy to bear
+witness, however, that STEPHENS'S work is undoubtedly amply adequate to
+the purpose, and this fact I have laboriously verified by a comparison
+of it with various representations, as those of DESAIX and others, and
+also with a few photographs. The drawings of WALDECK are very beautiful
+and artistic, but either the artist himself or his lithographers have
+taken singular liberties in the published designs. STEPHENS'S work is
+not only accurate, but it contains sufficient material for my purpose
+(over 1,500 separate hieroglyphs), and, therefore, I have based my study
+exclusively upon his earliest work, "_Incidents of Travel in Central
+America, Chiapas, and Yucatan_," 2 vols., 8vo. New York, 1842 (twelfth
+edition). I have incidentally consulted the works on the subject
+contained in the Library of Congress, particularly those of BRASSEUR DE
+BOURBOURG, KINGSBOROUGH, WALDECK, and others, but, as I have said, the
+two volumes above named contain all the the[TN-2] material I have been
+able to utilize, and much more which is still under examination.
+
+       *       *       *       *       *
+
+One fact which makes the examination of the Central American antiquities
+easier than it otherwise would be, has not, I think, been sufficiently
+dwelt upon by former writers. This is the remarkable faithfulness of the
+artists and sculptors of these statues and inscriptions to a standard.
+Thus, at Copan, wherever the same kind of hieroglyph is to be
+represented, it will be found that the human face or other object
+employed is almost identically the same in expression and character,
+wherever it is found. The same characters at different parts of a tablet
+do not differ more than the same letters of the alphabet in two fonts of
+type.
+
+At Palenque the _type_ (font) changes, but the adherence to this is
+equally or almost equally rigid. It is to be presumed that in this
+latter case, where work was done both in stone and stucco, the nature
+of the material affected the portraiture more or less.
+
+The stone statues at Copan, for example, could not all have been done by
+the same artist, nor at the same time. I have elsewhere shown that two
+of these statues are absolutely identical. How was this accomplished?
+Was one stone taken to the foot of the other and cut by it as a pattern?
+This is unlikely, especially as in the case mentioned the _scale_ of the
+two statues is quite different. I think it far more likely that each was
+cut from a drawing, or series of drawings, which must have been
+preserved by priestly authority. The work at any one place must have
+required many years, and could not have been done by a single man; nor
+is it probable that it was all done in one generation. Separate
+hieroglyphs must have been preserved in the same way. It is this rigid
+adherence to a type, and the banishment of artistic fancy, which will
+allow of progress in the deciphering of the inscriptions or the
+comparison of the statues. Line after line, ornament after ornament, is
+repeated with utter fidelity. The reason of this is not far to seek.
+This, however, is not the place to explain it, but rather to take
+advantage of the fact itself. We may fairly say that were it not so, and
+with our present data, all advances would be tenfold more difficult.
+
+
+
+
+III.
+
+SYSTEM OF NOMENCLATURE.
+
+
+It is impossible without a special and expensive font of type to refer
+pictorially to each character, and therefore some system of nomenclature
+must be adopted. The one I employ I could now slightly improve, but it
+has been used and results have been obtained by it. It is sufficient for
+the purpose, and I will, therefore, retain it rather than to run the
+risk of errors by changing it to a more perfect system. I have numbered
+the plates in STEPHENS'S _Central America_ according to the following
+scheme:
+
+ENGRAVINGS OF VOLUME I.
+
+                                                              Page.
+  Stone Statue, front view, I have called Plate I    _Frontispiece._
+  Wall of Copan, Plate II                                        96
+  Plan of Copan, Plate III                                      133
+  Death's Head, Plate III^a                                     135
+  Portrait, Plate III^b                                         136
+  Stone Idol, Plate IV                                          138
+  Portrait, Plate IV^a                                          139
+  Stone Idol, Plate V                                           140
+  Tablet of Hieroglyphics, Plate V^a                            141
+  No. 1, Sides of Altar, Plate VI                               142
+  No. 2, Sides of Altar, Plate VII                              142
+  Gigantic Head, Plate VIII                                     143
+  No. 1, Stone Idol, front view, Plate IX                       149
+  No. 2, Stone Idol, back view, Plate X                         150
+  Idol half buried, Plate XI                                    151
+  No. 1, Idol, Plate XII                                        152
+  No. 2, Idol, Plate XIII                                       152
+  No. 1, Idol, Plate XIV                                        153
+  No. 2, Idol, Plate XV                                         153
+  Idol and Altar, Plate XVI                                     154
+  Fallen Idol, Plate XVII                                       155
+  No. 1, Idol, front view, Plate XVIII                          156
+  No. 2, Idol, back view, Plate XIX                             156
+  No. 3, Idol, side view, Plate XX                              156
+  Fallen Idol, Plate XX^a                                       157
+  Circular Altar, Plate XX^b                                    157
+  No. 1, Stone Idol, front view, Plate XXI                      158
+  No. 2, Stone Idol, back view, Plate XXII                      158
+  No. 3, Stone Idol, side view, Plate XXIII                     158
+  Great Square of Antigua Guatimala, Plate XXIII^a              266
+  Profile of Nicaragua Canal, Plate XXIII^b                     412
+
+  ENGRAVINGS OF VOLUME II.
+                                                              Page.
+  Stone Tablet, Plate XXIV                           _Frontispiece._
+  Idol at Quirigua, Plate XXV                                   121
+  Idol at Quirigua, Plate XXVI                                  122
+  Santa Cruz del Quiche, Plate XXVII                            171
+  Place of Sacrifice, Plate XXVIII                              184
+  Figures found at Santa Cruz del Quiche, Plate XXIX            185
+  Plaza of Quezaltenango, Plate XXX                             204
+  Vases found at Gueguetenango, Plate XXXI                      231
+  Ocosingo, Plate XXXII                                         259
+  Palace at Palenque, Plate XXXIII                              309
+  Plan of Palace, Plate XXXIV                                   310
+  Stucco Figure on Pier, Plate XXXV                             311
+  Front Corridor of Palace, Plate XXXVI                         313
+  No. 1, Court-yard of Palace, Plate XXXVIII                    314
+  No. 2, Colossal Bas-reliefs in Stone, Plate XXXIX             314
+  East side of Court-yard, Plate XXXVII                         314
+  No. 1, Bas-relief in Stucco, Plate XL                         316
+  No. 2, Bas-relief in Stucco, Plate XLI                        316
+  No. 3, Bas-relief in Stucco, Plate XLII                       316
+  Oval Bas-relief in Stone, Plate XLIII                         318
+  Bas-relief in Stucco, Plate XLIV                              319
+  General Plan of Palenque, Plate XLV                           337
+  Casa No. 1 in Ruins, Plate XLVI                               338
+  Casa No. 1 restored, Plate XLVII                              339
+  No. 1, Bas-relief in Stucco, Plate XLVIII                     340
+  No. 2, Bas-relief in Stucco, Plate XLIX                       340
+  No. 3, Bas-relief in Stucco, Plate L                          340
+  No. 4, Bas-relief in Stucco, Plate LI                         340
+  No. 1, Tablet of Hieroglyphics, Plate LII                     342
+  No. 2, Tablet of Hieroglyphics, Plate LIII                    342
+  Tablet on inner Wall, Plate LIV                               343
+  Casa di Piedras, No. 2, Plate LV                              344
+  Tablet on back Wall of Altar, Casa No. 2, Plate LVI           345
+  Stone Statue, Plate LVII                                      349
+  Casa No. 3, Plate LVIII                                       350
+  Front Corridor, Plate LIX                                     351
+  No. 1, Bas-reliefs in Front of Altar, Plate LX                353
+  No. 2, Bas-reliefs in Front of Altar, Plate LXI               353
+  Adoratorio or Altar, Plate LXII                               354
+  Casa No. 4, Plate LXIII                                       355
+  House of the Dwarf, Plate LXIV                                420
+  Casa del Gobernador, Plate LXV                                428
+  Sculptured Front of Casa del Gobernador, Plate LXVI           443
+  Egyptian Hieroglyphics, Plate LXVIII                          441
+  Top of Altar at Copan, Plate LXVIII=V^a                       454
+  Mexican Hieroglyphical Writing, Plate LXIX                    454
+
+In each plate I have numbered the hieroglyphs, giving each one its own
+number. Thus the hieroglyphs of the Copan altar (vol. i, p. 141) which I
+have called plate V^a, are numbered from 1 to 36 according to this
+scheme--
+
+   1   2   3   4   5   6
+   7   8   9  10  11  12
+  13  14  15  16  17  18
+  19  20  21  22  23  24
+  25  26  27  28  29  30
+  31  32  33  34  35  36
+
+And the right hand side of the Palenque Cross tablet, as given by RAU in
+his memoir published by the Smithsonian Institution (1880), has the
+numbers--
+
+  2020  2021  2022  2023  2024  2025
+  2030  2031  2032  2033  2034  2035
+  2040  2041  2042  2043  2044  2045
+  2050  2051  2052  2053  2054  2055
+    *     *     *     *     *     *
+    *     *     *     *     *     *
+  3080  3081  3082  3083  3084  3085
+
+These are consecutive with the numbers which I have attached to the
+left-hand side, as given by STEPHENS. Whenever I have stated any results
+here, I have also given the means by which any one can number a copy of
+STEPHENS'S work in the way which I have adopted, and thus the means of
+testing my conclusions is in the hands of every one who desires to do
+so.
+
+In cases where only a _part_ of a hieroglyphic is referred to, I have
+placed its number in a parenthesis, as 1826 _see_ (122), by which I mean
+that the character 1826 is to be compared with a part of the character
+122. The advantages of this system are many: for example; a memorandum
+can easily be taken that two hieroglyphs are alike, thus 2072=2020 and
+2073=2021. Hence the _pair_ 2020--2021, read horizontally, occurs again
+at the point 2072--2073, etc. _Horizontal pairs_ will be known by their
+numbers being consecutive, as 2020--2021; _vertical pairs_ will usually
+be known by their numbers differing by 10. Thus, 2075--2085 are one
+above the other.
+
+This method of naming the _chiffres_, then, is a quick and safe one, and
+we shall see that it lends itself to the uses required of it.
+
+I add here the scheme according to which the principal plates at
+Palenque have been numbered.
+
+
+PLATE XXIV (left-hand side).
+
+    v----------v
+  { 37        37       38      39   94   96    98    100   102   104   106
+  {_See_     _See_    _See_
+  { 1800      1800     1806
+  {
+  { 40        40       41      42   95   97  99=127  101   103   105   107
+
+   43=1810  43^a=46^a  44      45                                      108
+                                                                      _See_
+                                                                       91
+
+   46=1810  46^a=43^a  47      48
+
+    49                 50      51
+
+                                                 In the middle of the
+    52     52^a=1820?  53      54                  plate at the top.
+                                                     v----------v
+    55      56=1840?   57      58                    109      115
+                      _See_
+                       1802
+
+    59        60       61     62=58?                 110      116
+                                                    _See_
+                                                     2020
+
+    63        64       65[+]   66                    111      117
+                              _See_
+                               2025
+
+    67        68       69      70                    112      118
+   _See_
+    1911
+
+    71      72=281     73      74                    113      119
+   _See_
+    2020
+
+    75      76=67      77      78                    114      120
+
+    79        80       81      82
+
+    83        84       85     86=56?
+
+    86[*]     86[*]    87      88
+
+    89        90       91      92
+
+    93
+
+  [*] Accidental error in numbering here.
+
+  [+] Possibly Muluc--a Maya day; the meaning is "reunion."
+
+
+PLATE XXIV (right-hand side).
+
+                                   v-------------------v
+    121          122=86?[+]        123=87         124=88
+   _See_ 74,                                      _See_ 61, 1822
+    86[*]
+
+    125           126[++]          127=99          128
+                 _See_ 1940        _See_ 1940     _See_ (44), 64
+
+    129           130              131=147         132
+                                                  _See_ 50, 58, 62
+
+    133           134               135           136=47?
+
+    137           138               139            140
+                 _See_ 39,         _See_ 1811
+                  91
+
+    141           142[Sec.]            143            144
+                 _See_ 54                         _See_ 50, 58,
+                                                   62, 132
+
+    145           146              147=131         148
+                                   _See_ 71
+
+    149           150               151            152
+                 _See_ 56,
+                  1882
+
+    153           154               155            156
+                 _See_ 53          _See_ 50,
+                                    58, 132
+
+    157[*]        158               159            160
+                 _See_ 68          _See_ 38       _See_ 46^a,
+                                                   49^a, 52^a
+
+                  v------------------------------------------v
+   161=50         162           [+]163=1936        164
+   _See_ 58,     _See_ 56,         _See_ 57       _See_ 58, 62
+    62, 132       73, 1882
+
+    165           166               167            168
+                 _See_ 81?
+
+    169           170               171            172
+   _See_ 68?
+
+    173           174               175            176
+                 _See_ 67, 76,     _See_ 57       _See_ 126
+                  90, 1910
+
+    177           178               179            180
+                 _See_ 43^a                       _See_ 50, 58, 62
+
+    181           182               183            184
+                 _See_ 57,
+                  163, 1936
+
+                                                   185
+
+  [*] Possibly Ymix--a Maya day.
+
+  [+] Possibly Chuen--a Maya day; meaning "a board," "a tree."
+
+  [++] Possibly Ahau--a Maya day; meaning "king."
+
+  [Sec.] Possibly Ezanab--a Maya day.
+
+
+PLATE LII.
+
+   200    201   202      203    204    205   206    207  208  209    }
+                                                                     }
+   210    211   212             214    215   216    217  218  219    } Line 1.
+                                                             _See_   }
+                                                              2020   }
+
+   220    221   222      223  224=2060 225   226    227  228  229    }
+  _See_        _See_                                         _See_   }
+   2030         2060                                          1811-2 }
+                                                                     } Line 2.
+   230    231   232             234    235   236    237  238  239    }
+  _See_                                                              }
+   1822                                                              }
+
+   240    241 242=2020 243=1951 244    245   246    247  248  249    }
+                                                                     }
+   250    251   252             254    255   256    257  258 259=1943} Line 3.
+               _See_                                                 }
+                214                                                  }
+
+                              v-----------------v
+   260    261   262      263    264    265   266    267  268  269    }
+                               _See_  _See_ _See_                    }
+                                2020   2021  2022                    }
+                                                                     } Line 4.
+   270    271                 274=244  275   276    277  278  279    }
+                                                        _See_        }
+                                                         204         }
+
+   280   281=72 282      283    284    285   286    287  288         }
+  _See_                                     _See_                    }
+   1820                                      385                     } Line 5.
+                                                                     }
+   290                          294    295   296    297  298  299    }
+
+   300    301   302    303=360  304    305   306    307              }
+  _See_                                                              }
+   203                                                               } Line 6.
+                                                                     }
+   310    311                   314    315   316    317  318  319    }
+
+                         v-----------v
+   320    321   322      323  324=1824 325   326    327  328  329    }
+                        _See_  _See_  _See_ _See_                    }
+                         203    204    285   305                     }
+                                                                     } Line 7.
+   330    331   332             334    335   336    337  338  339    }
+               _See_                                                 }
+                209                                                  }
+
+   340    341   342      343    344    345   346    347  348  349    }
+               _See_           _See_                                 }
+                209             322                                  }
+                                                                     } Line 8.
+   350    351   352             354    355 356=1822 357  358  359    }
+                               _See_        _See_                    }
+                                267,         230                     }
+                                298                                  }
+
+  360=303 361   362      363    364    365   366    367  368  369    }
+                                            _See_  _See_             }
+                                             351    303,             } Line 9.
+                                                    360              }
+                                                                     }
+   370    371                          375   376    377  378  379    }
+
+   380    381   382      383    384    385   386    387  388  389    }
+                                      _See_                          }
+                                       286,                          } Line 10.
+                                       1822                          }
+                                                                     }
+   390    391   392             394    395   396    397  398  399    }
+
+   400    401   402    403=360  404    405   406    407  408  409    }
+               _See_       367                     _See_             }
+                326                                 360              }
+                                                                     } Line 11.
+   410    411   412             414    415   416    417  418  419    }
+  _See_                                     _See_                    }
+   326                                       324                     }
+
+   420    421   422      423    424    425   426    427              }
+                                            _See_                    }
+                                             324                     } Line 12.
+                                                                     }
+   430          432             434    435   436    437  438  439    }
+
+
+PLATE LIII.
+
+[The upper left-hand square is No. 500, the upper right is 519, the
+lower left-hand is 720, the lower right is 739. All the squares from 500
+to 508, 520 to 528, 530 to 538, etc., up to 720 to 728, are obliterated
+(and their numbers omitted here) except a few.]
+
+            509   510     511     512      513    514   515   516  517  518  519
+                                 _See_                 _See_ _See_
+                                  1967                  509   510
+
+            529   530     531     532      533    534   535   536  537  538  539
+           _See_
+            3012
+
+            549   550     551     552      553    554   555   556  557  558  559
+                                                             _See_
+                                                              162
+
+                  570     571     572      573    574   575   576  577  578  579
+                                          _See_
+                                           1823
+
+            589   590     591     592      593    594   595   596  597  598  599
+
+  604  605  609   610     611     612      613    614   615   616  617  618  619
+                         _See_
+                          571
+
+       628  629   630     631     632      633    634   635   636  637  638  639
+                                                             _See_
+                                                              3054
+
+            649   650     651     652      653    654   655   656  657  658  659
+                                                       _See_
+                                                        150,
+                                                        1882
+
+            669   670   671=324 672=322? 673=323? 674   675   676  677  678  679
+                         _See_                   _See_            _See_
+                          2042                    77               1802
+
+       688  689   690     691     692      693    694   695   696  697  698  699
+
+       708  709   710     711     712    713=1802 714   715   716  717  718  719
+                                                                  _See_
+                                                                   439
+
+            729 730=1845  731     732      733    734   735   736  737  738  739
+                                                                  _See_
+                                                                   2020
+
+
+PLATE LIV.
+
+                                                                                                              v-----------v
+     800     801     802      803       804        805     806    807    808     809       810       811       812     813
+                                                                       _See_                        _See_    _See_   _See_
+                                                                        1882                         26       1940    1941,
+                                                                                                                      3011
+
+     900     901     902      903       904        905     906 907=1003  908     909       910       911       912     913
+                                                                       _See_             _See_
+                                                                        2020              1310
+
+    1000    1001    1002   1003=907    1004       1005    1006   1007   1008    1009      1010      1011      1012    1013
+                                                                               _See_     _See_     _See_
+                                                                                2021      3054      1811-2
+
+                                                v------------v
+    1100    1101  1102=717   1103      1104     1105=2020 1106   1107   1108    1109    1110=1209   1113      1114    1115
+                                      _See_              _See_  _See_  _See_
+                                       1820               2021   1840   1841?
+
+    1200    1201 1202=1110   1203    1204=1008    1205    1206   1207   1208  1209=1110   1210      1211      1212    1213
+                _See_ 3054                               _See_
+                                                          1823
+
+    1300    1301    1302   1303=1910   1304       1305    1306   1307   1308    1309      1310      1311      1312    1313
+                                                                                         _See_
+                                                                                          910
+
+  1400=1823 1401    1402     1403      1404       1405    1406   1407   1408    1409      1410      1411      1412    1413
+
+    1500    1501 1502=1010   1503    1504=717     1505    1506   1507   1508    1509      1510      1511      1512    1513
+                                          1102
+
+                                                                              v-----------------v
+    1600    1601    1602     1603      1604       1605    1606   1607   1608  1609=1304 1610=1305 1611=1010   1612    1613
+
+    1700    1701 1702=1911   1703      1704       1705    1706   1707   1708    1709      1710    1711=1702 1712=1708 1713
+                                                                                                       1911
+
+
+PLATE LVI (left-hand side--Palenque Cross).
+
+          { 1801      1802      1803      1804                      1961  1962  1963  1964  1965
+          {          _See_
+          {           163,
+     1800 {           175
+          {
+          { 1805      1806      1807      1808                                              1966
+          {_See_               _See_
+          { 155                 138
+
+     v---------------------v
+  [*]1810   1811      1812      1813      1814      1815      1816                          1967
+    _See_  _See_     _See_     _See_     _See_
+     150    139,      (1852)    131,      126,
+            179                 146       127,
+                                          176
+
+     1820   1821      1822      1823      1824      1825      1826                          1968
+    _See_            _See_                                   _See_
+     161              124                                     122,
+                                                              160
+
+  1830=1820 1831      1832      1833      1834      1835      1836                          1969
+  _See_ 161          _See_     _See_     _See_     _See_     _See_
+                      123,      121       163       182       123
+                      124
+
+     1840   1841      1842      1843      1844    1845=1822   1846                          1970
+                     _See_     _See_              _See_ 124  _See_
+                      1835      124,                          179
+                                1836
+
+     1850   1851      1852      1853    1854=1806   1855
+                               _See_
+                                122
+
+     1860   1861      1862      1863      1864    1865=2021   1866
+                     _See_                        _See_ 144  _See_
+                      126,                                    136?,
+                      127                                     184?
+
+  1870=1820 1871 1872=1842?   1873=1803   1874      1875      1876
+  _See_ 160,     _See_ 182
+   161
+
+     1880   1881   1882         1883    1884=1834   1885
+                  _See_        _See_    _See_ 163, _See_
+                   150,         124      182        132,
+                   162                              144
+
+     1890   1891   1892         1893    1894=1822   1895
+    _See_  _See_  _See_                 _See_ 124  _See_
+     130,   131?,  132?                             144
+     158    147?
+
+     1900   1901   1902         1903      1904    1905=1803                                 1971
+    _See_                      _See_                                                       _See_
+     146                        157,                                                        1802
+                                182
+
+     1910   1911   1912       1913=1834   1914      1915                                    1972
+    _See_  _See_  _See_            1884
+     174    174    141
+
+                   v---------------v
+     1920   1921   1922         1923      1924      1925                                    1973
+                  _See_        _See_
+                   123          124
+
+     1930   1931 1932=1811-2?   1933      1934    1935=1884         1975                    1974
+                                                  _See_ 182
+
+                                        v-----------------v
+  1940=1862 1941   1942         1943    1944=1922 1945=1923
+    _See_                               _See_ 123 _See_ 124
+     126,
+     127
+
+     1950   1951   1952         1953      1954      1955
+    _See_
+     164
+
+  [*] At and after this place, in vertical columns, 1810-1-2, 1820-1-2,
+1830-1-2, 1840-1-2, and 1860-1-2 may be taken as 2 or 3 symbols. I have
+assumed them to be 3.
+
+
+PLATE LVI (right-hand side--Palenque Cross).
+
+        1980   1981     1982           2020   2021   2022   2023   2024 2025=123
+                                      _See_  _See_                _See_
+                                       131,   144                  163
+                                       147,
+                                       150
+
+                        1983           2030   2031   2032   2033   2034   2035
+                                      _See_  _See_  _See_         _See_
+                                       132    134,   1811,         124
+                                              146,   1812
+                                              149
+
+                                                                   v---------v
+                        1984           2040   2041   2042 2043=123 2044   2045
+                       _See_                                      _See_  _See_
+                        131,                                       131,   132,
+                        147                                        147    150
+
+                               2000    2050   2051   2052   2053   2054   2055
+
+                               2001    2060   2061   2062   2063   2064   2065
+                              _See_
+                               182
+
+                             2002=122  2070   2071   2072   2073   2074   2075
+
+                             2003=2021 2080   2081   2082   2083   2084   2085
+                             _See_ 130
+
+                               2004    2090   2091   2092   2093   2094   2095
+
+                               2005    3000   3001   3002   3003   3004   3005
+
+      { 1976   1978            2006    3010   3011   3012   3013   3014   3015
+      {                       _See_
+      {                        1902,
+  [*] {                        1903
+      {
+      { 1977   1979            2007    3020   3021   3022   3023   3024   3025
+      {                       _See_
+      {                        182?
+
+                               2008    3030   3031   3032   3033   3034   3035
+
+                               2009    3040   3041   3042   3043   3044   3045
+
+                               2010    3050   3051   3052   3053   3054   3055
+                              _See_
+                               184
+
+                               2011    3060   3061   3062   3063   3064   3065
+                              _See_
+                               131,
+                               2020
+
+                               2012    3070   3071   3072   3073   3074   3075
+
+                               2013    3080   3081   3082   3083   3084   3085
+
+                               2014
+
+  [*] These four each side of the main stem of the cross. 1976=_Ezanab_--a
+Maya day[TN-3]
+
+[Illustration: FIG. 48.--The Palenquean Group of the Cross.]
+
+
+
+
+IV.
+
+IN WHAT ORDER ARE THE HIEROGLYPHS READ?
+
+
+Before any advance can be made in the deciphering of the hieroglyphic
+inscriptions, it is necessary to know in what directions, along what
+lines or columns, the verbal sense proceeds.
+
+All the inscriptions that I know of are in rectangular figures. At Copan
+they are usually in squares. At Palenque the longest inscriptions are in
+rectangles. At Palenque again, there are some cases where there is a
+single horizontal line of hieroglyphs over a pictorial tablet. Here
+clearly the only question is, do the characters proceed from left to
+right, or from right to left? In other cases as in the tablet of the
+cross, there are vertical columns. The question here is, shall we read
+up or down?
+
+Now, the hieroglyphs must be phonetic or pictorial, or a mixture of the
+two. If they are phonetic, it will take more than one symbol to make a
+word, and we shall have groups of like characters when the same word is
+written in two places. If the signs are pictorial, the same thing will
+follow; that is, we shall have groups recurring when the same idea
+recurs. Further, we know that the subjects treated of in these tablets
+must be comparatively simple, and that _names_, as of gods, kings, etc.,
+must necessarily recur.
+
+The _names_, then, will be the first words deciphered. At present no
+single name is known. These considerations, together with our system of
+nomenclature, will enable us to take some steps.
+
+Take, for example, the right-hand side of the Palenque cross tablet as
+given by RAU. _See_ our figure 48, which is Plate LVI of STEPHENS (vol.
+ii, p. 345), with the addition of the part now in the National Museum at
+Washington.
+
+Our system of numbering is here
+
+  2020  2021  2022  2023  2024  2025
+  2030  2031  2032  2033  2034  2035
+    *     *     *     *     *     *
+    *     *     *     *     *     *
+    *     *     *     *     *     *
+  3080  3081  3082  3083  3084  3085
+
+Now pick out the duplicate hieroglyphs in this; that is, run through the
+tablet, and wherever 2020 occurs erase the number which fills the place
+and write in 2020. Do the same for 2021, 2022, etc., down to 3084. The
+result will be as follows:
+
+RIGHT-HAND SIDE OF PALENQUE CROSS TABLET (RAU).
+
+      2020     2021     2022     2023     2024     2025
+      ^-----------^                       ^-----------^
+
+      2030     2031     2032     2033     2034     2035
+                                 ^-----------^
+
+      2040     2041     2042   { 2025     2020     2021
+                               {          ^-----------^
+                               {
+      2050     2051     2034   { 2053     2054     2055
+                        ^-----------^
+
+      2053     2061     2062     2063     2064     2065
+
+      2070     2071     2020     2021     2022?    2024? }
+                        ^-----------^                    } ?
+                                                         }
+      2053     2020     2082     2083     2025     2053  }
+
+      2021     2091     2092   { 2025     2094     2095
+                               {
+      3000     2023     2034   { 2053     2033     3005
+               ^-----------^
+                        ^-----------^
+
+      3010     2083     3012     2024     3014     2091
+
+      2053     3021     2023     2020     3024     2024
+
+    { 2024     2025     2021     3033   { 2025     2034*
+  ? { ^-----------^                     {          ^----
+    {                                   {
+    { 2053*    3021     3042     3043   { 2035     3045
+      ----^
+
+      3050     2083   { 2025     2034     3054     3055
+     _See_ 2082       {
+      ^-----------^   {
+                      {
+      2024     2020   { 2035     3063     2024     2025
+                                          ^-----------^
+
+      2021     2031     2020     2021     2035     3045
+                        ^-----------^
+
+      3080     3081     2091     2093     2020     2021
+                                          ^-----------^
+
+  14 cases of horizontal pairs; 4 cases of vertical pairs; 102 characters
+  in all, of which 51 appear more than once, so that there are but 51
+  independent hieroglyphs.
+
+Here the first two lines are unchanged. In the third line we find that
+2043 is the same as 2025, 2044=2020, 2045=2021, and so on, and we write
+the smallest number in each case.
+
+After this is done, connect like pairs by braces whenever they are
+consecutive, either vertical or horizontal. Take the pair 2020 and 2021
+for example; 2020 occurs eight times in the tablet, viz, as 2020, 2044,
+2072, 2081, 3023, 3061, 3072, 3084. In five out of the eight cases, it
+is followed by 2021, viz, as 2021, 2045, 2073, 3073, 3085.
+
+It is clear this is not the result of accident. The pair 2020 and 2021
+means something, and when the two characters occur together they must be
+read together. There is no point of punctuation between them. We also
+learn that they are not inseparable. 2020 will make sense with 2082,
+3024 and 3062. Here it looks as if the writing must be read in _lines_
+horizontally. We do not know yet in which direction.
+
+We must examine other cases. This is to be noticed: If the reading is in
+horizontal lines from left to right, then the progress is from top to
+bottom in columns, as the case of 3035 and 3040 shows. This occurs at
+the end of a line, and the corresponding _chiffre_ required to make the
+pair is at the other end of the next line. I have marked this case with
+asterisks. If we must read in the lines from right to left we must
+necessarily read in columns from bottom to top. Thus the _lines_ are
+connected.
+
+A similar process with all the other tablets in STEPHENS leads to the
+conclusion that the reading is in lines horizontally and in columns
+vertically. The cases 1835-'45, 1885-'95, 1914-'24, and 1936-'46 should,
+however, be examined. We have now to decide at which end of the lines to
+begin. The reasons given by Mr. BANCROFT (_Native Races_, vol. ii, p.
+782) appeared to me sufficient to decide the question before I was
+acquainted with his statement of them.
+
+Therefore, the sum total of our present data, examined by a rational
+method, leads to the conclusion, so far as we can know from these data,
+that the verbal sense proceeded in _lines_ from left to right, in
+_columns_ from top to bottom; just as the present page is written, in
+fact.
+
+For the present, the introduction of the method here indicated is the
+important step. It has, as yet, been applied only to the plates of
+STEPHENS' work. The definite conclusion should be made to rest on _all
+possible_ data, some of which is not at my disposition at present.
+Tablets exist in great numbers at other points besides Palenque, and for
+the final conclusion these must also be consulted. If each one is
+examined in the way I have indicated, it will yield a certain answer.
+The direction of reading for that plate can be thus determined. At
+Palenque the progress is in the order I have indicated.
+
+
+
+
+V.
+
+THE CARD-CATALOGUE OF HIEROGLYPHS.
+
+
+It has already been explained how a system of nomenclature was gradually
+formed. As I have said, this is not perfect, but it is sufficiently
+simple and full for the purpose. By it, every plate in STEPHENS' work
+receives a number and every hieroglyph in each plate is likewise
+numbered.
+
+This was first done in my private copy of the work. I then procured
+another copy and duplicated these numbers both for plates and single
+_chiffres_. The plates of this copy were then cut up into single
+hieroglyphs and each single hieroglyph was mounted on a library card,
+as follows:
+
+  ____________________________________________
+  |            |               |             |
+  | No. 2020.  |  Hieroglyph.  |  Plate LVI. |
+  |            |_______________|             |
+  |__________________________________________|
+  | Same as Numbers.  |  Similar to Numbers. |
+  | ----------------  |  ------------------- |
+  | ----------------  |  ------------------- |
+  | ----------------  |  ------------------- |
+  | ----------------  |  ------------------- |
+  | ----------------  |  ------------------- |
+  |__________________________________________|
+
+The cards were 6.5 by 4.5 inches. The _chiffre_ was pasted on, in the
+center of the top space. Its number and the plate from which it came
+were placed as in the cut. The numbers of hieroglyphs which resembled
+the one in question could be written on the right half of the card, and
+the numbers corresponding to different recurrences of this hieroglyph
+occupied the left half.
+
+All this part of the work was most faithfully and intelligently
+performed for me by Miss MARY LOCKWOOD, to whom I desire to express the
+full amount of my obligations. A mistake in any part would have been
+fatal. But no mistakes occurred.
+
+These cards could now be arranged in any way I saw fit. The simple
+_chiffres_, for example, could be placed so as to bring like ones
+together. A compound hieroglyph could be placed among simple ones
+agreeing with any one of its components, and so on.
+
+The expense of forming this card catalogue of about 1,500 single
+hieroglyphs was borne by the Ethnological Bureau of the Smithsonian
+Institution, and the catalogue is the property of that bureau, forming
+only one of its many rich collections of American picture-writings.
+
+
+
+
+VI.
+
+COMPARISON OF PLATES I AND IV (COPAN).
+
+
+In examining the various statues at Copan, as given by STEPHENS, one
+naturally looks for points of striking resemblance or striking
+difference. Where all is unknown, even the smallest sign is examined, in
+the hope that it may prove a clue. The Plate I, Fig. 49, has a twisted
+knot (the "square knot" of sailors) of cords over its head, and above
+this is a _chiffre_ composed of ellipses, and above this again a sign
+like a sea-shell. A natural suggestion was that these might be the signs
+for the name of the personage depicted in Plate I. If this is so and we
+should find the same sign elsewhere in connection with a figure, we
+should expect to find this second figure like the first in every
+particular. This would be a rigid test of the theory. After looking
+through the Palenque series, and finding no similar figure and sign, I
+examined the Copan series, and in Plate IV, our Fig. 50, I found the
+same signs exactly; _i. e._, the knot and the two _chiffres_.
+
+[Illustration: FIG. 49.--Statue at Copan.]
+
+[Illustration: FIG. 50.--Statue at Copan.]
+
+At first sight there is only the most general resemblance between the
+personages represented in the two plates; as STEPHENS says in his
+original account of them, they are "in many respects similar." If he had
+known them to be the same, he would not have wasted his time in drawing
+them. The scale of the two drawings and of the two statues is different;
+but the two personages are the same identically. Figure for figure,
+ornament for ornament, they correspond. It is unnecessary to give the
+minute comparison here in words. It can be made by any one from the two
+plates herewith. Take any part of Plate I, find the corresponding part
+of Plate IV, and whether it is human feature or sculptured ornament the
+two will be found to be the same.
+
+Take the middle face depending from the belt in each plate. The earrings
+are the same; the ornament below the chin, the knot above the head, the
+complicated beadwork on each side of this face, all are the same. The
+bracelets of the right arms of the main figures have each the forked
+serpent tongue, and the left-arm bracelets are ornamented alike. The
+crosses with beads almost inclosed in the right hands are alike; the
+elliptic ornaments above each wrist, the knots and _chiffres_ over the
+serpent masks which surmount the faces, all are the same. In the steel
+plates given by STEPHENS there are even more coindences[TN-4] to be seen
+than in the excellent wood-cuts here given, which have been copied from
+them.
+
+Here, then, is an important fact. The theory that the _chiffre_ over the
+forehead is characteristic, though it is not definitively proved,
+receives strong confirmation. The parts which have been lost by the
+effects of time on one statue can be supplied from the other. Better
+than all, we gain a test of the minuteness with which the sculptors
+worked, and an idea of how close the adherence to a type was required to
+be. Granting once that the two personages are the same (a fact about
+which I conceive there can be no possible doubt, since the chances in
+favor are literally thousands to one), we learn what license was
+allowed, and what synonyms in stone might be employed. Thus, the
+ornament suspended from the neck in Plate IV is clearly a tiger's skull.
+That from the neck of Plate I has been shown to be the derived form of a
+skull by Dr. HARRISON ALLEN,[225-*] and we now know that this common
+form relates not to the human skull, as Dr. ALLEN has supposed, but to
+that of the tiger. We shall find this figure often repeated, and the
+identification is of importance. This is a case in regard to synonyms.
+The kind of symbolism so ably treated by Dr. ALLEN is well exemplified
+in the conventional sign for the _crotalus_ jaw at the mouth of the mask
+over the head of each figure. This is again found on the body of the
+snake in Plate LX, and in other places. Other important questions can
+be settled by comparison of the two plates. For example, at Palenque we
+often find a sign composed of a half ellipse, inside of which bars are
+drawn. [Illustration] I shall elsewhere show that there is reason to
+believe the ellipse is to represent the concave of the sky, its diameter
+to be the level earth, and in some cases at least the bars to be the
+descending and fertilizing rain. The bars are sometimes two, three, and
+sometimes four in number. Are these variants of a single sign, or are
+they synonyms? Before the discovery of the identity of the personages in
+these two plates, this question could not be answered. Now we can say
+that they are not synonyms, or at least that they must be considered
+separately. To show this, examine the bands just above the wristlets of
+the two figures. Over the left hands of the figures the bars are two in
+number; over the right hands there are four. This exact similarity is
+not accidental; there is a meaning in it, and we must search for its
+explanation elsewhere, but we now have a valuable test of what needs to
+be regarded, and of what, on the other hand, may be passed over as
+accidental or unimportant.
+
+One other case needs mentioning here, as it will be of future use. From
+the waist of each figure depend nine oval solids, six being hatched over
+like pine cones and the three central ones having two ovals, one within
+the other, engraved on them. In Plate IV the inner ovals are all on the
+right-hand side of the outer ovals. Would they mean the same if they
+were on the left-hand side? Plate I enables us to say that they would,
+since one of these inner ovals has been put by the artist on that side
+by accident or by an allowed caprice. It is by furnishing us with tests
+and criteria like these that the proof of the identity of these two
+plates is immediately important. In other ways, too, the proof is
+valuable and interesting, but we need not discuss them at this time.
+
+These statues, then, are to us a dictionary of synonyms in stone--a test
+of the degree of adherence to a prototype which was exacted, and a
+criterion of the kind of minor differences which must be noticed in any
+rigid study.
+
+I have not insisted more on the resemblances, since the accompanying
+figures present a demonstration. Let those who wish to verify these
+resemblances compare minutely the ornaments above the knees of the two
+figures, those about the waists, above the heads, and the square knots,
+etc., etc.
+
+
+
+
+VII.
+
+ARE THE HIEROGLYPHS OF COPAN AND PALENQUE IDENTICAL?
+
+
+One of the first questions to be settled is whether the same system of
+writing was employed at Palenque and at Copan. Before any study of the
+meanings of the separate _chiffres_ can be made, we must have our
+material properly assorted, and must not include in the figures we are
+examining for the detection of a clue, any which may belong to a system
+possibly very different.
+
+The opinion of STEPHENS and of later writers is confirmed by my
+comparison of the Palenque and the Copan series; that is, it becomes
+evident that the latter series is far the older.
+
+In Nicaragua and Copan the statues of gods were placed at the foot of
+the pyramid; farther north, as at Palenque, they were placed in temples
+at the summit. Such differences show a marked change in customs, and
+must have required much time for their accomplishment. In this time did
+the picture-writing change, or, indeed, was it ever identical?
+
+To settle the question whether they were written on the same system, I
+give here the results of a rapid survey of the card-catalogue of
+hieroglyphs. A more minute examination is not necessary, as the present
+one is quite sufficient to show that the system employed at the two
+places was the same in its general character and almost identical even
+in details. The practical result of this conclusion is that similar
+characters of the Copan and Palenque series may be used interchangeably.
+
+A detailed study of the undoubted synonyms of the two places will afford
+much light on the manner in which these characters were gradually
+evolved. This is not the place for such a study, but it is interesting
+to remark how, even in unmistakable synonyms, the Palenque character is
+always the most conventional, the least pictorial; that is, the latest.
+Examples of this are No. 7, Plate V^a, and No. 1969, Plate LVI. The
+_mask_ in profile which forms the left-hand edge of No. 7 seems to have
+been conventionalized into the two hooks and the ball, which have the
+same place in No. 1969.
+
+[Illustration: FIG. 51.--Synonomous[TN-5] hieroglyphs from Copan and
+Palenque.]
+
+The larger of these two was cut on stone, the smaller in stucco.
+
+The mask has been changed into the ball and hooks; the angular nose
+ornament into a single ball, easier to make and quite as significant to
+the Maya priest. But to us the older (Copan) figure is infinitely more
+significant. The curious rows of little balls which are often placed at
+the left-hand edge of the various _chiffres_ are also conventions for
+older forms. It is to be noted that these balls always occur on the left
+hand of the hieroglyphs, except in one case, the _chiffre_ 1975 in the
+Palenque cross tablet, on which the left-hand acolyte stands.
+
+The conclusion that the two series are both written on the same system,
+and that like _chiffres_ occurring at the two places are synonyms, will,
+I think, be sufficiently evident to any one who will himself examine the
+following cases. It is the _nature_ of the agreements which proves the
+thesis, and not the number of cases here cited. The reader will remember
+that the Copan series comprises Plates I to XXIII, inclusive; the
+Palenque series, Plate XXIV and higher numbers.
+
+The sign of the group of Mexican gods who relate to hell, _i. e._, a
+circle with a central dot, and with four small segments cut out at four
+equally distant points of its circumference, is found in No. 4291, Plate
+XXII, and in many of the Palenque plates, as Plate LVI, Nos. 2090, 2073,
+2045, 2021, etc. In both places this sign is worn by human figures just
+below the ear.
+
+The same sign occurs as an important part of No. 4271, Plate XXII, and
+No. 4118, Plate XIII (Copan), and No. 2064, Plate LVI (Palenque), etc.
+
+No. 7, Plate V^a, and No. 1969, Plate LVI, I regard as absolutely
+identical. These are both human figures. No. 12, Plate V^a, and No.
+637, Plate LIII, are probably the same. These probably represent or
+relate to the long-nosed divinity, YACATEUCTLI, the Mexican god of
+commerce, etc., or rather to his Maya representative.
+
+The sign of TLALOC, or rather the family of TLALOCS, the gods of rain,
+floods, and waters, is an eye (or sometimes a mouth), around which there
+is a double line drawn. I take No. 26, Plate V^a, of the Copan series,
+and Nos. 154 and 165, Plate XXIV, to be corresponding references to
+members of this family. No. 4, Plate V^a, and No. 155 also correspond.
+
+No. 4242, Plate XXII, is probably related to No. 53, Plate XXIV and its
+congeners.
+
+Nos. 14 and 34, Plate V^a, are clearly related to No. 900, Plate LIV,
+Nos. 127 and 176, Plate XXIV, No. 3010, Plate LVI, and many others.
+
+Plate III^a of Copan is evidently identically the same as the No. 75
+of the Palenque Plate No. XXIV.
+
+The right half of No. 27, Plate V^a, is the same as the right half of
+Nos. 3020, 3040, and many others of Plate LVI.
+
+No. 17, Plate V^a, is related to No. 2051, Plate LVI, and many others
+like it.
+
+The major part of No. 4105, Plate XIII, is the same as No. 124, Plate
+XXIV, etc.
+
+[Illustration: FIG. 52.--Yucatec Stone.]
+
+It is not necessary to add a greater number of examples here. The
+card-catalogue which I have mentioned enables me to at once pick out all
+the cases of which the above are specimens, taken just as they fell
+under my eye in rapidly turning over the cards. They therefore represent
+the _average_ agreement, neither more nor less. Taken together they
+show that the same signs were used at Copan and at Palenque. As the same
+symbols used at both places occur in like positions in regard to the
+human face, etc., I conclude that not only were the same signs used at
+both places, but that these signs had the same meaning; _i. e._, were
+truly synonyms. In future I shall regard this as demonstrated.
+
+
+
+
+VIII.
+
+HUITZILOPOCHTLI (MEXICAN GOD OF WAR), TEOYAOMIQUI (MEXICAN GODDESS OF
+DEATH), MICLANTECUTLI (MEXICAN GOD OF HELL), AND TLALOC (MEXICAN
+RAIN-GOD), CONSIDERED IN RELATION TO CENTRAL AMERICAN DIVINITIES.
+
+
+In the _Congres des Americanistes, session de Luxembourg_, vol. ii, p.
+283, is a report of a memoir of Dr. LEEMANS, entitled "Description de
+quelques antiquites americaines conservees dans le Musee royal
+neerlandais d'antiquites a Leide." On page 299 we find--
+
+     M. G.-H.-BAND, de Arnhiem, a eu la bonte de me confier quelques
+     antiquites provenant des anciens habitants du Yucatan et de
+     l'Amerique Centrale, avec autorisation d'en faire prendre des
+     fac-similes pour le Musee, ce qui me permet de les faire connaitre
+     aux membres du Congres. Elles ont ete trouvees enfouies a une
+     grande profondeur dans le sol, lors de la construction d'un canal,
+     vers la riviere Gracioza, pres de San Filippo, sur la frontiere du
+     Honduras britannique et de la republique de Guatemala par M.
+     S.-A.-van BRAAM, ingenieur neerlandais au service de la
+     Guatemala-Company.
+
+From the maps given in STIELER'S Hand-Atlas and in BANCROFT'S Native
+Races of the Pacific States I find that these relics were found 308
+miles from Uxmal, 207 miles from Palenque, 92 miles from Copan, and 655
+miles from the city of Mexico, the distances being in a straight line
+from place to place.
+
+The one of these objects with which we are now concerned is figured in
+Plate (63) of the work quoted, and is reproduced here as Fig. 52.
+
+Dr. LEEMANS refers to a similarity between this figure and others in
+Stephens' Travels in Central America, but gives no general comparison.
+
+I wish to direct attention to some of the points of this cut. The
+_chiffre_ or symbol of the principal figure is, perhaps, represented in
+his belt, and is a St. Andrew's cross, with a circle at each end of it.
+Inside the large circle is a smaller one. It may be said, in passing,
+that the cross probably relates to the _air_ and the circle to the
+_sun_.
+
+The main figure has two hands folded against his breast. Two other arms
+are extended, one in front, the other behind, which carry two birds.
+Each arm has a bracelet. This second pair of hands is not described by
+Dr. LEEMANS. The two birds are exact duplicates, except that the eye of
+one is shut, of the other open. Just above the bill of each bird is
+something which might be taken as a second bill (which probably is not,
+however), and on this and on the back of each bird are five spines or
+claws. The corresponding claws are curved and shaped alike in the two
+sets. The birds are fastened to the neck of the person represented by
+two ornaments, which are alike, and which seem to be the usual
+hieroglyph of the _crotalus_ jaw. These jaws are placed similarly with
+respect to each bird. In KINGSBOROUGH'S Mexican Antiquities, vol. I,
+Plate X, we find the parrot as the sign of TONATIHU, the sun, and in
+Plate XXV with NAOLIN, the sun. On a level with the nose of the
+principal figure are two symbols, one in front and one behind, each
+inclosing a St. Andrew's cross, and surmounted by what seems to be a
+flaming fire. It is probably the _chiffre_ of the wind, as the cross is
+of the rain. Below the rear one of these is a head with protruding
+tongue (the sign of QUETZALCOATL); below the other a hieroglyph (perhaps
+a bearded face). Each of these is upborne by a hand. It is to be
+noticed, also, that these last arms have bracelets different from the
+pair on the breast.
+
+In passing, it may be noted that the head in rear is under a cross, and
+has on its cheek the symbol U. These are the symbols of the left-hand
+figure in the Palenque cross tablet.
+
+The head hanging from the rear of the belt has an _open_ eye (like that
+of the principal figure), and above it is a crotalus mask, with open
+eye, and teeth, and forked fangs. The principal figure wears over his
+head a mask, with open mouth, and with tusks, and above this mask is the
+eagle's head. This eagle is a sign of TLALOC, at least in Yucatan. In
+Mexico the eagle was part of the insignia of TETZCATLIPOCA, "the devil,"
+who overthrew the good QUETZALCOATL and reintroduced human sacrifice.
+
+The characteristics of the principal figure, 63, are then briefly as
+follows:
+
+I. His _chiffre_ is an air-cross with the sun-circle.
+
+II. He has four hands.
+
+III. He bears two birds as a symbol.
+
+IV. The claws or spikes on the backs of these are significant.
+
+V. The mask with tusks over the head.
+
+VI. The head worn at the belt.
+
+VII. The captive trodden under foot.
+
+VIII. The chain from the belt attached to a kind of ornament or symbol.
+
+IX. The twisted flames (?) or winds (?) on each side of the figure.
+
+X. His association with QUETZALCOATL or CUCULKAN,[TN-6] as shown by the
+mouth with protruding tongue, and with TLALOC or TETZCATLIPOCA, as shown
+by the eagle's head.
+
+We may note here for reference the signification of one of the
+hieroglyphs in the right-hand half of Fig. 52, _i. e._, in that half
+which contains only writing. The topmost _chiffre_ is undoubtedly the
+name, or part of the name, of the principal figure represented in the
+other half. It is in pure picture-writing; that is, it expresses the sum
+of his attributes. It has the crotalus mask, with nose ornament, which
+he wears over his face; then the cross, with the "five feathers" of
+Mexico, and the sun symbol. These are in the middle of the _chiffre_.
+Below these the oval may be, and probably is, heaven, with the rain
+descending and producing from the surface of the earth (the long axis of
+the ellipse), the seed, of which three grains are depicted.
+
+We know by the occurrence of the hieroglyphs on the reverse side of the
+stone that this is not of Aztec sculpture. These symbols are of the same
+sort as those at Copan, Palenque, etc., and I shall show later that some
+of them occur in the Palenque tablets. Hence, we know this engraving to
+be Yucatec and not Aztec in its origin. If it had been sculptured on one
+side only, and these hieroglyphs omitted, I am satisfied that the facts
+which I shall point out in the next paragraphs would have led to the
+conclusion that this stone was Mexican in its origin. Fortunately the
+native artist had the time to sculpture the Yucatec hieroglyphs, which
+are the proof of its true origin. It was not dropped by a traveling
+Aztec; it was made by a Yucatec.
+
+In passing, it may be said that the upper left-hand, hieroglyph of Plate
+XIII most probably repeats this name.
+
+I collect from the third volume of BANCROFT'S _Native Races_, chapter
+viii, such descriptions of HUITZILOPOCHTLI as he was represented among
+the Mexicans as will be of use to us in our comparisons. No display of
+learning in giving the references to the original works is necessary
+here, since Mr. BANCROFT has placed all these in order and culled them
+for a use like the present. It will suffice once for all to refer the
+critical reader to this volume, and to express the highest sense of
+obligation to Mr. BANCROFT'S compilation, which renders a survey of the
+characteristic features of the American divinities easy.
+
+In Mexico, then, this god had, among other symbols, "five balls of
+feathers arranged in the form of a cross." This was in reference to the
+mysterious conception of his mother through the _powers of the air_. The
+upper hieroglyph in Fig. 52, and one of the lower ones, contain this
+sign: "In his right hand he had an azured staff cutte in fashion of a
+waving snake." (See Plate LXI of STEPHENS.) "Joining to the temple of
+this idol there was a piece of less work, where there was another idol
+they called TLALOC. These two idolls were alwayes together, for that
+they held them as companions and of equal power."
+
+To his temple "there were foure gates," in allusion to the form of the
+cross. The temple was surrounded by rows of skulls (as at Copan) and the
+temple itself was upon a high pyramid. SOLIS says the war god sat "on a
+throne supported by a blue globe.[TN-7] From this, supposed to represent
+the heavens, projected four staves with serpents' heads. (See Plate
+XXIV, STEPHENS.) "The image bore on its head a bird of wrought plumes,"
+"its right hand rested upon a crooked serpent." "Upon the left arm was a
+buckler bearing five white plums arranged in form of a cross." SAHAGUN
+describes his device as a dragon's head, "frightful in the extreme, and
+casting fire out of his mouth."
+
+HERRARA describes HUITZILOPOCHTLI and TEZCATLIPOCA[TN-8] together, and
+says they were "beset with pieces of gold wrought like birds, beasts,
+and _fishes_." "For collars, they had ten hearts of men," "and in their
+necks Death painted."
+
+TORQUEMADA derives the _name_ of the war god in two ways. According to
+some it is composed of two words, one signifying "a humming bird" and
+the other "a sorcerer that spits fire." Others say that the last word
+means "the left hand," so that the whole name would mean "the shining
+feathered left hand." "This god it was that led out the Mexicans from
+their own land and brought them into Anahuac." Besides his regular
+statue, set up in Mexico, "there was another renewed every year, made of
+different kinds of grains and seeds, moistened with the blood of
+children." This was in allusion to the nature-side of the god, as fully
+explained by MUeLLER (_Americanische Urreligionen_).
+
+No description will give a better idea of the general features of this
+god than the following cuts from BANCROFT'S _Native Races_, which are
+copied from LEON Y GAMA, _Las Dos Piedras_, etc. Figs. 53 and 54 are the
+war god himself; Fig. 55 is the back of the former statue on a larger
+scale; Fig. 56 is the god of hell, and was engraved on the bottom of the
+block.
+
+[Illustration: FIG. 53.--HUITZILOPOCHTLI (front).]
+
+[Illustration: FIG. 54.--HUITZILOPOCHTLI (side).]
+
+These three were a trinity well nigh inseparable. It has been doubted
+whether they were not different attributes of the same personage. In the
+natural course of things the primitive idea would become differentiated
+into its parts, and in process of time the most important of the parts
+would each receive a separate pictorial representation.
+
+[Illustration: FIG. 55.--Huitzilopochtli (back).[TN-9]]
+
+[Illustration: FIG. 56.--MICLANTECUTLI.]
+
+[Illustration: FIG. 57.--Adoratorio.]
+
+By referring back a few pages the reader will find summarized the
+principal characteristics of the Central American figure represented in
+Fig. 52. He will also have noticed the remarkable agreement between the
+attributes of this figure and those contained in the cuts or in the
+descriptions of the Mexican gods. Thus--
+
+I. The symbol of both was the cross.
+
+II. Fig. 52 and Fig. 55 each have four hands.[233-*]
+
+III. Both have birds as symbols.
+
+It is difficult to regard the bird of Fig. 52 as a humming bird, as it
+more resembles the parrot, which, as is well known, was a symbol of some
+of the Central American gods. Its occurrence here in connection with the
+four arms fixes it, however, as the bird symbol of HUITZILOPOCHTLI. In
+the _Ms. Troano_, plate xxxi (lower right-hand figure), we find this
+same personage with his two parrots, along with TLALOC, the god of rain.
+
+IV. The claws of the Mexican statue may be symbolized by the spikes on
+the back of the birds in Fig. 52, but these latter appear to me to
+relate rather to the fangs and teeth of the various crotalus heads of
+the statues.
+
+V. The mask, with tusks, of Fig. 52, is the same as that at the top of
+Fig. 55, where we see that they represent the teeth of a serpent, and
+not the tusks of an animal. This is shown by the forked tongue beneath.
+The three groups of four dots each on HUITZILOPOCHTLI'S statue are
+references to his relationship with TLALOC.
+
+With these main and striking duplications, and with other minor and
+corroborative resemblances, which the reader can see for himself, there
+is no doubt but that the two figures, Mexican and Yucatec, relate to the
+same personage. The Yucatec figure combines several of the attributes of
+the various members of the Mexican trinity named above, but we should
+not be surprised at this, for, as has been said, some writers consider
+that this trinity was one only of attributes and not of persons.
+
+What has been given above is sufficient to show that the personage
+represented in Fig. 52 is the Yucatec equivalent of HUITZILOPOCHTLI, and
+has relations to his trinity named at the head of this section, and also
+to the family of TLALOC. I am not aware that the relationship of the
+Yucatec and Aztec gods has been so directly shown, on evidence almost
+purely pictorial, and therefore free from a certain kind of bias.
+
+If the conclusions above stated are true, there will be many
+corroborations of them, and the most prominent of these I proceed to
+give, as it involves the explanation of one of the most important
+tablets of Palenque, parts of which are shown in Plates XXIV, LX, LXI,
+and LXII, vol. ii, of STEPHENS.
+
+Plate LXII, Fig. 57, represents the "Adoratorio or Alta Casa, No. 3" of
+Palenque. This is nothing else than the temple of the god
+HUITZILOPOCHTLI and of his equal, TLALOC. The god of war is shown on a
+larger scale in Plate LXI, Fig. 58, while TLALOC is given in Plate LX,
+Fig. 59, and the tablet inside the temple in Plate XXIV, Fig. 60. The
+resemblances of Plate XXIV and of the Palenque cross tablet and their
+meanings will be considered farther on.
+
+Returning to Plate LXII, the symbols of the roof and cornice refer to
+these two divinities. The faces at the ends of the cornice, with the
+double lines for eye and mouth, are unmistakable TLALOC signs. The
+association of the two gods in one temple, as at Mexico, is a strong
+corroboration.
+
+Let us now take Plate LXI, Fig. 58, which represents HUITZILOPOCHTLI, or
+rather, the Yucatec equivalent of this Aztec god. I shall refer to him
+by the Aztec appelation, but I shall in future write it in italics; and
+in general the Yucatec equivalents of Aztec personages in italics, and
+the Aztec names in small capitals.
+
+Compare Fig. 52 and the Plate LXI (Fig. 58). As the two plates are
+before the reader, I need only point out the main resemblances, and,
+what is more important, the differences.
+
+The sandals, the belt, its front pendant, the bracelets, the neck
+ornament, the helmet, should be examined. The four hands of Fig. 52 are
+not in LXI, nor the parrots; but if we refer to KINGSBOROUGH, Vol. II,
+Plates 6 and 7 of the LAUD manuscript, we shall find figures of
+HUITZILOPOCHTLI with a parrot, and of TLALOC with the stork with a fish
+in its mouth, as in the head-dress here. The prostrate figure of Fig. 52
+is here led by a chain. At Labphak (BANCROFT, Vol. iv., p. 251), he is
+held aloft in the air, and he is on what _may be_ a sacrificial yoke.
+The _Tlaloc_ eagle is in the head of the staff carried in the hand. This
+eagle is found in the second line from the bottom of Fig. 52, we may
+remark in passing. Notice also the crescent moon in the ornament back of
+the shoulders of the personage of Fig. 58. The twisted cords which form
+the bottom of this ornament are in the hieroglyph No. 37, Plate XXIV
+(Fig. 60).
+
+Turning now to Plate LX (Fig. 59).
+
+This I take to be the sorcerer _Tlaloc_. He is blowing the wind from his
+mouth; he has the eagle in his head-dress, the jaw with grinders, the
+peculiar eye, the four TLALOC dots over his ear and on it, the snake
+between his legs, curved in the form of a yoke (this is known to be a
+serpent by the conventional crotalus signs of jaw and rattles on it in
+nine places), the four TLALOC dots again in his head-dress, etc. He has
+a leopard skin on his back (the tiger was the earth in Mexico) and his
+naked feet have peculiar anklets which should be noticed.
+
+Although I am deferring the examination of the hieroglyphs to a later
+section, the _chiffre_ 3201 should be noticed. It is the TLALOC eye
+again, and 3203 is the _chiffre_ of the Mexican gods of hell.
+
+[Illustration: FIG. 58.--Maya War God.]
+
+[Illustration: FIG. 59.--Maya Rain God.]
+
+In passing I may just refer the reader to p. 164, Vol. ii, of STEPHENS'
+book on Yucatan, where a figure occurring at Labphax is given. This I
+take to be the same as _Huitzilopochtli_ of Plate LXI. Also in the MS.
+_Troano_, published by BRASSEUR DE BOURBOURG, a figure in Plate XXV and
+in other plates sits on a hieroglyph like 3201, and is _Tlaloc_.
+This is known by the head-dress, the teeth, the air-trumpet, the serpent
+symbol, etc. In Plates XXVIII, XXXI, and XXXIII of the same work
+HUITZILOPOCHTLI and TLALOC are represented together, in various
+adventures.
+
+[Illustration: FIG. 60.--Tablet at Palenque.]
+
+In Plate LX (Fig. 59) notice also the _chiffre_ on the tassels before
+and behind the main personage.
+
+Now turn to the Plate XXIV (Fig. 60), which is the main object in the
+"Adoratorio" (Fig. 57), where the human figures serve as flankers.
+
+First examine the caryatides who support the central structure. These
+are _Tlalocs_. Each has an eagle over his face, is clothed in leopard
+skin, has the characteristic eye and teeth, and the wristlets of Plate
+LX (Fig. 59).
+
+A vertical line through the center of Plate XXIV (Fig. 60) would
+separate the figures and ornaments into two groups. These groups are
+very similar, but never identical, and this holds good down to the
+minutest particulars and is not the result of accident. One side (the
+right-hand) belongs to _Tlaloc_, the other to _Huitzilopochtli_.
+
+The right-hand priest (let us call him, simply for a name and not to
+commit ourselves to a theory) has the sandals of Plate LXI; the
+left-hand priest the anklets of Plate LX.
+
+The beast on which the first stands and the man who supports the other
+are both marked with the tassel symbol of Plate LX. There is a certain
+rude resemblance between the supplementary head of this beast and the
+pendant in front of the belt of Fig. 52. Four of these beasts supply
+rain to the earth with _Tlaloc_ in Plate XXVI of the MS. _Troano_. The
+infant offered by the right-hand priest has the _two_ curls on his
+forehead which was a necessary mark of the victims for TLALOC'S
+sacrifices. The center of the whole plate is a horrid mask with an open
+mouth. Behind this are two staves with _different_ ornaments crossed in
+the form of the air-cross. On either hand of this the ornaments are
+different though similar.
+
+A curious resemblance may be traced between the positions, etc., of
+these two staves and those of the figure on p. 563, vol. iv, of
+BANCROFT'S _Native Races_, which is a Mexican stone. Again, this latter
+figure has at its upper right-hand corner a crouching animal (?) very
+similar to the gateway ornament given in the same volume, p. 321. This
+last is at Palenque. I quote these two examples in passing simply to
+reinforce the idea of similarity between the sacred sculptures of
+Yucatan and Mexico.
+
+I take it that the examination of which I have sketched the details will
+have left no doubt but that the personage of Fig. 52 is truly
+_Huitzilopochtli_, the Yucatec representative of HUITZILOPOCHTLI; that
+Plate LXI (Fig. 58) is the same personage; that Plate LX (Fig. 59)
+represents TLALOC; and that Plate XXIV (Fig. 60) is a tablet relating to
+the service of these two gods.
+
+I have previously shown that the Palenque hieroglyphs are read in order
+from left to right. We should naturally expect, then, that the sign for
+_Tlaloc_ or for _Huitzilopochtli_ would occupy the upper left-hand
+corner of Plate XXIV. In fact it does, and I was led to this discovery
+in the way I have indicated.
+
+No. 37 is the Palenque manner of writing the top sign of Fig. 52. I
+shall call the signs of Fig. 52 _a_, _b_, _c_, etc., in order downwards.
+
+The crouching face in _a_ occupies the lower central part of No. 37.
+Notice also that this face occurs below the small cross in the detached
+ornament to the left of the central mask of Fig. 60. The crescent moon
+of Plate LXI (Fig. 58) is on its cheek; back of this is the sun-sign;
+the cross of _a_ is just above its eye; the three signs for the
+celestial concave are at the top of 37, crossed with rain bands; the
+three seeds (?) are below these. The feathers are in the lower
+right-hand two-thirds. This is the sign or part of the sign for
+_Huitzilopochtli_. If a Maya Indian had seen either of these signs a few
+centuries ago, he would have had the successive ideas--a war-god, with a
+feather-symbol, related to sun and moon, to fertilizing rain and
+influences, to clouds and seed; that is _Huitzilopochtli_, the companion
+of _Tlaloc_. Or if he had seen the upper left-hand symbol of the
+Palenque cross tablet (1800), he would have had _related_ ideas, and so
+on.
+
+What I have previously said about the faithfulness with which the
+Yucatec artist adhered to his prototypes in signs is perfectly true,
+although apparently partly contradicted by the identification I have
+just made. When a given attribute of a god (or other personage) was to
+be depicted, the _chiffres_ expressing this were marvellously alike.
+Witness the _chiffres_ Nos. 2090, 2073, 2021, 2045, 3085, 3073, 3070,
+3032 of the Palenque cross tablet. But directly afterwards some other
+attribute is to be brought out, and the _chiffre_ changes; thus the
+hieroglyph 1009 of Plate LIV, or 265, Plate LII, has the same protruding
+tongue as 2021, etc., and is the same personage, but the style is quite
+changed. In Fig. 52, _Huitzilopochtli_ is the war-god, in Plate XXIV he
+is the rain-god's companion; and while every attribute is accounted for,
+prominence is given to the special ones worshipped or celebrated. Scores
+of instances of this have arisen in the course of my examination.
+
+Again, we must remember that this was no source of ambiguity to the
+Yucatecs, however much it may be to us. Each one of them, and specially
+each officiating priest, was entirely familiar with every attribute of
+every god of the Yucatec pantheon. The sign of the attribute brought the
+idea of the power of the god in that special direction; the full idea of
+his divinity was the integral of all these special ideas. The limits
+were heaven and earth.
+
+This, then, is the first step. I consider that it is securely based, and
+that we may safely say that in proper names, at least, a kind of picture
+writing was used which was _not_ phonetic.
+
+From this point we may go on. I must again remark that great familiarity
+with the literature of the Aztecs and Yucatecs is needed--a familiarity
+to which I personally cannot pertend[TN-10]--and that it is clear that
+the method to reach its full success must be applied by a true scholar
+in this special field.
+
+
+
+
+IX.
+
+TLALOC, OR HIS MAYA REPRESENTATIVE.
+
+
+Although there is no personage of all the Maya pantheon more easy to
+recognize in the form of a _statue_ than _Tlaloc_, there is great
+difficulty in being certain of _all_ the hieroglyphs which relate to
+him. There is every reason to believe that in Yucatan, as in Mexico,
+there was a family of rain-gods, _Tlalocs_, and the distinguishing signs
+of the several members are almost impossible of separation, so long as
+we know so little of the special functions of each member of this
+family.
+
+In Yucatan, as in Mexico, _Tlaloc's_ main sign was a double line about
+the eye or mouth, or about both; and further, some of the _Tlalocs_, at
+least, were bearded.[237-*]
+
+CUKULCAN was also bearded, but we have separated out in the next section
+the _chiffres_, or certainly most of them, that relate to him. Those
+that are left remain to be distributed among the family of rain-gods;
+and this, as I have said, can only be done imperfectly, on account of
+our slight knowledge of the character of these gods.
+
+If we examine the plates given by STEPHENS, we shall find many pictorial
+allusions to _Tlaloc_. These are often used as mere ornaments or
+embellishments, as in borders, etc., and probably served only to notify,
+in a general way, the fact of the relationship of the personage
+represented, to this family, and probably not to convey any specific
+meaning.
+
+Thus, in Plate XXXV of STEPHENS' work the upper left-hand ornament of
+the border is a head of _Tlaloc_ with double lines about eye and mouth,
+and this ornament is repeated in a different form at the lower
+right-hand corner of the border just back of the right hand of the
+sitting figure, and also in the base of the border below the feet of the
+principal figure.
+
+Plate XLVIII (of STEPHENS') is probably CHALCHIHUITLICUE (that is, the
+Yucatec equivalent of that goddess), who was the sister of _Tlaloc_. His
+sign occurs in the upper left-hand corner of the border, and in Plate
+XLIX the same sign occurs in a corresponding position.
+
+Plate XXIV (our Fig. 60) is full of _Tlaloc_ signs. The bottom of the
+tablet has a hieroglyph, 93 (_Huitzilopochtli_), at one end and 185
+(_Tlaloc_) at the other. The leopard skin, eagle, and the crouching
+tiger (?) under the feet of the priest of _Tlaloc_ (the right-hand
+figure) are all given. The infant (?) offered by this priest has two
+locks of curled hair at its forehead, as was prescribed for children
+offered to this god.
+
+In Plate LVI (our Fig. 48) the mask at the foot of the cross is a human
+mask, and not a serpent mask, as has been ingeniously proved by Dr.
+HARRISON ALLEN in his paper so often quoted. It is the mask of _Tlaloc_,
+as shown by the teeth and corroborated (not proved) by the way in which
+the eye is expressed. The curved hook within the eyeball here, as in
+185, stands for the air--the wind--of which _Tlaloc_ was also god. The
+Mexicans had a similar sign for breath, message.
+
+The _chiffre_ 1975, on which _Huitzilopochtli's_ priest is standing, I
+believe to be the synonym of 185 in Plate XXIV. Just in front of
+_Tlaloc's_ priest is a sacrificial yoke (?), at the top of which is a
+face, with the eye of the _Tlalocs_, and various decorations. This face
+is to be found also at the lower left-hand corner of Plate XLI (of
+STEPHENS'), and also (?) in the same position in Plate XLII (of
+STEPHENS'). These will serve as subjects for further study.
+
+Notice in Plate LVI (our Fig. 48) how the ornaments in corresponding
+positions on either side of the central line are similar, yet never the
+same. A careful study of these pairs will show how the two gods
+celebrated, differed. A large part, at least, of the attributes of each
+god is recorded in this way by antithesis. I have not made enough
+progress in this direction to make the very few conclusions of which I
+am certain worth recording. The general fact of such an antithesis is
+obvious when once it is pointed out, and it is in just such paths as
+this that advances must be looked for.
+
+I have just mentioned, in this rapid survey of the plates of vol. ii of
+STEPHENS' work, the principal pictorial signs relating to _Tlaloc_.
+There are a number almost equally well marked in vol. i, in Plates VII,
+IX, X, XIII, and XV, but they need not be described. Those who are
+especially interested can find them for themselves.
+
+The following brief account and plate of a _Tlaloc_ inscription at Kabah
+will be useful for future use, and is the more interesting as it is
+comparatively unknown.
+
+
+_INSCRIPTION AT KABAH (Yucatan)._
+
+This hitherto unpublished inscription on a rock at Kabah is given in
+_Archives paleographiques_, vol. i, part ii, Plate 20. It deserves
+attention on account of its resemblances, but still more on account of
+its differences, with certain other Yucatec glyphs.
+
+We may first compare it with the Plate LX of STEPHENS (our Fig. 59).
+
+The head-dress in Plate 20 is quite simple, and presents no resemblance
+to the elaborate gear of Plate LX, in which the ornament of a leaf (?),
+or more probably feather, cross-hatched at the end and divided
+symmetrically by a stem (?) or quill about which four dots are placed,
+seems characteristic.
+
+_Possibly_, and only possibly, the square in the rear of the head of
+Plate 20, which has two cross-hatchings, may refer to the elaborate
+cross-hatchings in Plate LX. The four dots are found twice, once in
+front and once in rear of the figure. The heads of the two figures have
+only one resemblance, but this is a very important one. The tusks belong
+to HUITZILOPOCHTLI and to his trinity, and specially to TLALOC, his
+companion.
+
+Both Plate 20 and LX have the serpent wand or yoke clearly expressed. In
+LX the serpent is decorated with crotalus heads; in 20 by images of the
+sun (?), as in the FERJAVARY MS. (KINGSBOROUGH). The front apron or
+ornament of Plate 20 is of snake skin, ornamented with sun-symbols.
+Comparing Plate 20 with Fig. 52 (_ante_), we find quite other
+resemblances. The head-dress of 20 is the same as the projecting arm of
+the head-dress of Fig. 52; and the tusks are found in the helmet or mask
+of Fig. 52.
+
+These and other resemblances show the Kabah inscription to be a TLALOC.
+It is interesting specially on account of its hieroglyphs, which I hope
+to examine subsequently. The style of this writing appears to be late,
+and may serve as a connecting link between the stones and the
+manuscripts, and it is noteworthy that even the style of the drawing
+itself seems to be in the manner of the Mexican MS. of LAUD, rather than
+in that of the Palenque stone tablets.
+
+From the card catalogue I select the following _chiffres_ as
+appertaining to the family of the _Tlalocs_. As I have said, these must
+for the present remain in a group, unseparated. Future studies will be
+necessary to discriminate between the special signs which relate to
+special members of the family. The _chiffres_ are Nos. 3200; 1864; 1403;
+811; 1107?; 1943?; 4114??; _b_?; 1893 (bearded faces, or faces with
+teeth very prominent); 166?; 4??; 807?; 62?; 155?; 26; 154?; 165?; 164?;
+805; 4109; 1915?; 675??; 635?? (distinguished by the characteristic eye
+of the TLALOCS).
+
+Here, again, the writing is ideographic, and not phonetic.
+
+
+
+
+X.
+
+CUKULCAN OR QUETZALCOATL.
+
+
+The character 2021 occurs many times in Plate LVI (Fig. 48), and
+occasionally elsewhere. The personage represented is distinguished by
+having a protruding tongue, and was therefore at once suspected to be
+QUETZALCOATL. (See BANCROFT'S _Native Races_, vol. iii, p. 280.) The
+protruding tongue is probably a reference to his introduction of the
+sacrificial acts performed by wounding that member.
+
+The rest of the sign I suppose to be the rebus of his name,
+"Snake-plumage"; the part cross-hatched being "snake," the feather-like
+ornament at the upper left-hand corner being "plumage." It is necessary,
+however, to prove this before accepting the theory. To do this I had
+recourse to Plates I and IV (Figs. 49, 50), my dictionary of synonyms.
+
+This _cross-hatching_ occurs in Plate I. In the six tassels below the
+waist, where the cross-hatching _might_ indicate the serpent skin,
+notice the ends of the tassels; these are in a scroll-like form, and as
+if rolled or coiled tip. In Plate IV they are the same, naturally. So
+far there is but little light.
+
+In Plate IV, just above each wrist, is a sign composed of ellipse and
+bars; a little above each of these signs, among coils which may be
+serpent coils, and on the horizontal line through the top of the
+necklace pendant, are two surfaces cross-hatched all over. What do these
+mean? Referring to Plate I, we find, in exactly the same relative
+situation, the forked tongue and the rattles of the crotalus. These are,
+then, synonyms, and the _guess_ is confirmed. The cross-hatching means
+serpent-skin. Is this _always_ so? We must examine other plates to
+decide.
+
+The same ornament is found in Plates IX, XIV, XVI, XVIII, XIX, XX, XXI,
+XXXV (of STEPHENS'), but its situation does not allow us to gain any
+additional light.
+
+In Plate XII (STEPHENS') none of the ornaments below the belt will help
+us. At the level of the mouth are four patches of it. Take the upper
+right-hand one of these. Immediately to its right is a serpent's head;
+below the curve and above the frog's (?) head are the rattles. Here is
+another confirmation. In Plate XVIII I refer the cross-hatching to the
+jaw of the crocodile. In Plate XXII I have numbered the _chiffres_ as
+follows:
+
+  4201  4202  4203  4204.
+  4211  4212  4213  4214.
+    *     *     *     *
+    *     *     *     *
+    *     *     *     *
+  4311  4312  4313  4314.
+
+4204 has the cross-hatching at its top, and to its left in 4203 is the
+serpent's head. The same is true in 4233-4. In 4264 we have the same
+symbol that we are trying to interpret; it is in its perfect form here
+and in No. 1865 of the Palenque series. In the caryatides of Plate XXIV
+(Fig. 60) the cross-hatching is included in the spots of the leopard's
+skin; in the ornaments at the base, in and near the masks which, they
+are supporting, it is again serpent skin. Take the lower mask; its jaws,
+forked-tongue, and teeth prove it to be a serpent-mask, as well as the
+ornament just above it. In Plate LX (Fig. 59) it is to be noticed that
+the leopard spots are not cross-hatched, but that this ornament is given
+at the lower end of the leopard robe, which ends moreover in a crotalus
+tongue marked with the sign of the jaw (near the top of this ornament)
+and of the rattles (near the bottom). This again confirms the theory of
+the rebus meaning of the cross-hatching. In Plate XXIV (Fig. 60) the
+cross-hatching on the leopard spots probably is meant to _add_ the
+serpent attribute to the leopard symbol, and not simply to denote the
+latter.
+
+Thus an examination of the _whole_ of the material available, shows that
+the preceding half of the hieroglyph 2021 and its congeners is nothing
+but the _rebus_ for QUETZALCOATL, or rather for CUKULCAN, the Maya name
+for this god. BRASSEUR DE BOURBOURG, as quoted in BANCROFT'S _Native
+Races_, vol. ii, p. 699, foot note, says CUKULCAN, comes from _kuk_ or
+_kukul_, a bird, which appears to be the same as the _quetzal_, and from
+_can_, serpent; so that CUKULCAN in Maya is the same as QUETZALCOATL in
+Aztec. It is to be noticed how checks on the accuracy of any deciphering
+of hieroglyphs occur at every point, if we will only use them.
+
+The Maya equivalents of HUITZILOPOCHTLI and TLALOC are undoubtedly
+buried in the _chiffres_ already deciphered, but we have no means of
+getting their names in Maya from the rebus of the _chiffres_.
+
+In the cases of these two gods we got the _chiffre_, and the rebus is
+still to seek. In the case of _Quetzalcoatl_ or CUKULCAN, the rebus was
+the means of getting the name; and if the names of this divinity had not
+been equivalent in the two tongues, our results would have led us to the
+(almost absurd) conclusion that a god of certain attributes was called
+by his Aztec name in the Maya nations.
+
+Thus every correct conclusion confirms every former one and is a basis
+for subsequent progress. The results of this analysis are that the Maya
+god CUKULCAN is named in each one of the following _chiffres_, viz: Nos.
+1009, 265, 2090, 2073, 2021, 3085, 2045, 3073, 3070, 3032, 1865, 265,
+268?, 4291? 73?? I give the numbers in the order in which they are
+arranged in the card-catalogue. There is, of course, a reason for this
+order.
+
+BANCROFT, vol. iii, p. 268, says of QUETZALCOATL that "his symbols were
+the bird, the serpent, the cross, and the flint, representing the
+clouds, the lightning, the four winds, and the thunderbolt."
+
+We shall find all of his titles except one, the bird, in what follows.
+We must notice here that in the _chiffre_ 2021 and its congeners the
+bird appears directly over the head of CUKULCAN. It is plainly shown in
+the heliotype which accompanies Professor RAU'S work on the Palenque
+cross, though not so well in our Fig. 48.
+
+In what has gone before, we have seen that the characters 2021, 2045,
+2073, 3073, 3085, 265, etc., present the portrait and the rebus of
+CUKULCAN. It will not be forgotten that in the examination of the
+question as to the order in which the stone inscriptions were read we
+found a number of _pairs_ in Plate LVI, Fig. 48; the characters 2021,
+etc., being one member of each. The other members of the pairs in the
+Plate LVI were 2020, 2044, 2072, 3072, 3084, etc. 264-265 is another
+example of the same pair elsewhere.
+
+I hoped to find that the name CUKULCAN, or 2021, was associated in these
+pairs with some adjective or verb, and therefore examined the other
+members of the pair.
+
+In a case like this the card-catalogue is of great assistance; for
+example, I wish to examine here the _chiffres_ Nos. 2020, 2044, 2072,
+3072, 3084, etc. In the catalogue their cards occur in the same
+compartment, arranged so that two cards that are exactly alike are
+contiguous. We can often know that two _chiffres_ are alike when one is
+in a far better state of preservation than the other. Hence we may
+select for study that one in which the lines and figures are best
+preserved; or from several characters known to be alike, and of which no
+one is entirely perfect, we may construct with accuracy the type upon
+which they were founded. In this case the hieroglyph 2020 is well
+preserved (see the right-hand side of Plate LVI, Fig. 48, the upper
+left-hand glyph). It consists of a _human hand_, with the symbol of the
+_sun_ in it; above this is a sign similar to that of the Maya day
+_Ymix_; above this again, in miniature, is the rebus "snake plumage" or
+_Cukulcan_; and to the left of the hieroglyph are some curved lines not
+yet understood. No. 2003 of the same plate is also well preserved. It
+has the hand as in 2020, the rebus also, and the sign for _Ymix_ is
+slightly different, being modified with a sign like the top of a cross,
+the symbol of the _four winds_. The symbol _Ymix_ may be seen, by a
+reference to Plate XXVII (lower half) of the MS. _Troano_, to relate to
+the _rain_. The figure of that plate is pouring rain upon the earth from
+the orifices represented by _Ymix_. The cross of the _four winds_ is
+still more plain in Nos. 2072, 3084, and 3072.
+
+The part of this symbol 2020 and its synonyms which consists of curved
+lines occupying the left hand one-third of the whole _chiffre_ occurs
+only in this set of characters, and thus I cannot say _certainly_ what
+this particular part of the hieroglyph means; but if the reader will
+glance back over the last one hundred lines he will find that these
+_chiffres_ contain the _rebus_ CUKULCAN, the sign of a _human hand_, of
+the _sun_, of the _rain_, and of the _four winds_.
+
+In BANCROFT'S _Native Races_, vol. iii, chapter vii, we find that the
+titles of QUETZALCOATL (CUKULCAN) were the _air_, the _rattlesnake_, the
+_rumbler_ (in allusion to thunder), the _strong hand_, the lord of the
+_four winds_. The bird symbol exists in 2021, etc. Now in 2020 and its
+congeners we have found every one of these titles, save only that
+relating to the _thunder_. And we have found a meaning for every part of
+the hieroglyph 2020 save only one, viz, the left-hand one-third,
+consisting of concentric half ellipses or circles. It may be said to be
+quite _probable_ that the unexplained part of the sign (2020)
+corresponds to the unused title, "the rumbler." But it is not rigorously
+proved, although very probable. The thunder would be well represented by
+repeating the sign for sky or heaven. This much seems to me certain. The
+sign is but another summing up of the attributes and titles of CUKULCAN.
+2021 gave his portrait, his bird symbol, made allusion to his
+institution of the sacrifice of wounding the tongue, and spelled out his
+name in rebus characters. 2020 repeats his name as a rebus and adds the
+titles of lord of the four winds, of the sun, of rain, of the strong
+hand, etc. It is his biography, as it were.
+
+In this connection, a passing reference to the characters 1810, etc.,
+1820, etc., 1830, etc., 1840, etc., 1850, etc., of the left-hand side of
+Plate LVI should be made. Among these, all the titles named above are to
+be found. These are suitable subjects for future study.
+
+We now see _why_ the pair 2020, 2021 occurs so many times in Plate LVI,
+and again as 264, 265, etc. The right-hand half of this tablet has much
+to say of CUKULCAN, and whenever his name is mentioned a brief list of
+his titles accompanies it. Although it is disappointing to find _both_
+members of this well-marked pair to be proper names, yet it is
+gratifying to see that the theory of pairs, on which the proof of the
+order in which the tablets are to be read must rest, has received such
+unexpected confirmation.
+
+To conclude the search for the hieroglyphs of CUKULCAN'S name, it will
+be necessary to collect all those faces with "_round_ beards" (see
+BANCROFT'S _Native Races_, vol. iii, p. 250). TLALOC was also bearded,
+but all the historians refer to QUETZALCOATL as above cited. I refer
+hieroglyphs Nos. 658, 651?, 650?, and 249? to this category.
+
+Perhaps also the sign No. 153 is the sign of QUETZALCOATL, as something
+very similar to it is given as his sign in the _Codex Telleriano
+Remensis_, KINGSBOROUGH, vol. i, Plates I, II, and V (Plate I the best),
+where he wears it at his waist.
+
+In Plate LXIII of STEPHENS (vol. ii) is a small figure of CUKULCAN
+which, he calls "Bas Relief on Tablet." WALDECK gives a much larger
+drawing (incorrect, however, in many details), in which the figure, the
+"Beau Relief," is seen to wear bracelets high up on the arm. This was a
+distinguishing sign of QUETZALCOATL (see BANCROFT'S _Native Races_, vol.
+iii, pp. 249 and 250), and this figure probably is a representation of
+the Maya divinity. He is on a stool with tigers for supports. The tiger
+belongs to the attributes which he had in common with TLALOC, and we see
+again the intimate connection of these divinities--a connection often
+pointed out by BRASSEUR DE BOURBOURG.
+
+This is the third proper name which has been deciphered. All of them
+have been pure picture-writing, except in so far as their rebus
+character may make them in a sense phonetic.
+
+
+
+
+XI.
+
+COMPARISON OF THE SIGNS OF THE MAYA MONTHS (LANDA) WITH THE TABLETS.
+
+
+We have a set of signs for Maya months and days handed down to us by
+LANDA along with his phonetic alphabet. _A priori_ these are more likely
+to represent the primitive forms as carved in stone than are the
+alphabetic hieroglyphs, which may well have been invented by the
+Spaniards to assist the natives to memorize religious formulae.[243-*]
+
+BRASSEUR DE BOURBOURG has analyzed the signs for the day and month in
+his publication on the MS. _Troano_, and the strongest arguments which
+can be given for their phonetic origin are given by him.
+
+I have made a set of MS. copies of these signs and included them in my
+card-catalogue, and have carefully compared them with the tablets XXIV
+and LVI. My results are as follows:
+
+PLATE XXIV (our Fig. 60).
+
+  No. 42 is the Maya month _Pop_, beginning July 16.
+  No. 54 is _Zip_??, beginning August 25.
+  No. 47 is _Tzoz_??, beginning September 14.
+  No. 57 is _Tzec_? beginning October 4.
+  No. 44-45 is _Mol_?, beginning December 3.
+  No. 39 is _Yax_, _Zac_, or _Ceh_, beginning January 12, February 1,
+  February 21, respectively.
+
+PLATE LVI (our Fig. 48).
+
+  No. 1804 is _Uo_????
+  No. 1901 is _Zip_????
+  No. 1816 is _Tzoz_??
+  No. 1814 is _Tzec_?
+  No. 1807 is _Mol_?
+  No. 1855 is _Yax_, _Zac_, or _Ceh_.
+  No. 1844 is _Mac_?
+
+The only sign about which there is little or no doubt is No. 42, which
+seems pretty certainly to be the sign of the Maya month _Pop_, which
+began July 16.
+
+No. 39, just above it, seems also to be _one_ of the months _Yax_,
+_Zac_, or _Ceh_, which began on January 12, February 1, and February 21,
+respectively. Which one of these it corresponds to must be settled by
+other means than a direct comparison. The signs given by LANDA for these
+three months all contain the same radical as No. 39, but it is
+impossible to decide with entire certainty to which it corresponds. It,
+however, most nearly resembles the sign for _Zac_ (February 1); and it
+is noteworthy that it was precisely in this month that the greatest
+feast of TLALOC took place,[244-*] and its presence in this tablet,
+which relates to _Tlaloc_, is especially interesting.
+
+In connection with the counting of time, a reference to the bottom part
+of the _chiffre_ 3000 of the Palenque cross tablet should be made. This
+is a _knot_ tied up in a string or scarf; and we know this to have been
+the method of expressing the expiration and completion of a cycle of
+years. It occurs just above the symbol 3010, the _chiffre_ for a metal.
+
+An examination of the original stone in the National Museum, Washington,
+which is now in progress, has already convinced me that the methods
+which I have described in the preceding pages promise other interesting
+confirmations of the results I have reached. For the time, I must leave
+the matter in its present state. I think I am justified in my confidence
+that suitable methods of procedure have been laid down, and that certain
+important results have already been reached.
+
+I do not believe that the conclusions stated will be changed, but I am
+confident that a rich reward will be found by any competent person who
+will continue the study of these stones. The proper names now known will
+serve as points of departure, and it is probable that some research will
+give us the signs for verbs or adjectives connected with them.
+
+It is an immense step to have rid ourselves of the phonetic or
+alphabetic idea, and to have found the manner in which the Maya mind
+represented attributes and ideas. Their method was that of all nations
+at the origin of written language; that is, pure picture-writing. At
+Copan this is found in its earliest state; at Palenque it was already
+highly conventionalized. The step from the Palenque character to that
+used in the Kabah inscription is apparently not greater than the step
+from the latter to the various manuscripts. An important research would
+be the application of the methods so ably applied by Dr. ALLEN to
+tracing the evolution of the latter characters from their earlier forms.
+In this way it will be possible to extend our present knowledge
+materially.
+
+
+FOOTNOTES:
+
+[225-*] The Life Form in Art, Trans. Amer. Phil. Soc., vol. xv, 1873, p.
+325.
+
+[233-*] From KINGSBOROUGH, vol. i, plate 48, it appears that TLACLI
+TONATIO may have had four hands. His name meant (?) Let there be light.
+
+[237-*] See KINGSBOROUGH, vol. ii, Plate I, of the LAUD MS.
+
+[243-*] Since this was written I have seen a paper by Dr. VALENTINI,
+"The LANDA alphabet a Spanish fabrication" (read before the American
+Antiquarian Society, April 28, 1880), and the conclusions of that paper
+seem to me to be undoubtedly correct. They are the same as those just
+given, but while my own were reached by a study of the stones and in the
+course of a general examination, Dr. VALENTINI has addressed himself
+successfully to the solution of a special problem.
+
+[244-*] See BRASSEUR DE BOURBOURG, _Histoire du Mexique_, vol. i, p.
+328.
+
+
+
+
+Index
+
+
+Allen, Dr Harrison 208, 225, 238, 245
+
+
+Bancroft, H. H., Huitzilopochtli, description of 231
+  , Maya hieroglyphics, mode of reading 223
+
+Band, G. H. 229
+
+Braam, S. A. van 229
+
+Brasseur de Bourbourg, C. E. 208, 210, 243, 244
+
+
+Card catalogue of hieroglyphs 223
+
+Chalchihuitlicue 237
+
+Codex Telleriano Remensis 243
+
+Copan, Statues of 207, 224, 227, 228, 229, 245
+
+Cortez, H. 209
+
+Cuculkan. (_See_ Quetzalcoatl.)
+
+
+Deciphering, Principles of 207
+
+Desaix, le Capitaine 210
+
+
+Herrera 232
+
+Hieratic art 210
+
+Hieroglyphs 210
+  are read in a certain order 223
+
+Huitzilopochtli 229, 230, 231, 232, 233, 234, 235, 236, 238, 239, 241
+
+
+Kingsborough, Lord 210
+
+
+Landa, Bishop 208, 243
+
+Landa's hieroglyphic alphabet 208
+
+Leemans, Dr 229
+
+Leon y Gama 232
+
+Lockwood, Miss Mary 224
+
+
+Manuscript Troano 234
+
+Miclantecutli 229, 232
+
+Months, their hieroglyphs 243
+
+MS. Troano 234
+
+Mueller, J. G., Mexican gods 232
+
+
+Naolin 230
+
+Nomenclature 211, 220
+
+
+Palenque, Statues of 207, 224, 237-239, 245
+
+
+Quetzalcoatl 230, 237, 239, 240, 241, 242, 243
+
+
+Rau, Dr 221
+
+
+Stephens, John L. 207-210
+
+
+Teoyaomiqui 229
+
+Tetzcatlipoca 230
+
+Tlaloc 229, 230, 231, 233-239, 241, 244
+
+Torquemada 232
+
+Touatihu 230
+
+Troano, Manuscript 234
+
+
+Valentini 243
+
+Variank 208
+
+
+Waldeck 210, 243
+
+
+
+
+Transcriber's Note
+
+  TN-1   209  cotemporaries should read contemporaries
+  TN-2   210  the the should read the
+  TN-3   220  Maya day should read Maya day.
+  TN-4   225  coindences should read coincidences
+  TN-5   227  Synonomous should read Synonymous
+  TN-6   230  Cuculkan should read Cukulcan
+  TN-7   231  blue globe. should read blue globe."
+  TN-8   232  Tezcatlipoca should read Tetzcatlipoca
+  TN-9   Fig. 55  Huitzilopochtli should read HUITZILOPOCHTLI
+  TN-10  237  pertend should read pretend
+
+The following word was inconsistently spelled:
+
+Labphak / Labphax
+
+The following phrase had inconsistent use of italics and
+capitalization:
+
+_MS. Troano_ / _Ms. Troano_ / MS. _Troano_
+
+
+
+
+
+End of the Project Gutenberg EBook of Studies in Central American
+Picture-Writing, by Edward S. Holden
+
+*** END OF THIS PROJECT GUTENBERG EBOOK CENTRAL AMERICAN PICTURE-WRITING ***
+
+***** This file should be named 23562.txt or 23562.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/3/5/6/23562/
+
+Produced by PM for Bureau of American Ethnology, Julia
+Miller, and the Online Distributed Proofreading Team at
+http://www.pgdp.net (This file was produced from images
+generously made available by the Bibliotheque nationale
+de France (BnF/Gallica) at http://gallica.bnf.fr)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

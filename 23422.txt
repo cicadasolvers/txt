@@ -1,0 +1,3090 @@
+Project Gutenberg's Essays Towards a Theory of Knowledge, by Alexander Philip
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Essays Towards a Theory of Knowledge
+
+Author: Alexander Philip
+
+Release Date: November 9, 2007 [EBook #23422]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THEORY OF KNOWLEDGE ***
+
+
+
+
+Produced by Barbara Tozier, Bill Tozier, Michael Zeug,
+Lisa Reigel, and the Online Distributed Proofreading Team
+at http://www.pgdp.net
+
+
+
+
+
+Transcriber's Note: Words in Greek in the original are transliterated
+and placed between +plus signs+. Words italicized in the original are
+surrounded by _underscores_. Characters superscripted in the original
+are inclosed in {} brackets.
+
+
+
+
+ESSAYS TOWARDS
+A THEORY OF KNOWLEDGE
+
+
+     _Rosalind:_ I pray you, what is't o'clock?
+
+     _Orlando:_  You should ask me, what time o' day;
+                   there's no clock in the forest.
+
+                    _As You Like It, Act III. Sc. 2._
+
+
+
+
+ESSAYS TOWARDS A
+THEORY OF KNOWLEDGE
+
+
+BY
+
+ALEXANDER PHILIP
+F.R.S.E
+
+
+[Illustration]
+
+
+LONDON
+GEORGE ROUTLEDGE & SONS LIMITED
+NEW YORK: E. P. DUTTON & CO.
+1915
+
+
+
+
++he gar achromatos te kai aschematistos kai anaphes ousia ontos ousa
+psyches kybernete monoi theatei no, peri hen to tes alethous epistemes
+genos, touton echei ton topon.+--PHAEDRUS.
+
+
+
+
+PREFACE
+
+
+Two years ago, in the preface to another essay, the present writer
+ventured to affirm that "Civilisation moves rather towards a chaos than
+towards a cosmos." But he could not foretell that the _descensus Averni_
+would be so alarmingly rapid.
+
+When we find Science, which has done so much and promised so much for
+the happiness of mankind, devoting so large a proportion of its
+resources to the destruction of human life, we are prone to ask
+despairingly--Is this the end? If not; how are we to discover and assure
+for stricken Humanity the vision and the possession of a Better Land?
+
+Not certainly by the ostentatious building of peace-palaces nor even by
+the actual accomplishment of successful war. Only by the discovery of
+true first principles of Thought and Action can Humanity be redeemed.
+Undeterred by the confused tumult of to-day we must still seek a true
+understanding of what knowledge is--what are its powers and what also
+are its limitations. Nor may we forget that other principle of
+life--with which it is so quaintly contrasted in Lord Bacon's
+translation of the Pauline aphorism--_Knowledge bloweth up, Charity
+buildeth up._
+
+_January 1915._
+
+
+
+
+CONTENTS
+
+
+                                         PAGE
+I
+
+TIME AND PERIODICITY                       11
+
+
+II
+
+THE ORIGIN OF PHYSICAL CONCEPTS            17
+
+
+III
+
+THE TWO TYPICAL THEORIES OF KNOWLEDGE      36
+
+
+IV
+
+THE DOCTRINE OF ENERGY                     81
+
+
+
+
+ESSAYS TOWARDS A
+THEORY OF KNOWLEDGE
+
+
+
+
+I
+
+TIME AND PERIODICITY
+
+
+We can measure Time in one way only--by counting repeated motions. Apart
+from the operation of the physical Law of Periodicity we should have no
+natural measures of Time. If that statement be true it follows that
+apart from the operation of this law we could not attain to any
+knowledge of Time.[11:1] Perhaps this latter proposition may not at
+first be readily granted. Few, probably, would hesitate to admit that in
+a condition in which our experience was a complete blank we should be
+unable to acquire any knowledge of Time; but it may not be quite so
+evident that in a condition in which experience consisted of a
+multifarious _but never repeated_ succession of impressions the
+Knowledge of Time would be equally awanting.[12:1] Yet so it is. The
+operation of the Law of Periodicity is necessary to the measurement of
+Time. It is by means, and only by means, of periodic pulsative movements
+that we ever do or can measure Time. Now, apart from some sort of
+measurement Time would be unknowable. A time which was neither long nor
+short would be meaningless. The idea of unquantified Time cannot be
+conceived or apprehended. Time to be known must be measured.
+
+Periodicity, therefore, is essential to our Knowledge of Time. But
+Nature amply supplies us with this necessary instrument. The Law of
+Periodicity prevails widely throughout Nature. It absolutely dominates
+Life.
+
+The centre of animal vitality is to be found in the beating heart and
+breathing lungs. Pulsation qualifies not merely the nutrient life but
+the musculo-motor activity as well. Eating, Walking,--all our most
+elementary movements are pulsatory. We wake and sleep, we grow weary and
+rest. We are born and we die, we are young and grow old. All animal life
+is determined by this Law.
+
+Periodicity--generally at a longer interval of pulsation--equally
+affects the vegetal forms of life. The plant is sown, grows, flowers,
+and fades.
+
+Periodicity is to us less obvious in the inanimate world of molecular
+changes; yet it is in operation even there. But it is more especially in
+the natural motions of those so-called material masses which constitute
+our physical environment that Periodicity most eminently prevails.
+Indeed it was by astronomers that the operation of this Law was first
+definitely recognised and recorded. Periodicity is the scientific name
+for the Harmony of the Spheres.
+
+The two periodic motions which most essentially affect and concern us
+human beings are necessarily the two periodic motions of the globe which
+we inhabit--its rotation upon its axis which gives us the alternation of
+Day and Night, and its revolution round the Sun which gives us the year
+with its Seasons. To the former of these, animal life seems most
+directly related; to the latter, the life of the vegetal orders. It is
+evident that the forms of animal life on the globe are necessarily
+determined by the periodic law of the Earth's diurnal rotation. This
+accounts for the alternations of waking and sleeping, working and
+resting, and so forth. In like manner the more inert vitality of the
+vegetable kingdom is determined by the periodic law of the Earth's
+annual revolution. When fanciful speculators seek to imagine what kind
+of living beings might be encountered on the other planets of our
+system, they usually make calculations as to the force of gravity on the
+surface of these planets and conjure up from such data the possible size
+of the inhabitants, their relative strength and agility of movement,
+etc. So far so good. But the first question we should ask, before
+proceeding to our speculative synthesis, should rather be the length of
+the planet's diurnal rotation and annual revolution periods. Certain
+planets, such as Mars and Venus, have rotation periods not very
+different from those of our own Earth.[14:1] Other things being equal,
+therefore, a certain similarity of animal life must be supposed possible
+on these planets. On the other hand, the marked difference in their
+revolution period would lead us to expect a very wide divergence between
+their lower forms of life, if any such there be, and our own terrestrial
+vegetation. The shorter the annual period the more would the vegetal
+approximate to the animal, and _vice versa_. It would, however, be
+foolish to waste more time over a speculation so remote.
+
+But these two facts remain unshaken:--(1) That our measurements and
+whole science of Time depend absolutely on the operation throughout
+Nature of the Law of Periodicity, and (2) that the periodicities which
+affect and determine animal and vegetal life upon our Earth are the
+periodic movements of rotation and revolution of that Earth itself.
+
+Now it is to the curvilinear motions of the heavenly bodies that we must
+ascribe our subjection to the periodic law. If these heavenly bodies
+moved for ever in straight lines, as they would do if unacted on by
+natural forces, the periodic rhythm of Nature would disappear.
+
+It is to the fact that all Nature is under the constraint due to the
+constant silent operation of physical Force that we owe, therefore, the
+law which determines the most essential features of vitality. The
+pulsations in which life consists and by which it is sustained are
+attributable to the constraint and limitation which we recognise as the
+effect of the operation of Natural Force. It is to this same cause that
+we ascribe the resistance of cohering masses in virtue of which
+sensation arises and by which our experience is punctuated. It is by
+means of these obstructions to free activity that our experience is
+denoted, and by reference to these that it is cognised. Indeed, Activity
+itself as we know it depends upon and presupposes the existence of
+these cohering masses.
+
+Thus the operation of Natural Force and the constraint and limitation
+which are thereby imposed upon our activity appear at once to determine
+the conditions of life and to furnish the fundamental implements of
+Knowledge.
+
+We cannot overleap the barriers by which Life is constrained. These,
+whilst, on the one hand they seem to _create the environment_ which
+sustains Life, on the other hand seem to impose upon it the limitations
+under which it inevitably fails and dies. We cannot even in imagination
+conceive, either as reality or as fancy, the illimitable puissance of a
+Life perfectly free and unrestrained. Yet the assurance that Perfect
+Love could overcome the bonds of Materiality and Death encourages in
+mankind the Hope of an existence beyond the impenetrable veil of
+physical limitation. And this at any rate may be admitted, namely, that
+that dynamic condition in which materiality arises is also the
+condition-precedent of Tridimensionality, of Force, of Time, and of
+Mutation. But we cannot thus account for the _elan vital_ itself.
+
+
+FOOTNOTES:
+
+[11:1] Plato in the dialogue _Timaeus_ tells us that Time was born with
+the Heavens, and that Sun, Moon, and Planets were created in order that
+Time might be.
+
+[12:1] This might be contrasted with the statement of M. Bergson who
+tells us (_Evolution creatrice_, p. 11): "Plus nous approfondirons la
+nature du temps plus nous comprendrons que duree signifie invention,
+creation de formes, elaboration continue de l'absolument nouveau."
+
+[14:1] Recently, we believe, astronomers have favoured the view that the
+day of Venus is equal in length to her year.
+
+
+
+
+II
+
+THE ORIGIN OF PHYSICAL CONCEPTS
+
+
+"_Penser c'est sentir_," said Condillac. "It is evident," said Bishop
+Berkeley, "to one who takes a survey of the _objects_ of Human Knowledge
+that they are either ideas actually imprinted on the senses or else such
+as are perceived by attending to the passions and operations of the
+Mind, or lastly ideas formed by help of memory and imagination either
+combining, dividing, or barely representing those originally perceived
+in the foresaid ways." J. S. Mill tells us, "The points, lines, circles,
+and squares which one has in his mind are, I apprehend, simply copies of
+points, lines, circles, and squares which he has known in his
+experience," and again, "The character of necessity ascribed to the
+truths of Mathematics and even, with some reservations to be hereafter
+made, the peculiar certainty attributed to them is an illusion." "In the
+case of the definitions of Geometry there exist no real things exactly
+conformable to the definitions." Again Taine, "_Les images sont les
+exactes reproductions de la sensation._" Again Diderot, "_Pour imaginer
+il faut colorer un fond et detacher de ce fait des points en leur
+supposant une couleur differente de celle du fond. Restituez a ces
+points la meme couleur qu'au fond,--a l'instant ils se confondent avec
+lui et la figure disparait_," etc. Again, Dr. Ernest Mach, Vienna,
+remarks, "We are aware of but one species of elements of Consciousness:
+sensations." "In our perceptions of Space we are dependent on
+sensations." Dr. Mach repeatedly refers to "space-sensations," and
+indeed affirms that all sensation is spatial in character.[18:1]
+
+According to the view of Knowledge of which we have extracted examples
+above, the ideas of the mind are originally furnished to it by
+sensation, from which therefore are derived, not necessarily all our
+Thoughts, but all the materials of Discourse, all that constitutes the
+essence of Knowledge.
+
+Our purpose at the moment is to show that this view is altogether false,
+and our counter proposition is, that it is from our Activity that we
+derive our fundamental conceptions of the external world; that
+sensations only mark the interruptions in the dynamic Activity in which
+we as potent beings partake, and that they serve therefore to denote and
+distinguish our Experience, but do not constitute its essence.
+
+We do not propose now to devote any time to the work of showing that
+sensations from their very nature could never become the instruments of
+Knowledge. We propose rather to turn to the principal ideas of the
+external world which are the common equipment of the Mind in order to
+ascertain whether in point of fact they are derived from Sensation.
+
+Of course to some extent the answer depends on what we mean by
+Sensation. If by that term we intend our whole Experience of the
+external, then of course it necessarily follows--or, at least, we
+admit--that our Knowledge of the external must be thence derived. But
+such a use of the term is loose, misleading, and infrequent. The only
+safe course is to confine the term Sensation to the immediate data of
+the five senses--touch, sight, hearing, smell, and taste, with probably
+the addition of muscular and other internal feelings. It is in this
+sense that the word is usually employed, and has been employed by the
+Sensationalist School themselves.
+
+Now we might perhaps begin by taking the idea of Time as a concept
+constantly employed in Discourse, but of which it would be absurd to
+suggest that it is supplied to us by Sensation. It might, however, be
+urged in reply that the idea of Time is not derived from the external
+world at all, but is furnished to us directly by the operations of the
+Mind, and that therefore its intellectual origin need not involve any
+exception to the general rule that the materials of our Knowledge of the
+world are furnished by Sensation alone. Without, therefore, entering
+upon any discussion of the interesting question as to what is the real
+nature of Time, we shall pass to the idea of Space.
+
+Mach, the writer whom we have already quoted, in his essay on _Space and
+Geometry_ speaks constantly and freely of sensations of Space, and as
+there can be no denial of the fact that Space is a constituent of the
+external world, it would seem to follow that those who hold Sensation to
+be the only source of our Knowledge must be obliged to affirm the
+possibility of sensations of Space. Mach indeed claims to distinguish
+physiological Space, geometrical Space, visual Space, tactual Space as
+all different and yet apparently harmoniously blended in our Experience.
+He is, however, sadly wanting in clearness of statement. He never tells
+us when and where exactly we do have a sensation of Space. In truth he
+never gets behind the postulate of an all-enveloping tridimensional
+world; so that he throughout assumes Space as a datum, and his inquiry
+is an effort to rediscover Space where he has already placed it.
+
+Let us, however, consider for a moment what can be meant by a sensation
+of Space. Does it not look very like a contradiction in terms? Pure
+Space, if it means anything, means absolute material emptiness and
+vacuity. How, then, by any possibility can it give rise to a sensation?
+What sensory organ can it be conceived as affecting? How and in what way
+can it be felt?
+
+The truth is the idea of Space is essentially negative. It represents
+absence of physical obstruction of every kind. No doubt, we may describe
+it positively as a possibility of free movement, and such a description
+is at once true and important. Yet even _it_ involves a negative. The
+term "free" is in reality, though not in form, a negative term and means
+"unconstrained." And the reason why such a term is necessarily negative
+is to be found in the fact that a state of dynamic constraint is the
+essential condition under which we enter upon our organic existence.
+Freedom is a negation of the Actual. Absolute freedom is a condition
+only theoretically possible, and is essentially the negation of the
+state of restraint in which our life is maintained.
+
+But the definition last quoted is nevertheless valuable because it
+clearly shows what really is the origin of the idea of Space. It proves
+that the idea of Space is a representation of one condition of our
+Activity. It is because the primary work of Thought is to represent the
+forms of our dynamic Activity that we find the idea of Space so
+necessary and fundamental.
+
+But it will perhaps be argued that our ordinary sensations carry with
+them a spatial meaning and implication, and that indirectly, therefore,
+our sensations _do_ supply us with the idea of Space. It will readily be
+agreed that if this is so of any sensations it is pre-eminently true of
+the sensations of vision and touch. Indeed, it will perhaps not be
+disputed that the ordinary vident man derives from the sensations of
+vision his most common spatial conceptions. We propose, therefore, to
+inquire very briefly how the character of spatial extension becomes
+associated with the data of Vision.
+
+The objects of Vision appear to be displayed before us in immense
+multitude, each distinct from its adjacent neighbour, yet all
+inter-related as parts of one single whole--the presentation thus
+constituting what is called Extensity.
+
+This is the most commonly employed meaning of the term spatial. Yet it
+is evidently in its origin rather temporal than spatial. In ordinary
+movement we encounter by touch various obstacles, but only a very few of
+these impress us at any one moment of time. On the contrary, they
+succeed one after the other. To the blind, therefore, as Platner long
+ago remarked: Time serves instead of Space. In Vision, on the other
+hand, a large number, which it would take a very long time to encounter
+in touch, are presented _simultaneously_. In this there is an immense
+practical advantage, the result being that we come habitually to direct
+our every action by reference to the data of Sight. Now it is because
+these data--so simultaneously presented--are employed by us as the
+guides of action that their presentation acquires the character which we
+denominate Extensity. The simultaneous occurrence of a large number of
+Sounds does not seem to us to present such a character. But let us
+suppose that all the objects which constitute obstacles to our Activity
+emitted Sounds by which they were recognised; it is not doubtful that
+these would then come to be employed by us as the guides of our Activity
+and would acquire in our minds the character of Extensity. They would
+arrange themselves in a cotemporaneous, extensive, or spatial relation
+to one another just as the objects of Vision do at present.
+
+It is only, therefore, when we come to employ the simultaneous
+presentation of Vision as the instrument of our Activity and the guide
+of Action that it acquires the character commonly called extensive.
+_Successive_ visual sensations convey no extensive suggestion.
+
+It is important to realise the nature of this peculiar feature in the
+data of Vision. The sounds which we hear, the odours which we smell, are
+the immediate result of certain undulations affecting the appropriate
+organ of sensation. We refer these to the object in which the
+undulations originate. In like manner a light which we see is referred
+to its objective luminous source. But light also and in addition is
+reflected from, and thus reveals the presence of the whole body of our
+resistant environment. Hence is derived the coloured presentation of
+Vision to which the character of extensity attaches. Nothing similar
+takes place in the case of the other distantial sensations. If sonorous
+undulations excited vibration in every resistant object of the
+environment they would undoubtedly come to arrange themselves in an
+order resembling the extensity suggested by Vision, though the slower
+rate of transmission of sound would detract from the practical
+simultaneity in the effect which, as we have seen, largely accounts for
+the perception of visual extensity. The universal diffusion of sunlight
+is also a determining factor.
+
+       *       *       *       *       *
+
+The matter becomes still clearer when we contrast the experience of
+vident men with what we have been able to learn of the experiences of
+the blind. Nowhere have we found this aspect of the question discussed
+with the same clearness and ability as by M. Pierre Villey in his
+recently published essay, _Le Monde des Aveugles_--Part III.
+
+The blind man, as he remarks, requires representations in order to
+command his movements. We must then penetrate the mind of the blind and
+ascertain what are his representations. Are they, he asks, muscular
+images combined by temporal relations, or are they images of a spatial
+order? He replies without hesitation: Both, but, above all, spatial
+images. It is clear, he says, that the modalities of the action of the
+blind are explained by spatial representations. These must be derived
+from touch. What, then, can be the spatial representations which arise
+from touch? The blind, he says, are often asked, How do you figure to
+yourself such and such an object, a chair, a table, a triangle? M.
+Villey quotes Diderot as affirming that the blind cannot imagine.
+According to Diderot, images require colour, and colour being totally
+wanting to the blind the nature of their imagination was to him
+inconceivable. The common opinion, says M. Villey, is entirely with
+Diderot. It does not believe that the blind can have images of the
+objects around him. The photographic apparatus is awanting and the
+photograph cannot therefore be there.
+
+Diderot was a sensationalist. For this school, as Villey remarks,
+_l'image est le decalque de la sensation_, and he refers not merely to
+Condillac the friend of Diderot but to his continuator Taine whose
+dictum we have already quoted.
+
+Diderot attempts to solve the problem by maintaining that tactual
+sensations occupy an extended space which the blind in thought can add
+to or contract, and in this way equip himself with spatial conceptions.
+
+There would, on this view, as M. Villey remarks, be a complete
+heterogeneity between the imagination of the blind and that of the
+vident. M. Villey denies this altogether. He affirms that the image of
+an object which the blind acquires by touch readily divests itself of
+the characters of tactual sensation and differs profoundly from these.
+He takes the example of a chair. The vident apprehends its various
+features simultaneously and at once; the blind, by successive tactual
+palpations. But he maintains that the evidence of the blind is unanimous
+on this point, that once formed in the mind the idea of the chair
+presents itself to him immediately as a whole,--the order in which its
+features were ascertained is not preserved, and does not require to be
+repeated. Indeed, the idea divests itself of the great bulk of the
+tactual details by which it was apprehended, whilst the muscular
+sensations which accompanied the act of palpation never seek to be
+joined with the idea. This divestiture of sensation proceeds to such an
+extent that there is nothing left beyond what M. Villey calls the pure
+form. The belief in the reality of the object he refers to its
+resistance. The origin of each of these is exertional. The features upon
+which the mind dwells, if it dwells upon them at all, are _les qualites
+qui sont constamment utiles pour la pratique_--in a word, the dynamic
+significance of the thing.
+
+We may remark that much the same is true of the ideas of the vident. In
+ordinary Discourse we freely employ our ideas of external objects
+without ever attempting a detailed reproduction of the visual image.
+Such a reproduction would be both impracticable and unnecessary, and
+would involve such a sacrifice of time as to render Discourse altogether
+impossible. All that the Mind of the vident ordinarily grasps and
+utilises in his discursive employment of the idea of any physical thing
+is what we have ventured to call its dynamic significance. And the very
+careful analysis which M. Villey has made of the mental conceptions of
+the blind clearly shows that in their case he has reached exactly the
+same conclusion.
+
+Our fundamental conceptions of the external world are therefore derived
+from and are built up out of the data of our exertional Activity
+combined with the interruptions which that Activity perpetually
+encounters, and in which sensations arise. It would indeed be a useful
+work of psychological analysis if the conditions of exertional action
+were carefully and systematically investigated--much more useful than
+most of the trifling experiments to which psychological laboratories are
+usually devoted.
+
+The principal elements of such a scheme would be--
+
+(1) The force of gravity. This force constantly operating constrains
+the organism to be in constant contact with the earth on which we live.
+But, further, it gives us the definite idea of _Direction_. It is from
+the action of gravity that we derive our distinction between Up and Down
+from which as a starting-point we build up our conception of
+tridimensional Space. And in this respect it must be remembered that as
+the areas of spheres are proportional to the squares of their radii it
+necessarily follows that gravity if it acts uniformly in tridimensional
+Space _must_ vary in intensity in proportion to the square of the
+distance of the point of application from the centre of origin. Gravity
+and tridimensionality are in short necessarily connected.
+
+(2) The same law which determines the force of gravity seems to
+determine also the force of cohesion, and therefore the form of material
+bodies. These, therefore, are necessarily subject also to
+tridimensionality, and in the force which generates solid form we find a
+second source of our elementary spatial ideas.
+
+Such form is the expression of an obstacle to action which determines
+all our movements, and in which we discover those forms of the
+limitations of activity which we call spatial characters.
+
+(3) Organic Dualism is a third determinant of activity, and thus also a
+source of spatial ideas.
+
+The structural dualism of the human body, its right and left, its front
+and back, etc., furnish our activity with a set of constant forms to
+which its action must conform, and which necessarily also partake of,
+and help us to conceive of tridimensional form. It is interesting to
+note that this dualism characterises the organs specially adapted to
+serve exertional action rather than those which serve our vegetal or
+nutrient life.
+
+The way in which our spatial conceptions are ever extended and built up
+out of the data of action is also well illustrated in the case of the
+blind, and to this also M. Villey devotes an interesting chapter under
+the title _La conquete des representations spatiales_.
+
+This is effected in their case by the high development of what we must
+call active touch. Just as we distinguish between hearing and listening,
+between seeing and looking, so must we distinguish between touching and
+_palpation_.
+
+Mere passive touch gives a certain amount of information, but
+comparatively little. It is necessary to _explore_; that is what is done
+in active touch--palpation--of different degrees.
+
+The sensitiveness of the skin varies at different places from the tongue
+downwards. Palpation by the fingers marks a further stage. The blind
+also, we are told, largely employ the feet in walking as a source of
+locative data.
+
+To the concepts reached by such palpation with the hand, M. Villey gives
+the name of Manual Space. In this connection he thinks it necessary to
+distinguish between synthetic touch and analytic touch--the former
+resulting from the simultaneous application of different parts of the
+hand on the surface of a body, the latter that which we owe to the
+movements of our fingers when having only one point of contact with the
+object the fingers follow its contour. Various examples of the delicacy
+of the information thus obtainable are given. Following two straight
+lines with the thumb and index respectively, a blind man can acquire by
+practice a sensibility so complete as to enable him to detect the
+slightest divergence from parallelism.
+
+The analysis passes on from the data of Space manual to those of Space
+brachial; then to the information derived from walking and other
+movements of the lower limbs, and then to the co-ordination of the
+information derived from the sensations of hearing, which is necessarily
+very important to the blind.
+
+The conclusion of the whole matter is that our principal spatial ideas
+are common alike to the blind and the vident. Both can be taught and are
+taught the same geometry. Both understand one another in the
+description of spatial conditions. The common element cannot possibly be
+supplied either by the data of visual sensation which the blind do not
+possess, or by the data of passive tactual sensation which the vident
+hardly ever employ. _Une etendue commune se retrouverait a la fois dans
+les donnees de la vue et dans celles du toucher._ The common element is
+furnished by the common laws and forms of our exertional Activity by
+means of which and in terms of which we all construct our conceptions of
+the dynamic world of our environment.
+
+       *       *       *       *       *
+
+It is from our dynamic Activity also that we derive our conception of
+Force. Force, though it is studied scientifically in the measurement of
+the great natural forces which operate constantly, is originally known
+to us in the stress or pressure to which muscular exertion in contact
+with a material body gives rise. Such a force if it could be correctly
+measured, would record the rate at which Energy was undergoing
+transmutation, and it is from such experience of pressure that our idea
+of Force is originally derived.
+
+The mass of bodies is usually measured by their weight, _i.e._ by
+gravity. Its absolute measurement must be in terms of momentum. The true
+estimate of the Energy of a body moving under the impulse of a constant
+Force is stated in the formula 1/2MV{2}. To ascertain M, therefore, we
+must have given F and V, and these are both conceptions the original
+idea of which is derived from our exertional activity.
+
+Quantity of Matter originally means the same as amount of resistance to
+initiation of motion, at first estimated by the varying amount of
+personal muscular energy required to effect the motion in question,
+thereafter objectively and scientifically by comparison with some
+independent standard whereby a more exact estimation can be attained
+than was possible by a mere reference to the varying inferences of the
+individual who might exert the force.
+
+Space, Mass, Force are all therefore ideas which are furnished to us out
+of our experience as potent actors, and the recognition of this great
+truth provides us with the means of clearly apprehending and co-relating
+our conceptions of the external world, the framework of our Knowledge.
+
+The true distinction between a _percept_ and a _concept_ is just that a
+percept is a concept associated with the dynamic system discovered in
+and by our exertional activity.
+
+In like manner we find here the true solution of the many questions
+which have been raised as to the distinction between general and
+abstract, singular and concrete terms.
+
+Language expresses action: the roots of language are expressions of the
+elementary acts which make up experience. They are therefore general.
+Each applies to every act of the class in question. They are also
+concrete. That is so because they refer to exertional activities.
+Abstract terms are terms abstracted from this dynamic reference. Thus
+_white_ is concrete because colour is a property of the dynamic world.
+But when this property is considered apart from its dynamic support it
+is called _whiteness_, and becomes abstract. In the case of purely
+mental qualities the term is regarded as abstract simply because the
+quality is in every reference extra dynamic. Thus _candour_, _justice_
+are called abstract terms; they are properties of the Mind. But a
+property of the dynamic system, _e.g._ Gravitation, does not strike us
+as abstract--the sole distinction being the dynamic reference which the
+latter term implies.
+
+It will even be seen that there is sometimes a shading off of abstract
+quality. Thus _Justice_ as an attribute of the Mind strikes us as a
+purely abstract term. But as the word takes up a dynamic reference so
+does its abstraction diminish. Thus in the expression "Administration of
+Justice" the abstractive suggestion is less pronounced; till in the
+person of Justice Shallow it vanishes in the very concrete.
+
+Behind and beneath all these considerations we should never lose sight
+of the great main facts--that thought is an activity; that its function
+therefore is to represent or reproduce our pure exertional activity;
+that such representation is _at the basis_ of all our concepts of
+externality; that sensation, _per se_ is mere interruption of activity;
+that _per se_ it possesses no spatial or extensive or external
+suggestiveness; that sensations nevertheless serve to denote or give
+feature and particularity to our experience of activity; that all
+perception of the external is at bottom therefore a mental
+representation of exertional activity and its forms, denoted,
+punctuated, identified by sensation, which latter by itself, we repeat,
+carries no suggestion of externality. This view revolutionises the whole
+psychology of Perception, and therefore, though it at once gives to that
+science a much-needed unity, clarity, and simplicity, it will naturally
+be accepted with reluctance by the laborious authors of the cumbrous
+theories still generally current.
+
+
+FOOTNOTES:
+
+[18:1] His reason is that we _ab origine_ localise sensations with
+reference to our organism. This, of course, means by reference to the
+system of potent energy in which our organism essentially consists.
+
+
+
+
+III
+
+THE TWO TYPICAL THEORIES OF KNOWLEDGE
+
+
+The evolution of living organisms is in general a gradual and continuous
+process. But it is nevertheless true that it presents well-marked stages
+and can best be described by reference to these. Frequently, moreover,
+the meaning and true nature of the movement at one stage is only
+revealed after a subsequent stage has been reached.
+
+The development of a brain or cerebrum marks one important advance. The
+presence of this organ renders possible to the animal in varying degree
+what are called representations of objects, and the faculty of making
+such representations appears to be a condition precedent to the
+development of deliberation, volition, and purposive action as opposed
+to reflex or instinctive activity. The latter is specially
+characteristic of other orders of organic existence such as the
+Articulata--being remarkably exemplified in the activities of the social
+insects such as the bee.
+
+The advent of man with his faculty of Discourse may be regarded as
+marking another distinct stage in the evolutionary movement--a stage,
+moreover, the operations of which throw light upon the whole nature of
+cerebral representations. The faculty of rational Discourse, as Max
+Mueller pointed out, is denominated in Greek by the word +logos+,
+applicable at once to the mental activity and to its appropriate
+expression in speech. Discourse is an instrument by means of which man
+has been enabled to construct his whole system of representations of the
+world in which he lives, the system of what is commonly called his
+Knowledge. Human Knowledge just is the body of man's representations of
+his Experience in the world of which he forms a part. It is not
+necessary to insist here on the gradual but remarkable growth and
+extension which Human Knowledge has undergone during the last two
+thousand years. Concurrently with its extension man's ability to control
+the forces of Nature has been enlarged and increased. At the same time,
+however, that extension has rendered possible false developments and
+aberrations to which the more limited representations of the brute are
+less liable.
+
+With the faculty of rational Discourse constantly striving to extend the
+bounds of Knowledge, man came in time to attempt to give an account not
+only of the immediate objects which surround him, but of the whole choir
+of Heaven and furniture of Earth. In this advance the Greeks took a
+leading part.
+
+When we first make acquaintance through historical records with the
+intellectual activity of the Greek mind, we find it engaged in the
+construction of various such schemes for an explanation of the
+world--usually called cosmogonies.
+
+It was at this stage of intellectual progress that what we might call an
+interruption occurred in the normal process of evolution. Great
+intellectual activity had for some time prevailed in the Greek
+communities; several men of conspicuous genius--notably Heracleitus and
+Parmenides--had carried speculation as to the origin and nature of the
+world to a height hitherto undreamt of. These achievements and the
+consciousness of continual progress had engendered in Athens
+particularly what might be called an epidemic of intellectual pride.
+
+On this scene Socrates appeared, plain, blunt, critical. His teaching
+was in effect an appeal to men to reflect: to turn their attention away
+from the world which they were supposed to be explaining to the
+contemplation of their own Minds by which the explanation was
+furnished. +gnothi seauton+ was his motto. All explanations of the
+Universe or of Experience were, as he showed, vain unless the Cognitive
+Faculty by which they were constructed were operating truly. In
+particular, the process of Rational Discourse implied the use of
+concrete general terms, which were recognised to be the essential
+instruments of Cognition. Socrates therefore devoted his attention
+specially to a critical examination of these general terms and also of
+the abstract terms which were the familiar instruments of Discourse.
+
+The Greeks of that day were endowed with a singular clearness of
+intellectual vision. They readily recognised that Knowledge was an
+intellectual process; they appreciated the activity of Thought or
+Rational Discourse as essential to its formation. They quite understood
+that Knowledge is not of the nature of a photograph--a resemblant
+pictorial reproduction of the data furnished by sensation. Only very
+casually and occasionally do we ever attempt to supply ourselves with a
+resemblant reproduction of our sensations. Obviously such a reproduction
+would only be of value memorially and could tell us nothing new.
+
+These early Greeks realised this, and they appear to have realised also
+pretty clearly that it would be impossible by means of such pictorial
+impressions to establish any community of Knowledge. It is of the
+essence of Knowledge that it is something which can be communicated to,
+and which is the common possession of, several individuals. That can
+never be true of sensation. We can never tell whether our sensations are
+the same as those of other people--never at any rate by means of
+sensations themselves; never unless and until such sensations have been
+inter-related by some other instrument. A mere photographic reproduction
+of sensation is thus quite useless as a means of Knowledge.
+
+In some way or other general terms supply the common bond. The
+recognition of this fact was one of the great results of the Socratic
+discussion. This explains the immense importance which Socrates
+naturally attached to the criticism of general and abstract terms.
+
+       *       *       *       *       *
+
+The work of Socrates in this direction was immediately taken up and
+carried much further by Plato. Plato maintained that these general and
+abstract terms were in truth the names of ideas (+eide+) with which the
+mind is naturally furnished, and further that these ideas corresponded
+to and typified the eternal forms of things--the essential constituents
+of the real world. Knowledge was possible because there were such
+eternal forms or ideal elements--the archetypes--of which the +eide+
+were the counterparts and representations.
+
+Knowledge, Plato held, was concerned solely with these eternal forms,
+not with sensation at all. The sensible world was in a state of constant
+flux and could not be the object of true science. Its apprehension was
+effected by a faculty or capacity (_Republic_, v. 478-79) midway between
+Knowledge and nescience to which he applied the term +doxa+, frequently
+translated _opinion_, but which in this connection would be much more
+accurately rendered, _sensible impression_, or even perception. At any
+rate, the term _opinion_ is a very unhappy one, and does not convey the
+true meaning at all, for no voluntary intellective act on the part of
+the subject was implied by the term. Now intelligence in constructing a
+scheme of Knowledge is active. The ideas are the instruments of this
+activity.
+
+Plato's doctrine of ideas was probably designed or conceived by him as
+affording an explanation also of the community of Knowledge. He
+emphasised the fluent instability of the sensible impression, and as we
+have already pointed out, sensation in itself labours also under this
+drawback that it contains and affords no common nexus whereby the
+conceptions or perceptions of one man can be compared or related with
+those of another.
+
+Indeed, if Experience were composed solely of sensations, each
+individual would be an isolated solipsistic unit--incapable of rational
+Discourse or communication with his fellow-men. To cure this defect,
+Plato offered the ideas--universal forms common to the intelligence of
+every rational being. Not only would they render possible a common
+Knowledge of Reality--the existence of such ideas would necessarily also
+give permanence, fixity, law, and order to our intellectual activity.
+Our Knowledge would not be a mere random succession of impressions, but
+a definitely determined organic unity.
+
+In all this argument it must be remembered Plato never said or suggested
+that the intellect of man--thus equipped with ideal forms--was thereby
+enabled to become, or did become, the creator of the world by and in
+which each one believes himself to be surrounded and included. He always
+distinguished between Idea and Reality, between Thought and Thing. The
+ideas were types of the forms immanent in things themselves. It has been
+said by some scholars that he generally distinguished between the two by
+the employment of distinct terms, applying +eidos+ to the mental
+conception and +idea+ to the substantial form. This verbal distinction
+was accepted by many scholars of the epoch of Liddell and Scott and
+Davies and Vaughan. A reference to this distinction in the present
+writer's essay on _The Dynamic Foundation of Knowledge_ provoked at the
+instance of one critic the allegation that it is not borne out by a
+critical study of the Platonic texts. That is a matter of little moment
+and one upon which the writer cannot claim to pronounce. The important
+point is that in one way or another Plato undoubtedly distinguished
+between and indeed contrasted the idea and the substantial form. No
+trace of the solipsism which results from their being confounded and
+which has ultimately brought to destruction the imposing edifice of
+Hegelian Thought is to be found in his writings.
+
+       *       *       *       *       *
+
+The Platonic doctrine of ideas speedily found an energetic critic in
+Aristotle. In Aristotle's view, it was quite unnecessary and
+unwarrantable to postulate the existence in the Mind of ideal forms or
+counterparts of the substantial forms of Reality. This, according to
+him, was a wholly unnecessary reduplication. He was content to believe
+that the mind found and recognised the essential forms of things when
+they were presented to it in perceptive Experience. _Universalia in re_
+were conceived by him as sufficiently explaining the genesis of
+cognition without the postulation of any such _universalia extra rem_.
+
+       *       *       *       *       *
+
+To the Platonic doctrine he offered the further objection that the
+eternal forms of things which that doctrine affirmed and which it
+declared to be represented in their ideal types were necessarily
+impotential. There was no generative power in the pure activity of
+Thought. If, therefore, the essentials of Reality were ideal, it
+followed that they also were impotent, and incapable of causative
+efficacy. The sensible world, however, was a fluent and perpetually
+generated stream, which required some potent cause to uphold it.
+
+The eternal Reality which sustained the world was for him an Energy
+constantly generating the actual, and no conception which failed to
+provide for this process of causative generation of the things of Sense
+could in his view adequately account for the phenomena of Nature nor
+consequently could constitute the system of science.
+
+In this argument Aristotle undoubtedly expressed a profound truth, but
+it may perhaps be admitted that he rather failed to appreciate fully
+the difficulty which the Platonic doctrine was designed to meet--that,
+namely, of providing some sort of common nexus or unifying principle by
+which the validity of Knowledge could be maintained. For he had no
+certain means of showing that the potent energy of Nature was unitary
+and homogeneous.
+
+He is frequently described as a sensationalist, but such a view is
+certainly incorrect. This, however, may be admitted--that he sought the
+essentials of Reality not in the Mind but in the Object. It may be
+fairly claimed that to this extent he occupied common ground with the
+sensationalists, in that he was an adherent of the _tabula rasa_ view of
+the Mind, expressed in the maxim:--
+
+_Nihil est in intellectu quod non fuit in sensu._
+
+       *       *       *       *       *
+
+Plato and Aristotle may be taken as typical of the two principal
+intellectual tendencies which have characterised all subsequent
+speculation--the Platonist, he who finds in the constitution of the Mind
+the eternal principles or at least the types of the eternal principles
+of Reality; the Aristotelian, he for whom these seem to reside in the
+object and, in the act of Cognition, are merely impressed upon,
+transferred to, presented to, or otherwise introduced into or
+apprehended by the Mind.
+
+The Aristotelian view of Nature as an energetic process failed to
+impress itself upon his successors. Greek Philosophy soon after
+Aristotle's death decayed or was deprived of its early vigour, and the
+doctrine which survived the wreck was essentially derived, however
+imperfectly, from the Platonic theory.
+
+Throughout the first fifteen hundred years of the Christian era this
+doctrine undoubtedly dominated the course of speculation--a speculation
+of which much is now forgotten and almost as much was certainly barren
+and unfruitful, but of which we would entertain a very mistaken notion
+if we were to imagine that it was not often pursued with great subtlety
+and acumen.
+
+One natural result of the fact that such a principle dominated human
+thought was the prevalence of a belief that the explanation of Nature
+and natural processes could be derived from the cognitive faculty
+itself. Our cognition of our immediate surroundings was doubtless
+continuously corrected by immediate practical tests. But the science of
+a more extended view of Nature was vitiated by this false principle and
+in consequence for many centuries our whole Knowledge of Nature remained
+unprogressive and unfruitful.
+
+_Causa aequat effectum_, Nature abhors a vacuum, are examples of the
+maxims derived or supposed to be derived from the necessities of our
+Reason, and by the aid of which it was vainly hoped to attain a
+knowledge of Nature and natural laws.
+
+The principle was in itself unsound.
+
+The necessary laws of our rational faculty could discover to us only the
+essentials of that faculty itself.
+
+The maxims by which it was sought to constitute _a priori_ a scheme of
+natural laws could not justly claim descent from the necessities of
+Thought. Had the Schoolmen formed a true conception of the nature of
+Knowledge they would never have imagined that any necessity of Thought
+obliged them to believe that a 10 lb. weight would fall to the ground
+more rapidly than a 1 lb. weight. Equally true is it that their
+scientific principles had not been derived from any study of the action
+of natural law. They were unacknowledged intellectual orphans.
+
+The movement associated with the names of Galileo, Bruno, Bacon, Kepler,
+and Newton owed its origin and its success to the abandonment of this
+vicious principle. So far as Nature was concerned, the Mind was regarded
+as a _tabula rasa_, and the physician set himself to ascertain the laws
+of nature not by reflection upon his own mental processes or
+requirements, but by experiment with and observation of natural
+processes themselves. The result has been the establishment of modern
+science--the greatest triumph which the human mind has yet achieved.
+
+     In a criticism of the writer's essay on _The Dynamic
+     Foundation of Knowledge_ in the _Revue neo-scolastique_ of
+     Louvain, the critic wrote as follows: "Remarquons qu'il n'a
+     pas compris la synthese scolastique du moyen age, elle qui
+     cependant a concilie d'une facon admirable l'_actuel_ et le
+     _potentiel_ dans l'explication de la nature des choses. Il
+     s'est mepris aussi sur les caracteres de la methode
+     scolastique de connaitre la constitution intime du monde
+     experimental; il croit cette methode exclusivement deductive."
+
+     We have felt that candour demanded that we should quote the
+     foregoing passage--coming as it does from a source
+     exceptionally well qualified to express an opinion. If we have
+     nevertheless allowed ourselves in the precedent paragraphs of
+     this essay to express again the view which this critic seeks
+     to qualify, but which we still think in the main sound, we are
+     at the same time very glad to be able in this way to invite
+     attention to the undoubted fact that the distinction between
+     the actual and the potential was recognised by the schoolmen
+     as of a very deep significance. We believe further that the
+     real secret of the failure of mediaevalism to extend its
+     Knowledge of Nature was not so much a preference for
+     deductive over inductive methods as the failure to realise
+     that Nature was a dynamic operation.
+
+It is important, then, to understand accurately what is the method of
+Science.
+
+The external world of our Experience seems to be composed of sensible
+impressions. The ever present visual panorama combined with the constant
+occurrence of other sensations suggests that Nature is, as has so often
+been asserted, simply another name for the sensible presentation. A
+truer view of Nature was adumbrated by Aristotle when he formulated the
+theory of an Energy ever generative of the sensible. If the founders of
+Science did not fully grasp the Aristotelian conception, it is at least
+certain that they looked upon Nature not merely as a sensible
+presentation but as a process--a dynamic operation. It was to the study
+of these operations, to the measurement of the natural forces or normal
+categories of physical action that Galileo and Newton devoted
+themselves. The true estimate of a moving force may indeed be said to
+have been their first great problem, just as the law of universal
+gravitation was their grandest generalisation.
+
+It was to this sure instinct that the founders of Science owed their
+success. Had they devoted themselves to the mere study of sensations--of
+blue things and green things, of hard things and soft things, of loud
+things and silent things--Science as an efficient and co-ordinated
+system would never have come into being.
+
+       *       *       *       *       *
+
+Having struck the right path, they moved rapidly along it, leaving the
+Schoolmen and Philosophers behind them, suspicious, hostile, and amazed.
+
+But Philosophy did not remain altogether negative. The new movement
+extended itself to Metaphysics, and under the leadership of Descartes a
+resolute effort was made to reform Philosophy on sympathetic lines.
+
+It was in the true spirit of Socrates that Descartes advanced his famous
+method of Doubt. The whole fabric of beliefs and rational principles was
+to be subjected to a re-examination, and Descartes found himself on
+bedrock when he touched his famous _Cogito, ergo sum._ The simple fact
+or act of Doubt implied the Activity--the Reality therefore--of the
+Doubter. But the cogitant subject was reduced very much to the condition
+of a _tabula rasa_, and when Descartes proceeded to fill up the blank
+with a rediscovery on more scientific lines of the essentials of
+Cognition he found his basal feature in Extension. Tridimensional Space
+seemed the simple elementary framework of our Knowledge of Nature.
+
+The method of Descartes was further extended by the English philosopher
+Locke. Those qualities which formed the elements of Knowledge were
+described by him as the primary qualities of body; the sensible
+presentation comprised also the secondary qualities which seemed to be
+in some way superposed upon and contained within the former.
+
+       *       *       *       *       *
+
+Our fundamental ideas of Nature were called by Locke sensible ideas.
+These ideas were derived from our sensible Experience, and it is only
+just to Locke to point out that, when examined in detail, his sensible
+ideas are seen to be not mere qualifications of sensation, but rather
+the elementary characters of Nature viewed as a dynamic process and
+discovered by our Activity. Yet the ambiguous term _sensible ideas_
+unfortunately led to their being regarded as ideas derived, not from our
+action in any form, but from pure sensation alone.
+
+This extraordinary error was intensified in the speculation of Berkeley
+and Hume. Experience with them appeared to consist solely of a
+succession of sensations appearing to, impressing, or affecting a
+_tabula rasa_ of consciousness.
+
+Of course in such a state of affairs all Knowledge would be impossible.
+The scepticism which logically followed from such a doctrine was too
+universal to be capable even of the fiction that it was credible.
+Berkeley, it is true, endeavoured to save the situation by postulating
+the incessant and immediate intervention of the Deity as the sustainer
+of the sensible panorama. This purely arbitrary and fictitious expedient
+was entirely rejected by Hume, who with fearless honesty carried to its
+ultimate results the direct consequences of the doctrine and then
+complacently left human Knowledge to take care of itself.
+
+       *       *       *       *       *
+
+A masterly protest against the position of Hume was made by his
+countryman Reid, who in his _Inquiry into the Human Mind_ very clearly
+pointed out the fundamental difference between the sensible
+accompaniments or constituents of our Experience and the real and
+independently existent substratum by which that Experience is sustained
+and organised. His argument, though it attracted considerable attention,
+did not, however, affect as deeply as might have been expected the
+future of philosophic speculation, probably because he offered no new
+clue or key whereby to detect the origin and account for the presence in
+our Experience of those enduring and substantial elements or forms by
+which it is sustained, but on the contrary left their recognition to
+what he rather vaguely described as common sense.
+
+       *       *       *       *       *
+
+Much more influential was the elaborate answer of Kant, which has
+profoundly affected the course of Metaphysics since its publication.
+Reverting in principle to the platonic method, Kant again sought the
+enduring elements, the fundamentals of Science, in the constitution of
+the cognitive faculty itself. But very differently from Plato he
+discovered these in the categories or essential forms of intellective
+action,--the category of causality and dependence and the so-called
+forms of the transcendental aesthetic--Time and Space. Under these
+categories the indefinite data of sensation were thought to be organised
+into a cognisable system.
+
+A rapid advance of speculation along the lines signalised by Kant took
+place after his work was published, and for many years this movement was
+regarded by a large part of the speculative world as the most hopeful
+and progressive of philosophic efforts, and by its own votaries as
+placing them in a position of superiority to all other schools of
+thought. The thoroughness of their studies and introspective methods to
+some extent justified, or at least excused the arrogance of their
+pretensions.
+
+But it is to-day almost unnecessary even to criticise this Philosophy.
+
+From the first it was foredoomed to failure, and had no prospect of
+succeeding where Plato--equipped with armour from the same forge--had
+already failed.
+
+       *       *       *       *       *
+
+Kantianism like Platonism failed because it still left the sensible
+unaccounted for. Not only did it fail to tell us whence came these
+sensations which, however transitory and unreal, constantly saluted our
+consciousness and largely constituted our Experience; it failed also to
+show us how they could be brought into relation with the faculty of
+Knowledge.
+
+Finding its elemental forms in the structure of the organ of Knowledge,
+it failed to tell us how we ever managed by means of these to get beyond
+our own subjective states, or how we ever came to think that there was a
+World outside of the individual consciousness, by the categories of
+which, according to them, our cognitions of such a World were called
+into being. For if Reality were unknowable except by and through the
+categories, then our Knowledge of Reality was the creature of our own
+mental activity, and we must still remain unable to understand why we
+should suppose that we had got beyond ourselves.
+
+These defects of Kantianism were early recognised by Schopenhauer, who
+also appears to have realised that what was wanted was another and a new
+key to unlock the gateway of Knowledge.
+
+Knowledge was in essence an affirmation or series of affirmations about
+a real World distinct from the Knower. It was surely now obvious that
+the warrant for such affirmations and the source of their validity must
+come from somewhere beyond the cognitive faculty itself. The source upon
+which men again and again have seemed to fall back is Sensation; but
+Sensation being transitory and dependent for its existence upon its
+being felt can really give us no help. Some other, some self-existent
+thing is wanted, and with considerable insight Schopenhauer suggested
+that the key was to be found in the Will.
+
+But this theory, though it has lately attracted considerable attention,
+can hardly be claimed as offering any definite prospect of a solution.
+Its cardinal defect is that it still fails to show how the sensible
+arises. It is supposed to be generated out of pure Volition, but no
+causal nexus, no direct connection of any kind is immediately apparent
+between the two, and Schopenhauer in developing his theory did nothing
+to supply the want. The doctrine cannot therefore be regarded as more
+than a helpful stepping-stone to the true answer.
+
+       *       *       *       *       *
+
+In recent years various forms of opportunist philosophies under the
+names of Pragmatism, Pluralism, etc., have endeavoured to elude the
+pressure of the dilemma and to solace mankind for the failure of
+Kantianism by advising them to accept Experience as it is. But though
+such a counsel of resignation may in a popular sense of the term be
+regarded as philosophical it can hardly be accepted as a solution.
+
+       *       *       *       *       *
+
+We find, then, that since man first began to inquire reflectively upon
+the nature of his cognitive faculty his speculation has followed one or
+other of two great lines or divisions of theory, neither of which has
+been found to afford intellectual satisfaction.
+
+We have (1) the theory that seeks in some way or other to derive the
+real constituents of Science from the constitution of the cognitive
+faculty itself. To this theory, which has inspired one whole stream of
+speculation from Plato to Hegel, there are at least two absolutely fatal
+objections.
+
+(_a_) It fails altogether to account for the sensible presentation which
+however fluent and unstable appears to stand in a direct and even
+unique relation to the real. It fails to let us understand how that
+relation arises, how the sensible is generated, or how it enters into
+our consciousness.
+
+(_b_) We are unable under this theory to discover how we ever reach a
+Knowledge of the real World, how we can get beyond ourselves, how if the
+Mind in its search for truth is perpetually intercepted by its own forms
+it can ever furnish us with any genuine cognitions of the external.
+
+(2) We have the theory that the essential forms of Reality are to be
+found in the Object and are thence supplied to the Understanding, which
+plays the part merely of a receptive surface or _tabula rasa_.
+
+In the hands of Aristotle this doctrine took the form of an affirmation
+that Nature must be regarded as an energetic process containing within
+itself the potency by which it perpetually generated the actual.
+
+Promising as it was in Aristotle's hands, this speculation was not
+carried forward or assimilated by his immediate successors. Indeed, it
+was practically forgotten until the intellectual revival of the
+sixteenth century, which inaugurated the foundations of modern Science.
+However little the fact may have been consciously recognised even by
+the leaders of scientific discovery, this was the conception of Nature
+which inspired and sustained the scientific advance. In the department
+of philosophic speculation, however, it appeared only under the debased
+and misleading form of a belief that the sensible presentation was the
+true source of the contents of Cognition, that it was from Sensation
+that the Mind of Man derived the whole fabric of Science. "_Penser c'est
+sentir_" was the form in which it was expressed by Condillac, but was
+equally the view which commended itself to Berkeley, at least in his
+early writings, to Hume, and to a whole army of successors down to J. S.
+Mill.
+
+We hope we have already sufficiently emphasised the falsity of such a
+view. Obviously, if the Mind were merely the passive recipient of a
+stream of impressions, no sort of rational Discourse, no scientific or
+cognitive effort could ever have been stimulated into activity, and the
+very ideas of causality and relation, indeed all that we associate with
+the exercise of the understanding, could never have been called into
+being.
+
+Upon neither of these views of the nature of Knowledge can we arrive at
+any consistent or intelligible conception of its genesis, nature, or
+method of operation.
+
+What, then, must we do? It is hardly doubtful that if we are to make
+any progress we must find another and a new key whereby to unlock the
+double door that bars the entrance to the inner shrine of truth.
+
+Now _the_ fundamental, or at least _a_ fundamental error characteristic
+of all these various efforts after a solution is to be found in the fact
+that they view the World as a static thing rather than as a kinetic
+process.
+
+The World to vision seems a great still thing in or on which no doubt
+innumerable bodies are moving to and fro, but which itself--the
+fundamental thing--is solid and unchanging. But this is an illusion. The
+seemingly unchanging features are changeless only in the monotony of
+their constant mutation.
+
+Cohering masses are rigid in respect only of the constancy of the
+dynamic process of transmutation in which cohesion consists. The sun
+shines eternally steady only in consequence of the ceaseless kinetic
+energies which give it being.
+
+What we are ever doing in rational Discourse, what Knowledge constantly
+accomplishes, is to furnish an account, a reproduction of a series of
+operations. The World is a process--an activity. That was recognised as
+long ago as the days of Heracleitus, but his disciples did
+not--although we think there is good ground for believing that he
+did[60:1]--his disciples did not realise that a process, whilst it
+implies constant flux and change, implies also something permanent even
+in its mutations, something which undergoes the change and sustains the
+flow.
+
+To understand a thing is to discover how it _operates_. The eternal
+forms of things are laws of natural action. Such are the law of
+gravitation, the laws of optics or of chemical combination. A static
+picture unless so interpreted must be at once valueless and meaningless.
+
+It follows that Thought and Discourse, in furnishing us with Knowledge,
+must themselves be active, and must in some way or other reproduce the
+activity of Nature. Thought, in short, _is_ an Activity which reproduces
+the activity of things, the activity in which the phenomena of Nature
+arise.
+
+But how do we arrive at any apprehension of Natural Action? What informs
+us that Nature is a potency ever operative? What suggests to us the
+conception of potency at all? We reply that we arrive at the idea of
+potent action because we are ourselves active beings. Our organism
+maintains itself by constant physiological activities. These are the
+permanent constancies of transmutation which _constitute_ the organism.
+
+But superimposed upon these there are our voluntary exertional
+activities. By these latter we necessarily mingle with and indeed
+participate in the action of the natural forces which (as we usually
+say) surround us, but which in point of fact do more than surround us.
+The disparate grouping of natural bodies in vision blinds us to the fact
+that we are really not merely surrounded by but are mingled with and
+participate in the dynamic system.[61:1] We are continually pressing
+with our weight upon the bodies on which we rest, we are continually
+exerting or resisting the pressure of so-called adhering
+masses--resistance-points in one dynamic system of which we are
+ourselves a part. Thus it is that in our exertional action we reveal to
+our consciousness not only the forms of our own activity but the forms
+of the dynamic system which contains and yet transcends the Sensible and
+the Ideal.
+
+The theory we have suggested enables us to proceed at once to a
+rational explanation of Sensation.
+
+Sensation is _obstructed action_. A detailed consideration of as many as
+you like to take of the myriad constituents of our sensible Experience
+will continually and without exception confirm this simple fact.
+
+In Nature it is the potent action which is real. It alone can be
+directly represented by the activity of Thought. The mere obstruction of
+activity is not a real thing, hence the unreal character of Sensation.
+Yet the obstruction being an obstruction of the real action of Nature
+is, if not real, at least actual and immediate. Nay, its presence in our
+Experience, however mutable and unstable it may be, is the only sure
+test and guarantee of Reality.
+
+Each of the two leading theories which have dominated speculation
+presents one partial aspect of the truth.
+
+The eternal cognisable element of Reality _is_ apprehended, as the
+Platonist holds, by the intellect and by the intellect alone. To that
+extent the Platonist is right. That cognisable element is Action. But
+Action is denoted for us only in the obstructions which it encounters.
+These obstructions constitute our World of Sensible Experience, which
+is therefore for each of us the sure indicator of the Real. In
+recognising this fact the sensationalist is right in his turn.
+
+       *       *       *       *       *
+
+Not only does the dynamic conception of Nature enable us to account for
+Sensation, but it lets us see how the Sensible World becomes a
+constituent of Experience. It is by and through its obstructions and
+these only that we featurise or denote our Experience. It is by the
+breaks, the turnings in the road that we cognise its course. It is by
+the line of rocks and breakers that we define the shore. But we must not
+mistake the turnings for the roadway nor the shore for the ocean.
+
+It is in and by our activity that we discover this World of sensible
+obstructions. The features of the Sensible World correspond therefore to
+the laws of our exertional activity, but the correspondence is
+relational, not resemblant. Just so, it is by the reflection of Light
+that we discover the forms of the obstacle which solid bodies oppose to
+the radiant undulation. The resultant colours correspond to the form of
+these obstructions; but the correspondence is relational not resemblant.
+The same is true of sounds, of tactual sensations, of every other
+sensible obstacle to pure activity.
+
+By the clouds of smoke we follow or used to follow the progress of the
+battle, but the battle is something other than a cloud of smoke.
+
+We are, as Plato told us in his famous allegory, like prisoners in a
+cave--our attitude averted from the aperture, and it is only by the
+shadows cast upon the cavern wall that we can interpret the events which
+are transacting themselves outside.
+
+In one sense, therefore, the whole sensible and spatial World is real.
+At least it is actual; and it affords us the materials from which we
+construct our scheme of phenomena, and by which the kinetic process of
+Reality is denoted and conceived.
+
+The question ever and anon occurs to us--How upon this view can we solve
+the problem of transcendence? How even on this view of the case do we
+manage to get beyond ourselves? How are we in any way helped thereto by
+the fact that Reality consists in potent action rather than in
+Sensation?
+
+Again, the answer is significant. In action, that is, in exertional
+action, we are really _part_ of a larger _whole_. Our exertional action
+is _ab initio_ mingled in and forms really an integral part of the
+dynamic system in which our life is involved. The ever operative forces
+of Gravity, Cohesion, Chemical Affinity, and so forth are the phenomenal
+expression of the laws of energetic transmutation in which we partake
+and of which we are organically a part, however apparently separate and
+disparate our bodies may seem to be. It is life and feeling, not action,
+which really distinguish the individual from his environment, at least
+from his material dynamic environment. Be it noted that what is required
+is not an explanation of how we transcend Experience. That by no effort
+can we ever do in Knowledge. All we are required to explain is how we
+transcend our Thought and our Sensibility. The answer is: Our Experience
+begins in action, and it begins therefore in a sphere which is beyond
+the mere subjective Consciousness, and yet is _organically one_ with the
+organs of Cognition and Feeling.
+
+It is only by a visual fiction that we come to regard our active selves
+as distinct from the dynamic system. We cannot, in fact, shake off the
+bonds of corporeality, of gravity, of all the various restraints of our
+organic activity.
+
+Relatively, however, the cerebral activity of Thought is liberated from
+the stresses of the dynamic environment; hence the apparent freedom and
+independence, under certain conditions, of Thought, Imagination, and
+Volition.
+
+A great difficulty in realising this view of Experience is to be found
+in the apparent Solidity and Inertia of material bodies. Sensible
+experiences group themselves round these _constancies_. But a material
+body, when its sensible concomitants are abstracted, is nothing more
+than a permanent process of energy transmutation the interruption of
+which in one form or another may originate Sensation. It follows that
+the world of spatially extended bodies is a homogeneous and consistent
+whole, reflecting in its laws and forms the real operations by which it
+is constituted and sustained. But all this actual World is nevertheless
+phenomenal only, albeit the phenomena are derived from and related to
+the Real as change is to the thing which changes.
+
+To a large extent we are misled by the impressive prominence of the
+visual data. In vision we are presented with a system of inter-related
+and simultaneously occurring sensations which we find by experience to
+be the sure and certain indicators of the potent obstructions which our
+activity encounters. For this reason we habitually make use of the
+visual sign as the guide and instrument of our exertional activity, and
+this habitual use leads us to regard the visual presentation as the
+essential form of Reality. However sure we are that that is a false
+view, it yet is very difficult to retrace our steps and re-enter the
+elemental darkness which involves the blind.
+
+The philosophic value of the interpretation of Experience by the blind
+ought therefore to be very great. Observations made on the experiences
+of the blind and of those to whom vision has been restored are not very
+numerous, but many of these recorded by Plainer, the friend of Leibniz,
+and others are of the highest value, and remarkably confirm the view for
+which we have been contending.
+
+Undoubtedly, so far as we are aware, the most valuable contribution to
+this aspect of the discussion is to be found in a little volume recently
+published in Paris under the title _Le Monde des Aveugles_. The author,
+M. Pierre Villey, is himself blind. In the interests of Science he has
+cast aside the delicacy and reserve which have generally prevented the
+blind from analysing or at least from discussing the import of their
+experiences. He is also fortunately possessed of a philosophic and
+highly cultivated intellect, and has not failed to make himself
+acquainted with the general course of metaphysical speculation.
+
+The present writer has been in correspondence with M. Villey, whose
+conclusions remarkably confirm the view for which this essay contends,
+and he finds that M. Villey recognises the truth of that view.
+Individual quotations would only detract from the cumulative effect of
+his argument, but we may refer in particular to the interesting
+discussion as to the relations between the space concepts of the blind
+and those of the vident. The blind can be taught, and are taught,
+geometry, and can discuss and understand spatial and geometrical
+problems. The sensible furniture by which the spatial conceptions of the
+blind are denoted obviously cannot be visual, and are no doubt largely
+tactual, whilst on the other hand the vident utilise the visual data to
+the almost total exclusion of any other. There must therefore be some
+common measure by means of which a community is established between the
+spatial conceptions of the blind and those of the vident. M. Villey
+concludes and clearly shows that the common medium is to be found in the
+fact that our spatial conceptions are fundamentally based upon and are
+expressive of the discoveries of our exertional activity. Touch, in
+short, is an ambiguous term and includes both passive sensations and
+those forms of Activity which we describe when we use the term "feel" as
+a transitive verb. Just as we distinguish between seeing and looking or
+between hearing and listening, so should we distinguish between touch
+passive and touch active or palpation.
+
+       *       *       *       *       *
+
+The view of Science which we have endeavoured to explain has received a
+notable confirmation from the establishment during the latter part of
+the nineteenth century of the scientific doctrine of Energy.[69:1]
+
+The culmination of the scientific fabric of which Galileo and Newton
+laid the foundations was reached when it was demonstrated that the whole
+physical universe must be regarded as composed of Energy, either kinetic
+and actually undergoing transmutation from one form to another, or
+potential and quiescent yet containing within itself the quantifiable
+capacity of transformation. The objective correlatives of the different
+classes of sensible experiences are found to be different forms which
+this Energy assumes--the kinetic energy of a mass in motion, the radiant
+energy of Light, the energy of Heat, the potential energy of chemical
+separation, etc.--all these have now at length been shown to be forms of
+one real thing capable under appropriate conditions of being transmuted
+into each other and of which not only the inter-transmutability but the
+equivalent values can be calculated and have been found by experiment to
+be fixed and definite. Thus the mechanical equivalent of heat is a fixed
+and definite quantity. The Energy of a body in motion can be measured
+and stated in terms of mass and velocity.
+
+The profound conception of Aristotle, under which Nature was regarded as
+a potent Energy containing within itself the capacity of generating the
+phenomenal World, has again been revived and realised--but with great
+additions. The theory in the hands of Science is now not only confirmed
+by incessant experiment, but the relation which it affirms between
+reality and phenomenon has been _quantified_.
+
+Moreover, the actual operations under which the potential generates the
+actual have, so to say, been laid bare to view; and lastly, the
+inter-transmutability of all forms of Energy and its real unity have
+been established.
+
+The doctrine has therefore received a confirmation of which Aristotle
+did not dream, and its explanation has at the same time received an
+illumination which his vague if profound adumbration could never afford.
+With this added support the true conception of human knowledge has
+received new strength. The theory is still, nevertheless, not to be
+grasped without a resolute effort of reflection. It involves an
+inversion of our everyday conceptions more radical than that which was
+demanded by the Copernican theory of astronomy, and we know that that
+theory--offered to and rejected by mankind before the beginning of the
+Christian era--had to wait through sixteen or seventeen hundred years
+before it secured an acceptance, at first grudging and even now not
+always adequate.
+
+       *       *       *       *       *
+
+The ordinary metaphysical student has hitherto rather resented the idea
+that in order to a true solution of the problem of Knowledge he must
+acquaint himself with the fundamental conceptions of physics. Yet so it
+is. It may perhaps be hoped that when the first strangeness of the new
+position has disappeared the conditions may be accepted with greater
+readiness. At any rate, a correct apprehension of our fundamental
+conceptions of the world of our external experience is indispensable. No
+theory can wholly dispense with such conceptions. It is therefore
+essential that, however elementary, they should be clear and not
+contradictory. Philosophy has always vaguely realised and exacted as
+much. The need is now imperative.
+
+Some years ago, in an essay on Schopenhauer, the author, Mr. Saunders,
+remarked, "How the matter of which my arm is composed and that state of
+consciousness which I call my Will [imagine anyone calling Will a state
+of consciousness!] are conjoined is a mystery beyond the reach of
+Science, and the man who can solve it is the man for whom the world is
+waiting."
+
+Well, if that be so, then the world need not wait any longer. The
+required explanation is offered to metaphysics by the scientific work of
+the physicians who built up and consolidated the modern doctrine of
+Energy. It is true that most of them have continued to postulate the
+reality of material bodies. For their purpose there was no real
+difficulty in doing so. What they required was a datum of configuration,
+a phenomenal basis upon which their calculations could proceed and in
+terms of which, as a point of origin, their statement of transmutations
+was made. The persistence of material bodies is a condition precedent to
+the phenomenal manifestations in which our Experience arises. Organic
+existence in every form and the world in which it arises presuppose the
+actuality of these. But dynamically they are merely the phenomenal
+result of certain permanent forces constantly in operation. To beings,
+if there be such, inhabiting the Ether there is little doubt but that a
+gravitation system like that of the sun and its planets must present a
+corporate rigidity and identity somewhat similar to that which cohering
+masses present to our intelligence. But, in terms of reality, Energy,
+potential and kinetic, containing within itself the potency which
+generates the actual and sustains the constant transmutation in which
+phenomena arise is the sole and only postulate.
+
+The rise of meta-geometrical methods and other branches of scientific
+speculation have led in recent years to a considerable amount of very
+interesting inquiry into the nature of our fundamental geometrical
+conceptions. Strange to say, a large body of respectable mathematicians
+have been found to favour the extraordinary view that our mathematical
+conceptions are derived from Sensation. We do not propose here to
+discuss at length this idea. It is merely another form of the old
+sensationalist view of Knowledge, but we suggest that the conditions of
+the problem will readily appear in their true light and real nature
+whenever such inquirers realise the fact that our exertional activity is
+the source of our cognitions of the external, and that therefore our
+pure exertional activity is the source of the basal concepts of
+geometry.
+
+Here lies the root of the distinction between pure and empirical
+science. The propositions of geometry, being derived from our own pure
+activity, are of the former class; the inductive conclusions of physical
+experimental science, being gathered by observation and measurement
+from sensible data, are empirical and approximate. A geometrical
+proposition--such, for example, as the assertion that the three angles
+of a triangle are equal to two right angles--is not merely approximate.
+It has no dependence on measurement. It is absolutely true. It is
+ascertained deductively, and therefore measurement is not involved, and
+is never employed. Its truth is not ascertained by measurement. It is
+not verified by measurement. It in no degree depends upon the sensible
+figure. It is equally true for every human being whatever be the degree
+of accuracy of the figure by the aid of which he studies it, or indeed
+whether he studies it by figure or otherwise, as must necessarily be the
+case with the born blind.
+
+There may be many different forms of energetic transmutation which may
+determine many other forms of space besides that form of tridimensional
+space in which our Activity is involved. For such, a different geometry
+may and will be applicable; but for the tridimensional conditions of
+_our activity_ the proposition is necessary and absolute. No measurement
+of any stellar parallax, however minute and whatever the result might
+be, could have any bearing on its truth. Geometry is the science of the
+pure forms of our motor activity amidst corporeal bodies.
+
+A useful illustration of our argument is to be drawn from a
+consideration of the question of phonetic spelling. Occasionally we find
+persons urging that all spelling should be an exact reproduction of
+sound. Indeed, an improved alphabet has been designed to enable the idea
+to be carried out with greater accuracy.
+
+Now it is quite true that it is by their sound that we recognise or
+denote our words. Hence our alphabet was originally phonetic in
+principle, and indeed still is so, although the correspondence is
+imperfect. As the use of visible signs develops spelling seems to fall
+into certain fixed frames and to deviate more and more from pure
+phonetic simplicity. But why is this so? It is because the sounds are
+merely the symbols or indicators of the different forms of vocal
+articulation (vocal acts), and it is really as the symbols and
+indicators of these actions that they possess any meaning and acquire
+such permanence and identity as they have. The phonetic system,
+therefore, becomes in use subordinated to the expression of the acts by
+which are produced these radical vocables which constitute the
+essentials of rational Discourse.
+
+In all this the process of the expression of words in spelling is a
+microcosmic counterpart of the process of cognition as we have tried to
+explain it.
+
+It is noteworthy that the same thing necessarily happens in the case of
+any new system of spelling.
+
+The most prominent advocates of phonetic spelling have been also the
+authors of a system of phonetic shorthand.
+
+Like the written and printed alphabet of Europe, the alphabet of
+Phonography was made phonetic. Indeed it started off as a more nearly
+perfect phonetic system than the ordinary European alphabet. But as its
+use advances its employment undergoes the same change. The phonetic
+symbols are abbreviated by grammalogues and contractions, and this
+proceeds in accordance with a principle unconsciously recognised but
+which really depends on the same inherent necessity to preserve in a
+consistent form the expression of the radical vocables of Speech.
+Finally, in the hands of the expert stenographer the system of phonetic
+shorthand (though he still uses the sound as the guide and indicator of
+his actions) is as far removed from a pure phonetic representation as
+the ordinary method of spelling. Indeed, unless some such suprasensible
+and unifying principle were available, phonetic spelling would speedily
+perish in an infinity of degenerate variations.
+
+We adduce this illustration as one which very well confirms our main
+argument. We have no desire to discuss on its merits the general
+question of Spelling Reform, which of course is quite apart from the
+attempt to establish a scheme of spelling on a purely phonetic basis. A
+more rational system of spelling is nevertheless an object worthy of all
+consideration.
+
+       *       *       *       *       *
+
+Intellectualism and sensationalism have both broken down. The world of
+speculation is anxiously looking for a new clue. Witness the pathetic
+eagerness with which it clutches at every floating straw. The
+innumerable "isms" by which it seeks ever and anon to keep itself afloat
+are most of them but the sometimes unrecognisable wreckage of the old
+systems drifting about under very inappropriate names. Such terms as
+Realism and Idealism are freely used (generally prefixing the adjective
+"new") by writers in philosophic periodicals in a sense which might make
+Plato, Aquinas, or Kant turn in their graves.
+
+We see their votaries encumbered with the trappings of a futile
+erudition of the insignificant or clinging pathetically to the insecure
+relics of teleological doctrine, or, still less virile, seeking support
+in a return to the unscientific tales of supernatural spiritualism. Such
+efforts are vain.
+
+Only by facing the facts with all their consequences, whatever these
+may be and whatever they may involve for the proudest aspirations of
+mankind--only thus can truth be attained. And lest any should say that
+we preach an unrelieved pessimism, let us remind such that Knowledge is
+not after all the source of Life, that another category and a different
+principle--that, namely, which we indicate under the term
+Love-divine--must have generated the potent current of Life, and that no
+one should close the door against the hopes of the human Intelligence
+until he has discovered what are the limits imposed upon what Perfect
+Love can do.
+
+The question still remains whether mankind will be equal to the effort
+required to assimilate the essential truth. They very nearly failed to
+assimilate the Copernican cosmogony. For sixteen hundred years after it
+was first offered to mankind the race preferred to grope in the darkness
+and confinement of a false conception.
+
+If they succeed in accomplishing the reception of the new truth,
+unheard-of progress may be looked for. If they fail, civilisation must
+disappear and humanity decline. There is no middle course. As Bacon
+remarked, in this theatre of man's life it is reserved only to God and
+angels to be lookers-on.
+
+We know how stubbornly the Ptolemaic cosmogony still clings to our
+conceptions, how largely it still dominates--or till recently did
+dominate--the religious cosmography of the most civilised peoples.
+
+In Philosophy our leading teachers seem as yet to have a very feeble
+appreciation of the new conditions. They turn greedily to the eloquent
+pages of _L'Evolution creatrice_, but however earnestly they search they
+cannot find there any definite solution of the difficulties of the
+age-old problem. They wander wearily through the mazes of psychological
+detail or wage almost childish logomachies over the interpretation of
+each other's essays. Philosophical magazines are filled with articles
+which reflect this state of the philosophic mind. Philosophical
+congresses meet and argue and go home; Gifford lecturers prelect; yet so
+far as can be seen there is little sign that the key has been grasped.
+The great fact remains obscured amidst a mass of words.
+
+The elucidation of the problem of Knowledge demands certain improvements
+in our philosophic terminology. Language as a rule is a very unerring
+philosopher, and words shaped and polished by long usage generally
+express, more truly than those who use them realise, the essential
+reality of things. Yet these long-enduring errors of the ages which we
+have been discussing here have left their impress too on the terminology
+of Metaphysics.
+
+Thought and Action are in common speech contrasted, and the distinction
+expresses an essential truth. But when we seek to say further that both
+of these are Activities, we are stating another truth in terms which are
+hardly consistent with the previously contrasted distinction. It might
+be better if Action and Active could be applied generally to both and if
+the term _exertion_ could be substituted for Action in describing the
+forms of activity which we denominate _motor_. To that suggestion,
+however, there are also serious objections. The words derived from _ago_
+have historically a special application to the exertional and dynamic.
+We leave the question to our readers as one of which it is of
+considerable importance to find a satisfactory solution.
+
+In the foregoing pages our object has been to illustrate the erroneous
+conceptions by which the theory of human cognition has been obscured and
+to explain briefly what we conceive to be the true solution. The
+argument in support of the doctrine here explained has been more fully
+presented by the present writer in an essay entitled _The Dynamic
+Foundation of Knowledge_, to which the reader who desires to study the
+question further must now be referred.
+
+
+FOOTNOTES:
+
+[60:1] +Kosmon tonde ton auton akanton oute tis theon oute anthropon
+epoiese, all' en aiei kai esti kai estai pyr aeizoon haptomenon metra
+kai aposbennymenon metra.+ Quoted by Clement of Alexandria, etc. (_The
+First Philosophers of Greece_, by A. Fairbanks, p. 28.)
+
+[61:1] "La subdivision do la matiere en corps isoles est relative a
+notre perception" (_Evolution creatrice_, p. 13).
+
+[69:1] For a clear brief summary of the theory the reader may be
+referred to a little work by Sir William Ramsay, F.R.S., entitled
+_Elements and Electrons_, pp. 8-15.
+
+
+
+
+IV
+
+THE DOCTRINE OF ENERGY[81:1]
+
+
+The problem of Metaphysics--the nature of Reality--still presses for a
+solution. Agnosticism is but a cautious idealism--a timid phenomenalism.
+That philosophy, however named, which proclaims that the experience of
+life is nothing more than a vain show, a pantomime of sensations
+distinguished only from ideas by their greater intensity and
+distinctness, is not only a confession of failure. It is a denial of
+fact.
+
+To know the nature of the Absolute as such, to present the Absolute to
+finite minds as it must be presented, if that be possible, to the
+Absolute itself, must ever remain impossible to man. But it is equally
+true that to attempt such a task has never been the urgent mission of
+Philosophy. The distinction between the Ideal and the Real, between the
+conceptual and the perceptual, is quite certainly and incessantly
+recognised. Agnosticism can neither deny the fact successfully, nor
+solve the speculative difficulties which its recognition raises up. The
+Real and the Ideal, essentially distinct yet mockingly similar, for ever
+blend and intermingle in the composite experience of life. Truly to
+discriminate and unravel these,--validly to separate the Ideal element
+which impregnates that Reality which we are for ever compelled to
+postulate and recognise, still remains the great problem of
+Philosophy--humbler perhaps and more practical, but not less profound
+than any vain attempt to discover to finite conception the Absolute as
+it is in itself. Therefore it is that the efforts of negative and
+agnostic criticism to dispense with the recognition of Reality as a
+necessary postulate of our activity are foredoomed to failure. They
+leave us not a solitude which we might pretend to be peace, but a
+seething sea of troubles urgently demanding a new attempt to reveal the
+unity which must underlie the infinite diversity of experience.
+
+Such, indeed, seems to us the present position of Metaphysics; and, what
+is more important, it appears to react with increasing force upon the
+theories and investigations of Science.
+
+The problem of Reality is thus at present not without a special and
+increasing interest for the students of Physical Science. Until lately
+they have been taught and have always maintained that Matter is the
+direct object of sense-perception. No doubt it is long since Philosophy
+has urged that our conceptions of the external world are a mentally
+constructed system. But this doctrine has made but little impression
+upon the students of Natural Science. The objective origin of our
+sensations and the apparently objective reality also of the intelligible
+qualities and operative laws of the external world are too strongly
+impressed upon their minds. Idealism and Transcendentalism have carried
+no conviction to them. Still, the difficulties of common sense have
+continued to grow. Recent developments of scientific theory have
+increased the urgency of the problem, but they seem to us also to
+suggest a solution the beneficial results of which affect the whole of
+Metaphysics.
+
+We refer to the doctrine of Energy, which occupies now as great a place
+in the physical sciences as the doctrine of Evolution does in the
+zoological sciences.
+
+Natural philosophers have for some time taught that there are two Real
+Things in the physical universe--Matter and Energy. It seems a very
+striking theory. Has it received the attention it deserves from the
+student of Metaphysics? We are convinced that it has not: and the reason
+he most frequently gives for this neglect is that, being a purely
+scientific doctrine, it does not come within his sphere. Science, we are
+told, deals with the phenomenal world internally considered; Philosophy
+with the relations of the phenomenal world to Reality, and with the
+nature of the transcendental elements in our Knowledge.
+
+This may be generally true. Nevertheless, Philosophy and Science have
+surely concepts in common. They both refer to the same thing when they
+speak of Space; we presume also when they speak of Matter. Indeed,
+Philosophy analyses the conceptions involved not only in scientific
+reasoning, but in the most common and ordinary mental processes. It
+analyses them with special reference to the relations between the
+Phenomenal and the Real--a question which, though it always lies latent,
+does not in ordinary circumstances arise in urgent form. It is therefore
+evident that the fundamental conceptions of Science _do_ fall within the
+purview of Philosophy.
+
+The study of Physics _can_ be carried on practically as a study of
+phenomena--of Heat, Colours, Sounds, Forces, etc., all of which are
+kinds of phenomena--without the expression of any dogmatic and
+formulated opinion as to their relation with Reality. Physics can speak
+of mass and weight and avoid all reference to Matter; but there always
+is, in scientific reasoning, an implicit reference to Reality, and it
+facilitates, therefore, the expression of scientific reasoning, when the
+account of a physical process is stated with reference to a supposed
+reality, such as Matter. And in making such reference Science _is_
+thinking of the thing-in-itself. It _is_ a reference beyond phenomena.
+
+Heat, Light, Sound, Force, are names of classes of phenomena, and the
+great discovery of Physics during the nineteenth century has been that
+these are all transformable into each other, and bear definite numerical
+relations to each other in proportion to which such transformations take
+place. Science availing itself of this discovery, unifies its conception
+of Nature and gives expression to the doctrine of the
+inter-transmutability of the various classes of physical phenomena by
+postulating an entity called Energy, and regarding the various classes
+of phenomena as transmutations which this entity undergoes. But Science
+has been reluctant to recognise that it is now entitled to dispense with
+the postulation of Matter. The theory, as announced by the leading men
+of science, has therefore been to the effect that there exist in the
+physical universe _two_ real things--Matter and Energy--in place of one
+only, as commonly supposed for so long.
+
+Now we maintain, on the contrary, that such a statement of physical
+theory is erroneous and redundant; that Science is not obliged to
+postulate _two_ such entities; that the concept of Energy supplies all
+her requirements; and that the employment of that conception obviates
+the very serious contradictions which are involved in any assumption of
+a real entity of the nature of Matter as ordinarily understood--a
+conception of which the very description involves difficulties which
+have perplexed thinking men for more than two centuries.
+
+Our argument on this point involves consideration of the place occupied
+by Energy in a potential form.
+
+Whilst the transformability of Heat, Light, Sound, and other physical
+phenomena in definite numerical ratios has led to their being all
+regarded as actual manifestations of transmutations proceeding in one
+real thing, occasionally there is a seeming break in the catena; no
+phenomenon can be detected into which the heat or light or other
+immediately preceding manifestation has been transformed; but, later on,
+the co-relative reappears, and by an argument as strong as that which
+asserts the continuous identity of an intelligence before, during, and
+after a temporary suspension of consciousness, the student of Physics
+maintains the continued existence _in posse_, if not _in esse_, of the
+Energy which by appropriate action he can again reveal in an active or
+kinetic manifestation. Hence arises the conception of potential Energy.
+The Energy to which we attribute the force of cohesion which any
+particular body can on occasion manifest, we believe to exist
+potentially whilst that body continues unacted upon. Our belief is
+confirmed by our experience of the certainty with which, on the
+recurrence of the given conditions, the force always again manifests
+itself. In like manner the potential Energy to which we attribute the
+Force of Gravitation we believe to exist at all times, even when not
+kinetically active. Indeed, it only manifests itself when a
+transmutation is taking place into some other form of Energy. Now it is
+the universal association of these two forms of potential Energy with
+the common and fundamental data of our sense-experience that has
+suggested the construction in our minds of the conception of Matter, and
+furnished us with the ideas of solidity, impenetrability, and weight
+which constitute its groundwork.
+
+Our view, therefore, is that the concept of materiality can, in the way
+just indicated, be in all cases analysed into, and derived from, the
+conception of Energy; and that Science, if consistent, cannot postulate
+the reality of Matter as well. Potential Energy adequately supplies the
+demand for a real substratum of which phenomena are the manifestation.
+
+The whole question is very well worth the attention, not only of
+scientific students but of metaphysicians. The inquiry will distinctly
+gain if it receive the auxiliary attention of those who have studied the
+process by which we form our mental conceptions, and whilst the students
+of Physics deserve the honours of discovery, they cannot safely dispense
+with such assistance, for which the present confused and inconsistent
+state of the fundamental definitions of Physical Science most urgently
+calls. There is here a neglected but very interesting field for the
+metaphysician's efforts.
+
+Recent scientific writings contain enough to show us that men of science
+are already beginning to recognise not only the inconsistency of the
+theory of two real things, but the dominating significance of the
+conception of Energy, and are gradually coming to claim for the
+conception of Matter little more than recognition as the vehicle of
+energetic transmutation. Let us then for the moment accept the position
+that Science--ridding itself of redundant theory--postulates Energy as
+the real thing-in-itself, in terms of which it frames its statement of
+physical phenomena, and let us examine briefly the effects which the
+acceptance of this new postulate is likely to have on philosophic
+speculation.
+
+All my Presentment, all the content of my sense-experience, according to
+this theory, I attribute to a multifarious continuous series of
+transmutations constantly proceeding in some portion of the system of
+Energy which constitutes the real substratum of phenomena. I study,
+measure, and classify the different species of these transmutations; I
+associate particular sensations and classes of sensations with
+particular transmutations, and I thence infer the existence _in posse_
+or _in esse_ of more or less Energy in some particular form transmuting
+itself according to some one or other definite physical law. I infer
+also the existence of various supplies of potential Energy constantly
+available, and of other intelligent agents like myself.
+
+I associate every such intelligent agent with a particular series or
+group of sense-experiences, and further I assume that the world at his
+Presentment, consists for him in a similar series of transmutations
+continuously going on in that portion of the energetic system which I
+believe in a similar way to constitute such person's bodily organism.
+Thus by the same process of reasoning by which I am led to believe that
+my own Presentment consists in the energetic transmutations proceeding
+in my organism, I explain the universality of the experience of all
+intelligent agents. In my own case, by that union of consciousness with
+physical energy which accompanies the manifestation of life, I am
+immediately related with that portion of the energetic system which is
+the real substratum of my organism, and am made conscious of the series
+of transmutations occurring at that particular point in it which is
+represented by my sensory system. In the case of others, from certain of
+the transmutations occurring in my Presentment, I am led to infer the
+existence of other similar microcosmic systems in the energetic
+macrocosm of the physical universe.
+
+This is all very well as a theory, but if all I know is the series of
+transmutations occurring in the portion of the system of Energy related
+directly to my intelligence, how did I ever learn to infer from these
+transmutations the existence of that Energy underlying them, and still
+more of the whole energetic system extending far beyond my organism? How
+do I deduce from transmutations proceeding in the portion of the
+energetic system which constitutes the real substratum of my organism
+the existence, not only of that substratum itself, but of other portions
+of the system similarly related to other intelligences, and of the
+energetic system as a whole? How do I get beyond my Presentment? How
+pass from Ideality to Existence?
+
+I answer that I never could by any chance or possibility have got beyond
+it or got any suggestion of the Reality had I been merely related to my
+Presentment as a passive and percipient subject. In point of fact,
+however, I am in relation with the energetic system not merely or
+primarily as an Intelligence percipient of the transmutations proceeding
+in it at a particular point, but also as a Will initiative to some
+extent of such transmutations and capable of influencing and directing
+the physical process. Life necessarily involves a process of energetic
+transmutation constantly proceeding at that portion of the system of
+Energy which constitutes my organism, and I am there related as Will
+with a larger system which embraces the part in which intelligence is
+developed.
+
+Fundamentally, life manifests itself in all grades of the zoologic
+hierarchy as a union of Volition (or what appears in action as Volition)
+with some particular point in the universe of physical Energy, the union
+constituting what we call a living organism.
+
+Despite its profound importance to us personally and to our race, we
+should not forget that, objectively considered, the brain in man and the
+higher animals is merely a special organ highly developed by use, as
+the trunk is in the elephant, the middle phalanx in the horse, or wings
+in the bird. Intelligence is hardly to any extent a necessity of the
+vital union of the Will with the energetic system. It is not at all
+developed in the vegetal kingdom, hardly at all in some branches of the
+animal, and there may conceivably be an infinite number of other
+"kingdoms" in which it may be either undeveloped, or very differently
+developed, or superseded by some other manifestation by us unimaginable.
+Its development indeed seems to be concurrent with the development of a
+locomotive faculty--a striking confirmation of the theory that it is in
+our activity that we derive the suggestions which call forth the
+exercise of the Understanding and transform sensation into perception.
+
+It is only with a comparative fraction of the organism that I am related
+as a passively percipient intelligence. I am directly or indirectly
+related as Will, as an originative cause of activity, with a larger
+portion of my organism, many parts of which are quite distinct from the
+cognitive portion. Now it is from my relation as Will with Energy other
+than and beyond the energetic transmutations which constitute my
+Presentment that I discover the energetic system of Nature, as a real
+thing--beyond, underlying, and by its transmutations constitutive of my
+Presentment. Many of the transmutations which occur in my Presentment I
+recognise as attributable to my own volitional activity operating upon
+my energetic organism, and _in my own activity there is thus suggested
+to me a source of phenomena lying beyond these phenomena themselves_. A
+transmutation initiated in my brain is a pure idea. The key which
+suggests to me the real world is the occurrence of transmutations
+ascribable to my activity operating beyond the sphere which constitutes
+my Presentment.
+
+It is in this way that I originally discover the real energetic
+substratum to the phenomenal world of my Presentment. I learn from the
+transmutations to infer the agency and operation of the underlying
+energy, and thus gradually construct my whole systematic conception of
+the real world in which I live and move and have my being.
+
+This view of my activity and of the consequences of my relation as Will
+to the energetic system represented by my organism, including the
+portion thereof related to my intelligence, supplies us therefore with a
+key to the inevitable reference of thoughts to things.
+
+I distinguish in my active experience a clear difference between wishing
+and willing, and further between willing and effective action. My
+Power--the Energy related to my Will--the exertion of which is
+necessary to translate Volition into an overt result--is a limited and
+quantifiable thing, but that such a hidden energetic medium or
+substratum underlies all phenomena is evident from the fact that I do
+not will directly the appearance of any given phenomenon. I may wish
+that. But when the Volition is reached and the wish transformed into
+overt exertion I find myself involved in the multifarious processes of
+an energetic system which I may so far influence, but which is
+nevertheless in many ways constantly going on irrespective of my
+Volition. I may wish to avoid pain and may will certain exertions with
+that view, but the consequences may be the reverse of what I wished.
+This shows that the Volition operates immediately not on the sensation
+but on the energetic system.
+
+In all cases between Volition and overt result there seems to be erected
+and constantly maintained around me a vast energetic system, a part but
+only a small part of which, namely the Energy of my organism, can be
+influenced directly by my Will, whilst, even in immediate relation with
+that part, transmutations beyond the reach of my Will are constantly
+going on. Indeed, what fundamentally distinguishes Volition from Desire
+is its relation to the energetic system.
+
+The doctrine of Energy therefore puts in a new and clearer light the
+whole theory of Causation.
+
+It is common for philosophers to talk of invariable sequence as the
+criterion of Causality. But, in fact, that is quite fallacious. No one
+ever regards a phenomenon as the cause of another phenomenon. We ascribe
+Causality to the energetic transmutation which in some form or other we
+inevitably believe to accompany the appearance of every phenomenon. We
+never postulate a causal relation between day and night--the most
+notable case of invariable sequence. When we say the fire warms the
+room, or the horse draws the cart, or the sun ripens the corn, it is the
+Energy which we rightly or wrongly associate with the visual sensation
+referred to in the words "fire" and "horse" and "sun" of which we are
+thinking, and by no means of these visual sensations themselves. As has
+been well said, we never suppose that the leading carriage of the train
+draws those behind it, although their relation of sequence is quite as
+close to it as to the engine.
+
+True, it is and must be from and by phenomena only that I infer and
+measure the transmutations of Energy, but the transmutations measured
+are operations of the real thing-in-itself postulated by Science. The
+existence of such Energy is suggested to me primarily in my experience
+of my own activity in which I recognise my power of doing work--a
+quantifiable and measurable thing, homogeneous with the Energy in
+respect of which Science states the relations and conditions of all
+physical phenomena. My most incessant mental act is that by which, on
+the analogy of my own active experience, I refer all phenomena to the
+underlying energetic system. This reference it is which transforms
+sensation into perception; and the constant affirmation of this
+reference is the great function of the synthetic mental activity of the
+understanding, and is at once the origin and explanation of that
+imperative mental tendency which metaphysicians call the law of
+Causality.
+
+How, then, does this doctrine affect the theory of the nature of Space?
+
+If it be true that the world as my Presentment consists in the
+transmutations occurring in that particular part of the energetic system
+which constitutes the real substratum of the brain, then phenomena as a
+whole must arise in transmutation, in a process of Becoming rather than
+in a state of Being, and Space must be the content, the condition, in
+which that process proceeds. The laws of Space, therefore, are laws, so
+to speak, of motion, not of position. The most absolutely still and
+motionless visual presentation is really a series of constant
+transmutations of Energy and the form of Space is constituted by the
+laws of transmutation, which are thus at once the necessary conditions
+of my perception and the universal conditions of all sense-perception.
+Space, therefore, does not contain the real thing which sustains the
+phenomenal world any more than it does the reality which underlies my
+conscious self. It is the universal condition of the transmutations
+which constitute phenomena; and it therefore "contains" all these
+phenomena, including my body as phenomenon and only as phenomenon. Its
+form is discovered by my organic motor activity, and in representing
+this activity the mind constructs its concepts of Space and Extension.
+
+This view of the nature of Space, by relating its forms and laws with
+the objective, and a-logical thing-in-itself in virtue of the
+transmutations of which our sense-experience occurs, relieves an obvious
+difficulty which must always have been felt in accepting without
+qualification the purely Kantian view which regarded it as a category
+imposed by the Intelligence upon the otherwise unknowable world of
+sense.
+
+The most ardent assertors of the ideality of Space have hitherto
+apparently had difficulty in avoiding the tendency to conceive it as the
+persistent all-embracing objective content of the thing-in-itself, not
+merely of the phenomenon, although the latter only might enter into
+Knowledge. The doctrine, however, which presents our conception of Space
+as discovered in our activity amid resistant transmutation-processes not
+only establishes its ideality but at the same time explains the relation
+which its form nevertheless bears to the objective material laws of the
+sensible presentation. It liberates the mind from the oppressive
+necessity of regarding Space as still somehow objectively extending and
+containing the real world. It also relieves an obvious difficulty which
+confronts the Philosophy of Schopenhauer in locating those
+transcendental forms of the phenomenon which are imposed _a priori_ upon
+the presentation, and yet are not to be found in the pure Volition.
+
+Of course, it must never be forgotten that my whole sentient experience
+consists primarily of the series of energetic transmutations occurring
+at that part of the energetic system which is in immediate vital
+relation with my consciousness. It is my experience of active exertion,
+of moving, speaking, etc., which gives a suggestion of the real
+energetic world. The transmutations of the real Energy of the world
+beyond my organism never enter my Consciousness. Transmutations arising
+beyond my body only enter the presentation by influencing the cerebral
+process. The luminous undulation and the sound-wave must both produce
+transmutation of the cerebral Energy in order to affect Consciousness.
+Yet the various characters of the transmitted impulses are
+distinguishable in the resultant cerebral transmutations. Thus I feel
+sensations of hardness, roughness, pain, colour, sound, etc. It is by a
+process of mental construction that I associate these with the forms of
+my exertional activity, and thus frame my conceptions of real bodies in
+the world around me--those which I more directly associate with the
+Energy subject to my Volition being conceived as representing my body.
+For reasons of convenience, I refer those conceptions chiefly to the
+co-ordinated visual presentation, and thus build up my conception of the
+extended world of material things. Science is possible because all
+transmutations of Energy take place according to definite numerical laws
+and ratios. The whole work of Science is to explain every phenomenon in
+terms of its definite transmutation of Energy. These definite numerical
+laws and processes are characteristic of all Energy transmutation, and
+thus regulate the experience of every intelligent being. It is in virtue
+of these that our separate systems of knowledge correspond, and that we
+are thus presented each with corresponding aspects of one outer world.
+The laws which regulate the cerebral changes that accompany
+sense-presentation are for me the necessary _a priori_ laws of
+perception. It is because these laws operate in common in all brains
+that community of intercourse is possible amongst mankind. It is because
+of the further fact that the whole of the transmutations of Energy which
+constitute physical phenomena compose a numerically inter-related and
+regulated system that Science and rational knowledge are possible to the
+intellect of man. Our knowledge is what we are obliged to think and
+assert regarding experience; but the universality of experience is not
+explained merely by the common nature and general laws of Intelligence,
+but depends also on the generality of the laws under which the
+transmutations of Energy proceed.
+
+We are now, therefore, by the aid of the doctrine of Energy, better able
+than before to distinguish accurately between the Ideal and the Real as
+contrasted elements in our experience.
+
+My Presentment as a whole consists in the transmutation-processes--in
+the sensations, feelings, perceptions, images, ideas--in short, in all
+that is going on at the point where (I necessarily express myself in
+terms of spatial relations, though in this connection these are
+figurative) my sentience and intelligence are developed.
+
+My whole Presentment is, therefore, in one sense subjective, or, as some
+would say, ideal. For me, my Presentment is the impression produced on,
+the condition established in, my Consciousness in virtue of what is
+going on at this so-called point of contact.
+
+What we mean, therefore, by the subjectivity or ideality of the
+Presentment is the aspect of energetic transmutations when viewed as
+affecting my Consciousness in contrast with their obverse aspect when
+viewed as transmutations in the objective system. As my Presentment,
+they are all subjective or ideal, and it is in this reference that
+Berkeley and Hume, for instance, speak of ideas of sense, such as the
+colour blue, the heat of the fire, the pain of a blow. These,
+constituting the bulk of the Presentment, they distinguish from what
+Berkeley called ideas of the imagination--those stimulated or
+originated, or, as he said, "excited," by the intelligence itself.
+Whilst he contended that both classes are ideal or subjective, in
+respect that they are constituents of the Presentment, the latter have
+an additional title to subjectivity in respect of their origin, and
+constitute what are called "ideas" when the word is used in
+contra-distinction to "sensations"--such pure ideas occurring in
+response to a subjective impulse.
+
+On the other hand, there is a sense in which the Presentment is, if not
+real, at least actual and objective.
+
+So far as we know, Intelligence never develops except in conjunction
+with an organism--that is, in vital relation with physical Energy. My
+Presentment is constituted by the occurrence and depends upon the
+continuance of the transmutations or operations proceeding at the
+related point in the energetic system. Even pure ideas, though
+subjective not only in regard to aspect but in regard to their origin,
+are objective in respect that they also consist in an energetic
+transmutation.
+
+Herein lies the germ of truth to be discovered even in the unintelligent
+dogmatism of those philosophers who assert the absolute Reality of my
+Presentment, as such--not merely its actuality. It is comparatively
+seldom, however, either in Science or Philosophy, that we meet a thinker
+prepared to go as far as that. Most take refuge in a distinction between
+primary and secondary qualities of bodies, classing my sensations as
+non-resembling secondary qualities, which they admit cannot be conceived
+to exist without the mind in the form in which they make up my
+Presentment, but reserving five or six primary qualities--solidity,
+extension, figure, motion, rest--which they conceive to exist
+independently, just as they enter into my Presentment. In point of fact,
+however, these so-called primary qualities are not the names of
+intuitions, but are abstractions or generalisations of the most general
+and necessary elements of my active Experience by reference to which I
+mentally construct my world. The transmutations of Energy are not a
+never-repeated accidental kaleidoscope. They proceed according to
+constant, definite, measurable laws, and though subordinate variations
+are infinite and make up the details of my Presentment, the general laws
+and conditions according to which all Energy transmutes are definite,
+and constitute the general features or qualities of my Experience, and
+these are the so-called primary qualities of bodies regarded in the
+light of the doctrine of Energy.
+
+The primary quality of extension, in particular, is a conception
+resulting from the association of my visual Presentment with my power of
+active exertion, and the delusive tendency to regard this quality as in
+some sense primarily and fundamentally real is due to the unconscious
+recognition of the fact that it is in virtue of my power, or association
+as an agent with the energetic system, that I derive a suggestion of the
+real world beyond the phenomena which constitute my experience.
+
+I cannot exist without some development of activity. Hence are derived
+my conceptions of free space and of resistance between bodies. My
+primary sensations are the sensations of touch, and the primary impulse
+of thought is to relate these with my active exertions. When sight is
+first restored to the blind the first impulse is to regard the new
+sensation as a form of touch. Its intellectual suggestiveness is a
+development. The system or stream of transmutations in which my
+volitional activity principally takes part is that represented by the
+operation of the forces of Gravitation and Cohesion; the system which
+influences my visual sensations is a quite different series. The changes
+in this latter series, by their greater rapidity, enable me to
+anticipate the other series, and for this and other reasons I employ
+these sensations to signalise and symbolise the transmutations
+proceeding in the series with which I am more immediately related as an
+active and "willing" agent. All transmutations, if they result in
+sensations, must do so by producing changes in the Energy of my
+organism, and must therefore be conditioned by the general laws which
+regulate the changes which occur there, or, in other words, must be
+contained within a self-consistent spatial condition; but the
+differences in the characters of visual Space, as it is called, and the
+spatial content of my activity, reflect the differences in the series of
+energetic transmutations with which they are respectively connected.
+
+We see more clearly, therefore, with the aid of the doctrine of Energy,
+the import of the theory of transcendental aesthetic enunciated by Kant,
+who first pointed out that there are elements, and those the most
+necessary and universal, in the sense-presentation which bear the
+character of ideality as fully as the most subjective efforts of our
+ideative activity. More particularly do we illustrate the ideality of
+Space as a cognition precedent to experience. It is because general laws
+constantly operative regulate the transmutations which constitute the
+individual's Presentment that it is possible for him to abstract from
+and generalise the data of sense; and it is because the subjective
+process of Ideation, by which we mean our representative mental activity
+in its widest sense, consists also in transmutations under the same
+general laws of the same portion of the energetic organism, that it is
+possible to frame general ideas. These general laws of organic
+transmutation are the _a priori_ conditions of the necessary
+determination in time of all existences in the world of phenomena.
+
+The form, therefore, of the phenomenon, in the language of Kant, is
+constituted by the transmutations of the Energy immediately related to
+consciousness; the matter of the phenomenon is constituted by the
+varieties produced in these by the transmitted transmutations from the
+Energy beyond--just as the musician may produce a constant variety of
+harmonies upon his instrument, but all must be conditioned by the
+relations fixed and established between the notes of which the
+instrument is composed. Transmutations of the cerebral Energy may be
+stimulated not only from without, but by subjective impulse from within;
+but in either case the laws of these transmutations are the necessary
+form of experience, and it is the possibility of transmutation upon an
+internal and subjective impulse which makes possible the formation of
+synthetical judgments _a priori_. It is as if the organ were not only
+responsive to impressions upon its keyboard from without, but were also
+automotive and could originate harmonies in its own notes; and as if,
+moreover, it were endowed with consciousness so as to receive an
+intuition of both classes of music. The former would correspond to
+sensations, the latter to ideas; and we might imagine such an instrument
+by presenting to itself its own system of notes, contriving thus to
+frame _a priori_ a synthetical system of these general musical laws
+which would constitute the necessary and universal form of its whole
+musical experience. To complete the perhaps fantastic analogy we must
+imagine the world to be one co-ordinated musical system, and our
+instrument to be endowed with the power of playing upon the other
+keyboards; of thence deriving the suggestion of the distinction between
+the internal and external impulses which respectively awakened harmonies
+within itself; and lastly, of thus at length conceiving in the spirit of
+science that the necessary and universal laws which it recognised as the
+most subjective and fundamental conditions of its own operation, at the
+same time regulated the activity of the entire musical universe.
+
+How natural it would be for such an intelligent musical instrument, if
+unhappily endowed with common sense, to believe and assert that the real
+substance of the universe consisted solely of sounds. Yet how evident
+would it be to us from our standpoint of more absolute knowledge that
+the whole orchestra of sounds, although actual and quite distinct from
+consciousness, was still merely phenomenal, and yet withal, in its every
+expression, revealed the laws and structure of reality--of the system of
+things in themselves--a system the reality of which was dissimilar to
+those appearances, though all its laws and structure could be studied
+and derived from them.
+
+Berkeley, therefore, erred seriously when he described the idea as a
+fainter sensation. Faint subjective reproductions of our sensations, as
+of blue, green, or the like, constitute a very insignificant element in
+our mental furniture. We seldom pursue so far into detail the ideative
+effort. Severely and effectively as Berkeley criticised Locke's account
+of abstract ideas, the fact remains that abstraction is a primary
+feature of our whole conceptual system; and the abstractable elements of
+the sensible presentation being the necessary constituents of all
+ideative representation are properly denominated ideal. The one element
+of particularity which every idea lacks is the reference to the
+transmitted transmutation to which the sensible phenomenon owes its
+origin. We derive such reference to the external solely from the
+obstructions which our free activity encounters and without which we
+could receive no suggestion of the non-ego, and in particular no
+suggestion of the dynamic element which fundamentally distinguishes
+things from thoughts. The empirical content of experience--the so-called
+secondary qualities of bodies--are often called in their subjective
+aspect "ideal" because the mental impression is obviously very
+different from the transmutation objectively regarded. But this is to
+confound the ideal with the subjective, which latter term is that
+properly applicable both to the sensible impression and to purely mental
+activity. The primary qualities, being the general laws or forms of
+organic Energy-transmutation, are in a higher sense ideal, for they are
+the necessary conditions under which both sense-presentation and
+ideative representation proceed. Whilst, therefore, as Kant maintained,
+they are the _a priori_ element in perception, they at the same time
+constitute the laws which regulate all Energy-transmutation within our
+experience both organic and extra-organic.
+
+We hold, therefore, to the Platonic doctrine that whilst, on the one
+hand, the sensible is only an object of thought in so far as it partakes
+of the intelligible, on the other hand the idea is not only a type for
+the individual mind, but is partaker also of the laws which penetrate
+the system of things. Idealism as a Philosophy, in denying the validity
+of any reference of the content of the Presentment to a further
+existence outside of the subjective experience, has induced that wider
+use of the term idea which applies it to the whole actuality of
+experience in its subjective aspect. With the advance of Philosophy we
+must revert to that more ancient use of the term idea which confines
+its extension into the realm of the perceptual to those elements of the
+sensible presentation which can be reproduced by the conceptual activity
+of the subject, and which in asserting, for instance, the ideality of
+Space, reminds us at the same time that Ideality implies not merely
+subjectivity, but the expression or representation also of some aspect
+of those laws which regulate the system of Reality.
+
+But is not common sense right, after all? Do I really mean to say that
+tables, chairs, houses, mountains--the whole world of my Presentment,
+are to be regarded as shrivelled up and located in my brain, or in the
+energetic correlative of my brain? Is the whole Universe, as known to me
+or conceived by me, contained within a minute portion of itself--the
+brain? Now Science does say something very like this, and the logical
+difficulties of the position are very pressing. But they cannot be got
+over by attempting to revert to common sense, because to assert that all
+my conceived Universe is immediately perceived by me as it exists, would
+seem to involve a diffusion of my intelligence throughout Space which is
+still more inconceivable and self-contradictory. Even apart from this
+implication, the assumption of the Reality of the phenomenal world
+destroys itself. To assume the reality of so-called material particles
+is to lay the foundation of an argument which surely leads to the
+conclusion that the whole world of my consciousness is produced by and
+consists in motions in that certain small group of these same molecules
+which is assumed to make up my brain. The solution is only reached when
+we discover that the error lies in forgetting that the Reality which is
+the seat of my Presentment is itself unperceived, and that what I
+commonly call a body and a brain are the phenomena occurring in my
+Presentment, and which I associate with such real substratum. The real
+substratum of my Presentment is a part of the energetic Universe, which
+is constantly undergoing transmutations. Wherever such Energy is united,
+in an organism, with consciousness these transmutations, as affecting
+and perceived by such consciousness, constitute its Presentment or
+sense-experience; and aided by the constructive activity of thought
+expand, as it were, subjectively into a whole world of experience, as
+the electric current vibrating darkly along the narrow confines of the
+wire suddenly expands at the carbon point into the luminous undulations
+which light a city.
+
+We admit, therefore, to the full the actuality and objectivity of the
+sensible presentation. We only deny that it is the real thing-in-itself.
+The latter is not discovered by sense. My energetic organism is like a
+well-fitting garment; I do not feel it at all. I feel only changes or
+transmutations taking place in it. Be not alarmed, therefore, for your
+common-sense world. We leave it to you intact and actual--not deducting
+even a single primary quality. Allowing fully for the extent to which,
+little suspected by you, it is a mentally constructed system, its
+elements are still actual and objective; they are modes of Reality;
+extension and the other primary qualities are qualities of these modes.
+Moreover, the Ego, I, myself, as Will, as a continuously identic
+intelligent agent, am not given to myself immediately in my Presentment,
+any more than is the real object. The existence of my Ego, of my
+cogitant self, is an inference which I am compelled to draw from the
+facts of my mental activity. _Cogito, ergo sum._ Similarly, my energetic
+organism is the real a-logical thing-in-itself which I am compelled to
+postulate in order to explain my perception of physical phenomena in the
+light of my physical activity; _ago, ergo possum_.
+
+We must not overlook the unique position in our Presentment occupied by
+the visual presentation. Its universality, simultaneousness, minute
+accuracy, quantifiability, etc., are such that it is really to the
+visual Presentment that I refer all other elements in my
+sense-experience. I think of them with reference to it. In connection
+with it I mentally construct my world. I associate with some
+modification of the visual presentation the phenomena resultant upon the
+energetic activity of my own organism, and the other forces and
+potential Energies which that activity reveals and suggests. It is thus
+that I derive the compound idea of Body as consisting of Figure,
+Extension, and Solidity. The continued appearance in my visual
+presentation of the grey colour which I am now seeing is to me the sign
+of the continued persistence of that potential Energy in virtue of which
+I regard it as the appearance of a solid extended stone wall. Everything
+is referred to the visual presentation, and it is in reference to it
+that the mind works in constructing its world.
+
+The whole theory of molecular action is a theory constructed in
+reference to the visual presentation--the reality of which, strangely,
+it seems to result in overthrowing. A born-blind man could never have
+invented the conception of atoms or molecules. This is well worth
+thinking over. The visual presentation is not really fundamental; and we
+must undo the inversion induced by its great convenience whereby we
+refer to it all the other elements of our sense-experience and conceive
+of our activity and our whole actual world by reference to the visible
+sign. It is in consequence of this reference to the visual that bodies
+are thought of as discrete units, so that it is difficult to conceive
+that the real thing in virtue of which we experience the perception of,
+say, a heap of stones, is truly more or less potential Energy--just as
+the continuous process of thought is very different from the disparate
+symbols of speech.
+
+I habitually refer to the visual extended image as the primary basis of
+my idea of the world, or of any particular part of the world, such as my
+dining-room. Why? Simply because, for the reasons already noted, the
+sense of sight is the sense of universal reference. In principle it is
+the same habitual tendency which makes me associate every element of my
+world with its appropriate name. It is different in the case of other
+sensations. When I am absent from Niagara I do not, in thinking of it,
+primarily conceive of it as a roar of sound. I think of certain motions
+of mass which, if I were present, would occasion the subjective
+sensations of sound. But for the habitual tendency arising from the
+universal reference to the visible I would do the same in the case of
+the visual image. All I am necessitated to think is a real event--a
+real, physical, dynamical transmutation--proceeding quite independently
+of my perception or presence; and if I can only manage to realise that I
+must, for philosophical purposes, eliminate my reference to visual as
+well as to audible or other sensations, I will understand that all I am
+entitled to, and all I can, without hopeless contradiction, postulate as
+real thing existing independently of my perception, is a transmutation
+of Energy. This energy is imperceptible, unextended, unfigured, yet it
+is by no means a mere logical or mental necessity or associative
+tendency. On the contrary, it is very real. It sustains my every act. By
+an imperative mental necessity I am obliged, by inference from my
+experiences as an active and percipient agent, to postulate the
+energetic system in which I am involved, and with one particular centre
+in which I am organically related.
+
+But we recall at this point that Science says she must still postulate
+Matter as the vehicle of Energy. But what does that mean except that the
+subject of her studies is the sensible presentation which itself
+consists of energy transmutation in part constantly changing but with
+relatively permanent and recurrent elements? These more permanent
+elements constitute what we call bodies. If the sensible presentation
+consisted exclusively of one continuous, unchanging phenomenon, Reason
+would never be stimulated, and Personality, Cause, Power would never
+have been postulated or conceived. But the transmutation is constantly
+"accelerated"--incessantly fluctuates and varies. Certain of these
+variations I recognise as related to my own volitional activity, and I
+am thus furnished with a key which enables me, by a sympathetic analogy,
+to attribute all the changes in my experience to various agents, each
+related to the other by the intervention of this system of physical
+Energy. Some of these I can further trace to the initiative of Volition
+of myself or other persons; others I can only recognise as integral
+parts of the vast energetic system of Nature, the stimulus of which I
+cannot follow further.
+
+The reality of Matter is said to be proved by its indestructibility; but
+this characteristic can easily be resolved into (1) the
+indestructibility of Space and Extension which we have seen to be merely
+another name for the necessity or inevitable universality of the general
+laws and conditions of Energy transmutation, and (2) the
+indestructibility of the Energy to the transmutations of which we
+attribute the forces of Cohesion and Gravitation.
+
+All vital activity is but a producing of changes in the stream of
+transmutation. We never do, nor in the nature of things do we ever try
+to, increase or diminish the quantity of the real Energy itself. We
+instinctively recognise the objective source of our physical power, and
+this has led some thinkers to suppose that the indestructibility of
+Matter is an _a priori_ datum of thought. But such a belief is quite
+unfounded. All it amounts to is a recognition that the destruction of
+Matter is _beyond our power_--a necessary consequence of the fact that
+we merely act upon the transmutation-process. Many a long contest
+between the supporters of _a priori_ and experiential knowledge can be
+set at rest by this view of the mediating functions of the energetic
+organism.
+
+The reflections which we have thus briefly noted and illustrated open a
+wide field for inquiry. The scientific doctrine of Energy would seem to
+be pregnant with momentous consequences for Philosophy, and it is worth
+while for metaphysicians to devote to this subject the deepest and most
+deliberate thought. The results cannot easily be grasped by a mere
+cursory perusal of memoranda, in which we have only sketched a few
+salient aspects of the doctrine. We deprecate unwarrantable assurance,
+and are fully conscious of the difficulty of adequately expressing
+thought on such a theme; but we have not written rashly nor without
+good grounds for asking attention.
+
+Science, it seems to us, postulates in Energy an a-logical, unextended,
+real thing-in-itself in terms of which the phenomena of Physics can be
+adequately and quantifiably stated. At the same time it furnishes
+Philosophy with a theory of the objectively real thing-in-itself which
+satisfied those necessities of thought by which we are constrained to
+interpret our sense-experience by a constant reference to a Reality
+beyond it--a necessity due to our association as Actors with an Energy
+beyond that which is the seat of our Presentment. Such a view avoids the
+incurable difficulties and contradictions involved in the theory of the
+reality of extended material substance, or in any theory, indeed, which
+asserts the reality--as presented--of the sensible presentation.
+Physical Reality thus conceived is consistently thinkable as co-existent
+with the thing-in-itself--be it ultimately Intelligence or Volition--of
+which our cognitive and conative existence is a manifestation. And such
+a doctrine, by explaining all phenomena as transmutations proceeding
+(according to the definite mathematical laws prevailing throughout the
+whole Universe of Energy) at that point in the system which is
+organically related to Consciousness, accounts at once for the apparent
+apriority and necessity of the qualities of Space, and at the same time
+for their evident universality and objectivity.
+
+In a word, it would rather seem as if Science, unconscious of its
+pregnant possibilities, has not only formulated a theory which
+co-ordinates and unifies the entire fabric of physical knowledge, but
+has also at length furnished Philosophy with the key to that problem the
+solution of which has, in the words of Schopenhauer, been the main
+endeavour of philosophers for more than two centuries, namely, to
+separate by a correctly drawn line of cleavage the Ideal--that which
+belongs to our knowledge as such--from the Real, that which exists
+independently of us; and thus to determine the relation of each to the
+other.
+
+To us it seems not strange that Philosophy should in the end be indebted
+to Science for this solution--nor should Science, in the hour of her
+greatest speculative victory, object too hastily to the assistance which
+the thinker, trained to the study of the process of thought, can render
+in clarifying and restating in its metaphysical aspects a theory which,
+if profoundly conceived, and formulated by men of science from Rumford
+and Davy to Stewart, Tait, and Kelvin, was partially anticipated by the
+metaphysician who conceived the world as will and idea.
+
+We maintain, therefore, that the presentation of sense, the continuum
+or manifold, or what you will, consists in the transmutations of a real
+substance itself unextended and unperceived; that the laws of these
+transmutations are what constitute the geometric all-containing Space;
+that at a point in this real energetic system organically related to the
+intelligent self, the transmutations occurring there constitute the
+individual's sensible experience; that his mind, by also actively
+influencing the system at that point, can stimulate the train of
+transmutations which constitute his world of ideas; that the mind can
+discover itself as Will influencing transmutations in the organism which
+are transmitted through a wider, larger portion of the system; and can
+recognise the transmutations at the related point as influenced
+sometimes by its own Volition and sometimes by other agents. We seek to
+bring the added light of scientific theory to reconcile the conflict
+between the law and the fact, between the objects of reflection and the
+objects of sense, between the world of thought and the world of
+phenomena,--the problem which Plato raised and which has since been the
+central problem of Metaphysics. In doing so we present a doctrine which
+not only maintains the truth of the Ideal, and the actuality of the
+phenomenal, and the relative reality of both, but which proves, with
+all the cogency of Science, how it is that the Sensible is permeated by
+and made knowable only by the Ideal, by the laws of the transmutations
+which constitute actuality, and that, on the other hand, the Ideal only
+enters experience as the regulative principle of the ever-transmuting
+Reality.
+
+The world consists not merely of phenomena, nor of phenomena and laws
+which regulate them. These are but transitional and imperfect aspects of
+Reality. "Our standard of Truth and Reality," says a recent writer,
+"moves us on towards an individual with laws of its own, and to laws
+which form the vital substance of a single existence." We approach such
+a goal in the conception of Energy--the laws of whose constant
+transmutations are what we call Nature.
+
+We must distinguish Energy as Absolute Reality from such conceptions as
+Activity, which is its subjective aspect, or as Force, which is really
+the rate at which Energy is, in certain cases, transformed. Dynamics,
+which investigates Force, is a study of the fundamental transmutations
+of Energy. It postulates Energy as the Real Entity in terms of which it
+can frame a satisfactory theory of dynamical phenomena.
+
+The metaphysical labours of the century which has elapsed since Kant
+have not been altogether in vain. The deeper thinkers are pretty nearly
+agreed that the Absolute is not to be identified with its appearances.
+How far they can bring home this view in practical form to the
+intelligence of man is another matter. Plato doubtless saw the truth in
+a sort of beatific vision, but the tide of speculation ebbed after his
+death, and its healing waters never inundated the deserts of mediaeval
+thought. The discursive weakness in which the speculation of the
+transcendental Philosophy seems to dissipate itself makes us fear a
+similar decline. Metaphysics must receive the assistance of the great
+speculative achievement of Physics. It must realise that Science can
+postulate a Reality unperceived and unqualified by the conditions of
+sense, but in terms of which Science can explain the whole phenomena of
+the sensible presentation in their objective aspect,--explain these as
+transmutations of Reality, proceeding in accordance with the general
+mathematical laws under which Reality transmutes itself.
+
+It may be said that reason requires us to think that the Universe is a
+unity. Where do you embrace within Reality, in such a view of it,
+Intelligence, Volition, Feeling? We answer: Of course, obviously
+Reality, as postulated by Physics, does not contain these. But the Real
+Thing postulated by Physics is but one aspect of the whole, and may be,
+must be, merged in a higher Reality--of which phenomena, on the one
+hand, and Thought, Conation, Feeling on the other, are the appearances.
+That involves a further advance, the attainment of a higher degree of
+Truth which would bridge the Dualism of Thought and Existence, of Self
+and Not-self, of Spirit and Nature, and whilst, on the one hand, such
+Reality must fundamentally be a-logical, on the other hand Energy may
+owe its energy to Spirit.
+
+In the dualism which we must, in experience, recognise, we notice one
+fundamental distinction: quantification, measurability, appear the
+attributes of the physical; quality, ideality, of the spiritual. The
+apprehension, therefore, of the doctrine of Energy should accomplish in
+clarity and security the abolition of the intolerable contradictions
+which have hitherto involved the search for Reality amid its
+appearances. We think it suggests the most satisfying explanation of the
+distinction which separates, and the principle which relates Ideality
+and Externality, and should obviate the almost childish efforts of
+transcendentalists to expound the relation of the Mind to a body which
+is involved in, and which is yet--for the individual--distinguished,
+they cannot tell us how, from the whole system of Nature.
+
+Of course, neither Thought nor Volition, as such, can be the absolute
+Reality. They, like Physical Force, are but transmutations, affections,
+phases of Reality. Nor, again, is Energy, as a quality, a correct
+description of the Absolute, as such. The Absolute, as such, we cannot
+describe; but in studying, as Physics does, the relations of physical
+phenomena and stating these in terms of Reality, it conveniently gives
+Reality a name appropriate to its own standpoint.
+
+Metaphysics rightly declines to be required to study special branches of
+Science. Nothing but grotesque absurdity ensues when this precaution is
+overlooked. Yet Metaphysics has hitherto thought itself the better of a
+little logic, and in the future it will have to grasp the scientific
+conception of Reality. There is nothing else for it; and, after all, it
+is remarkable how far the most fundamental conceptions of Metaphysics
+are dependent on a physical origin.
+
+Surely it is of primary importance to realise the effect upon our
+conceptions of Space and Extension of the doctrine of the transmutations
+of Energy. Even the profoundest metaphysicians have seemingly failed to
+explain how Space, Matter, and Extension are related with Reality. You
+cannot ignore this difficulty by saying that these are the working
+conceptions of particular branches of Physical Science. But when you
+realise that physical phenomena, even the most permanent and rigid, are
+by scientific demonstration but transmutations of the real thing, you
+may then understand that Space, Body, and Extension are but the laws and
+conditions of the process. As appearances, and within the realm of
+phenomena, they seem still what they have always seemed. So much we
+still concede without diminution or obscurity; and at the same time we
+can harmonise them as they could never be harmonised before with
+postulated Reality.
+
+It is the same with Time. The facts of memory would seem to imply that
+there is no succession in the Absolute. We are always present at all
+times of our life. In recollecting a past event we are contemplating no
+mere image, but the actual past event itself. Our chronometry depends on
+the annual motion of the Earth round the Sun. It has thus a purely
+physical basis.
+
+We might illustrate the application of the doctrine of Energy to every
+department of Metaphysics. But such is not the object of the present
+essay. We merely desire to indicate briefly some of the many aspects of
+the theory, and if only we have been able to suggest a line of inquiry,
+the primary object of this essay has been attained.
+
+
+FOOTNOTES:
+
+[81:1] Originally printed in 1898, now revised and rewritten.
+
+
+_Printed by_ MORRISON & GIBB LIMITED, _Edinburgh_
+
+
+
+
+_BY THE SAME AUTHOR_
+
+
+THE
+DYNAMIC FOUNDATION
+OF KNOWLEDGE
+
+_Crown 8vo. 330 pp. 6s. net_
+
+
+"Mr. Philip, a thinker of considerable acuteness, expounds further the
+dynamic theory of knowledge which he propounded in 'Matter and Energy'
+and the 'Doctrine of Energy.' What we are really sensible of in the
+external world is mutation; but the consciousness of our own activity
+suggests the existence of something behind phenomena. The reality which
+sustains experience is found to be, in essence, power--power conceived
+as an energy containing within itself the principle of its own
+evolution; an energy constantly transmuting itself, and in its
+transmutations furnishing the entire presentation of sense. The
+universal application of this concept unifies science or the knowledge
+of nature; and the dynamic theory is applied by Mr. Philip to life,
+economics, and education."
+                                                           _Times._
+
+
+"Well written, and contains much sound analysis of perception and the
+like, with much that is debatable but suggestive and
+stimulating."--_Nature._
+
+
+"The argument is conducted with great ability and thoroughness, and the
+writer reveals a most accurate acquaintance with the results of both
+science and philosophy."--_Glasgow Herald._
+
+
+KEGAN PAUL, TRENCH, TRUeBNER, & CO., LTD.
+BROADWAY HOUSE, 68-74 CARTER LANE, LONDON, E.C.
+
+
+
+
+
+End of the Project Gutenberg EBook of Essays Towards a Theory of Knowledge, by
+Alexander Philip
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THEORY OF KNOWLEDGE ***
+
+***** This file should be named 23422.txt or 23422.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/3/4/2/23422/
+
+Produced by Barbara Tozier, Bill Tozier, Michael Zeug,
+Lisa Reigel, and the Online Distributed Proofreading Team
+at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
