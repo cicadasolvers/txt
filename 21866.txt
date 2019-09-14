@@ -1,0 +1,782 @@
+The Project Gutenberg EBook of The Gundungurra Language, by R. H. Mathews
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Gundungurra Language
+
+Author: R. H. Mathews
+
+Release Date: June 19, 2007 [EBook #21866]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE GUNDUNGURRA LANGUAGE ***
+
+
+
+
+Produced by An Anonymous Volunteer
+
+
+
+
+
+[Transcriber's Note: In this version, the following replacements were
+made: a with macron is [a|], a with circumflex is [a^], i with macron
+is [i|], o with circumflex is [o^], and n with tilde is [n~].]
+
+THE GUNDUNGURRA LANGUAGE.
+
+BY R. H. MATHEWS, L.S.
+
+(_Read October 4, 1901._)
+
+The Dhar'rook and Gun'dungur'ra tribes respectively occupied the
+from the mouth of the Hawkesbury river to Mount Victoria, and thence
+southerly to Berrima and Goulburn, New South Wales. On the south and
+southeast they were joined by the Thurrawal, whose language has the
+same structure, although differing in vocabulary.
+
+Besides the verbs and pronouns, many of the nouns, adjectives,
+prepositions and adverbs are subject to inflection for number and
+person. Similar inflections have, to some extent, been observed in
+certain islands of the Pacific Ocean, but have not hitherto been
+reported in Australia. I have also discovered two forms of the dual
+and plural of the first personal pronoun, a specialty which has
+likewise been found in Polynesian and North American dialects. Traces
+of a double dual were noticed by Mr. Threlkeld at Lake Macquarie, New
+South Wales, and traces of a double plural by Mr. Tuckfield in the
+Geelong tribe; but the prevalence of both forms of the dual and plural
+in different parts of speech in any Australian language has, up to the
+present, escaped observation.
+
+Orthography.
+
+Ninteen letters of the English alphabet are sounded, comprising
+fourteen consonants--b, d, g, h, j, k, l, m, n, p, r, t, w, y--and
+five vowels--a, e, i, o, u. Every word is spelled phonetically, the
+letters having the same value as in English, with the following
+qualifications:
+
+Unmarked vowels have the usual short sound.
+
+Vowels having the long sound are distinguished by the following marks:
+
+  [a|] as in fate    [i|] as in pie    oo as in moon
+  [a^] as in father  [o^] as in pole   ee as in feel
+                     ou as in loud
+
+It is frequently difficult to distinguish between the short or
+unmarked sound of a and that of u. A thick or dull sound of i is
+occasionally met with, which closely approaches the short sound of u
+or a.
+
+G is hard in every instance.
+
+R has a rough trilled sound, as in hurrah!
+
+Ng at the beginning of a word, as ngee=yes, has a peculiar sound,
+which can be got very closely by putting oo before it, as oong-ee',
+and articulating it quickly as ony syllable. At the end of a word or
+syllable it has substantially the sound of ng in our word sing.
+
+The sound of the Spanish [n~] is frequent, both at the beginning or
+end of a syllable.
+
+Y, followed by a vowel, is attached to several consonants, as in dya,
+dyee, tyoo, etc., and is pronounced therewith in one syllable, the
+initial sound of the d or other consonant being retained. Y at the
+beginning of a word or syllable has its usual consonant value.
+
+Dh is pronounced nearly as th in "that" with a slight sound of the d
+preceding it.
+
+Nh has nearly the sound of th in "that" with an initial sound of the
+n.
+
+The final h is guttural, resembling ch in the German word "joch."
+
+T is interchangeable with d, p with b, and g with k in most words
+where these letters are employed.
+
+A sound resembling j is frequently given by the natives, which can be
+represented by dy or ty; thus, dya or tya has very nearly the same
+sound as ja.
+
+In all cases where there is a double consonant, each letter is
+distinctly enunciated.
+
+W always commences a syllable or word and has its ordinary consonant
+sound in all cases.
+
+At the end of a syllable or word, ty is sounded as one letter; thus,
+in beety-bal-lee-ma[n~], it is disappearing, the syllable beety can be
+obtained by commencing to say "beet-ye," and stopping short without
+articulating the final e, but including the sound of the y in
+conjunction with the t--the two letters being pronounced together as
+one.
+
+Articles.
+
+The equivalents of the English articles, "a" and "the," do not occur
+in this language.
+
+Nouns.
+
+_Number._--Nouns have the singular, dual and plural:
+
+  (1) _Singular_  A man                Murri[n~]
+      _Dual_      A pair of men        Murri[n~]boolallee
+      _Plural_    Several men          Murri[n~]dyargang
+
+  (2) _Singular_  A kangaroo           Booroo
+      _Dual_      A pair of kangaroos  Booroolallee
+      _Plural_    Several kangaroos    Boorooyargang
+
+It will be observed that the dual and plural suffixes vary slightly in
+form, according to the termination of the noun.
+
+_Gender._--Mur'ri[n~], a man; bul'lan, a woman; boobal, a boy;
+mullunga, a girl; goodha, a child of either sex; warrambal, a young
+man. Another name for a man is boual; a married man is kunbeelang; a
+married woman is boualillang. Generally the males of animals are
+distinguished by the addition of goomban, and the females by dhoorook.
+The males of certain animals have a name which distinguishes them
+without stating the sex; thus, the male of wallee, the opossum, is
+known as jerrawul, while the female is wallee dhoorook. Goola, the
+native bear, has burrandang for the male and goola dhoorook for the
+female. A few animals have a distinctive word for the female as well
+as for the male; thus, the female of the wallaroo is b[a^]wa, and the
+male goondarw[a^]. Others again have the suffix koual for the male,
+and [n~]oual for the female. The words for "male" and "female" are
+inflected for number like other adjectives.
+
+_Case._--There are two forms of the nominative, the first naming the
+subject at rest; as Boual ngabooroma[n~], the man sleeps. The second
+shows that the subject is doing some act; thus, mirreegangga wallee
+burr[a^]ra[n~], the dog an opossum bit. Mirreegang is a dog in the
+first nominative.
+
+The possessive case takes a suffix both to the possessor and that
+which is possessed:
+
+Murringoo warrangangoong, a man's boomerang.
+
+Mirreegangoo goodh[a^]woong, a dog's puppy.
+
+Bullangoo goodh[a^]yarroong, a woman's children.
+
+Booroongoo dhoombirgoong, a kangaroo's tail.
+
+Any object over which one can exercise ownership can be conjugated by
+possessive suffixes for number and person:
+
+  _Singular._  First person   My boomerang          Warrangandya
+               Second Person  Thy boomerang         Warranganyee
+               Third Person   His boomerang         Warrangangoong
+
+  _Dual._      First Person   Our boomerang, incl.  Warrangangulla
+                              Our boomerang, excl.  Warrangangullang
+               Second Person  Your boomerang        Warranganboola
+               Third Person   Their boomerang       Warranganboolangoo
+
+  _Plural._    First Person   Our boomerang, incl.  Warranganyinnang
+                              Our boomerang, excl.  Warranganyillung
+               Second Person  Your boomerang        Warranganyoorung
+               Third Person   Their boomerang       Warrangandyunnung
+
+The accusative does not differ from the nominative. There are a few
+forms of nouns for the dative and oblative, but these cases are
+frequently shown by modifications of the verb; as, I carried to him,
+he carried from me. They are also indicated by the pronouns; as, with
+me, to me.
+
+Pronouns.
+
+Pronouns are inflected for number, person and case. There are two
+forms of the dual and plural in the first person. The following table
+shows the nominative and possessive cases:
+
+  _Singular._  I          Goolangga         Mine         Goolanggooya
+               Thou       Goolanjee         Thine        Goolanyingoo
+               He         Dhannooladhoo     His          Dhannoogoolangoo
+
+  _Dual._      We, incl.  Goolanga          Ours, incl.  Goolangal[i|]a
+               We, excl.  Goolangaloong     Ours, excl.  Goolangaloong
+               Ye         Goolamboo         Yours        Goolambooloong
+               They       Dhannooboola      Theirs       Dhannooboolangoo
+
+  _Plural._    We, incl.  Goolanyan         Ours, incl.  Goolanyannung
+               We, excl.  Goolanyilla       Ours, excl.  Goolanyillungoon
+               Ye         Goolambanoo       Yours        Goolanthooroong
+               They       Dhannoojimmalang  Theirs       Goolangandyoolang
+
+These possessives admit of variations to include two or several
+articles and in other ways. There are also forms of the pronouns
+signifying, with me, with thee, and so on as follows:
+
+  _Singular._  First Person   With me         Goolangngooreea
+               Second Person  With thee       Goolangooroonyee
+               Third Person   With him        Goolangooroong
+
+  _Dual._      First Person   With us, incl.  Goolangooroongulla
+                              With us, excl.  Goolangooroongullung
+               Second Person  With ye         Goolangoorooloong
+               Third Person   With them       Goolangooroolangoo
+
+  _Plural._    First Person   With us, incl.  Goolangooroo[n~]unnung
+                              With us, excl.  Goolangooroo[n~]ullungoo
+               Second Person  With ye         Goolangooroo[n~]ooroong
+               Third Person   With them       Goolangooroodyunnung
+
+There are other modifications of the pronouns to meet different forms
+of expression. The demonstratives and interrogatives are inflected for
+number and person like the rest.
+
+Adjectives.
+
+Adjectives take the same dual and plural numbers as the nouns with
+which they are used:
+
+  (1) Barr[i|] buggarabang                   A wallaby, large
+      Barr[i|]woolallee buggarabangoolallee  A couple of wallabies, both large
+      Barr[i|]dyargang buggarabangargang     Several wallabies, all large
+
+  (2) Bullan yeddung                         A woman pretty
+      Bullanboollee yeddungboolallee         A couple of pretty women
+      Bullandhar yeddungdyargang             Several pretty women
+
+Comparison is effected by saying, This is heavy--that is heavy; this
+is smooth--that is not; this is sharp--that is very sharp.
+
+When used predicatively, as yooroang or yoorwang, he is strong, an
+adjective can be conjugated through all the tenses and moods of an
+intransitive verb:
+
+_Present Tense._
+
+  _Singular._  First Person   I am strong           Yooroangga or Yoorwangga
+               Second Person  Thou art strong       Yooroandyee
+               Third Person   He is strong          Yooroang
+
+  _Dual._      First Person   We are strong, incl.  Yooroanga
+                              We are strong, excl.  Yooroangaloong
+               Second Person  Ye are strong         Yooroangboo
+               Third Person   They are strong       Yooroangboola
+
+  _Plural._    First Person   We are strong, incl.  Yooroanyun
+                              We are strong, excl.  Yooroanyulla
+               Second Person  Ye are strong         Yooroanthoo
+               Third Person   They are strong       Yooroanjimmalang
+
+The past and future tenses are not given, owing to want of space.
+
+Verbs.
+
+Verbs have the singular, dual and plural numbers, the usual persons
+and tenses, and three principal moods, viz., indicative, imperative
+and conditional. The verb-stem and a contraction of the pronoun are
+incorporated, and the word thus formed is used in the conjugation.
+
+INDICATIVE MOOD.
+
+_Present Tense._
+
+  _Singular._  First Person   I throw (throw I)     Yerreemangga
+               Second Person  Thou throwest         Yerreemandyee
+               Third Person   He throws             Yerreema[n~]
+
+  _Dual._      First Person   We throw, incl.       Yerreemang'a
+                              We throw, excl.       Yerreemangaloong
+               Second Person  Ye throw              Yerreemanboo
+               Third Person   They throw            Yerreemanboola
+
+  _Plural._    First Person   We throw, incl.       Yerreemanyan
+                              We throw, excl.       Yerreemanyalla
+               Second Person  Ye throw              Yerreemanthoo
+               Third Person   They throw            Yerreemandyoolung
+
+_Past Tense._
+
+  _Singular._  First Person   I threw (threw I)     Yerreeing'ga
+               Second Person  Thou threwest         Yerreerindyee
+               Third Person   He threw              Yerreering
+
+  _Dual._      First Person   We threw, incl.       Yerreering'a
+                              We threw, excl.       Yerreeringaloong
+               Second Person  Ye threw              Yerreeringboo
+               Third Person   They threw            Yerreeringboola
+
+  _Plural._    First Person   We threw, incl.       Yerreeooranyan
+                              We threw, excl.       Yerreeooranyulla
+               Second Person  Ye threw              Yerreeooranthoo
+               Third Person   They threw            Yerreeooradyoolung
+
+_Future Tense._
+
+  _Singular._  First Person   I will throw          Yerreeningga
+               Second Person  Thou wilt throw       Yerrenindyee
+               Third Person   He will throw         Yerreeni[n~]
+
+  _Dual._      First Person   We will throw, incl.  Yerreening'a
+                              We will throw, excl.  Yerreeningaloong
+               Second Person  Ye will throw         Yerreenimboo
+               Third Person   They will throw       Yerreenimboola
+
+  _Plural._    First Person   We will throw, incl.  Yerreeninyan
+                              We will throw, excl.  Yerreeninyulla
+               Second Person  Ye will throw         Yerreemunanthoo
+               Third Person   They will throw       Yerreemunadyoolung
+
+IMPERATIVE MOOD.
+
+  _Singular_  Second Person  Throw thou  Yer'-ree
+  _Dual_      Second Person  Throw ye    Yer'-ree-ou'
+  _Plural_    Second Person  Throw ye    Yer'-ree-a-nhoor'
+
+CONDITIONAL MOOD.
+
+  Perhaps I will throw  Yerreeningga  booramboonda
+
+If a negative meaning be required, it is effected by means of an
+infix, mooga, between the verb-stem and the abbreviated pronoun. One
+example in the first person singular in each tense will exhibit the
+negative form of the verb:
+
+  I am not throwing  Yerreemoogamangga
+  I did not throw    Yerreemoogaringga
+  I will not throw   Yerreemooganingga
+
+This negative infix can be applied in the same manner to all the
+persons of the three tenses.
+
+There are numerous modifications of the verbal suffixes to convey
+variations of meaning; as, "I threw at him," "He threw at me," etc.,
+which can be conjugated for number and person. Case can also be
+indicated in this way, as already stated in dealing with the nouns.
+
+Verbs have no passive voice. If a native desires to state that a fish
+was swallowed by a pelican, he would say, "A pelican swallowed a
+fish."
+
+Prepositions.
+
+Some prepositions can be used separately, as dhooreegoong, between;
+warroo, around; willinga, behind, and several others, thus:
+Dhooreegoong ngullawoolee, between trees two or between two trees;
+gunbee warroo, the fire around or around the fire.
+
+A prepositional meaning is often obtained by a verb; thus, instead of
+having a word for "up" or "down," a native will say, Boomaningga, up I
+will go; woor[a^]ramuningga, down I will go. Many of the prepositions
+admit of conjugation for number and person, as in the following
+example:
+
+  _Singular._  First Person   Behind me         Willing[i|]a
+               Second Person  Behind thee       Willinganyee
+               Third Person   Behind him        Willing[a^]woong
+
+  _Dual._      First Person   Behind us, incl.  Willingangulla
+                              Behind us, excl.  Willingangullung
+               Second Person  Behind ye         Willingang[a^]wooloong
+               Third Person   Behind them       Willingangawoolangoo
+
+  _Plural._    First Person   Behind us, incl.  Willinganyanung
+                              Behind us, excl.  Willinganyanungoo
+               Second Person  Behind ye         Willinganthooroong
+               Third Person   Behind them       Willingadyanung
+
+Adverbs.
+
+Space will not permit of a list of adverbs any further than to
+illustrate how some of them can be conjugated:
+
+  _Singular._  First Person   Where go I          Ngoondeeneea
+               Second Person  Where goest thou    Ngoondeenee[n~]ee
+               Third Person   Where goes he       Ngoondeeneeoong
+
+  _Dual._      First Person   Where go we, incl.  Ngoondeeneenga
+                              Where go we, excl.  Ngoondeeneengoolung
+               Second Person  Where go ye         Ngoondeeneewoo
+               Third Person   Where go they       Ngoondeeneewoola
+
+  _Plural._    First Person   Where go we, incl.  Ngoondeenee[n~]nun
+                              Where go we, excl.  Ngoondeenee[n~]ulla
+               Second Person  Where go ye         Ngoondeenee[n~]oo
+               Third Person   Where go they       Ngoondeeneeyoolung
+
+Adverbial meanings are sometimes conveyed by means of verbs, as
+beetyballeema[n~], he (or it) goes out of sight. Conjunctions and
+interjections are few and unimportant.
+
+
+
+
+
+End of Project Gutenberg's The Gundungurra Language, by R. H. Mathews
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE GUNDUNGURRA LANGUAGE ***
+
+***** This file should be named 21866.txt or 21866.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/1/8/6/21866/
+
+Produced by An Anonymous Volunteer
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
