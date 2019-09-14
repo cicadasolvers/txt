@@ -1,0 +1,2188 @@
+The Project Gutenberg EBook of Condensed Guide for the Stanford Revision
+of the Binet-Simon Intelligence Tests, by Lewis Madison Terman
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Condensed Guide for the Stanford Revision of the Binet-Simon Intelligence Tests
+
+Author: Lewis Madison Terman
+
+Release Date: November 13, 2010 [EBook #34307]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK CONDENSED GUIDE FOR THE ***
+
+
+
+
+Produced by Ron Swanson
+
+
+
+
+
+[Transcriber's note: Text set within braces is printed upside down in
+the original text in order to facilitate its use with a test subject
+sitting at a table across from the examiner.]
+
+
+
+
+CONDENSED GUIDE FOR THE STANFORD REVISION OF THE BINET-SIMON
+INTELLIGENCE TESTS
+
+
+BY
+
+LEWIS M. TERMAN
+
+PROFESSOR OF EDUCATION STANFORD UNIVERSITY
+
+
+
+
+HOUGHTON MIFFLIN COMPANY
+
+BOSTON  NEW YORK  CHICAGO  SAN FRANCISCO
+
+_The Riverside Press Cambridge_
+
+
+
+
+COPYRIGHT, 1920, BY LEWIS M. TERMAN
+
+ALL RIGHTS RESERVED
+
+
+
+
+_The Riverside Press_
+
+CAMBRIDGE, MASSACHUSETTS
+
+PRINTED IN THE U. S. A.
+
+
+
+
+PREFACE
+
+
+Since the appearance of the Stanford Revision of the Binet-Simon
+Intelligence Scale I have been frequently urged to prepare a
+condensed guide which would make the application of the tests easier
+and more convenient. I have hesitated somewhat to act upon this
+suggestion because I have not wished to encourage the use of the
+scale without the supplementary directions and explanations which are
+set forth in the original text of the Stanford Revision.[1] The
+demand has become so insistent, however, that I have decided to heed
+it. I have been led to this decision largely by the fact that my
+revision is now so generally used by examiners who are sufficiently
+experienced to be trusted to follow the correct procedure without the
+necessity of constantly consulting the complete text. Those who are
+thoroughly familiar with the contents of the latter will find the
+_Condensed Guide_ a convenient help. It is impossible, however, to
+warn the inexperienced examiner too emphatically against the dangers
+inherent in the routine application of mental tests without some
+knowledge of their derivation, meaning, and purpose. The necessary
+psychological background for the use of the Binet scale I have tried
+to supply in _The Measurement of Intelligence_, and in _The
+Intelligence of School Children_ I have explained the practical uses
+of mental tests in the grading and classification of school children.
+It is only as a supplement to these books that the procedure of the
+Stanford Revision is here presented in abbreviated form.
+
+[Footnote 1: Lewis M. Terman: _The Measurement of Intelligence_.
+(Riverside Textbooks in Education.) Houghton Mifflin Company.]
+
+For the further aid of the experienced examiner a condensed record
+blank has also been prepared. Although this is considerably cheaper
+than the original Record Booklet and in certain respects perhaps
+somewhat more convenient, it is not recommended as a satisfactory
+substitute except when used by thoroughly trained examiners.
+Beginners, at least, should continue to use the complete Record
+Booklet both because of the accuracy of procedure which it fosters
+and because of the advantages of having a complete verbatim record of
+the responses. Besides being indispensable for the analytical study
+of the child's mental processes, the complete record makes possible
+the correction of errors in scoring and permits interesting
+qualitative comparisons between earlier and later performances by the
+same subject. It is believed that only for the veteran examiner, and
+perhaps even then only in special cases, are these advantages
+outweighed by the lower cost of the abbreviated blank.
+
+The labor of preparing this _Guide_ was made considerably lighter
+than it would otherwise have been by the fact that a similar guide
+had been prepared in the Office of the Surgeon-General for use in the
+army. I am greatly indebted to Dr. J. W. Bridges and to Major H. C.
+Bingham for assistance in the preparation of the latter. Their
+careful work has saved me many hours and has doubtless made the
+_Condensed Guide_ more accurate and serviceable than it could
+otherwise have been.
+
+LEWIS M. TERMAN
+
+_Stanford University, March 31, 1920_
+
+
+
+
+GENERAL DIRECTIONS
+
+
+General directions for the use of the Stanford Revision have been
+fully set forth in chapter VIII of _The Measurement of Intelligence_.
+As this guide is only a handbook of procedure for the tests
+themselves, I shall not here undertake either to summarize that
+chapter or to add to it. I trust it may safely be assumed that no
+responsible person will attempt to apply the tests who is not
+familiar with the book which explains them and presents the general
+considerations which should govern their use.
+
+However, extended observation of the difficulties which students and
+teachers encounter in learning to use the Stanford Revision has
+taught me that there are certain injunctions which cannot easily be
+too often repeated. Among these the following "ten commandments" have
+been selected for reemphasis here:
+
+1. The subject's attention and cooeperation must be secured. Thanks to
+the novelty and inherent interest of the tests, this is usually not
+difficult to do. But there are degrees of _rapport_, and the examiner
+should not be satisfied with his efforts until the subject becomes
+wholly absorbed in the tasks set him by the tests. The importance of
+tactful encouragement and a kindly, genial manner cannot be too
+strongly emphasized, nor, on the other hand, the risk incurred in
+allowing a parent to witness the test. Hardly anything is more likely
+to spoil an examination than the presence of a critical or
+over-sympathetic parent. Sometimes the teacher's presence is hardly
+less objectionable.
+
+2. The correct formulas should be thoroughly learned and strictly
+adhered to. Unless this is done the scale used is not the Stanford
+Revision, whatever else it may be. For the first fifty or hundred
+examinations the tests should be given directly from this guide.
+Little by little, as the procedure becomes memorized, the examiner
+should attempt to free himself of the necessity of reading the
+formulas, but for a long time it is necessary to check up one's
+procedure by frequent reference to the Guide if practice in error is
+to be avoided.
+
+3. The examiner should early learn to withstand the temptation of
+wholesale coaxing and cross-questioning. To do so often robs the
+response of significance and is likely to interfere with the
+establishment of _rapport_. A simple "What do you mean?" or, "Explain
+what you mean," is sufficient to clarify most answers which are not
+clear. At the same time the examiner should be on guard against
+mistaking exceptional timidity for inability to respond. Persuasive
+encouragement is frequently necessary, but this should not be allowed
+to degenerate into a chronic habit of coaxing.
+
+4. The record should always be made as the test proceeds. Memory
+should never be trusted. As a rule enough of each response should be
+recorded to enable one to score it at any time later. The great
+advantage of the Record Booklet is that it permits this. Only the
+most expert examiner should limit his record to pluses and minuses.
+
+5. The examination should be thorough. It should include at least one
+year in which there is no failure and at least one year in which
+there is no success. When lack of time necessitates an abbreviation
+of the examination, this should be done by using only the starred
+tests rather than by shortening the range of the examination.
+
+6. Success in alternative tests may not be substituted for failure in
+one of the regular tests. Ordinarily the alternatives should be
+omitted. They have been included in the scale chiefly as a
+convenience in case materials are lacking for any of the regular
+tests, or in case any of the latter should be deemed for some special
+reason unsuitable. The ball and field test, for example, is often
+rendered unsuitable by coaching, and one of the alternates should
+always be substituted for the vocabulary test in the case of subjects
+whose mother tongue is other than English. Other substitutions or
+omissions are necessary in the case of subjects who are illiterate.
+
+7. Care should be taken to ascertain the correct age. This is often
+misstated both by young normal children and by defectives. The age
+should be recorded in years _and months_.
+
+8. In ordinary calculation of the intelligence quotient without any
+mechanical aid (as slide rule, calculating chart, or table), both age
+and mental age should be reduced to months before dividing.
+
+9. To avoid the danger of large error it is absolutely essential that
+the adding of credits to secure mental age and the dividing of mental
+age by chronological age to secure the intelligence quotient be
+performed twice.
+
+10. Finally, in calculating the intelligence quotient of subjects who
+are more than sixteen years old, the chronological age should be
+counted as sixteen. It is possible, as certain army data suggest,
+that a lower age than sixteen should have been taken, but until the
+matter has been more thoroughly investigated by the use of unselected
+adult subjects the age sixteen will continue to be used in the
+Stanford Revision.
+
+
+
+
+DIRECTIONS: THE TESTS[2]
+
+[Footnote 2: Detailed directions for administering Stanford-Binet
+Scale and for scoring are available in Terman's _The Measurement of
+Intelligence_. (Riverside Textbooks in Education.) Houghton Mifflin
+Company.]
+
+
+
+
+Year III
+
+
+1. _Pointing to Parts of Body_
+
+Say, "Show me your nose." "Put your finger on your nose." If two or
+three repetitions of instructions bring no response, say, "Is this
+(pointing to chin) your nose?" "No?" "Then where is your nose?" Same
+for eyes, mouth, and hair.
+
+Credit if correct part is indicated (in any way) three times out of
+four.
+
+
+2. _Naming Familiar Objects_
+
+Show S., one at a time, key (not Yale), penny (not new), closed
+knife, watch, pencil. Say each time, "What is this?" or, "Tell me
+what this is."
+
+Credit if three responses out of five are correct.
+
+
+3. _Pictures--Enumeration_
+
+Say, "Now I am going to show you a pretty picture." Show picture
+(_a_) and say, "Tell me what you see in this picture," or, "Look at
+the picture and tell me everything you can see in it." If no
+response, "Show me the ----." "That is fine: now tell me everything
+you see in the picture." If necessary ask, "And what else?" Same for
+pictures (_b_) and (_c_).
+
+Credit if at least three objects in one picture are enumerated
+spontaneously, or if one picture is described or interpreted.
+
+
+4. _Giving Sex_
+
+If S. is a boy, "Are you a little boy or a little girl?" If S. is a
+girl, "Are you a little girl or a little boy?" If no response, "Are
+you a little girl?" (if a boy); or "Are you a little boy?" (if a
+girl). If answer is "No," say, "Well, what are you? Are you a little
+boy or a little girl?" (or vice versa).
+
+
+5. _Giving Last Name_
+
+Ask, "What is your name?" If answer is only first or last name, e.g.,
+Walter, say, "Yes, but what is your other name? Walter what?" and if
+necessary, "Is your name Walter Smith?"
+
+
+6. _Repeating Sentences_
+
+"Can you say, 'nice kitty'?" "Now say, 'I have a little dog.'" If no
+response, repeat first sentence two or three times. Same procedure
+for (_b_) "The dog runs after the cat" and (_c_) "In summer the sun
+is hot," except that these may be given only once.
+
+Credit if at least one sentence is given without error after a single
+reading.
+
+
+_Alt. Repeating Three Digits_
+
+Say, "Listen. Say, 4, 2. Now say, 6, 4, 1." Same for 3, 5, 2, and 8,
+3, 7. May repeat (_a_), not others. Rate, a little faster than one
+digit per second.
+
+Credit if one set out of the three is given correctly after a single
+reading.
+
+
+
+
+Year IV
+
+
+1. _Comparison of Lines_
+
+Show card (IV 1) and say, "See these lines. Look closely and tell me
+which one is longer. Put your finger on the longest one." If no
+response, "Show me which line is the biggest." Show twice more
+(reversing card at second showing) and ask, "Which one is the longest
+here?" If only two out of three are correct, repeat the entire test.
+
+Credit if three responses out of three, or five out of six, are
+correct.
+
+
+2. _Discrimination of Forms_
+
+Use the forms supplied with the package of Test Material. One of the
+two cards containing the forms is to be cut up, so that the forms may
+be placed one at a time on the other card at "X."
+
+Place circle at "X" on card and say, "Show me one like this," at same
+time passing the finger around the circumference of the circle. If no
+response, "Do you see all of these things?" (running finger over the
+various forms). "And do you see this one?" (pointing to circle
+again). "Now, find me another one just like this." A first error
+should be corrected thus, "No, find one just like this" (again
+passing finger around the outline of form at "X"). Make no comment on
+any other errors, but pass on to the square, then the triangle, and
+the rest in any order. Commend successes.
+
+Credit for 7 correct choices out of 10. The first error, if
+corrected, counts as correct.
+
+
+3. _Counting Four Pennies_
+
+Place four pennies in a horizontal row. Say, "See these pennies.
+Count them and tell me how many there are. Count them with your
+finger, this way" (pointing to the first one on the subject's
+left)--"One. Now, go ahead." If S. gives number without pointing,
+say, "No, count them with your finger, this way," starting him as
+before. Have S. count aloud.
+
+Credit for correct count tallying with pointing.
+
+
+4. _Copying Square_
+
+Show S. the square and say, "You see that?" (pointing to square). "I
+want you to make one just like it. Make it right here" (showing space
+on record blank). "Go ahead. I know you can do it nicely." Unless
+drawing is clearly satisfactory, repeat twice more, saying each time
+"Make it exactly like this," pointing to model. Pencil.
+
+Credit if one drawing is satisfactory. Score liberally. (See scoring
+card.)
+
+
+5. _Comprehension_
+
+Be sure to get S.'s attention before asking question. Repeat if
+necessary. Allow 20 seconds for answer.
+
+(_a_) "What must you do when you are sleepy?"
+
+(_b_) "What ought you to do when you are cold?"
+
+(_c_) "What ought you to do when you are hungry?"
+
+Credit if two responses of the three are correct. (See _The
+Measurement of Intelligence_, p. 158.)
+
+
+6. _Repeating Four Digits_
+
+Say, "Listen. I am going to say over some numbers and after I am
+through, I want you to say them exactly as I do. Listen closely and
+get them just right." Give (_a_) 4, 7, 3, 9, then (_b_) 2, 8, 5, 4,
+and (_c_) 7, 2, 6, 1, if necessary. May repeat (_a_) until attempt is
+made, but not others. Rate, a little faster than one digit per
+second.
+
+Credit if one set of the three is correctly repeated in order, after
+a single reading.
+
+
+7. _Alt. Repeating Sentences_
+
+Say, "Listen; say this, 'Where is kitty?'" "Now, say this, ----,"
+reading the first sentence in a natural voice, distinctly and with
+expression. May re-read the first sentence.
+
+(_a_) "The boy's name is John. He is a very good boy."
+
+(_b_) "When the train passes you will hear the whistle blow."
+
+(_c_) "We are going to have a good time in the country."
+
+Credit if at least one sentence is repeated correctly after a single
+reading.
+
+
+
+
+Year V
+
+
+1. _Comparison of Weights_
+
+Place the 3 and 15 gram weights before S., 2 or 3 inches apart. Say,
+"You see these blocks. They look just alike, but one of them is heavy
+and one is light. Try them and tell me which one is heavier." Repeat
+instructions if necessary, saying, "Tell me which one is the
+heaviest." If S. merely points without lifting blocks, or picks up
+one at random, say, "No, that is not the way. You must take the
+blocks in your hands and try them, like this." (Illustrate.) Give
+second trial with position of weights reversed; third trial with
+weights in same position as first.
+
+Credit if two of three comparisons are correct.
+
+
+2. _Naming Colors_
+
+Show card (V 2) and say, pointing to colors in the order, red,
+yellow, blue, green, "What is the name of that color?"
+
+Credit if all colors are correctly named, without marked uncertainty.
+
+
+3. _AEsthetic Comparison_
+
+Show pairs of faces in order from top to bottom of card (V 3). Say,
+"Which of these two pictures is the prettiest?"
+
+Credit if all _three_ comparisons are made correctly.
+
+
+4. _Definitions: Use or Better_
+
+Say, "You have seen a chair. You know what a chair is. Tell me, what
+is a chair?" If necessary urge as follows: "I am sure you know what a
+chair is. You have seen a chair." "Now, tell me, what is a chair?" If
+S. rambles say, "Yes, but tell me; what is a chair?" Same for horse,
+fork, doll, pencil, table.
+
+Credit if four words out of the six are defined in terms of use or
+better. (See _The Measurement of Intelligence_, p. 168.)
+
+
+5. _Patience_
+
+Use two cards, each 2 x 3 inches. Divide one of them diagonally into
+two triangles. Place the uncut card on the table with one of the
+longer sides toward S. Then lay the divided card thus [Illustration],
+and say, "I want you to take these two pieces (touching the two
+triangles) and put them together so they will look exactly like this"
+(pointing to rectangle). If S. hesitates, repeat instructions with a
+little urging. If first attempt is a failure, replace pieces, saying,
+"No; put them together so they will look like this" (pointing to
+rectangle). Do not suggest further by face or word whether response
+is correct. If a piece is turned over, turn it back and don't count
+that trial. Give, if necessary, three trials of one minute each.
+
+Credit if two of the three trials are successful.
+
+
+6. _Three Commissions_
+
+Take S. to center of room. Say, "Now, I want you to do something for
+me. Here's a key. I want you to put it on that chair over there; then
+I want you to shut (or open) that door, and then bring me the box
+which you see over there" (pointing in turn to the objects
+designated). "Do you understand? Be sure to get it right. First, put
+the key on the chair, then shut (or open) the door, then bring me the
+box (again pointing). Go ahead." Stress words first and then. Give no
+further aid.
+
+Credit if the three commissions are executed in proper order.
+
+
+_Alt. Giving Age_
+
+Say, "How old are you?"
+
+
+
+
+Year VI
+
+
+1. _Right and Left_
+
+Say, "Show me your right hand" (stress right and hand, etc., rather
+strongly and equally). Same for left ear, right eye. If there is one
+error, repeat whole test, using left hand, right ear, left eye. Avoid
+giving aid in any way.
+
+Credit if three of three, or five of six responses are correct.
+
+
+2. _Missing Parts_
+
+Show card (VI 2) and say, "There is something wrong with this face.
+It is not all there. Part of it is left out. Look carefully and tell
+me what part of the face is not there." Same for (_b_) and (_c_). If
+S. gives irrelevant answer, say, "No; I am talking about the face.
+Look again and tell me what is left out of the face." If correct
+response does not follow, point to the place where eye should be and
+say, "See, the eye is gone." Then proceed to others, asking, "What is
+left out of this face?" For (_d_) say, "What is left out of this
+picture?" No help except on (_a_). Order is eyes, mouth, nose, arms.
+
+Credit if correct response is made for three of four pictures.
+
+
+3. _Counting Thirteen Pennies_
+
+Place thirteen pennies in horizontal row. Say, "See these pennies.
+Count them and tell me how many there are. Count them with your
+finger, this way" (pointing to the first one on the subject's
+left)--"One. Now, go ahead." If S. gives number without pointing,
+say, "No, count them with your finger, this way," starting him as
+before. Have S. count aloud. Second trial given if only minor mistake
+is made.
+
+Credit if one correct count, tallying with the pointing, is made in
+first or second trials.
+
+
+4. _Comprehension_
+
+Say (_a_) "What's the thing to do if it is raining when you start to
+school?"
+
+(_b_) "What's the thing to do if you find that your house is on
+fire?"
+
+(_c_) "What's the thing to do if you are going some place and miss
+your train (car)?" May repeat a question, but do not change form.
+
+Credit if two of three responses are correct. (See _The Measurement
+of Intelligence_, pp. 182-83.)
+
+
+5. _Naming Four Coins_
+
+Show in order nickel, penny, quarter, dime, asking, "What is that?"
+If answer is "money," say, "Yes, but what do you call that piece of
+money?"
+
+Credit if three of four responses are correct.
+
+
+6. _Repeating Sentences_
+
+Say, "Now, listen. I am going to say something and after I am through
+I want you to say it over just as I do. Understand? Listen carefully
+and be sure to say exactly what I say." Repeat, "say exactly what I
+say," before reading each sentence. Do not re-read any sentence.
+
+(_a_) "We are having a fine time. We found a little mouse in the
+trap."
+
+(_b_) "Walter had a fine time on his vacation. He went fishing every
+day."
+
+(_c_) "We will go out for a long walk. Please give me my pretty straw
+hat."
+
+Credit if one sentence out of three is repeated without error, or two
+with not more than one error each.
+
+
+_Alt. Forenoon and Afternoon_
+
+If A.M., ask, "Is it morning or afternoon?" If P.M., "Is it afternoon
+or morning?"
+
+
+
+
+Year VII
+
+
+1. _Giving Numbers of Fingers_
+
+Say, "How many fingers have you on one hand?" "How many on the other
+hand?" "How many on both hands together?" If S. begins to count, say,
+"No, don't count. Tell me without counting," and repeat question.
+
+Credit if all three questions are answered correctly and promptly
+without counting (5, 5, 10 or 4, 4, 8).
+
+
+2. _Pictures; Description_
+
+Show card (_a_) and say, "What is this picture about?" "What is this
+a picture of?" May repeat question, but do not change it. Same for
+(_b_) and (_c_). Order, Dutch Home, Canoe, Post Office.
+
+Credit if two of the three pictures are described or interpreted.
+(See _The Measurement of Intelligence_, pp. 191-92.)
+
+
+3. _Repeating Five Digits_
+
+Say, "Now, listen. I am going to say over some numbers and after I am
+through, I want you to say them exactly as I do. Listen closely and
+get them just right." Give (_a_) 3, 1, 7, 5, 9, and if necessary
+(_b_) 4, 2, 8, 3, 5, and (_c_), 9, 8, 1, 7, 6. Do not re-read any
+set. Avoid grouping.
+
+Credit if one set of the three is given correctly.
+
+
+4. _Tying Bow Knot_
+
+Show S. a completed bow knot (shoestring tied around a pencil) and
+say: "You know what kind of a knot this is, don't you? It is a bow
+knot. I want you to take this other piece of string and tie the same
+kind of knot around my finger." Give S. string of same length and
+hold finger conveniently for S.
+
+Credit if double bow (both ends folded in) is tied within one minute.
+The usual half knot as basis must not be omitted. Single bow, half
+credit.
+
+
+5. _Giving Differences_
+
+Say, "What is the difference between a fly and a butterfly?" If S.
+does not understand, say, "You know flies, do you not? You have seen
+flies? And you know the butterflies? Now, tell me the difference
+between a fly and a butterfly." Same for stone and egg, and wood and
+glass.
+
+Credit if any real difference is given in two of three questions.
+(See _The Measurement of Intelligence_, pp. 200-01.)
+
+
+6. _Copying Diamond_
+
+Place diamond before S., and give pen, saying, "I want you to draw
+one exactly like this. Make it right here" (showing space on record
+blank). Give three trials if necessary, saying each time, "Make it
+exactly like this one." (Note that pen and ink must be used.)
+
+Credit if two drawings are satisfactory. (See scoring card.)
+
+
+_Alt. 1. Naming Days of Week_
+
+Say, "You know the days of the week, do you not? Name the days of the
+week for me." If response is correct, check by asking, "What day
+comes before Tuesday?" "Before Thursday?" "Before Friday?"
+
+Credit if correct response is given within 15 seconds, and if two of
+three checks are correct.
+
+
+_Alt. 2. Three Digits Backwards_
+
+Say, "Listen carefully. I am going to read some numbers again but
+this time I want you to say them backwards. For example, if I should
+say 5--1--4, you would say 4--1--5. Do you understand?" Then, "Ready,
+now; listen carefully, and be sure to say the numbers backwards." If
+S. gives digits forwards, repeat instructions. If necessary, give
+(_b_) and (_c_), repeating, "Ready, now; listen carefully, and be
+sure to say the numbers backwards." 2, 8, 3;  4, 2, 7;  9, 5, 8.
+
+Credit if one set is repeated backwards without error.
+
+
+
+
+Year VIII
+
+
+1. _Ball and Field_
+
+Present "round field" on record blank with gate facing S. and say,
+"Let us suppose that your baseball has been lost in this round field.
+You have no idea what part of the field it is in. You don't know what
+direction it came from, how it got there, nor with what force it
+came. All you know is that the ball is lost somewhere in the field.
+Now, take this pencil and mark out a path to show me how you would
+hunt for the ball so as to be sure not to miss it. Begin at the gate
+and show me what path you would take." If S. stops, say, "But suppose
+you have not found it yet, which direction would you go next?"
+
+Credit in Year VIII for "inferior" plan (or better); in Years VIII
+and XII for "superior" plan. (See scoring card.)
+
+
+2. _Counting 20 to 1_
+
+Say, "You can count backwards, can you not? I want you to count
+backwards for me from 20 to 1. Go ahead." If S. counts 1-20 say, "No,
+I want you to count backwards from 20 to 1, like this: 20--19--18 and
+clear on down to 1. Now, go ahead." Have S. try, even if he says he
+cannot, but do not prompt.
+
+Credit for counting from 20 to 1 within 40 seconds with not more than
+one error. Spontaneous corrections allowed.
+
+
+3. _Comprehension_
+
+Say, "What's the thing for you to do:
+
+(_a_) "When you have broken something which belongs to some one else?
+
+(_b_) "When you are on your way to school and notice that you are in
+danger of being late?
+
+(_c_) "If a playmate hits you without meaning to do it?"
+
+Questions may be repeated once or twice, but form must not be
+changed.
+
+Credit if two of three responses are correct. (See _The Measurement
+of Intelligence_, p. 216.)
+
+
+4. _Finding Likenesses: Two Things_
+
+Say, "I am going to name two things which are alike in some way, and
+I want you to tell me _how_ they are alike."
+
+(_a_) "Wood and coal: in what way are they alike?" If difference is
+given, say, "No, I want you to tell me how they are _alike_. In what
+way are wood and coal _alike_?"
+
+(_b_) "In what way are an apple and a peach alike?"
+
+(_c_) "In what way are iron and silver alike?"
+
+(_d_) "In what way are a ship and an automobile alike?"
+
+Credit if any real likeness is given for two of the four pairs. (See
+_The Measurement of Intelligence_, pp. 219-20.)
+
+
+5. _Definitions: Superior to Use_
+
+Ask, "What is a balloon?" Same for tiger, football, soldier. Do not
+comment on responses. May repeat questions.
+
+Credit if two of four definitions better than use are given. (See
+_The Measurement of Intelligence_, pp. 222-23.)
+
+
+6. _Vocabulary_
+
+See last section.
+
+If both lists of words are given, credit if 20 definitions are
+satisfactory; if only one list is given, the requirement is 10.
+
+
+_Alt. 1. Naming Six Coins_
+
+Show nickel, penny, quarter, dime, silver dollar, and half-dollar in
+order, asking, "What is that?" If answer is "money," say, "Yes, but
+what do you call that piece of money?"
+
+Credit if all six coins are correctly named. Spontaneous corrections
+allowed.
+
+
+_Alt. 2. Writing from Dictation_
+
+Give pen, ink, and paper, and say, "I want you to write something for
+me as nicely as you can. Write these words: 'See the little boy.' Be
+sure to write it all: 'See the little boy.'" Do not dictate the words
+separately, nor give further repetition.
+
+Credit if sentence is written without omission of a word and legibly
+enough to be easily recognized. Misspelling disregarded if word is
+easily recognizable. (See scoring card.)
+
+
+
+
+Year IX
+
+
+1. _Giving the Date_
+
+Ask in order, (_a_) "What day of the week is to-day?" (_b_) "What
+month is it?" (_c_) "What day of the month is it?" (_d_) "What year
+is it?" If S. gives day of month for day of week, or _vice versa_,
+repeat question with suitable emphasis. No other help.
+
+Credit if there is no error greater than three days in (_c_) and no
+error in (_a_), (_b_), and (_d_). Spontaneous correction allowed.
+
+
+2. _Arranging Five Weights_
+
+Place 3, 6, 9, 12, and 15 gram weights before S. and say, "See these
+blocks. They all look alike, don't they? But they are not alike. Some
+of them are heavy, some are not quite so heavy, and some are still
+lighter. No two weigh the same. Now, I want you to find the heaviest
+one and place it here. Then find the one that is just a little
+lighter and put it here. Then put the next lighter one here, and the
+next lighter one here, and the lightest of all at this end
+(pointing). Ready; go ahead." Give second and, if necessary, third
+trial, repeating instructions only if S. has used an absurd
+procedure. Do not show S. the correct method.
+
+Credit for correct arrangement in two of three trials.
+
+
+3. _Making Change_
+
+Ask, "If I were to buy 4 cents' worth of candy and should give the
+storekeeper 10 cents, how much money would I get back?" Similarly for
+12-15 cents; and 4-25 cents. S. is not allowed coins or pencil and
+paper. If S. forgets problem, repeat once, but not more. Spontaneous
+corrections allowed.
+
+Credit if two answers of three are correct.
+
+
+4. _Four Digits Backwards_
+
+Say, "Listen carefully. I am going to read some numbers, and I want
+you to say them backwards. For example, if I should say 5--1--4, you
+would say 4--1--5. Do you understand?" Then, "Ready now; listen
+carefully, and be sure to say the numbers backwards." If S. gives
+digits forwards, repeat instructions. If necessary, give (_b_) and
+(_c_), repeating each time, "Ready now; listen carefully, and be sure
+to say the numbers backwards." 6, 5, 2, 8;  4, 9, 3, 7;  8, 6, 2, 9.
+
+Credit if one set is repeated backwards without error.
+
+
+5. _Three Words in One Sentence_
+
+Say, "You know what a sentence is, of course. A sentence is made up
+of some words which say something. Now, I am going to give you three
+words, and you must make up a sentence that has all three words in
+it. The three words are 'boy,' 'river,' 'ball.' Go ahead and make up
+a sentence that has all three words in it." Repeat instructions if
+necessary, but do not illustrate. May say, "The three words must be
+put with some other words so that all of them together will make a
+sentence." Give only one trial, and do not caution against making
+more than one sentence. Do not hurry S., but allow only one minute.
+Then say, "Now make a sentence that has in it the three words 'work,'
+'money,' 'men.'" If necessary give (_c_) desert, rivers, lakes, in
+the same way.
+
+Credit if satisfactory sentence is given in two of three trials. (See
+_The Measurement of Intelligence_, pp. 243-45.)
+
+
+6. _Finding Rhymes_
+
+Say, "You know what a rhyme is, of course. A rhyme is a word that
+sounds like another word. Two words rhyme if they end in the same
+sound. For example, 'hat,' 'cat,' 'rat,' 'bat,' all rhyme with one
+another. Now, I am going to give you one minute to find as many words
+as you can that rhyme with 'day.' Ready; go ahead." If S. fails,
+repeat explanation, and give sample rhymes for day, as say, may, pay,
+hay. Otherwise, proceed, "Now, you have another minute to name all
+the words you can think of that rhyme with 'mill.'" Same, if
+necessary, for spring. Do not repeat explanation after "mill" or
+"spring."
+
+Credit if three rhymes in one minute are given for each of two out of
+three words.
+
+
+_Alt. 1. Naming the Months_
+
+Say, "Name all the months of the year." If correct, check by asking,
+"What month comes before April?" "Before July?" "Before November?"
+
+Credit if months are correctly named within 15 seconds with not more
+than one error, and if two of three checks are correct.
+
+
+_Alt. 2. Counting Value of Stamps_
+
+Say, "You know, of course, how much a stamp like this costs (pointing
+to a 1-cent stamp). And you know how much one like this costs
+(pointing to a 2-cent stamp). Now, how much money would it take to
+buy all these stamps?" (showing three 1-cent stamps and three 2-cent
+stamps). Do not tell values, where not known; if values are known but
+sum is wrongly given, give second trial, saying, "Tell me how you got
+it."
+
+Credit if correct value is given in not over 15 seconds.
+
+
+
+
+Year X
+
+
+1. _Vocabulary_
+
+See last section.
+
+If both lists are given, 30 satisfactory definitions are required; if
+only one list is given, the requirement is 15.
+
+
+2. _Absurdities_
+
+"I am going to read a sentence which has something foolish in it,
+some nonsense. Listen carefully and tell me what is foolish about
+it." After reading say, "What is foolish about that?" Give sentences
+twice if necessary, repeating exactly. If response is ambiguous, ask
+S. what he means.
+
+(_a_) A man said: "I know a road from my house to the city which is
+down hill all the way to the city and down hill all the way back
+home."
+
+(_b_) An engineer said that the more cars he had on his train the
+faster he could go.
+
+(_c_) Yesterday the police found the body of a girl cut into 18
+pieces. They believe that she killed herself.
+
+(_d_) There was a railroad accident yesterday, but it was not very
+serious. Only 48 people were killed.
+
+(_e_) A bicycle rider, being thrown from his bicycle in an accident,
+struck his head against a stone and was instantly killed. They picked
+him up and carried him to the hospital, and they do not think he will
+get well again.
+
+Credit if four responses out of five are satisfactory. (See _The
+Measurement of Intelligence_, pp. 256-58.)
+
+
+3. _Drawing Designs from Memory_
+
+Give S. pencil and paper, then say, "This card has two drawings on
+it. I am going to show them to you for ten seconds, then I will take
+the card away and let you draw from memory what you have seen. Look
+at both drawings carefully and remember that you have only ten
+seconds." Show card (X 3) for 10 seconds, right side up. Have S.
+reproduce designs immediately, and note on his paper which is the top
+of his drawing.
+
+Credit if one design is reproduced correctly and one at least half
+correctly. (See scoring cards.)
+
+
+4. _Reading and Report_
+
+  {New York,  September 5th.  A fire last night  burned
+  three houses  near the center  of the city.  It took some
+  time  to put it out.  The loss  was fifty thousand dollars,
+  and seventeen families  lost their homes.  In saving  a girl
+  who was asleep  in bed,  a fireman  was burned  on the
+  hands.}
+
+Show selection and say, "I want you to read this for me as well as
+you can." Pronounce for S. all words he cannot make out, allowing not
+over 5 seconds' hesitation. (Record reading time and errors.) When S.
+has finished, say, "Very well done. Now, tell me what you read. Begin
+at the first and tell everything you can remember." When S. stops,
+ask, "And what else?"
+
+Credit if selection is read within 35 seconds with not more than two
+errors, and if report given contains at least eight "memories" as
+separated above. Minor changes in wording allowed. Scoring is done by
+checking word groups on record blank.
+
+
+5. _Comprehension_
+
+Ask in order,
+
+(_a_) "What ought you to say when someone asks your opinion about a
+person you don't know very well?"
+
+(_b_) "What ought you to do before undertaking (beginning) something
+very important?"
+
+(_c_) "Why should we judge a person more by his actions than by his
+words?"
+
+May repeat but not change question except to substitute beginning in
+(_b_) in case undertaking seems not to be understood.
+
+Credit if two of three replies are satisfactory. (See _The
+Measurement of Intelligence_, pp. 269-71.)
+
+
+6. _Naming Sixty Words_
+
+Say, "Now, I want to see how many different words you can name in 3
+minutes. When I say ready, you must begin and name the words as fast
+as you can, and I will count them. Do you understand? Be sure to do
+your very best, and remember that just any words will do, like
+'clouds,' 'dog,' 'chair,' 'happy'--ready; go ahead." Whenever there
+is a pause of 15 seconds, say, "Go ahead as fast as you can. Any
+words will do." Don't allow sentences or counting; if attempted,
+interrupt with "Counting (or sentences) not allowed. You must name
+separate words. Go ahead."
+
+Credit if 60 words, exclusive of repetitions, are given in three
+minutes. If time is limited one minute may be given and 28 words
+required.
+
+
+_Alt. 1. Repeating Six Digits_
+
+"Now, listen. I am going to say over some numbers and after I am
+through I want you to say them exactly as I do. Listen closely and
+get them just right." Give (_a_) and if necessary (_b_). 3, 7, 4, 8,
+5, 9;  5, 2, 1, 7, 4, 6.
+
+Credit if one set is given without error.
+
+
+_Alt. 2. Repeating Sentences_
+
+Say, "Now listen. I am going to say something and after I am through
+I want you to say it over just as I do. Understand? Listen carefully
+and be sure to say exactly what I say." Repeat, "Say exactly what I
+say," before reading each sentence. Do not re-read any sentence.
+
+(_a_) The apple tree makes a cool pleasant shade on the ground where
+the children are playing.
+
+(_b_) It is nearly half-past one o'clock; the house is very quiet and
+the cat has gone to sleep.
+
+(_c_) In summer the days are very warm and fine; in winter it snows
+and I am cold.
+
+Credit if one sentence out of three is repeated without error, or two
+with not more than one error each.
+
+
+_Alt. 3. Healy-Fernald Puzzle_
+
+Place frame (short side toward S.) and blocks on table and say, "I
+want you to put these blocks in this frame so that all the space will
+be filled up. If you do it rightly, they will all fit in and there
+will be no space left over. Go ahead." Do not suggest hurrying. Note
+procedure, especially tendencies to repeat absurd moves, and moves
+which leave spaces obviously impossible to fill.
+
+Credit if S. fits blocks into place three times within a total time
+of five minutes for the three trials.
+
+
+
+
+Year XII
+
+
+1. _Vocabulary_
+
+See last section.
+
+40 satisfactory definitions if both lists are given; 20 if only one
+list is given.
+
+
+2. _Definitions: Abstract Words_
+
+Say "What is pity?" "What do we mean by pity?" etc. If response
+contains word to be defined, ask, "Yes, but what does it mean to pity
+some one?" Same for revenge, charity, envy, justice. Question S. if
+response is not clear.
+
+Credit if three of the five words are satisfactorily defined. (See
+_The Measurement of Intelligence_, pp. 282-84.)
+
+
+3. _Ball and Field_
+
+Present "round field" on record blank with gate facing S. and say,
+"Let us suppose that your baseball has been lost in this round field.
+You have no idea what part of the field it is in. You don't know what
+direction it came from, how it got there, nor with what force it
+came. All you know is that the ball is lost somewhere in the field.
+Now, take this pencil and mark out a path to show me how you would
+hunt for the ball so as to be sure not to miss it. Begin at the gate
+and show me what path you would take." If S. stops, say, "But suppose
+you have not found it yet, which direction would you go next?"
+
+Credit in Year VIII for "inferior" plan (or better); in Years VIII
+and XII for "superior" plan. (See scoring card.)
+
+
+4. _Dissected Sentences_
+
+{FOR THE STARTED AN WE COUNTRY EARLY AT HOUR
+
+TO ASKED PAPER MY TEACHER CORRECT I MY
+
+A DEFENDS DOG GOOD HIS BRAVELY MASTER}
+
+Point to the first group of words (For the, etc.), and say, "Here is
+a sentence that has the words all mixed up, so that they don't make
+any sense. If the words were changed around in the right order they
+would make a good sentence. Look carefully and see if you can tell me
+how the sentence ought to read." Do not hurry S., but allow only one
+minute. If S. fails on the first sentence, read it for him slowly and
+correctly, pointing at each word as you speak it. Same procedure for
+second and third, except that no help is given.
+
+Credit if two sentences of three are correct, or one correct and two
+nearly correct. Time, one minute each. (See _The Measurement of
+Intelligence_, p. 288.)
+
+
+5. _Interpretation of Fables_
+
+Present fables in order given below. Say, "You know what a fable is?
+Fables, you know, are little stories which teach us a lesson. I am
+going to read a fable to you. Listen carefully, and when I am through
+I will ask you to tell me what lesson the fable teaches us." After
+reading, say, "What lesson does that teach us?" Question S. if
+response is not clear. Proceed with (_b_), (_c_), (_d_), and (_e_)
+thus: "Here is another. Listen again and tell me what lesson this
+fable teaches us." After each ask, "What lesson does that teach us?"
+
+
+(_a_) Hercules and the wagoner
+
+A man was driving along a country road, when the wheels suddenly sank
+in a deep rut. The man did nothing but look at the wagon and call
+loudly to Hercules to come and help him. Hercules came up, looked at
+the man, and said: "Put your shoulder to the wheel, my man, and whip
+up your oxen." Then he went away and left the driver.
+
+
+(_b_) The milkmaid and her plans
+
+A milkmaid was carrying her pail of milk on her head, and was
+thinking to herself thus: "The money for this milk will buy 4 hens;
+the hens will lay at least 100 eggs; the eggs will produce at least
+75 chicks; and with the money which the chicks will bring I can buy a
+new dress to wear instead of the ragged one I have on." At this
+moment she looked down at herself, trying to think how she would look
+in her new dress; but as she did so the pail of milk slipped from her
+head and dashed upon the ground. Thus all her imaginary schemes
+perished in a moment.
+
+
+(_c_) The fox and the crow
+
+A crow, having stolen a bit of meat, perched in a tree and held it in
+her beak. A fox, seeing her, wished to secure the meat, and spoke to
+the crow thus: "How handsome you are! And I have heard that the
+beauty of your voice is equal to that of your form and feathers. Will
+you not sing for me, so that I may judge whether this is true?" The
+crow was so pleased that she opened her mouth to sing and dropped the
+meat, which the fox immediately ate.
+
+
+(_d_) The farmer and the stork
+
+A farmer set some traps to catch cranes which had been eating his
+seed. With them he caught a stork. The stork, which had not really
+been stealing, begged the farmer to spare his life, saying that he
+was a bird of excellent character, that he was not at all like the
+cranes, and that the farmer should have pity on him. But the farmer
+said: "I have caught you with these robbers, the cranes, and you have
+got to die with them."
+
+
+(_e_) The miller, his son, and the donkey
+
+A miller and his son were driving their donkey to a neighboring town
+to sell him. They had not gone far when a child saw them and cried
+out: "What fools those fellows are to be trudging along on foot when
+one of them might be riding." The old man, hearing this, made his son
+get on the donkey, while he himself walked. Soon they came upon some
+men. "Look," said one of them, "see that lazy boy riding while his
+old father has to walk." On hearing this the miller made his son get
+off, and he climbed upon the donkey himself. Farther on they met a
+company of women, who shouted out: "Why, you lazy old fellow, to ride
+along so comfortably while your poor boy there can hardly keep pace
+by the side of you!" And so the good-natured miller took his boy up
+behind him and both of them rode. As they came to the town a citizen
+said to them, "Why, you cruel fellows! You two are better able to
+carry the poor little donkey than he is to carry you." "Very well,"
+said the miller, "we will try." So both of them jumped to the ground,
+got some ropes, tied the donkey's legs to a pole and tried to carry
+him. But as they crossed the bridge the donkey became frightened,
+kicked loose, and fell into the stream.
+
+
+Credit in Year XII if score is 4 points or more; in Year XVI if score
+is 8 points or more. Allow 2 points for each fable for correct, and 1
+for partially correct response. (Note carefully scoring directions in
+_The Measurement of Intelligence_, pp. 290-97.)
+
+
+6. _Five Digits Backwards_
+
+"Listen carefully; I am going to read some numbers, and I want you to
+say them backwards. For example, if I should say 5--1--4, you would
+say 4--1--5. Do you understand?" Then, "Ready now; listen carefully,
+and be sure to say the numbers backwards." If S. gives digits
+forwards, repeat instructions. If necessary, give (_b_) and (_c_),
+repeating each time, "Ready now; listen carefully, and be sure to say
+the numbers backwards." 3, 1, 8, 7, 9;  6, 9, 4, 8, 2;  5, 2, 9, 6,
+1.
+
+Credit if one set is repeated backwards without error.
+
+
+7. _Pictures; Interpretation_
+
+Show in succession Dutch Home, River Scene, Post Office, and Colonial
+House, saying each time, "Tell me what this picture is about. Explain
+this picture." May prompt with, "Go ahead," or "Explain what you
+mean."
+
+Credit if three of the four pictures are satisfactorily interpreted.
+(See _The Measurement of Intelligence_, pp. 303-04.)
+
+
+8. _Finding Likenesses; Three Things_
+
+Say, "I am going to name three things which are alike in some way,
+and I want you to tell me _how_ they are alike. Snake, cow, and
+sparrow; in what way are they alike?" May repeat or urge with, "I'm
+sure you can tell me how a snake, a cow, and a sparrow are alike,"
+but do not change form of question. If difference is given, say, "No,
+I want you to tell me how they are _alike_. In what way are a snake,
+a cow, and a sparrow alike?" Same for (_b_) book, teacher, newspaper;
+(_c_) wool, cotton, leather; (_d_) knife-blade, penny, piece of wire;
+(_e_) rose, potato, tree.
+
+Credit if any real similarity is given in three out of five trials.
+(See _The Measurement of Intelligence_, pp. 307-08.)
+
+
+
+
+Year XIV
+
+
+1. _Vocabulary_
+
+See last section.
+
+50 satisfactory definitions if both lists are given; 25 if only one
+list is given.
+
+
+2. _Induction Test_
+
+(If XVIII 2 is to be given, it should precede this test.) Provide six
+sheets of tissue paper, 8-1/2 by 11 inches. Take the first sheet, and
+telling S. to watch what you do, fold it once, and in the middle of
+the folded edge cut out a small notch; then ask S. to tell you how
+many holes there will be in the paper when it is unfolded. Whatever
+the answer, unfold the paper and hold it up broadside for S.'s
+inspection. Next, take another sheet, fold it once as before and say,
+"Now, when we folded it this way and cut out a piece, you remember it
+made one hole in the paper. This time we will give the paper another
+fold and see how many holes we shall have." Then proceed to fold the
+paper again, this time in the other direction, cut out a piece from
+the folded side, and ask how many holes there will be when the paper
+is unfolded. Then unfold the paper, hold it up before S. so as to let
+him see the result. Whatever the answer, proceed with the third
+sheet. Fold it once and say, "When we folded it this way there was
+one hole." Fold it again and say, "And when we folded it this way
+there were two holes." Fold the paper a third time and say, "Now, I
+am folding it again. How many holes will it have this time when I
+unfold it?" Again unfold paper while S. looks on. Continue in the
+same manner with sheets four, five, and six, adding one fold each
+time. In folding each sheet recapitulate results, saying (with the
+sixth, for example): "When we folded it this way there was one hole;
+when we folded it again there were two; when we folded it again there
+were four; when we folded it again there were eight; when we folded
+it again there were sixteen; now tell me how many holes there will be
+if we fold it once more." Avoid saying, "When we folded it once,
+twice, three times." After sixth response, ask, "Can you tell me a
+rule by which I could know each time how many holes there are going
+to be?"
+
+Credit if answer to sixth question is correct, and governing rule is
+correctly stated.
+
+
+3. _President and King_
+
+Say, "There are three main differences between a president and a
+king; what are they?" If S. stops after one difference is given, urge
+him on, if possible, until three are given.
+
+Credit if two of the three correct answers are given.
+
+
+4. _Problem Questions_
+
+Say, "Listen, and see if you can understand what I read." Then read
+the problem slowly and with expression. If necessary, re-read
+problem.
+
+(_a_) A man who was walking in the woods near a city stopped suddenly
+very much frightened, and then ran to the nearest policeman, saying
+that he had just seen hanging from the limb of a tree a ---- a what?
+
+If response is not clear, say, "Explain what you mean."
+
+(_b_) My neighbor has been having queer visitors. First, a doctor
+came to his house, then a lawyer, then a minister (preacher or
+priest). What do you think happened there?
+
+If response is simply "a death," etc., check up by asking what the
+lawyer came for.
+
+(_c_) An Indian who had come to town for the first time in his life
+saw a white man riding along the street. As the white man rode by,
+the Indian said: "The white man is lazy; he walks sitting down." What
+was the white man riding on that caused the Indian to say, "He walks
+sitting down?"
+
+Credit if two of the three problems are satisfactorily answered.
+Spontaneous corrections allowed. (See _The Measurement of
+Intelligence_, pp. 316-18, for important scoring directions.)
+
+
+5. _Arithmetical Reasoning_
+
+{If a man's salary is $20 a week and he spends $14 a week, how long
+will it take him to save $300?
+
+If 2 pencils cost 5 cents, how many pencils can you buy for 50 cents?
+
+At 15 cents a yard, how much will 7 feet of cloth cost?}
+
+Show S. the problems one at a time. Have S. read each problem aloud
+and, with the printed problem still before him, find the answer
+without the use of pencil or paper. In the case of illiterates,
+examiner reads each problem for S. two or three times.
+
+Credit if two of the three problems are correctly solved, within one
+minute each, not including time spent in reading.
+
+
+6. _Reversing Hands of Clock_
+
+Say, "Suppose it is six-twenty-two o'clock, that is, twenty-two
+minutes after six; can you see in your mind where the large hand
+would be, and where the small hand would be?" "Now, suppose the two
+hands of the clock were to trade places, so that the large hand takes
+the place where the small hand was, and the small hand takes the
+place where the large hand was, what time would it then be?" Repeat
+the test with the hands at 8.08 (8 minutes after 8),[3] and again
+with the hands at 2.46 (14 minutes before 3).
+
+[Footnote 3: 8.08 is substituted instead of 8.10, formerly used,
+because it is capable of more accurate solution and is less
+confusing.]
+
+Credit if two of the three problems are solved with error of no more
+than 3 or 4 minutes.
+
+
+_Alt. Repeating Seven Digits_
+
+"Now listen. I am going to say over some numbers and after I am
+through, I want you to say them exactly as I do. Listen closely and
+get them just right." Give (_a_) and if necessary (_b_). 2, 1, 8, 3,
+4, 3, 9;  9, 7, 2, 8, 4, 7, 5.
+
+Credit if one set is reproduced without error.
+
+
+
+
+Year XVI
+
+
+1. _Vocabulary_
+
+See last section.
+
+65 satisfactory definitions if both lists are given; 33 if only one
+list is given.
+
+
+2. _Interpretation of Fables_
+
+See XII 5 for procedure.
+
+Allow 2 points for each fable correctly interpreted, and 1 if
+response is somewhat inferior to the standard. Credit in XII if score
+is 4 points or more; in XVI if score is 8 points or more. (Note
+carefully scoring in _The Measurement of Intelligence_, pp. 290-97.)
+
+
+3. _Differences Between Abstract Terms_
+
+Ask, "What is the difference between--
+
+(_a_) "Laziness and idleness?
+
+(_b_) "Evolution and revolution?
+
+(_c_) "Poverty and misery?
+
+(_d_) "Character and reputation?"
+
+If answer is ambiguous, get S. to explain. If he merely defines the
+words, say, "Yes, but I want you to tell me the difference between
+---- and ----."
+
+Credit if three of the four answers are given correctly. (See _The
+Measurement of Intelligence_, pp. 325-26.)
+
+
+4. _Enclosed Boxes_
+
+Show S. a small cardboard box, and say, "Listen carefully. You see
+this box; it has two smaller boxes inside of it, and each one of the
+smaller boxes contains a little tiny box. How many boxes are there
+altogether, counting the big one?" Allow one-half minute, record
+answer, then show second box, saying, "This box has two smaller boxes
+inside, and each of the smaller boxes contains _two_ tiny boxes. How
+many altogether?" Similarly for (_c_) and (_d_), using three and
+three, and four and four. Emphasize slightly the words "three" and
+"four."
+
+Credit if three of the four problems are solved correctly within
+one-half minute each. Spontaneous corrections are counted as correct.
+
+
+5. _Six Digits Backwards_
+
+Say "Listen carefully. I am going to read some numbers, and I want
+you to say them backwards. For example, if I should say 5--1--4, you
+would say 4--1--5. Do you understand?" Then, "Ready now; listen
+carefully, and be sure to say the numbers backwards." If S. gives
+digits forwards repeat instructions. If necessary, give (_b_) and
+(_c_), repeating each time, "Ready now; listen carefully, and be sure
+to say the numbers backwards." 4, 7, 1, 9, 5, 2;  5, 8, 3, 2, 9, 4;
+7, 5, 2, 6, 3, 8.
+
+Credit if one set is repeated backwards without error.
+
+
+6. _Code_
+
+Show S. the code given on card (XVI 6). Say, "See these diagrams
+here? Look and you will see that they contain all the letters of the
+alphabet. Now, examine the arrangement of the letters. They go
+(pointing) a b c, d e f, g h i, j k l, m n o, p q r, s t u v, w x y
+z. You see the letters in the first two diagrams are arranged in the
+up-and-down order (pointing again), and the letters in the other two
+diagrams run in just the opposite way from the hands of a clock
+(pointing). Look again and you will see that the second diagram is
+just like the first, except that each letter has a dot with it, and
+that the last diagram is like the third except that here, also, each
+letter has a dot. Now, all of this represents a code; that is, a
+secret language. It is a real code, one that was used in the Civil
+War for sending secret messages. This is the way it works: We draw
+the lines which hold a letter, but leave out the letter. Here, for
+example, is the way we would write 'spy.'" Then write the words "spy"
+and "trench," pointing out carefully where each letter comes from,
+and emphasizing the fact that the dot must be used in addition to the
+lines in writing any letter in the second or fourth diagram. Then
+add: "I am going to have you write something for me; remember, now,
+how the letters go, first (pointing, as before) a b c, d e f, g h i,
+then j k l, m n o, p q r, then s t u v, then w x y z. And don't
+forget the dots for the letters in this diagram and this one"
+(pointing). At this point, take away the diagrams, give S. pencil and
+paper, and tell him to write the words "come quickly." Say nothing
+about hurrying. Do not permit S. to reproduce the code and then to
+copy the code letters from his reproduction.
+
+Credit if the words are written within six minutes with not more than
+two errors, omission of dot counting as half error.
+
+
+_Alt. 1. Repeating Sentences_
+
+Say, "Now, listen. I am going to say something and after I am through
+I want you to say it over just as I do. Understand? Listen carefully
+and be sure to say exactly what I say." Repeat "Say exactly what I
+say" before reading each sentence. Do not re-read any sentence.
+
+(_a_) Walter likes very much to go on visits to his grandmother,
+because she always tells him many funny stories.
+
+(_b_) Yesterday I saw a pretty little dog in the street. It had curly
+brown hair, short legs, and a long tail.
+
+Credit if one sentence is repeated without a single error.
+
+
+_Alt. 2. Comprehension of Physical Relations_
+
+(_a_) Draw a horizontal line 6 or 8 inches long. An inch or two above
+it draw a horizontal line about an inch long parallel to the first.
+Say, "The long line represents the perfectly level ground of a field,
+and the short line represents a cannon. The cannon is pointed
+horizontally (on a level) and is fired across this perfectly level
+field." After it is clear that these conditions of the problem are
+comprehended, add, "Now, suppose that this cannon is fired off and
+that the ball comes to the ground at this point here (pointing to the
+farther end of the line which represents the field). Take this pencil
+and draw a line which will show what path the cannon ball will take
+from the time it leaves the mouth of the cannon till it strikes the
+ground."
+
+(_b_) Say, "You know, of course, that water holds up a fish that is
+placed in it. Well, here is a problem: Suppose we have a bucket which
+is partly full of water. We place the bucket on the scales and find
+that with the water in it it weighs exactly 45 pounds. Then we put a
+5-pound fish into the bucket of water. Now, what will the whole thing
+weigh?" If S. responds correctly, say, "How can this be correct,
+since the water itself holds up the fish?"
+
+(_c_) "You know, do you not, what it means when they say a gun
+'carries 100 yards?' It means that the bullet goes 100 yards before
+it drops to amount to anything." When this is clear, proceed, "Now,
+suppose a man is shooting at a mark about the size of a quart can.
+His rifle carries perfectly more than 100 yards. With such a gun is
+it any harder to hit the mark at 100 yards than it is at 50 yards?"
+
+Credit if two of the three problems are satisfactorily solved.
+
+For (_a_), line must begin almost on a level and drop more rapidly
+toward the end.
+
+For (_b_), S. must adhere positively to right answer.
+
+For (_c_), S. must know that a small deviation at 50 yards becomes a
+larger deviation at 100 yards.
+
+(See _The Measurement of Intelligence_, pp. 333-36 for important
+scoring rules.)
+
+
+
+
+Year XVIII
+
+
+1. _Vocabulary_
+
+See last section.
+
+75 satisfactory definitions if both lists are given; 38 if only one
+list is given.
+
+
+2. _Paper-Cutting Test_
+
+When this test is given it should precede XIV 2.
+
+Take a piece of paper about 6 inches square and say, "Watch carefully
+what I do. See, I fold the paper this way (folding it once over in
+the middle). Then I fold it this way (folding it again in the middle,
+but at right angles to the first fold). Now, I will cut out a notch
+right here" (indicating). Cut notch, keeping fragments out of view.
+Leave folded paper exposed, but pressed flat against table. Then give
+S. a pencil and a second sheet of paper like the one already used and
+say, "Take this piece of paper and make a drawing to show how the
+other sheet of paper would look if it were unfolded. Draw lines to
+show the creases in the paper and show what results from the
+cutting." Do not permit S. to fold second sheet, and do not say,
+"draw the holes."
+
+Credit if creases are correctly represented, with correct number of
+holes correctly located.
+
+
+3. _Repeating Eight Digits_
+
+Say, "Now, listen. I am going to say over some numbers and after I am
+through, I want you to say them exactly as I do. Listen closely and
+get them just right." Give (_a_), and if necessary (_b_) and (_c_).
+7, 2, 5, 3, 4, 8, 9, 6;  4, 9, 8, 5, 3, 7, 6, 2;  8, 3, 7, 9, 5, 4,
+8, 2.
+
+Credit if one set is reproduced without error.
+
+
+4. _Repeating Thought of Passage_
+
+Say, "I am going to read a little selection of about six or eight
+lines. When I am through I will ask you to repeat as much of it as
+you can. It doesn't make any difference whether you remember the
+exact words or not, but you must listen carefully so that you can
+tell me everything it says." Read (_a_), and if necessary (_b_),
+recording response verbatim. Urge S. to give thought of selection in
+his own words, if he hesitates.
+
+(_a_) Tests, such as we are now making, are of value both for the
+advancement of science and for the information of the person who is
+tested. It is important for science to learn how people differ and on
+what factors these differences depend. If we can separate the
+influence of heredity from the influence of environment, we may be
+able to apply our knowledge so as to guide human development. We may
+thus in some cases correct defects and develop abilities which we
+might otherwise neglect.
+
+(_b_) Many opinions have been given on the value of life. Some call
+it good, others call it bad. It would be nearer correct to say that
+it is mediocre; for on the one hand our happiness is never as great
+as we should like, and on the other hand our misfortunes are never as
+great as our enemies would wish for us. It is this mediocrity of life
+which prevents it from being radically unjust.
+
+Credit if main thoughts of one of the selections are given in
+reasonably consecutive order. (See _The Measurement of Intelligence_,
+pp. 340-43.)
+
+
+5. _Seven Digits Backwards_
+
+Say, "Listen carefully, I am going to read some numbers, and I want
+you to say them backwards. For example, if I should say 5--1--4 you
+would say 4--1--5. Do you understand?" Then, "Ready now, listen
+carefully, and be sure to say the numbers backwards." If S. gives the
+digits forwards, repeat instructions. If necessary, give (_b_) and
+(_c_), repeating each time: "Ready now, listen carefully, and be sure
+to say the numbers backwards." 4, 1, 6, 2, 5, 9, 3;  3, 8, 2, 6, 4,
+7, 5;  9, 4, 5, 2, 8, 3, 7.
+
+Credit if one set is repeated backwards without error.
+
+
+6. _Ingenuity Test_
+
+State problem (_a_) orally, repeating it if S. does not respond
+promptly. Do not allow S. to use pencil or paper, and ask him to give
+his solution orally as he works it out. Record his statement in full.
+If S. resorts to some such method as "fill the 3-pint vessel
+two-thirds full," or "I would mark the inside of the 5-pint vessel so
+as to show where 4 pints come to," etc., inform him that such a
+method is not allowable; that this would be guessing, since he could
+not be sure when the 3-pint vessel was two-thirds full, or whether he
+had marked off his 5-pint vessel accurately. Tell him he must measure
+out the water without any guesswork and explain also that it is a
+fair problem, not a "catch." Say nothing about pouring from one
+vessel to another, but if S. asks whether this is permissible, say
+"yes." If S. has not solved (_a_) correctly within five minutes,
+explain the solution in full and proceed to (_b_). State (_b_) orally
+and allow S. five minutes for its solution. Do not explain in case of
+failure. If S. succeeds on either (_a_) or (_b_), but not with both,
+give problem (_c_) orally, allowing five minutes for this also.
+
+(_a_) "A mother sent her boy to the river and told him to bring back
+exactly 7 pints of water. She gave him a 3-pint vessel and a 5-pint
+vessel. Show me how the boy can measure out exactly 7 pints of water,
+using nothing but these two vessels and not guessing at the amount.
+You should begin by filling the 5-pint vessel first. Remember, you
+have a 3-pint vessel and a 5-pint vessel, and you must bring back
+exactly 7 pints."
+
+Same formula for (_b_) 5 and 7, get 8. Begin with 5; and (_c_) 4 and
+9, get 7. Begin with 4.
+
+Credit if two of the three problems are solved correctly, each within
+five minutes.
+
+
+
+
+_Vocabulary_
+
+
+"I want to find out how many words you know. Listen; and when I say a
+word, you tell me what it means. What is an orange?" etc. If S. can
+read, let him see the words on the vocabulary lists. Continue in each
+list till 6 or 8 successive words have been missed. If S. thinks
+formal definition is required, say: "Just tell me in your own words;
+say it any way you please. All I want is to find out whether you know
+what a ---- is." May ask S. to explain what he means if it is not
+clear.
+
+      List 1                          List 2
+   1. gown                         1. orange
+   2. tap                          2. bonfire
+   3. scorch                       3. straw
+   4. puddle                       4. roar
+   5. envelope                     5. haste
+   6. rule                         6. afloat
+   7. health                       7. guitar
+   8. eye-lash                     8. mellow
+   9. copper                       9. impolite
+  10. curse                       10. plumbing
+  11. pork                        11. noticeable
+  12. outward                     12. muzzle
+  13. southern                    13. quake
+  14. lecture                     14. reception
+  15. dungeon                     15. majesty
+  16. skill                       16. treasury
+  17. ramble                      17. misuse
+  18. civil                       18. crunch
+  19. insure                      19. forfeit
+  20. nerve                       20. sportive
+  21. juggler                     21. apish
+  22. regard                      22. snip
+  23. stave                       23. shrewd
+  24. brunette                    24. repose
+  25. hysterics                   25. peculiarity
+  26. Mars                        26. conscientious
+  27. mosaic                      27. charter
+  28. bewail                      28. coinage
+  29. priceless                   29. dilapidated
+  30. disproportionate            30. promontory
+  31. tolerate                    31. avarice
+  32. artless                     32. gelatinous
+  33. depredation                 33. drabble
+  34. lotus                       34. philanthropy
+  35. frustrate                   35. irony
+  36. harpy                       36. embody
+  37. flaunt                      37. swaddle
+  38. ochre                       38. exaltation
+  39. milksop                     39. infuse
+  40. incrustation                40. selectman
+  41. retroactive                 41. declivity
+  42. ambergris                   42. laity
+  43. achromatic                  43. fen
+  44. perfunctory                 44. sapient
+  45. casuistry                   45. cameo
+  46. piscatorial                 46. theosophy
+  47. sudorific                   47. precipitancy
+  48. parterre                    48. paleology
+  49. shagreen                    49. homunculus
+  50. complot                     50. limpet
+
+A definition is satisfactory if it gives one correct meaning for the
+word, regardless of whether that meaning is the most common one, and
+however poorly it may be expressed. (See _The Measurement of
+Intelligence_, pp. 227-28, for illustrations of satisfactory and
+unsatisfactory responses.)
+
+Time may be saved, with little loss of accuracy, by giving one list
+only, and in this case list 1 should be used. The standards required
+for passing are as follows:
+
+           _If both_        _If one_
+         _lists given_    _list given_
+  VIII        20               10
+  X           30               15
+  XII         40               20
+  XIV         50               25
+  XVI         65               33
+  XVIII       75               38
+
+
+     *     *     *     *     *     *     *
+
+
+By the same author
+
+
+THE INTELLIGENCE OF SCHOOL CHILDREN
+
+How Children differ in Ability, the Use of Mental Tests in School
+Grading, and the Proper Education of Exceptional Children.
+
+
+THE MEASUREMENT OF INTELLIGENCE
+
+An Explanation of and a Complete Guide for the Use of the Stanford
+Revision and Extension of the Binet-Simon Intelligence Scale.
+
+
+TEST MATERIAL
+
+Eighteen Plates and one copy of the Record Booklet, being the Test
+Material needed in giving the Tests to Children.
+
+
+RECORD BOOKLET
+
+Put up for general use in packages of 25, each forming a complete
+test record for one child.
+
+
+CONDENSED GUIDE
+
+For the Stanford Revision of the Binet-Simon Intelligence Tests.
+
+
+ABBREVIATED FILING RECORD CARD
+
+For the Stanford Revision of the Binet-Simon Tests.
+
+Put up for general use in packages of 25, each forming a complete
+filing record for one child.
+
+
+  HOUGHTON MIFFLIN COMPANY
+  BOSTON  NEW YORK  CHICAGO
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Condensed Guide for the Stanford
+Revision of the Binet-Simon Intelligence Tests, by Lewis Madison Terman
+
+*** END OF THIS PROJECT GUTENBERG EBOOK CONDENSED GUIDE FOR THE ***
+
+***** This file should be named 34307.txt or 34307.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/4/3/0/34307/
+
+Produced by Ron Swanson
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
