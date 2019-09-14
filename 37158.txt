@@ -1,0 +1,3786 @@
+Project Gutenberg's The Pros and Cons of Vivisection, by Charles Richet
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Pros and Cons of Vivisection
+
+Author: Charles Richet
+
+Commentator: W. D. Halliburton
+
+Release Date: August 22, 2011 [EBook #37158]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE PROS AND CONS OF VIVISECTION ***
+
+
+
+
+Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net. (This file was produced from images
+generously made available by The Internet Archive/American
+Libraries.)
+
+
+
+
+
+
+
+THE PROS AND CONS OF VIVISECTION
+
+
+_All rights reserved_
+
+[Illustration: "LA MORT."
+
+_By Bartholome in Pere Lachaise, Paris._
+
+_Frontispiece._]
+
+
+
+
+THE PROS AND CONS OF VIVISECTION
+
+BY
+
+DR CHARLES RICHET
+
+PROFESSOR OF PHYSIOLOGY IN THE FACULTY OF MEDICINE
+
+PARIS
+
+
+WITH A PREFACE BY
+
+W. D. HALLIBURTON, M.D., LL.D., F.R.S.
+
+PROFESSOR OF PHYSIOLOGY, KING'S COLLEGE, LONDON
+
+LONDON
+
+DUCKWORTH & CO.
+
+3 HENRIETTA STREET, COVENT GARDEN
+
+1908
+
+
+
+
+PREFACE
+
+
+To scientific readers, Professor Charles Richet needs no introduction, but
+to the public at large it may be necessary to mention that he is one of the
+best known of French physiologists. He has occupied for a good many years
+the Chair of Physiology in the Faculty of Medicine in Paris, and he has
+contributed greatly to the progress of the science to which he has devoted
+his life; some of his discoveries are alluded to with all modesty in the
+pages which follow. He is, moreover, a man of great erudition, and has been
+wisely selected to be the editor of a monumental work, _Le dictionnaire de
+physiologie_, which is issuing from the press to-day.
+
+Professor Richet has given particular attention to the study of the
+psychological side of physiology, and his views on pain will be read as
+coming from one who is specially fitted to deal with this and other mental
+phenomena.
+
+I therefore consider it a great honour that Professor Richet should have
+asked me to write a preface to his most interesting and convincing book on
+the Pros and Cons of Vivisection, and it is a great pleasure to me to
+commend its thoughtful perusal to all who are interested in the subject.
+
+Professor Richet is not only one who speaks with authority, but he is one
+of the gentlest and kindliest of men. The science which he teaches is the
+science of life. To understand the meaning of vital processes it is
+necessary to study the living organism, and to obtain this knowledge it is
+sometimes necessary to perform experiments on living animals. When he
+defends a practice which many regard as cruel, detestable, and immoral,
+mainly because of the unscrupulous misrepresentations put forward by the
+professional Anti-vivisectionists, he does so because he is convinced that
+none of the epithets just mentioned correctly describe the experiments
+which are carried out in physiological laboratories at the present time.
+These experiments are undertaken only by properly qualified persons having
+a due sense of their responsibilities. Every regard is paid to the comfort
+of the animals employed; and the ultimate aim of this work is the progress
+of knowledge, and the consequent relief to suffering which is so often only
+the result of ignorance. The benefits which accrue are felt not only by
+human beings, but also (as in veterinary practice) by the animals
+themselves. No attempt is made here to defend experiments which have not
+these objects in view, or which (as has happened in the past) pay no
+consideration to the pain an animal experiences.
+
+I feel quite sure that if the British public were convinced that the
+experiments in our laboratories were all conducted in accordance with our
+present law, the Anti-vivisection crusade would flicker out. It is the
+object of those who are active propagandists on the other side to keep
+their agitation going, by omitting to mention the painlessness of the
+operations performed, or by suggesting (either directly or by innuendo)
+that anaesthesia is a sham. My own experience, which is a wide one, has been
+that physiologists not only obey the law literally, but are most
+punctilious in its due observance. A certain number of trivial
+irregularities have been reported to the Home Office by the inspectors
+appointed under the Vivisection Act, but there has been no case of omitting
+the use of anaesthetics. The majority of these offences have been for using
+anaesthetics unnecessarily. A certificate in certain cases is granted for
+the omission of an anaesthetic: this is given when the operation is a
+trifling one, and has never been granted for any operation more serious
+than the prick of a hypodermic needle. Nevertheless, the operator has
+sometimes employed an anaesthetic even for this, and has in consequence been
+reported to the Home Office for infringing the terms of his certificate.
+
+Pawloff has truly said that the ideal experiment is one performed without
+anaesthesia and without pain. In many cases this ideal can be realised, but
+in other cases it is unattainable. Physiologists have, therefore, had to
+select which of the two disturbing factors shall be absent, and they have
+unhesitatingly chosen the latter. Pain must be absent (1) on grounds of
+humanity, (2) because it is a far greater disturber of the normal functions
+than anaesthesia is, and (3) because the struggles of an animal in pain will
+nullify the accuracy of the experiment, and endanger the safety of the
+delicate apparatus which it may be necessary to employ.
+
+Exactly the same arguments apply to the employment of the antiseptic or
+aseptic methods of surgery, in experiments in which the animal is kept
+alive after an operation to study its effects. The healing process is then
+painless, and there is absence of those febrile and inflammatory conditions
+which would otherwise complicate the issue.
+
+It is therefore for two reasons that an experimenter uses both anaesthetics
+and antiseptics, (1) to save the animal suffering, and (2) to ensure the
+success of the experiment.
+
+The barbarities which are recorded by Anti-vivisectionist agitators do not
+exist; the repetition of their stories in spite of repeated contradictions
+is partly due to wilful misrepresentation and exaggeration, and partly the
+result of ignorance of the meaning of the technical terms employed by
+physiological writers.
+
+At the Royal Commission which is now considering the question of
+Vivisection, the cases of alleged cruelty have been one by one sifted to
+the bottom, and in no single case has a charge of cruelty been sustained.
+Any one who cares to wade through the four bluebooks of evidence which have
+been printed will discover for himself that this is so. In fact, one
+prominent Anti-vivisection journal (the _Verulam Review_, April-June 1907,
+p. 186), in reference to the evidence given by one of the witnesses before
+the Commission, had to confess, "Almost every one of Mrs Cook's horrifying
+cases seems, when examined, to melt away."
+
+An Anti-vivisectionist publication which has obtained some notoriety ("The
+Shambles of Science") figured in a recent lawsuit. When the particular
+charge which was the subject of the action was investigated by a prolonged
+inquiry before the Lord Chief-Justice, a British jury showed their sense of
+the enormity of the slander by awarding the physiologist impugned the very
+substantial damages of L2000. An undertaking was subsequently given by the
+publisher of this "hysterical work" (to quote the words of the Lord
+Chief-Justice) that it should be withdrawn from publication. Yet the book
+has been since re-issued by the authors, with the chapter that formed the
+subject of the trial omitted, but otherwise with very little alteration.
+The libellous statements scattered through its other chapters can still be
+read by the lovers of sensation, and the authors doubtless hope that their
+readers will never take the trouble to read also the evidence before the
+Royal Commission in which all the allegations of cruelty have been shown to
+be groundless.
+
+The subject of curare, another bugbear of the Anti-vivisection lecturer, is
+so adequately dealt with by Professor Richet that I will spare the reader
+any further discussion on that question here. I have taken the liberty of
+adding, in a footnote on p. 36, a statement in respect to the usages of
+English physiologists in relation to that drug.
+
+The experiments of the pharmacologist in the investigation of the action of
+drugs can be and are carried out under anaesthesia in the same way as those
+of the physiologist. But the experiments of the pathologist, which consist
+in conveying germs and other disease products to animals, come under a
+different heading. One does not deny that if the animal takes the disease,
+suffering is produced. This is fully admitted by Professor Richet, and I
+think that any common-sense reader will be convinced by the arguments put
+forward that the practice is fully justifiable. It is difficult, as
+Professor Richet points out, to gauge the amount of pain an animal such as
+a rat, guinea-pig, or rabbit (the animals usually employed for the purpose)
+really feels when given a disease experimentally, and whether this is
+greater or less than the suffering it will endure when another disease or a
+violent death carries it off in the usual course of nature. It is, however,
+undeniable that the suffering of these animals is much less than those of
+human beings. A man, when he is ill, suffers a certain amount of discomfort
+and physical bodily pain; but this is a drop in the ocean compared to the
+mental worry and anxiety he endures--all that, at any rate, is absent from
+the suffering rabbit. The pathologist sees beyond the pain which he
+inflicts to the pain which he prevents. The death of a few lower animals
+may be, and has in the past been the means of preventing pain and disease
+both to the animals themselves and to human beings also, who may be counted
+by thousands or even millions.
+
+If there is one piece of evidence more than another which was given before
+the Royal Commission that deserves rescue from the oblivion of a bluebook,
+it is that given by Lord Justice Fletcher Moulton. His is one of the
+keenest legal intellects of modern times, and he at any rate cannot be
+accused of having any axe of his own to grind. I regret that exigencies of
+space prevent me from making more than one or two references to it.
+
+He begins by taking the case of a ship infected with plague, and infested
+also with rats, the carriers of plague. The ship enters port. Would it be
+preferable to kill the rats, and so prevent them and the disease from
+entering the port and causing untold disaster there, or staying one's hand
+because the slaughter of the rats would be a painful proceeding? The
+captain who gives orders for the destruction of the rats inflicts pain and
+death on them in order to prevent greater pain and more widespread death
+elsewhere. The captain who says, "Spare the rats," is guilty of the
+criminal act of causing the death of many innocent human beings. So it is
+with the Anti-vivisectionists: they see only the pain inflicted, and do not
+heed the pain prevented. On this score they are in a sense logical when
+they call Lord Lister a brute, although he of all men living at the present
+time has been the means of preventing the greatest amount of suffering.
+They see only the pain which he deliberately inflicted on a few rats and
+rabbits; they cannot see, or refuse to see the measureless amount of misery
+he has prevented.
+
+In another place the Lord Justice points out that the pain inflicted in all
+the laboratories of the country put together during a year is infinitesimal
+compared to that which is inflicted every day in the slaughter of animals
+for food; to that which ignorant farm labourers inflict without
+anaesthetics, in spaying animals by thousands in order that beef and mutton
+may be tenderer or have a more pleasant flavour to the consumer; to that
+inflicted by sportsmen when their victims, imperfectly shot, die a
+lingering death; to that which women thoughtlessly allow in order that they
+may have ospreys in their hats and furs upon their backs.
+
+So far as the satisfaction of appetite, the pandering to the so-called
+sportsman's instincts, or the gratification of vanity are concerned, these
+things may go on. The average Anti-vivisectionist disregards them, or at
+least makes no effort to prevent them. The only kind of pain which stirs
+his feelings, and meets with his opprobrium, and enables him to indulge in
+his favourite epithets, is _the one justifiable bit of pain in the whole
+world_--a pain inflicted with the noblest of all objects, and by the most
+humane of all men (for so the medical profession admittedly is), the
+object, namely, of preventing future pain, which otherwise would encompass
+the world of life.
+
+Professor Richet has wisely not made his book too long. He has been content
+to select a few typical and striking examples of the benefits which
+experimentation on animals has conferred upon humanity, instead of
+attempting even to enumerate them all. He might for instance have dwelt
+upon the extinction of rinderpest in South Africa: here, at the expense of
+a few experimental animals, Koch has prevented a scourge which formerly
+exterminated hundreds of thousands of cattle annually, and might still be
+exercising this fell influence on to all eternity if the opponents of
+scientific knowledge had their way. He might have taken the case of snake
+bite, and the discovery made by his great fellow-countryman Calmette of the
+means of combating this deadly poison, which has hitherto killed our Indian
+fellow-subjects by its tens of thousands a year.
+
+On coming to one of the most recent of beneficent discoveries, he might
+have dwelt upon the case of Mediterranean fever, and the way which it has
+been practically stamped out at Malta and Gibraltar, because the method of
+its spread has been discovered and the disease prevented at the expense of
+a few goats and other animals.
+
+But those who are wilfully deaf to such arguments will not, I fear, be
+convinced, even if examples are multiplied indefinitely. In spite of the
+love for animals which our opponents profess, the life of cattle,
+particularly if they are so far away as South Africa, does not appeal to
+them. The happiness of the teeming millions of India does not come home to
+them. Even the comfort of our brave soldiers and sailors in the
+Mediterranean stations is of little account: they have never visited the
+hospitals at Malta or Gibraltar, and seen, as they could have seen a year
+or two ago, the poor fellows dying off like flies from a mysterious disease
+that nothing could be done for, because the manner in which the fatal germ
+entered their bodies was unknown. Now, by the simple prohibition of the use
+of goat's milk, a prohibition due to animal experimentation and to that
+alone, the disease has been exterminated.
+
+Anti-vivisectionists do not come in contact with disease all day and every
+day as medical men do; they therefore do not realise how widespread it is,
+and what terrible forms it may take. Their notions are vague; they talk
+about suffering without any intimate knowledge of the question. They bestow
+their sympathies upon the few victims of the vivisector's knife or syringe;
+they have none left for the larger number of victims which would have
+suffered if the few had not been sacrificed. Can it be wondered at that
+medical men, whose experience is so different to theirs, feel otherwise?
+The doctor's life is not one in which these are just a few painful partings
+with dear ones, but he is steeped in such experiences from morning till
+night. His sympathies aim at the relief and cure of all this evil; and the
+death of a few guinea-pigs or rabbits is a necessary incident which he has
+the courage to permit because of the greater good that is the ultimate
+result.
+
+There are, however, some of the examples which ought to stir better
+feelings even in the Anti-vivisectionist camp, namely, cases of diseases
+which are common or used to be common in our very midst, and which we need
+not go to India or Malta to look for. One of these is diphtheria, and the
+statements and statistics in relation to the almost miraculous change which
+has come over our ideas on this affection are incontrovertible, and are
+fully set forth in the following pages. The disease no longer inspires the
+terror it used to do, for it is one which can be cured, and easily cured,
+by the method of serum therapy. It has not, it is true, been stamped out,
+for up till the present success has not attended efforts of prevention.
+Prevention is better than cure, but cure is better than suffering and
+death. Just now, medical science can cure the disease, and if medical
+progress continues at its present rapid rate of growth, who can doubt that
+in the near future this disease, like typhus and typhoid, will be stamped
+out?
+
+Typhoid fever is an example of a disease which has only died out in this
+country quite recently. When I was a student the hospital wards were full
+of it; but to-day most medical students in London pass through their entire
+curriculum of five years or more without ever seeing a case. What has been
+accomplished for London can also be carried out in other large cities, and
+the extinction of the disease is entirely due to improved sanitary
+measures, and the destruction of the bacillus which causes the malady. We
+often quite legitimately complain of the extravagances of our Government
+departments and our County Councils, and of their apathy in questions
+affecting the health of the country. We are still awaiting, for instance,
+proper legislative measures to ensure the purity of milk. But this at least
+we can thank them for--proper methods of disinfection and a purer
+water-supply have led to the almost complete extinction of what was a
+common and painful and fatal disease. But how does Vivisection come in
+here? County councillors are not Vivisectors. No, they are not, but their
+action is the undoubted result of public opinion; and that healthy public
+opinion is the outcome of medical opinion, which was preached to deaf ears
+for many years, and at last succeeded in impressing itself upon the public
+at large; and this medical knowledge was the offspring of the only certain
+guide in such matters, pathological experiment. It was not until the germ
+of typhoid fever was recognised and isolated, not until the conditions of
+its growth and the means of its destruction were experimentally verified
+upon the lower animals, that any sound knowledge was obtained. Bacteriology
+is at the bottom of hygiene; it is by hygienic precautions that certain
+diseases are prevented; and the basis of bacteriology is experiment on
+animals.
+
+I will allow myself only one more point, and that relates to the general
+question of serum therapy. Some people object to the whole conception of
+serum treatment, on the ground that serum and allied substances are 'messy'
+things. It was by this very expressive phrase that Lord Justice Fletcher
+Moulton summarised and paraphrased the Anti-vivisectionist attitude on the
+serum method of treatment. Miss Lind af Hageby on one occasion
+characterised it as 'medieval,' a word which is quite meaningless in this
+connection, but prettier, I admit, than "Behring's filth product," which is
+the elegant name coined for antidiphtheritic serum by one of her friends.
+
+Filth or dirt has been well defined as matter in the wrong place. Blood on
+a carpet, for example, is certainly messy and dirty; it ought not to be
+there. But blood or serum (the fluid part of the blood) in the heart, or in
+the arteries and veins, is in its rightful place, and it does its duty of
+nutrition and so forth when it comes into more immediate contact with the
+tissues in the small tubes we call the capillaries. One of these duties is
+to exert a protective influence upon the whole body, by destroying the
+germs of disease which get in, despite all precautions. We are all of us
+exposed, so long as spitting in public places is not prohibited, to the
+germs of consumption, but we do not all die of that disease. This is
+because the white corpuscles of our blood are in good trim, and able
+successfully to devour the bacteria that enter our interior. It is those
+people who are run down, and in whom the white corpuscles are 'below par,'
+that catch the disease. In assisting the white corpuscles to perform this
+important function, the co-operation of certain substances dissolved in the
+fluid portion of the blood is also necessary. The most recently discovered
+of these auxiliary substances are called _opsonins_. The word opsonin is
+derived from a Greek root which means "to prepare the feast." The opsonin
+either adds something to the bacterium which makes it tasty to the white
+corpuscle, or removes (or neutralises) something which previously made it
+distasteful. White corpuscles will not as a rule ingest and devour bacteria
+from a pure culture, but they do so eagerly immediately the bacteria are
+bathed in serum; and the serum which is most efficacious in acting as a
+sort of sauce is that which has been obtained from an animal which has been
+previously infected with the same kind of bacteria, and which has recovered
+from the ailment such bacteria have set up.
+
+This is not mere fancy: the whole sequence of events can be easily followed
+on a glass slide kept at body temperature and examined with a microscope.
+
+It is well known that if the yeast plant (which is very similar in many
+details to bacteria) is grown in a solution of sugar, the sugar is broken
+up and disappears, and two new substances formed from the sugar take its
+place. These are alcohol and carbonic acid gas. If bacteria grow in the
+blood, they do not produce alcohol, but they do produce other poisons in a
+way analogous to that by which yeast produces alcohol. These poisons are
+called _toxins_. There are substances in the fluid part of the blood which
+are called antitoxins, because they neutralise the toxins produced by the
+bacteria. Their presence constitutes a means of defence against the harmful
+effects the toxins would otherwise produce. The marvellous part of the
+defence is that, although we all have a certain amount of antitoxin in our
+blood, the amount increases in proportion to the amount of toxin. It is a
+familiar fact that rough manual labour increases the hardness of the hands;
+friction stimulates the epidermis or outer skin, so that it grows in
+thickness. The body affords numerous similar instances of how it is capable
+of rising to the occasion and increasing its defences. Just in the same
+way, the presence of a toxin stimulates the living cells to produce more
+and more antitoxin, and the blood remains rich in the antitoxin for a
+considerable time afterwards. This explains why a person who has had an
+infectious disease does not take it readily a second time; he is immune for
+a certain number of years, because his blood is so rich in the antidote.
+
+Now, the principle of serum treatment depends on those ascertained and
+definitely proved facts. In the modern treatment of tuberculosis, for
+example, the aim of the physician is to increase nature's method of cure:
+good food and pure air do much to increase the healthiness of the blood and
+fortify its natural power, of destroying the germs; sometimes this alone
+suffices. At other times it is not sufficient, particularly if the disease
+has advanced and the number of bacteria is too great for the enfeebled
+white corpuscles to deal with. Then the physician goes a step farther, and
+administers the appropriate opsonin by injecting it under the skin, again
+simply increasing the resistance of his patient by a perfectly natural
+method.
+
+In the case of diphtheria, the antitoxin appears to be more efficacious
+than an opsonin. A horse is inoculated with diphtheria, and when he has
+recovered, his blood is collected. This blood is then rich in antitoxin,
+the natural antidote that has enabled the horse to get well again. The
+blood is allowed to clot, and the clot is removed; the fluid residue is
+called serum, and the serum contains the antidote. If now another horse has
+diphtheria, and you want to cure him quickly, what more natural than inject
+the serum of the horse who has just recovered? it will save the second
+horse the trouble and the time of making the antitoxin for himself, and it
+has been proved over and over again that the second horse does recover with
+amazing celerity.
+
+The pathologists then advanced a step, and asked, Why should this antidote
+be used solely for animals when they have diphtheria? Why should not the
+horse's serum be beneficial to human beings when they are attacked with the
+same disease? The diphtheria poison is much more harmful to a man, and
+kills him more quickly than it does a horse; it is therefore imperative to
+use the antidote early. The crucial experiment was made; entire success
+followed it, and now, as Professor Richet says, it is the only treatment
+employed, and any medical man who refuses to use it is little short of a
+criminal.
+
+I have entered into this brief and, I trust, simple explanation of serum
+treatment, because so many people want to understand it and are unable to
+comprehend the technical terms which scientific men, writing for scientific
+readers, almost exclusively employ. I am even hopeful that some of the more
+reasonable opponents of animal experimentation may be convinced that by
+carrying out the new methods of serum therapy, we are not going against
+nature but helping her. It is just these 'messy things' that nature uses
+for curing infectious diseases, and the introduction of an opsonin or an
+antitoxin is not putting matter in its wrong place, but in its right place;
+and therefore the use of the terms filth and dirt in this relationship
+should be confined either to the foul-mouthed or to the ignorant.
+
+W. D. HALLIBURTON.
+
+_July 1908._
+
+
+P.S.--The proof sheets of Professor Richet's book have passed through my
+hands during their issue from the press. Beyond a few verbal amendments,
+and a footnote here and there which I have added and initialled, no
+alterations have been made in the original.
+
+I am also responsible for the insertion of Appendix C, regarding the aims
+and objects of the Research Defence Society. These additions and minor
+alterations have all met with Professor Richet's approval.
+
+I may mention that the book has not yet been published in French, and is
+presented to the public for the first time in English dress. The English
+lady who collaborated with Professor Richet in its production has worked
+with and studied under him for some years, and it was largely owing to her
+persuasion that he consented to express his views publicly. She desires for
+the present to remain anonymous.
+
+W. D. H.
+
+_October 1908._
+
+
+
+
+CONTENTS
+
+
+PAGE
+
+PREFACE BY PROFESSOR HALLIBURTON                                       v
+
+
+INTRODUCTION                                                           1
+
+
+CHAPTER I
+
+THE NECESSARY LIMITS OF VIVISECTION                                    7
+
+
+CHAPTER II
+
+PAIN AND DEATH                                                        18
+
+
+CHAPTER III
+
+CONCERNING ANAESTHESIA IN VIVISECTION                                  31
+
+
+CHAPTER IV
+
+CONCERNING EXPERIMENTATION OTHER THAN VIVISECTION                     40
+
+
+CHAPTER V
+
+SERVICES RENDERED TO SCIENCE AND HUMANITY BY EXPERIMENTAL PHYSIOLOGY  59
+
+
+CHAPTER VI
+
+MORALITY AND VIVISECTION                                              72
+
+
+CHAPTER VII
+
+ARE LAWS REGULATING VIVISECTION NECESSARY?                            91
+
+
+CHAPTER VIII
+
+VIVISECTION AND THE FUTURE OF SCIENCE                                 97
+
+
+POST SCRIPTUM                                                        114
+
+APPENDIX A.--DIPHTHERIA STATISTICS                                   121
+
+APPENDIX B.--BIBLIOGRAPHY                                            124
+
+APPENDIX C.--THE RESEARCH DEFENCE SOCIETY                            130
+
+
+ILLUSTRATIONS
+
+"LA MORT." By BARTHOLOME, in Pere Lachaise, Paris,        _Frontispiece_
+
+PASTEUR IN HIS LABORATORY,                  _facing page_       44
+
+"L'ENFANT." In Musee du Luxembourg, Paris,       "              53
+
+
+
+
+INTRODUCTION
+
+
+The object of this book is to set forth, as impartially as possible, the
+reasons which militate for and against vivisection. It is, however, a
+physiologist who is speaking, therefore no one will be surprised that he
+should defend a practice which is at the basis of the science he teaches.
+
+May he be permitted, at the same time, to express the high moral esteem
+which he feels for all those who, nobly enamoured of a very high ideal,
+deny to men the right of inflicting suffering, or even death, upon animals?
+There is not a more generous thought than this. Without doubt it is our
+duty to have sympathy for, and to abstain from indifference and cruelty in
+our dealings with all living creatures: might does not constitute right.
+Man is stronger than the animal; but this superiority of power, this might,
+does not constitute a right to act contrary to moral obligation.
+
+Morality does not consist solely of duties towards human beings; it is more
+general: it extends to every being capable of suffering. The physiologist
+is not an ignoramus, neither is he a barbarian; and he has right well
+understood this duty. Physiologists have concluded that experimentation
+upon living animals is necessary, and it is the many reasons which have led
+them to this opinion which I propose to set forth. But it will, I hope, be
+quite understood that my defence of vivisection implies no contempt, no
+raillery, no unfriendly sentiment towards those who oppose it. My opponents
+are not always courteous or loyal in their polemics; but that is of no
+importance; and I shall reply only to such objections as are potent, able,
+and rational. In other words, I shall take from among the arguments of
+anti-vivisectionists those only which can be called legitimate, those which
+deserve to be studied methodically and profoundly by every man of good
+faith. I shall deliberately put on one side both abuse and nonsense.
+
+I should here mention an anonymous leaflet which has received a
+considerable amount of publicity in England ("How Scientific Cruelty is
+defended," London, 1907, 4 pp.). In this leaflet, a reply is given to an
+article which I once published on Vivisection. Certainly, after a lapse of
+twenty-six years, I might claim the right to abjure some of the notions of
+my youth. Taken as a whole, however, my ideas concerning vivisection have
+changed but little, and I still consider it to be necessary. I of course
+recognise that the number of physiological laboratories, which I estimated
+at thirty in my article, is for present-day purposes too low. During the
+last twenty-six years their number has very considerably increased. But a
+laboratory of physiology does not necessarily mean a laboratory of
+vivisection. There is the whole range of physiological chemistry, the study
+of ferments and psychological physiology, not one of which makes any
+demands on vivisection. Many eminent physiologists--for example, my former
+master, M. Marey--have performed very little vivisection. Even in those
+laboratories where vivisection is performed, it is not practised every day,
+and especially not upon dogs! Far from it! In Paris, for example, where
+every dog experimented upon is a stray animal handed over by the
+prefecture of police, there are only about six hundred dogs per annum thus
+available for experimentation. Now the laboratories in Paris represent,
+from the point of view of activity, at least half of all the laboratories
+in France put together.
+
+It is alleged that Schiff stated to Mrs Anna Kingsford that he had
+experimented on more than 14,000 dogs, that is to say, an average of one
+dog a day for fifty years! This is obviously an exaggeration, though it is
+difficult to trace now who was responsible for it.
+
+Finally, the remaining objections of the anonymous author in question
+amount only to this: The author believes that physiologists work for money
+and renown, and not at all for the sake of humanity (!!). Also, that young
+men are made cruel by the sight of cruel experiments. But the author simply
+forgets this fact, that there is not at this present moment one single
+_honourable_ physiologist who would consent to perform long and distressing
+experiments on an animal not under anaesthetics. I hold no brief for those
+who do otherwise, and I disapprove energetically of the use of _curare_.
+The conclusions of my anonymous critic therefore fall to the ground.
+
+I confess I do not understand the statement that experimentation on rabbits
+and other animals is of no use to humanity; and my critic unfortunately
+from his point of view has selected Claude Bernard's experiments as an
+example of uselessness. Does he not know that Claude Bernard discovered the
+presence of sugar in the blood, of glycogen in the liver, of diabetes
+produced through nervous action, of the action of oxygen and of carbonic
+oxide on the red blood corpuscles, the action of the pancreatic juice on
+fat, the part played by the pneumogastric nerve in the innervation of the
+heart? These discoveries not only rejuvenated physiology, but exercise a
+permanent influence over the whole of medicine, and over the entire realm
+of therapeutics! I refuse to accept the antiquated conception of an
+empirical medicine which does not aim at discovering the truth; which
+thinks solely of clumsy practical application; and which regards as useful
+only that which leads immediately and directly to the cure of a given
+illness. All truth is useful; all ignorance is baneful; and the sole limit
+to man's power lies in the extent of his knowledge. We must forego
+discussion with those who cannot understand this fundamental notion.
+
+
+
+
+CHAPTER I
+
+THE NECESSARY LIMITS OF VIVISECTION
+
+
+First of all I declare, without fear of being contradicted by any
+physiologist, that the past has witnessed much excess, almost guilty
+excess, and that at the present time excess might still be pointed out. I
+quite believe that, even to-day, here and there in the laboratories of
+physiology, young men may be found who are no doubt enamoured of science,
+but who have not sufficiently reflected on the nature of pain, and
+consequently, through lack of sympathy, are callous and indifferent about
+inflicting useless, or almost useless, tortures on innocent animals. On
+this point I might mention numerous facts which are extremely painful to
+relate, but which nevertheless we must have the courage to acknowledge and
+denounce.
+
+To quote only one instance, a most abominable one, I will mention the
+following, which is old, dating back about forty years. In the veterinary
+schools, surgical studies, at that time, were not made on the dead carcase,
+but on the living animal; so that the wretched victim, generally a horse,
+served as a subject, while yet alive, for all the operations which the
+veterinary surgeon is called upon to perform. The detestable argument given
+at that time to qualify this barbarism was that the veterinary surgeon
+should be familiar with the reactions of a living animal, and that, as a
+guarantee of being able to perform an operation on a diseased horse, he
+should have already practised the same operation several times, not on the
+dead body, but on a horse full of life and vigour, able to defend himself,
+and obliged therefore to be held down motionless by special processes. But
+this is scarcely a sufficient justification. But happily such things no
+longer exist; public opinion, stimulated no doubt by the writings of
+anti-vivisectionists, has altered the customs of veterinary
+experimentalists so well that in no veterinary school to-day are surgical
+exercises now performed on other than the dead body.
+
+Thus, as far as surgery is concerned, unquestionably all vivisection
+should rigorously be proscribed. I will discuss later the point as to
+whether this interdiction should be moral--that is, recommended as a
+precept of humanity, or enforced by law under penalty of imprisonment or
+fine. For the moment it will suffice to establish the point that no living
+animal should serve for surgical exercises.
+
+I will go even further, and on this point my opinion will perhaps clash
+with that of some of my friends and colleagues: I maintain that no
+experimental physiological demonstrations which involve suffering should
+ever be performed. Much abuse has taken place in experimentation for
+instruction, which is a very different thing from experimentation for
+investigation. Important as it may be to demonstrate physiological facts to
+students, I do not consider that this importance is greater than the
+suffering of an animal. And here again I will take an example, that of the
+distinction between the motor nerves and the sensory nerves.
+
+Magendie, in 1811, following up an idea somewhat hesitatingly put forth by
+Charles Bell a few years previously, demonstrated that the anterior nerve
+roots, starting from the spinal cord, give movement to the muscles, whilst
+the posterior roots are exclusively devoted to sensibility; so that there
+are anterior motor nerves and posterior sensory nerves. In order to
+demonstrate this, it is evidently necessary to operate on a living and
+sensitive animal.
+
+The discovery was confirmed by several physiologists between 1830 and 1850;
+and I do not think we have the right to repeat this cruel experiment for
+the sake of the instruction of students. It is not only cruel, but also
+useless, for it consists in laying bare the anterior and posterior
+nerve-fibres of the spinal cord, with the sole object of allowing students
+to see that the excitation of the anterior nerve-fibres provokes movement
+and not pain, whilst the excitation of posterior nerve-fibres provokes pain
+and not movement. Now, in order to make students clearly understand this
+distinction between the motor and sensory nerves, I require only a
+blackboard and a piece of chalk; and I claim that, with a piece of chalk
+and a blackboard, I am able to explain very clearly all the details of this
+phenomenon. Not only does the chalk suffice for comprehension as well as
+vivisection, but it is better; because the experiment is so delicate, so
+difficult, and, in order to be understood, it must be observed so narrowly,
+so closely, that out of the whole class scarcely two or three students are
+able to follow the experiment. The rest of the class have before them only
+the frightful spectacle of the reactions of a mutilated, suffering animal
+under excitations which are made in the very depths of a wound on organs
+which they do not see.
+
+This experiment is rendered more particularly cruel by the fact that
+anaesthetics cannot be used, precisely because the point in question is the
+sensibility or non-sensibility of the animal, and consequently by its very
+nature the operation cannot be made on the insensible animal.[1]
+
+And now, at once entering further into the difficulty of the problem of
+vivisection, we may ask ourselves if we have the right to allow
+demonstrations of experimental physiology on living animals that have been
+rendered insensible by chloroform.
+
+Although, further on, I intend coming back to this important question of
+anaesthetics, I will say at once I do not understand what repugnance there
+can be to operating upon an anaesthetised animal. Once he is insensible he
+cannot suffer; why hesitate, therefore, to perform prolonged experiments
+upon that insensible being? It appears to me just as inhuman to boil milk
+as to excite the pneumogastric nerve of a dog rendered incapable of
+suffering. The milk does not suffer; the dog does not suffer; in both cases
+it is living matter, but insensible living matter. Consequently, as far as
+physiological demonstrations are concerned, every individual capable of
+reflection should recognise that there is nothing wrong in experimenting
+upon animals that cannot suffer.
+
+I shall, however, make two restrictions. The first is that professors
+should energetically call the attention of the pupils to the fact that the
+animal is insensible, and that no one has the right to make the experiment
+upon a sensitive animal; that we, physiologists, more than all other men,
+are under the obligation of dealing humanely with animals. The professor of
+physiology should take advantage of the occasion to develop in his hearers
+the best and noblest sentiments, those of pity and of generosity. In a
+word, he should excuse himself, so to speak, for performing vivisection,
+and prove that such is only legitimate when it entails no suffering.
+
+The second restriction is that the animal thus chloroformed or anaesthetised
+should never be permitted to awaken. If he shows the slightest sign of
+sensibility, he should be given chloroform until anaesthesia is complete,
+and, finally, he ought to be killed after the experiment, without allowing
+him to regain consciousness.
+
+After all, death under these conditions is a painless end. We ourselves,
+who will disappear after a long, and certainly painful, agony, in those
+weary moments of pain which will precede our end, shall envy that absence
+of suffering, that rapid end of all pain, which is the death of an animal
+under an anaesthetic.
+
+Let us, therefore, banish every painful experiment the object of which is
+purely didactic. Moreover, I fail to see what experiments in painful
+vivisection are necessary for the teaching of physiology. Studies on reflex
+movement can be made perfectly well on a decapitated animal; and in that
+case it is well understood that there can be no question of pain; for it
+would be absurd to suppose that the spinal cord possesses the power of
+receiving the notion of pain. Such a supposition would mean the negation of
+the best-established facts of physiology.
+
+Experiments on the heart (notably of the frog and the tortoise) are
+performed very much better on a decapitated animal than on an animal which
+is intact; and experiments can even be made on the heart separated from the
+organism. It would be downright puerile to lack the courage to watch the
+beating of the living heart of a dead tortoise! As for the mammalia, all
+experiments on the heart and on the respiration necessary in a course of
+lectures on physiology are admirably carried out on an animal rendered
+completely insensible.[2]
+
+We have not, however, quite finished with the difficulties of physiological
+instruction: there are certain poisons for which chloroform cannot be used.
+
+As the essential property of chloroform is to deaden the nervous cells, the
+effects of some poisons cannot be studied in an animal profoundly
+chloroformed. We can watch very well indeed the effects of carbonic oxide,
+which poisons the blood, but many other poisons no longer produce their
+characteristic symptoms; nevertheless, it is of the highest importance to
+show medical students the effects of certain formidable toxic substances.
+
+Permit me to quote myself. However little I may be a partisan of painful
+experimental demonstrations, I make one exception for an experiment which I
+consider it essential to present, in all its horror, before the young men
+who attend my lectures. I refer to absinthe. If two or three drops of
+essence of absinthe are injected into the veins of a dog, he is at once
+seized by a violent attack of epilepsy with hallucinations, convulsions,
+and foaming at the mouth. It is truly a terrible sight, one which fills
+with disgust and horror all who have witnessed this experiment. But it is
+precisely for the sake of arousing this disgust, this horror, that I
+perform the experiment. The unfortunate dog will, during ten minutes, have
+had an attack of intoxication and absinthian epilepsy; but at the end of an
+hour he will have recovered completely. At the same time, the two hundred
+students who have witnessed this hideous spectacle will retain, profoundly
+engraved on their minds, the memory of that epileptic fury, a memory which
+will remain with them to the end of their days. They will then be able, by
+their propaganda against absinthe, to exercise around them a salutary
+influence, to prevent perhaps ten, fifteen, one hundred human personalities
+from destroying themselves by the use of this abominable poison. After all,
+it is better to give a dog ten minutes of absinthism than to allow twenty
+human families to be plunged, by absinthism, into degradation and misery.
+
+Finally, as far as surgical exercises are concerned, _they should never be
+made on a living animal_; as regards demonstrations of experimental
+physiology intended for instruction, _they should be made only on
+decapitated or anaesthetised animals_; and as for intoxications,[3] save on
+very rare and altogether exceptional occasions, _they should not be made
+the object of experimental demonstrations_.
+
+It seems to me that these formal declarations might be accepted by every
+physiologist as well as by every anti-vivisectionist.
+
+FOOTNOTES:
+
+[1] The usages in English laboratories in relation to this experiment are
+in accord with Professor Richet's views.--(W. D. H.)
+
+[2] It may not be known to many readers, that it is possible to keep alive
+for hours and even days the heart entirely removed from the body of a dead
+mammal. On such a heart the action of drugs can be admirably studied and
+demonstrated. I once had in my own laboratory a rabbit's heart that
+continued to beat for nearly five days after the remainder of the rabbit
+had served for the dinner of my laboratory attendant.--(W. D. H.)
+
+[3] The word intoxication here and elsewhere is used in its literal sense,
+viz., poisoning. It is not limited, as in popular parlance, to the
+poisonous effects of alcohol.--(W. D. H.)
+
+
+
+
+CHAPTER II
+
+PAIN AND DEATH
+
+
+We have not yet touched at the root of the problem, for physiology is not
+mere demonstration. The real point at issue is the search for new truths.
+The demonstration of an acquired truth, however important this may be, must
+not be confused with the research for an unknown truth. Now, physiologists
+claim that they have not only the right--but that it is their duty--to
+inflict some suffering on animals, if by so doing they diminish human
+suffering. I am going to put this proposition to the test.
+
+1. It is universally recognised, except perhaps by the Brahmans, that we
+have the right to kill dangerous or offensive animals. I do not believe
+there is a man foolish enough not to kill a mosquito which is stinging him.
+No one would hesitate to crush a viper which is on the point of biting
+him, or the caterpillar which is eating the leaves of his fruit trees. If
+an invasion of locusts threatens our harvest, we have the right to stamp
+out these legions of enemies. To refuse man the right to defend himself
+against his animal foes is such a ridiculous proposition that it is useless
+even to attempt to combat it.
+
+Not only have we the right to wage war against offensive animals, such as
+rats, mice, caterpillars, locusts, bugs, mosquitoes, serpents, wolves,
+tigers, hyaenas, and all ferocious and mischievous animals, but we have
+also the right to kill such animals as are necessary for our nourishment. I
+am quite aware of the fact that certain religions proscribe the use of
+meat. I am also aware that an exclusively vegetable alimentation might be
+substituted for our customary mixed diet, which is both animal and
+vegetable. But, though a vegetable alimentation is possible, our western
+civilisation is bound up with the principle of a mixed diet in the ordinary
+conditions of life. If, indeed, alimentation should be exclusively
+vegetable, it would be useless to hunt, to fish, to rear poultry, to breed
+cattle for the market; and it would be necessary to confine our nutriment
+exclusively to wheat, corn, maize, rice, herbs, and fruits. Undoubtedly
+man, thus nourished, could live, and indeed live very well; but
+vegetarianism would be such a radical reform in our customs that in an
+article bearing solely upon vivisection I cannot handle such a vast
+problem.
+
+I recognise that those anti-vivisectionists who are at the same time strict
+vegetarians are consistent; they live entirely on fruit and vegetables,
+make no use of animal flesh, for they contest the right of man to kill an
+animal for his nourishment. It is difficult to reply to such vegetarian,[4]
+for, after all, animal alimentation is not indispensable to human life. But
+we must take things as they actually exist. The bulk of my readers and the
+majority of anti-vivisectionists are not vegetarians; and it is only an
+innocent pastime to build up new civilisations in the fantastic realms of
+Utopia.
+
+We are not, then, addressing ourselves to vegetarians, but to those
+anti-vivisectionists who feel no compunction in drinking broth or milk or
+eating the wing of a chicken, who do not shrink with horror from the sight
+of a cutlet, and who are capable of eating meat twice a day throughout the
+whole term of their existence. These people know full well that it was
+necessary to kill the animal which serves them for food: the ox was beaten
+to death; the sheep had its throat cut open; the pig was bled to death; the
+cod and the sardine were suffocated. I pass over the tortures which special
+preparations and elegant sports inflict on the animal for the mere savour
+of our meals: geese stuffed by force for months whilst nailed down to
+boards; pheasants, partridges, hares, slaughtered in the hunt; fish thrown
+into boats, gasping and finally dying after long, agonising struggles. All
+these and other tortures are inflicted by man on the animal in order to
+satisfy his pleasure and his appetite.
+
+Perhaps these anti-vivisectionists have never visited a slaughter-house
+when the moment for killing the sheep has arrived. There, bound and
+stretched out on an immense table, are to be seen five hundred unfortunate
+sheep, with their throats thrust forth. The butcher passes in front and,
+with a stroke of his knife, slashes open the neck and throat of the poor
+wretches; the blood spouts out, convulsions rend the body, and only at the
+end of one minute or one and a half minutes does death supervene. This is
+death in all its savage horror inflicted by man on the animal. There are
+anti-vivisectionists who accept this. Therefore, they recognise implicitly
+man's right to kill animals, since they profit by such slaughter for their
+alimentation; they add, however, that though man has a right to kill, he
+has no right to cause suffering. Is there no suffering in the
+slaughter-house? Are anaesthetics ever dreamt of there?
+
+2. Now it is impossible to point out the boundary line which separates the
+being that suffers from the being that does not suffer; and I defy any one
+to establish any line of demarcation whatsoever between a being capable of
+pain and a being incapable of pain.
+
+Plants certainly do not suffer. Already, however, there are certain
+difficulties in the way of determining the exact boundary line between the
+animal and the plant. When we expose an infusion of hay to the air, for
+instance, various microbes develop therein. A learned and minute analysis
+allows us to distinguish both bacteria and infusoria among the innumerable
+micro-organisms which swarm in the infusion. Now we know that bacteria are
+plants and infusoria are animals. If, therefore, all animal life were
+eliminated from experimentation, we should have no right to boil an
+infusion of hay, because we know that it contains infusoria which are
+animals.
+
+These infusoria are so closely related to bacteria that they may be
+confused with the latter, as indeed has been the case up to the last few
+years. A number of inferior beings were formerly called zoophytes, that is
+to say, animal plants; and it is sheer nonsense to suppose that they are
+conscious of pain. Sponges, corals, sea-anemones, star-fishes, sea-urchins,
+possess a nervous system which is so little developed, and reactions which
+are so indistinct, that we can scarcely suppose they possess an intelligent
+consciousness, and, consequently, sensibility to pain. Moreover, I do not
+see how their reactions would differ if they possessed the notion of pain.
+When we touch the tentacles of a star-fish, we notice, near the tentacles
+touched, a sort of agitation set up among the neighbouring tentacles, but
+this agitation does not extend to the tentacles of the others' arms; so
+that a general consciousness does not appear to exist, unless it be in a
+prodigiously rudimentary state, among inferior beings. In certain classes
+of the mollusca there is no head. Thus oysters and mussels, named on that
+account _acephala_, have in all probability no consciousness. I would have
+no scruple, therefore, either in eating living oysters, or in experimenting
+upon living oysters and mussels, since it seems to me evident that the
+notion of pain does not exist in them.
+
+It is not the same thing with insects; it is here that the first signs of
+pain begin to appear. Nevertheless, we must be careful to avoid confusing
+pain with signs of pain. When we take a worm and cut it into three
+segments, each of these segments will struggle and writhe in a perfect
+frenzy. It would, therefore, be necessary to admit that pain existed in
+each of these three segments--in other words, that each fragment possesses
+a central seat of pain, which is absurd; it is much more rational to
+suppose that the perturbed movements of the animal are the result of a
+strong nervous excitation, and that the injury is accompanied by defensive
+reflex movements but provokes no painful perception.
+
+Among the superior animals however, and especially among the vertebrata,
+pain exists. There can be no doubt about this, although it is impossible to
+know exactly in what consists the consciousness of pain in an animal; the
+most profound obscurity still reigns, and will perhaps always reign, over
+their consciousness and sensations. It would be ridiculous to deny that a
+dog suffers when his paw is crushed. Certainly, I fully believe that all
+pain is much less clearly perceived by the dog than by man. But, after all,
+it is a phenomenon of the same order and identical, save in intensity.
+
+Now pain, taken in its profoundest sense, consists of two essential
+elements: a shock to the conscious self, the _ego_, in the first place;
+and, in the second place, the prolongation of the shock. If the self is
+not distinctly conscious, if it does not go so far as to assert itself by
+the separation of that self from the external world, we cannot say that
+pain is possible. The _ego_ never asserts itself with so much force as
+under a very painful impression. So that among beings whose reactions are
+mechanical, automatic, governed by other forces than by the assertion of
+the self and a freely deliberate will, pain becomes so indistinct, so
+confused, that it probably does not exist in the strict psychological sense
+at all. The greatest philosopher of modern times, Descartes, imagined a
+system of machine-animals; this idea has been turned into ridicule by the
+ignorant, but nevertheless we are almost forced to return to it when we
+dive to the bottom of reflex movements. Now, if we are able to admit that
+there is a vague consciousness of the selfhood among superior animals, such
+as the mammalia and birds, this consciousness, as far as concerns the
+inferior vertebrata, is most certainly extremely hazy, if, indeed, it
+exists at all. I have difficulty in conceiving that a frog is able to
+ponder over its _ego_, assert its existence in presence of the external
+world, and say or think, I SUFFER. No being suffers unless he is able to
+think that he suffers, and meditate on his suffering. To suffer means to
+have consciousness; and as far as it is permissible for a man to picture to
+himself the sensations of a frog, I should say that the frog has no
+consciousness of suffering.
+
+Even as regards the more highly developed vertebrata, such as birds,
+rabbits, and guinea-pigs, suffering is probably of a very obscure nature.
+It is not enough to say that an animal suffers because we see him animated
+by the contortions and reactions of defence. The new-born infant, which has
+neither intelligence nor memory nor consciousness, is probably incapable of
+real conscious suffering, nevertheless it screams and cries when it is
+hungry or when it is pricked. But these screams and tears do not suffice to
+allow us to affirm that the child is suffering real pain. It is a nervous
+excitation which is translated by the reactions of defence; it is not the
+conscious assertion of an _ego_ which has been painfully perturbed.
+
+Further, for pain to exist the impression must be durable and not
+fugitive. The assertion of the _ego_ is not enough. It must be prolonged. A
+pain, however intense we may suppose it to be, which traverses the organism
+for a second and which leaves no painful echo behind it, is no real pain. I
+will allow any one to inflict the most excruciating tortures on me if he
+can assure me that, at the end of one second, I shall have lost all
+recollection of the suffering and that no trace of the torture will remain.
+The extraction of a tooth lasts perhaps only half a second, but you
+remember it all your life. In any case, for several minutes the pain
+continues to be atrocious. Therefore we may certainly consider that pain is
+a phenomenon of memory. Pain is an empty word for every being that has no
+memory.
+
+From these facts we may evolve the general conclusion that, under penalty
+of falling into vulgar anthromorphism, we cannot apply to the pain of
+animals the data which have been gathered on human pain.[5] With man, the
+developed intelligence and vivacious memory enable pain to acquire an
+extreme intensity. But with animals, in proportion as the intelligence
+lessens and the memory becomes more rudimentary, so does pain diminish,
+and, without having the right to be very affirmative, as we are in profound
+darkness concerning the consciousness of animals, it appears to me that, as
+we descend the scale of the animal kingdom, pain rapidly becomes very hazy,
+scarcely perceived, and as indistinct as the consciousness of the _ego_.
+
+We have, therefore, the right to perform vivisection on beings which,
+because they possess no _selfhood_, do not suffer. Now, this absence of
+memory, consciousness, and intelligence extends assuredly over the whole of
+the vegetable kingdom, almost certainly over all the groups of the
+invertebrata, and also probably over all the inferior vertebrata.
+
+Finally, there remain only the mammalia and birds which are capable of real
+pain. Although this pain may be obscure and indistinct, it is certain; and
+we must take it into consideration or fall into barbarism; therefore we
+shall restrict the problem of vivisection to the vivisection of superior
+animals, who, alone, are capable of suffering.
+
+FOOTNOTES:
+
+[4] The true vegetarian is an extremely rare person. The usual so-called
+vegetarian ought more properly to be called a non-meat eater, for he does
+not scruple to consume milk (intended by nature for the calf) and milk
+products (cream, cheese, and butter) and eggs, nor to wear garments made of
+wool and leather.--(W. D. H.)
+
+[5] In the little leaflet already referred to, quotation is made of a
+sentence from Professor Pritchard, which says that the various animals have
+a skin of different thickness, but that sensibility is the same among all,
+including man. It seems to me that Professor Pritchard has scarcely looked
+into the questions of general psychology.
+
+
+
+
+CHAPTER III
+
+CONCERNING ANAESTHESIA IN VIVISECTION
+
+
+A few words are first of all necessary to indicate precisely what
+anaesthesia is.
+
+By definition, an anaesthetic is a substance which, without paralysing the
+activity of the heart and the respiration, abolishes sensibility. Indeed,
+whenever general sensibility is abolished, there is, at the same time,
+abolition of consciousness, of intelligence, and of memory. Another
+characteristic of an anaesthetic is that its action is of a transient
+nature. At the end of a certain time, it disappears; and then intelligence,
+consciousness, and memory return gradually with sensibility.
+
+It is well known that the admirable discovery of general anaesthesia,
+allowing operations to be performed on man without the accompaniment of
+pain, was due to chance. It was an American dentist, Horace Wells, and his
+colleague, Morton (and others also perhaps), who discovered by chance that
+protoxide of nitrogen (commonly called laughing gas) has the power, when
+inhaled, of annulling all sensibility to pain for a certain length of
+time--sufficiently long for a surgical operation (1840). Then they
+discovered the effects of ether (1842). Since then, many other anaesthetics
+have been introduced, notably chloroform, prepared by Soubeiran in 1832,
+but the anaesthetic properties of which were only discovered in 1847 by
+Flourens and Simpson; so that physiologists and surgeons are now quite
+familiar with the mode of action of anaesthetics.
+
+Anaesthetics, in appropriate doses, poison the nervous cells, which are the
+seat of intelligence and sensibility, but leave unimpaired the functions of
+the cardiac nervous system and of the nervous system governing the
+respiration. An individual under chloroform breathes regularly; his heart
+beats rhythmically, but all intelligence has disappeared; he has no longer
+any will or memory or reflex actions, and the most painful operations can
+be performed on him without provoking the smallest phenomenon of
+sensibility.
+
+Further, we have no hesitation in asserting that the anaesthetised animal
+behaves like the anaesthetised man; that is to say, chloroform given to an
+animal abolishes all sensibility to pain. Vivisection, therefore, on an
+anaesthetised animal, does not provoke any pain. Physiologists are so
+convinced of this that, however humane they may be, they have no scruple in
+performing lengthy vivisections on an animal which is thoroughly
+anaesthetised.
+
+If chloroform, for some reason or other, cannot be employed, many other
+anaesthetics, such as chloral and morphia, may be used. Chloral, in certain
+doses, produces complete anaesthesia, and it is easier to administer than
+chloroform. Formerly, chloral was injected, by a small puncture, into the
+veins of rabbits and dogs. I pointed out another method which allows one to
+avoid even the puncture; it is sufficient to make a rectal injection of the
+solution of chloral. In two or three minutes, the dog, the rabbit, or the
+guinea-pig, is seized with a kind of inebriety; he staggers, falls to the
+ground, and in about ten minutes he is completely anaesthetised. Large doses
+of morphia can be injected into animals without causing immediate death.
+An animal under a moderate dose of morphia does not absolutely lose all
+sensibility to pain; but the slight pain which he then feels is very
+transient. If the animal is submitted to strong excitation, he wakens for a
+few seconds, but soon falls back again into profound slumber. Morphia in
+moderate doses is not such a perfect anaesthetic as chloral or chloroform;
+it is therefore usual under such circumstances to administer also volatile
+anaesthetics like chloroform, and quite small quantities of the latter will
+then produce perfect anaesthesia. If, however, morphia is given in lethal
+doses, as is sometimes done for comparatively short experiments, it is an
+absolutely complete anaesthetic in itself, just as it is when a man takes a
+fatal dose of morphia, or of its parent substance, opium.
+
+Nevertheless, chloroform, chloral, and ether have a very serious
+disadvantage for the physiologist. They abolish sensibility, but, at the
+same time, they abolish the majority of the reflex actions in which
+voluntary muscles are concerned. Now, in many experiments, it is
+indispensable to be able to study such reflex movements, that is to say,
+the fundamental reactions of the nervous system. Thus, physiologists, more
+preoccupied, it must be said, with assuring the immobility than the
+insensibility of the animal, have had recourse to another substance,
+_curare_, the properties of which were investigated by Claude Bernard.
+
+Curare is a poison which the natives on the banks of the Amazon prepare
+from a bind-weed of the strychnia family. They boil the plant with several
+ingredients, finally obtaining a sort of blackish resin, or gummy juice,
+which they place in little gourds, which can be procured also in Europe.
+This juice is used by South American Indians for their arrows, and
+physiologists use it to ensure the immobility of the animal on which they
+are experimenting. Curare dissolves in water, and a solution of a few
+centigrams injected under the skin of a dog, a cat, a rabbit, will bring
+about the death of the animal in a few minutes. But death is not due to the
+arrest of the heart's action, it is due entirely to paralysis of the
+respiration. Therefore the curarised animal can continue to live for
+several hours if _artificial_ breathing be substituted for the natural
+breathing which is paralysed. For several hours the animal is completely
+motionless; the heart beats with force and regularity, provided that the
+insufflation of air into the lungs introduces into the blood the quantity
+of oxygen necessary for the life of the tissues. Now, under these
+conditions, as Claude Bernard has so well demonstrated, we have no proof
+that sensibility is abolished also. There is immobility; there is no true
+anaesthesia. Take two animals, one chloroformed, the other curarised; both
+are equally inert; but the chloroformed animal is insensible, whilst the
+curarised animal retains sensibility.
+
+It is impossible, therefore, to say that curare replaces anaesthetics,
+because _curare is not an anaesthetic_.[6]
+
+Now, in 1894 I was able to discover a substance which has all the
+anaesthetic properties of chloroform, and which nevertheless does not
+abolish reflex actions, so that physiologists are able to use it for
+experiments which, formerly, necessitated the use of curare. This substance
+is called _chloralose_; it is obtained by mixing anhydrous chloral with
+glucose. It is not necessary for me to describe here in detail its chemical
+or physiological properties; I will only say that in very small doses
+(about twenty-five centigrams) it is an excellent hypnotic for man, and
+that in larger doses, injected into the vein of a dog or a rabbit, it
+brings about complete anaesthesia without affecting either the breathing,
+the heart, or the reflex actions.
+
+Since this discovery, many physiologists--and I regret not to be able to
+say so of every physiologist--have given up curare and use nothing but
+chloralose, which is a perfect anaesthetic, and which allows the reflex
+actions to be studied although anaesthesia is perfect.
+
+It may be objected that a tiny puncture has to be made in the vein to
+introduce the chloralose into the circulation; but this puncture is really
+such a trifle that it would be sheer childishness to pay any attention to
+it. What doctor would hesitate to make a puncture in the skin of his
+patient for the injection of a solution of morphia? However, if
+sentimentality be pushed to such a degree as to shrink from touching the
+vein of a dog in order to put him to sleep, even this tiny puncture can be
+avoided by mixing the chloralose with the food of the animal to be
+experimented upon. In half an hour or three-quarters of an hour after the
+mixture is given he is in a state of perfect anaesthesia.
+
+For these reasons, vivisection with anaesthesia seems to me to be quite
+legitimate. As soon as it is recognised that man has the right to kill the
+animal, he has the right to kill him as he pleases, provided he spares him
+all suffering.
+
+Let us also reflect a little on this point: an animal has to die just as
+much as we ourselves. Now, natural death would certainly be for him a long
+and cruel agony, lasting several hours, several days, perhaps several
+weeks. Well, then, we replace hideous old age, the agony of prolonged
+tortures due to disease, by a dreamless sleep, which at once plunges the
+animal into nothingness, without his passing through the intermediary stage
+of necessary suffering. Is this what is called being inhuman? For my part,
+I shall regret on my death-bed that no physiologist will be found whose
+conscience will permit him, or, if so, who would have sufficient courage to
+help me to pass away under the influence of chloroform, ether, chloralose,
+morphia, or chloral, thus saving me from the throes of the final struggle,
+and bestowing upon me a peaceful death and an easy termination of all
+suffering.
+
+FOOTNOTES:
+
+[6] In England, the Vivisection Act expressly states that curare is not to
+be regarded as an anaesthetic, and this proviso has been loyally accepted by
+English physiologists. On those rare occasions when curare is used, and the
+occasions are very rare indeed, and year by year they become rarer, a
+volatile anaesthetic such as chloroform or A.C.E. (alcohol, chloroform,
+ether) mixture is administered at the same time in sufficient amount to
+render anaesthesia absolute. One should add that since Claude Bernard's work
+on curare, physiologists have seen reason for doubting whether it leaves
+sensibility intact, as Bernard thought. But as there is doubt on the
+question, and the available evidence in favour of its lulling sensations is
+small, it is still considered advisable to retain Bernard's views, and act
+as though it is not an anaesthetic at all.--(W. D. H.)
+
+
+
+
+CHAPTER IV
+
+CONCERNING EXPERIMENTATION OTHER THAN VIVISECTION
+
+
+We must, however, give to the word "Vivisection" its largest acceptation.
+It is not only a question of cutting nerves, of stimulating the glands, or
+of exciting the muscles. There are experiments of much longer duration in
+which there is no mutilation properly speaking, but _intoxication_,[7]
+produced by the injection of poisons and disease germs.
+
+It is, indeed, evident that pain can be provoked in other ways than by a
+sharp-edged instrument, which can always be done under anaesthesia. But may
+inoculation be performed? May prolonged _intoxication_ be caused? To treat
+the question in all its fulness, we will put the problem in the following
+manner.
+
+In order to study a disease, have we the right to give that disease to an
+animal?
+
+For my part, there can be no doubt on the point, and I affirm that such is
+our right.
+
+As a matter of fact, and as every unbiassed person is forced to recognise,
+it is only by experimentation that these diseases can be studied
+thoroughly. Clinical observation, bearing exclusively upon man, can only
+give incomplete results, much poorer, though its documents are
+multitudinous, than the results furnished by experimentation, which can be
+infinitely varied at will. If we were limited to the Hippocratic method of
+observation, which consists in studying the symptoms and the progress of a
+morbid affliction, we should be reduced to poor enough resources; and if
+meditation on the aphorisms of Hippocrates constituted the whole extent of
+our medical science, medical science would be a sad vacuum. Fortunately,
+however, such is not the case. Marvellous progress has been realised, which
+allows us to entertain quite other ideas than those of the Father of
+Medicine on the nature of diseases, and consequently on their treatment and
+their prevention. Those very persons who rise up in arms against
+physiological experimentation would not, I imagine, desire to be handed
+over to the care of a Hippocratic doctor if they were ill, to a doctor who
+took no notice of any modern discoveries under the pretext that they were
+acquired by experimentation _in anima vili_.
+
+If, however, we wish to discuss the problem thoroughly, it will not do to
+remain on indefinite ground. Let us arrive at precise facts. I will mention
+only three discoveries, the importance of which is considerable, and which
+have been established solely by experimentation.
+
+First of all, there is _antisepsis_. For centuries and centuries surgeons
+operated without understanding why it was that death struck down so
+unmercifully those operated upon. In vain did surgeons display great skill;
+in vain did the operation succeed: the patient died. Erysipelas, lock-jaw,
+abscess-formation and gangrene reigned supreme. Every confinement exposed
+the mother to death; the slightest wounds were followed by the most serious
+after-effects; in certain amputations, for instance, the mortality was 70
+per cent. No one dared to touch either the peritoneum or the joints,
+because every operation on the peritoneum or on the articulations was sure
+to prove fatal. But Lister and Pasteur came! These two men, simultaneously
+and concurrently, demonstrated that all disease following on an operation
+was the result of infection by parasites. By preventing the wounds from
+being contaminated by parasites, infection was prevented; for the wounds
+themselves are innocent, as long as they are not infected.
+
+This is the astounding and simple truth which Lister and Pasteur
+established. And let no one pretend it is so simple that the data could
+have been furnished by clinical observation alone, for such an assertion
+would be contradicted by the facts.
+
+Thousands and thousands of surgeons, right up to 1868, had understood
+nothing of infection. In order to understand this big word "infection,"
+which sums up in itself the whole of surgery and the whole of medicine, it
+was necessary to inject pus into animals, gather the microbes which then
+developed in the blood of these animals, isolate the microbes, cultivate
+them, inject them afresh, and produce an experimental disease. It was in
+this manner only that we were able to understand the mechanism of
+antisepsis, and, consequently, apply it to the treatment of operations and
+wounds. Three or four volumes could be written on this subject alone, but
+all I can attempt here is a summary of the main points. I say without
+hesitation that as long as clinical medicine confined itself only to the
+observation of patients, it was able to understand nothing, to analyse
+nothing, to foresee nothing. It was necessary to experiment, to sacrifice a
+few hundred mice, rats, and rabbits, in order to demonstrate that
+erysipelas is an inoculable disease, that puerperal infection is of the
+same nature as purulent infection, that all these diseases are due to
+micro-organisms, and that certain substances, called antiseptics, can stop
+the development of these fatal germs.
+
+It appears quite natural to-day (and it seems to simple minds, ignorant of
+the past and powerless to imagine the past, that these notions have been
+current from all eternity) to know that instruments, water, and linen
+heated to 120 deg. contain no living germs. But this discovery is not so very
+old. It was Pasteur who, between 1863 and 1873, established it by some
+memorable experiments at the cost of a little disease given to rats and
+guinea-pigs.
+
+[Illustration: PASTEUR IN HIS LABORATORY.
+
+_facing p. 44._]
+
+Now--and I appeal to the good sense of my readers--would it be better to
+efface the suffering of those rats, those guinea-pigs, those rabbits, and
+return to the olden times when the mortality in lying-in hospitals was
+often 40 per cent. (it is to-day, 0.02 per cent.!)? Must we condemn Lister
+and Pasteur as great criminals because they dared to inoculate microbes
+into a few rabbits and bring about in those unfortunate animals--they would
+have died a long time ago even without that--experimental ailments in order
+to ward off malignant diseases from thousands and thousands of human
+beings?
+
+       *       *       *       *       *
+
+The second discovery which I shall mention is that of the infectiousness of
+tuberculosis. Thousands and thousands of doctors had had tuberculous
+patients under their care. Three thousand years ago, Hippocrates described
+tuberculosis with as much precision as could be done to-day. Illustrious
+physicians in every land had tried to analyse the nature of this terrible
+disease and to unravel its cause; nevertheless, they were unable, from
+clinical observation alone, to prove what is to-day quite commonplace
+knowledge, viz., that tuberculosis is infectious. In 1864, a French doctor,
+Villemin, conceived the simple and ingenious idea of inoculating rabbits
+with the tuberculous matter found in the lungs of consumptive patients.
+These rabbits became tuberculous; they died in a few weeks with tuberculous
+granulations in lungs and liver. It was thus demonstrated that tuberculosis
+was infectious. Later on, in 1878, Koch discovered that the active agent of
+this infection is a special microbe. But, however important may be the
+discovery of the microbe of tuberculosis (the tubercle-bacillus of Koch),
+the essential dominating fact is that tuberculosis is infectious.
+
+As soon as this great fact became known, a profound revolution occurred in
+social hygiene, in the treatment and in the prevention of this terrible
+evil. We know now the consumptive man carries in his lungs and sputum the
+germ capable of developing the same evil in others; consequently we know
+how to preserve ourselves against tuberculosis. We must purify or destroy
+the habitations wherein consumptives have lived, burn or carbolise all the
+sputum, make spitting in public places a punishable offence, take sanitary
+measures against unhealthy meat, defend our children against contaminated
+milk--in a word, we are armed against a disease, the sole and unique cause
+of which, as experimentation alone has taught us, is infection.
+
+Formerly it was believed that diseases were due to a sort of divine anger,
+or, what amounts pretty much to the same thing, to certain imperceptible
+epidemic exhalations stretching over whole populations, or attacking
+isolated individuals, striking like an exterminating angel, as his fancy
+chose, such or such an unhappy victim. A sort of will or caprice, governed
+only by chance, was exercised in relation to this disease, and man was
+powerless, because he was unarmed against chance. He did not even think of
+it. He resigned himself to being ill, and waited for the disease, without
+doing anything to fight against it, benumbed under a kind of Oriental
+fatalism. The doctor shook his head, bore testimony to the evil, and
+confined himself to prescribing inefficacious treatments which were only,
+according to a celebrated saying, a long meditation on death.
+
+But the times have changed; there is no longer any fatality in
+tuberculosis; there is imprudence, there is error, there is vice, and,
+specially, social vice. We may almost say that, if there are still
+consumptives in our midst, it is because of our defective social
+institutions. We leave innumerable populations steeped in misery, seven or
+eight individuals living in the same infected hovel. In the slums of our
+large cities, swarms of infants are to be found morally and materially
+perverted by misery. Therefore, if consumption still exists, it is our own
+fault; it is no longer as it was in olden times, when we knew not, because
+_now_ we know. The plague can be battled with; and if it still has so much
+power left, it is because we have not the courage to apply to public and
+individual hygiene the treatment science has definitely shown us should be
+applied. To foresee is to know; and now that we know, we must not forget
+that it is to experimenters, and to experimenters alone, that we are
+indebted for this great benefit.
+
+Moreover, however imperfect our defence against tuberculosis may still be,
+it is by no means _nil_; great progress has been made; the mortality has
+decreased in a considerable proportion. During the last twenty-five years,
+it has decreased by about 25 per cent., and notably in England, where the
+laws of public hygiene, energetically upheld by the good sense of the
+people, are strictly applied, the mortality has diminished by 50 per cent.
+This is only a beginning, and the near future will bring about the complete
+extermination of the disease.
+
+Now, honestly, I ask if the rabbits which Villemin sacrificed weigh more in
+the scales of universal progress, and even in public morality, than the
+three millions of individuals who, by progress in hygiene, have been
+preserved from an early and painful death. I estimate at a high price the
+life and the sufferings of fifty rabbits, but, at the risk of appearing a
+barbarian, I prefer, to these fifty rabbits, the three millions of young
+people who have been saved by Villemin's discovery, and the millions which
+it will still save.
+
+All the more so, inasmuch as experimental studies on tuberculosis have not
+only preserved men; they have also preserved animals. Thanks to Koch, there
+is now a very simple way of recognising if an animal is or is not
+tuberculous. Koch was able to extract from tubercle bacilli, a substance
+which he has called _tuberculin_. At first he thought tuberculin cured the
+disease; but this was an error. Subsequent experiments showed that
+tuberculin exercised quite a different action to that of healing. It has
+the property, when injected in small doses into a tuberculous animal, of
+provoking an intense fever, whilst it produces no reaction whatsoever in a
+normal animal. If, therefore, tuberculin is injected into every animal in
+the cattle shed, we can feel sure--and this is impossible otherwise--that
+such or such animals are tuberculous or healthy. All cows that show a rise
+in temperature after an injection of tuberculin are tuberculous; the
+others, on the contrary, are in good health.
+
+Thus the sanitary inspection of stables and cattle-sheds can be carried out
+thoroughly; and we are now able to protect not only men but also animals
+from the disease of tuberculosis.
+
+Such results could only have been obtained at the cost of many and
+methodical experiments. Whatever may be the genius of anti-vivisectionists,
+they would never have been able to imagine anything similar had they been
+left to their own intellectual powers. It is not in the study that we are
+able to discover this long series of unforeseen, extraordinary, almost
+miraculous facts which laboratory experimentation has been able to find
+out. Man, said Pascal, tires of conceiving sooner than Nature tires of
+providing; and experimentation is man's method of interrogating Nature.
+
+       *       *       *       *       *
+
+The third discovery which I shall take as an example demonstrating the
+value of experimentation, is the history of _Serotherapy_. And I may be
+permitted to dwell somewhat on this subject as I had the good fortune, in
+1888, of making the decisive experiment which was the beginning of
+serotherapy.
+
+Whilst inoculating some rabbits and dogs with a microbe taken from pus
+(_Staphylococcus pyosepticus_), I developed a certain disease both in the
+rabbits and in the dogs. But the dogs did not die, whilst all the rabbits
+died from the results of the inoculation. I thought then that, the cause of
+that resistance being due to the difference of blood, I might be able to
+make the rabbit refractory to the infection by injecting it with the blood
+of a dog in normal health. The experiment succeeded. The rabbits which had
+received the blood of the dog, when they were afterwards infected with the
+staphylococcus, became very ill but did not die. Later on, I took, not the
+blood of a dog in normal health, but the blood of a dog that had received
+the infection of the staphylococcus and had recovered from that infection,
+and I injected this blood into the rabbits. _Now the rabbits that received
+the blood of the infected, healed dog had acquired complete immunity to
+this form of microbe infection_: the principle of serotherapy was
+discovered (5th Nov. 1888).
+
+[Illustration: "L'ENFANT."
+
+_In Musee du Luxembourg, Paris._
+
+_facing p. 53._]
+
+Since then, serotherapy has been applied, by Behring in Germany and by Roux
+in France, to diphtheria (1892). These two savants showed that the blood of
+animals, and especially of horses, that had been infected with diphtheria
+and cured, could, when injected into patients attacked by diphtheria,
+diminish, in an extraordinary proportion, the duration and intensity of the
+disease. There is no other treatment for diphtheria to-day. A doctor is
+guilty, and even criminal, if he does not use it, for the therapeutic
+results of this treatment are marvellous.
+
+I do not speak of clinical observation only. All those who have seen the
+effects of one of these injections of serum on children down with
+diphtheria are veritably stupefied at the resurrection which they witness
+only a few minutes after the injection. The unfortunate child with his
+purple face and convulsed limbs, scarcely breathing, comes back to fresh
+life as soon as he has received the beneficent injection of serum. The
+facts are so decisively clear that even if we have only seen them once we
+can never again forget them. But I shall simply call the attention of my
+readers to the following statistics, the result of more than 500,000
+observations made in England, in the United States, in France, in Russia,
+in Germany, in Italy, in Austria, in fact everywhere: the death-rate in
+diphtheria before 1892 (for the serotherapic method took four years to
+become known and practised) was 45 per cent. After 1892, this death-rate
+fell to 12 per cent.[8] Consequently, out of every hundred patients
+suffering from diphtheria, thirty are saved by the serotherapic treatment.
+
+Let us stop for a moment to consider these figures, which seem mere
+abstractions to those who have not reflected. At the present time, about
+300,000 children per annum in France are attacked by diphtheria; that makes
+4,500,000 from 1892 to 1907. The proportion of 30 per cent. is therefore
+1,350,000. The number of children who have been saved in France alone by
+serotherapy in fifteen years is therefore 1,350,000. Let us put it in round
+numbers at one million only; this would be sufficient to justify the death
+of the twenty-five dogs and the one hundred rabbits which I sacrificed, and
+of the two hundred horses which Behring and Roux used for the preparation
+of the anti-diphtheria serum. A million families in mourning, a million
+hopes mowed down in the bud! Only fanatics would dare to say this weighs
+for nought in the balance.
+
+Moreover--and why should I not say it aloud?--this so-called humanity of
+anti-vivisectionists seems to me the antithesis of humanity. To satisfy a
+conception which they have forged out of a certain hazy ideal, they make
+quick shrift of human life and suffering. A hundred weeping mothers, a
+hundred unfortunate children with gaping throats, suffocating, gasping, the
+death-rattle at hand--that is what these sensitive souls declare is nothing
+beside one rabbit which has had to receive a little blood of a dog into its
+abdomen! These philanthropists are creatures of a fixed idea! Let humanity
+suffer, weep and die! What does that matter, provided that their fixed
+idea, driven right up to the hilt of delirium, triumphs! After all, if they
+persist in believing that the faint and uncertain suffering of a sick
+rabbit is not worth the certain and excruciating suffering of a thousand
+human creatures, I can say but one thing: I pity them from the very bottom
+of my heart.
+
+       *       *       *       *       *
+
+These examples--antisepsis, tuberculosis, and serotherapy--will suffice
+perhaps to justify experimental pathology. There is now another
+experimental science which I am going to try to justify also. This is
+_Therapeutics_.
+
+We are only able to learn the action of medicaments by studying the action
+of poisons, for all medicaments in strong doses are poisonous. Now, to
+understand a poison thoroughly, we must experiment with it on the animal.
+Simpson administered chloroform to men only after Flourens had determined
+its anaesthesic properties on animals. Liebreich, after he discovered
+chloral, studied its physiological properties on animals, and only after
+long and learned studies was he able to give it a place in human
+therapeutics. At the present day, chloral is one of the most extensively
+used medicines, one which has relieved innumerable patients. When I carried
+out my research on chloralose, before studying its effects on myself, I
+began by giving it to cats and fowls. I was ignorant of the degree of toxic
+power of this new, still unknown substance, and, at the risk of appearing
+very pusillanimous, I did not wish to begin on myself; I preferred trying
+it on a fowl. Not that I estimate my life very highly, but after all,
+however low an estimate I may place on my own life, I think it is worth
+more than that of a fowl. Many other medicines have been thus experimented
+with on animals before it was possible to ascertain their effects on man.
+Kocher discovered cocaine, Knorr antipyrine; and these two admirable
+medicines did not find their way into therapeutics until their mode of
+action and their toxic power had been ascertained on animals.
+
+In a word, the whole of present-day therapeutics has for foundation, not
+only ancient clinical observation, which it would be supremely foolish to
+disdain, but also the experiments of modern times, which it would be
+equally foolish to proscribe.
+
+Perhaps certain people imagine that there are no therapeutics, and that we
+can replace by auto-suggestion, prayer, or hypnotisation, everything which
+doctors generally use to cure or allay disease. It is difficult to reply to
+such objections, because those who make them have never opened a work of
+science nor seen a patient. They see things as they wish to see them. They
+imagine that the exterior world is constructed according to their interior
+vision, and they do not deign to come into contact with reality. They
+believe that enthusiasm can supply the place of instruction, and that a
+certain doubtful generosity can replace profound and patient study. They
+maintain perhaps that chloral does not make one sleep, that salicylate of
+soda does not alleviate rheumatic pains, that bromide of potassium does not
+check attacks of epilepsy. Perhaps they will even continue to say so for a
+long time to come. Let them talk; progress will be made without them.
+
+    _Les chiens aboient et la caravane passe._
+
+FOOTNOTES:
+
+[7] See footnote, p. 17.
+
+[8] These statistics can be found in all technical works; and I refer those
+who may be curious to study them in detail to the special memoirs and
+excellent treatises on pathology which have been published in England,
+France, and Germany.
+
+See also appendix.
+
+
+
+
+CHAPTER V
+
+SERVICES RENDERED TO SCIENCE AND HUMANITY BY EXPERIMENTAL PHYSIOLOGY
+
+
+I now come to a favourite theme of anti-vivisectionists, viz., that
+experimental physiology has produced nothing, and that the differences of
+opinion among _savants_ are so considerable that this alone proves the
+impossibility of vivisection ever establishing anything permanent.
+
+Here again it is difficult to reply because of the very ignorance of the
+honourable gentlemen who criticise us. Most certainly there still remain
+many disputed and disputable points in physiology, and nothing is easier
+than to find therein striking and abundant contradictions. If we wished to
+amuse ourselves, we might write five or six big volumes on the subject; but
+let us leave this tedious and useless labour to the anti-vivisectionists to
+accomplish to their hearts' content. I prefer to tell them, what they do
+not wish to know perhaps, that contradiction is the very essence of
+science. As our demonstrations appeal not to faith but to reason; as we
+admit free discussion, free investigation from every side; any proposition
+must have multitudinous and positive proofs in its favour before it can be
+adopted without hesitation. Even our opinions were never prescribed by
+faith or violence; we take pleasure in provoking discussion and
+contradiction. With our adversaries' leave be it said that a dogmatic,
+irreproachable book, where there was no place for hesitation or doubt,
+would be the very negation of science. Even the treatises of geometry and
+mechanics, although non-experimental, rational sciences, sometimes
+contradict themselves. It has been rightly said that the history of science
+is the history of human errors--errors which, little by little, draw nearer
+and nearer to supreme truth without ever attaining it. We must understand
+this, or we shall be rebelling against the conception of scientific truth.
+
+Now, in treatises on physiology, we find a number of well-demonstrated
+truths, and a still larger number of truths only half demonstrated, and,
+consequently, contested. Our successors will also certainly find in our
+books of to-day an enormous number of errors.
+
+What conclusion is to be drawn from this fact? Have those who reproach the
+science of physiology with being only a tissue of contradictions and errors
+ever opened a book on physiology (for example, the text-book of Schaefer,
+in two large, compact, closely written volumes of 1000 pages each)? They
+would there find thousands of positive, incontestable facts on all the
+questions which concern physiology.
+
+Let us take, each in its turn, the great functions of life, and we shall
+see that they have become known only by experimentation.
+
+1. _The Circulation of the Blood_, suspected by Michel Servet, Realdo
+Colombo, and Andreas Cesalpin, was really established by Harvey in 1628.
+
+Yet Harvey was only able to demonstrate it by experiments performed on the
+living bodies of frogs and deer. Since Harvey's time, the laws of the
+circulation have been established with admirable precision. Hales
+demonstrated the pressure of blood in the vessels. Chauveau and Marey
+introduced into the heart of a horse an apparatus which enabled the
+pressure of the blood in the heart, in the arteries, and in the veins, to
+be measured. Weber found that the pneumogastric nerve stopped the heart's
+action. Ludwig applied the graphic method to the circulation. Delicate
+instruments have been constructed which give diagrams of the pulsations and
+measure the pressure of the blood in the arteries and in the heart of man.
+Claude Bernard discovered the nerves which regulate the movements of the
+vessel walls. In short, the whole history of the circulation is due solely
+to vivisections, and it would be ridiculous to speak of our uncertainties
+in this respect; for the essential mechanical or nervous laws of the
+circulation are as well known now as those of the combinations of nitrogen
+with oxygen.
+
+2. _The Respiration_ remained profoundly unknown, as to its inmost nature,
+right up to Lavoisier's time. Lavoisier placed some guinea-pigs in a box
+filled with ice, measured the quantity of heat thrown off, the quantity of
+oxygen consumed, the quantity of carbonic acid produced; and he was thus
+able to deduce a fundamental law of life, viz., that life is essentially
+combustion. He made experiments on himself also; but however great one's
+respect for the life of a guinea-pig may be, must it be considered wrong
+that Lavoisier should have experimented on the guinea-pig before
+experimenting on himself?
+
+As for the laws which regulate this consumption of oxygen and this
+production of carbonic acid, to discover these it was necessary to put into
+cages animals of every species and of every size. And there is, perhaps,
+not a single physiologist who has not made this experiment, at the risk of
+annoying the cats and dogs thus exposed--without, as far as that goes,
+doing them any harm--to varied temperatures or to different diets.
+Moreover, in order to study the respiratory exchanges, physiologists
+experiment on man as well; is, therefore, the extraordinary scruple against
+experimenting on animals to be imposed upon them also?
+
+To take an excellent example of the services which experimental physiology
+can render not to science only--which would, indeed, be quite sufficient
+to justify them--but to humanity, I will cite the experiments of Paul Bert
+with relation to elevated atmospheric pressures. There are certain workmen
+who are obliged to work under water, at a depth of 20 to 30 yards, for the
+construction of piers and bridges, or the exploration of sunken vessels.
+Now, it had long been observed that some of these men died suddenly on
+returning to the surface. Experimental physiology was able to discover the
+cause of that sudden death. When a man (or an animal), after having been
+subjected to several times the normal atmospheric pressure, is suddenly
+released from this pressure, the nitrogen dissolved in the blood is
+disengaged suddenly: this produces gaseous embolism, that is to say,
+bubbles of gas are formed, which block the blood-vessels and prevent the
+blood circulating in the capillaries. Knowing this, the death of men
+working at a pressure of four atmospheres could then be avoided by
+releasing them slowly, that is by bringing them slowly back to the normal
+atmospheric pressure. Is it barbarous to attach more importance to the
+death of these men than to the death of the few dogs and mice that served
+to establish this law?
+
+I was able to demonstrate that, if the temperature of the air is very high,
+as in the hottest days of summer, dogs that are muzzled die rapidly of
+hyperpyrexia (_i.e._ high fever), for they are no longer able to cool
+themselves by panting. It is true that this experiment cost the lives of a
+few dogs, but has it not saved many others by pointing out that dogs should
+not be muzzled under certain conditions? It goes without saying I am not
+speaking of the theoretical consequences of this experiment.
+
+Artificial respiration, which can restore to life the apparently drowned,
+is one, of the conquests of experimental physiology; for we have been able
+to determine the best method and the essential conditions (for artificial
+breathing) by experiments of a very precise nature. Is it nothing to know
+how to restore to life the apparently drowned?
+
+3. _The Process of Digestion_ has also been learned solely by experiment.
+In the history of science there are two or three cases of individuals in
+whom a wound or an operation has produced a gastric fistula, that is to say
+an abdominal opening through which the stomach can be reached and food
+introduced. Had we remained satisfied with these accidental observations,
+we should have obtained but mediocre results. Physiologists therefore have
+made experimental gastric fistulae. Dogs thus operated on, after an illness
+of a few days, recover thoroughly. Some physiologists have kept dogs for
+several years in this condition: gay, caressing, docile, they did not
+appear to complain of their lot. They were better nourished, more petted
+and loved than the many starving dogs which roam about the country. They
+were not a whit more unhappy than was Alexis St Martin (observed in 1831 by
+Dr Beaumont) and Marcellin (whom I observed in 1878, at the beginning of my
+career). Quite recently an eminent Russian physiologist, Pawloff, has, by
+making gastric fistulae in animals, been able to discover a number of
+important facts, absolutely necessary to be known for the treatment of
+diseases of the stomach, and even for the establishment of a normal
+alimentation.
+
+The problem of alimentation is, indeed, one of the most essential, perhaps
+the most essential, in the history of humanity. I suppose that
+anti-vivisectionists are aware of the fact that, even in Europe, large
+populations exist who are insufficiently nourished. Under these conditions,
+is it not desirable to know exactly the quantities of carbon, nitrogen,
+salt, lime, and phosphorus which are necessary for animals, and
+consequently for man? Should not anti-vivisectionists, interested in
+vegetarianism, before venturing to institute a vegetable diet for man, try
+it first of all upon carnivorous animals, so as to know how a mixed
+alimentation can be modified by a vegetable alimentation, and to what
+extent those modifications are compatible with health?
+
+4. _The Nervous System_ is not so well known, so far as its functions are
+concerned, as the circulatory system or the digestive system. Nevertheless,
+positive discoveries are extremely numerous: the action of the nerves on
+the glands and on the muscles; the part played by the different portions
+of the brain; nervous degenerations; the laws governing reflex actions--all
+this constitutes a formidable body of well-established facts. I do not
+pretend that everything is known. Alas! No! There are still innumerable
+truths to be discovered, and serious errors are doubtless most learnedly
+taught, with many contradictions, much uncertainty, much confusion--all of
+which simply proves that physiology is not a science whose last chapter has
+yet been written, that the last word of this science has not yet been
+pronounced. Nevertheless, blind indeed would the man be who would venture
+to conclude that physiology was not a science; or to assert that physiology
+is a science of little importance; that the role of the physiologist, from
+the point of view of the alleviation of human miseries, is null; and that
+knowledge of physiological facts is useless. Will it be claimed that the
+doctor has no need of a knowledge of physiology? I will reply by a
+comparison I am accustomed to make before my medical students when I wish
+to make them understand the necessity of a sound physiological education.
+
+Let us suppose that a watchmaker claimed to be able to cure disordered
+watches, but at the same time declared himself unable to tell by what
+springs and by what mysterious mechanism a healthy watch should mark the
+hour; that watchmaker would inspire me with a very small amount of
+confidence, and I would not go to him; for, until the contrary is proved to
+me, I believe that an indispensable condition for repairing a watch when
+out of order is to know how a watch should work when in good repair.
+
+Physiology exists only because there have been physiologists. By that I do
+not mean to say that all the truths of physiology are due exclusively to
+vivisection. I only claim that physiology without vivisection would be
+strangely clumsy, limited to a few empirical facts, and that, if
+vivisection be proscribed, we must resolutely give up classing physiology
+among the sciences. We may study the stars and the earth, electricity and
+heat, geography and history, and are we to be forbidden to study the
+functions of living matter? Such a proposal is obviously absurd, for of all
+the sciences accessible to man, physiology is that which is nearest to
+him.
+
+It is only the ignorant who dare assert that experimentation on animals
+cannot be applied to man. There are of course differences which
+physiologists train themselves to perceive; for example, certain poisons
+are almost innocuous to some animals, and are very fatal to man. The
+alkaloid of belladonna, atropine, is a thousand times more toxic for a man
+than for a goat. It is difficult to kill a goat with morphia, whilst a drop
+of laudanum kills a new-born babe. Carbonic oxide is absolutely harmless
+for the invertebrata which have no blood. Crayfish and snails live with
+impunity in pure oxide of carbon. And I could cite a number of other facts
+which are described in detail in every treatise of physiology or
+pharmacology.
+
+But what does it matter to us if we know it?--and we can nearly always know
+it. There are functional differences between men and animals; and
+physiologists know these perfectly well by their training; but there are,
+above all things, much more striking resemblances. It would be, for
+instance, ridiculous to suppose that oxygen did not dissolve in our blood
+in about the same way in which it dissolves in the blood of a cat or a
+rabbit; that the pneumogastric nerve, which stops the heart of the cat and
+the rabbit, will not stop the heart of man; that the arterial pressure,
+which is 16 c.m. of mercury in the horse, the dog, and the cat, is 1 c.m.
+or 1.60 c.m. in man; that the transformation of albuminous matters into
+urea takes place differently in the dog and in man. On the contrary,
+everything goes to prove the general laws are the same, and that the
+physiology of man, whilst not rigorously identical in every respect with
+the physiology of the animal, is nevertheless sufficiently analogous to
+enable a _general physiology_ to comprise in its vast laws the functions of
+every living being, man, mammal, vertebrata, invertebrata, and even every
+living cell.
+
+
+
+
+CHAPTER VI
+
+MORALITY AND VIVISECTION
+
+
+If we took the assertions of anti-vivisectionists literally, we should
+arrive at the strange conclusion, that the victims of vivisection are
+immensely numerous, and that vivisection is one of the calamities of the
+century. As a matter of fact, the number of victims due to physiology is
+very low. Let us try to count them up.
+
+There are only about twenty laboratories in France where experiments on
+animals are made. Let us allow that there are twenty in England, twenty in
+Italy, forty in Germany, and fifty in other countries, making a total of
+150 laboratories. If we suppose that a dog, a cat, and a rabbit are
+sacrificed every day in each of these laboratories, we should certainly
+exaggerate.
+
+Let us suppose, nevertheless, that it is so; and let us even admit five
+victims a day, with 300 working days in the year, which is also an evident
+exaggeration: this will make about 200,000 victims a year. This number,
+which seems very considerable, is in reality very small, if we put it
+against the enormous number of living beings. Probably about two thousand
+millions of mammals die every year, so that the proportion of animals that
+suffer a little (and very little) through the act of man in his search for
+knowledge is one in 10,000, in other words, a negligible quantity.
+
+In the immense earthly universe are thousands and thousands of pains, of
+fierce, incessant struggles between living animals. Every rock in the
+ocean, every tree in the forest, shelters ferocious combats, and is the
+constant scene of painful death-agonies. Darwin has admirably shown that
+life is a struggle for life, that the weak are crushed by the strong, and
+that the voice of living nature is a cry of distress rather than a hymn of
+joy. Therefore, in this universal concert of animal pain and of human pain,
+the slight pain of animals experimented upon is a little thing, and from
+an absolute point of view we have the right to disregard it.
+
+Think well over it all for a moment. By giving an experimental disease to a
+rabbit, for example, I scarcely change its lot. If I had left it to itself,
+in one, two, or perhaps three years it would have been attacked by another
+disease, probably more cruel than the tuberculosis with which I infected
+it. The lot of dogs which die of old age is scarcely enviable. How many
+poor old dogs have I seen, impotent from rheumatism, completely blind, no
+longer able to crawl about, covered with disgusting ulcers, seeming to beg
+for the finishing stroke which would put an end to their misery! And old,
+worn-out horses! What a spectacle! This residuum of existence of old
+animals is truly pitiable, and, taking everything into consideration, it is
+not an enormous dose of happiness we have left them in not sacrificing them
+when they were young.
+
+But I shall not dwell upon this argument, for it might also be applied to
+human beings. The Greeks said: "Happy are they who die young, for they are
+beloved of the gods." Perhaps some day human ethics will allow us to spare
+our dear ones the cruel and useless sufferings of old age! I know not. But
+what I do know is that it is not inhuman to sacrifice an old horse or an
+old dog in order to save it from going through all the tortures which old
+age and disease hold in reserve for him.
+
+In any case, the sufferings produced by physiologists who inoculate
+diseases into animals weigh very little in comparison with natural
+suffering, not only because the suffering of animals is always more or less
+immersed in the nihilism of semi-consciousness, but also because these
+experimental sufferings are less than natural sufferings, and extend over a
+very small number of victims.
+
+_But the question does not lie there._ The point is not whether the
+suffering of animals be a large or small quantity in nature from an
+absolute standpoint; the question is a higher one: we must ask ourselves if
+the fact of inflicting pain is compatible with human morality.
+
+Tolstoi says somewhere that the sciences are nothing, that art is nothing,
+that the true science is that of good and evil, of justice and injustice.
+Everything sinks into insignificance in presence of this great duty, or
+rather life has no other object. We should be entirely engrossed in doing
+good; justice should be our sole preoccupation.
+
+If, then, from an absolute point of view the suffering of frogs and rabbits
+does not count, it counts a lot from the point of view of human morality.
+If a bad child should martyrise a toad, it is not the toad which would
+interest me: poor creature of diffused consciousness, ignorant even of its
+own pain, such a tiny pain, too, in comparison with the immense pains which
+the beings of this great universe are suffering at this moment! No; the
+toad would scarcely exist for me. The child would interest me greatly; and
+all my pity would be turned upon that cruel child. My efforts would tend
+much less towards preventing the toad from suffering than towards
+preventing that human being from becoming a barbarian.
+
+If the anti-vivisectionists were true moralists and not fanatics they would
+say: "To provoke suffering to produce disease, to inflict tortures, is an
+execrable moral lesson. Whilst the first duty of man is to be good, you
+instruct young men to be wicked. The doctor, who ought to be compassionate
+for human suffering, should not serve his apprenticeship in that noble
+profession by showing himself devoid of pity for the suffering of innocent
+victims. A civilisation which allows itself to inflict death and torture on
+living beings can be only a barbarous civilisation."
+
+I recognise the force of that argument. And whilst not a single one of the
+preceding assertions of the anti-vivisectionists had succeeded in moving
+me, I confess that this objection of human morality is a most powerful one.
+I am nevertheless going to try to show that it is not admissible.
+
+And first of all, because there is in this world much suffering, human
+suffering, which it is more important to allay than that of the victims of
+vivisection. If our sole care were that of morality, what battles would we
+not have to fight! There are thousands of people in India who die of
+hunger; and throughout Asia whole populations perish of disease which a
+little hygiene could prevent. The hunger-evil is rife in Russia; most of
+the peasants in Sicily also never know what it is to satisfy their hunger.
+The misery of children is lamentable everywhere: in our large cities,
+Paris, Berlin, London, it is not exceptional, alas! to come across people
+dying of hunger. The terribly high rate of mortality among children less
+than a year old is due to hunger and to hunger alone. In Europe two million
+children, under one year of age, die every year solely because their
+parents are plunged in misery, because the mother, instead of nursing her
+child, is forced to work, to earn her living at manual labour, which dries
+up her milk. _These two million children who die of hunger are the disgrace
+of our civilisation._ And yet we continue to live in luxury, we look on
+calmly and indifferently at the agony of our human brothers, an agony which
+we could easily alleviate. For my part, willingly shall I allow myself to
+be melted with pity at the sight of tuberculous rabbits when I see those
+persons who champion these same rabbits, develop within themselves some
+pity for human suffering, a pity grown so deep, so powerful, that they
+devote their entire fortune towards rescuing their brethren from death
+through hunger.
+
+There is not only famine and want. There are many other social scourges;
+and these scourges are much more serious than vivisection can ever become.
+There is alcoholism, prostitution, war. And I have no need to say that
+alcoholism is an evil, that prostitution is an evil, that war is an evil.
+When human morality has been developed to such a pitch that man will no
+longer be able to look on these great social miseries without horror, it
+will be time enough perhaps to ask if it be permissible to seek for truth
+at the expense of a little animal suffering. But until then I have the
+right to stigmatise as hypocrisy all that immense pity which certain people
+profess for dogs, side by side with their immense heedlessness, which they
+do not fear to display, towards the fate of so many unfortunate human
+beings.
+
+If anti-vivisectionists were animated by a great desire for morality, they
+would endeavour to reform our social condition, which is abominable and
+full of horrors; they would strive to impart into youth other notions than
+that of smug satisfaction with the present social conditions. As long as we
+have not faced the profound evils which gnaw at the root of our social
+system, as long as we take a delight in the egotistical satisfaction of our
+capitalist and martial society, it is not permissible, if we would not be
+accused of scandalous hypocrisy, to affect pretensions to morality.
+
+Even from the very exclusive and rather paltry point of view of animals'
+rights, are there not among anti-vivisectionists those of social position
+who make no scruple in amusing themselves by fishing and hunting? In this
+case they kill, they martyrise, not to conquer new truths, but for their
+amusement and recreation.
+
+The hunter who fires at a hare sends after the wounded animal a savage dog,
+trained to fierceness for this pursuit, and he looks on at the chase with
+delight. The angler who has hooked a fish feels a pleasurable emotion when
+he holds in the palm of his hand the struggling, writhing being. Elegant
+sportsmen aim at pigeons to give proofs of their dexterity. A large number
+of victims do not die on the spot, but, with wounded wing, or chest
+pierced with lead, creep away to die in agony in the neighbouring woods.
+Quite a large gathering of fashionable young women and distinguished young
+men follow on horseback the tortures of a wretched stag pursued by a
+furious pack of hounds. And, finally, the entire population of a large city
+(Seville or Madrid, San Sebastian or Valencia), men and women, old and
+young, go crazy with delight at the hideous spectacle of a noble bull
+disembowelling horses, tormented by the picadors, and finally succumbing,
+exhausted, done to death by his cowardly enemies. There are sights for you!
+there are amusements for you if you like, which reflect scant honour on
+human ethics; and well do I understand generous-hearted men and women
+forming societies to combat war, alcoholism, prostitution, distributing
+their wealth among the starving populations, also turning their energies
+against hunting, angling, pigeon-shooting, and bullfights. It is a noble
+programme of life which they have drawn up for themselves, and such people
+merit our highest admiration.
+
+Societies for the prevention of cruelty to animals are admirable and
+irreproachable when they defend animals against human savagery: for
+example, when they prevent carters from lashing into ribbons the skin of
+the miserable horses under their charge; or when they put down the practice
+of harnessing a horse to a cart too heavily loaded; or when they interdict
+cock-fighting and bull-baiting. I will even point out to these same
+societies, so enamoured of animals' rights, a new kind of protection of
+quite a special nature.
+
+There exist a number of species of animals which, hunted and hemmed in by
+man, are on the point of extinction. How many, alas! have for ever
+disappeared; and no human power will ever be able to bring back to life an
+animal species once extinct.
+
+It is a great pity; for these charming forms, the joy of the eyes, provided
+with curious and delicate instincts, have been annihilated for ever. I will
+give some examples to show to what an extent it is necessary for man to
+protect the animal against man himself. Man has the taste for devastation;
+and when he is excited, either by the fury of the hunt or the bait of gain,
+he does not hesitate to make many victims without asking himself if these
+furious ravages will not find their consummation in the destruction of an
+entire race of animals.
+
+Already in the Polar regions, some fine species of animals have
+disappeared. The great auk (extinct since 1844) exists no longer. One
+species of walrus has also disappeared.
+
+The seal is on the road to extinction; fishermen have indulged in such
+orgies of destruction that international measures have had to be taken to
+prevent the total destruction of the species. And indeed be it not
+forgotten that if the Governments of England and of the United States have
+made regulations restricting the massacre of seals, it is not by any means
+in order to stem the tide of destruction of an animal species interesting
+in itself, but solely because such destruction would put an end to a source
+of very considerable commercial profit.
+
+A hundred years ago, whales were so abundant that 30,000 fishermen earned
+their living by whale-hunting. Now, our means of warfare against the
+cetacea have become so effective that whales can no longer defend
+themselves, and their number is decreasing every day to such an extent that
+we can almost foretell the moment when the whale will have ceased to exist.
+
+In America, vast regions were overrun by immense herds of bisons. They have
+been massacred with such mad and blind ardour that if the Government had
+not finally taken some tardy and insufficient measures of precaution, the
+bison would be extinct too.
+
+Aurochs, elks, chamois, bears have almost disappeared, whereas a century
+ago they were widely diffused in Europe. In proportion as man takes
+possession of the earth to cultivate it, he kills off every wild species
+and replaces them by domestic species where race loses its value. If this
+goes on, a time will come, unfortunately, when all-powerful man, having
+given himself up to the thoughtless destruction of everything not of
+immediate use to him, will have wiped off the face of the earth all save
+domestic animals. There will be hens, ducks, geese, turkeys, and
+guinea-fowls, sheep, oxen, donkeys, horses, cows. Perhaps for the pleasure
+of hunting, a few deer and a few hares will be preserved; but all wild
+species which cannot be reproduced in captivity will have disappeared, will
+no longer be there to delight our gaze. In France, the small birds are
+destroyed in rank fury, and every measure taken to protect them is
+inefficacious, thanks to the rage for destruction among the inhabitants.
+Asia and Africa once upon a time--when almost unknown and unexplored by
+Europeans--sheltered many a noble animal species to-day well-nigh extinct,
+and which, if strict measures of precaution be not speedily taken, will
+soon have disappeared for ever. The large monkeys, the ostrich, the
+giraffe, and especially the elephant, shun the haunts of man, for man is
+their ruthless enemy. It looks as though a hundred years hence, not one
+will be left.
+
+It is not without sadness we think of that future civilisation, a brilliant
+one perhaps from several points of view, but monotonous and tame, as it
+will no longer possess this marvellous variety of different animal species
+which is as one of the smiles of nature. A pitiable uniformity will replace
+the varied forms which natural selection has taken thousands of years to
+bring forth; and then perhaps some tardy poet, in contemplation before the
+vast sheepfolds and poultry farms, where man will cultivate the species of
+use to him, will regret those far-off days when birds of all kinds sang in
+the forests, blending their gambols with those of the graceful animals
+which human civilisation will have annihilated.
+
+There, I fancy, is a fertile subject for meditation, and interesting
+initiative for all those who have at heart the rights of animals, and, if I
+may express myself thus, the future of animality.
+
+But the sight of a vivisection, the preparation of a laboratory experiment
+cannot be compared with the stupid and mischievous pleasures of angling and
+hunting. It is not a question of amusing oneself, of killing time, of
+diversion, of finding in the sight of blood or pain a recreation for
+boredom. It is quite another motive which animates the _savant_. He has
+ever before his mind the thought that his efforts are going to bring a
+little alleviation to the great sum of human suffering. If he inoculates a
+rabbit with tuberculosis, he cannot help thinking of all the wretched
+consumptives who are at that moment in the throes of death. He knows well
+that each time he discovers even only a particle of truth, that little bit
+of new truth is going to bring in its train some consequence which will
+bear fruit in the healing of suffering mankind.
+
+It is with no light-heartedness that the physiologist causes the blood to
+flow, inoculates disease, injects poisons. I know the thought which
+animates my friends and my colleagues when they make their experiments: it
+is never without the most profound pity that we dare to take a healthy,
+gay, confiding animal, and give him chloroform, or inject a poison into
+him. This respect for pain, far from decreasing with age, on the contrary
+goes on increasing. Just as the doctor as he grows older becomes more and
+more sensitive to the sight of human suffering, so the physiologist who has
+performed many experiments understands more and more thoroughly the
+seriousness of pain. He feels all the weight of it: he has a greater
+responsibility. His morality has become higher and higher, his sensibility
+has increased. Often he repeats to himself this line of Virgil's:--
+
+    "_Non ignara mali miseris succurrere disco._"
+
+    (Knowing misfortune, I teach the succour of the wretched.)
+
+It would, therefore, be altogether unjust to reproach the experimenter with
+barbarism or inhumanity; for more than any one else does he possess the
+sentiment of the immense misfortunes of humanity, and if he resigns himself
+to experimentation, it is because he sees behind his experiment an
+alleviation of the sufferings of both man and beast.
+
+It is related that, in one of the great battles of the last century, a
+general, in order to protect the retreat of his army, was obliged to send a
+squadron of cavalry to make a hopeless charge upon the enemy's infantry.
+This meant sending those brave fellows to certain death. Yet he did not
+hesitate; and with tears in his eyes he gave the order to charge,
+convinced, as every general should be, that it is sometimes necessary to
+sacrifice a few human lives for the salvation of the army, for the
+salvation of the country.
+
+Well, then! We consider ourselves as soldiers waging battle against the
+blind, malefic forces of nature. On certain days, so as to triumph over
+disease and ignorance, we must sacrifice a few victims. Then we do not
+hesitate, and it is our duty not to hesitate.
+
+It even seems to me that those men who pass their lives in nauseous rooms,
+amidst poison and virus, receiving no other recompense for long labours
+than the satisfaction of duty accomplished, merit the esteem and respect of
+every one. They seek neither wealth nor honours. It is not in the
+laboratories of physiology that a man grows rich. It is not in the
+laboratories of physiology that man wins high social positions. But what
+matter! He has used his life to alleviate the sufferings of others. He has
+had ever before him another ideal than that of the anti-vivisectionists,
+the ideal of human suffering, which is much more to be respected than
+animal suffering in spite of all empty words and phrases.
+
+Therefore, when we speak of vivisection or of experimentation before young
+men, we must not be taxed with immorality; because work, the search for
+truth, pity for the misfortunes of man, pity also for the unfortunate
+animals--these I think are subjects which should ennoble the minds of the
+young men who listen to us.
+
+
+
+
+CHAPTER VII
+
+ARE LAWS REGULATING VIVISECTION NECESSARY?
+
+
+We will now briefly consider an interesting and highly practical side of
+the question. In certain countries, as in England, there are laws
+regulating vivisection. In other countries, as in France, Germany, and
+Italy, there is nothing analogous; consequently public opinion on this
+point is uncertain.
+
+In the beginning of this book, I acknowledged that, in spite of the
+exaggeration of their complaints, anti-vivisectionists had rendered real
+service to general morality by calling attention to the excesses committed
+by a few vivisectionists in the past. No one recognises this benefit more
+than I, and I willingly grant that their preaching has, on the whole, had a
+happy result. Is it however, expedient to go further, and to prohibit or
+simply to regulate vivisection?
+
+For reasons given above, it seems to me that prohibition would be absurd
+and injurious, as well in the land of Harvey and Hunter as in the lands of
+Bernard and Pasteur, of Galvani and Spallanzani, of Johannes Mueller and
+Helmholtz. Prohibition would mean closing the book of science, stemming all
+progress, condemning humanity eternally to the same miseries, to writhe,
+powerless, in the same old track. Fortunately, no one thinks seriously of
+suppressing physiological experimentation; and, therefore, we have no need
+to dwell on this point.
+
+But regulation is quite a different thing from prohibition. Now, I showed
+that certain practices should be condemned. Should they, however, be
+condemned by law? Why should the law be substituted for the exigencies of
+science? Here is a physiologist, fully conscious of the magnitude of his
+task, to whom the government or a university has confided the direction of
+a laboratory, who finds himself face to face with a problem needing to be
+solved. It is impossible to limit his efforts and to lay down principles
+from which he could not turn aside. Just as he is referred to for the
+purchase of his instruments and the nomination of his staff, so must he be
+left full latitude in the arrangement of his experiments. Nothing is so
+pernicious in matters of science as official regulation; it takes away all
+initiative, and does not allow the genius of the inventor to have full
+play.
+
+As a matter of fact, even in England, the only country where up to the
+present the conditions of vivisection have been regulated by law, no one
+has ventured to confine the initiative of the experimenter within narrow
+regulations. And it is fortunate that no one has ventured to define the
+limits of experimental investigation, for most excellent work is due to
+contemporary English Physiologists--Schaefer, Horsley, Sherrington, Langley,
+Bayliss, Starling, Stirling, etc. They have been able to pursue their
+researches freely, to the very great advantage of our science.
+
+One should not, then, think of prohibiting such or such a proceeding in
+vivisection. It may even be dangerous to absolutely prohibit vivisections
+without anaesthesia. I make no mystery of my opinion on this point, since I
+have distinctly declared further back that no sensitive animal should ever
+be operated upon. I regard as a moral error all vivisection made on an
+animal capable of suffering. But I would leave the physiologist to be the
+judge in the matter. I do not believe the law should take his place; for
+perhaps cases will occur where anaesthesia is impossible, and he cannot be
+placed under the hard alternative of not making an experiment which his
+conscience as a _savant_ judges to be useful, or of disobeying the law.
+
+Moreover, how are the many possible conditions of an experiment to be
+precisely laid down? Is the law to indicate the kind of anaesthetic to be
+used, and the degree of anaesthesia to be attained? Is it to prohibit all
+experiments on toxic actions? Many insoluble difficulties would be
+encountered, the sole result of which would be to paralyse the _savant_ in
+his researches or to cause him to break the laws of his country.
+
+And yet I recognise that regulation is indispensable, but it ought not to
+bear on the nature of the experiment; it should deal solely with the
+person experimenting.
+
+I believe the right of practising vivisection should not be accorded to
+every citizen, to every medical student; it should not be permissible for
+any chance person to take a dog, to fasten him down on the operating table,
+and to experiment on the brain, the glands, the muscles of that unfortunate
+animal, for that chance person is, in all probability, a clumsy and
+ignorant man. Vivisection may not be undertaken in a light-hearted fashion.
+After all, science would lose nothing if such an experiment were not made,
+and I see no advantage in encouraging attempts of this sort which are
+condemned beforehand to be fruitless.
+
+But in a laboratory of physiology, under the direction of the professor and
+his assistants, under their moral responsibility, vivisection should not be
+prohibited; the number of vivisections should not be limited, and no
+restrictions ought to be imposed.
+
+As I have no intention of formulating or drawing up regulations or enacting
+laws, I shall not indicate the penalties to which those who violate the
+law should be liable. I shall content myself with enunciating this double
+principle: entire liberty in vivisection for professors of physiology and
+their assistants; prohibition of vivisection for all others.
+
+
+
+
+CHAPTER VIII
+
+VIVISECTION AND THE FUTURE OF SCIENCE
+
+
+Let us now leave the opinions of anti-vivisectionists, and carry the
+problem on to higher ground. Let us see what are the rights of man in
+Nature, and what is the purpose of human life.
+
+Amidst all the unsettled and contradictory theories accumulated by
+philosophers, thinkers and founders of religion, there remains scarcely any
+fixed and immutable theory save that of one dominating principle: The
+respect and love of our brothers in humanity. All else is contestable and
+contested. Though we are unable to demonstrate it formally, there is one
+universal moral law (the great Categorical Imperative of Kant) which
+commands us to be just and beneficent to our fellow-creatures. All the most
+subtle sophisms will never be able to persuade me that I ought not, above
+all things, to feel solicitude for the lives and happiness of men.
+
+I willingly admit that beside man there is the animal, _our inferior
+brother_ as it has been ingeniously called, so that we have also our duties
+towards these inferior brothers. But _this must never be to the detriment
+of our real brothers_. It seems to me insane to consider the life of a cat
+of more account than that of a man; the pain of a dog than that of a child.
+All the more so because living matter, if I may use that expression,
+possesses varying degrees of perfection; from the sea-weed up to man there
+are successive stages of living forms which constitute an uninterrupted
+chain ending in its final phase, which is man.
+
+Man, by his power of thought, and consequently of suffering, by the
+conception which he is able to make of the non-self, by his faculties of
+abstraction and the notion of good and evil, is vastly superior to every
+other living being. So that, for respecting, defending and loving men, I
+have not only the reason that man is my brother, but also that this brother
+is superior to every other living thing.
+
+That is why a moral code must be essentially human, having for its highest
+object the happiness of other men. Every other code of morals, having in
+view a different purpose supporting itself on metaphysical lucubrations or
+haunted by puerile anxieties, such as the adoration of beasts, appears to
+me to bear the stamp of fetishism. An unknown power has caused us to be
+born; we are entirely ignorant of our destinies, we know not why we were
+born, why we die, why, following in the wake of countless generations, we
+transmit the vital spark to countless succeeding generations. We know
+nothing of all that; but it matters little from the point of view of our
+duty. Duty is independent of all theory. No mere religion is necessary to
+constitute a moral code.
+
+_Homo sum, humani nihil a me alienum puto_, or rather our moral code, will
+be the religion of humanity. It does not seem to me possible to conceive of
+any other.
+
+And when we say humanity, we take that word in its largest acceptation. It
+is not a question of compatriots, nor of Europeans, nor even of humanity of
+to-day. It is also a question of the humanity of the future. We have our
+duties towards the man of to-day; but we have also our duties towards the
+man who will live in the centuries to come. We should prepare the way for a
+happier and better humanity. Our task is not limited to the present hour;
+it extends to all those human beings who will come after us. Inasmuch as we
+of to-day, at every moment of our lives, benefit from the accumulated
+services of our ancestors, so the men to come will profit by the benefits
+which we are endeavouring to prepare for them.
+
+Assuredly, Humanity will not be eternal, and Science seems to prove that a
+time will come when the sun's heat will be insufficient to develop life on
+the surface of our puny planet. A time will come when the earth will have
+cooled down and become like our pale satellite, the moon, a dead star,
+where the debris of extinct multitudinous civilisations will disappear
+under the ice. But what matter! We have not to trouble ourselves about
+those far-off times. We have to think of the man of the coming centuries,
+and, at the same time, it goes without saying, of the man of to-day.
+
+To lessen their misery, to make their existence less lamentable, to develop
+within them the sentiments of justice and brotherhood, to secure their
+moral welfare and their material welfare, that is our strict and sole duty.
+I recognise no other.
+
+Now, there is but one way open to attain this noble goal: Science. We are
+plunged in an ocean of gloom. All is dark, unknown, disturbing. We have not
+yet understood anything of the blind forces surrounding us on all sides. We
+are but feeble beings cast into the midst of sovereign powers which
+overwhelm and bear us down. Now, to avoid being completely and definitely
+crushed out of existence, it is necessary to penetrate into the nature of
+these forces. Alas! we shall never penetrate into them, for it is madness
+to think that a particle of the whole can ever fully cognise the whole; but
+we may at least demonstrate some facts, fathom some phenomena, perhaps
+trace a few of the features of certain laws. That is enough to make us
+instantly the masters of matter and not its slaves.
+
+Every new truth at once brings about an amelioration in human conditions.
+It may be said that our _happiness is made up of truth_. Let us suppose
+what is improbable, that is to say, that we have come to know all the laws
+of Nature, should we not immediately become all-powerful? Should we not be
+the sovereign masters of disease and pain, perhaps of old age and death?
+
+Such, indeed, appears to be the conviction of the human societies which
+assign a preponderating role to Science. They have understood that there is
+no better future in store for the human being than that which Science will
+bring about for him.
+
+To be able to appreciate the extent to which the man of to-day is
+materially and morally happier than the man of past ages, we have only to
+compare the present state of our civilisation with the state of past
+civilisations. We may say that an English labourer of to-day has a much
+easier existence than had an Italian prince of the fourteenth century.
+Everywhere, the progress achieved by Science has entered into the life of
+each individual. We find it in the book we read, in the electricity which
+gives us light, in the train or the steamer which carries us to the
+uttermost corners of the earth in little time and at little cost. It is the
+same thing also with medicaments, which are certainly able to lessen the
+pain of disease.
+
+Moral progress has kept pace with material progress. At the same time that
+matter has been overcome, our customs have become gentler; individual
+liberty is a sacred thing; each citizen takes part in the decisions of his
+government; there is no longer either slavery or torture or tyranny of
+conscience. In a word, the man of to-day is happier and more powerful than
+the man of bygone days.
+
+This happiness has not been acquired through any providential "miracles."
+No God came down from His Heaven to alleviate human misfortunes. It is man,
+and man alone, who, by his genius and his labours, has been able to make
+himself master of the forces which, even yesterday, held him in bondage.
+And we cannot be too grateful to our fathers for their immense and fruitful
+labours, by which they succeeded in constructing the society in the midst
+of which we live. It is still wretched enough, this society of ours,
+afflicted with crimes and horrors, the infamy of which we understand full
+well; but however wretched it may be, it is a thousand times less wretched
+than was society of yore.
+
+Therefore, this formal conclusion may at once be deduced; we must do for
+our descendants what our fathers did for us. We would be without excuse if
+we rested content to benefit from the works of our predecessors without
+ourselves also creating something, without leaving, by means of our
+personal labours, a better lot to our descendants. The man who has not
+understood this supreme duty is truly unworthy of being a man.
+
+Verily, every individual, when he has arrived at the end of his life,
+should examine his conscience and ask himself if in the humble sphere of
+his action, he has not, even he also, contributed a stone to the human
+edifice, if he has not done his share in promoting and increasing the
+forces of humanity.
+
+Since matters stand thus, since the development of Science is the
+fundamental condition of the happiness of man, we must resolutely put
+Science at the basis of every civilisation. Alas! it has not been so up to
+the present; and if we study the development of human societies, we see
+that they are above all things attracted to war. Science has had only the
+leavings. But the time has come when man should no longer believe that the
+principle of morality is man's struggle against man. That was the history
+of bye-gone times. The history of to-day, and especially the history of
+to-morrow, is the struggle of man against matter, the subjection of natural
+forces to our intelligence. And there is no other way to subjugate these
+forces than by learning to know them.
+
+Then Science will be put in the foreground. And without making any
+classification which distinguishes between the sciences, which are all
+useful, beautiful, and noble, for all contain a portion of truth, we shall
+be permitted to say that the Science of life is one of the most useful, the
+most noble, and the most beautiful.
+
+Now, the Science of life is Physiology, taking physiology in its widest
+sense, that is to say, the study of normal beings and of diseased beings.
+It is proved by innumerable facts, facts which only bad faith and ignorance
+can call into question, that our physiological knowledge is due, in a very
+large measure, to experimentation. If in thought we suppressed the
+scientific results which experimentation has conquered, we should have but
+an inferior science, within the reach of the Brahmans may be, but unworthy
+of our present scientific standing. We should know nothing of the
+circulation of the blood, nor the function of the blood corpuscles, nor the
+formation of sugar, nor the innervation of the glands, nor the
+contagiousness of disease, nor the power of poisons; we should be reduced
+to the notions of Hippocrates, we should be less advanced than Galileo, the
+first ingenious experimenter who indicated, less by his writings than by
+his experiments, that the basis of physiology, and consequently of the
+whole of pathology, is experimentation on animals.
+
+Those most sincere persons who wish to banish experimentation from Science
+are consequently, I do not fear to say it, standing in the position of
+direct contradiction to true morality. To refuse man the right to study
+living nature, is as though we declared that living nature ought not to be
+known. Alas! anti-vivisectionists will not listen. In vain do we tell them
+that we, physiologists, preserve man from disease; that we have alleviated
+the ills of our human brothers. They stop up their ears; they shut their
+eyes; they have no pity for the sufferings of human beings. It seems as
+though the tears of their brethren were profoundly indifferent to them. Is
+this a high morality? Is this a realisation of their duty as men? They
+cover with opprobrium the names of Harvey and Jenner, Bernard and Pasteur,
+Spallanzani and Helmholtz. What base ingratitude! It is these great men who
+have turned aside many excruciating sufferings from humanity; it is these
+grand men who have bestowed a better lot on so many human beings. When,
+therefore, they dare to calumniate the masters who have scattered over us
+so much beneficence, anti-vivisectionists seem to me to be not only the
+most ungrateful but even the cruellest of men.
+
+Fortunately the conquering march of Science will not be hindered. We shall
+never return to those sinister times when our great Vesalius had to forfeit
+his life for having dared to dissect a human corpse. We shall continue to
+make Science advance towards its great aim, the good of man.
+
+And this is the moment which has been chosen for striving to arrest the
+march of Science: when epidemic disease, such as the plague and cholera, is
+checked; tuberculosis half-conquered; diptheria rendered inoffensive;
+operations become almost harmless; cancer on the eve of being understood
+and subjugated! And are we to stop there? Are we not to seek to fathom the
+many problems still waiting to be solved, and on which depend the lives of
+so many human beings, and so much human happiness? Do you believe that
+Science has come to an end? Certainly we already know a great deal; but
+what we know is as nothing compared to what we do not know.
+
+An immense domain of unknown truths lies open to our activity. And we are
+able to forsee what inexpressible benefits these new truths will scatter
+over suffering humanity. Consequently, everyone, every man enamoured of
+goodness and justice, should be filled with respect for Science, and set
+all his hopes on her.
+
+At the same time, however great may be my adoration for Science, it must
+not be at the expense of human personalities, or, let us say it distinctly,
+at the expense of animal personalities, which although uncertain and
+indistinct, still merit a share, and a large share, of justice and of pity.
+
+As for human personalities, without the slightest doubt, we have not the
+right to sacrifice an innocent creature for Science. Every human being
+ought to be treated with respect, and we have not the right to kill and
+martyrise a human being even if his death and his martyrdom might serve the
+cause of Science.
+
+As for animal personalities, the question becomes much more doubtful. For
+inferior beings with indistinct consciousness, and, without a doubt
+powerless to perceive pain, no scruple should hold us back. But if it
+concerns beings nearer to ourselves, such as monkeys, cats, dogs, horses,
+all certainly capable of feeling pain, we must be chary of inflicting pain,
+and experiment only after having totally abolished in them all sensation of
+pain. But under penalty of falling into fetishism, we must not fear to use
+the life of these beings in order to prolong the life of man. Every time we
+propose to make an experiment, it is as though we put this question to
+ourselves: is this dog worth more than a man? or than a hundred men? or
+than the whole of humanity to come? Thus put, the problem bears only one
+solution: Avoid giving pain to the animal on condition that it is not at
+the cost of innumerable human pains. Moreover, it is the same here as in
+every question we may wish to investigate: Each of the two adversaries set
+out from a just principle, incontestably just. But each one pushes the just
+principle so far that he ends by transforming it into a colossal absurdity.
+
+In the present case, the anti-vivisectionists say: pain is an evil, even
+the obscure pain of the lowest animal is an evil. Now, we should do no
+evil; therefore we should not at any price inflict any pain whatsoever,
+however light it may be, on even the lowest animal. That is their
+syllogism. It cannot be replied to, for it is perfectly correct.
+
+We on our side say: The suffering of man is a sacred thing. Science casts
+aside suffering from man. Therefore we ought to sacrifice inferior beings
+to the cause of Science, that is to say to the happiness of man. There
+again lies an irreproachable syllogism.
+
+But these two syllogisms, if driven up to their ultimate conclusions, would
+lead to nonsense on the one hand and cruelty on the other. If we were to
+listen only to the friends of animals, we should not have the right to
+bleed a horse in order to save the lives of 400 children; and this
+contention would be both foolish and cruel.
+
+If we were to listen only to the friends of man, we should have the right,
+simply as dictated by our might and fancy, to cause suffering to dogs,
+cats, monkeys, all innocent and sensitive animals, under pretext that these
+tortures are capable of alleviating human pain. That also would be folly
+and cruelty.
+
+Fortunately, wisdom avoids both extremes; it fears the brutality of hard
+and fast syllogisms, which are absurd even by their very severity. Yes,
+there are the rights of man; yes, there are the rights of animals; and all
+our efforts should consist in holding an even balance between these two
+sometimes antagonistic rights. Do not let us push our reasonings to their
+logical but absurd extremes. Pre-occupation for the welfare of future
+humanity and of Science does not authorise us to be wicked and unjust
+towards the men of to-day, even towards one single man. So that,
+notwithstanding my worship of Science, I would not sacrifice human lives to
+her. And, notwithstanding all my respect for animal pain, I would look upon
+the man as supremely ridiculous, even guilty, who would not innoculate a
+microbe into a rabbit to achieve a great discovery for humanity. Wisdom,
+therefore, consists precisely in this: to know where to stop in pushing a
+reasoning to extremes. This is what physiologists have sought and are
+seeking to do.
+
+In any case, and as a last conclusion, Science ought not to be sacrificed.
+Now, the death-knell of science will have sounded when _savants_ are
+prevented from pursuing their investigations on living beings. We who, in
+full confidence, hope for a happier and better humanity, will never resign
+ourselves to closing our laboratories, to burning our books. On the
+contrary, we are determined, every one of us, to continue our hard labours
+for the great good of the men of to-day and of the generations to come.
+
+And when we speak of Science, we do not mean only the material benefits she
+scatters abroad; we think also of her power as a moral force. Material and
+moral conquests walk hand in hand. Science is the basis of the moral law.
+The universal consciousness of humanity grows greater by the acquisition of
+new truths. Each individual, by the very fact that he loves truth, has come
+to understand the moral ideal which should be ever before his eyes.
+
+And then, in a just measure, full of pity for all suffering, but placing
+the suffering of man at a higher price than the suffering of the animal, we
+shall strive to make the respect of animal suffering accord with the search
+for the splendid and indispensable and divine TRUTH.
+
+
+
+
+POST SCRIPTUM
+
+
+In the various works, notices, discourses, etc., which have been published
+upon Vivisection, generally against Vivisection, I find various erroneous
+assertions which it is important should be pointed out. I will do so
+briefly.
+
+There is, however, one assertion which appears fairly just to me. This is
+that in treatises on physiology, sufficient mention is not made of
+Vivisection, of its limits and of its abuses. At the beginning of a
+treatise on physiology, the author should distinctly declare there is
+always cruelty in vivisection conducted without chloroform or chloralose;
+the author should indicate that these anaesthetics ought to be administered
+under such or such conditions. Before initiating medical students into the
+study of life, it is also well to teach them to have respect for animal
+suffering. I would that it might be thoroughly understood that it is a
+matter of absolute necessity to operate upon the animal; and that when the
+physiologist resigns himself to this necessity he ought to perform the
+operation with sufficient humanity to prevent the animal from suffering. I
+willingly recognise that the absence of this first moral precept is a great
+gap in most treatises on physiology.
+
+This, however, is about all I can concede to anti-vivisectionists; for
+truly they indulge in such queer, extraordinary assertions that we are
+completely disconcerted. Some of these fanatics pretend, for example, that
+physiologists should practise vivisection upon themselves. To torture a dog
+is as criminal as to torture a child, according to them; and animal
+suffering is as much to be respected as human suffering! Truly such a
+paradox cannot be taken seriously; if it were admitted, evidently the
+question is settled. But it cannot be admitted, and the whole of our
+argument rests upon this principle, which appears quite evident, that
+living beings occupy different positions in the hierarchy of nature.
+
+Let us take a besieged city reduced to famine: will anyone pretend that the
+soldiers must be sacrificed before the horses, the mules, etc. Yet the case
+is exactly the same. It is in order to avoid the death of human beings
+that mice and guinea-pigs are put to death.
+
+To deny the difference in rank of living beings is to deny evidence. A frog
+is a nobler animal than a sea-urchin; a dog is a nobler animal than a frog;
+for there are degrees in the intelligence, and consequently, in the
+capacity to suffer, and in the _quality_ of suffering among the four animal
+groups: the sea-urchin, the frog, the dog, and man.
+
+Anti-vivisectionists do not admit reflex movements (which, moreover, they
+do not understand); and they bewail the dogs that Goltz and Ewald subjected
+to cerebral mutilations which took away all intellectual spontaneity and
+prevented them from eating spontaneously. But in those very dogs, precisely
+because there is no spontaneity, so there is no longer any consciousness of
+pain. They are, therefore, of all the beings in creation those which
+deserve the least commiseration; for they are protected against pain by
+that very ablation of the brain, the seat of pain.
+
+We are told that it is through cowardice, through the fear of disease, that
+vivisection is practised. But fear of disease is not cowardice. I am
+neither poltroon nor coward, but I would be very sorry to be attacked by
+tuberculosis or cancer. I do not blush to confess that it would be very
+disagreeable for me to be hanged, though hanging is much less painful than
+tuberculosis or cancer. If it were necessary to have a hanged victim, I
+would much prefer that a rabbit were taken in preference to myself; and I
+would certainly not put my own neck in the cord to save a dog from torture.
+
+The state of mind of anti-vivisectionists appears to me rather singular,
+since they are not at all afraid of disease as far as man is concerned, but
+they have great fear of it for animals. If pain is but an empty word,
+according to the celebrated phrase of Zeno, why not apply that fine maxim
+to the animal?
+
+Sir James Thornton (_The Principal Claims on behalf of Vivisection_,
+London, 1907), has endeavoured to compile a list of the contradictions to
+be found in the treatises of physiology. He could have added considerably
+to the length of this chapter, for the contradictions are innumerable;
+which only proves, not that vivisection is useless, but that it is
+difficult. What would chemists say if it were maintained that chemical
+analysis was absurd because of the contradictions between chemists? They
+would, and rightly so, continue to make analyses; for they know that
+analysis is a necessary, though an imperfect, instrument. In the same
+manner, we shall continue to practise vivisection, though we know right
+well that vivisection is an imperfect, though a necessary, instrument.
+
+In the course of a recent debate on vivisection, a voice was heard to call
+out that Lister was a brute. That "crowns" everything, and one would think
+that nothing more inept could be imagined.
+
+Alas! something more inept still has been said, and I hand over this
+prodigious and audacious assertion to the judgment of every man of heart
+and common sense. It refers to bacteriology. The author, after having said
+that microbes are not the cause of disease, takes refuge behind the opinion
+of Lawson Tait (quoted by Mona Caird, _The Inquisition of Science_, p.
+20).
+
+"Such experiments never have succeeded, never can: and they have, as in the
+cases of Koch, Pasteur, and Lister, not only hindered true progress, but
+they have covered our profession with ridicule."
+
+That is something which may well confound us, is it not? and I believe
+those great benefactors of humanity, Koch, Pasteur and Lister, may indeed
+murmur: "Forgive them; for they know not what they say."
+
+To sum up: the objections of anti-vivisectionists are irrefutable if we
+admit, (1) that man has not the right to kill an animal either in
+self-defence or for nourishment; (2) that the suffering of an animal is as
+worthy of respect as the suffering of a man; and (3) that the misery of one
+individual is as sacred as the misery of a thousand individuals. No logical
+reply can be made to these three assertions, which, according to my
+reasoning, constitute an offence against the most elementary common sense.
+But I doubt very much if we shall ever arrive at demonstrating that it is
+better to allow one hundred children to die from diphtheria rather than
+draw a little blood from a horse; or that we should practise vivisection
+on man so as to alleviate the diseases of dogs.
+
+Concerning the polemics of anti-vivisectionists as to the uselessness of
+physiology, and the contradictions of physiologists, they are nothing but a
+tissue of error and ignorance.
+
+
+
+
+APPENDIX A
+
+
+We give herewith a table showing the absolute and relative mortality due to
+diphtheria in Paris from 1872 to 1905, out of a population of 2,500,000
+inhabitants:--
+
+             ABSOLUTE.    PER 100,000 INHABITANTS.
+
+  1872         1135               61
+  1873         1164               62
+  1874         1008               52
+  1875         1328               68
+  1876         1572               79
+  1877         2393              117
+  1878         1995               95
+  1879         1783               83
+  1880         2048               94
+  1881         2211               99
+  1882         2244              100
+  1883         1781               79
+  1884         1928               86
+  1885         1655               74
+  1886         1512               67
+  1887         1585               70
+  1888         1729               74
+  1889         1706               72
+  1890         1668               70
+  1891         1361               56
+  1892         1403               58
+  1893         1266               52
+  1894         1009               41
+  1895          435               17
+  1896          444               17
+  1897          298               12
+  1898          259               10
+  1899          339               13
+  1900          294               11
+  1901          736               28
+  1902          709               26
+  1903          399               15
+  1904          260               10
+  1905          204                7
+
+Let us divide this mortality due to diphtheria into three groups (in Paris
+per 100,000 inhabitants):--
+
+     A. Before the discovery of serotherapy, from 1872 to
+     1888.
+
+     B. During the period of experimentation with
+     serotherapy, from 1889 to 1894.
+
+     C. After the generalisation of serotherapy, from 1895
+     to 1905.
+
+We have then the following averages:--
+
+                          ABSOLUTE.   PER 100,000
+  INHABITANTS.
+
+  Before serotherapy       1657           80
+  Intermediary period      1402           58
+  After serotherapy         398           15
+
+And should these figures not seem sufficiently eloquent, let us set them
+forth in another form:--
+
+                                                   ABSOLUTE MORTALITY.
+
+  Before the discovery of serotherapy, 1888                  1729
+  1st year of serotherapy,             1889                  1706
+  2nd     "       "                    1890                  1668
+  3rd     "       "                    1891                  1361
+  4th     "       "                    1892                  1463
+  5th     "       "                    1893                  1266
+  6th     "       "                    1894                  1009
+
+At this moment the practice of serotherapy, thanks to Roux, became general
+in Paris.
+
+       1st year, 1895--435.
+       2nd   "   1896--444.
+
+During the next six years there were still hesitations and uncertainties as
+to the best method to be employed.
+
+The mortality during these six years, 1897-1902--439.
+
+Then the practice was definitely established.
+
+The mortality for the three years, 1903-1905--288.
+
+These figures are so eloquent, so striking, so precise, that it is not
+possible to misunderstand them. They cannot be ignored; and when once they
+have been set forth, ignorance is no longer permissible, and it is for that
+reason we have here given them.
+
+In Berlin and in Vienna, it is the same thing. From 1894 the mortality due
+to diphtheria has diminished to the extent of 150 per cent.
+
+
+
+
+APPENDIX B
+
+BIBLIOGRAPHY
+
+
+Adams (C.). HUNTER AND THE STAG. _A reply to Prof. Owen._ (8vo, London,
+1881.)
+
+Adler (H.). ZUR FRAGE DER V. (_Wien med. Woch._, 1879, 1161, 1211, 1241.)
+
+Anstie (F. E.) THE VIVISECTION CONTROVERSY. (_Practitioner_, 1874, 38 and
+321.)
+
+Apinus (S. J.). DISS. EX JURE NATURAE: AN LICEAT BRUTORUM CORPORA MUTILARE
+ET SPECIATIM OB ES RECHT SEY DASS MAN DEN HUNDEN DIE OHREN ABSCHNEIDE,
+VARIIS OBSERVATIONIBUS AUCTA. (Altorphii Noricorum, 1722.)
+
+Basch ZUR V. FRAGE. (_Wien med. Blaetter_, 1879, 2, 73.)
+
+Beck (J. M.). THE LEGAL ASPECTS OF VIVISECTION. (_Medical News_, 1890, pp.
+280-282.)
+
+Bedtnitz (A.). DIE V. GAUKLER. (Wien, 8vo, 1883.)
+
+Berdoe (E.). THE FUTILITY OF EXPERIMENTS WITH DRUGS ON ANIMALS. (8vo,
+London, 1889.)
+
+---- THE HEALING ART AND THE CLAIMS OF VIVISECTION. (12mo, London, 1890.) A
+TRIUMPH OF VIVISECTION. (8vo, London, 1890.)
+
+Bernard (Claude). LES VIVISECTIONS. (_Union medicale_, 1865, 305-310 _et
+Revue Scientifique_, 1878, 799-802.)
+
+Bigelow (H. R.). THE PRACTICAL UTILITY OF VIVISECTION. (_Maryland Med.
+Journ._, 1880, 246-249.)
+
+Bowditch (H. P.). VIVISECTION JUSTIFIABLE. (_Sanitar. New York Journ._,
+1896, 229-243.)
+
+Bos (A.). SULLE V. (_Imparziale_, 1874, 225-231.)
+
+Brown (J. M.). VIVISECTION, A REPLY TO DR KEEN. (_J. Am. Med. Ass._, 1901,
+592.)
+
+Bryan (B.). THE BRITISH VIVISECTOR'S DIRECTORY, A BLACK BOOK FOR THE UNITED
+KINGDOM. (12mo, London, 1890.)
+
+Burt. THE ETHICS OF EXPERIMENTATION UPON LIVING ANIMALS. (Post-graduate,
+1890, 53-55.)
+
+Carpenter (W. B.). THE ETHICS OF VIVISECTION. (_Fortnightly Rev._, 1882,
+237-246.)
+
+Cejon (E. de). THE ANTI-VIVISECTIONIST AGITATION. (_Contemporary Rev._,
+1883, 498-910.)
+
+Coats. ON LUDWIG AND PASTEUR, AND ON VIVISECTION. (_Glasg. Med. Journ._,
+1895, 330-335.)
+
+Cobbe (Fr. P.). ILLUSTRATIONS OF VIVISECTION. (8vo, Philadelphia, 1887.)
+
+Cobbe (Fr.). THE MODERN RACK; PAPERS ON VIVISECTION. (8vo, London, 1889.)
+
+Cobbe (Fr. P.). VIVISECTION; FOUR REPLIES. (_Fortnightly Rev._, 1882,
+88-104, and _Contemporary Rev._, 1882, 610-626.)
+
+Coleridge (Lord). THE NINETEENTH CENTURY DEFENDERS OF VIVISECTION.
+(_Fortnightly Rev._, 1882, 225-236.)
+
+Dalton. EXPERIMENTATION ON ANIMALS. (12mo, New York, 1875.)
+
+Dalton. MAGENDIE AS A PHYSIOLOGIST. (_Internat. Rev._, 1880, 120-129.)
+
+Dalton (J. C). VIVISECTION: WHAT IT IS AND WHAT IT HAS ACCOMPLISHED.
+(_Bull. B. York Acad. med._, 1866, 159-198.)
+
+Darwin (Ch.). VIEWS ON VIVISECTION. (_Pop. Sc. Monthly_, 1881, 424; et Rev.
+Scient., 1881 (1), 731.)
+
+Davis (N. B.). THE MORAL ASPECTS OF VIVISECTION. (_North Americ. Rev._,
+1885, 203-220.)
+
+Delolm de Lalaubie. VIVISECTION, DISS. IN. (Paris, 1868.)
+
+Deswattines. SUGGESTIF PETIT TABLEAU DE LA CRUELLE ET INUTILE VIVISECTION.
+(_Medecin_, 1904, 35.)
+
+Ferguson (Sir W.). OPINIONS OF EMINENT SURGEONS, PHYSIOLOGISTS AND OTHERS,
+AS TO THE FOLLY AND MISLEADING AND DEMORALISING RESULTS OF VIVISECTION.
+(London, 1880.)
+
+Fletcher. A FEW NOTES ON CRUELTY TO ANIMALS, ON THE INADEQUACY OF PENAL
+LAW. (8vo, London, 1846.)
+
+Foreau de Courmelles. ESSAI DE LIMITATION SCIENTIFIQUE DE LA VIVISECTION.
+(_Revue med._, 1902, 481-484.)
+
+Foster (M.). VIVISECTION. (_Pop. Sc. Monthly_, 1873, pp. 672-685.)
+
+Gamgee (S.). ON VIVISECTION AND SCIENTIFIC SURGERY. (_Brit. Med. Journ._
+(2), 1876, 104.)
+
+Guetzlaw (V.). SCHOPENHAUER UeBER DIE THIERE UND DER THIERSCHUTZ. (8vo,
+Berlin, 1879.)
+
+Harnack (E.). WIDER DIE V.-GEGNER. (_D. med. Woch._, 1905, 1115-1116.)
+
+Harvey. THE PASTEUR INSTITUTE AND VIVISECTION. (_Ind. Med. Gaz._, 1895,
+49-57.)
+
+Hehir (P.). VIVISECTION SO CALLED, ITS ROLE IN THE SERVICE OF MAN AND
+BEAST. (_Ind. Med. Gaz._, 1897, 91.)
+
+Heidenhain (R.). DIE V. IM DIENSTE DER HEILKUNDE. (8vo, Leipzig, 1879.)
+
+Hermann (L.). DIE V. FRAGE. (8vo, Leipzig, 1877.)
+
+Hodge. THE VIVISECTION QUESTION. (_Pop. Sc. Monthly_, 1896, 614-630,
+771-786.)
+
+Horsley (V.). and Rutter (A.). THE MORALITY OF VIVISECTION. (_Nineteenth
+Century_, 1892, pp. 804-817.)
+
+Hutton (R. H.). THE BIOLOGISTS ON VIVISECTION. (_Nineteenth Century_, 1882,
+29-39, and _Contemp. Rev._, 1883, 510-516.)
+
+Jaeger (G.). V. UND HEILKUNST. (_Jaegers Monatsbl._, 1905, 137-141, 173-183,
+197-203.)
+
+Keen (W. W.). OUR RECENT DEBTS TO VIVISECTION. (_Pop. Sc. Monthly_, 1889,
+1-15 and _Harper's Mag._, 1893, pp. 28-139.)
+
+Keen (W. W.). MISSTATEMENTS OF THE ANTI-VIVISECTIONISTS AGAIN. (_Phil. Med.
+Jour._, 1901, 204-206.)
+
+Kingsford (A.). THE USELESSNESS OF VIVISECTION. (_Nineteenth Century_,
+1882, 171-183.)
+
+Kleffer (H.). LA VIVISECTION, SON UTILITE, SA MORALE. (GENEVE, GEORG, 12mo,
+1883.)
+
+Lawson (H.). THE VIVISECTION CLAMOUR. (_Pop. Sc. Rev._, 1876, 398-405.)
+
+Leffingwell. VIVISECTION, A REPLY TO PROF. H. WOOD. (_Bost. Med. and Surg.
+Journ._, 1899, 371.)
+
+Leneveu (G.). DE L'UTILITE DE LA VIVISECTION. (Diss, in., Paris, 1883.)
+
+Lund (P. W.). PHYSIOLOGISCHE RESULTATE DER V. NEUERER ZEIT (_trad. du
+Danois_). (Kopenhagen, 1825.)
+
+Macphail (J. A.). VIVISECTION. (_Montreal Med. Journ._, 1890, 895-919.)
+
+Magnan. DE LA FOLIE DES ANTIVIVISECTIONNISTES. (_C. R. de la Soc. de Biol.
+de Paris_, 1884, 101-104.)
+
+Marechal (Ph.). LA VIVISECTION. (_Medecin_, 1904, 35, and _Revue du Cien_,
+13-15.)
+
+Maurel. LA VIVISECTION EST ELLE INDISPENSABLE. (_Ass. pour l'ac. des
+sciences_, 1901, 294.)
+
+Merbach. UEBER DIE GESCHICHTE DER V. (_Jahresb. d. Ges. f. Nat. u. Heilk.
+in Dresd._ 1878, 98-103.)
+
+Metzger (D.). LA VIVISECTION, LES DANGERS, ET LES CRIMES. (8vo, Paris,
+1891.)
+
+Moore (W. J.). HARVEY AND VIVISECTION. (_Ind. Med. Gaz._, 1876, 230-233.)
+
+Moquin Tandon. RAPPORT SUR LES VIVISECTIONS. (_Bull. de l'ac. de Medecine
+de Paris_, 1862, 948-960.)
+
+Nagel (R.). DER WISSENSCHAFTLICHE UNWERTH DER V IN ALLEN IHREN ARTEN. (8vo,
+Berlin, 1881.)
+
+Novi (J.). SULLA V. (_Boll. d. sc. med. di Bologne_, 1893, 263, 421.)
+
+Paget (Stephen). EXPERIMENTS ON ANIMALS. (_Murray_).
+
+Renault (E.). LA SOC. PROTECTS. DES ANIMAUX ET LA VIVISECTION. (_Rec. de
+Med. veterin._, 1862, 231-247.)
+
+Renooz (C). A PROPOS DE LA VIVISECTION. (_Medecin_, 1904, 178-179.)
+
+Richet (Ch.). MAN'S RIGHT OVER ANIMALS. (_Pop. Sc. Monthly_, 1884, xxv.,
+759-766.)
+
+Smith (R. M.). MATERIA MEDICA AND VIVISECTION. (_Merck's Arch._, 1900,
+44-47.)
+
+Smith (R. M.). SHOULD EXPERIMENTS ON ANIMALS BE RESTRICTED OR ABOLISHED?
+(_Therap. Gaz._, 1884, 497, 533.)
+
+Smith (Pye). ON VIVISECTION. (_Brit. Med. Journ._ (2), 1879, 349.)
+
+Stuser (E.). IS VIVISECTION A BENEFIT TO ANIMALS AND MAN, AND JUSTIFIABLE?
+(_Med. News_, 1902, 108-111.)
+
+Tait (Lawson.). THE USELESSNESS OF VIVISECTION UPON ANIMALS AS A METHOD OF
+SCIENTIFIC RESEARCH. (London, 8vo, 1883 (?).)
+
+Tuckermann. ABSTRACT OF THE REPORT OF THE COMMITTEE ON VIVISECTION.
+(_Columb. Med. Journ._, 1897, 237-243.)
+
+Weber (E.). LES CHAMBRES DE TORTURE DE LA SCIENCE. (Paris, Leroux, 8vo,
+1879.)
+
+Wilberforce (C). WOMEN, CLERGYMEN AND DOCTORS. (_New Review_, 1893, 85-95.)
+
+Wilks. THE ETHICS OF VIVISECTION. (_Pop. Sc. Monthly_, 1882, xxi.,
+344-350.)
+
+Williams. A FEW PERSONAL FACTS CONCERNING EXPERIMENTS ON ANIMALS OPPOSED TO
+THE FALSE FANCIES OF THE PERSECUTORS OF VIVISECTORS. (_Brit. Med. Journ._,
+(2), 1876, 104.)
+
+Wolff. DISPUTATIO PHILOSOPHICA DE MORALITATE ANATOMES CIRCA ANIMALIA VICA
+OCCUPATAE. (Leipzig, 1709.)
+
+Wood (H.). THE CONTROL OF VIVISECTION. (_Bost. Med. and Surg. Journ._,
+1895, 342.)
+
+Zoellner (F.). UEBER DER WISSENSCHAFTLICHEN MISSBRAUCH DER V., MIT
+HISTORISCHEN DOCUMENTEN UeBER DIE V. VON MENSCHEN. (Leipzig, 8vo, 1880, 2nd
+ed., 1885.)
+
+
+
+
+APPENDIX C
+
+THE RESEARCH DEFENCE SOCIETY
+
+
+In January 1908, a Society with the above name was formed in England, the
+aims and objects of which are clearly stated in the following letter from
+Lord Cromer, its President; this letter was published in the English
+newspapers on 24th April 1908:--
+
+SIR,
+
+A Society has been formed, with the name of the Research Defence Society,
+to make known the facts as to experiments on animals in this country; the
+immense importance to the welfare of mankind of such experiments; and the
+great saving of human life and health directly attributable to them.
+
+The great advance that has been made during the last quarter of a century
+in our knowledge of the functions of the body, and of the causes of
+disease, would have been impossible without a combination of experiment and
+observation.
+
+The use of antiseptics, and the modern treatment of wounds, is the direct
+outcome of the experiments of Pasteur and Lister. Pasteur's discovery of
+the microbial cause of puerperal fever has in itself enormously reduced the
+deaths of women in child-birth.
+
+The nature of tuberculosis is now known, and its incidence has materially
+diminished.
+
+We owe the invention of diphtheria antitoxin entirely to experiments on
+animals.
+
+The causes of plague, cholera, typhoid, Mediterranean fever, and sleeping
+sickness, have been discovered solely by the experimental method.
+
+Not only have a large number of drugs been placed at our disposal, but
+accurate knowledge has replaced the empirical use of many of those
+previously known.
+
+The evidence before the Royal Commission has shown that these experiments
+are conducted with proper care; the small amount of pain or discomfort
+inflicted is insignificant compared with the great gain to knowledge and
+the direct advantage to humanity.
+
+While acknowledging in general the utility of the experimental method,
+efforts have been made by a section of the public to throw discredit on all
+experiments involving the use of animals. The Research Defence Society will
+therefore endeavour to make it clear that medical and other scientific men
+who employ these methods are not less humane than the rest of their
+countrymen, who daily, though perhaps unconsciously, profit by them.
+
+The Society proposes to give information to all enquirers, to publish
+_precis_, articles, and leaflets, to make arrangements for lectures, to
+send speakers, if required, to debates, and to assist all who desire to
+examine the arguments on behalf of experiments on animals. It hopes to
+establish branches in our chief cities, and thus to be in touch with all
+parts of the kingdom; and to be at the service of municipal bodies,
+hospitals, and other public institutions.
+
+The Society was formed on 27th January of the present year, and already
+numbers more than 800 members.[9] It is not an association of men of
+science or of medical men alone; its membership has been drawn from all
+departments of public life, and includes representatives of every class of
+educated Englishmen and Englishwomen, including many who have taken an
+active part in the prevention of cruelty to animals. This fact is in itself
+a remarkable protest against the attacks which have been made on the
+researches that the Society has been formed to defend.
+
+The annual subscription is five shillings to cover working expenses: but
+larger subscriptions, or donations, will be gladly received. The acting
+Hon. Treasurer, _pro tem._, is Mr J. Luard Pattisson, C.B. (of the Lister
+Institute),[10] and an account in the Society's name has been opened with
+Messrs Coutts & Co., 440 Strand. The Hon. Secretary is Mr Stephen Paget, 70
+Harley Street, W., to whom all communications should be addressed.
+
+Yours faithfully,
+
+CROMER, _President_.
+
+
+The following is a list of the pamphlets already issued by the Society:--
+
+1. Letter from the President announcing the formation of the Society, April
+24.
+
+2. Report of the inaugural meeting.
+
+3. Experiments on animals during 1907 in Great Britain and Ireland.
+
+4. Some facts as to the administration of the Act.
+
+5. The value of antitoxin in the treatment of diphtheria.
+
+6. Evidence of Sir Frederick Treves.
+
+7. Yellow fever and malaria.
+
+8. Extinction of Malta fever.
+
+9. Have experiments on animals advanced Therapeutics?
+
+10. The work of the Research Defence Society.
+
+11. Vivisection and medicine. Evidence of Lord Justice Fletcher Moulton
+before the Royal Commission.
+
+All or any of these will be forwarded on application to the Hon. Secretary,
+Mr Stephen Paget, 70 Harley Street, London, W. Other pamphlets are in
+active preparation; arrangements are also being made for meetings, and for
+the organisation of Branch Societies in many parts of the kingdom; the
+Society is also concerned in the institution of a similar movement for the
+defence of research in America.
+
+Space does not permit the publication of the full list of members of the
+Society. The following list of the President and Vice-Presidents, however,
+will show that those who have joined are representative not only of the
+leading men and women in the medical profession, but also of those who are
+pre-eminent in various other branches of science, in literature, politics,
+art, and theology.
+
+
+PRESIDENT
+
+THE EARL OF CROMER, G.C.B., G.C.M.G., O.M.
+
+
+VICE-PRESIDENTS
+
+HIS GRACE THE DUKE OF ABERCORN, K.G.
+
+SIR WILLIAM ABNEY, K.C.B., F.R.S.
+
+SIR T. CLIFFORD ALLBUTT, K.C.B., F.R.S. (_Regius Professor of Physic,
+University of Cambridge_).
+
+SIR L. ALMA-TADEMA, O.M., R.A.
+
+MRS GARRETT ANDERSON, M.D.
+
+SIR WILLIAM ANSON, BT., D.C.L., M.P.
+
+THE RT. HON. LORD AVEBURY, F.R.S.
+
+[A]SIR JOHN BANKS, K.C.B., M.D.
+
+THE RT. HON. LORD BARRYMORE.
+
+THE MARQUIS OF BATH.
+
+LADY BLISS.
+
+LADY BUCKLEY.
+
+LADY BURDON-SANDERSON.
+
+LORD BLYTH.
+
+THE VERY REV. THE DEAN OF CANTERBURY, D.D.
+
+EARL CATHCART.
+
+LORD ROBERT CECIL, K.C., M.P.
+
+THE RT. REV. THE LORD BISHOP OF CHESTER, D.D.
+
+THE VERY REV. THE DEAN OF CHESTER, D.D.
+
+LORD CHEYLESMORE, C.V.O. (_Chairman, Middlesex Hospital_).
+
+THE VERY REV. THE DEAN OF CHRIST CHURCH, D.D.
+
+SIR JAMES CRICHTON-BROWNE, F.R.S.
+
+THE COUNTESS OF CROMER.
+
+THE RT. HON. SIR SAVILE CROSSLEY, BT., M.V.O.
+
+SIR EDMUND HAY CURRIE.
+
+LORD CURZON OF KEDLESTON, G.C.S.I., G.C.I.E., F.R.S.
+
+THE REV. DR DALLINGER, F.R.S.
+
+FRANCIS DARWIN, ESQ., F.R.S.
+
+SIR GEORGE H. DARWIN, K.C.B., F.R.S.
+
+SIR JAMES DEWAR, F.R.S.
+
+SIR A. CONAN DOYLE, LL.D.
+
+THE REV. CANON DUCKWORTH, C.V.O.
+
+THE RT. REV. THE BISHOP OF EDINBURGH, D.D.
+
+EARL EGERTON.
+
+THE RT. REV. THE LORD BISHOP OF EXETER, D.D.
+
+LORD FABER.
+
+THE REV. A. M. FAIRBAIRN, D.D., LL.D. (_Principal of Mansfield College,
+Oxford_).
+
+LORD FARRER.
+
+SIR LUKE FILDES, R.A.
+
+LORD FORTESCUE.
+
+SIR THOMAS FRASER, M.D., F.R.S. (_Professor of Clinical Medicine,
+University of Edinburgh_).
+
+SIR DAVID GILL, K.C.B., LL.D., F.R.S.
+
+THE EARL OF GLASGOW, G.C.M.G.
+
+THE RT. REV. THE LORD BISHOP OF GRANTHAM, D.D.
+
+FIELD-MARSHAL LORD GRENFELL, G.C.B., G.C.M.G.
+
+THE HON. WALTER GUINNESS, M.P.
+
+THE RT. HON. THE EARL OF HALSBURY, K.B., F.R.S.
+
+LORD CLAUD HAMILTON.
+
+H. A. HARBEN, ESQ. (_Chairman, St Mary's Hospital_).
+
+J. T. HELBY, ESQ. (_Chairman, Metropolitan Asylums Board_).
+
+SIR SAMUEL HOARE, BT.
+
+THE HON. SYDNEY HOLLAND (_Chairman, London Hospital_).
+
+SIR JOSEPH DALTON HOOKER, G.C.S.I., F.R.S., O.M.
+
+SIR WILLIAM HUGGINS, K.C.B., F.R.S., O.M.
+
+J. HUGHLINGS JACKSON, M.D., LL.D., F.R.S.
+
+MONTAGUE RHODES JAMES, LITT.D. (_Provost of King's College, Cambridge_).
+
+SIR ALFRED JONES, K.C.M.G.
+
+THE RT. REV. THE LORD BISHOP OF KINGSTON.
+
+THE EARL OF KILMOREY (_Chairman, Charing Cross Hospital_).
+
+LORD LAMINGTON, G.C.M.G.
+
+SIR E. RAY LANKESTER, K.C.B., F.R.S.
+
+R. F. C. LEITH, M.SC., (_Professor of Pathology, Birmingham_).
+
+THE RT. HON. LORD LINDLEY, LL.D., D.C.L., F.R.S.
+
+SIR NORMAN LOCKYER, K.C.B., F.R.S.
+
+THE RT. HON. WALTER LONG, M.P.
+
+HENRY LUCAS, ESQ. (_Chairman, University College Hospital_).
+
+LORD LUDLOW.
+
+THE HON. G. W. SPENCER LYTTELTON, C.B.
+
+FREDERICK MACMILLAN, ESQ. (_Chairman, National Hospital for the Paralysed
+and Epileptic_).
+
+THE RT. HON. SIR HERBERT E. MAXWELL, BT., F.R.S.
+
+LORD METHUEN, G.C.B., K.C.V.O.
+
+HER GRACE THE DUCHESS OF MONTROSE.
+
+LADY DOROTHY NEVILL.
+
+THE EARL OF NORTHBROOK (_President, Cancer Hospital_).
+
+LORD NORTHCLIFFE.
+
+WILLIAM OSLER, M.D., F.R.S. (_Regius Professor of Medicine, University of
+Oxford_).
+
+THE RT. REV. THE LORD BISHOP OF OXFORD, D.D.
+
+SIR GILBERT PARKER, D.C.L., M.P.
+
+EDEN PHILLPOTTS, ESQ.
+
+COUNT PLUNKETT.
+
+SIR FREDERICK POLLOCK, BT., LL.D., D.C.L.
+
+SIR JOHN DICKSON POYNDER, BT., M.P. (_Chairman, Great Northern Hospital_).
+
+LADY PRIESTLEY.
+
+THE RT. REV. THE BISHOP OF NORTH QUEENSLAND, D.D.
+
+SIR WILLIAM RAMSAY, K.C.B., F.R.S.
+
+THE RT. REV. THE LORD BISHOP OF RANGOON.
+
+SIR JAMES REID, BT., G.C.V.O.
+
+LADY RUSSELL REYNOLDS.
+
+THE VERY REV. HON. THE DEAN OF RIPON, D.D.
+
+BRITON RIVIERE, ESQ., R.A., D.C.L.
+
+MRS ROGET.
+
+MRS ROMANES.
+
+SIR HENRY ROSCOE, D.C.L., LL.D., F.R.S.
+
+[A]THE RT. HON. THE EARL OF ROSSE, K.P., LL.D., F.R.S. (_Chancellor of the
+University of Dublin_).
+
+LORD ROTHSCHILD, G.C.V.O.
+
+SIR ARTHUR RUeCKER, F.R.S.
+
+THE VERY REV. THE DEAN OF SALISBURY, D.D.
+
+THE RT. HON. THE MARQUIS OF SALISBURY.
+
+THE RT. HON. THE MARQUIS OF SLIGO.
+
+ISABEL MARCHIONESS OF SLIGO.
+
+THE RT. HON. SIR CECIL CLEMENTI SMITH, G.C.M.G.
+
+SIR THOMAS SMITH, BT., K.C.V.O.
+
+THE HON. W. F. D. SMITH, M.P. (_Chairman, Removal Fund, King's College
+Hospital_).
+
+THE HON. SIR RICHARD SOLOMON, K.C.B., K.C.M.G.
+
+SIR EDGAR SPEYER, BT. (_President, Poplar Hospital_).
+
+THE RT. HON. LORD STALBRIDGE.
+
+LORD STANLEY, K.C.V.O.
+
+LORD STRATHCONA, G.C.M.G.
+
+LADY SUTTON.
+
+MAJ.-GEN. SIR REGINALD TALBOT, K.C.B.
+
+SIR FREDERICK TREVES, BT., G.C.V.O.
+
+SIR JOHN BATTY TUKE, M.P.
+
+SIR WILLIAM TURNER, K.C.B., F.R.S. (_Principal of the University of
+Edinburgh_).
+
+JAMES G. WAINWRIGHT, ESQ. (_Chairman, St Thomas's Hospital_).
+
+_Earl Waldegrave._
+
+_The Rt. Rev. Bishop Welldon._
+
+HIS GRACE THE DUKE OF WELLINGTON, K.G.
+
+A. W. WEST, ESQ. (_Treasurer and Chairman, St George's Hospital_).
+
+SIR JAMES WHITEHEAD, BT. (_First President of the Lister Institute_).
+
+MRS ROBERT PEEL WETHERED.
+
+SIR SAMUEL WILKS, BT., F.R.S.
+
+THE RT. HON. SIR ALFRED WILLS.
+
+THE RT. REV. THE LORD BISHOP OF WINCHESTER.
+
+THE REV. H. G. WOODS, D.D. (_Master of the Temple_).
+
+[Note A: Since deceased.]
+
+
+FOOTNOTES:
+
+[9] 22nd October 1908. The number of members is now over 1530, of whom 160
+are ladies.
+
+[10] 27th May. Dr Sandwith, 31 Cavendish Square, London, W., is now Hon.
+Treasurer.
+
+
+TURNBULL AND SPEARS, PRINTERS, EDINBURGH.
+
+
+
+
+
+End of Project Gutenberg's The Pros and Cons of Vivisection, by Charles Richet
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE PROS AND CONS OF VIVISECTION ***
+
+***** This file should be named 37158.txt or 37158.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/7/1/5/37158/
+
+Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net. (This file was produced from images
+generously made available by The Internet Archive/American
+Libraries.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

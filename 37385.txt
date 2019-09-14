@@ -1,0 +1,2701 @@
+The Project Gutenberg EBook of Embryology, by Gerald R. Leighton
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Embryology
+       The Beginnings of Life
+
+Author: Gerald R. Leighton
+
+Release Date: September 11, 2011 [EBook #37385]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK EMBRYOLOGY ***
+
+
+
+
+Produced by Jens Nordmann and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/Canadian Libraries)
+
+
+
+
+
+
+
+
+
+Transcriber's Notes:
+
+The original spelling and minor inconsistencies in the spelling and
+formatting have been maintained.
+
+The ligature oe has been marked as [oe].
+
+Text in italics has been marked with underscores (_text_).
+
+
+
+
+                                EMBRYOLOGY
+
+                          THE BEGINNINGS OF LIFE
+
+
+                    BY GERALD LEIGHTON, M.D., F.R.S.E.
+
+             AUTHOR OF "THE GREATEST LIFE," "BRITISH SERPENTS"
+                     "HUXLEY: HIS LIFE AND WORK," ETC.
+
+
+
+
+                         LONDON: T. C. & E. C. JACK
+
+                     67 LONG ACRE, W.C., AND EDINBURGH
+
+                       NEW YORK: DODGE PUBLISHING CO.
+
+
+                     *       *       *       *       *
+
+
+
+
+                                 CONTENTS
+
+
+  CHAP.                                                          PAGE
+
+     I. THE CELL AND THE INDIVIDUAL                                 7
+
+    II. PROBLEMS OF REPRODUCTION                                   15
+
+   III. PROBLEMS OF REPRODUCTION (_continued_)                     23
+
+    IV. THE MAKING OF A MAN                                        36
+
+     V. FERTILISATION AND EARLY DEVELOPMENT                        47
+
+    VI. EARLY DEVELOPMENT                                          53
+
+   VII. THE BEGINNINGS OF THINGS                                   59
+
+  VIII. THE BEGINNINGS OF THINGS (_continued_)                     62
+
+    IX. THE BEGINNINGS OF THINGS (_continued_)                     66
+
+     X. THE BEGINNINGS OF THINGS (_continued_)                     73
+
+    XI. HOW THE EMBRYO IS NOURISHED                                78
+
+   XII. RECAPITULATION                                             84
+
+        BIBLIOGRAPHY                                               90
+
+        INDEX                                                      91
+
+
+                     *       *       *       *       *
+
+
+
+
+                                 EMBRYOLOGY
+
+
+
+
+                                 CHAPTER I
+
+                        THE CELL AND THE INDIVIDUAL
+
+
+What is Embryology, and what is its significance or interest to the
+ordinary educated man and woman? The answer to the question is the
+justification for the appearance of the following pages, and one may
+regard it as a somewhat striking fact, that in the production of a
+series of works of which this volume is one, those responsible for the
+subjects should have deemed it advisable to include Embryology.
+
+Embryology may be defined as that part of the science of Biology which
+deals with the formation of a new individual or embryo. The definition
+itself ought to be sufficient to explain the significance of the subject
+for every one, because one can hardly conceive of any more profoundly
+important knowledge than that which tells of the mode of origin, manner
+of growth, and ultimate birth of an entirely new being. In the absence
+of such accurate knowledge it is quite obvious that all one's ideas
+concerning the manner in which the new individual is to be treated must
+have a more or less haphazard, or at least empirical, basis. In fact
+only when the science of Embryology, or the development of the
+individual, becomes a part of the ordinary everyday mental equipment of
+those who are responsible for bringing into the world new individuals,
+and subsequently protecting and handling them, will it be reasonable to
+expect that these new individuals are dealt with in the best possible
+manner. In a word it is evident that education, using that term in the
+very widest possible sense, can never be anything more than a blind
+groping in the dark until those into whose hands it is entrusted realise
+and know at least the most important fundamental facts concerning
+development. It is lack of this kind of knowledge which has been
+responsible for so much of the mistaken systems of the past in dealing
+with the young, and it is the spread of this knowledge which alone is
+the hope of better things in the future. Wherever knowledge is absent
+superstition is rife, and in no sphere of life is this more painfully
+obvious than in connection with the subject which we are about to study.
+It would have been entirely impossible for many of the stupid and even
+cruel methods of mental and physical treatment which have been meted out
+to the young children in the past to have been tolerated for a moment
+had this knowledge been available and sufficiently widespread.
+Possessing it, a flood of light is thrown upon the fascinating and
+otherwise obscure problems of heredity; and thus it lays open the pages
+of the past for those who care to read them. Possessing it also it
+throws upon the mental screen pictures of possibilities in the future
+for all those who have eyes to see. So the study of Embryology links up
+the past with the present and joins the present with the future. Is it
+not, therefore, obvious that the study of such a subject means dealing
+with problems the importance of which it is impossible to exaggerate;
+problems which the parent, the teacher, the social reformer, the
+politician, and the philanthropist will grapple with in vain unless they
+call in science to their aid? Such is the meaning and significance of
+the subject of our study.
+
+In the widest sense of the word Embryology, therefore, deals with all
+manner of living things, be they plant or animal. But since our purpose
+here is to state, as far as possible in the space at our disposal, the
+facts which are of particular importance in relation to the human
+subject, we shall only glance at the rest of living creatures. A brief
+look at them, however, is quite necessary in order to appreciate what
+follows. Let us be quite clear of what we are in search. We want to know
+as far as possible what it is that goes to the making of a man. What is
+the origin of the new individual? Where does the embryo come from? What
+elements are concerned in its formation? Where do these elements come
+from? How are they subsequently built up into the type of the species to
+which they belong? From what source do they gain their nourishment? What
+influences of a degenerative nature are likely to affect them? These are
+the questions which it is the business of the Embryologist to answer,
+and these are the questions the answers to which afford the explanation
+of man in the making. Surely they merely require to be stated that their
+significance may be appreciated.
+
+We may now glance very briefly at the simplest facts which bear upon the
+subject, and which must precede our detailed study. The necessity for
+reproduction and development is involved in the universal fact of
+death. In all except the very simplest forms of life--those consisting
+of one simple mass of protoplasm--the individual sooner or later
+perishes, and if it were not that there were some methods by means of
+which the individuals could give rise to new individuals obviously the
+species would come to an end. No matter to what great age an individual
+animal may live, and there are some such as the tortoises which do live
+for centuries, sooner or later death overtakes them, and in all,
+investigation of their structure shows that nature has made provision
+for the carrying on of the race by means of new individuals.
+
+Every living creature, be that creature simple or complicated, animal or
+vegetable, man or a jellyfish, starts life as one single cell. The very
+simplest living individuals never consist of anything else but one
+single cell, and it is in these primitive forms of life alone that what
+we call death can not be said to occur. Such a simple cell, after living
+for a certain period, simply divides itself into two halves, each of
+which gradually assumes the size and shape of what we may term the
+parent cell. The first individual has simply become two separate
+individuals. These two in their turn after another period of independent
+existence, again each divide, thus giving rise to four, and so on. Now
+here, although the original parent cell no longer exists _as a cell_,
+the actual material of which it was composed still exists in the cells
+which came into existence as the result of this division. The original
+cell, therefore, may be literally said to have been deathless, or
+immortal, though not everlasting. This is a profound thought, and one
+which must be grasped at the very commencement of our study of
+development, because it is one to which we shall have to recur again and
+again when we come to study the cells which give rise to human beings,
+in whom, too, there is a deathless continuity of cell protoplasm, or
+germ-plasm as it is then called. It is upon this fact that the whole
+science of Embryology depends.
+
+The important idea to be learned from observing this process of
+reproduction in the single-celled animal is this: that there is nothing
+here which we may term the body of an animal as opposed to any of its
+parts. The one cell is both body and organs, and everything else; in
+itself it has the capacity of performing all the functions necessary for
+life, including that of reproduction for the perpetuation of the
+species. No part of the cell is set on one side for any special purpose
+such as happens in the bodies of higher animals. There are no special
+elements which go to the producing of the next generation, none of the
+cells which in a mammal, for example, we call "germ-cells." The whole
+individual is one cell. In fact one might almost say that there is no
+individual, but only race, or if we regard the cell as an individual
+then it is all germ-plasm. That is the important fact to be learned in
+the reproduction of single cells.
+
+There are some single cells, such as those of the yeast, which reproduce
+in a slightly different manner, namely, by budding off a portion of
+themselves and finally becoming separate, and this might be regarded as
+a slightly higher stage, in so far as the original cell from which the
+bud came may be still identified; but in reality the process differs
+very little from that first described.
+
+Then we may note that very low in the scale of living things there is a
+process of reproduction known as conjugation, in which, although the
+cells of the species appear to be all alike, yet, nevertheless, two of
+them join together for purposes of reproduction. In other words we have
+here a process of cell-union before we have the cell-division which
+follows. It is important to note at this stage that the creatures which
+we have mentioned, and even some more highly organised, such as an
+am[oe]ba, which has a nucleus, go through these simple or complicated
+reproductive processes in the total absence of anything which could
+suggest a distinction of sex. In these cases the individuals are
+obviously all of one sex, and, therefore, the distinction of sexes into
+male and female is evidently something which has been added later in the
+scheme of evolution, not for the purpose of reproduction itself, but for
+something which is to be added to that.
+
+Then in the slightly higher animals and plants we come to those in which
+many cells go to the making of the individual, the multicellular
+individuals, and amongst these we very soon see the origin of what is
+termed specialisation of function. That is to say, in these higher
+creatures which consist of many numbers of cells arranged so as to form
+one individual, certain cells are set apart for one purpose and others
+for another. Some may be for digestion, some for purposes of movement,
+and others for reproduction. Here we have a new phenomenon, namely, the
+setting aside of certain cells in a multicellular individual which from
+the very beginning are capable of one function alone, namely,
+reproducing the species. The higher one goes in the scale of life the
+more striking and obvious this fact becomes, and as we shall see when
+we come to the vertebrate kingdom, this setting aside of the cells which
+are to produce the individuals of the next generation is the key to the
+solution of the most difficult of our problems.
+
+In these highest forms of life, however, the cell itself is becoming a
+much more complicated thing than that lowly form which we first noted as
+dividing into two to form two new individuals. Indeed, the cells in the
+highest animals and plants are immensely complicated in their structures
+and functions, and especially in connection with the changes which take
+place in the nucleus of such cells. Not only the nucleus but another
+small object within the cell which is neither part of the nucleus nor
+part of the cell protoplasm, also is very important, and this structure
+is termed the "centrosome." In fact this little body apparently begins
+the whole process of cell-division by itself dividing into two parts.
+Then the nucleus follows suit, and ultimately the whole cell divides.
+The nucleus itself is a complicated structure, as is especially seen
+during the processes of division, in which it breaks itself up into a
+number of thread-like portions, and the number of these is always the
+same in any given species, a fact which is of great importance in
+reproduction. Why do we mention these apparently dry details? Because in
+these minute and complicated nuclear movements the whole problems which
+are at the bottom of development and heredity lie. The problems of life
+itself can only be solved by the study of what takes place in these
+minute portions of cells. It is here that the new formation of an
+individual begins, and although it is no part of our purpose here to
+detail all the complicated processes of nuclear division, it is
+essential, in order to grasp the meaning of our subject, that we should
+realize that in the changes within the cell life with its variations
+begins.
+
+The study of these wonderful cell processes, a work which demands the
+most patient investigation and high technical skill, has reached such a
+stage that it is a science of its own, and is called the science of
+"Cytology," or the science of cells, which has been made possible only
+in comparatively recent years by the invention of microscopes having
+great powers of magnification, and by the application of elaborate
+methods of staining to the cells themselves.
+
+We can say no more about these processes here, but the foregoing
+paragraphs may perhaps be sufficient to show us how important it is to
+grasp these simple facts of cell life in their bearing upon development
+itself.
+
+
+
+
+                              CHAPTER II
+
+                       PROBLEMS OF REPRODUCTION
+
+
+We have seen that in the higher types of animals and plants the single
+individual is made up of not one but millions and millions of cells
+united together for the common purpose of the individual life, and that
+in such complicated individualities some cells perform one function
+while others perform others. A human individual from this point of view,
+therefore, is an organised community of cells all of which, however,
+sprang, in the first place, from one single cell. That original single
+cell is termed, in animal Embryology, the "fertilised ovum." It is
+popularly spoken of frequently as "the egg." All the other millions of
+cells are the direct descendants of this fertilised ovum, or egg, even
+though many of them eventually become extremely unlike the original
+cell. In single-celled animals the offspring of the original cell remain
+like the parent cell, but in the highly complicated creatures the
+offspring split up into a great many types of cells, owing to the very
+fact that all remain adherent together to form the mass of the body in
+order to carry out different functions. So we find cells of one type in
+glands, of another type in the brain, of another type in bones, of
+another type in blood, and so forth. Nevertheless all of them sprang
+from one original single cell. None of these specialised types of
+cells, however, are capable of performing any other function than their
+own. A bone-cell cannot receive an impression, nor originate an idea,
+any more than a brain-cell can secrete bile. Each kind of cell has its
+own appointed duty. The most important duty that can possibly be
+allotted to any cell is obviously that of reproducing the individual for
+the purpose of continuing the race or species. So we find in higher
+animals that this function, like others, is relegated to a special set
+of cells also derived from the original single cell, and which are
+called "the germ-cells."
+
+Leaving out of consideration the question of reproduction in lower types
+of animals we may consider the nature and origin of these cells in
+highest vertebrates, such as the mammals, including man. Germ-cells,
+which are derived from the tissues of a female animal, are termed "ova."
+Those which are derived from the tissues of a male animal are termed
+"sperms." Notice that it is not these germ-cells themselves to which the
+terms male and female, indicative of the two sexes, are applied, but
+only to the individuals. They are male and female; the germ-cells are of
+neither sex. True the germ-cells from the male, _i.e._ the sperms,
+differ in appearance when seen under the microscope from those of the
+female, but there is no reason to believe that there is any difference
+between them in their capacity, for example, of transmitting the
+characters of ancestors to succeeding generations.
+
+At a certain stage in the life history of the animal individual and
+after undergoing certain changes which need not be considered here,
+these germ-cells, both sperms and ova, have reached such a stage of
+maturity as to be capable of carrying on their sole function, namely,
+that of reproducing the species. The actual age in human beings, for
+example, at which this maturity is reached varies very much in different
+races, and in different individuals of the same race.
+
+When reproduction is about to occur a union must take place between a
+germ-cell from a male body with a germ-cell from a female body; that is
+to say, a union must take place between a sperm and an ovum. This union
+takes place within the body of the female individual and results in the
+fusion of the two cells into one single cell, which is now termed a
+fertilised ovum. This fertilised ovum, in virtue of this process of
+union, is now able under suitable conditions of nutrition and shelter,
+such as it obtains within the female organs of reproduction, to divide
+and redivide again and again, thus building up a new mass of cells as
+the result of its division. The millions of cells so produced include,
+as we have already seen, cells which have all the various functions
+which are necessary for the continuation of the life of a human
+individual; that is to say, that as the result of this division of the
+fertilised ovum there are produced first of all germ-cells to secure the
+still further continuance of the race, and then multitudes of all the
+other kinds of cells which gradually assume the shape of an embryo or
+young individual, and ultimately grow into a human being.
+
+In all the highly complicated animals fertilisation by union of
+germ-cells from male and female must precede reproduction. The result
+eventually is this multicellular individual composed of a number of
+different kinds of cells each set apart for its own work. But it is well
+to recognise that we may regard all these cells as really of two kinds,
+namely, the germ-cells and the others. That is to say, two kinds of
+cells are produced as the result of fertilisation, namely, cells whose
+business it ultimately will be to again take part in a similar process
+of fertilisation, and so perpetuate the species, and all the other cells
+which go to the forming of the various body tissues of the individual
+itself. In this way we get a simple classification of the cells which
+form, for example, a human being, namely, germ-cells and body-cells, the
+latter often being termed "somatic." The latter are, of course, in much
+greater abundance than the germ-cells. They have to form all the various
+elements, organs, limbs, and structures known and described by the
+anatomist. The germ-cells are a separate little group of themselves
+embedded in the male and female reproductive organs for the sake of
+nutrition, growth, and shelter, for many years, until they again take
+part in the process of fertilisation. Note carefully that no other cells
+in the body ever unite together to produce a new individual except
+germ-cells.
+
+Somatic cells reproduce by dividing directly. Germ-cells before they can
+do this require to be fertilised. That is to say, the cell from the male
+(the sperm) must fuse with the cell in the female (the ovum). As Dr.
+Archdall Reid graphically states it, "Only the germs are marriageable;
+and, as we have just seen, in the great majority of animals and plants
+they observe the degrees of consanguinity very strictly, and do not
+unite except with members of another cell-community, and then only to
+found a new colony of cells, an offspring."
+
+There are still some further considerations in connection with the
+subject of germ-cells and germ-plasm which we must carefully consider
+before leaving this part of our subject, Embryology. Everything depends
+upon a perfectly clear understanding at this stage. The facts themselves
+that have to be adduced in this connection are comparatively few and
+simple. No fairly educated person should have any difficulty whatsoever
+in grasping them. Moreover, very fortunately they are thoroughly well
+established and not in dispute. But the reasoning which is based upon
+these few and elementary facts, reasoning which is applied to the
+methods of treatment of the individual which is produced, may be very
+complicated and very debatable. Various schools of thought and opinion
+exist according to the attitude taken towards the facts, some of which
+we have mentioned and others of which we are about to detail. But the
+facts themselves are not debatable, and we therefore see once more that
+their importance at this stage cannot be exaggerated.
+
+One or two very simple general propositions bound up with the subject of
+Embryology, or individual development, may be stated in order to focus
+attention upon the nature of the problem under investigation. Thus
+nobody will be found to question the fundamental truth that children
+resemble their parents. That is a commonplace of experience. Similarly
+no one will be found to dispute another fundamental fact, namely, that
+children differ from their parents. This, too, is equally a commonplace
+of experience. If we examine a million human beings we find that they
+all possess certain features in common, certain characteristics in
+virtue of which we recognize them to be human beings. Nevertheless it is
+just as true that a careful examination of the same million people
+reveals the true saying that no two of them are exactly alike. Here then
+are two propositions equally true within certain limits; namely, that
+all human beings resemble each other, and that all human beings differ
+from each other. There is resemblance; and there is variation. These two
+things are universal because of the existence and characteristics of
+germ-cells. We may look at this a little closer.
+
+Every species of animal, in the process of reproduction brings forth
+offspring similar to itself. This is expressed in the familiar proverb
+that "like produces like." One does not expect grapes from thorns, nor
+is it possible to construct a silk purse out of a sow's ear. But what is
+the explanation of this proverbial fact? The answer is of great
+importance, because although the fact itself is recognized as a general
+principle in the reproduction of a species, it is not sufficiently
+recognized in the full details of the characters of that individual. Too
+many people are still apt to expect to be able to produce grapes when
+the plant is a thorn, and it is unfortunately all too common to make
+heroic but quite futile attempts to construct human silk purses out of
+human sows' ears--so to speak--simply because of the ignorance of the
+material which is being used. The most that can be done is to give such
+material as is present the very best opportunity of attaining its own
+utmost perfection; and this, by the way, is vastly more than has ever
+been done for any considerable number of the human race.
+
+But why this continuity of species? Why should like always produce like?
+The answer has been sought by biologists ever since problems of life
+attracted man's curiosity. All sorts of weird and fantastic theories
+have been put forward at different times to account for this simple
+fact, but it is only in comparatively recent years that the real
+explanation has been forthcoming. It is perfectly obvious that in order
+to secure this continuity of racial resemblance there must be something
+physical or material which is actually continuous from generation to
+generation to account for it. The immortal Darwin saw this very clearly,
+and devoted much thought in the endeavor to find some explanation of
+this very problem. The result was his theory of Pangenesis which,
+ingenious as it was, was ultimately shown to have no basis on fact. In
+his effort to account for the fact that children resemble their parents
+even in such minute details as the shape of the nose, the colour of the
+eyes, and so forth, he formulated the idea that the parents themselves
+probably contributed multitudes of minute particles from their own
+tissues to form the cells of their offspring. He supposed, for example,
+that particles or gemmules from the eyes, nose, hair, and so forth, of
+the parent, or parents, in some way or other were fused together and
+gave rise to the cells which ultimately produced an embryo. Hence he
+thought the explanation of the resemblance between parents and children.
+This was his solution to the question of the physical continuity between
+successive generations. It may be remarked in passing that it is with
+something of pathos that one reads in Darwin's own works his own evident
+opinion that this theory of Pangenesis was a great discovery. One
+gathers almost that he himself regarded it as of greater importance than
+his work on natural selection.
+
+In the course of time, however, the real actual basis of physical
+continuity was shown to be something quite different, and looking back
+now upon the history of the discoveries in this connection during the
+last generation one can easily imagine what speculations there must have
+been in the absence of the facts which are now known to embryologists.
+
+
+
+
+                                 CHAPTER III
+
+                  PROBLEMS OF REPRODUCTION (_continued_)
+
+
+The one outstanding discovery which has placed the science of Embryology
+on an absolutely firm basis, and which has made clear so many of the
+facts, which were previously puzzling, is this: _that the germ-cells
+which give rise to new individuals are themselves produced from
+pre-existing germ-cells_. The entire embryo, or young infant, is derived
+from one single cell which we have called the fertilised ovum, and that
+in its turn was derived from the union of two germ-cells, one from the
+male parent, and one from the female. These two cells in their turn were
+also derived in a straight line of descent from the fertilised ovum from
+which each parent sprang. In other words there has never been any
+conjugation between one fertilised ovum and another in spite of the
+generations of cells which have been produced between them. Put in
+another way the body, or somatic cells, contribute absolutely nothing to
+the original material or germ-plasm of which the germ-cells are
+composed. They do not produce them in any sense of the word whatsoever,
+despite the popular opinion to the contrary. This is the great discovery
+of modern Embryology. Until this was known it was assumed that parents
+did produce the cells from which their children sprang, and hence--it
+was thought--the resemblance between them. The fact is quite otherwise.
+No parent ever produces a germ-cell, and the reason why children
+resemble parents and ancestors is because the germ-cells which give rise
+to individuals in successive generations are produced from the
+germ-cells of the previous generation. The line of descent or
+inheritance, therefore, is from germ-cell to germ-cell, and not from
+parents. Unless the reader makes himself absolutely familiar with the
+thought expressed in these facts he will never understand the science of
+Embryology.
+
+Dr. Archdall Reid expresses this truth in the following words. "The
+somatic cells of the parent, therefore, as far as we know, contribute no
+living elements to the child; they merely provide temporary shelter and
+nutriment. The child, therefore, does not, as is popularly supposed,
+resemble his parent because his several parts are derived from similar
+parts of the parent--his head from his parent's head, his hands from his
+parent's hands, and so forth; he resembles him only because the
+germ-plasm which directed his development was a split-off portion of the
+germ-plasm which directed the development of the parent. The egg
+produces the fowl, but the fowl as a whole does not produce the
+egg--only one cell from the fowl, the fertilised ovum, produces it."
+
+  [Illustration: Diagram to show the origin of germ-cells and the embryo.]
+
+Unite in the process of fertilisation to form the fertilised ovum, which
+divides a given number of times and forms daughter-cells, which are
+germ-cells; one of which, and one only, goes on dividing to form the
+body-cells, and so produces the new individual, which as it grows
+includes in itself those cells (germ-cells) previously formed.
+
+The rest are germ-cells, which subsequently form the eggs and sperms of
+the new individual, _i.e._ they are the germ-cells of the next
+generation. They cannot develop independently, but when they unite with
+the egg or sperm of another individual, a new fertilised ovum is formed
+and the cycle begins again.
+
+This is a startling thought, but it is one which a moment's careful
+consideration will show is the only conceivable explanation of all the
+facts of physical continuity. Once it is grasped a flood of light is
+thrown upon the whole science of Embryology. The individual is seen to
+be literally a "chip of the old block," and the "old block" means the
+whole sequence of germ-cells which has preceded his formation. In the
+light of this fact it is obvious why like produces like; indeed, it is
+obvious that it must do so. Further, we now understand at once that
+since one generation of germ-cells directly produces those of the next,
+there is no reason in the world why an individual should not more nearly
+resemble a remote ancestor than his own immediate parents. As a simple
+matter of fact this frequently happens. He does so because the germ-cell
+from which he sprang is composed of protoplasm handed down in direct
+continuity by successive generations of germ-cells from time immemorial.
+In fact the problem in the light of this evidence is not so much--as it
+always seems to the writer--to understand why children resemble parents
+and ancestors, as to understand how it is that they do not resemble them
+more.
+
+There is no difficulty now in explaining the fundamental propositions
+with which we started, namely, that children resemble their parents.
+There is no difficulty in the understanding why a child resembles not
+only its immediate parents, but even its ancestors. There is even no
+difficulty in understanding why a child should resemble its ancestors,
+even though it does not resemble its parents. Given the simple truth
+that the germ-plasm is continuous from one generation to another, all
+these things become as clear as daylight.
+
+But we also start with another general proposition, namely, that
+children differ from their parents, and it is this question of the
+variation in offspring which must now claim our attention for a moment.
+By this term we mean to convey the fact that although every child has a
+real resemblance to its parents or its ancestors, it inevitably and
+invariably shows differences even if these be more minute than the
+resemblances. In other words the offspring of a human being, though
+obviously and necessarily, from the continuity of germ-plasm, it must be
+another human being, is never exactly similar to any other. Now these
+variations are many of them present from the very beginning, they take
+their origin in the germ-plasm of the two germ-cells which form the
+fertilised ovum. They are, that is to say, many of them germinal in
+origin. These must be carefully distinguished from such characteristics
+as are afterwards acquired by the child as the result of its adaptation
+to the environment in which it passes its existence.
+
+It would be beyond the scope of the present work to enter into all the
+various theories which have been put forward to account for the fact of
+variation. It will be sufficient for our purpose here if the reader
+remembers that it is a universal tendency in all living protoplasm to
+exhibit variations. It is just as universal as is its continuity of
+likeness. Moreover, in dealing with the highest animals in which the
+fertilised ovum, from which the embryo springs, is produced by the union
+of germ-cells from male and female, one may readily understand that the
+different lines of descent of the male and female germ-cells may well be
+responsible for the differences exhibited in the offspring. Obviously
+the fertilised ovum, if it has to give rise to a normal individual,
+cannot retain _all the characteristics_ which were possibly existent in
+both the male germ-cells and the female germ-cells. Some of them must be
+suppressed or got rid of, otherwise there would be too many characters
+in the resulting offspring. And, as a matter of fact, such a reduction
+does actually take place in the physical tissue comprising the
+fertilised cell, and it is probably at this stage that variations take
+their origin.
+
+Thus, for example, it is quite impossible that two opposing
+characteristics can both be represented in the fertilised ovum. One of
+them must be suppressed or thrown out or got rid of in some way or
+another. For example, the union of the male element and the female
+element will give rise to an embryo which may be eventually either a
+male or a female individual, but cannot be both. There were
+possibilities of it being either the one or the other at the beginning,
+but since the two possibilities are mutually antagonistic, one or the
+other must be eliminated. So again, supposing that the colour of the
+eyes on the one side were brown, and on the other side blue, the
+possibilities are that the fertilised ovum may give rise to an
+individual having either blue eyes or brown eyes, but, again, not both.
+
+A variation in offspring then may be regarded as a difference between
+that offspring and the parents, which is due to some change in the
+germ-plasm, some difference, that is, between the germ-plasm from which
+the parent sprang and that from which the next generation arose. Such
+differences will, of course, be introduced at the time of fertilisation.
+It is important to keep clearly in mind the difference between a true
+variation, in the sense that we have just used the term, and a
+modification which is caused by the varying effects of influences
+affecting parents and offspring. Unless these two things are kept
+mentally distinct, much confusion of thought is apt to arise.
+
+The above statement does not necessarily mean that the germ-plasm
+carried in the sperms and the ova respectively, cannot be affected in
+any way. Indeed one is forced to the conclusion that such germ-cells
+must be influenced by the nutrient fluids supplied to them, and by the
+existence of toxic or poisonous substances in the body of the parent. It
+is quite conceivable, and indeed inevitable, that the individual embryo
+resulting from the fusion of such poisoned germ-cells will show
+modifications, but these, however, are not to be regarded in any sense
+as true variations, for the simple reason that these modifications do
+not take their origin in the actual germ-plasm itself, but are simply
+the result of abnormal stimuli. Such modifications, no matter in what
+direction they may be, are, of course, not transmissible to the next
+generation, for the very obvious reason that the germ-cells which are to
+be concerned with the next generation have been already produced. The
+germ-plasm itself passes on unchanged in so far as its hereditary
+possibilities are concerned. We see, therefore, that in order to think
+clearly on this matter we must limit the meaning of the word variation
+to such differences or changes in germ-plasm which indicates some real
+change of an inheritable nature. The term should not be used to apply to
+a mere passing environment, in which the germ-plasm happens to be,
+caused by the presence of poisons, or similar factors.
+
+Given then the fact that variations do constantly and inevitably occur
+in offspring owing to new qualities arising in germ-plasm itself, it is
+obvious that these variations are either what are termed "spontaneous,"
+or else they must be due to the action of the surroundings on the
+germ-plasm. By the term "spontaneous," in this connection, it is not
+meant that these variations arise without cause or in a haphazard
+manner. It is simply meant to imply that the present state of our
+knowledge does not justify us in stating what does actually cause the
+variation in germ-plasm, or the laws in accordance with which such
+variations occur. That they must be a matter of cause and effect and law
+every biologist believes, but until the law can be demonstrated, the
+term "spontaneous" may well be retained to distinguish these variations
+from those which arise by the obvious action of environment. For
+example, the variations which occur as the results of reproduction from
+two parents, do so because of the mingling of the respective germ-cells,
+and such variations come under the group of "spontaneous"; whereas
+changes induced on account of the food supplied, or poisonous substances
+in fluids surrounding germ-cells are not spontaneous, but environmental.
+
+A point of great interest to the embryologists is the question whether
+the differences of detail which exist between children and their parents
+are of the nature of spontaneous variations, taking their origin in the
+germ-plasm itself, or mere modifications produced by the action of the
+environment of the embryo. Further, should both these factors play a
+part in producing these differences, which is of greater importance, and
+in what proportion? This question is elaborated in great detail by Dr.
+Archdall Reid, in his work, _The Laws of Heredity_, which ought to be
+read by every intelligent citizen and parent who is interested in the
+welfare of the young. In the main in this subject we follow the ideas so
+ably put forward by him. He points out that the offspring of the same
+parents always differ not only from the parents, but among themselves,
+even if they be twins, and amongst the lower animals every member of a
+litter of dogs, or pigs, or kittens, shows differences in size, colour,
+activities, temperament, and characteristics. Are those differences due
+to the action of environment on the embryo or do they take their origin
+in the germ-cells from which the individuals came? Inasmuch as a litter
+of puppies is subjected to precisely the same environment during the
+whole time of development, it is perfectly obvious that such differences
+as they exhibit at the time of birth must have been germinal, an
+identical environment could not by any stretch of the imagination be
+held responsible for producing variations. They, therefore, must be of
+the spontaneous variety. Of course it may be argued that even during
+development the environment of each embryo within the mother is not
+identical, but it will be a gross abuse of such argument to therefore
+conclude that such minute differences of surroundings could account for
+one puppy being big and black, and another one small and brown in the
+same litter; or that one should resemble one parent, another the other,
+and a third a remote ancestor. It is, therefore, clear that _some at
+least_ of the variations in offspring are germinal or spontaneous in
+origin, and not in any way due to the environment of the embryo.
+
+The question remains whether all variations are due to this cause or
+whether some may be traced to environmental factors. One of the best
+lines of argument and investigation on this point is that of the
+bacteriologist, because microbes with which he is concerned may be
+regarded as equivalent in this matter to germ-cells, all microbes being
+unicellular. The problems of the germ-cell, and its heredity, therefore,
+are very similar in both cases. Tried by this test we may ask whether
+the changes produced in these unicellular organisms by the action of
+their environment are, or are not, inherited as variations. No one
+doubts for a single moment that a microbe as well as a germ-cell may be
+changed, or injured, or improved, according to its own special
+environment. What is in dispute is whether that change remains fixed in
+the succeeding generations to which these unicellular cells give rise.
+It is precisely here that the bacteriologist can offer evidence of a
+most important character. He will tell us that it is quite easy to
+change many of the characteristics of a microbe by altering its
+environment, which is undoubtedly true, but the further statement that
+they change because their germ-plasm is affected directly by the
+environment is not necessarily true. These organisms and germ-cells are
+composed of protoplasm whose ultimate constitution permits of their
+varying spontaneously. These variations are obviously to enable them to
+adapt themselves to the tissues of the animal in which they are living,
+and these variations also, or modifications as they really are, are
+usually lost when that environment is no longer existent. In other words
+they proceed no further than to allow the microbe to exist in a new
+environment. This seems to point undoubtedly to the fact that they are
+caused by selection of true variations. In other words what is
+ultimately produced is a condition of the germ-cell in which it becomes
+very highly resistant to any influence immediately exerted upon it by
+the environment, and so continues to live in successive generations
+without any further modification. The conclusion, therefore, is, in Dr.
+Reid's words, "that the germ-plasm is both spontaneously variable and
+highly resistant to the direct action of the environment. In other words
+we must believe that in any species that is not undergoing extinction
+spontaneous variations greatly preponderate over those which are caused
+by the direct action of the environment."
+
+This quality of single cells, that is to say of the germ-plasm of all
+species which continue to exist, in virtue of which it resists very
+strongly any efforts to change it, is a very important matter to grasp.
+Without it it is quite obvious that no species could maintain its
+characteristic features for any length of time. Were it not for this
+resistant power, germ-plasm would be easily destroyed or continually and
+readily changed. The descendants from such continually changing
+germ-plasm would themselves be of such infinite variety that there would
+be no such thing as a definite species, so that there is no doubt
+whatever that germ-plasm has become, probably by the action of natural
+selection, extremely resistant to all influences of an environmental
+character.
+
+That does not mean, of course, that germ-plasm cannot be damaged, or
+weakened, or changed in its tendencies. It does mean that when it is so
+changed it is principally as the result of injury, which may be indeed
+so severe as to destroy the germ-plasm itself. It would seem as if the
+inherited tendencies of germ-cells were so intimately bound up in the
+constitution of those cells as to be almost a matter of life and death
+of the cells. If they be so interfered with as to be destroyed it is
+hardly possible for the cell itself to continue to exist. One of the
+most interesting examples of this resistance of germ-cells to their
+environment is in connection with some human diseases which have existed
+from time immemorial, diseases the descriptions of which are to be found
+given quite accurately in the most ancient documents, but in spite of
+the fact that human germ-cells have been subject to the hostile
+surroundings which such human diseases involve they themselves have not
+changed to any great extent. That is to say they still produce a type of
+embryo and offspring practically identical with that that always was
+produced.
+
+The same truth applies to the cells which make up the body of the embryo
+and the individual, as well as to the germ-cells. The body-cells, those
+which make up bone, and muscle, and gland, and so forth, are constantly
+exposed to all sorts of influences which must tend to damage them so far
+as it is possible for the cells to be damaged and still live. These
+body-cells are sometimes starved, sometimes poisoned with alcohol and
+drugs, frozen by extremes of temperature, over-worked by too much
+physical strain, and so on, and if it were possible for such external
+influences to change the type of cells of their offspring we should
+expect to see it here. But it does not occur. The internal hereditary
+tendencies of these cells are so strong, and so intimately bound up with
+the life of the cells themselves, that when they divide and produce
+others these others are precisely similar to the parent cells, in spite
+of all the unfavourable environment in which they have been. Slight
+variations do, of course, occur, but these are chiefly of a germinal or
+spontaneous nature, and not due to the environment.
+
+This thought gives us some vague and imperfect idea of how immensely
+complex the constitution of germ-plasm must be. This germ-plasm is very
+often subjected to all sorts of unfavourable conditions, especially
+those of alcohol and toxins, and such conditions have been acting upon
+it more or less for an immense number of generations, and yet the
+resistance to modification at the hands of these internal factors is so
+great that all the processes which follow upon the fertilisation of the
+ovum, all the thousand complications which thereafter ensue in the
+building up of the young embryo are hardly ever interfered with. When
+they are markedly interfered with such interference generally involves
+the death of the embryo.
+
+The conclusion arrived at on this subject by Dr. Archdall Reid, after a
+very careful and extensive inquiry into all the evidence from many
+points of view, is stated by him as follows: "Though variations may
+result from the direct action of the environment, such variations are,
+in effect, always injuries, and are of rare occurrence in individuals
+who survive and have offspring. Adaptation (_i.e._ evolution) depends
+almost exclusively on spontaneous variations. These do not imply damage
+to the germ-plasm, but are products of its vital activity. Occurring in
+vast abundance all round the specific and parental means, they supply
+the sole material for Natural Selection."
+
+"We conceive the germ-plasm, then, as living and active, closely
+adjusted to its environment, growing, dividing, varying, capable of
+being destroyed and injured, but resisting death and injury, and within
+limits capable of repairing damage and returning to its original
+state--as behaving exactly as a living individual does."
+
+
+
+
+                                CHAPTER IV
+
+                            THE MAKING OF A MAN
+
+
+Having in this brief preliminary consideration of the fundamental facts
+upon which the science of Embryology is based cleared the ground as far
+as possible, we may now summarise, in a few simple statements, the point
+at which we have arrived in order that we may proceed at once to the
+more detailed study of the actual development of the embryo itself.
+
+We are in search of as clear a statement as possible of the origin of
+the many and varied characteristics which go to the formation of a human
+embryo, and hence to the making of an individual. The variation in these
+many characteristics accounts for the differences in individualities. No
+two individuals are exactly similar whatever be the standard by which we
+estimate them. This is true morally, ethically, and physically. In each
+of these spheres there are to be found good, bad, and indifferent
+individuals, but whichever they are it is quite obvious that the result
+has been brought about by the influence of all the factors of heredity
+and environment acting upon the capacities which were originally
+implanted in the germ-plasm. An individual is the resultant of the play
+upon one man's-worth of human material of all forces which have acted,
+or are acting, upon that kind and amount of material. Even though two
+children of the same parents be brought up under what are to all
+appearances identical circumstances, they differ from the very beginning
+from each other and their parents. This is true even of physical
+characteristics, and even more markedly in mental features. The fact
+is--and it is one which is not sufficiently recognised--that the
+formation of an individual from an embryo, the making of a man, is a
+biological problem fundamentally.
+
+The following are the principal facts which we have at this stage to
+bear in mind.
+
+All living creatures are made of cells, the physical basis of which is
+protoplasm. The simplest creatures consist of one such mass of
+protoplasm; higher organisms consist of more than one, and often of
+millions, in which case they adhere together. Cells multiply by dividing
+into two, the protoplasm of the mother-cell giving rise to that of the
+daughter-cells. A human embryo, therefore, which is going to give rise
+to an adult individual is a community consisting of an enormous number
+of cells, the whole of which have descended from one common ancestor, a
+single cell known as a fertilised ovum. True, these descendants break up
+into many types of cells in order that different functions may be
+performed by special tissues, but none of these special cells can do
+everything that is necessary for the life of the whole individual; they
+can only play their own special small part. They can do nothing towards
+continuing the species of the individual. This duty, like others, is
+imposed upon one particular group and kind of cells, namely, the
+germ-cells, which do nothing else in the animal economy but furnish the
+means for the continuity of the race. Although they lie within the
+tissues of the embryo, and afterwards of the adult, they take no part in
+the life of that embryo or adult. They undergo certain changes in
+themselves which are to fit them for their ultimate destiny and
+function, but they contribute nothing to the output of energy on the
+part of the individual. When these are derived from a female they are
+termed "ova"; when from a male they are termed "sperms." They themselves
+are neither male nor female, they are merely protected and nourished by
+the general mass of cells which constitutes the male and female
+individual.
+
+When a male germ-cell or sperm unites with a female germ-cell or ovum,
+within the female body, fertilisation of the ovum takes place, and this
+gives rise to the fertilised germ-cell from which is to arise first the
+germ-cells or direct descendants of itself, and secondly the embryo in
+which these germ-cells will come to lie. This happens by the repeated
+and continued division of the fertilised germ-cell, a division which
+constitutes growth, and which under suitable conditions of nourishment
+and protection and exercise will ultimately produce a human being. The
+great mass of the cells of this individual, the body or somatic cells,
+take no part whatsoever in giving rise to the germ-cells of the next
+generation. These are produced from the pre-existing germ-cells, and
+from no other source, and it is for this reason alone that the phenomena
+of heredity are possible and that one generation is directly continuous
+with its predecessors. In fact heredity may be defined as the
+relationship which exists between successive generations.
+
+We therefore see that the embryo, or the individual, is formed from one,
+and one only, of the first products of the division of the fertilised
+germ-cell, the rest of these products forming the other body tissues.
+This idea of the continuity of the germ-plasm is the greatest
+contribution of modern embryological research. It is quite fundamental,
+and no clear understanding of what is involved in the making of a man is
+possible without it. It teaches us that the line of ancestry and
+heredity is from one generation of germ-cells to another, directly, and
+never through the individual from the embryo, which, indeed, is a mere
+side product in the continued chain of events. The individual is
+practically the trustee of the germ-cells, but not their maker. No
+embryo, and no individual, ever made germ-cells; the latter existed
+first. The object of the embryo is obviously to protect and nourish the
+germ-cells which have been placed within it, so that they may be
+available in due time for the production of further germ-cells, and so
+for the continuity of the race. Hence it is the all-pervading truth of
+natural selection that the interest and survival of the individual is
+almost of no account; that of the species or the race being the
+paramount consideration.
+
+Once these facts be grasped there is no longer any difficulty in
+understanding why the process of reproduction in any given species
+always results in the formation of embryos which resemble each other in
+all the main characters of their species. It could not be otherwise,
+because they come from portions of identically similar material, a
+common germ-plasm. In other words, the individual inherits nothing from
+its parents. He merely receives in his turn the material inheritance in
+the germ-plasm which was there a generation before him.
+
+In so far as there has been no germinal variation he and they will be
+similar. Hence the common observation that the child resembles the
+parent. True, so he does; but not because he gets his characters from
+them, but simply because he and they obtain their characteristics from a
+common source. To many this thought will be, perhaps, a new one. It is
+one of the most interpreting ideas which science has given us, and in
+its absence no real grasp of the origin of the physical, mental, and
+other characters if there be any, of the embryo can be understood. The
+present writer has elsewhere summarised this thought as follows:--
+
+"Man is composed partly of characteristics, which are derived from
+pre-existing germ-cells, and over the possession of which he has no
+control whatsoever. Be they good, bad, or indifferent, these
+characteristics are his from his ancestry in virtue of his inheritance.
+The possession of these characteristics is to him a matter of neither
+blame nor praise, but of necessity. They are inevitable."
+
+The embryo then which is to form the individual starts its career with a
+certain number of innate germinal characteristics which manifest
+themselves in the form of tendencies to grow in this direction or that.
+During the period of gestation a good many of these tendencies are well
+developed while a good many more only manifest their exact nature in
+later life. But it is upon the basis of these tendencies--and upon no
+other--that the making of the individual is possible. They represent the
+total assets available for the formation of character. Nothing of any
+new _kind_ can be added to them.
+
+All that can be done under the best conceivable circumstances is so to
+arrange the environment and surroundings of the embryo, and the
+subsequent individual, so that these tendencies are acted upon in such a
+way that the best are developed, and the worst eliminated. It must be
+remembered that it is under the constant action of everything that
+constitutes the environment of an embryo that the mass of body-cells
+gradually grows into a recognisable human personality.
+
+The question then arises, What are the factors external to the embryo
+which cause these germinal tendencies to become active and fully
+developed? These factors are those of (_a_) nourishment; (_b_) use, or
+exercise; and (_c_) injury. In the case of the human embryo by far the
+most important of these three factors is the first. A proper supply of
+nourishment and food, that is to say maternal nutrition of adequate
+quantity, is sufficient up to the time of birth to cause the inborn
+tendencies in all the body-cells gradually to assume the special
+characteristics of muscle, bone, gland, nerve, and so forth, which make
+the human embryo. After the period of embryonic life is over, the
+stimulus of nutrition is still sufficient for some of these body-cells.
+Thus we find that the hair, the teeth, the internal ears, and the organs
+of reproduction, all grow to their full development in the absence of
+any other factor or stimulus than that of nutrition. But, as we also
+know, this simple stimulus is not sufficient for most of the other body
+tissues to develop properly. They require the additional stimulus of
+exercise which, indeed, may be said to begin even in the life of the
+embryo. After that it is quite hopeless to expect a healthy embryo to
+develop into a fine child unless to the stimulus of nutrition there is
+added that of exercise. It is from the varying quantities and qualities
+of the three factors of nourishment, exercise, and injury, that part of
+the explanation is found for the variation in individuals of the same
+family. Starting with a good many of the same inborn tendencies none of
+them afterwards receive quite the same kind and amount of these stimuli,
+under the action of which they develop. And so we reach the second
+point, namely, that, in addition to innate characters certain others are
+subsequently acquired by the embryo of the individual in response to
+particular stimuli acting from without.
+
+Here we are upon ground which is more or less in our own choice or
+control. It is impossible to alter germ-plasm; but it is not impossible
+to control the environment in which it exists. To these two groups of
+characters, the germinal and those acquired under stimulus, there is to
+be added the third group which we have mentioned on a previous page,
+namely, those that are usually termed variations. For example, one
+occasionally finds that one individual in a family, the parents of
+which, and the other members of which, are quite normal, may be born
+with six fingers instead of five. Similarly one of a family may have a
+variation in the direction of an extraordinary capacity for the
+acquisition of knowledge of certain types. Hence the genius in music,
+mathematics, memory, morality, and so forth. As we have seen, these
+variations are termed spontaneous, to express the fact that we are at
+present ignorant of the laws in accordance with which they arise,
+though, of course, it is understood that those laws must exist.
+
+We have now surveyed the whole field of the possible origin of the
+characters of an embryo, and these may be summed up in the following
+tabular statement.
+
+                { A. Inborn Characters--
+                {   (_a_) Inherited (growing under the stimulus of
+                {   nutriment).
+  An Embryo is  {   (_b_) Variations.
+    made up of  { B. Acquired Characters, obtained
+                {   (_a_) By nutrition.
+                {   (_b_) By use.
+                {   (_c_) By injury.
+
+The differences in individuals with which we are also familiar, are due
+to the varying proportions of the characters in the above table, and the
+characters themselves are those which constitute all the possibilities
+for any given person.
+
+Should the reader doubt this, or be sceptical as to whether the whole of
+the making of a man is contained in the above simple scheme, it would
+not be difficult for him to convince himself that the statement is a
+true one. Let him put down this book and take a sheet of paper and a
+pencil. Rule the sheet of paper into three columns, and at the top of
+each column place a heading as follows: Inherited; Acquired; and
+Variations. Thus:--
+
+           +----------------+---------------+-----------------+
+           |   Inherited.   |   Acquired.   |   Variations.   |
+           +----------------+---------------+-----------------+
+           |                |               |                 |
+           |                |               |                 |
+           |                |               |                 |
+           +----------------+---------------+-----------------+
+
+Let him then proceed to think of as many definite characteristics of his
+own as he possibly can, and then enter these characteristics in the
+column which he deems appropriate. It will be found that with the great
+majority of characteristics no difficulty will be presented, and it will
+be quite impossible to think of anything which is a physical part of
+himself, which cannot be placed in one or other of these three
+categories. Even though there may be a little difficulty as to which
+column should claim the entry, it will be found that this is due rather
+to indecision on the part of the reader than to anything else. It is not
+because he can imagine any other origin for the trait which is for the
+moment puzzling, but simply because he may be uncertain as to whether it
+is an inborn character, or one due to the subsequent action of
+circumstances. Thus he will have no difficulty in placing in the first
+column such characteristics as the possession of one nose, two eyes, the
+colour of his eyes, perhaps the shape of his nose, and so forth, these
+all being germinal inherited characters. Equally simple is it to see
+that in the second column must be placed such parts of his individuality
+as speech, writing, the _size_ of his muscles at the moment, and so
+forth. These obviously have resulted from the action of circumstances on
+inborn capacities. No embryo can speak or write, though it has within it
+the inherited capacity to enable it to learn such things. Finally he may
+find it difficult to think of anything to place under the heading of
+"Variations"; but, on the other hand, should he happen to be a genius in
+music or mathematics, or the possessor of six toes or a black mole on
+his arm, these will indicate to him at once that they are of the nature
+of "Variations." (It must be remembered, however, that they may be
+transmitted to successive generations, in which case they become
+germinal characters.)
+
+In a similar way if the reader desires to follow out this analysis of
+the characters which make an embryo, and which, therefore, afterwards
+comprise the possibilities of an individual from the point of view of
+the stimuli under which they are developed, he may easily do so. Another
+sheet of paper similarly divided into three columns with the headings
+"Nutrition, Use, and Injury," will enable him to see how his individual
+characteristics have attained their present development as the result of
+one or other of these stimuli acting upon the germinal or inherited
+tendencies. Without going into detail in this matter one may simply note
+that under the heading of "Injury" will come all those parts of himself
+of which he has become possessed as the result of disease or accident,
+whether this be physical, mental, or moral.
+
+Now we have completed what was necessary to arrive at our conclusion of
+what it is that goes to the making of an embryo, and therefore of a
+human being--a personality. The conclusion is that every characteristic
+which it is possible for an individual under any circumstances
+whatsoever to possess is traceable ultimately to the action which takes
+place between his inherited tendencies and his natural environment. This
+environment, whether it be physical, mental, moral, ethical, spiritual,
+or whatever other can be imagined, can only produce the whole individual
+by means of acting upon what is already present. To that material
+nothing can be added _except in the environment_; from that material
+nothing can be taken away; the most that can be done in this direction
+is to hinder its growth by suitable procedures. Hence the truth of the
+phrase that "education is nothing more than the giving or withholding of
+opportunity." Hence it is so entirely true that it is impossible to make
+a silk purse out of a sow's ear, or to gather grapes from thorns. The
+importance of thoroughly realising these simple facts of embryology
+should at this stage be obvious. They constitute possibly the most
+important lesson which is demanding attention at the hands of modern
+teachers, parents, and sociologists.
+
+One further word before we leave this part of our subject. It is obvious
+that of our total characteristics some are acquired and some are
+inherited, and the question then arises, How much is inherited in an
+embryo or individual, and therefore unavoidable, and how much acquired?
+It would be beyond the scope of our subject in this place to enter into
+detail in this matter, but it would not be right to pass the question by
+without pointing out that a careful analysis of individual
+characteristics will show that under the heading of "Inherited" will be
+found principally the physical traits. When the reader comes to estimate
+his mental and moral characteristics, a very few moments' careful
+thought will prove most conclusively to him that these must be entered
+up under the heading of "Acquired." If it were not so progress in those
+directions would be practically hopeless. But plain as is this truth, it
+is one which is far from being realised by many well-educated people.
+
+
+
+
+                                 CHAPTER V
+
+                    FERTILISATION AND EARLY DEVELOPMENT
+
+
+We may now turn our attention to the consideration of some of the
+phenomena connected with the early processes in the development of the
+embryo. We may assume that the eggs and sperms have reached such a stage
+in their life history that they are now mature. All that is necessary in
+order that the development of an embryo should result is that union of
+the two elements should take place. Many complicated changes have
+occurred in the constitution of these eggs and sperms before this stage
+is reached, but into these we need not enter. It will suffice for our
+purpose to assume that they are now mature. Then as the result of a
+natural instinct which suggests certain thoughts and emotions to the
+male and female animals, which in turn are followed by certain definite
+acts, the sperm-cell from the male and the egg or ovum-cell from the
+female are brought into contact. This contact takes place in such
+circumstances that the united elements are able to be protected and
+nourished and so, fertilisation having thus occurred, development
+begins.
+
+The characters of these two wonderful cells, which by their union
+ultimately cause the production of an embryo, are briefly as follows.
+The element from the male, the sperm that is, is an extremely minute
+cell which is only about 1/300 of an inch in length. As seen under a
+high power of the microscope it is composed of two portions which are
+spoken of as a head and the tail. The former is a flat, oval part, and
+behind this is the rounded body ending in the long tail which is some
+four-fifths of the total length. This long tapering tail gives to the
+sperm its power of movement, for it is supposed that as the result of
+the rotating or lashing movements of this tail the cell is propelled.
+Indeed its rate of motion has been actually studied, and estimated to be
+at about one-eighth of an inch per minute.
+
+The cell contributed by the female, the ovum that is, has quite a
+different structure and microscopical appearance. Compared with most
+cells it is rather large, almost round in shape, having a diameter of
+about 1/120 of an inch. Up to the time we are now considering, this
+cell, along with a great many others like it, has been stored within the
+female ovary, from which organ an ovum periodically escapes. Unless
+fertilisation takes place by union with a sperm the discharged ovum
+perishes. Should, however, the sperm-cell be available, and should it
+have been able to reach a situation at which fertilisation can take
+place within, the chain of events which constitute development begins.
+But before fertilisation can take place the ovum has undergone what is
+called the process of maturation, in which it divides twice, giving off
+two small portions of itself in the process. The result of this is that
+half the number of chromosomes in the ovum are lost. This process of
+maturation has already taken place in the sperm before it leaves the
+body of the male.
+
+When these two cells meet, the actual fusion of their material takes
+place, the head of the sperm penetrating into the substance of the ovum,
+and the body of the sperm completely fusing with the nucleus of the
+ovum. This gives rise to what is called the "segmentation nucleus." It
+will be observed that we now have a cell in which the full number of
+chromosomes for that particular species is represented once more. But
+this full number has now been made up from two different sources, half
+from the elements contributed from the male, and half from those of the
+female. It is at this stage that the inherited tendencies, carried in
+the germ-plasm on the two sides of the ancestry, become mingled, and
+from thenceforward the division of the fertilised cell into many
+cell-descendants goes on with extreme rapidity.
+
+Two different lines of germ-plasm have thus been intimately mingled, and
+the actual significance of this mingling has given rise to one of the
+most acutely debated points in all the problems of heredity. Put into
+quite plain language that problem is--What is the function of sex? It is
+no part of our task here to answer that problem, but it is of interest
+to point out precisely at what stage it occurs in embryology. The
+obvious answer, however, may be advanced that the function of sex is to
+mix the characters of the parents in such a way that some from each
+source will be found in the offspring. But how these are mixed, whether
+as painters mix two colours and produce a third, or as two packs of
+cards are mixed having different coloured backs, is quite another
+matter.
+
+The fertilised ovum now commences to form a number of successive
+generations of cells, and this it does by dividing into two, four,
+eight, sixteen, thirty-two, and so forth, until a number of cells have
+been produced which arrange themselves into the form of a ball. The
+surface of this ball resembles that of a mulberry, each elevation
+corresponding to a cell. This mass is termed by embryologists "the
+morula." (See Fig. 1.)
+
+[Illustration: FIG. 1.]
+
+Next, within this morula some of the cells become condensed into one
+particular portion, leaving a space which contains fluid. The ball is
+now no longer solid, but has a portion consisting of cells, and a
+portion consisting of fluid. It is now called a "blastocyst." (See Fig.
+2.)
+
+[Illustration: FIG. 2.]
+
+The cross-section of this shows the cells projecting into a cavity. This
+is the first attempt of the fertilised ovum to form itself into the
+different layers, which are ultimately going to give rise to all the
+different tissues of the embryo. But it is interesting to know at this
+stage that the outer layer of cells, those representing a margin in the
+figure, has nothing to do with the forming of the embryo at all, but
+gives rise to a structure whose function afterwards is to be that of
+nourishing the growing embryo.
+
+The next obvious change is that the cells at the lower portion of the
+mass which projects into the cavity appear to get flattened out--at any
+rate they obviously arrange themselves in a definite and separate layer;
+and this layer in its turn proceeds to go on growing by division of its
+cells in such a way as to form another little closed cavity within the
+larger one. This cavity is termed the "yolk sac." (See Fig. 3.) Then
+another little cavity occurs, this time within the original projecting
+cell-mass. This cavity is termed by embryologists the "amniotic cavity,"
+and the cells which line it, and which in their turn become arranged as
+a separate layer, form what is termed the "embryonic ectoderm." (See
+Fig. 3.)
+
+[Illustration: FIG. 3.]
+
+It is in this region, and in that of the yolk sac which lies just
+underneath it, that the future growth of the embryo itself occurs, and
+the portion is therefore termed the "embryonic area." (See Fig. 3.)
+
+Up to this point we have seen that two layers of cells have appeared,
+one round the yolk sac, called the "entoderm," and the other lining the
+amnion, called the "ectoderm." After these two germinal layers have made
+their appearance, a third layer comes into existence, which, because it
+begins growing from the embryonic area, and lies between the two already
+mentioned, has received the name of the "mesoderm." This third germinal
+layer divides into two portions before very long, and the space between
+these two is that in which the body cavity itself subsequently arises.
+One part of the mesoderm, situated near one end of the embryonic area,
+is specially important, because in it are formed the blood-vessels which
+supply the embryo, and which ultimately afterwards becomes the
+"umbilical cord," which forms the connection between embryo and mother.
+
+
+
+
+                                CHAPTER VI
+
+                             EARLY DEVELOPMENT
+
+
+The early development of the embryo now proceeds rapidly, and its
+appearance at the stage we have just been describing is thus stated by
+Dr. R. W. Johnstone:--
+
+"If the ovum at this stage be looked at from above, the embryonic area
+appears as a small shaded oval. The shading is due to an increased
+growth of cells, because here the three germinal layers--embryonic
+ectoderm, mesoderm, and entoderm--are in contact. At one end a patch of
+darker shading indicates a still greater growth of cells. Running
+forward from this is a band--the _primitive streak_--in the centre of
+which lies a darker line--the _primitive groove_. At the far (anterior)
+end of the primitive groove there is a dark spot--Hensen's node--from
+which still another streak runs forward, the head process. Later, in
+front of the primitive streak, a thickened band of ectoderm appears,
+broadening out posteriorly. The edges of this band rise up to form two
+folds, which meet anteriorly. The groove between them is the _medullary
+groove_, and ultimately they fold over and unite to form the _neural
+canal_. (See Fig. 4.)
+
+"Along the line of the primitive streak all three germinal layers are in
+contact. Superficial to it is the amnion, and below it is the yolk sac.
+The embryonic area is the only part of the ovum which has to do with the
+subsequent development of the embryo; the other parts of the
+blastodermic vesicle become subservient as nutritive or supporting
+structures.
+
+"At this stage, and for the first three weeks of its existence, the
+embryo is a 'flat disc floating on the surface of the yolk sac.'
+(M'Murrich.)"
+
+[Illustration: FIG. 4.]
+
+This is followed by a folding of the embryo, due to the enlarging of the
+amniotic cavity, the result being to form what may be termed a
+"head-fold" and a "tail-fold." A further fold, however, occurs at the
+sides which bend in, so that the whole embryonic mass at this stage
+comes to form an incomplete tube, the incomplete portion being the lower
+aspect of that tube. This remains open. In due time this lower, or
+ventral portion, becomes completely closed, except just at one point.
+This point is where the communication exists between the inside of the
+tube, which is the embryo, and the yolk sac. A part of the yolk sac is
+thus included in the embryo itself, and this has an important bearing
+upon future development, because in the course of time this part comes
+to be the alimentary tract of the growing embryo. The canal which joins
+the yolk sac to the internal gut of the embryo (the vitelline duct)
+ultimately forms, together with part of the yolk sac, the umbilical
+cord. This cord, which at the time of birth is artificially severed in
+order to free the fully developed embryo, is at this stage connected to
+the hinder part of the body of the embryo. As the latter grows, however,
+it elongates still more behind, in what we should regard as the tail
+region in animals which had a well-marked tail. As a matter of fact, at
+a little later stage than this there is quite a conspicuous tail in the
+human embryo, which, however, comes to be embedded in the tissues later
+on, and so never forms any external appendage.
+
+So that at this stage we have the embryo representing a mass of cells
+which have gradually arranged themselves, and been arranged, in the form
+of a tube more or less bent, and attached near its hinder end to the
+tissues which are afterwards to represent the umbilical cord.
+
+We have neglected to describe the organs and structures which are
+developed after fertilisation as a further means of protecting the
+developing embryo. We have done this of set purpose, because these
+structures--known as the "trophoblast"--require a considerable amount of
+technical knowledge to understand. Any detailed description of them,
+therefore, would be out of place here. All that is necessary for us to
+say is that they are intended to serve as a means of nutrition for the
+developing embryo, and take no part in the actual formation of its cells
+and organs. One portion of it, however, has another function which may
+be mentioned. It secretes, it is supposed, a kind of ferment which has
+the power of dissolving or digesting other cells, and this is of great
+importance at one stage of development--namely, when the fertilised ovum
+comes to reach the womb, or uterus, in which it is to pass the rest of
+its developing stage. It is believed that some of the cells in the wall
+of the uterus are dissolved and digested immediately round the ovum
+itself, which thus comes to lie in a cavity in the uterine wall. This
+process being carried still further allows the ovum to sink deeper and
+deeper into the lining membrane of the uterus. Ultimately the point of
+entrance, where the cells were digested, is closed up by the formation
+of a clot of blood poured out at that spot, and which thus entirely
+covers in the ovum. The latter now comes to lie absolutely embedded in
+the wall of the uterus in a cavity which it has itself formed. It does
+not, however, occupy the whole of the cavity, but is surrounded by blood
+which is escaping from the minute blood-vessels of the wall in which the
+cavity has been made. This blood is, of course, the maternal blood.
+"Thus we have the ovum completely embedded, lying free in a tiny cavity
+in the mucous membrane lining the uterus--a cavity full of blood, in
+which the ovum lies bathed, and from which it presumably absorbs
+nourishment by osmosis through its trophoblast." (R. W. Johnstone.)
+
+The uterine wall, after this embedding of the ovum within it, undergoes
+a remarkable growth at this position, concerning which a word must be
+said. Under normal conditions this wall is smooth, or nearly so, but
+probably there are upon it some slight irregularities or projections
+which are sufficient to catch the ovum when it enters the uterine
+cavity. Apparently it may be arrested in this way at any part of the
+wall, and at that spot it becomes embedded in the manner we have
+described above. The lining membrane of the uterus under ordinary
+conditions measures about one-eighth of an inch in thickness, but, after
+the ovum has become embedded in it, it begins to increase until it
+reaches as much as half an inch. Underneath this lining membrane lies
+the muscular part of the uterine wall. The ovum itself is embedded about
+the middle depth of the lining membrane, but as it continues to grow,
+and increases in size and dimensions it projects more and more into the
+uterine cavity, that being the direction of least resistance. Before
+very long the embryo, as it now is, has reached such a size in its
+growth that it entirely fills the cavity of the uterus. This stage is
+reached after the third month of gestation.
+
+Another structure, concerning which just a word must be said, is that
+known as the "placenta," or more commonly as the "after-birth." We need
+only say that this is first developed by means of a number of little
+outgrowths by means of which the early embryo is attached to the wall of
+the cavity in which it lies. These outgrowths grow into the uterine
+tissue around the ovum, and they allow of blood circulating between
+them. They have, as a matter of fact, two distinct functions to
+perform--first, that of fixing the ovum in position, and, secondly, they
+allow of the maternal blood circulating in the spaces between them, and
+it is from this blood that the embryo derives its nourishment. The
+blood-vessels ultimately connect with those of the umbilicus, and thence
+reach the embryo. This organ, the placenta, at the time the embryo is
+fully developed at birth, is a round structure about nine inches across,
+and not quite an inch thick in its middle, becoming thinner towards the
+edges. The surface of it next to the infant is smooth and shiny, beneath
+which it is rough, that next to the maternal structures being
+dark-coloured, somewhat like flesh. When the child is born, the severing
+of the umbilical cord allows the placenta to remain behind in the
+uterine cavity, whence it is usually expelled shortly afterwards.
+Should, however, this not be done, and the embryo and the placenta be
+born together, the child is said to be "born with a caul," an event
+which has given rise to many superstitions.
+
+The foregoing description of the principal events in the development of
+the embryo will be sufficient for our purpose here. Further details on
+the subject would necessitate a considerable knowledge of physiology and
+anatomy, and those readers who desire to study the details of the
+subject further may do so in any of the various works referred to in the
+bibliography appended to this book.
+
+
+
+
+                                CHAPTER VII
+
+                         THE BEGINNINGS OF THINGS
+
+
+We may next turn our attention to the developing embryo at a very early
+stage, and note from which parts of its growing cells the different
+structures are ultimately developed, remembering all the while that all
+the subsequent division into specialised tissues is the result of the
+inherent possibilities in one single fertilised germ-cell.
+
+It will be remembered that, as the result of the subdivision of the
+fertilised germ-cell, we had the formation of three distinct layers of
+cells. These layers we saw were termed the germinal layers, and were
+named respectively the "ectoderm," the "entoderm," and the
+"mesoderm"--the last appearing between the two former. It is from these
+three germinal layers that all the subsequent structures of the body
+take their origin, and although we cannot attempt to follow out in
+detail the growth of all these special tissues, it will, nevertheless,
+be of interest to note, in the briefest possible way, from which portion
+of the embryo they subsequently arise. Some of these we may afterwards
+note in detail. The total result may be summarised by simply giving a
+list of the various tissues, and the corresponding embryonic layer from
+which they come. Thus:--
+
+  A. From the ectoderm arise the following structures:--
+
+     Epidermis or skin.
+     The hair.
+     Various glands.
+     The lens of the eye.
+     The whole nervous system.
+     The nerve parts of the sense organs.
+     The membrane of the mouth.
+     The enamel part of teeth.
+     The membrane of the nose.
+     The lower part of the bowel.
+
+  B. From the mesoderm arise the following structures:--
+
+     The connective tissues of the body.
+     The bones.
+     The teeth, except the enamel.
+     All the muscles.
+     All the blood-vessels of the circulation.
+     All the vessels which carry lymph.
+     The membranes of the heart, lungs, and bowels.
+     The kidneys and their ducts.
+     The reproductive organs.
+     The blood itself.
+     The fat and the marrow.
+
+  C. From the third layer of the embryo, the entoderm, arises:--
+
+     The lining of the alimentary tract.
+     The lining of the larynx.
+     The lining of the trachea and lungs.
+     The cells of the liver, the pancreas, the thyroid, and thymus.
+     The structure termed the notochord.
+
+From the above very brief summary we see that the body of the
+individual, with all its component tissues and parts, can be divided, as
+regards its origin, into three groups according as to which embryonic
+layer was concerned in its development. Moreover, if these three groups
+be scrutinised a little more carefully, they will be seen to differ very
+markedly from each other in the structures and tissues which are derived
+from them. Thus the structures from the entoderm (see C) are practically
+either in the nature of glands, or the lining of the alimentary tract.
+Those tissues coming from the mesoderm (see B), on the other hand,
+comprise most of what may be termed the supporting tissues of the body,
+such as the bones and the muscles and ligaments, as well as the vessels
+which constitute the great circulation of the blood and lymph. But
+perhaps the most remarkable of all is the list of structures which take
+their origin from the ectoderm of the embryo (see A). In this list will
+be found the most important structures in the whole human body, as well
+as some of those which are apparently of far less serious importance. It
+is rather surprising to find, for example, that the whole of the nervous
+system, including the brain and spinal cord, and the organs of special
+sensation, should be derived from the same layer of cells as gives rise
+to the very simple cells of the skin, which serve merely as a protective
+covering to the other tissues. It is curious also to observe that in
+addition to brain and skin, parts of the teeth also arise from this
+external layer. Evidently then this ectoderm or outer layer is of the
+very greatest importance in embryology, since from it arise all those
+parts of the embryo itself which are the most important in its future
+life.
+
+
+
+
+                               CHAPTER VIII
+
+                  THE BEGINNINGS OF THINGS (_continued_)
+
+
+We have now considered, as far as is compatible with the character of a
+work of this kind, the beginning and development of the embryo taken as
+a whole, and for the remaining part of our study of this subject we may
+devote our attention to the beginnings of some of the more important
+organs and functions in the new individual. It will be impossible to
+deal in detail with all the important parts which ultimately constitute
+the new personality, but a selection may be made which will give some
+general idea of how great results spring from very small beginnings.
+What will be said here it may be hoped will be just sufficient to
+stimulate the interest of those to whom the subject appeals, and who may
+then turn their attention to some of the larger works which go into
+greater detail in this subject, a list of which will be found in the
+bibliography at the end of this volume.
+
+It must be remembered that quite a large number of the characteristics
+that we usually associate with a normal human being only come into
+existence, or at any rate only become obvious, at some period longer or
+shorter after birth. True, these characteristics depend for their
+ultimate appearance upon the development of the corresponding structures
+and organs in the growing embryo, but in the case of some of these,
+those organs are not fully developed in embryonic life, and the
+manifestation of the functions associated with them may be delayed
+perhaps for years. This is notably the case, for example, with the
+reproductive organs which, though developed during the life of the
+embryo, remain functionless until the period of adolescence. The
+development of the human mind and intellect too, although depending, of
+course, upon the embryonic growth of the brain and the nervous system
+generally, is a matter of time and the environment subsequent to birth.
+It should be realised, however, in this connection, that the mind of the
+new individual, and all that is involved in that term, dates back
+ultimately, as regards its possibilities, to the moment at which the two
+germ-cells from the male and female respectively united in
+fertilisation. The adult mind develops from the mind of the infant. The
+infant mind appears as the result of the possibilities and the
+tendencies which were inherent in the germ-cells from which not merely
+the brain but the whole embryo sprang; in other words, all that a single
+human mind connotes results from the possibilities in a single cell.
+Such a thought is a startling one indeed, and at first sight appears,
+perhaps, somewhat incredible. But a moment's careful attention to the
+problem will show at once that it is in reality no more wonderful than
+the fact that this single cell produces all the millions of other cells
+which in due time give rise to the skin, bone, nerve, blood, and so
+forth, which make up the entire body of the embryo. The human mind,
+therefore--and indeed the human soul, if that term be used in any
+intelligible sense--takes its origin in the products of the
+multiplications of germ-cells acted upon by their subsequent
+surroundings.[1]
+
+  [1] The detailed study of this part of the subject is dealt
+  with in the writer's work, _The Greatest Life_ (Duckworth, London),
+  to which readers who are interested in this phase of the subject are
+  referred.
+
+With this passing reference to the fact that some important parts of an
+individual only grow to their full manifestations after embryonic life,
+we may pass to the consideration of the development of some of the more
+interesting parts of the embryo itself.
+
+Amongst the most striking, and certainly the most interesting, of the
+various parts of the developing embryo, those which go to form the
+special senses are prominent. They are interesting not merely from their
+actual mode of growth, but especially also in connection with their
+evolutionary history. The study of how they have come into their present
+state in the higher animals leads us back to very small
+beginnings--indeed, to the time when there was no such thing as special
+sense organs for sight, hearing, smell, and so forth, but where the
+organism had what may be termed a diffused tactual sense over and
+throughout the entire body. In the course of time this diffused general
+sense became specialised, no better example of which could be quoted
+than that of the sense of sight, which was referred to, as many of our
+readers will doubtless remember, in Tyndall's famous Belfast address. He
+was referring to Herbert Spencer's theory of the manner in which vision
+was evolved. He pointed out that, as above noted, in the lowest
+organisms sensation is a general thing diffused throughout the body, a
+kind of general tactual sense. As the result of environment, and gradual
+adaptation to external influences, certain parts of the general surface
+of the organism became more responsive to these external stimuli than
+other parts. These areas, being those points at which sensation was most
+acutely felt, were nothing more or less than primitive sense organs.
+Thus in the progress of evolution the stimulus of the eye gradually
+became most pronounced in certain cells which contain pigment, these
+cells being more responsive to the light stimulus than the rest of the
+body. That was the beginning of an eye; a group of cells more receptive,
+more easily influenced by light, than any other cells. In a slightly
+higher stage of evolution we find a special overgrowth of the skin which
+covers over the area in which these pigmented cells lie, obviously a
+protective measure on behalf of the specialised cells referred to. Then,
+still later, a lens is added, and the whole organ becomes more and more
+adapted to the necessities of the case, until it reaches the
+extraordinary perfection that is seen in the eye of such a bird as an
+eagle. On the same general principle, the other special senses also took
+their origin from this general diffused tactual sense, certain cells
+becoming specially adapted for receiving the stimulus of sound, others
+for taste, others for smell, and so forth.
+
+
+
+
+                                CHAPTER IX
+
+                   THE BEGINNINGS OF THINGS (_continued_)
+
+
+It is not necessary to describe in detail the beginnings of all the
+various structures which arise from that important layer of cells in the
+embryo which is termed the ectoderm; but since it gives rise to that
+part of the embryo, which eminently places man in the first place in the
+world of animals, we may select it for a little further description. We
+may leave out of account the beginnings of the skin and the glands, and
+some other parts, and look for the moment at the origin of the nervous
+system, which includes the brain, the spinal cord, and the whole nervous
+mechanism of the individual. Since man's prominence depends upon the
+wonderful capacities in his nervous system, it is all the more
+interesting to note from what small and simple beginnings it has arisen.
+
+As we have already seen, at a very early stage in the development of the
+embryo, a folding of its cells takes place, so that the upper embryonic
+area assumes the character of a groove. We may confine our attention to
+this groove for the moment, leaving out of account the other two layers
+of the embryo--namely, the mesoderm and the entoderm. It is this groove,
+which thus early makes its appearance, which is subsequently to play
+such a tremendous part in the formation of the most important
+structures. It is called the "medullary groove." As growth proceeds and
+the cells continue to multiply and increase in numbers, the two edges or
+lips of the groove gradually approximate, and ultimately fuse together.
+Obviously the effect of this is to transform what was the groove into a
+closed cavity or canal, which is therefore now termed the medullary
+canal. Arising in this simple manner, this equally simple structure is
+destined to become the central canal of the spinal cord, and the
+cavities in the brain, known as the ventricles. The walls of this canal,
+be it remembered, are composed of cells of the layer of ectoderm, and it
+is these cells which, as we saw, appeared very early in the development
+of the embryo that are now to proceed to develop into the brain, spinal
+cord, and, in fact, the whole central nervous system. At first the cells
+appear all similar, but, as development goes on, they begin to
+differentiate themselves into different kinds, some forming the actual
+nervous cells of the brain and spinal cord, others developing into
+protective structures.
+
+The hinder or posterior part of this medullary groove and canal is
+narrower than the anterior portion. This posterior narrower part is that
+which gives rise to the spinal cord. It very soon changes its character
+by the appearance of a number of constrictions at intervals running
+along its whole length. It becomes, as it is termed, segmented. A little
+later these successive segments are seen to correspond to the pairs of
+spinal nerves which arise from the cord. For the first part of embryonic
+life the developing spinal cord is of the same length as the canal, but
+as time goes on the canal grows longer than the cord. This involves the
+nerves coming from the hinder portion growing longer than others. It is
+the front or anterior portion of this medullary canal which is concerned
+in the development of the brain itself, and here, at an early stage, two
+very obvious constrictions appear in the region of what is to be the
+brain, and these constrictions divide that brain area into three
+distinct parts, or vesicles. Part of the posterior vesicle ultimately
+develops into the _cerebellum_, or little brain. Another part forms the
+_medulla oblongata_, that important hind brain in which lie so many of
+the vital centres of nervous energy. The central cavity formed by these
+constrictions is of comparatively less importance, forming ultimately
+what is known as the _mid-brain_. The foremost or anterior vesicle,
+however, is of the very greatest importance, and its subsequent changes
+are more marked than either of the other two. From it is developed the
+great mass of the cerebrum itself, together with various outgrowths from
+it which have most important functions. Thus two of these outgrowths
+appear projecting from the lower part of the sides of the walls, and
+ultimately coming to reach the outer ectoderm. These two projections, or
+pouches, ultimately form the optic vesicle. Still later in development
+the whole of the anterior vesicle is again constricted, thus forming two
+distinct parts, the foremost of which, growing rapidly in two halves on
+either side of the middle line, ultimately give rise to the two cerebral
+hemispheres. These two cerebral hemispheres, therefore, arise, in the
+first place, as lateral enlargements of the anterior part of one of the
+primitive constrictions of the medullary canal. In their outer layers
+cells continue to make their appearance with great rapidity, and thus
+is formed the cerebral cortex; and the remarkable thing about this
+all-important part of the brain itself is that all the cells of this
+cerebral cortex appear to be produced during the life of the embryo;
+there being in all probability none added after birth has occurred. That
+is to say, the possibilities of the actual physical growth of brain
+tissue in any given embryo are fixed from the beginning. Brain tissue,
+in other words, is born, not made. It is the manner in which it is
+treated afterwards upon which depends whether that given quantity of
+brain-cells displays its best potentialities or not.
+
+[Illustration: FIG. 5.--Diagram of brain at an early stage, showing the
+origin of the olfactory lobe, the optic vesicle, the cerebellum, the
+cerebrum, the medulla, and the spinal cord (after Martin).]
+
+We have seen that the optic structures are concerned with this front
+portion of the developing brain. The same is true of the organs which
+are concerned with the special sense of smell; for about the fourth week
+of the life of a human embryo there appears on the under surface of each
+of the cerebral hemispheres, towards the front, a prolongation which
+becomes the olfactory lobes.
+
+It is well known that the surface of the brain of an adult human being,
+or, indeed, of any of the higher vertebrates, shows upon its surface a
+number of convolutions, and it is generally recognised, from a study of
+the comparison of different vertebrate brains, that the more convoluted
+is the surface of the adult brain the more highly developed is the
+animal concerned, from the point of view of brain power. The surface of
+the cerebral hemispheres, however, is quite smooth for some months of
+embryonic life, and the depressions which give rise to the appearance of
+the convolutions do not show themselves until about the fifth month, at
+which stage the brain is relatively large.
+
+We referred on a previous page to the origin in evolution of visual
+sensation, and it may be of interest here to note a little more fully
+the beginnings of the eye itself in the embryo. As has been said, the
+very first appearance of these organs takes the form of a pair of
+outgrowths, or processes, which are hollow, from the front part of the
+anterior vesicle of the brain. These grow until they reach the ectoderm.
+A remarkable change then takes place. The portion of the hollow vesicle
+which reaches the outermost embryonic layer becomes folded in upon
+itself so as to form a cup with a double wall; just as one might form a
+cup in a blown-up paper bag by forcibly pressing one portion of it into
+the other. This double-walled cup is of special interest, because from
+its walls is ultimately developed that very important structure in
+connection with sight, namely, the retina. As soon as this is completed
+cells begin to grow from it towards the brain in the form of nerve
+fibres, and these in time convert what was originally a hollow process
+or growth into a solid mass of nerve tissue. This mass is the optic
+nerve. Thus is completed the connection between the outer surface of the
+eye and the brain itself, which is to receive the sensation. Then the
+ectoderm on the surface over the cup begins to thicken, grows into the
+cup itself, and ultimately forms a rounded hollow mass which we
+afterwards recognise as the _lens_ of the eye. Still later this becomes
+separated from the surface by another layer of cells constituting the
+_cornea_, and outside that again is still another layer which makes the
+_conjunctiva_.
+
+Subsequently the contents of this cup become filled up from other
+sources with a soft gelatinous tissue. Then the eyelids in time make
+their appearance in the shape of folds of skin growing over the eye,
+and remaining in contact until very shortly before birth occurs. And so
+we see that from this wonderful layer of ectoderm there comes gradually
+into existence not only the brain itself and the spinal cord, with all
+the nerves, but also the special sense organs of sight and smell.
+
+
+
+
+                                 CHAPTER X
+
+                   THE BEGINNINGS OF THINGS (_continued_)
+
+
+Without entering into the description of the development of the whole
+circulatory system, we may just mention briefly the origin of the heart
+itself, which begins at a very early stage by the appearance of a small
+body of cells, which come to arrange themselves in a tubular form
+enclosed in the mesoderm. The two halves of this tube are at first quite
+separate from each other, but gradually come together and finally unite
+into a single tube with walls. The folds of these ultimately form the
+heart muscle. The organ, at this stage of its development, does not lie
+within the region of the chest cavity, as it afterwards does, but more
+anteriorly in the region of the neck. The simple tubular arrangement,
+however, is quite a passing phase, and as the tube increases in length
+it becomes bent upon itself, somewhat in the form of the letter S. One
+end of it now enlarges and forms a pouch on each side, these forming the
+two auricles, right and left. From these auricles a partition grows
+vertically, and when complete, cuts them off from each other, except
+that a communication is left in the upper part (_the foramen ovale_)
+which closes up after birth. This partition allows of the blood from one
+side of the heart passing to the other. Another partition eventually
+divides off that portion which has formed the auricles from the
+remaining portion which develops into the ventricles, which in their
+turn become again divided by a still further partition. In this way the
+heart which, in the first place, was a simple tube, grows ultimately
+into an organ with four distinct chambers, two auricles and two
+ventricles, the only difference from this and the adult heart being the
+communication which exists through the partition separating the two
+auricles.
+
+The development of the organ of hearing is somewhat complicated. The
+first part to appear is a portion of the inner ear, which shows itself
+as a round, hollowing of the ectoderm. This depression becomes deeper
+and sinks further in, while its floor becomes thicker, and finally the
+whole assumes the shape of a closed cavity. An outgrowth from this gives
+rise to the _cochlea_. The cavity becomes divided into two portions, in
+one of which the _semicircular canals_ arise. Around the whole, the
+embryonic tissue has been forming into a strong protective covering,
+some of which finally becomes cartilage, and some bone. The middle
+portion of the ear is the remains of a cleft in the side of the embryo.
+This cleft becomes changed into a canal by the closing of its edges, the
+upper part ultimately forming the _tympanic cavity_, and the rest of it
+remaining as the _Eustachian canal_. This canal opens into the pharynx.
+In the cavity there are subsequently developed three small bones which
+play an important part in the process of hearing. After the birth of the
+embryo, air reaches the tympanic cavity, which then enlarges. One of the
+walls of this cavity persists as the tympanic membrane or drum. Finally
+the outer ear, that portion which is popularly spoken of as _the_ ear,
+is formed from the upper portion of the same cleft which gave rise to
+the tube of the tympanum.
+
+We have referred in the preceding description to the origin of some
+embryonic structures from a cleft in the early embryo itself. As a
+matter of fact, no less than four of these clefts, or fissures, appear
+in the region of the neck on each side, and are of the very greatest
+interest and importance in connection with embryology. They are termed
+the "branchial clefts," and are seen in the embryos of all vertebrates.
+In the human embryo there are four. They are situated on each side of
+the pharynx, and they correspond to the gill slits in lower vertebrates.
+
+Amongst other structures which arise from the important layer of
+ectoderm are the teeth. Of these there are during life two sets, a
+temporary and a permanent. The temporary teeth, though they do not make
+their appearance till after the birth of the embryo, still are partly
+developed during embryonic life, lying embedded in the tissues until the
+familiar process known as "cutting the teeth" takes place. This is, of
+course, merely the time of their external appearance. The first stage in
+the development, however, is a thickening of the epithelium of the gums
+in a direction which is to correspond with the line where the teeth will
+eventually pierce. This thickening is called the "dental ridge." This
+grows downwards into the underlying tissue in flask-shaped growths. From
+the neck of each of these flasks there is a small projection which
+indicates where the permanent teeth will ultimately be. This first stage
+is termed that of the _enamel germ_. This becomes surrounded by cells
+which ultimately form a _dental sac_. Next, tissue from below grows
+into the flask, and the further growth of this gives rise to the _enamel
+organ_. Finally, enamel itself and dentine are developed, and the
+embryonic tooth remains covered under the gums until it cuts them.
+
+So far we have considered merely the mode of development of the most
+important organs of the body, but we have said nothing of the most
+important supporting structure, namely, the skeleton. The earliest
+appearance of anything in the shape of a skeleton is the structure known
+as the notochord, a structure of immense importance and interest in the
+embryology of all vertebrate animals, in which it is a temporary thing
+only. The first appearance of this notochord in lower animals is the
+earliest indication of the vertebrate type, because it is found that in
+the higher vertebrates it is the forerunner of the bony spinal column
+and the skull. It appears first as a groove underneath the medullary
+groove, of which we have already spoken, and its two lips unite to form
+a cavity, as did those of the medullary groove. In this case, however,
+the groove becomes a solid rod, then termed the notochord, and it lies
+immediately under the medullary groove itself, which, as we have seen,
+gives rise to the central nervous system. In the course of development,
+masses of cells come to arrange themselves on each side of the
+notochord, which they eventually include, and at the same time they grow
+upwards and around the spinal cord which is thus enclosed. Later on
+these surrounding portions become cartilage, and, still later, bone; the
+notochord meanwhile gradually disappearing where the bony spinal column
+appears. This primitive vertebrate structure therefore, of the
+notochord, has the all-important function of coming to enclose, and
+thus protect, the spinal cord and nervous system.
+
+As regards the other bones of the body, all that need be said here is
+that they are preceded by the structure which we know as cartilage, and
+in the bones of the limbs at two or three different points this
+cartilage begins to be transformed into bone. These points are known as
+centres of ossification.
+
+
+
+
+                                CHAPTER XI
+
+                       HOW THE EMBRYO IS NOURISHED
+
+
+Having noted how the embryo itself takes its origin, and then studied
+something of the beginnings of some of its most important parts, we may
+now very briefly refer to the subject of its own nourishment. This has
+more than a mere academic interest, because obviously the proper growth
+and development of all the various tissues and structures in the embryo
+must depend ultimately upon the nourishment with which they are
+supplied. Their own inherent characters cause them to divide and
+subdivide so as to give rise to the millions of cells which are required
+to make the body, but these cells, in their turn, are dependent upon
+outside sources for the nourishment which enables them to keep on
+growing, or to maintain their full growth when they have arrived at that
+stage.
+
+Nature has made many varied arrangements for this nutrition during
+embryonic life in different classes of animals. In some a considerable
+quantity of yolk is so arranged with reference to the embryo that the
+latter can draw upon it for some time for its supplies. This is the
+case, of course, in birds, and in some reptiles. We need here, however,
+only consider the case of the human embryo.
+
+Three sets of structures are concerned in human embryonic nourishment,
+namely, the Allantois, the Villi of the Chorion, and the Placenta.
+
+The Allantois is developed in the form of a hollow bud from the
+posterior part of the primitive alimentary canal, and ultimately comes
+to form the umbilical cord, and the embryonic part of the placenta. It
+is this structure, the allantois, which allows at a very early date of
+the embryo establishing a blood-connection with the maternal tissues,
+and hence it plays a very important part in the transmission of
+nourishment to the embryo. Not only does it do this, but it allows of
+the removal of waste products.
+
+The villi of the chorion are outgrowths by means of which the very early
+embryo attaches itself to the walls of the cavity, which it has made for
+itself in the wall of the uterus. As they grow larger, these villi push
+their way into many of the small blood-vessels in the uterine wall, and
+so come to lie actually in a mass of blood from which they abstract the
+elements of nutrition. At first the villi themselves contain no
+blood-vessels. Nourishment passes through them by a simple process of
+osmosis. Later on, vessels grow into the villi themselves. The nutriment
+supply is secretion, in the first place, of the uterine glands, which
+these villi easily absorb. This process takes place during the first two
+or three months of embryonic life. At the end of this time most of the
+villi disappear, and the few that remain take part in forming the
+f[oe]tal or embryonic portion of the placenta.
+
+After the third month the embryo is nourished by the placenta itself,
+which is at this stage developed. As we have seen, it arises partly
+from the villi of the chorion, which is its embryonic portion. The other
+part of it is maternal in origin, arising from the portion of the
+uterine wall which is immediately over the embryo. The connection
+between this structure, the placenta and the embryo, is constituted by
+means of the umbilical cord. The function of the placenta is partly to
+supply nutrition, partly to serve as an organ of respiration for the
+embryo, whose lungs are, of course, not functional, and partly it acts
+in the same way as the kidney does in after life, by excreting certain
+products. From the placenta the embryo derives those food elements at
+first provided by the secretion of the uterine glands. Afterwards these
+elements are supplied by cells which lie between the f[oe]tal villi
+and the blood of the mother. Its respiratory function consists in
+allowing oxygen and carbonic acid gas to pass by osmosis between the
+embryonic and the maternal blood. The process is exactly analogous to
+that which takes place between the gills of a fish and the water in
+which the fish lies. Of course, it will be easily understood that there
+is as yet no great need for a large supply of oxygen, because the embryo
+is merely growing, and not using its various organs.
+
+It should be clearly understood that under ordinary conditions of
+embryonic life there is no direct mixture of the blood of the mother and
+that of the developing embryo. All the processes which contribute to its
+growth and maintenance, including those of respiration and excretion,
+take place through the intermediate structures above mentioned. This is
+an extremely important point, because it means--and evidently that is
+the object of the arrangement--that there may be much of an injurious
+character in the blood of the mother which never reaches the embryonic
+tissues at all. Doubtless the cells which form the organs of nutrition
+for the embryo have a capacity for selecting the elements required for
+purposes of nutrition. It is their business to look after this process.
+How perfectly it is performed can at once be understood when we
+recollect how very frequently the tissues of the mother herself are in
+anything but perfect health, and yet the embryo is born healthy. Were it
+not for this intermediary process, the embryo could hardly help being
+poisoned or otherwise injured by all the varied unhealthy products and
+substances which the ignorance of some mothers allows to be present in
+their blood during this important period. Even with this means of
+protection, the maternal blood may be so utterly deficient in nutritive
+qualities, or so actively injurious from saturation with alcohol, or
+from some equally toxic substance, that the fluids which reach the
+embryonic cells may be very much impaired in quality. Nevertheless, it
+is astonishing how much danger can be avoided in this way by Nature's
+provision in the method of nourishing the embryo.
+
+If the development and growth of the embryo in a human being runs a
+perfectly normal and uninterrupted course, the following points could be
+observed at various stages. At the end of the fourth week in growth, the
+embryo is distinctly curved, so that the two ends--the head and the
+tail--are close together, the whole being about half an inch in length.
+Even at this very early stage, the canal which gives rise to the brain
+and spinal cord is closed in. The vesicles of the eye and the ear have
+both made their appearance, and the limbs are just beginning to show as
+buds. The heart is quite obvious, and its division into its four
+chambers is commencing. In another four weeks the embryo has reached the
+size of one inch, and the head is beginning to take on a shape more
+resembling that associated with a human being. The tail, on the other
+hand, has now disappeared. The limbs have grown to the extent that both
+hands and feet are starting growth, and in the region of the head both
+the eyes and the ears, as well as the nose, can be distinguished. Even
+at this stage, however, the sex of the embryo cannot be made out. A
+month later, at the end of the twelfth week, a considerable development
+has taken place. The embryo is now about three and a half inches long.
+There is a general growth to be observed, and the bones are beginning to
+ossify. In sixteen weeks, when the embryo measures about five inches in
+length, the sex is easily distinguishable. The most characteristic thing
+for the weeks succeeding this is the relatively large size of the head,
+upon which hair appears at about the twenty-fourth week. In twenty-eight
+weeks the embryo should weigh about 2-1/2 lb., that is to say at the
+seventh month of embryonic life. Should the child be born at this time
+as the result of any of the causes which give rise to premature birth,
+there is a possibility that it may live, though as a rule it does not.
+Four weeks later it should weigh 3-1/2 lb., and if born now may frequently
+live, if carefully attended to. In another four weeks the embryo is
+nearly eighteen inches long, and weighs about 5-1/2 lb., and the body has a
+more rounded appearance, because by this time there has been a
+considerable growth in fat. If born at this stage it ought to be quite
+possible to save the life. Finally, at the end of forty weeks, the
+normal full embryonic period of human life, the healthy child should
+weigh about 7 lb., having smooth, pink skin, and being otherwise
+perfectly developed.
+
+
+
+
+                                CHAPTER XII
+
+                              RECAPITULATION
+
+
+In bringing our study of Embryology to a close, we may glance briefly at
+another aspect of the subject, namely, that which emphasizes the fact
+that in its development the embryo recapitulates the history of its
+ancestors.
+
+It is quite obvious that the offspring of any species of animal, if they
+are to live and survive in the same kind of environment as that in which
+their parents live, must resemble them somewhat closely. The only way in
+which Nature can secure such a sufficiently close resemblance of
+offspring to parents is by insuring that they should develop along
+similar lines. So it is that we find that the whole of the life history
+of an individual is more or less a recapitulation, with, of course,
+variations, of that of the parents and ancestors. Each successive step
+from the very beginning of the fertilisation of the ovum repeats a stage
+through which previous generations have passed. If from any accident a
+step in this recapitulation is omitted, the embryo is to that extent
+deprived of some feature possessed by a parent or ancestor; and if this
+be a sufficiently important omission, it is impossible for such an
+embryo to survive. That is one way in which an embryo may differ from
+its parents. That is a retrogressive change. On the other hand, such an
+embryo, in addition to recapitulating the stages through which its
+parents passed in development, may have something new added, something
+which appears for the first time. In other words a progressive variation
+may appear.
+
+Now, since the embryo follows the same developmental track as did the
+parent, passing through the successive stages of germ-cells, fertilised
+ovum, embryo, f[oe]tus, infant, child, youth, and adult, it follows
+that should it exhibit any additional peculiarity, unnoted in the
+parent, the embryo has obviously varied progressively. That is to say,
+it has pursued the same line of development together with some new
+addition. On the other hand, should the offspring at any of these stages
+in its career be obviously without some of the characters of previous
+generations, it is as certainly due to the fact that the recapitulation
+of the history of development has been, in that particular, incomplete.
+
+In all successive cases of multicellular organisms, development by a
+process of repetition of what happened in the previous generation seems
+to be the rule; and it would appear that only by this means could a mass
+of cells which constitute an individual grow into something sufficiently
+like the parents as to be recognised for their offspring. Given the fact
+that a human individual starts from a single germ-cell, it could only be
+by following the same steps in development trodden by the parent that
+the new individual could attain a similar growth. The object of this
+similarity is, of course, to provide that the offspring may live and
+survive in an environment more or less similar to that of the parents.
+As Dr. Archdall Reid puts it, "the embryo starting from the same point,
+must follow the same road to reach the same goal. The embryo which did
+not recapitulate the history of the development of a parent would be a
+monstrosity."
+
+While, however, recapitulation in development is always more or less
+clear, it does not follow that it is perfectly complete, nor perfectly
+identical with the development of the parent. Indeed, on the other hand,
+there is always a certain amount of variation, either progressive or
+retrogressive. Progressive variation means that in addition to the
+development of all the parental stages, something new has been added.
+Retrogressive variation means that from the total development
+experienced by the parent, something has been omitted. We are here
+speaking of characters of a species, and it must not be thought that we
+are referring to the characters of the embryo as if they were derived
+from those of their parents. This was clearly pointed out in the earlier
+portion of our study. The variations in development, to which we here
+refer, take their origin in the germ-plasm which tends to repeat in each
+generation similar types of development. In other words the germ-plasm
+from which individuals spring is of such a nature that the embryos
+arising from it show in their development a recapitulation of the
+evolution of their particular species. In addition they may show
+variations of either a plus or a minus character. These variations are
+frequently inherited, and persist throughout succeeding generations. In
+course of time, if there are many of such variations, they accumulate,
+and to that extent, of course, alter the life history. That is why in
+watching the development of a human embryo it is impossible to trace
+accurately the early ancestral development of the race from it. It
+passes through the stage of a single cell, then becomes multicellular,
+and gradually assumes the form of a higher and higher type of organism.
+"Manifestly the additions and subtractions have been vast. It possesses,
+for instance, a placenta, an organ by which it is attached to the
+mother, through which it is nourished, and which at one time is larger
+than the embryo itself; but which, of course, could not have been
+present in its prototypes. Nevertheless the life history unfolded by the
+child is just as real, just as complete, and probably more accurate than
+any written chronicle that attempts to describe the whole past of a
+race." (Reid.)
+
+               "There is a history in all men's lives
+                Figuring the nature of the times deceased."
+
+Here we must conclude this brief sketch of some of the principal facts
+in the science of Embryology, in the hope that enough has been said to
+stimulate the interest of our readers in this subject to such an extent
+that they may be encouraged to pursue its study still further in one of
+the many textbooks that are devoted entirely, or partly, to this matter.
+
+We would urge in conclusion that the study is well worth while, even for
+those to whom it has a non-professional interest. It should be
+sufficiently obvious to any earnest thinker that the problems which are
+involved in the study of embryology are precisely those which are of the
+very greatest importance to humanity at large. With this subject is most
+intimately bound up that of heredity itself, which has been dealt with
+in another volume of this series. No true understanding of what can be
+done, or what should be done, in the direction of improving the lot of
+generations to come, or of making the most of the generation at present
+existent, can be obtained by any who are absolutely ignorant of these
+topics. It is only by their study that we realise that the human embryo,
+which is to become the human individual, consists, to a very large
+extent, of characters and features which are unalterably settled for it
+beforehand, to which nothing can be added, and from which nothing can be
+taken away. In other words, the possibilities for any individual are
+those which are pre-existent in the germ-plasm from which he or she
+originates. These possibilities, however, depend upon the environment in
+which the embryo, infant, child, and adult is subsequently placed for
+their full expansion. In many directions the inherited tendencies
+transmitted by the continuity of germ-plasm are unalterably and strictly
+defined. In many other directions these inherited tendencies can be so
+modified, drawn out, or even partially suppressed, by suitable
+surroundings of a hygienic, educative, and moral nature, that if the
+process be taken in hand sufficiently early wonderful successes may
+result. These results are those for which the social reformer and the
+philanthropist and the serious student of sociology are earnestly
+striving, but it is only by a study of the sciences of Heredity and
+Embryology that accurate data can be obtained from which justifiable
+conclusions may be drawn.
+
+The great fact which embryology teaches is that the past is unfolded
+stage by stage, with certain omissions and additions, so that in very
+truth--
+
+            "The softest dimple in a baby's smile
+             Springs from the whole of past eternity,
+             Taxed all the sum of things to bring it there."
+
+
+
+
+                               BIBLIOGRAPHY
+
+
+The following books will be found to deal in detail with some of the
+general questions in the foregoing pages:--
+
+_The Laws of Heredity_. By G. Archdall Reid, M.B., F.R.S.E. (London.
+Methuen.) This great work should be read by all who are interested in
+the subject of Heredity and all the problems involved in it. It deals in
+an exhaustive and interesting manner with the characteristics of living
+beings, the method of development, the function of sex, the present
+evolution of man, and kindred topics.
+
+_The Greatest Life_. By Gerald Leighton, M.D., F.R.S.E. (London.
+Duckworth.) This work deals with the development of character (as well
+as structures) from the biological point of view. The argument is that
+the _whole_ of a man, mental, moral, spiritual, as well as what is
+usually termed physical, develops in accordance with biological laws.
+
+_Text-books on Physiology_. Any of the standard books will be found to
+contain accounts of the early development of the embryo and its various
+tissues.
+
+
+
+
+                                   INDEX
+
+
+  Acquired characters, 43
+  After-birth, 57
+  Alimentary tract, 60
+  Allantois, 79
+  Amnion, 53
+  Amniotic space, 51
+  Am[oe]ba, 12
+  Auditory, 69
+  Auricles, 73
+
+  Bibliography, 90
+  Blastocyst, 50
+  Blood-vessels, 60
+  Body cavity, 54
+  Bones, 60
+  Brain, 61, 67
+  Branchial clefts, 75
+
+  Caul, 58
+  Cell-division, 12
+  Centrosome, 13
+  Cerebellum, 68-69
+  Cerebrum, 68, 69
+  Chorion, 79
+  Cochlea, 74
+  Conjunctiva, 71
+  Connective tissues, 60
+  Cornea, 71
+  Cytology, 14
+
+  Dental ridge, 75
+  Dental sac, 75
+
+  Ear, 74
+  Early development, 47
+  Ectoderm, 51, 59, 60
+  Embryology, significance, 7, 8
+  Embryonic area, 51, 53, 66
+  Enamel, 75, 76
+  Entoderm, 51, 59, 60
+  Epiblast, 54
+  Epidermis, 60
+  Eustachian canal, 74
+  Eye, 65, 71
+
+  Fat, 60
+  Fertilisation, 18, 19, 47-52
+  Fore-brain, 69
+
+  Germ-cells, 16, 18, 19, 24
+  Germ-plasm, 11, 49
+  Glands, 60
+
+  Hair, 60
+  Heart, 54, 73
+  Hypoblast, 54
+
+  Inborn traits, 43
+  Inherited traits, 43, 45
+
+  Kidneys, 60
+
+  Lens of eye, 60, 71
+  Liver, 60
+  Lungs, 60
+  Lymph glands, 60
+
+  Marrow, 60
+  Maternal blood, 80
+  Maturation, 48
+  Medulla oblongata, 68
+  Medullary groove, 53
+  Mesoderm, 52, 59, 60
+  Mid-brain, 68
+  Morula, 50
+  Mouth, 60
+  Muscles, 60
+
+  Neural canal, 53
+  Neural groove, 54
+  Nervous system, 60, 61
+  Nose, 60
+  Notochord, 54, 60, 76
+  Nourishment, 57, 78
+
+  Optic vesicle, 69
+  Origin of brain, 69
+  Ova, ovum, 16, 17, 48, 49
+
+  Personality, 45
+  Placenta, 57, 79
+  Primitive groove, 53
+  Primitive streak, 53
+
+  Recapitulation, 84-88
+  Reproduction, 11, 17-35
+  Reproductive organs, 60, 63
+
+  Segmentation nucleus, 49
+  Sense organs, 60
+  Sex, 12, 49
+  Smell, 70
+  Somatic cells, 18, 24
+  Sperm, 17, 47, 48
+  Spinal cord, 53, 67
+
+  Tactual sense, 64, 65
+  Teeth, 60, 61
+  Trachea, 60
+  Trophoblast, 55, 56
+  Thymus, 60
+  Thyroid, 60
+
+  Umbilical cord, 55
+  Uterus, 56, 57
+
+  Variations, 44, 45
+
+  Weight of embryo, 83, 88
+
+  Yolk sac, 50, 53
+
+
+                     *       *       *       *       *
+
+
+                    Printed by BALLANTINE, HANSON & CO
+                             Edinburgh & London
+
+
+                     *       *       *       *       *
+
+
+
+
+The table below lists all corrections applied to the original text.
+
+  p 25: the rest are -> The rest are
+  p 35: Natural Selection." -> closing quotes added
+  p 60: alimentary tract. -> period added
+
+
+
+
+
+End of the Project Gutenberg EBook of Embryology, by Gerald R. Leighton
+
+*** END OF THIS PROJECT GUTENBERG EBOOK EMBRYOLOGY ***
+
+***** This file should be named 37385.txt or 37385.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/7/3/8/37385/
+
+Produced by Jens Nordmann and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images generously made available by The
+Internet Archive/Canadian Libraries)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

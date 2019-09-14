@@ -1,0 +1,1981 @@
+The Project Gutenberg EBook of Preservation of Bull Semen at Sub-Zero
+Temperatures, by N. L. VanDemark and W. J. Miller and W. C. Kinney, Jr. and Carlos Rodriguez and M. E. Friedman
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Preservation of Bull Semen at Sub-Zero Temperatures
+
+Author: N. L. VanDemark
+        W. J. Miller
+        W. C. Kinney, Jr.
+        Carlos Rodriguez
+        M. E. Friedman
+
+Release Date: August 11, 2011 [EBook #37041]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PRESERVATION OF BULL SEMEN ***
+
+
+
+
+Produced by Bryan Ness, Harry Lame and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/American Libraries.)
+
+
+
+
+
+
+
+
+
+  +------------------------------------------------------------------+
+  |                       TRANSCRIBER'S NOTES:                       |
+  |                                                                  |
+  | * Transcription used in this e-text:                             |
+  |   _text_ indicates italics;                                      |
+  |   =text= indicates bold-face text;                               |
+  |   ^{text} indicates superscript text;                            |
+  |   _{text} indicates subscript text.                              |
+  | * Lettered footnotes (with anchors [A], [B], etc.), explaining   |
+  |   the text, have been moved to directly below the paragraph or   |
+  |   table they refer to. Footnotes with anchors [1], [2], etc.     |
+  |   refer to references, that are listed towards the end of the    |
+  |   text.                                                          |
+  | * The original text has not been modified, except that some minor|
+  |   typographical errors have been corrected silently.             |
+  |                                                                  |
+  +------------------------------------------------------------------+
+
+
+
+
+                              PRESERVATION
+                              OF BULL SEMEN
+                        AT SUB-ZERO TEMPERATURES
+
+
+     By N. L. VanDemark
+        W. J. Miller
+        W. C. Kinney, Jr.
+        Carlos Rodriguez
+        M. E. Friedman
+
+
+     Bulletin 621
+
+
+  UNIVERSITY OF ILLINOIS
+  AGRICULTURAL EXPERIMENT STATION
+
+
+
+
+CONTENTS
+
+
+                                                                Page
+
+  EARLY WORK ON FREEZING SEMEN                                     5
+
+  SELECTION OF SEMEN FOR FREEZING                                  6
+  Predicting freezability                                          6
+  Freezability of first and second ejaculates                      7
+  Freezability of several consecutive ejaculates                   7
+  Freezability of epididymal sperm                                 9
+  Freezability of washed sperm                                    10
+
+  EXTENDERS FOR FREEZING BULL SEMEN                               10
+  Proportion of egg yolk in final diluent                         10
+  Citrate level in final diluent                                  11
+  Storing and freezing diluent                                    12
+  Other diluents                                                  13
+
+  DILUTION RATES                                                  14
+  Effect of further dilution and refreezing                       14
+
+  GLYCEROL ADDITIONS                                              17
+  Effect of glycerol on sperm survival at 5 deg. C.                   17
+  Glycerol levels for freezing semen                              18
+  Rate, temperature, and method of adding glycerol                18
+  Allowing sperm to equilibrate with glycerol                     20
+  Sugar additions and equilibration time                          20
+  Substitutes for glycerol                                        22
+
+  FREEZING RATE                                                   22
+  Effect of freezing rate on sperm survival                       22
+  Rate of cooling in plastic and in glass                         23
+
+  STORAGE TEMPERATURE                                             24
+  Storage at -23 deg. to -79 deg. C.                                      24
+  Use of higher glycerol levels and storage at -20 deg. C.            25
+
+  THAWING                                                         26
+  Comparison of thawing at 5 deg. C. and at 38 deg. C.                    27
+  Thawing rate in plastic and in glass                            29
+
+  EFFECTS OF FREEZING PROCEDURES ON METABOLIC ACTIVITY OF SPERM   30
+  Effect of glycerol additions on oxygen uptake of diluted semen
+    at 37 deg. C.                                                     30
+  Effect of glycerol-plus-catalase on oxygen uptake of diluted
+    semen                                                         32
+  Effect of freezing procedures on oxygen utilization             33
+  Effect of freezing procedures on methylene-blue reduction time  33
+
+  PRACTICAL FREEZING PROCEDURE                                    35
+  Collection of semen                                             35
+  Preparation of extender                                         35
+  Dilution after collection                                       36
+  Adding the glycerol                                             36
+  Equilibration                                                   36
+  Freezing                                                        37
+  Thawing                                                         37
+
+  LITERATURE CITED                                                38
+
+  TEMPERATURE CONVERSION TABLE                                    39
+
+
+
+
+  Urbana, Illinois         October, 1957
+
+Publications in the Bulletin series report the results of investigations
+made or sponsored by the Experiment Station
+
+
+
+
+ACKNOWLEDGMENT
+
+
+The authors gratefully acknowledge the financial assistance given to the
+Department of Dairy Science in support of these investigations by the
+Southern Illinois Breeding Association of Breese, Illinois, and the
+Northern Illinois Breeding Co-op of Hampshire, Illinois, through the
+Illinois Dairy Breeding Federation.
+
+
+
+
+THE PRESERVATION OF BULL SEMEN AT SUB-ZERO TEMPERATURES
+
+By N. L. VANDEMARK, W. J. MILLER, W. C. KINNEY, JR., CARLOS RODRIGUEZ,
+and M. E. FRIEDMAN[A]
+
+  [A] This publication was prepared by N. L. VANDEMARK, Professor of
+  Dairy Physiology. Research reported herein was carried out
+  cooperatively by the senior author and W. J. MILLER, W. C. KINNEY,
+  JR., CARLOS RODRIGUEZ, and M. E. FRIEDMAN, formerly members of the
+  Department of Dairy Science.
+
+
+The first announcement in 1951 of the successful impregnation of a cow
+with bull semen that had been frozen stimulated much interest and
+research in freezing as a method of preserving bull semen. Research
+during the years following 1951 resulted in considerable progress and
+success in using freezing as a means of holding semen for long periods
+of time without loss of fertility.
+
+Between 1952 and 1957, research on many aspects of the preservation of
+bull semen at sub-zero temperatures was carried out in the Department of
+Dairy Science at the University of Illinois. Many of these
+investigations have aided in perfecting the freezing technique that has
+been adapted for practical use. Some of these findings have been
+published, but many items have gone unreported except for general
+references at scientific meetings.
+
+It is the purpose of this bulletin to bring together the results of
+several experiments carried out in connection with the freezing of bull
+semen and to present a practical freezing procedure based on the results
+of these experiments and findings at other institutions. Persons
+interested in the development of the procedures and the reasons why
+certain steps are necessary in freezing semen will find the details in
+the first part of this bulletin. Those interested only in the freezing
+procedure may turn to page 35 where a practical method of freezing semen
+is described.
+
+
+
+
+EARLY WORK ON FREEZING SEMEN
+
+
+While it has been known for a long time that various types of tissues
+and organisms can withstand freezing and are even preserved by freezing,
+the first attempts at freezing sperm cells were made before the turn of
+the century. In 1897, Davenport[1][B] found that human sperm would
+withstand freezing. For thirty to forty years after that, little
+attention was paid to freezing as a possible means of preserving semen.
+An excellent review of the early attempts to freeze sperm has been
+assembled by Polge and Parkes.[2] These investigators also gave a good
+account of their work at the British National Institute of Medical
+Research in London, where in 1949 they demonstrated that glycerol would
+protect fowl sperm so that it would survive freezing. The next year they
+found that bull sperm and the sperm of several other species were
+protected by glycerol during freezing. During the same year, Emmens and
+Blackshaw[3] showed that ram and bull sperm would survive freezing. In
+1951 frozen semen was used to produce a calf in England and a lamb in
+Australia.
+
+  [B] These numbers refer to literature citations on page 38.
+
+The highlights in the development of frozen semen have been covered by
+other reviews and reports. Interested persons will find the articles of
+Polge and Parkes[2] and Smith[4] especially good on the early history
+and theoretical aspects of freezing sperm. Later progress on the
+freezing procedure has been reviewed and covered in a number of detailed
+reports.[5],[6],[7] Many items not covered in those articles have been
+assembled here.
+
+
+
+
+SELECTION OF SEMEN FOR FREEZING
+
+
+One of the first considerations in freezing semen is that of deciding
+which semen samples are to be frozen. Since preservation of the
+semen--the maintenance of the potential motility and especially the
+fertility of the sperm--is the primary aim, some attention should be
+directed to the kind of semen sample that will withstand freezing. Do
+the initial characteristics of the sample indicate whether the sperm
+will withstand freezing? Does maturity of the sperm affect their
+freezability?
+
+=Predicting freezability.= Estimates of semen quality in the past have
+been based in part on the numbers of sperm present in a fresh sample and
+on the percentage and rate of motility shown by the sperm. These
+characteristics were used to determine the relationship between the
+original concentration of sperm (in the fresh, undiluted sample), the
+percentage and rate of sperm motility in the diluted samples just prior
+to freezing, and the percentage and rate of sperm motility following
+freezing and thawing. From data collected before and after freezing and
+thawing 54 ejaculates, it was found that there was not a significant
+correlation between the number of sperm present in the original sample
+and the percent of motile sperm present after freezing and thawing (r =
+0.03). A highly significant correlation (r = 0.45) was found, however,
+between the percentages before freezing and after thawing. While this
+correlation coefficient was highly significant, its magnitude indicates
+that only about one fifth of the variation in percentage of motile sperm
+observed after freezing was accounted for by the motility of the sperm
+prior to freezing.
+
+=Freezability of first and second ejaculates.= In the early days of
+artificial breeding in this country, it was commonly believed that a
+second ejaculate collected a few minutes after the first resulted in a
+larger ejaculate containing more sperm. With the development of the
+procedure of stimulating sexual excitement by restraint prior to
+collecting semen, this difference between first and second ejaculates
+has been greatly reduced. Still it was noted that second ejaculates
+frequently withstood freezing better than first ejaculates, even though
+restraint and stimulation of the bull occurred prior to collection of
+the first ejaculate. During the course of a number of experiments, it
+was possible to compare the freezability of 2 ejaculates that were
+collected a few minutes apart from the same bull. Two consecutive
+ejaculates were obtained one or more times from 24 bulls so that a total
+of 58 comparisons could be made. The mean prefreezing and post-thawing
+percentages of motile sperm in first and second ejaculates are presented
+in Table 1.
+
+An analysis of variance showed that in this comparison the differences
+between first and second ejaculates in sperm survival during freezing
+were highly significant. A later comparison of 27 first and second
+ejaculates from 26 bulls did not show as great a difference between
+first and second ejaculates in their ability to withstand freezing
+(Table 1).
+
+Table 1.--Comparison of the Freezability of First and Second Ejaculates
+Taken a Few Minutes Apart From the Same Bull
+
+  =====================================================================
+  Number     Number               Prefreezing  Post-thawing
+    of         of      Ejaculate   motility      motility    Survival
+  bulls    ejaculates              (percent)     (percent)   (percent)
+  ---------------------------------------------------------------------
+  24           58         1st         60            39          65
+                          2d          62            45          74
+  26           27         1st         60            36          60
+                          2d          65            40          61
+  ---------------------------------------------------------------------
+
+=Freezability of several consecutive ejaculates.= The fact that second
+ejaculates sometimes withstood freezing better than first ejaculates
+suggested that the maturity of the sperm might be a factor affecting
+freezability. An opportunity to check this idea came when 20
+consecutive ejaculates were collected from each of 6 bulls within a
+4-hour period. The sperm in samples collected in this manner might be
+expected to be less mature with each additional collection.
+
+The results obtained in freezing several consecutive ejaculates are
+shown in Figure 1 as averages for the ejaculates from 6 bulls. In same
+instances, there was an insufficient quantity of semen available to test
+the freezability. (Procedure: Diluted to 30 x 10^{6} sperm per ml. with
+1:1 yolk-citrate, then cooled and glycerolated with an equal volume of
+14 percent glycerol (percent by volume) in 2.9 percent sodium citrate.
+Final sperm concentration, 15 x 10^{6}. Equilibration time, 15 hours.
+Freezing rate, 2 deg. C. per minute from +5 deg. to -19 deg. C. then 4 deg. C. per
+minute from -19 deg. to -79 deg. C. Held frozen for 5 or more hours then thawed
+in water at 5 deg. C. and checked for motility.)
+
+[Illustration: Percent of motile sperm before and after freezing
+consecutive ejaculates collected within a 4-hour period from each of 6
+bulls (Fig. 1)]
+
+In general, the motility before freezing improved slightly from the
+first to the fourth to sixth ejaculate and then declined until about the
+12th or 14th ejaculate, at which point the prefreezing motility seemed
+to level off through the 20th ejaculate (Fig. 1). The percentage of
+motile sperm found after freezing and thawing followed the same trend at
+an average level 10 to 15 percent lower than the prefreezing level. As
+is readily seen from the trend lines in Fig. 1, the difference between
+the prefreezing motility and the post-thawing motility increased
+gradually after about the fifth ejaculate. Although the absolute
+difference did not increase greatly, the percentage of survival after
+freezing dropped from 81 percent on the first 5 ejaculates to 26.5
+percent on the last 5 (Table 2).
+
+Table 2.--Comparison of the Freezability of 20 Consecutive Ejaculates
+Collected Within a 4-Hour Period
+
+(Weighted averages for 6 bulls)
+
+  ===================================================================
+                   Number     Prefreezing   Post-thawing
+  Ejaculate          of        motility       motility     Survival
+                 ejaculates    (percent)     (percent)     (percent)
+  -------------------------------------------------------------------
+  1st to 5th         29           53.3          43.2          81.0
+  6th to 10th        26           43.8          30.2          69.0
+  11th to 15th       23           28.6          14.5          50.7
+  16th to 20th       19           18.1           4.8          26.5
+  -------------------------------------------------------------------
+
+=Freezability of epididymal sperm.= Since the freezability of bull semen
+seemed to be better in second than in first ejaculates and some
+improvement in freezability was evident through the first 4 to 6
+ejaculates taken consecutively, the question of whether epididymal sperm
+would withstand freezing seemed to be important. Although when 20
+collections were made, the later ejaculates no doubt contained fewer
+mature sperm, the lowered freezability could have been due to accessory
+gland secretions rather than changes in the sperm themselves. Removing
+sperm directly from the epididymis would eliminate any effect that the
+accessory gland secretions could be exerting. Further, if epididymal
+sperm could be frozen, obtaining and using semen from a bull shortly
+after his death should be possible.
+
+Table 3.--Freezability of Sperm in Samples Taken From the Epididymides
+
+  =================================================
+            Prefreezing   Post-thawing
+  Bull       motility      motility      Survival
+            (percent)     (percent)      (percent)
+  -------------------------------------------------
+  1            50            40             80
+  2            40            13             32
+  3            60            15             25
+  4            30            15             50
+  5+6          40            25             62
+  Average      44            22             50
+  -------------------------------------------------
+
+To determine whether epididymal sperm would withstand freezing, the 12
+epididymides (cauda only) of 6 slaughtered bulls were flushed with
+saline (0.9 percent) and the sperm obtained were frozen using the same
+procedure as was used with the 20 consecutive ejaculates discussed
+earlier. Averages of the 2 epididymides from each bull are given in
+Table 3; the samples from bulls 5 and 6 were combined. From the data in
+Table 3, it is obvious that motile sperm were present after freezing and
+thawing epididymal samples. It is likely that further experience in
+handling epididymal sperm may lead to improved results. Using frozen
+epididymal sperm from 2 bulls, Canadian workers have produced confirmed
+pregnancies in 8 out of 12 cows.[8]
+
+=Freezability of washed sperm.= In the laboratory it is frequently
+desirable to study sperm free of the seminal plasma in which they are
+ejaculated. Sperm can be separated from the seminal plasma by
+centrifugation, removal of the supernatant plasma, and resuspension in a
+salt solution of known composition. Sometimes it is desirable to repeat
+the process. This tends to wash the sperm with the salt solution and
+sperm handled in this way are called washed sperm.
+
+Sperm cells centrifuged three times and washed twice in 0.9 percent
+sodium chloride solution withstood freezing well when finally
+resuspended and frozen in yolk-citrate diluent. The percentage of
+survival in three samples subjected to this treatment was 60 percent.
+Thus it appears that the seminal plasma itself is not essential for
+ejaculated sperm to survive the rigors of freezing. This is not
+surprising, since it had already been found that epididymal sperm, which
+also are free of accessory gland secretions, can withstand freezing and
+thawing.
+
+
+
+
+EXTENDERS FOR FREEZING BULL SEMEN
+
+
+Both of the extenders that are widely used in routine storage of bull
+semen at 5 deg. C. are used for freezing semen. These are the egg
+yolk-sodium citrate and whole or skimmilk extenders. Most of the
+research with extenders for freezing bull semen in this laboratory has
+been done with the yolk-citrate diluents.
+
+=Proportion of egg yolk in the final diluent.= Some early experiences
+with a diluent consisting of one part yolk and one part 2.9 percent
+sodium citrate dihydrate in distilled water showed poor sperm survival
+following freezing. The final mixture with this diluent consisted of
+about 45 percent yolk. In other attempts at adding glycerol in order to
+freeze semen, the final proportion of yolk was diminished and better
+sperm survival was obtained. Several experiments were carried out to
+test the effect of varying levels of egg yolk.
+
+In the first efforts to find the optimum level of egg yolk, the level
+of yolk in the final frozen mixture was varied from about 6 to 46
+percent. These levels were obtained by varying the proportion of yolk to
+2.9 percent citrate solution in the original extending media and also in
+the media added in glycerolating the samples.
+
+Split portions of 20 semen samples were frozen in each of the extender
+combinations indicated in Table 4. The mean percentages of motile sperm
+found before and after freezing and thawing are shown also. The highest
+percentages were found with extenders containing 23 and 24 percent yolk.
+The highest percentage of yolk, resulting when a 1:1 (yolk to citrate)
+extender was used for both extending and glycerolating, proved to be
+most detrimental to sperm survival during freezing. The lowest
+percentage of yolk used (6 percent) was not as effective in protecting
+sperm during freezing as the intermediate levels tested (Fig. 2).
+
+Table 4.--Effect of Egg-Yolk Level in Diluent on Freezability of Semen
+(Average of 20 semen samples)
+
+  =========================================================================
+                   Medium               Yolk in    Pre-      Post-     Sur-
+          ----------------------------   final    freezing  thawing   vival
+  Diluent  Extending   Glycerolating[C]   mix-    motility  motility  (per-
+          ------------ ----------------  ture[D] (percent) (percent)  cent)
+          yolk:citrate   yolk:citrate   (percent)
+  -------------------------------------------------------------------------
+  1          1:1             1:1          45.7       65        5        8
+  2          1:1             1:3          34.9       64       27       42
+  3          1:3             1:1          33.6       63       33       52
+  4          1:1             0:1          24.2       64       39       61
+  5          1:3             1:3          22.8       63       37       59
+  6          1:3             0:1          12.1       59       33       56
+  7          1:7             1:7          11.4       56       35       62
+  8          1:7             0:1           6.0       52       26       50
+  9          1:15            1:15          5.7       49       25       51
+  -------------------------------------------------------------------------
+
+  [C] This mixture included 14 percent glycerol.
+
+  [D] The average initial sperm concentration was 900 x 10^{6}/ml.
+  Sufficient extender was added to give 30 x 10^{6}/ml. at the first
+  extension. Thus the final concentration was 15 x 10^{6} sperm/ml.
+  after glycerolization.
+
+Since rather large changes in the percentages of yolk were used in this
+experiment, two further trials were conducted in which 16, 24, and 32
+percent yolk in the final mixture were compared, with the final citrate
+percentages held constant. In these tests, 16 and 24 percent yolk
+maintained sperm better at all citrate levels tried than 32 percent
+yolk. The 16 percent level was slightly better at most of the levels of
+citrate tested (Fig. 3).
+
+=Citrate level in the final diluent.= The early work of the British
+indicated that a final citrate level near 2 percent in the diluent was
+satisfactory for freezing bull sperm. Later, in a personal
+communication, Polge of the British group suggested that a citrate level
+of about 2.35 percent might be best with a final glycerol concentration
+of 7 percent. Some of the first attempts in this laboratory at
+establishing the optimum yolk-to-citrate ratios are shown in Fig. 3. In
+these experiments, the optimum levels of citrate appeared to be lower
+than anticipated from the British work. Thus a more complex experiment
+was set up to test a wider range of citrate levels using 16 and 24
+percent egg yolk in the final freezing mixture. The average percentages
+of motile sperm found after freezing 10 semen samples at each of the
+citrate and yolk levels in this experiment are shown also in Fig. 3.
+Little difference in freezability was found between citrate percentages
+of 1.55 and 1.95. When the rate of sperm motility following freezing and
+thawing was considered along with the percent of motile sperm, a slight
+advantage was found with 16 percent yolk and a citrate concentration of
+1.55 percent.
+
+[Illustration: Percent of motile sperm after freezing and thawing semen
+in diluents containing various levels of egg yolk (Fig. 2)]
+
+From the results of these experiments, and from several reports in the
+literature,[5],[6],[7],[9],[10] it appears that a diluting medium
+resulting in a final concentration of 16 to 25 percent yolk and 1.55 to
+2.2 percent sodium citrate dihydrate is highly satisfactory for
+freezing.
+
+=Storing and freezing diluent.= In some instances it would be
+advantageous to have prepared diluent on hand for use at any time. The
+suitability of stored diluent was tested with a yolk-citrate (equal
+parts yolk and citrate without antibiotics added) diluent prepared and
+stored at 5 deg. C. for 0, 2, 5, 7, and 9 days. Seven semen samples were
+diluted and frozen in these diluents. No difference was noted in the
+survival of sperm that could be attributed to the age of the diluent.
+
+[Illustration: Percent of motile sperm after freezing and thawing semen
+in diluents containing various levels of egg yolk and various
+percentages of sodium citrate (Fig. 3)]
+
+In another trial, a similar diluent (1:1 yolk to citrate with 1000 units
+of penicillin and 5000 units of streptomycin) was prepared and stored in
+the freezer compartment of a refrigerator at -15 deg. C. Upon thawing, it
+was whitish in color and more viscous than freshly prepared diluent.
+Except for the fact that the viscosity seemed to reduce the rate of
+sperm motility, this frozen diluent stored for 65 days compared
+favorably with freshly prepared diluent for freezing semen.
+
+=Other diluents.= Without the protective action of egg yolk or milk, few
+bull sperm will survive freezing. Several diluents were compared on a
+limited scale for freezing bull sperm. The results of these trials are
+compiled in Table 5. In this trial the yolk-citrate extender served best
+in maintaining sperm motility during freezing. Yolk-phosphate and
+homogenized whole milk were slightly less protective and yolk-saline
+seemed to furnish the least protection to sperm during freezing.
+
+A number of investigations in other laboratories have now proven that
+milk can be used as effectively as the yolk-citrate diluent for freezing
+bull sperm.[6],[7]
+
+Table 5.--Comparison of the Freezability of 4 Semen Samples in Different
+Extenders
+
+  ======================================================================
+                Dilution      Pre-       Post-                 Motility
+  Extender        rate      freezing   thawing     Survival    after
+                (semen:     motility   motility   (percent)   storage[E]
+                extender)   (percent)  (percent)              (percent)
+  ----------------------------------------------------------------------
+  Yolk-citrate    1:1          60         49          82          46
+                  1:10         53         45          85          36
+  Yolk-saline     1:1          57         29          51          28
+                  1:10         60         31          52          24
+  Yolk-phosphate  1:1          55         33          64          25
+                  1:10         60         43          72          25
+  Whole milk      1:1          60         40          67          35
+                  1:10         60         35          58          16
+  ----------------------------------------------------------------------
+
+  [E] Stored at 5 deg. C. for 7 hours after thawing.
+
+
+
+
+DILUTION RATES
+
+
+The first trials by the British at freezing bull semen were made with
+samples containing many millions of sperm cells. In routine artificial
+breeding, it is common to add extenders to semen so that one milliliter
+of diluted semen may contain only 10 million living sperm cells. (This
+number still insures optimal fertility.) Frequently the addition of 100
+or more parts of the yolk extender to each part of the original semen
+sample is possible without reducing the sperm numbers below 10 million
+per milliliter. No one knew if this process of dilution would affect the
+resistance of bull sperm to freezing. The effect of various rates of
+dilution on the freezability of bull sperm was tested with 10 semen
+samples. The results, presented in Table 6, show that the numbers of
+sperm between 10 and 90 million per milliliter did not influence the
+percentage of sperm that survived freezing.
+
+In a later trial it was found that sperm survival was slightly better at
+lower dilution rates than in the same samples frozen following dilution
+to 15 million sperm per milliliter. However, field trials with frozen
+semen carried out by others, using sperm numbers as low as 15 million
+per milliliter of semen inseminated or even lower, have been highly
+satisfactory.[11],[12]
+
+During the early studies in the Illinois laboratory, the effects of
+glycerol level were also tested.[13] These effects are discussed in the
+section on glycerol additions beginning on page 17.
+
+=Effect of further dilution and refreezing after the initial freezing.=
+Under some circumstances it might be advantageous to freeze semen with
+a high concentration of sperm cells and then extend it further after
+thawing. With such a procedure less storage space is needed than when
+dilution is carried to the maximum before freezing. Two experiments were
+conducted to test the effects of dilution and storage at 5 deg. C. and
+dilution and refreezing following an initial freezing of concentrated
+samples.
+
+Table 6.--Effect of Sperm Numbers and Glycerol Level in Final Mixture on
+Freezability of Bull Sperm at -79 deg. C. (Average of 10 ejaculates)
+
+  ================================================================
+                         Post-thawing motility (percent)[F]
+                     ---------------------------------------------
+  Glycerol level       Number of sperm (millions/ml.)
+  (percent)          --------------------------------
+                           90       30       10         Average
+  ----------------------------------------------------------------
+  5                       36.0     34.0     36.0         35.0
+  10                      22.0     24.0     23.0         23.0
+  15                       3.2      0.9      0.2          1.4
+  Average                 20.3     19.8     19.9         20.0
+  ----------------------------------------------------------------
+
+  [F] Mean initial motility of sperm before freezing was 55 percent.
+
+Four semen samples were split and extended at rates of 1:1 (semen to
+extender) and 1:10. These were frozen, then thawed and halved. One half
+was further extended to a level of 15 million sperm per milliliter; the
+sperm numbers in the other remained unchanged. Each of these halves was
+split again, and one portion of each was stored at 5 deg. C. for 3 to 7
+hours. The other two portions were refrozen.
+
+Table 7.--Effect of Further Dilution and Refreezing on Sperm Motility
+After the Initial Freezing of Bull Semen
+
+  ========================================================================
+                                Post-thawing motility
+  Dilution   Pre-      ---------------------------------------------------
+  of         freezing   After      After storage[G]    After refreezing[H]
+  semen      motility   first     ------------------- --------------------
+  (semen:   (percent)  freezing     No     Diluted        No     Diluted
+  extender)                      further    to 15      further    to 15
+                                 dilution million/ml   dilution million/ml
+  ------------------------------------------------------------------------
+                          First trial: 4 samples
+  1:1           60        49        46       34           31        6
+  1:10          53        45        36       30           25        5
+
+                          Second trial: 7 samples
+  1:9           67        47        41       35           28       11
+  15 million/ml 67        30        32       ..           18       ..
+  ------------------------------------------------------------------------
+
+  [G] Stored at 5 deg. C. for 3 to 7 hours after first thawing.
+
+  [H] Refrozen following first thawing.
+
+Table 8.--Effect of Glycerol Level and Storage at 5 deg. C. on Motility of
+Sperm in Yolk-Citrate Extender
+
+  ====================================================================
+                                   Sperm motility
+              --------------------------------------------------------
+                Post-        After storage at 5 deg. C.
+  Glycerol     thawing    ----------------------------      Average
+   level                   1 day      3 days     7 days
+  (percent)   ---------   ---------  ---------  ---------  ---------
+              per- rate   per- rate  per- rate  per- rate  per- rate
+              cent        cent       cent       cent       cent
+  --------------------------------------------------------------------
+  Control[I]   56  2.5     55  1.9    46  1.8    38  1.4    48  1.90
+  0            54  2.4     44  1.9    46  1.8    36  1.4    45  1.87
+  5            52  2.2     50  1.9    46  1.7    32  1.4    45  1.80
+  10           52  2.3     46  1.8    42  1.7    28  1.6    42  1.85
+  20           52  2.1     50  1.7    44  1.6    38  1.1    46  1.62
+  30           50  0.7     44  0.5    42  0.4    30  0.4    42  0.51
+  Average      53  2.03    47  1.62   44  1.50   34  1.22   ..  ....
+  --------------------------------------------------------------------
+
+  [I] The control differed from the 0-glycerol treatment in that no
+  additional citrate or glycerol solution was added.
+
+A similar trial was carried out with seven samples; one portion was
+diluted 1:9; the other was extended at the outset to 15 million sperm
+per milliliter. Results for both tests are summarized in Table 7.
+
+From Table 7 it can be seen that refreezing following an initial
+freezing further reduced the number of surviving sperm. The second
+freezing was more detrimental to the portion of the samples extended to
+15 million sperm per milliliter than to the portion that was refrozen at
+a higher sperm concentration. The percentage of motile sperm remained
+fairly high in the portions that were diluted to 15 million sperm and
+stored at 5 deg. C. However, in all cases, survival was best in the samples
+at the lower dilution levels.
+
+
+
+
+GLYCEROL ADDITIONS
+
+
+When the British procedure for freezing bull semen was first tried in
+this country, many of the refinements of the technique still had not
+been defined. It was known that glycerol worked well in protecting sperm
+during freezing. The effects of glycerol on sperm at 5 deg. C., the
+appropriate levels to use in freezing, and the manner of adding it were
+not well established. Therefore, a number of trials were conducted in an
+attempt to establish the best procedures.
+
+=Effect of glycerol on sperm survival at 5 deg. C.= Since early work
+indicated the need for adding glycerol to diluted semen in order to
+protect the sperm during freezing, it was considered important to
+determine the levels of glycerol that sperm would tolerate at 5 deg. C. Ten
+semen samples were extended 1:9 (semen to diluent) in a 1:1 yolk-citrate
+diluent (yolk to 2.9 percent sodium citrate dihydrate). Each sample was
+then split into 6 portions and an equal volume of citrate solution
+containing glycerol was added slowly to each to bring the glycerol in
+the final mixture to 0, 5, 10, 20, or 30 percent (by volume). These
+samples were stored at 5 deg. C. and examined for motile sperm after 1, 3,
+and 7 days. The effects of glycerol levels on the percentage of sperm
+surviving and the rate (or speed) of their forward motion (0 = no
+forward motion; 4 = extremely rapid progressive motility) are presented
+in Table 8.
+
+The percentage of motile sperm decreased slightly at the higher levels
+of glycerol. The most noticeable effect of the increase in glycerol
+level was the reduction in the rate of forward motion of the sperm. At
+the 30-percent level, the sperm moved slowly and could be seen to
+rotate as they moved forward. Some samples were checked after slowly
+bringing the diluent up to a level of 40 percent glycerol; the sperm
+seemed to be immobilized completely in this solution.
+
+=Glycerol levels for freezing semen.= The British procedure called for
+the use of 10 percent glycerol in the final mixture of semen and
+extender prior to freezing. Yet, as shown in Table 6, in our laboratory
+5 percent glycerol resulted in the survival of a higher percentage of
+sperm than did 10 or 15 percent. In order to define more clearly the
+optimum glycerol level, several ejaculates of semen were subsampled and
+portions were frozen after the addition of yolk-citrate extender and
+glycerol in varying quantities. From Table 9 it can be seen that
+glycerol levels of 6 and 8 percent in the final mixture resulted in
+maximum sperm survival during freezing. These results were confirmed in
+tests on the survival of sperm at 5 deg. C. storage for 3 days following
+freezing and thawing with varying glycerol levels (see Table 10).
+
+The results shown in Tables 9 and 10 were confirmed also in later
+experiments. Thirty-six samples were subjected to various levels of
+glycerol and no significant difference in freezability was found between
+6 and 8 percent. Based on these findings, a glycerol level of 7 percent
+was adopted for use in all experiments described in this bulletin,
+unless otherwise indicated. Results in a number of other laboratories
+have agreed with our findings regarding the use of approximately 7
+percent glycerol with the yolk-citrate diluent.[5],[6],[7],[9],[10] With
+milk as the extender, 10 to 13 percent glycerol has been preferred by
+some.[5],[6],[7]
+
+Table 9.--Effect of Glycerol Level on Sperm Motility After Freezing to
+-79 deg. C. and Thawing
+
+  ==========================================================
+  Glycerol    Number        Pre-       Post-      Survival
+   level        of        freezing    thawing     (percent)
+  (percent)   samples     motility    motility
+                         (percent)   (percent)
+  ----------------------------------------------------------
+      2         10          53           2            4
+      4         19          55          29           53
+      6         19          55          34           62
+      8         19          55          35           64
+     10         19          55          24           44
+     12         10          53          13           25
+  ----------------------------------------------------------
+
+Table 10.--Effect of Glycerol Level and Storage at 5 deg. C. After Thawing
+on Sperm Motility
+
+(Average of 13 ejaculates)
+
+  ================================================
+                     Sperm motility (percent)
+  Glycerol      ----------------------------------
+    level        Post-     After storage at 5 deg. C.
+  (percent)     thawing    -----------------------
+                               1 day   3 days
+  ------------------------------------------------
+     4            29             22      20
+     6            38             34      24
+     8            42             33      17
+    10            33             18       6
+  ------------------------------------------------
+
+Table 11.--Effects of Temperature, Rate of Addition of Glycerol, and
+Equilibration Time on Sperm Motility
+
+(Average of 12 ejaculates)
+
+  ===================================================================
+  Temperature                       Post-thawing motility (percent)
+    during       Equilibration     ----------------------------------
+   addition          time                 Glycerol additions
+  of glycerol       (hours)        ----------------------------------
+    ( deg. C.)                           5       3       1       Average
+  -------------------------------------------------------------------
+     4.5               2            48      48      45        47.4
+                       6            49      51      47        48.8
+                      18            46      47      46        46.3
+                      Average       47.8    48.6    46.0      47.5
+
+    10.0               2            44      43      45        43.9
+                       6            48      50      46        47.9
+                      18            43      46      42        44.0
+                      Average       45.0    46.5    44.3      45.3
+
+    15.5               2            41      38      38        39.1
+                       6            42      45      43        43.6
+                      18            42      43      42        42.5
+                      Average       42.0    41.8    41.4      41.7
+  -------------------------------------------------------------------
+
+=Rate, temperature, and method of adding glycerol.= Closely associated
+with the question of how much glycerol should be added is that of how
+the additions should be made. Originally it was believed that the
+glycerol should be added in stages so that changes would occur
+gradually. However, there would be a saving in time if the entire amount
+could be added at once. Also, if the glycerol addition could be made
+soon after the dilution with egg yolk-citrate extender at room
+temperature, time would be gained in processing the semen for use. Since
+aging _in vitro_ is known to reduce the fertilizing ability of sperm,
+every effort should be made to keep the processing time at a minimum.
+The results of an experiment involving these items, along with that of
+how much time should be allowed after the additions before freezing
+(equilibration time), are presented in Table 11. One can see that sperm
+survived freezing better when the diluted semen was cooled to 4.5 deg. C.
+before the glycerol was added. The survival at 10 deg. and 15.5 deg. C. was
+reduced with each rise in temperature. Thus, it appears that cooling to
+refrigerator temperature (4-5 deg. C.) before adding the glycerol should be
+a part of the routine procedure.
+
+A comparison of the results from adding the glycerol in 5, 3, and 1
+equal portions is given also in Table 11. Little difference in survival
+during freezing was noted between the three rates of addition. Using 3
+equal additions resulted in slightly better results, but the advantage
+was not statistically significant. While little difference was evident
+from adding the glycerol in 3 portions as compared to 1, many still use
+3 additions in the hope of obtaining a slightly better sperm survival.
+In fact, some have gone to a procedure of adding the glycerol dropwise
+with constant gentle agitation. This method has not been tested in this
+laboratory.
+
+=Allowing sperm to equilibrate with the glycerol.= Allowing sperm to
+stand in the presence of glycerol is considered by some to be necessary
+in order that the glycerol penetrate the sperm heads before freezing.
+From the first successful attempts at freezing bull sperm came the
+practice of allowing 12 to 20 hours for this process of equilibration. A
+long equilibration time results in aging the sperm. Data from a number
+of sources indicate that a drop of approximately 5 percent in fertility
+in the field occurs with each 24 hours of aging in the test tube. Thus
+it would seem desirable to reduce the equilibration time to a minimum
+commensurate with good freezability in order to reduce the effects of
+aging (at 5 deg. C.). Results of attempting to reduce equilibration time are
+given in Table 11. At 4.5 deg. C., little variation in motility following
+freezing and thawing was found after equilibration times of 2, 6, and 18
+hours. At the higher temperatures of 10 deg. and 15.5 deg. C., the shortest
+equilibration time--2 hours--was slightly more detrimental with the
+differences significant at the 5-percent level at 15.5 deg. C. For all
+temperatures combined, 6 hours was significantly better than 2 or 18
+hours.
+
+=Sugar additions and equilibration time.= Early in their experiences in
+freezing semen, the Australian workers found a short equilibration
+time--30 minutes--to be satisfactory if sugars were added to the
+diluent.[5] This protective action of sugars during the equilibration
+period was confirmed in our investigations. The results of one phase of
+this study are shown in Table 12. From these data it can be seen that
+the presence of glucose or rhamnose at a level of 1.25 percent improved
+sperm survival during the period of equilibration. In another trial
+these sugars and two others, arabinose and xylose, were tested for their
+protective action in freezing semen. The percentages of surviving sperm
+remaining after the various steps in the freezing procedure with and
+without the presence of these sugars are shown in Table 13.
+
+Table 12.--Effect of Adding Sugars to Yolk-Citrate Diluent on Sperm
+Motility During Equilibration With Glycerol[J]
+
+  ============================================================
+                               Sperm motility (percent)
+                         -------------------------------------
+  Stage when observed    Glycerol     Glycerol      Glycerol
+                           only     and glucose   and rhamnose
+  ------------------------------------------------------------
+  Fresh diluted semen       56           56            56
+  After glycerolization     54           54            54
+  After equilibration
+     2 hours                51           53            53
+     6 hours                48           52            53
+    12 hours                46           50            51
+    18 hours                40           46            46
+  ------------------------------------------------------------
+
+  [J] Glycerol level in the final frozen mixture was 7 percent. Sugars
+  were added to a level of 1.25 percent.
+
+Three of the sugars--glucose, arabinose, and rhamnose--protected the
+sperm during equilibration and freezing. Xylose was less effective, but
+its addition resulted in slightly better sperm survival than glycerol
+alone. It was found also that the methylene-blue reduction time
+(metabolic test for semen quality) was faster in samples to which the
+sugars had been added--after glycerolization, after equilibration, and
+after freezing the samples. This is confirming evidence for the presence
+of more living and actively metabolizing sperm in the portions to which
+sugars had been added.
+
+Table 13.--Effect of Adding Sugars to Yolk-Citrate Diluent on Sperm
+Motility During the Freezing Procedures[K]
+
+(Average of 10 ejaculates)
+
+  ======================================================================
+                                   Sperm motility (percent)
+                       -------------------------------------------------
+  Stage of              Glycerol  Glycerol  Glycerol  Glycerol  Glycerol
+  observation            only       and        and      and       and
+                                  glucose   arabinose  xylose   rhamnose
+  ----------------------------------------------------------------------
+  Fresh diluted semen      63        63        63        63        63
+  After glycerolization    54        55        54        57        60
+  After 18 hours
+    equilibration          39        43        44        39        46
+  After freezing to
+    -79 deg. C. and
+    immediate thawing      28        34        34        29        24
+  After 4 days at -79 deg. C.  23        26        26        25        27
+  -----------------------------------------------------------------------
+
+  [K] Glycerol level in the final frozen mixture was 7 percent. Sugars
+  were added to a level of 1.25 percent.
+
+=Substitutes for glycerol.= Since glycerol was so effective in
+protecting sperm during freezing, many have assumed that related
+compounds might be even better. Several compounds, some related to
+glycerol and some not, have been tried as substitutes for glycerol in
+the freezing procedure. They include ethylene glycol, propylene glycol,
+trimethylene glycol, mannitol, sorbitol, dextrans, and seminal-plasma
+proteins. None of these materials has been as effective as glycerol in
+protecting sperm during freezing. In fact, several of the materials
+proved to be injurious to sperm prior to attempts to freeze the samples.
+While the work in our laboratory with these substances as glycerol
+substitutes was by no means finally conclusive, because of the many
+possible interactions of experimental conditions, sufficient data were
+gathered to lead us to abandon further study until greater promise of
+success might be evident.
+
+
+
+
+FREEZING RATE
+
+
+=Effect of freezing rate on sperm survival.= Reports by one group of
+British workers in early trials on freezing bull semen indicated that
+the rate of cooling in freezing should not exceed 2 deg. C. per minute
+between +5 deg. and -15 deg. C., although below -15 deg. C. the rate could be
+faster. Another group expressed the view that semen could be plunged
+into dry ice at -79 deg. C. after it had been cooled to -15 deg. C. To clarify
+this part of the freezing procedure, 11 samples of semen were subdivided
+and portions of each were frozen at rates of 0.25 deg., 0.5 deg., 1.0 deg., 2.0 deg.,
+and 4.0 deg. C. drop per minute between +5 deg. and -20 deg. C. and then twice these
+rates between -20 deg. and -79 deg. C. Vials of each ejaculate at +5 deg. C. were
+also plunged directly into an alcohol bath at -79 deg. C. The samples which
+were cooled at the rates of 0.25 deg., 0.5 deg., 1.0 deg., 2.0 deg., and 4.0 deg. C. per
+minute had the following percentages of motile sperm after thawing: 30,
+40, 46, 44, and 44. A mean of 32 percent of the sperm in the samples
+that were plunged directly into an alcohol bath at -79 deg. C. were motile
+after thawing. There were no statistically significant differences among
+the samples frozen at 1.0 deg., 2.0 deg. or 4.0 deg. C. per minute. All of the
+others had significantly lower survival rates. Thus, it is obvious that
+too slow a cooling rate and plunging the samples directly into a -79 deg. C.
+bath from a temperature of +5 deg. C. cause greater harm to the sperm than
+cooling at a rate between 1.0 deg. and 4.0 deg. C. per minute.
+
+Some investigators have suggested that rapid cooling below -20 deg. C. is
+not detrimental to frozen semen. This idea was tested in conjunction
+with other experiments. Twenty-five samples cooled slowly (2 deg. C. per
+minute to -28 deg. C., then 4 deg. C. per minute to -79 deg. C.) showed 62 percent
+sperm survival compared with only 45 percent when cooled rapidly below
+-28 deg. C. (2 deg. C. per minute to -28 deg. C. then plunged into bath at -79 deg. C.).
+Thus, rapid cooling was detrimental even after the critical temperature
+range of +5 deg. C. to -20 deg. C. had been passed.
+
+[Illustration: Cooling rates of diluted semen samples in plastic vials
+and in glass ampules (Fig. 4)]
+
+=Rate of cooling in plastic and in glass.= Plastic vials do not conduct
+the cold as rapidly as glass ampules do. The temperature in both glass
+and plastic containers tends to lag behind the change in the bath in
+which they are immersed as is shown in Figure 4.
+
+Temperatures in the immersion bath were recorded in a 2-milliliter glass
+ampule containing 1 milliliter diluted semen and in an 8-milliliter
+plastic vial containing 2.5 milliliters of diluted semen. A second
+plastic vial and glass ampule filled to capacity with diluted semen
+showed a cooling rate almost identical to that shown in Figure 4. It was
+obvious from the comparison that samples in the plastic vials cooled
+slower than those in glass and that the volume of semen (at least the
+small volumes used) in the vials had little effect on the rate of
+cooling. In another experiment, it was shown that the volume of diluted
+semen in the ampule to be frozen (0.2, 1.0 or 5.0 ml.) had little or no
+effect on the survival of the sperm.
+
+
+
+
+STORAGE TEMPERATURE
+
+
+In freezing and storing bull sperm, an alcohol bath containing dry ice
+at a temperature of -79 deg. C. has been used as a cooling agent. In many
+areas, the availability of dry ice is limited and the cost is rather
+high. Mechanical means are available for obtaining temperatures as low
+as, or lower than, -79 deg. C. but for the most part they are expensive. If
+warmer temperatures were suitable for storing frozen semen, the ordinary
+deep-freeze, which operates at -15 deg. to -25 deg. C., might be used.
+
+=Storage at temperatures from -23 deg. to -79 deg. C.= In testing the effects of
+storage temperatures on the survival of frozen bull sperm (in a diluent
+containing 7 percent glycerol), 9 ejaculates were frozen and kept at
+-23 deg., -37 deg., -51 deg., -65 deg., and -79 deg. C. The desired temperatures were
+maintained by dropping pieces of dry ice into ethyl alcohol baths as
+needed. Samples were thawed after 1 hour, 1 day, 3 days, and 5 days.
+After 1 hour, the samples maintained at the various temperatures
+exhibited approximately equal motility (Fig. 5).
+
+[Illustration: Effect of freezing and storing bull sperm at various
+temperatures on the sperm motility at thawing (average of 9 ejaculates)
+(Fig. 5)]
+
+At the end of 1 day, samples stored at -79 deg. C. exhibited approximately
+the same motility as did similar samples stored for 1 hour. The samples
+stored at -65 deg. C. had declined slightly in motility and those maintained
+at -51 deg. C. had only one-third the motility which they had displayed at 1
+hour. The samples at -23 deg. and -37 deg. C. exhibited practically no motility
+after 1 day in storage. After 5 days, only 3 of the 8 ejaculates stored
+at -51 deg. C. showed motility upon thawing. Apparently detrimental changes
+take place more rapidly when the samples are stored at temperatures
+warmer than -65 deg. C. The nature of these changes has not been determined.
+Reports from other laboratories indicate that storage temperatures much
+lower than -79 deg. C. are just as satisfactory as -79 deg. C.
+
+No tests of the effects of storage at -79 deg. C. for periods longer than 51
+days have been conducted in this laboratory. Portions of 12 ejaculates
+were frozen and stored at -79 deg. C. for various periods. One portion of
+each of these was examined on the second, ninth, 16th and 51st day of
+storage. The percent of motile sperm and rate of motility at each of
+these examinations were as follows:
+
+  Day                       2     9    16    51
+  Percent of motile sperm  49    46    40    38
+  Rate of motility          2.5   2.3   2.2   2.2
+
+The average prefreezing motility percentage for the above samples was
+58, with an average rate of motility of 2.9. It is apparent from these
+results that the loss in motility was greatest due to the initial
+freezing, and after that the drop was most pronounced during the first
+16 days of storage.
+
+The British and the Australians have both reported the successful
+maintenance of fertility in frozen semen stored at -79 deg. C. for over two
+years.[5]
+
+=Use of higher glycerol levels and a -20 deg. C. storage temperature.= In
+1953, a report from Arkansas suggested that warmer storage temperatures
+could be used if a high percentage of glycerol were included in the
+freezing mixture.[7] To test the effectiveness of various glycerol
+levels on protecting sperm stored at deep-freeze temperatures, glycerol
+levels of 3.5, 5.5, 7.5, and 9.5 percent were used with portions of 4
+semen samples. Survival in the portions frozen and stored at -20 deg. C. was
+poor compared with the portions reduced and held at -79 deg. C. In a second
+experiment, 4 samples were subdivided and frozen with a final
+concentration of 7, 11, 15, and 19 percent glycerol in the semen-diluent
+mixture. In this trial, poor results were obtained at -20 deg. C. except
+that glycerol at a level of 19 percent protected the sperm more
+effectively than at lower levels. Maximal survival at -79 deg. C. was
+obtained at the 7-percent glycerol level. A final trial was run, using
+glycerol levels of 7, 11, 15, 19, 23, 27, and 31 percent. The
+percentages of motile sperm present after storage at -79 deg. C. and -20 deg. C.
+are shown in Table 14.
+
+Table 14.--Effect of Glycerol Level and Storage Temperature on
+Freezability of Semen
+
+(Average of 8 ejaculates)
+
+  ================================================================
+  Storage       Glycerol    Sperm motility after storage (percent)
+  temperature   level       --------------------------------------
+  ( deg.C.)         (percent)          18 hours      42 hours
+  ----------------------------------------------------------------
+    -79            7                 61            61
+    -20            7                  2             1
+                  11                  3             1
+                  15                 14            10
+                  19                 30            22
+                  23                 29            19
+                  27                 25            18
+                  31                 21            12
+  ----------------------------------------------------------------
+
+While survival was fair over a short period of time with 19 percent
+glycerol at -20 deg. C., deterioration was rapid during storage. After 18
+hours of storage, the samples at -20 deg. C. (19 percent glycerol) contained
+only one half as many motile sperm as were still present in the samples
+at -79 deg. C. (7 percent glycerol). After 42 hours of storage, the best
+samples at -20 deg. C. contained only one-third the number of motile sperm
+still present in the samples stored at -79 deg. C. These trials leave little
+doubt that under the present system of freezing and storing, storage at
+ordinary deep-freeze temperatures is far inferior to storage at dry-ice
+temperatures.
+
+
+
+
+THAWING
+
+
+The importance of carefully controlled cooling and storage has been
+emphasized in the foregoing sections. The need for controlling thawing
+rates and the temperature of thawing was not clearly defined in the
+early work on freezing bull semen. The British used a thawing
+temperature of 40 deg. C., which was satisfactory. If there is a need to
+hold the semen for a time after thawing, then a lower thawing
+temperature might be more desirable so that cooling again will not be
+necessary.
+
+=Comparison of thawing temperatures of 5 deg. C. and 38 deg. C.= The effects of
+thawing at temperatures of 38 deg. (body temperature) and 5 deg. C.
+(refrigerator temperature) were investigated. The first trial involved
+thawing as rapidly as possible by dropping glass ampules of frozen semen
+into water baths at the two temperatures. The frozen semen samples
+contained glycerol levels of 4, 6, 8, and 10 percent. The mean
+percentages of motile sperm found after thawing thirteen diluted semen
+samples treated in this manner are shown in Figure 6.
+
+[Illustration: Effect of glycerol percentage and thawing temperature on
+sperm motility after freezing and thawing (Fig. 6)]
+
+The 5 deg. C. thawing temperature resulted in a higher percentage of sperm
+survival at all the glycerol levels than 38 deg. C., with the difference in
+favor of 5 deg. C. becoming greater as the glycerol level increased. The
+reason for the interaction between glycerol level and thawing
+temperature is not known. It may be that the presence of the higher
+levels of glycerol at 38 deg. C. brought about harmful metabolic activity.
+The difference in survival of sperm in semen thawed at 5 deg. C. and at 38 deg.
+C. continued during storage at 5 deg. C. (Table 15). It was also evident
+that the interaction between glycerol level and thawing temperature
+continued during storage (Fig. 7).
+
+[Illustration: Effect of thawing temperature on sperm motility during
+storage at 5 deg. C. following freezing and thawing (Fig. 7)]
+
+Table 15.--Effect of Glycerol Level, Thawing Temperature, and Storage at
+5 deg. C. After Thawing on Sperm Motility (Average of 13 ejaculates)
+
+  =====================================================================
+  Thawing      Glycerol            Sperm motility (percent)
+  temperature   level       -------------------------------------------
+    ( deg. C.)     (percent)     Post-     After storage at 5 deg. C.
+                            thawing    ----------------------   Average
+                                           1 day   3 days
+  ---------------------------------------------------------------------
+      38          4           28.5         17.3      5.1          17.0
+                  6           31.5         22.4      9.2          21.1
+                  8           33.1         15.0      4.6          17.6
+                 10           19.5          3.6      0.8           8.0
+                 Average      28.2         14.6      4.9          12.2
+
+       5          4           29.2         21.7     19.8          23.9
+                  6           37.7         33.8     23.5          31.7
+                  8           41.5         33.1     17.3          30.6
+                 10           33.1         18.5      6.0          19.2
+                 Average      35.4         26.8     16.6          20.6
+  ---------------------------------------------------------------------
+
+It is obvious that motility falls off rapidly after the semen is thawed.
+In a field trial in which the initial intent was to test the effect of
+glycerol levels on fertility of frozen semen, the semen was thawed in
+the morning and used during the same day. Survival of the sperm with 4
+percent glycerol was so poor that only a few breedings were made with
+these samples. Even at 7 and 10 percent, the fertility results were much
+lower than with semen that had not been subjected to freezing. At that
+time it was felt that thawing the samples and using them throughout the
+day may have caused the low fertility results. Since then, a
+large-scale experiment by Cornell University investigators, in
+cooperation with the New York Artificial Breeders' Cooperative, has
+shown definitely that thawing should be delayed until a few minutes
+prior to breeding.[11] If the semen is used immediately, a thawing
+temperature of either 5 deg. or 38 deg. C. appears to be suitable. However,
+there is less danger of cold shock due to recooling if 5 deg. C is used.
+
+=Thawing rate in plastic and in glass.= Glass ampules transmit cold or
+heat more readily than plastic ones. The temperature rise is rapid in
+both glass and plastic when samples are taken from the storage box at
+-79 deg. C. and placed in water at 5 deg. C. However, complete thawing occurs
+more rapidly in glass than in plastic ampules. The changes in
+temperature that occurred when glass and plastic ampules were thawed in
+a water bath at 5 deg. C. are shown in Figure 8. The initial temperature
+rise for the first minute or two was about the same, then the rate of
+warming in the plastic slowed and actual melting of the frozen sample
+occurred a little over a minute later in the plastic than it did in the
+glass. Both were thawed in less than four minutes.
+
+[Illustration: Warming rates of diluted semen samples in plastic vials
+and in glass ampules (Fig. 8)]
+
+
+
+
+EFFECTS OF FREEZING PROCEDURES ON METABOLIC ACTIVITY OF BULL SPERM
+
+
+By finding how methods of handling affect the sperm cells, one can
+sometimes improve the procedures to avoid harmful effects. Some attempts
+have been made in this laboratory to determine the effects of the
+freezing procedures on the metabolic activity of bull spermatozoa. These
+investigations have been limited in scope, involving the measurement of
+oxygen-consumption and estimates of sperm motility during and after
+incubation at 37 deg. C. in a Warburg apparatus.
+
+=Effect of glycerol additions on oxygen uptake of diluted semen at 37 deg.
+C.= The effect of adding glycerol to diluted semen on oxygen consumption
+of the sperm was tested in a Warburg apparatus, using semen diluted with
+an extender consisting of one part egg yolk and one part 2.9 percent
+sodium citrate dihydrate. The yolk-citrate extender was added to the
+semen at a rate which brought the sperm concentration in 0.5 milliliter
+to 200 million to 500 million. An exact count was used to calculate the
+oxygen uptake per 10^{8} sperm per hour (ZO_{2}).
+
+[Illustration: Effect of glycerol additions on oxygen consumption of
+sperm at 37 deg. C. (Fig. 9)]
+
+Glycerol in various percentages in 2.9 percent sodium citrate dihydrate
+solution was placed in the sidearm of the Warburg flasks. The diluted
+semen was held in the main compartment. After a 60-minute preliminary
+run, in which the rate of oxygen uptake of the sperm in yolk-citrate
+diluent was determined, the contents of the sidearm were tipped into the
+main compartment. The resulting glycerol percentages after mixing the
+sidearm and main compartment contents were 0, 4, 8, and 12 percent. Ten
+samples of semen were subsampled and the oxygen uptake of each was
+determined at all four levels of glycerol.
+
+Oxygen uptake was increasingly stimulated during the first 20-minute
+interval by each increase in the amount of glycerol added (Fig. 9).
+After the first 20 minutes, the rate of oxygen utilization decreased at
+the two higher levels of glycerol but persisted at 4 percent. The rate
+of oxygen consumption for the first 20-minute period at the 4-percent
+glycerol level was 130 percent that of the control to which only sodium
+citrate had been added. At 8 and 12 percent the values for the period
+were 144 and 192 percent, respectively, of the control rate.
+
+[Illustration: Effect of glycerol and glycerol-plus-catalase additions
+on sperm motility during incubation at 37 deg. C. (Fig. 10)]
+
+With each increase in glycerol level, motility was reduced during the
+incubation period. This is shown in Figure 10 along with the effect on
+motility of adding catalase, which is discussed in the next section.
+
+=Effect of glycerol-plus-catalase on oxygen uptake of diluted semen.=
+Certain bacteria have been shown to break glycerol down, forming
+hydrogen peroxide as follows:
+
+  Glycerol + oxygen --> lactic acid + hydrogen peroxide.
+
+Hydrogen peroxide is known to be detrimental to sperm. The addition of
+glycerol to diluted semen first increased oxygen uptake and then reduced
+it. Since a reduction in sperm survival followed, some harmful action
+must have taken place with the addition of glycerol at 37 deg. C. To test
+whether this action could be due to the release of hydrogen peroxide as
+occurs in certain bacteria, glycerol with catalase--the enzyme which
+breaks down hydrogen peroxide--was added to a portion of 8 diluted semen
+samples and the oxygen uptake was recorded. Comparison of the resulting
+oxygen uptake with glycerol and with glycerol plus catalase is shown in
+Figure 11.
+
+[Illustration: Effect of additions of glycerol-plus-catalase on oxygen
+consumption of sperm at 37 deg. C. (Fig. 11)]
+
+Oxygen consumption was increased by the presence of added catalase at
+all glycerol levels and in the control. Sperm survival during the 3-hour
+period at 37 deg. C. also was improved by the presence of catalase (Fig.
+10). However, the general trend in oxygen consumption produced by the
+addition of glycerol was not changed greatly. The higher levels of
+glycerol still stimulated oxygen uptake during the first 20-minute
+period after the additions and then slowed the rate of oxygen
+utilization. The rate of utilization was generally higher during the
+test period in the presence of catalase than without added catalase. It
+appeared that a part of the harmful effect of glycerol might be due to
+the formation of hydrogen peroxide. Still, the detrimental effects of
+the higher levels of glycerol were not completely removed.
+
+Table 16.--Effect of Freezing Procedures on Oxygen Utilization of Bull
+Sperm in Yolk-Citrate Extender
+
+(Average of 5 ejaculates)
+
+  =====================================================================
+                                             Microliters of oxygen
+  Semen sample tested                        utilized per 10^{8} sperm
+                                             --------------------------
+                                             First hour    Second hour
+  ---------------------------------------------------------------------
+  Fresh diluted semen                            10.3         8.1
+  Fresh diluted semen glycerol tipped in
+    at end of first hour                          9.7[L]     12.9[L]
+  Aged 20 to 24 hours at 5 deg. C.                   11.2         8.3
+  Aged 20 to 24 hours at 5 deg. C. glycerol
+    tipped in at end of first hour               11.8[L]     12.9[L]
+  After 20 hours equilibration with glycerol     11.7[L]      7.8[L]
+  After freezing and thawing                      9.7         6.3
+  --------------------------------------------------------------------
+
+  [L] Average of 3 ejaculates.
+
+=Effect of freezing procedures on oxygen utilization by sperm.= Limited
+data have been obtained on the effects of some of the freezing
+procedures on the oxygen utilization of bull sperm. The results obtained
+in these experiments confirmed the earlier findings that tipping
+glycerol directly into the diluted semen at 37 deg. C. caused an increase in
+oxygen consumption (Table 16). All other steps in the freezing procedure
+had little effect on oxygen consumption by the sperm. Except where
+glycerol was added during the determination, the rate of oxygen
+utilization was lower the second hour than during the first. The oxygen
+uptake of semen that had been frozen and thawed seemed to drop faster
+than that of unfrozen samples.
+
+=Effect of freezing procedures on methylene-blue reduction time.= The
+methylene-blue reduction test has been used as a means of measuring
+semen quality and is dependent on the metabolic activity of the sperm.
+The effects of various freezing procedures on the ability of samples to
+decolorize methylene blue were determined with 10 semen samples. Sperm
+numbers were standardized to 300 x 10^{6} cells per milliliter and the
+time required for these cells to reduce a 1:40,000 solution of methylene
+blue was determined on freshly diluted semen, after the addition of
+glycerol, after equilibration, and after freezing and thawing. Portions
+of each diluted sample were tested at these stages of the procedure with
+glycerol alone added and with glycerol and various sugars added.
+
+A marked increase in the time required for the sperm to reduce methylene
+blue occurred when the glycerol was added (Table 17). This increase was
+greatest in the portions with glycerol alone and with glycerol and
+glucose. The time increase was less pronounced in the presence of the
+three pentose sugars used. Following equilibration, the samples regained
+the ability to reduce methylene blue at a rate only slightly slower than
+when they were fresh. Freezing and storage of semen resulted in slower
+reduction of the methylene blue than was shown after equilibration with
+glycerol. Since freezing usually kills some of the sperm, a slowing of
+the reduction time after freezing would be expected.
+
+Table 17.--Effect of Freezing Procedures on the Methylene-Blue Reduction
+Time of Bull Semen With and Without the Addition of Sugars[M]
+
+(Average of 10 ejaculates)
+
+  ======================================================================
+                            Methylene-blue reduction time (minutes)
+                        ------------------------------------------------
+                        Glycerol  Glycerol  Glycerol   Glycerol Glycerol
+                        only      and       and        and      and
+                                  glucose   arabinose  xylose   rhamnose
+  ----------------------------------------------------------------------
+  Fresh semen             5.2       5.2       5.2        5.2       5.2
+  After glycerolization  26.4      25.2      17.3       14.3      19.4
+  After 18 hours
+    equilibration         7.4       6.5       6.4        5.3       6.2
+  Thawed immediately
+    after freezing       11.5      10.5       9.4        9.0       9.4
+  Thawed  48 hours
+    after freezing       14.3      10.2      11.3       10.1       9.5
+  ----------------------------------------------------------------------
+
+  [M] Glycerol level in the final frozen mixture was 7 percent. Sugars
+  were added to a level of 1.25 percent.
+
+
+
+
+PRACTICAL FREEZING PROCEDURE
+
+
+Good results usually can be obtained in freezing bull semen if care is
+taken in collecting, diluting and processing the semen. Occasionally the
+semen from certain bulls will not withstand freezing well. The reason
+for this is not understood at present. However, carefully following the
+directions and suggestions given below will usually produce satisfactory
+results with semen samples that are of good quality at the start.
+
+Experience in the field has shown that fertility results with frozen
+semen are usually slightly lower during the first few months than with
+liquid semen stored at 5 deg. C. (41 deg. F.). Most units that have worked with
+frozen semen over a period of a few months are able to improve and do
+get fertility results as good as, or better than, obtained in their
+liquid semen program.
+
+=Collection of the semen.= In order to obtain the best possible semen
+for freezing, care and cleanliness should be exercised in making the
+collection. The artificial vagina, and the glassware used should be
+clean and dry. The underline of the bull should also be clean and dry.
+The bull should be restrained near the teaser cow for a minute or two
+prior to collection in order to excite the flow of secretions prior to
+ejaculation. Allowing the bull to mount the teaser once without serving
+the artificial vagina is a good practice to use in properly stimulating
+the bull before collection of the semen.
+
+If the bull has not been used for three or four days, the collection of
+a second ejaculate for freezing may be advisable. The second ejaculate
+seems to withstand freezing better than the first in many instances. A
+clean, dry artificial vagina should be used for each ejaculate
+collected. Repeated collections in the same artificial vagina may result
+in contamination of the semen with bacteria, lubricating jelly and
+minute particles of dirt. The semen sample should be protected from
+contamination and from sudden temperature drops (cold shock).
+
+=Preparation of extender.= A suitable egg yolk-citrate extender for
+freezing bull semen can be prepared by the following procedure. One part
+egg yolk (free of egg white and the membrane surrounding the yolk) is
+mixed with 4 parts 2.4 to 2.9 percent sodium citrate dihydrate solution.
+The citrate is prepared with distilled water and then boiled or
+autoclaved. The citrate solution should be cooled before it is mixed
+with the egg yolk. After the egg and citrate are mixed, 1000 units of
+penicillin and 1000 micrograms of streptomycin are added per milliliter
+of extender. Sulfanilamide should not be added. This extender can be
+prepared 12 to 24 hours before use if it is stored at refrigerator
+temperature. The portion of the extender needed for the original
+dilution of the semen should be warmed to room temperature before it is
+mixed with the semen.
+
+=Dilution after collection.= As soon as possible after collection, the
+semen sample should be diluted with the extender. The extender must be
+at the same temperature as the semen (room temperature) when the two are
+mixed together. At this time the semen can be partially diluted (1 part
+semen to 4 parts of extender) or diluted to a sperm concentration twice
+the final desired concentration (later in adding the glycerol for
+freezing, the semen is diluted further with an equal volume of glycerol
+containing extender). The diluted semen is slowly cooled (1-1/2 to 2-1/2
+hours) to 5 deg. C. (41 deg. F.). Some units using frozen semen now allow the
+semen to stand at 5 deg. C. for 5 to 6 hours before glycerolization to allow
+the antibiotics to be more effective against any vibrio fetus organisms
+that may be present. This step is taken because it has been shown that
+glycerol inhibits the effectiveness of the antibiotics.[6] After
+cooling, semen can be further diluted to twice the desired sperm
+concentration if that were not done at the start. (Caution: Be sure
+semen and diluent are at the same temperature.)
+
+=Adding the glycerol.= The glycerol solution is prepared by adding 14
+volumes of glycerol (reagent grade) to 86 volumes of yolk-citrate
+diluent (same as yolk-citrate used for original dilution). This solution
+may be added dropwise with constant gentle mixing to the already diluted
+semen, or one-third at a time at 10-minute intervals with gentle mixing
+during each addition. Either method should take about 20 to 30 minutes.
+The total volume of glycerol-yolk-citrate solution added should be equal
+to the volume of the original diluted semen. In this way a concentration
+of 7 percent glycerol is obtained in the final mixture that is to be
+frozen. Care must be taken to keep the temperature at 5 deg. C. (41 deg. F.)
+during the time the glycerol is being added. (A cold room is best for
+maintaining a temperature of 5 deg. C., but with care the operation can be
+carried out at room temperature by using pans of ice water and a
+refrigerator.)
+
+=Equilibration.= The results presented in this bulletin suggest that
+little or no time need be allowed after the glycerol is added before
+freezing. However, results obtained by other workers show improved
+fertility with at least 12 hours equilibration. Some units getting good
+fertility results with frozen semen also are allowing the semen to stand
+at 5 deg. C. for 12 to 18 hours before freezing. After the semen has
+equilibrated with the glycerol, 1-milliliter portions of the mixture are
+placed in 1.2- to 2-milliliter vials or ampules which are then sealed.
+Ampuling can be done with an automatic syringe or pipette, provided a
+large gage needle is used. Also, it is important not to force the fluid
+mixture rapidly through the syringe or the sperm may be injured.
+
+=Freezing.= The vials or ampules of diluted semen are placed in a bath
+of isopropyl alcohol which has been cooled to 5 deg. C. (41 deg. F.). This bath
+can be a wide-mouth thermos bottle or an insulated container of almost
+any sort with a large opening at the top. The size needed depends on the
+number of ampules being frozen. Some sort of convenient tray for holding
+the ampules in an orderly fashion and enabling the samples to be
+completely submerged is desirable. A few ampules can be kept together
+easily by placing them in a polyethylene freezer bag that has had many
+small holes cut in it to let the alcohol of the bath contact the
+ampules. The ampules must be completely covered by the alcohol to insure
+uniform cooling.
+
+The alcohol of the bath and the ampules of semen are cooled by adding
+chipped or ground dry ice in sufficient amounts to lower the temperature
+of the bath 2 deg. C. (3.6 deg. F.) per minute from +5 deg. to -20 deg. C. From -20 deg.
+down to -79 deg. C., the rate of cooling can be doubled (4 deg. C. or 7.2 deg. F.).
+Electrical equipment that regulates the cooling rate to the desired
+temperatures is available commercially, but the cost may be too high for
+some small operations. The samples should be held at -79 deg. C. (-110 deg. F.)
+until they are thawed. This can be done by using an alcohol bath and dry
+ice or by special mechanical refrigerating equipment. At no time prior
+to thawing should the samples be exposed to warmer temperatures.
+
+=Thawing.= The ampules of frozen semen can be thawed by removing them
+from the dry ice storage box and dropping them into a water bath at 5 deg.
+C. (41 deg. F.). Thawing temperatures up to body temperature, 38 deg. C. (100 deg.
+F.), can be used but extreme care must then be taken not to pass the
+semen through a cold inseminating tube; for this would subject the sperm
+to cold shock. The semen should be used for breeding within a few
+minutes after thawing.
+
+
+
+
+LITERATURE CITED
+
+
+     [1] DAVENPORT, C. B. Effect of chemical and physical agents upon
+     protoplasm. Macmillan and Co., New York. 1897.
+
+     [2] POLGE, C., and PARKES, A. S. Possibilities of long-term
+     storage of spermatozoa at low temperatures. Anim. Breeding Abs.
+     =20=:1-5. 1952.
+
+     [3] EMMENS, C. W., and BLACKSHAW, A. W. The low temperature
+     storage of ram, bull, and rabbit spermatozoa. Austral. Vet. Jour.
+     =26=:226. 1950.
+
+     [4] SMITH, AUDREY W. Effects of low temperatures on living cells
+     and tissues. In biological applications of freezing and drying.
+     Ed. R. J. C. Harris. Academic Press, Inc., New York, 1954.
+
+     [5] EMMENS, C. W., and BLACKSHAW, A. W. Artificial insemination.
+     Physiol. Rev. =36=:277-306. 1956.
+
+     [6] Proceedings of the National Association of Artificial
+     Breeders, 1953, 1954, and 1955.
+
+     [7] Proceedings of the American Dairy Science Association, 1953,
+     1954, and 1955. Published in the June issue of the Journal of
+     Dairy Science for each year.
+
+     [8] BARKER, C. A. V. Low temperature preservation of bovine
+     epididymal spermatozoa. Canad. Jour. Comp. Med. =18=:390-393.
+     1954.
+
+     [9] SAROFF, JACK, and MIXNER, J. P. The relationship of egg yolk
+     and glycerol content of diluters and glycerol equilibration time
+     to survival of bull spermatozoa after low temperature freezing.
+     Jour. Dairy Sci. =38=:292-297. 1955.
+
+     [10] CRAGLE, R G., MYERS, R. M., WAUGH, R. K., HUNTER, J. S., and
+     ANDERSON, R. L. The effects of various levels of sodium citrate,
+     glycerol, and equilibration time on survival of bovine
+     spermatozoa after storage at -79 deg. C. Jour. Dairy Sci.
+     =38=:508-514. 1955.
+
+     [11] BRATTON, R. W., FOOTE, R. H., and CRUTHERS, JOAN C.
+     Preliminary fertility results with frozen bovine spermatozoa.
+     Jour. Dairy Sci. =38=:40-46. 1955.
+
+     [12] HAFS, H. D., and ELLIOTT, F. I. The effects of methods of
+     adding egg yolk and monosaccharides on the survival of frozen
+     bull spermatozoa. Jour. Dairy Sci. =38=:811-815. 1955.
+
+     [13] MILLER, W. J., and VANDEMARK, N. L. The influence of
+     glycerol level, various temperature aspects, and certain other
+     factors on the survival of bull spermatozoa at sub-zero
+     temperatures. Jour. Dairy Sci. =37=:45-51. 1954.
+
+
+
+
+TEMPERATURE CONVERSIONS
+
+
+   deg.C.    deg.F.
+
+  +38  +100
+  +35   +95
+  +30   +86
+  +25   +77
+  +20   +68
+  +15   +59
+  +10   +50
+   +5   +41
+    0   +32
+   -5   +23
+  -10   +14
+  -15    +5
+  -18     0
+  -20    -4
+  -25   -13
+  -30   -22
+  -35   -31
+  -40   -40
+  -45   -49
+  -50   -58
+  -55   -67
+  -60   -76
+  -65   -85
+  -70   -94
+  -75  -103
+  -79  -110
+
+
+
+
+
+End of the Project Gutenberg EBook of Preservation of Bull Semen at Sub-Zero
+Temperatures, by N. L. VanDemark and W. J. Miller and W. C. Kinney, Jr. and Carlos Rodriguez and M. E. Friedman
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PRESERVATION OF BULL SEMEN ***
+
+***** This file should be named 37041.txt or 37041.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/7/0/4/37041/
+
+Produced by Bryan Ness, Harry Lame and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/American Libraries.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

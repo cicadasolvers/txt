@@ -1,0 +1,4730 @@
+Project Gutenberg's Bridge; its Principles and Rules of Play, by J.B. Elwell
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Bridge; its Principles and Rules of Play
+       with Illustrative Hands and the Club Code of Bridge Laws
+
+Author: J.B. Elwell
+
+Release Date: November 12, 2011 [EBook #38000]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK BRIDGE ***
+
+
+
+
+Produced by Chuck Greif and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This book was
+produced from scanned images of public domain material
+from the Google Print project.)
+
+
+
+
+
+
+
+    [Characters surrounded by <f> and </f> are characters which were
+     underlined in the book.
+
+    [C]=Clubs
+    [S]=Spades
+    [D]=Diamonds
+    [H]=Hearts
+    (note of etext transcriber)]
+
+
+
+
+BRIDGE
+
+
+    "Soon as she spreads her hand, the aerial guard
+    Descend and sit on each important card."
+
+
+
+
+BRIDGE
+
+ITS PRINCIPLES AND RULES
+OF PLAY
+
+BY
+J. B. ELWELL
+
+[Illustration: colophon]
+
+WITH ILLUSTRATIVE HANDS AND THE
+CLUB CODE OF BRIDGE LAWS
+
+NEW YORK
+CHARLES SCRIBNER'S SONS
+1906
+
+COPYRIGHT, 1902, 1905, BY
+
+J. B. ELWELL
+
+TROW DIRECTORY
+PRINTING AND BOOKBINDING COMPANY
+NEW YORK
+
+
+         TO HIS PUPILS
+            AND TO
+     ALL OTHERS INTERESTED IN
+      THE GAME OF BRIDGE
+          THE AUTHOR
+    WOULD BEG LEAVE TO DEDICATE
+           THIS BOOK
+
+
+
+
+PREFACE
+
+
+The main purpose which I have had in view in writing this book has been
+to provide my pupils with a SIMPLE and ELEMENTARY work on Bridge. I have
+endeavoured to abstain from assuming a knowledge of Whist or Whist terms
+on the part of the reader, and have merely attempted to write a
+text-book which shall combine clear and concise statements of my rules,
+with a reason for and explanation of each one. These rules have stood
+the test of practical experiment by myself and others for the last five
+years, so that this statement of them will, I trust, be of benefit both
+to the beginner and to the advanced player.
+
+J. B. E.
+
+
+
+
+BRIDGE
+
+
+PLAYERS
+
+Bridge is usually played by four persons. If there are more than four
+candidates, the prior right to play is decided by cutting the cards.
+
+
+CUTTING
+
+This is done from a full pack of fifty-two cards which have been
+shuffled and spread face downward on the table. Each player draws a
+card. The four cutting the lowest cards play the first rubber. In
+cutting ace is low. The cards are also cut to decide partners, the two
+highest playing against the two lowest. _The dealer is the player
+cutting the lowest card of all_, and he has the choice of the seats and
+of the cards. Should the two players who cut the lowest cards draw cards
+of equal value, they must cut again to decide which shall deal.
+
+
+DEALING
+
+Before being dealt, the cards must be shuffled by the dealer and then
+cut by the player at his right. It is customary to play with two packs
+of cards, the dealer's partner shuffling, or making up, for his
+right-hand adversary. The cards are dealt one at a time, from left to
+right, until all are exhausted, each player having thirteen cards. The
+last card should not be turned face up. There is no penalty for a
+misdeal.
+
+
+THE OBJECT OF THE GAME
+
+There are two separate scores to be played for--trick and honour scores.
+The trick score is credited to the side that wins more than six tricks;
+the honour score to the side that holds the majority of the trump
+honours. The object of the game is to score more points than your
+adversaries, tricks and honours included. This is best done by winning a
+rubber.
+
+
+THE GAME
+
+The game consists of thirty or more trick points. All points in excess
+of thirty are counted by the side winning them; but only one game can be
+won in a deal. Honours are a separate score and do not count toward
+winning the game.
+
+
+THE RUBBER
+
+The rubber is the best of three games. If the first two games are won by
+the same partners the third is not played. One hundred points are added
+to the total score of the side winning the rubber.
+
+
+DECLARING THE TRUMP
+
+The hand may be played either without a trump, or a trump suit may be
+selected.
+
+The dealer has the option of making a declaration or of passing that
+privilege to his partner. If the dealer passes the make, his partner
+must announce the trump. A trump once made cannot be changed at any time
+during the deal.
+
+
+TABLE OF TRICK VALUES
+
+(_For each trick over six._)
+
+    +-----------------------------------------------+
+    |When | [S] | are trumps each trick counts |  2 |
+    |-----+-----+------------------------------+----|
+    |When | [C] | are trumps each trick counts |  4 |
+    |-----+-----+------------------------------+----|
+    |When | [D] | are trumps each trick counts |  6 |
+    |-----+-----+------------------------------+----|
+    |When | [H] | are trumps each trick counts |  8 |
+    |-----+-----+------------------------------+----|
+    |When |     |                              |    |
+    |there| no  | trumps each trick counts     | 12 |
+    |are  |     |                              |    |
+    +-----------------------------------------------+
+
+
+DOUBLING
+
+After the trump has been declared each adversary, in turn, may increase
+the value of the tricks by doubling.
+
+The leader--the player at the left of the dealer--has the first right to
+double. If the leader does not wish to double his partner may then do
+so.
+
+
+REDOUBLING
+
+If either the leader or his partner has doubled the trump, the dealer or
+his partner may re-double, the player who has made the trump having the
+first right. This process may continue indefinitely. Doubling or
+redoubling does not affect the value of the honours.
+
+
+THE DUMMY
+
+When the value of each trick has been determined, and after a card has
+been led, the dealer's partner places his hand face upward on the
+table--the trump suit at his right--and the dealer plays both hands. The
+dealer's partner--the dummy--is not allowed to suggest, to touch or to
+play a card except at the dealer's bidding. It is the dummy's right,
+should the dealer refuse to follow in any suit, to endeavour to prevent
+a revoke. (See Conversation of the Game.)
+
+
+THE PLAY
+
+In the play of the cards the ace is high and deuce low. You must follow
+suit, but if you have no card of the suit led, you may either trump or
+discard. At no-trump the best card of the suit led wins the trick.
+
+
+THE CONVERSATION OF THE GAME
+
+In order to avoid giving partner information as to the character of
+one's hand, both the _conversation_ of the game and its order should be
+strictly adhered to. To find that the wrong person has announced the
+trump, or that a player has doubled out of turn, or that one has led
+without asking permission, is most irritating to the other players, and
+a severe penalty may often be exacted for such a mistake. The dealer may
+either declare the trump or say, "I pass." If the dealer passes, his
+partner must announce the trump. The leader may either double or say,
+"May I Lead, Partner?" this indicates that he does not want to double,
+but wishes to give his partner an opportunity to do so. The leader's
+partner either says "No, I double," or "lead, please."
+
+The conversation is indicated in the following diagram.
+
+                       "Spades,"
+                          or
+                   "I make it Spades."
+
+                  +-------------------+
+                  |         Y         |
+                  |       Dummy       |
+                  |                   |
+    "May I lead?" |                   | "No, I double,"
+         or       |A Leader         B |       or
+     "I double."  |                   | "Play, please."
+                  |                   |
+                  |       Dealer      |
+                  |         Z         |
+                  +-------------------+
+                   "I make it Hearts,"
+                           or
+                        "I pass."
+
+When the trump has been doubled the maker says, "I redouble," or "I am
+satisfied." If the maker is satisfied his partner says, "I redouble," or
+"I am satisfied." In many clubs the conversation is somewhat changed and
+abbreviated. "Pass." "Hearts." "I double." "I go over." "I redouble" or
+"I go back." "Enough," or a rap on the table to signify satisfaction.
+
+
+TO PREVENT A REVOKE
+
+If your partner refuses to follow suit, always ask, "Have you no
+(hearts), Partner?" An error may then be rectified, but only before the
+trick has been turned and quitted or before another card has been led.
+
+
+SCORING
+
+The score consists of two separate counts: trick score and honour score.
+The trick score is made by the side winning more than six tricks in a
+hand. The honour score, by the partners who hold the majority of the
+trump honours. With a declared trump the honours are A K Q J and 10. At
+no-trump only the Aces count as honours. Doubling does not increase the
+honour score.
+
+TABLE SHOWING VALUE OF HONOURS
+
+    +-----------------------------------------------------+
+    | AT NO-TRUMP                                         |
+    +-----------------------------------+-----------------+
+    | 3 ACES                            |   count     30  |
+    |                                   |                 |
+    | 4 ACES                            |     "       40  |
+    |                                   |                 |
+    | 4 ACES in one hand                |     "      100  |
+    +-----------------------------+-----+-----+-----+-----+
+    | WHEN TRUMPS ARE             | [S] | [C] | [D] | [H] |
+    +-----------------------------+-----+-----+-----+-----+
+    | 3 Honours count             |   4 |   8 |  12 |  16 |
+    |                             |     |     |     |     |
+    | 4 Honours count             |   8 |  16 |  24 |  32 |
+    |                             |     |     |     |     |
+    | 5 Honours count             |  10 |  20 |  30 |  40 |
+    |                             |     |     |     |     |
+    | 4 Honours in one hand count |  16 |  32 |  48 |  64 |
+    |                             |     |     |     |     |
+    | 4 Honours in one hand, 5th  |     |     |     |     |
+    |   in the partner's, count   |  18 |  36 |  54 |  72 |
+    |                             |     |     |     |     |
+    | 5 HONOURS in one hand count |  20 |  40 |  60 |  80 |
+    +-----------------------------+-----+-----+-----+-----+
+
+A LITTLE SLAM, winning twelve of the thirteen tricks, adds 20 points to
+the honour score.
+
+A GRAND SLAM, winning all thirteen tricks, adds 40 points to the honour
+score.
+
+CHICANE, a hand which is without a trump, adds the value of three
+honours to the honour score.
+
+DOUBLE CHICANE, a player and partner having no trumps, adds the value of
+four honours to the honour score.
+
+THE METHOD OF SCORING
+
+                   We.       They.
+              +----------+----------+
+              |          |          |
+              |          |          |
+              |          |          |
+              |         H|          |
+              |         o|          |
+              |   100   n|          |
+              |    64   o|     8    |
+              |     4   u|    40    |
+              |    30   r|    16    |
+              |    24   s|          |
+              |          |          |
+              +----------+----------+
+    1st Game. |    18    |    16    |
+              |    12    |          |
+              +----------+----------+
+    2d Game.  |          |    60    |
+              |          |          |
+              +----------+----------+
+              |         T|          |
+              |         r|          |
+    Rubber.   |     8   i|     8    |
+              |    40   c|          |
+              |         k|          |
+              |         s|          |
+              +----------+----------+
+    Total.    |   300    |   148    |
+              |          |          |
+              |     300  |          |
+              |     148  |          |
+              |     ---  |          |
+              |     152 points won. |
+              +---------------------+
+
+After the rubber has been won the honour score and the trick score of
+each side are added, and the leaser total deducted from the greater.
+
+
+THE SCORE
+
+There is no part of the game of Bridge to which I would more urgently
+request the attention of the player than to a careful consideration of
+the state of the score. _It is useless to attempt to play good Bridge
+without a knowledge of the score._ If you blindly follow rules for
+making, doubling, and playing, without knowing exactly how many points
+you require to win the game as well as the number needed by your
+adversaries, you will needlessly lose many rubbers.
+
+Before you declare the trump look at the score to determine the number
+of points you must make in order to win the game.
+
+Know the score when you contemplate doubling.
+
+Never lead without knowing how many tricks you must make in order to
+SAVE the game.
+
+When you are the dealer outline your play to win the game; and if you
+find it impossible to win the game be sure to SAVE it.
+
+
+THE DECLARATION
+
+While a few tricks may be dropped in the play of a hand, an unsound make
+may result in the loss of several hundred points. The importance, both
+of making the trump to the score and of considering the probability of
+securing an honour score, cannot be too deeply impressed on the player's
+mind. This, more than any part of the game, requires the exercise of
+sound judgment. The good maker has an enormous advantage over the weak
+one.
+
+Try to select the trump that will win the greatest number of points with
+a strong hand, and the one that will lose the fewest possible number
+with a weak hand. Be liberal and bold when behind in the game and
+conservative and timid when ahead.
+
+In suggesting rules for the make this difficulty must be faced: the
+exercise of the best judgment in the world will not enable one to select
+the successful trump EVERY time; and players are apt to forget the many
+times a particular make has won, and to be impressed by the one time the
+rule failed them.
+
+Follow consistently the laws for the make with a certainty that in the
+large majority of cases they will prove successful; and digress from
+these laws only when the score warrants.
+
+
+NO-TRUMP DECLARATION BY THE DEALER
+
+Provided the hand contain no large honour score in hearts or diamonds,
+it is evident that the no-trump declaration is more likely than any
+other to result in the gain of a large score; the dealer should,
+therefore, first consider his chances of winning at no-trump. There is a
+large percentage in favour of the success of an original no-trump make.
+The dealer can see and combine his own with the dummy hand; while his
+adversary makes the initial lead in the dark. The dealer can play false
+cards; while the adversaries cannot afford to deceive each other. In
+short the dealer plays the hand with an exact knowledge of the cards
+that are held against him, and can take advantage of any error made, or
+any information given by the adversaries. As tricks are won by small
+suit cards in every no-trump hand, there is no method of estimating how
+many tricks your hand may be worth. The dealer, in declaring no-trump,
+may assume that his partner's hand will contain an average amount of
+strength. If the dealer is weak in one suit he is justified in counting
+on his partner's hand for some protection in that suit. The dealer
+should not declare no-trump when he is reasonably sure of winning the
+game or rubber with a trump suit; neither should the dealer declare
+no-trump without an ace in his hand--unless the score is very desperate
+and then only when his hand is exceptionally strong.
+
+
+RULES FOR THE NO-TRUMP DECLARATION BY THE DEALER
+
+          {4 Aces.
+          {3 Aces.
+  Holding {2 Aces and one other guarded suit.
+          {1 Ace and three other guarded suits.
+          {1 long established black suit (A K Q x x x[A]) and one other Ace.
+
+
+         [A] "x" signifies small cards.
+
+
+GUARDED SUITS
+
+The following may be called guarded suits:
+
+    K Q x    K J x    K x    Q J x    Q x x
+
+
+WEAK NO-TRUMP MAKES TO THE SCORE
+
+If the score warrants the dealer in taking a chance at a weak make, it
+is safer to gamble at no-trump than at a weak red declaration. At
+no-trump the dealer's partner has a wider field for assistance, as any
+one good suit will help.
+
+On the rubber game, with the score very much against him, the dealer
+should declare no-trump.
+
+            {2 Aces and a guarded Jack.
+            {2 Aces, one suit being A K.
+    Holding {1 Ace, a guarded K or Q and a K Q suit.
+            {1 Ace and two guarded suits (K or Q).
+            {1 long established black suit and a guarded King.
+
+
+HEARTS
+
+In considering a heart make, the dealer should be influenced by the
+general strength of his hand and by the number of honours he holds in
+the trump suit. Hearts should always be declared with four or five
+honours in the hand irrespective of the strength of other suits; the
+honour score will probably more than compensate for a possible loss of
+trick points. A heart declaration with less than two honours is not
+advisable--unless the hand contain great length in the trump suit or
+great strength in the other suits--as the honour scores made against the
+hand will usually exceed its trick value.
+
+
+HEARTS IN PREFERENCE TO NO-TRUMP
+
+As it requires three odd tricks to win a game of thirty points without a
+trump, and but one trick more to win a game with a heart trump, the
+dealer will often have occasion to choose between the two makes. With a
+strong heart hand and a doubtful "no-trumper," or if the hand contain
+one unguarded suit, hearts should always be given the preference. As the
+adversaries have the lead and the privilege of doubling, a weak suit
+exposes the hand to some danger at no-trump.
+
+
+RULES FOR THE HEART MAKE
+
+The dealer should declare hearts:
+
+           {6 Hearts, including 1 honour and some protection in other suits.
+           {5 Hearts, including 2 honours and some protection in other suits.
+  Holding  {5 Hearts, including 1 honour with a good five-card plain suit,
+              or with strong protection in other suits.
+           {4 Hearts, including 3 honours and some protection in other suits.
+           {4 Hearts, including 4 honours, with or without protection
+              in other suits.
+
+
+DIAMONDS
+
+As there are two declarations of greater value than diamonds, there is
+often a question as to the advisability of passing the make with a fair
+diamond hand and of giving partner an opportunity to declare no-trump or
+hearts. The dealer should always make the trump diamonds holding four or
+five honours in his hand, irrespective of the state of the score;
+holding less than four honours the dealer must be influenced by the
+number of points that are necessary to win the game, and by the strength
+of his hand. Many players are prejudiced against an original diamond
+declaration when the score is love all; and, while the writer believes
+it safer at this score to declare diamonds with a fair hand than to
+chance the uncertainty of a passed make, yet the make SHOULD be
+passed:--
+
+When behind on the first game--as 0-24.
+
+Having lost the first and with nothing scored on the second game.
+
+When nothing on the rubber game.
+
+In each of these positions, as the adversaries have the next deal and
+may win the game, it is imperative that you score thirty points. To
+accomplish this with a diamond trump it is necessary to win eleven of
+the thirteen tricks; therefore, unless you hold a hand of more than the
+average strength, it is advisable to pass the make in hopes that partner
+can declare hearts or no-trump.
+
+If there is a question between a diamond and no-trump declaration, the
+latter is usually preferable; for while the risk is greater the reward
+is double.
+
+A diamond make is advisable whenever there is a fair chance to win the
+game, as when but two or three odd tricks are needed.
+
+
+RULES FOR THE DIAMOND MAKE
+
+The dealer should declare diamonds:
+
+          {6 Diamonds, including 1 honour and some protection in other suits.
+  Holding {5 Diamonds, including 2 honours and some protection in other suits.
+          {4 Diamonds, including 4 honours, with or without protection
+             in other suits.
+
+
+BLACK SUIT DECLARATIONS
+
+The score should be the one excuse for an original black declaration,
+and then only when comparatively sure of winning the game. Otherwise,
+when the hand does not admit of a red or a no-trump declaration, the
+make should be passed.
+
+
+CLUBS
+
+Clubs should be made originally only when the score is eighteen or more,
+and the hand strong enough, with slight assistance, to win the game.
+Clubs may be declared when there are four honours in one hand, providing
+the dealer has won the first game and is eight or more on the second.
+The trick and honour scores combined will count more than the average
+make, and with great help the game _may_ be won.
+
+
+SPADES
+
+Spades may be made originally when six points or less are needed to win
+the game.
+
+
+DEFENSIVE SPADE MAKES
+
+With a very weak hand some players advise a defensive spade make with
+the object of preventing partner's attempting a make which may prove
+disastrous. While much may be said in favour of an original black make
+under these circumstances, it is doubtful whether it pays; the
+adversaries are almost certain to double, and you eliminate the
+possibility of securing a large honour score and of winning the game on
+that deal. The one time that a defensive spade make might be justifiable
+is when you are a game to the good and do not wish to lose the advantage
+which this position offers.
+
+
+SYNOPSIS OF THE MAKES
+
+The dealer should declare
+
+
+NO-TRUMPS,
+
+             {4 Aces.
+             {3 Aces.
+             {2 Aces and a guarded K or Q.
+    Holding  {1 Ace and a guarded K or Q in three other suits.
+             {1 long established black suit (A K Q x x x) and one other Ace.
+
+The dealer should NOT declare no-trumps
+
+With a strong heart and a doubtful no-trump hand,
+
+Or
+
+When the game can be won with a trump suit.
+
+[H] HEARTS. [H]
+
+    Holding
+
+    6 Hearts, including 1 honour, and some protection in other suits.
+    5 Hearts, including 1 honour, with a good five-card plain suit or with
+        strong protection in other suits.
+    5 Hearts, including 2 honours, and some protection in other suits.
+    4 Hearts, including 3 honours, and some protection in other suits.
+    4 Hearts, including 4 honours, with or without protection in other suits.
+
+The dealer should NOT declare hearts
+
+    Holding
+
+    5 Hearts, including 1 or 2 honours } without protection
+    4 Hearts, including 3 honours      } in other suits.
+
+[D] DIAMONDS. [D]
+
+    Holding
+
+    6 Diamonds, including 1 honour, and some protection in other suits.
+    5 Diamonds, including 2 honours, and some protection in other suits.
+    4 Diamonds, including 4 honours, with or without protection in
+      other suits.
+
+The dealer should NOT declare diamonds:
+
+When behind on the score, unless there are 4 honours, or 7 or 8 tricks,
+in the hand.
+
+When 0 to 24 on the first game.
+
+Having lost the first and 0 on the second game.
+
+When 0 on the rubber game.
+
+The dealer should NOT declare clubs Unless his score is 18 or more
+points, and the hand strong enough to win the game.
+
+The dealer should NOT declare spades Unless his score is 24 or more
+points, and the hand strong enough to win the game.
+
+
+PASSED MAKES
+
+The dummy hand, in declaring the trump, should keep in mind the rules
+suggested for the dealer, and, at the same time, be governed in his
+choice by the state of the score, by the general strength of his hand,
+and by the dealer's acknowledged weakness. When the make has been
+passed, one must infer that the dealer has not a strong hand, neither
+has he much strength in the red suits. While the latter inference may be
+doubtful, the dealer often passing a fair diamond hand, it is dangerous
+to declare no-trump without protection in the red suits, and the
+declaration may result in a disastrous loss.
+
+The following suggestions may prove useful:
+
+The fact that your hand is exposed gives the adversaries an opportunity
+to take advantage of its weak points.
+
+A no-trump make that is weak in the red suits, unless justified by the
+score, is unsound.
+
+A no-trump make that is weak in Hearts is liable to be doubled.
+
+When a game ahead be conservative. When a game behind be bold.
+
+Endeavour to prevent the adversaries from winning the first game on your
+deal. When the adversaries have won a game and have the first deal on
+the second, they hold an advantage you will find most difficult to
+overcome.
+
+If your hand is worth less than four tricks don't make the trump red.
+
+If your hand is worth less than four tricks make the trump to lose as
+little as possible.
+
+
+EXAMPLES OF ORIGINAL MAKES
+
+    NO-TRUMPERS WITH 3 ACES.
+
+    [C]          [D]           [S]          [H]
+
+    A 10 5 3     A J 9         K 8 A        10 6 5
+    A K          Q 10 6 4 2    A J 6 5 3    A
+    8 5 4        A 8 3         A 3 2        A 9 7 5
+
+    WITH 2 ACES AND 2 GUARDED SUITS.
+
+    [C]          [D]           [S]          [H]
+
+    A K          K Q J 8 4     K 9 5        A 8  3
+    A 7 6 3      K J x         Q J 3        A 10 9
+    K Q 10 5 4   A             K 5 4        A 8  7 4
+    A K Q        A 9           Q 9 7 6 5    Q 10 8
+    A 10 3       Q 10 5 3      A 9 6        Q 9  6
+    Q J 10 9     A 7           J 10 8 6     A 10 2
+
+    WITH 2 ACES AND 1 PROTECTION.
+
+    [C]           [D]           [S]           [H]
+
+    K  J 8 7 5    J 3           A  6          A  K 9  6
+    A  9 8        A 8 6         K  J 4 3      8  5 4
+    A  Q 7        K J 10 4      Q  5          A  Q J  5
+    A  K J 8      A Q           Q  9 7 6     10  4 2
+    A  9 6       10 4           K 10 8 6      A  J 6  2
+    A  J 4        9 5           A 10 2        Q 10 9  6 5
+    A 10 8 6 5    A Q 3         8                Q J 10 4
+
+    WITH 1 ACE AND 3 PROTECTIONS.
+
+    [C]           [D]           [S]           [H]
+
+    A  5 4        K 8           K Q 9 8 4     K  Q 3
+    Q  J 3        A 3 2         K 7 6 5       K 10 4
+    A 10 4        A J 10        Q J 3         K  9 8 7
+    Q  9 6        K J 8         A K 8         J 10 8 4
+    A  Q 5        Q 7 4         K 9 5 3       Q 10 9
+
+    DOUBTFUL NO-TRUMPERS.
+
+    [C]           [D]           [S]             [H]
+
+     J 9 7 3      A 10  9 4    J  5             A  9 6
+    10 6          A  Q  5      A 10 7 2         J 10 8 3
+    10 5          A  Q  6 4    J  8 6           A  K 9 6
+     A J 5 3      K  8  2      8  6             K  Q 7 2
+    9             A  J 10      Q 10 8 6 4       K  J 8 6
+    8            10  9         A  K Q 9 7 6 4   K 10 4
+    A K Q 9 5    ----          J 10 5 3         Q 10 8 6
+
+    HEARTS, NOT "NO-TRUMPS."
+
+    [C]            [D]           [S]           [H]
+
+    K Q 10 5 4     A K Q         2             A  5 4 3
+    A K  Q 8 6     Q             A Q 5         A  K Q 4
+    A K  J 9       K J 8 5 3     Q             Q  J 8
+    Q J 10 9 7 6   A 7 6         A             A  5 3
+    A Q  J 9 7     A J 9 8 6     K x           Q
+    A K 10 9 6     A 8 7 6       5 4           K  9
+    K J 10 7 2     A 8 6         Q 8 4         K 10
+
+    BAD "RED" MAKES.
+
+    [C]           [D]            [S]           [H]
+
+     8 6           9  8 7        J 5 4         J 10 7 6 5
+    10 9 5 3      10  6          5 4 3         A  K Q 4
+     Q 7 5         J 10 2        6 2           J  8 6 4 3
+     6 4 3         K 10 7 6 3    8 6           J  9 7
+     9 4 3         6  2          9 8 7         Q 10 7 5 4
+     Q 6 3        10  7 3        6 4 2         K  Q J 7
+
+
+DOUBLING
+
+If you--being the leader or his partner--are reasonably sure of the odd
+trick, it is decidedly to your advantage to increase its value; but to
+double "just for a gamble" rarely pays; it often results in a redouble,
+and you are apt to find the sport expensive and your partner very
+disagreeable.
+
+In order to double with any degree of success, you must consider the
+state of the score, the possibility of a redouble, and your position in
+regard to the maker. Above all things, DEPEND ON YOUR OWN HAND and don't
+expect your partner to take MOST of the tricks.
+
+My advice to a beginner is: Be cautious and, until you have learned to
+value your hand, be satisfied with the number of points you can make
+without doubling.
+
+
+ESTIMATING THE VALUE OF A HAND
+
+To determine the probable trick-taking value of your hand, count each
+Ace and King as a trick, and add to these the number of tricks you can
+take in the trump suit. Queens count only as possible tricks, as the
+third round of a suit may be trumped.
+
+In determining the number of tricks you can take in the trump suit you
+must remember that it makes a great difference on which side of you the
+trump strength lies. For instance, holding Ace, Queen, and ten of
+trumps, if you play after the maker, you will probably get three tricks;
+but if the maker plays after you, your trumps can be led through, and
+you may make but one trump trick.
+
+If you play after the maker,
+
+    J  x  x x     of trumps are worth 1 trick
+    Q  x  x       "    "     "    "   1   "
+    Q  J  x       "    "     "    "   1   "
+    Q  J  x x     "    "     "    "   2   "
+    K  Q  x       "    "     "    "   2   "
+    K  J  x       "    "     "    "   2   "
+    K  Q 10 x     "    "     "    "   3   "
+    A  Q 10       "    "     "    "   3   "
+    A 10  9 7 2   "    "     "    "   3   "
+
+
+RULES FOR DOUBLING
+
+To double spades, you should hold in your hand 4 tricks and a possible
+5th.
+
+To double hearts, diamonds, or clubs, you should hold five tricks and a
+possible 6th.
+
+To double "no-trumps," you should hold 6 tricks and a possible 7th.
+
+Be careful about doubling "no-trumps," unless you hold a long
+established suit. Your adversary may have seven tricks in _his_ long
+suit, and it is hard to discard from a "good all-round hand."
+
+Spades may be doubled when weak in trumps; but, to double hearts,
+diamonds, or clubs, you should have some trump strength.
+
+When doubling remember
+
+That you show the dealer where the strength lies.
+
+That you stand a better chance of winning the odd trick by not exposing
+your strength.
+
+That when the "maker" is on your right, you have the advantage that your
+trumps are over his.
+
+That when the "maker" is on your left you are at a disadvantage; his
+trumps are over yours.
+
+That it is a good time to double when the odd trick wins the game for
+your adversaries, and does not win it for you.
+
+That it is a poor time to double when the odd trick wins the game for
+you and does not win it for your adversaries.
+
+That with a doubtful hand it is better to be satisfied with what you can
+make without doubling.
+
+That if you double "no-trumps" your partner will lead you his best
+heart.
+
+
+THE LEAD WHEN PARTNER HAS DOUBLED
+
+When your partner has doubled, the opening lead must depend greatly on
+the scheme you adopt for the play of your hand. It is a mistake to
+suppose your partner wishes a trump led EVERY time he doubles. On the
+contrary, spades--when doubled--are seldom led by good players, unless
+with a strong hand, until they have gained information to justify the
+trump lead.
+
+The majority of hands will be covered by the following rules:
+
+If spades have been doubled and you hold four or more trumps you should
+usually lead trumps.
+
+It is fair to assume that your partner has doubled with a good suit
+hand. Lead trumps if you are weak in spades, but hold a strong suit
+hand. Your partner has probably doubled with trump strength.
+
+If hearts, diamonds, or clubs have been doubled and dummy is the "maker"
+it is usually good play to lead trumps; that is, when you have no short
+suit and so are unable to use your trumps for ruffing.
+
+If possible lead to take the first trick. After you have seen the dummy
+you are in a position to judge as to the advisability of the trump
+lead.
+
+When hearts, diamonds, or clubs have been doubled and the dealer is the
+maker, it is not sound play to lead trumps. You would place your partner
+in a bad position by leading up to the dealer's declared strength.
+
+When leading trumps always lead the top of two or three and the lowest
+of four.
+
+
+HEART CONVENTION
+
+When you have the first lead and your partner has doubled a "no-trump"
+make you are expected to lead your highest heart. As there are very few
+hands where it is advisable to double "no-trump" on general strength, it
+is necessary for the leader to know what suit to lead when his partner
+has doubled.
+
+When the leader holds an A K or an A K Q suit he should first lead the K
+of that suit and then his highest heart.
+
+
+WEAK-SUIT CONVENTION
+
+In England and in some parts of this country the leader tries to guess
+his partner's suit by leading the one in which he himself is weakest.
+While this convention affords many more opportunities of doubling, it is
+not nearly so safe as the heart convention. There is about an even
+chance that the weak suit led will put the dealer or the dummy hand in
+the lead.
+
+
+THE NON-DEALER'S PLAY AGAINST A DECLARED TRUMP
+
+The principles of play adopted against a trump and against a no-trump
+declaration are entirely different; and it is for this reason that
+Bridge is confusing to the beginner.
+
+The important principles that govern the play against a trump
+declaration are:
+
+    To hold the lead in order to see the dummy hand.
+    To make high cards before they can be trumped.
+    To give your partner information.
+
+The importance of first seeing the thirteen cards in the dummy is
+self-evident. The play of an entire hand is often influenced by the
+cards in the dummy; therefore, if you can win the first trick, you are
+in a better position on the second lead to play your own and your
+partner's hand to advantage.
+
+These combinations should be selected in their order for the original
+lead without reference to the length of the suit.
+
+    A K Q
+    A K
+
+Ace from any other combination except A Q with one or two more.
+
+    K Q J
+    K Q
+    Q J 10
+
+As the maker, more especially if the trump is red, has shown strength,
+your first consideration should be to save the game. This is best done
+by leading your Aces and other high cards before the dealer has a chance
+to discard and to trump. This is particularly true when there is an
+established suit in the dummy hand; for then the dealer may be able to
+exhaust trumps and discard his own losing cards on this established
+suit.
+
+
+ORIGINAL LEADS AGAINST A DECLARED TRUMP
+
+    +------------------+----------------------+
+    |       FROM       |         LEAD         |
+    +------------------+----------------------+
+    | A K Q            | King, then Queen.    |
+    | A K              | King.                |
+    +------------------+----------------------+
+    | K Q J and others | King.                |
+    | K Q              |                      |
+    +------------------+----------------------+
+    | Q J 10           | Queen.               |
+    | Q J 9            |                      |
+    +------------------+----------------------+
+    | K J 10           | 10.                  |
+    +------------------+----------------------+
+    | A x x x or more. | Ace, then small one. |
+    | A J x x          |  "    "     "    "   |
+    | A Q J x          | Ace, then Queen.     |
+    | A Q x x x        | Ace, then small one. |
+    +------------------+----------------------+
+
+When opposed to the dealer, aim to give your partner as much information
+as possible. You certainly cannot expect to gain much by deceiving the
+dealer--he knows what is held against him--and it is a decided advantage
+for your partner to know where certain cards are and to understand what
+you are trying to do. The best method of indicating the cards you hold
+is to adhere strictly to the correct lead from each combination of
+cards.
+
+From all other combinations, such as
+
+     K J 7 5 2 }
+     K 8 6 2   }
+     Q 9 7 5   } lead the 4th best card.
+     J 6 5 2   }
+    10 8 6 3   }
+
+Don't lead low from suits headed by an Ace.
+
+The lead of an _Ace_ followed by the _King_ shows no more of that suit.
+
+The lead of a _King_ indicates the _Ace_, the _Queen_, or both.
+
+With any three honours in a suit, your lead is always one of the
+honours.
+
+Holding but 3 or 4 cards in any of the following suits avoid leading if
+possible. Wait until they are led to you.
+
+    A Q x x
+    A J x x
+    K J x x
+    K x x x
+
+If in any doubt as to your lead select your longest and strongest suit
+and lead the 4th best.
+
+WHY THE 4TH BEST CARD IS LED
+
+There are two reasons for leading the 4th best card of your long suit.
+
+To show partner how many cards you hold in the suit.
+
+To show partner what you have in the suit.
+
+If you lead 4th best and afterward either discard or play a smaller one,
+your partner will know that you originally held more than four cards in
+that suit. The lead of a deuce, for instance, shows but four cards in
+the suit. Your partner, by applying the "Rule of Eleven," can very often
+tell the exact combination of cards from which you have led.
+
+
+THE RULE OF ELEVEN
+
+Deduct the size of the card led from eleven, and the difference will
+show how many cards HIGHER than the one led are held outside the
+leader's hand. If, for instance, your partner lead an eight spot, the
+dummy having the queen and you holding A 10 x of the suit, as you see
+three cards above the eight, you know the dealer cannot play higher and
+that your partner must have led from K J 9 8.
+
+       Q 6 2 (11 - 8 = 3)
+      +---------+
+      |    Y    |
+      |         |
+    8 | A     B | A 10 4
+      |         |
+      |    Z    |
+      +---------+
+
+This rule is especially important at "no-trump"; but players should not
+give it much attention unless the card originally led is higher than a
+five.
+
+If your partner has had the original lead, and you have taken a trick,
+either make your high cards or
+
+
+LEAD UP TO WEAKNESS
+
+Weakness means no high cards, and leading up to, is making a person play
+fourth in hand to a trick. By leading a suit in which dummy has weak
+cards, you may enable your partner to win a trick cheaply. Whenever the
+dummy hand is on your right you should take this advantage of its
+weakness. It is sometimes good play to lead a card higher than the
+dummy's best. This, if the card you lead is not covered, gives your
+partner a chance to pass the trick.
+
+
+EXAMPLES OF OPENING LEADS
+
+THE CARD IN RED INDICATES THE LEAD.
+
+(_Hearts_) TRUMP DECLARED BY DEALER.
+
+_Holding the Lead._
+
+    ---------+--------------+-------------+----------
+       [H]   |     [S]      |     [D]     |   [C]
+    ---------+--------------+-------------+----------
+     Q  6 2  | K J 7  6     | A  K Q 6 2  | 8
+     7  5    | A K 4        | A  9 7 5 2  | 6 4 2
+     5  3 2  | 9 8 6  2     | K  J 6 2    | A K
+     8       | A Q 8  7 6 3 | K  7 6      | Q 9 8
+    10  4    | A 8          | A  J 7 6 3 2| 9 6 2
+     7  5    | A Q J 10 9 2 | 5  3        | 9 7 4
+     Q  9    |10 7 5        | K  J 9 3    | A 8 6 5
+     J 10 3  | A 9 6        |10  7 6 4    | J 4 3
+     6  4 2  | 8 7 4        | A  J 8 4    | 9 6 2
+     9  5 4  | A 7          | K  8 7 3    | A Q 6 2
+     J  7 5  | 8 6 5  2     | A 10        | 9 7 4 3
+    =========+==============+=============+==========
+
+
+_Leading from a Sequence._
+
+    ---------+--------------+-------------+----------
+     9 2     | K Q  J  8 5 2| A J 7       | A 4
+     J 8 7   | 9            | K Q J 9 6 2 | Q 4  2
+     Q 8 4   | A Q  3       | A 7 3       | Q J 10 4
+     A J 3   | K Q  J       | 7 5 3 2     | K 9  7
+     K 9 4   | A 7  6       | K Q 7 5     | K 8  6
+     K 7 4   | Q J 10       |10 7 4 2     | 8 6  3
+     9 8 6 3 | K Q  J 10    | A 9 6 2     | 5
+    =========+==============+=============+==========
+
+    _Leading from Long Suits._
+
+    ----------+----------+--------------+------------
+       [H]    |    [S]   |     [D]      |    [C]
+    ----------+----------+--------------+------------
+     K  5     | 10 6 2   |  Q 10  9 6 5 |  J  8 7
+     Q  7 4   |  A Q 5   | 10  7  4 3   |  K 10 3
+     9  5     |  A J 2   |  9  8  6 2   |  K 10 7 4
+     8  3 2   |  Q 8 7 4 |  9  6  2     | 10  6 3
+     J  7 6 5 |  8       |  A  4  2     |  K 10 6 5 3
+     A  J 8 6 |  J 4     | 10  9  7 6 2 |  3  2
+     J 10     |  A J 6   |  A  Q  7 5   |  Q  J 4 2
+     4  2     |  K 8 4   |  K  J 10 7 5 |  A  J 3
+     K  6     |  7 5 2   |  9  8  4     |  Q  J 9 6 2
+     Q 10 7 6 |  J 9 4   |  A  5        |  K 10 8 4
+    ==========+==========+==============+============
+
+
+    _Leading from Short Suits._
+
+    ----------+----------+-------------+-----------
+     9 4 3    |  A J 9 4 | 10  9       | A Q 8 6
+     J 4 2    |  Q 7 4   |  K  8 7 6 5 | J 9
+     9 6 4    | 10 6 4 2 |  A  4 3     | Q J 5
+     A 9 5    |  8 6     | 10  6 4 3   | J 9 5 2
+     7 4 3 2  |  8       |  9  7 6 4 2 | Q 6 3
+     A Q 2    |  K J 7 4 |  J 10       | K 9 6 3
+     K 5 3    |  J 10 4  |  K  9 7     | Q 7 6 3
+     9 8 6    |  A Q 9 8 | 10          | J 9 5 3 2
+     Q 7 4    |  A J 9 6 |  K  Q       | K J 7 3
+     A 6 2    |  Q       |  K  8 6 4 3 | J 9 4 2
+    ==========+==========+=============+===========
+
+
+    (_Hearts_) TRUMP "PASSED MAKE."
+
+    ----------+-----------+------------+-----------
+     J 10     |  K 9 8 6  | A  Q 7     | K 6 4 2
+     8  5 2   |  A Q 7 3  | K  J 6     | A J 8
+     4  3     |  K 9 4 2  | Q 10  7 6  | J 9 4
+     J  4 2   | 10 6      | Q 10  9 4 2| Q 8 3
+     Q  6     |  Q 7 4 3  | K  Q 10    | 8 6 4 2
+     Q        |  K 8 5 2  | Q  8  3    | A Q 5 4 3
+     Q  6 2   |  A 5      | K 10  7 5 2| 9 7 4
+     9  4 3   |  A Q 7 6 5| J  9       | K 8 6
+     K  8 5   |  K 9 7 4  | Q  J       | K 9 4 3
+     8  7     |  Q 6 3    | K  J  9 3  | A 8 6 5
+     9  8     |  A Q 6 3 2| Q  J  6 2  | K 7
+    ==========+===========+============+===========
+
+
+AFTER THE FIRST TRICK
+
+After you have led and have won the first trick, examine the exposed
+hand carefully; then either continue with the suit led originally or
+lead through strength.
+
+
+LEADING THROUGH STRENGTH
+
+The beginner will appreciate the fact that strength in a suit consists
+of high cards, but is apt to find the term "leading through" difficult
+to understand. Leading through means to make a person play second in
+hand to the trick. You always lead through your left-hand adversary.
+
+The object of leading through strength is to help your partner make his
+high cards by giving him the advantage of playing after the exposed
+hand.
+
+Holding a sequence of two or more cards, headed by a Queen, Jack, or
+Ten, when there is an honour in the dummy it is good play to lead the
+highest card. If the dummy does not cover this lead, it gives your
+partner an opportunity to pass the trick.
+
+Holding one or two high cards of dummy's strong suit that are _not_ in
+sequence, avoid leading the suit. Wait until dummy leads to you.
+
+Don't lead through strength when dummy holds a sequence of three or more
+cards, as
+
+    A K Q
+    K Q J
+    Q J 10
+
+Holding a high card or cards in a suit in which the dummy is weak, avoid
+leading that suit. Try to put your partner in the lead, so that he may
+lead it to you.
+
+Holding no high cards in the suit, the following combinations should be
+led through:
+
+    A Q x
+    A J x
+    A x x
+    K Q x
+    K J x
+    K x x
+    Q x x
+
+Holding a sequence of two or more cards the following combinations
+should be led through:
+
+    K x x
+    K x
+    Q x x
+
+
+FORCING
+
+Judicious forcing will do more than anything else to break up a strong
+trump hand.
+
+Forcing means making a player trump--the object being to weaken his
+hand.
+
+It is good play to force the strong trump hand.
+
+When the strong trump hand holds no more cards of your long suit, do all
+damage possible with it. Unless trumps are out, the suit is of no other
+use to you.
+
+It is bad play to force the weak trump hand. Unless you can make the
+strong hand trump it is better to stop leading the suit.
+
+Do not lead a suit that will allow the weak hand to trump and the other
+hand to discard; the adversaries take the trick and get rid of a losing
+card.
+
+It is too late to force when the dummy has an established suit and the
+dealer has the last trump or trumps. Make what you can before giving up
+the lead.
+
+When the weak hand can ruff your suit, it is sometimes good play to lead
+trumps; but only when, in doing so, you are leading trumps through the
+strong hand, and when you have some protection in the other suits.
+
+
+SHORT SUITS
+
+There are two lines of play that may be followed to make tricks against
+the dealer. The first--to make your high cards--has been explained. The
+second is to make your small trumps by ruffing.
+
+When you have no high card lead, or if you are anxious to be led up to,
+it is often good play to throw the lead and, at the same time, to try
+to make your small trumps. This can be done by leading a short suit.
+
+A short suit is a suit of less than four cards; but the term is commonly
+used to denote a singleton or a two-card suit.
+
+In order that your partner may understand that you are leading a short
+suit (and not the fourth best card of a long one) it is customary to
+lead the highest card. (If you are forced to open a suit with K J x, K x
+x or Q x x, the low card should be led.)
+
+To detect a short suit apply the "Rule of Eleven." If there are (in your
+hand and the dummy) more higher cards than the rule allows, the lead
+cannot be the fourth-best card.
+
+Under the following circumstances a short suit should not be led.
+
+If you hold four trumps, including any one honour, don't lead a short
+suit. Your best play is to open your long suit and force the dealer to
+trump. In this way you weaken the dealer's hand and you may prevent his
+bringing in his long suit or you may even establish and make your own.
+
+If the make has been passed, don't lead a short black suit. It is
+natural to suppose that the dealer is strong in black suits--if in
+any--and you would be leading up to declared strength.
+
+If you can take the first trick, do so and then judge of the
+advisability of the short-suit lead.
+
+
+THE DISCARD
+
+There is considerable discussion and a wide diversity of opinion among
+Bridge Players as to the best suit to throw away. You should, therefore,
+before playing, ask your partner which method he adopts. Some advantage
+may be claimed for each theory of discard; but the main object of them
+all is the same--to indicate to partner the suit you wish led and at the
+same time protect any honours you may hold in other suits.
+
+The three different discards used by Bridge Players are:
+
+    Strength, both with a trump and at "no-trump."
+    Strength, with a trump and weakness at "no-trump."
+    Weakness, both with a trump and at "no-trump."
+
+The discard of strength with a trump and weakness at "no-trump" is the
+one most commonly used. This discard of weakness at "no-trump," while it
+has the advantage of saving all the cards of the long suit, which you
+may make, has also several disadvantages.
+
+To show your suit absolutely you need two discards.
+
+In order not to deceive your partner it may be necessary to unguard
+honours, such as J x x x, 10 x x x, Q x x, or even K x.
+
+By discarding weakness you show the dealer against which hand to
+finesse.
+
+The writer, after the analysis of many thousand hands, believes that at
+"no-trump" the first discard from strength, _i.e._, the long suit or the
+suit you wish partner to lead, is the safest and best, both for
+protecting the hand and for showing the suit beyond possibility of
+mistake.
+
+The main advantages of the strength discard are:
+
+It takes but one discard positively to show the suit wanted.
+
+You can protect the high cards in your weaker suits without deceiving
+your partner.
+
+It does not show the dealer so clearly on which side to take a finesse.
+
+By showing your suit earlier in the hand, you enable your partner to
+discard to better advantage.
+
+There are but few "no-trump" hands in which it is possible to make all
+the small cards of one's suit against the dealer--unless it be the suit
+first opened. Occasionally the suit in which the dealer is weak in both
+hands will be made; but more often this suit is never brought in,
+because the adversaries do not know the cards they hold in the two
+hands.
+
+For years whist authorities have agreed that with trump strength
+declared against you the first discard should be from strength. Why,
+then, when strength in all of the suits has been declared, should not
+the strength discard be the best defensive discard for the majority of
+bridge hands? In order not to lose an opportunity of making all of the
+long suit, players will continually unguard cards in the weak suits
+which, if properly protected, would win tricks; and when using the weak
+suit discard these cards _must_ be unguarded in order to show partner
+your suit.
+
+There may be an occasional trick lost by discarding from strength at
+"no-trump," but there are so many tricks thrown away by unguarding
+honours in weak suits, and so many games and rubbers lost by guessing
+the wrong suit, that Bridge Players will find the strength discard will
+save more and lose less than any other discard. You do not expect to win
+on your adversaries' make; you hope to prevent their winning a large
+score.
+
+If you have once led, you have shown your strength, and may then discard
+from any suit you wish.
+
+Discard only once from your strength, and then as the situation and the
+hand warrant.
+
+
+THE REVERSE DISCARD
+
+In discarding, the play of a high and then a lower card reverses the
+original meaning of the discard. If you adopt the strength discard, and
+wish to throw away your weak suit at "no-trump," do so by discarding
+first a high and then a lower card. If you use the weak discard and wish
+to throw away your strong suit, discard first a high and then a lower
+card.
+
+The reverse discard should be used only when it is clearly shown that
+two discards can be made.
+
+
+HINTS ON DISCARDING
+
+Watch the dealer's discards and protect the suit that he is saving.
+
+After you have led or shown your suit, the discard of a high and then a
+lower card in another suit shows command of the second suit.
+
+The discard of an Ace shows great strength in the suit.
+
+If a spade declaration has been doubled by you or your partner--and
+especially when either of you has indicated strength by leading
+trumps--the first discard should be from weakness.
+
+In discarding at "no-trump," don't throw away all the cards of one suit:
+it exposes your partner's hand, and makes it easy for the dealer to
+tell how that suit is placed. Besides, you may need one card of that
+suit to put your partner in the lead.
+
+Save at least one card of your partner's long suit, unless you are
+forced to give it up in order to protect your hand.
+
+After you have led or shown your suit your discard should be from
+weakness.
+
+If your partner is discarding from weakness, protect the suit that he is
+throwing away, if you can.
+
+If forced to protect honours in other suits, don't be afraid to unguard
+honours in the suit in which partner is strong.
+
+
+NON-DEALER'S PLAY
+
+SECOND HAND
+
+In determining the card to play second in hand, you will find it a great
+assistance to ask yourself why the dealer is leading that suit. You can
+usually infer from the dummy's cards and your own hand what the dealer
+must hold to have led the suit.
+
+Cover an honour with an honour. This should always be done holding a
+perfect or an imperfect fourchette (a card higher and a card lower than
+the one led). An honour should be covered when by so doing you hope to
+make a card good in your partner's hand. Don't cover holding a K, Q, or
+J three times guarded, unless your next best card is a nine or better.
+
+Don't hesitate. By hesitation a player often shows the dealer how to
+play his cards. Play quickly, and if there is any doubt as to your play,
+play the lowest card you hold.
+
+If the dummy has a tenace over your cards or can take any card you hold,
+play low; let the dealer do the guessing.
+
+Holding any two or more honours in sequence, play the lowest honour of
+the sequence.
+
+    A K      K  Q
+    Q J      J 10
+
+Beat the dummy. When the dealer leads, it is usually advisable to play a
+card higher than the best in the dummy.
+
+If you hold ace and others of the suit which the dummy leads, and the
+trumps are all against you, play your ace second in hand. If you wait,
+your ace may be trumped.
+
+
+THIRD HAND
+
+In this position your play should be guided by a knowledge of the leads,
+an application of the "Rule of Eleven," and a close observance of the
+dummy hand.
+
+Unless you hold two or more honours in sequence, play your highest card.
+The object of doing this is either to win the trick, or, by forcing a
+still higher card from your adversary, to make a card good in your
+partner's hand.
+
+Do not deceive your partner by playing an unnecessarily high card.
+Holding any two honours in sequence, play the lower.
+
+
+FINESSING ON PARTNER'S LEAD
+
+When the dummy holds no honour, it is not good play to "finesse against
+your partner." If you hold K J or A Q, by playing any card but the best
+you not only give the dealer an opportunity to make a trick, but you run
+the risk of losing your own high cards in that suit. If, however, the
+dummy holds an honour, K or Q, and you hold A and J of the suit, you are
+justified in finessing the J, hoping your partner holds the missing
+honour. At "no-trump"--when the dummy holds an honour--it is customary
+to finesse much deeper, hoping to catch the honour exposed on the table
+and so establish partner's suit.
+
+
+THE ECHO
+
+Some players use the echo only when they can trump the third round of a
+suit.
+
+The echo is a signal used by Bridge players to show ability to win the
+third round of the suit either with a trump or a high card.
+
+If your partner leads the K and then the A when you hold only two cards
+of that suit, show you can trump the third round by playing first the
+higher and then the lower.
+
+If you hold the Q and your partner leads the K and A, show in the same
+manner that you can win the third round of the suit.
+
+Don't echo with an honour; it may deceive your partner.
+
+At "no-trump" the echo is used to encourage partner to continue that
+suit.
+
+On a doubled spade, if your partner leads a high trump, echo with three
+by playing the intermediate trump to the first round.
+
+
+THE DEALER'S PLAY WITH A DECLARED TRUMP
+
+In playing the two hands, the dealer must take advantage of any
+information he can gain from the leads and plays of the adversaries;
+and, in return, try to convey a false impression of his own hand. Above
+all, the dealer should know the score and estimate the number of tricks
+he must take to win the game; always bearing in mind that if he cannot
+win the game, he should try to prevent the adversaries from so doing.
+
+
+LEADING TRUMPS
+
+One of the worst faults of the beginner is refusing to lead trumps. When
+you hold seven or more trumps in the two hands, usually lead them. If
+you hold commanding suit cards, the trump lead will prevent their being
+ruffed. When you have no suit to make the lead will establish your trump
+suit. If you hold high cards that should be led up to, lead trumps to
+throw the lead and to compel the adversaries to lead to you.
+
+Arrange to lead your trumps advantageously--from the weak hand to the
+strong.
+
+After trumps are exhausted, try to clearer establish the longest suit in
+the two hands.
+
+It is usually good play to draw two trumps for one; but when the best
+trump is against you, do not waste two of yours to get it out.
+
+Lead the losing trump only when you have an established suit and a sure
+re-entry.
+
+When you hold one or more trumps and a losing card, always lead the
+trumps. This will force the adversaries to discard and they may not save
+the right suit.
+
+Aim to discard your losing cards from the one hand, on the commanding
+cards in the other.
+
+With a weak hand you are more likely to make your high cards if you put
+your adversaries in the lead.
+
+
+NOT LEADING TRUMPS
+
+The exception to the trump lead is when the weaker of the two trump
+hands contains a short suit and can ruff; then, before leading trumps,
+allow the weak hand to trump your losing cards.
+
+Unless a cross ruff can be established, it is usually bad play to weaken
+your strong trump hand by forcing it to ruff. If you do this, you will
+find it difficult to exhaust trumps from the adversaries' hands and to
+make any commanding suit cards you may hold.
+
+If your adversary has doubled, be cautious about leading trumps. It is
+good play to lead through the doubling hand; but bad play to lead up to
+it.
+
+
+THE NON-DEALER'S PLAY OF A "NO-TRUMP" HAND
+
+With a declared trump you aim to make your high cards; but at no-trump
+the high cards take care of themselves and you must try to establish
+your small cards.
+
+If you are the leader at "no-trump," open your longest suit. Save the
+high cards of your other suits for re-entry and try to establish the
+small cards of your long suit.
+
+Don't lead your aces and kings to take a look at dummy; later in the
+hand you will need them to get the lead and bring in your established
+suit.
+
+The majority of "no-trump" makes are strong in three suits. Your long
+suits may be the weak spot in the dealer's hand.
+
+Try to infer, from the dummy hand and your own, the high cards the
+dealer must hold to have declared "no-trump." You will be surprised to
+find how many times an inference thus drawn will enable you to play your
+hand to advantage.
+
+Having started your long suit, usually the best play is to continue that
+suit until it becomes established, especially if you hold one or two
+re-entry cards.
+
+Don't change suits unless your suit is hopelessly against you. When it
+requires two leads to clear your suit, and you hold no cards of
+re-entry, abandon it and play for your partner's suit--the suit that he
+has shown by his discard, or the suit which must be his, judging from
+your own and the dummy hand.
+
+In leading to your partner's declared suit, always lead your highest
+card; this will enable him to tell what high cards are held against his
+suit and it will prevent your blocking his hand.
+
+
+RETURN YOUR PARTNER'S LEAD
+
+If your partner has had the original lead, RETURN HIS SUIT. There are
+very few "no-trump" hands where it is possible to bring in more than
+one suit, and if, instead of returning your partner's suit, you lead
+your own, you are playing for one suit and your partner for another, and
+as a result you will probably establish neither.
+
+When it is evident that your suit is stronger than your partner's--i.e.,
+if you have re-entry cards and can establish the suit in one lead--then,
+by all means, play for your own suit; but don't be deterred from
+returning your partner's lead simply because you see that the best card
+of his suit is against him. That card will have to make anyway, and by
+forcing it out of dummy at once you may enable partner to make the rest
+of his suit.
+
+In returning your partner's lead, return your highest card. The
+importance of this is apparent: your partner can see the cards in his
+own and in the dummy hand, and if you return your best card he also
+knows what the dealer holds in that suit. It may prevent his leading up
+to the dealer's tenace; it may show him that the suit should be
+abandoned or that it should be again led from your hand. Returning the
+highest card minimises the risk of blocking the suit. Very often, by not
+getting rid of a 7, 8, 9, or 10 early in the hand, you make it
+impossible for your partner to make his small cards.
+
+Don't be deceived by the dealer's play. His object is to fool you; and
+if he holds cards of equal value, he will probably take the trick with
+the highest.
+
+Notice carefully your partner's first discard. It shows you the suit to
+lead and may also affect your own discard.
+
+Don't, because the dealer leads the suit, refuse to take tricks with
+your aces and kings. By taking the trick, you may make a card good in
+your partner's hand. It is only the dealer who is in a position to know
+when to refuse tricks; he sees the two hands.
+
+When there is no chance that your partner can take a trick in the suit
+led, it is sometimes wise to keep the commanding card until one hand
+cannot put the other in the lead, especially when there is no re-entry
+card in the hand with the long suit.
+
+
+OPENING LEAD AT "NO-TRUMP"
+
+Unless your partner has doubled (see Heart and Weak Suit Conventions)
+lead from your longest suit. It is not advisable, especially when you
+hold no cards of re-entry, to lead aces and kings, except when you hope
+to catch all of the smaller cards. Two rounds may exhaust the suit in
+your partner's hand; and if you have no re-entry card and he has none of
+your suit to lead you, your long suit, even though established, is
+absolutely worthless.
+
+The lead of an ace, king, or queen indicates great strength, either
+seven cards or three honours.
+
+Holding two suits of equal length and strength, lead a red suit in
+preference to a black, especially if the make has been passed,
+
+Holding two suits of equal length, keep for re-entry the suit with the
+higher cards, as,
+
+            { A 8 6 3 2
+    holding {   and       if you open the Q suit
+            { Q 9 8 6 3
+
+and establish it, the ace is a sure re-entry card; if you open the ace
+suit the queen is a very doubtful card of re-entry.
+
+With a weak long suit and no re-entry card, many good bridge players
+open the highest card of a short suit, preferably hearts or diamonds.
+The theory is that, had the dealer been strong in the red suits, he
+would have declared a red trump; and with a worthless hand, this short
+suit lead may assist partner. While there is much to be said in favour
+of this play, I would suggest that, unless your partner thoroughly
+understands the game and your play, it is safer to open your long suit.
+
+When you are opening a long, weak suit from a hand without re-entry
+cards it is advisable that you convey this information to your partner.
+This you can do by leading the top or an intermediate card of your long
+suit; your partner, by applying the "Rule of Eleven," can see that you
+are not leading the fourth best card, and unless it is for the best
+interest of the two hands will not return the suit. For example:
+
+    From 10 8 7 6 3, lead the 8
+    From 9 8 5 3 2,  lead the 9
+    From 8 7 5 3,    lead the 8
+
+
+THE ORIGINAL LEAD IN NO-TRUMPS
+
+    +----------+----------------------------------------------------+
+    |   LEAD   |                   HOLDING                          |
+    +----------+----------------------------------------------------+
+    |          | Ace, Queen, Jack, and others with a Re-entry card. |
+    |   ACE    | Ace, with 7 or more others.                        |
+    |          | Ace, Queen, with 5 others.                         |
+    |          | Ace, Jack, with 5 others.                          |
+    +----------+----------------------------------------------------+
+    |          | Ace, King, Queen, and others.                      |
+    |          | Ace, King, Jack, and others.                       |
+    |          | Ace, King, ten, and 3 others, with a Re-entry card.|
+    |   KING   | Ace, King, and 5 or more others.                   |
+    |          | King, Queen, Jack, and others.                     |
+    |          | King, Queen, ten, and others.                      |
+    |          | King, Queen, and 5 others.                         |
+    +----------+----------------------------------------------------+
+    |          | Queen, Jack, ten, and others.                      |
+    |  QUEEN   | Queen, Jack, nine, and others.                     |
+    |          | Ace, Queen, Jack, and others. No card of Re-entry. |
+    +----------+----------------------------------------------------+
+    |   JACK   | Jack, ten, nine, and others.                       |
+    +----------+----------------------------------------------------+
+    |   TEN    | King, Jack, ten, and others.                       |
+    +----------+----------------------------------------------------+
+    | 4TH BEST | From other combinations.                           |
+    +----------+----------------------------------------------------+
+
+
+UNBLOCKING
+
+Unblocking is getting rid of high cards so that your partner can make
+smaller ones.
+
+You seldom unblock except at "no-trump."
+
+Study the "no-trump" leads, and on the lead of any high card prepare to
+get out of your partner's way. It is rarely that you can lose more than
+one trick by unblocking, and a failure to take advantage of the position
+when it presents itself may result in the loss of three to six tricks.
+
+With four cards of the suit of which your partner leads the A, K, or Q,
+keep the lowest card until the final round.
+
+    +---------+----------------------+--------+
+    | HOLDING | ON PARTNER'S LEAD OF |  PLAY  |
+    +---------+----------------------+--------+
+    |  K x    |        A             | K      |
+    |  A x    |        K             | A      |
+    |  K x    |        Q             | K      |
+    |  Q x x  |        K and A       | Q on A |
+    |  K Q x  |        A             | Q      |
+    |  Q J x  |        A             | J      |
+    |  Q J x  |        K             | J      |
+    |  K Q x  |        J             | Q      |
+    +---------+----------------------+--------+
+
+
+THE DEALER'S PLAY OF A NO-TRUMP HAND
+
+The dealer's play of a "no-trump" hand is both the most interesting and
+the most intricate part of Bridge. Very often a single error will
+result in the loss of three or more tricks; so that it behooves the
+dealer--as he has no assistance from his partner--to make himself
+thoroughly conversant with the strategy of the game.
+
+The following rules cover all the important points in the dealer's play.
+
+Keep the commanding card of your adversary's suit.
+
+This the beginner invariably refuses to do; he is too anxious to take a
+trick and does not realise that he will often gain several by passing.
+
+Before playing the commanding card of your adversaries' suit, wait--if
+you can--until the leader's partner has played his last card of that
+suit; he is then unable to return the lead, and there may be no card of
+re-entry in his partner's hand.
+
+Rarely refuse to take tricks with your Kings and Queens.
+
+When an entire suit is against you, it pays to take the lead; the
+adversaries may change the suit.
+
+When you see in your hands enough tricks to win the game, always take
+the lead.
+
+Always take the lead when doing so makes a card good in either of your
+hands.
+
+Play for the longest suit in the two hands.
+
+After taking the lead, count the cards of each suit in the combined
+hands and make it your object to play for the longest. It may sometimes
+be necessary, in order to lead the suit to the best advantage, to wait
+until it can be led from the other hand.
+
+With two suits of equal length, play for the one in the hand that has
+cards of re-entry.
+
+With two suits of equal length, play for the one that is shown on the
+table. Don't give your opponents unnecessary information of your
+strength.
+
+With two suits of equal length, play for the one which, when
+established, will give you the greater number of tricks, as
+
+    7 cards in one hand and 1 in the other.
+    6 cards in one hand and 2 in the other.
+    5 cards in one hand and 3 in the other.
+    4 cards in one hand and 4 in the other.
+
+Holding only seven cards of a suit, you will often find an adversary
+with four cards of that suit.
+
+Holding only six cards of a suit, remember that your adversaries have
+seven and that leading the suit will establish it against you.
+
+When the best card of your suit is against you, lead to get it out of
+your way. It pays to establish one suit.
+
+The beginner will usually play his high cards, and, after establishing
+one or two tricks in that suit for his adversaries, proceed to do the
+same with another suit and end by abusing his partner for making it
+"no-trump" with so weak a hand.
+
+Lead from the weak hand to the strong.
+
+This is the secret of playing the two hands well. Play for the longest
+suit in the two hands; but arrange the lead so that it comes from the
+hand that has no high cards.
+
+    Lead from            to
+    x  x x             K x x x
+    x  x x             A Q x x
+    x  x x             K Q x x
+    10 x x             K J x 4
+
+Holding a combination of Ace, Queen, Jack in the two hands, try to catch
+the King by leading the highest card from the one hand up to the Ace in
+the other.
+
+This is really a continuation of the last rule, but its importance
+demands a separate heading. The correct play of this combination will
+win more tricks than any one other play in Bridge.
+
+If the King is guarded, and you lead the Ace or from the Ace, the King
+_must_ win; but if you lead from the other hand, there is an even
+chance that you will find the King on the side you wish. If it is in the
+other hand, it would probably make anyhow.
+
+Avoid blocking your suit, by leading or playing the high cards from the
+shorter of the two hands.
+
+As with A K x in one hand and Q x x x x x in the other, play A K x.
+
+As with A Q x in one hand and K x x x x x in the other, play A Q x.
+
+Keep a re-entry card in the hand that has the long suit.
+
+If you are able to take the trick in either hand, do not take it with
+the hand that has the long suit, unless that suit is established. If you
+cannot place the lead in the hand with the long suit, it is useless to
+establish that suit. It is often advisable to refuse to part with the
+highest card of a long suit, if that card is the only re-entry for the
+suit.
+
+
+FINESSING
+
+At "no-trump" the dealer has many opportunities to win tricks with cards
+that are not the best. In attempting this he should be guided by the
+following principles.
+
+It is better to finesse on the second round of the suit than on the
+first.
+
+By forcing discards, you can often tell which adversary is holding and
+protecting an honour in the suit in question, and on which side the
+finesse should be taken.
+
+When there is a question on which side to take the finesse, be careful
+to shut out the hand with the established suit.
+
+Do not finesse with nine cards of a suit in the two hands, including
+both the Ace and King. As there are but four more cards of the suit, the
+Queen will probably fall on one of the two leads.
+
+Holding ten cards of one suit, including the Ace, Queen, Jack
+combination, lead the Queen toward the Ace; but if the Queen is not
+covered by the King, play the Ace on it.
+
+
+"BRIDGE DON'TS"
+
+Don't form the habit of playing slowly.
+
+Don't expect your partner to play well when you criticise him. A little
+encouragement will win you rubbers and will add to your popularity.
+
+Don't forget that it requires more skill to play a poor hand than it
+does to play a good one.
+
+Don't miss an opportunity to win the game or to save it.
+
+Don't complain if you hold poor cards and don't exult over good ones.
+
+Don't criticise at all; but, if you must, wait until the hand is
+finished.
+
+Don't hurry when exacting a penalty.
+
+Don't think entirely of your own hand.
+
+Don't take advantage of your partner's breach of etiquette.
+
+Don't think that bad play won't sometimes win tricks.
+
+Don't forget the score for an instant.
+
+Don't ignore the value of small cards.
+
+Don't fail to see your partner's first discard.
+
+Don't be deceived by the dealer's play.
+
+
+RULES
+
+It is impossible to suggest rules that will cover the play of every
+hand. Rules are formulated after the analysis of a great many hands, and
+are therefore made to meet the _usual_ distribution of the cards. When
+the fall of the cards reveals an unusual situation, unusual means must
+be adopted to meet it; and here your reason and common sense must come
+to your aid.
+
+The best Bridge players have the greatest regard for the rules; but the
+strong player recognises a situation for which a rule is not provided,
+and he allows his reason to dictate to him the times to follow and the
+times to violate them.
+
+
+MANNERISMS
+
+There is nobody who cares to be told that he plays cards unfairly; but,
+if you permit your manner to give your partner or the opponents the
+slightest intimation of the cards you hold, you lay yourself open to
+such criticism. Cards do not carry with them a license to be unfair or
+rude, yet, at the Bridge table, many socially correct people are both.
+
+Try always to pause the same length of time before making the trump or
+passing. Do not allow your manner to express approval or disapproval of
+your partner's make or of the cards he plays, and select each of your
+own cards with equal deliberation. When you hold good cards be content
+to win tricks with them, without manifesting glee at your adversaries'
+defeat. When your cards are poor, do not complain of them; you imply
+that the opponents profit by your weak hands and not by their own skill,
+and, as a rule, the more you rail at your luck the worse it becomes. Be
+generous with your praise of a well-played hand, and be sure your
+partner will play a better game if he does not fear your adverse
+criticism. Do not permit yourself to take advantage of, or be deceived
+by, any mannerisms of your partner or of the opponents, and let your own
+manner be uniformly such that nobody can tell from it whether you are
+winning or losing.
+
+
+MEMORY
+
+It is not necessary to have a fine memory in order to play Bridge well;
+but it _does_ require the ability to count thirteen. If you know _how
+many_ cards of a suit have been played, you soon will be able to tell
+_what_ cards have been played.
+
+Begin with one suit, preferably your own, and count each card of that
+suit as it is played; you will be surprised to find that you will soon
+notice not only where the cards of that suit are, but just what cards
+have been played. A little practice will enable you to do the same with
+all of the suits.
+
+No matter what may be your position at the table, you may cultivate your
+memory by observing carefully the cards laid down by the dummy. The
+number of cards remaining in a suit at any stage of the play will assist
+you in recalling how many rounds of that suit have been played, and this
+will help you in recollecting what high cards were played in those
+rounds.
+
+When you are dummy, and have nothing to do with the play, occupy your
+time and attention with a determined effort to remember each card played
+by your partner, the dealer. At the end of the hand see if you can
+recall how many of each suit he held. With a little practice you will be
+able to recall what his high cards were as well as the number in each
+suit. Memory is simply a matter of observation and practice.
+
+
+INFERENCES
+
+The play of each card conveys some information; and the secret of
+playing Bridge well lies in being able to draw inferences rapidly and
+correctly and in utilising the knowledge thus gained. If you simply
+look, in a mechanical way, at the cards as they fall without inferring
+what was meant by the play, you are apt to find yourself in the lead and
+at a complete loss as to what to do next.
+
+
+THE FOLLOWING ARE SUGGESTIONS FOR INFERENCES TO BE DRAWN BY THE DEALER.
+
+What will the make probably be if you pass? Your partner is apt to make
+it the suit in which you are weakest.
+
+Does the opening lead show a long or a short suit? If short, be on the
+alert to get the lead and exhaust trumps. If long, how many cards does
+the leader hold, and what high cards does his lead show?
+
+Ask yourself why does the adversary discard one suit and save another?
+This will aid in locating honours and in making successful finesses.
+
+If the left-hand adversary leads through the Ace Queen suit in dummy, he
+probably does not hold the King and is tempting you to finesse. If he
+refuses to lead through the Ace Queen suit he is very likely waiting for
+you to up to his King.
+
+If the make has been doubled try to infer what trump honours are in the
+doubling hand; this will enable you to judge as to the advisability of
+the trump lead.
+
+
+SUGGESTIONS FOR THE NON-DEALER
+
+From what combination of cards is your partner leading? Remember the
+high cards that he holds.
+
+The lead of a King, for instance, shows you that partner has the Ace,
+the Queen, or both.
+
+The lead of a Jack indicates the top of a suit.
+
+The lead of a seven, eight, or nine probably means the highest card of a
+short suit.
+
+Don't draw rigid inferences from the dealer's play; he will endeavour to
+deceive you by playing false cards.
+
+If it is an original make, your own and the dummy hand will help you to
+infer what trumps or high cards the dealer holds.
+
+If the dealer seems backward in leading trump he is probably aiming to
+ruff with the weak hand and a trump lead from you may prevent this.
+
+Endeavour to understand your partner's discards. You can then protect
+the suit in which he is weak, and, if necessary, unguard honours in the
+suit in which he has shown strength.
+
+When partner returns your lead in No-trump, notice carefully the card
+that he plays. It will help you to place the suit and prevent your
+leading to a possible tenace in the dealer's hand.
+
+
+COMBINING THE HANDS OF DEALER AND DUMMY
+
+The following table gives the different combinations of cards and shows
+how they should be played to get the best results when the dealer holds
+one combination and the dummy holds the other. An "x" means one or more
+small cards.
+
+The following combinations may be led from either hand:
+
+    +----------------+-----------------+
+    | _In One Hand._ | _In the Other._ |
+    +----------------+-----------------+
+    |     A  K  x    |     Q  x  x     |
+    |     A  Q  x    |     K  x  x     |
+    |     K  Q  x    |     J  x  x     |
+    |     K  J  x    |     Q  x  x     |
+    |     K  x  x    |     Q  J  x     |
+    |     Q  J  x    |    10  x  x     |
+    |     Q 10  x    |     J  x  x     |
+    |     Q  x  x    |     J 10  x     |
+    +----------------+-----------------+
+
+If forced to lead from any of the following combinations, lead from the
+weaker of the two hands. In these, lead the highest card of the three
+in the weak hand:
+
+    +---------+---------+
+    | _In One | _In the |
+    |  Hand._ | Other._ |
+    +---------+---------+
+    |  x x x  |  K Q x  | First trick, play queen.
+    |  x x x  |  K J x  | First trick, play jack.
+    |  x x x  |  K x x  | First trick, play king.
+    |  J x x  |  K x x  | First trick, play low.
+    +---------+---------+
+
+In the following, lead from the weaker hand, but begin by playing the
+lowest card:
+
+    +---------+---------+
+    | _In One | _In the |
+    |  Hand._ | Other._ |
+    +---------+---------+
+    |  Q x x  |  A x x  | First trick, play ace.
+    |  J x x  |  A x x  | First trick, play ace.
+    |  Q x x  |  K x x  | First trick, play king.
+    |  J x x  |  Q x x  | First trick, play queen.
+    +---------+---------+
+
+These rules are based on the supposition that the second hand has not
+played a higher card than any in the hand to which you lead.
+
+There is a difference of one or two tricks in all these combinations,
+depending on whether you or your adversaries open the suit. Try to get
+the adversaries to open such suits for you, as you do so yourself to a
+disadvantage. Throw the lead into their hands and make them lead to you.
+
+
+FINESSING
+
+COMBINING THE HANDS OF DEALER AND DUMMY.
+
+With any of the following combinations divided between the two hands,
+the lead should always be from the weaker hand, in the left-hand column,
+and the _highest_ card should be led, always playing the _smallest_ card
+from the stronger combination. For instance, in the first one given, you
+should lead the jack from J 10 x and play the small card from A K x. An
+"x" means any small card, or more than one small.
+
+    +----------------+-----------------+
+    | _In One Hand._ | _In the Other._ |
+    +----------------+-----------------+
+    |     J 10  x    |     A  K  x     |
+    |     x  x  x    |     A  K  J     |
+    |     x  x  x    |     A  Q  J     |
+    |     J  x  x    |     A  Q  x     |
+    |     Q  x  x    |     A  J  x     |
+    |     Q  J  x    |     A  x  x     |
+    |     x  x  x    |     K  J 10     |
+    |    10  x  x    |     K  J  x     |
+    |     J  x  x    |     K 10  x     |
+    |     J  x  x    |     K  x  x     |
+    |     x  x  x    |     Q 10  x     |
+    |    10  x  x    |     Q  x  x     |
+    +----------------+-----------------+
+
+In the following combinations, the lead should be the best card in the
+weaker hand, and the smallest card in the stronger hand should be played
+to the first round, allowing the adversary to win the first trick. The
+weak hand must then get into the lead again, so as to take the second
+finesse, hoping both honours are not on the wrong side:
+
+    +----------------+-----------------+
+    | _In One Hand._ | _In the Other._ |
+    +----------------+-----------------+
+    |     x  x  x    |     A  J 10     |
+    |    10  x  x    |     A  J  x     |
+    |     x  x  x    |     A  J  x     |
+    |     J  x  x    |     A 10  x     |
+    |     J 10  x    |     A  x  x     |
+    |     x  x  x    |     A  J  9     |
+    +----------------+-----------------+
+
+
+SECOND-HAND PLAYS
+
+Showing all of the different combinations between dealer and dummy and
+their play. The second hand is the hand that is led through, it being
+supposed that a small card is led.
+
+    +------------+-------------+--------------------+
+    | _2d Hand._ | _4th Hand._ |     _Play._        |
+    +------------+-------------+--------------------+
+    |  A  K  x   |   J  x  x   | K, _or_ Low        |
+    |  A  K  x   |  10  x  x   | King (T) Low (N T) |
+    |  A  Q  x   |   J  x  x   | Low                |
+    |  A  Q  x   |  10  x  x   | Low                |
+    |  A  Q  x   |   x  x  x   | Queen              |
+    |  A  J  x   |   Q  x  x   | Low                |
+    |  A 10  x   |   J  x  x   | Low                |
+    |  A  x  x   |   Q  x  x   | Low                |
+    |  K  Q  x   |   x  x  x   | Queen              |
+    |  K  J  x   |   x  x  x   | Low                |
+    |  K  J      |   x  x  x   | Jack (T) K (N T)   |
+    |  K  J      |   A  x  x   | Jack               |
+    |  K  J  x   |  10  x  x   | Low                |
+    |  K 10  x   |   J  x  x   | Low                |
+    |  K  x  x   |   Q  x      | Low                |
+    |  K  x      |   x  x      | Low (T) K (N T)    |
+    |  K  x      |   J  x  x   | Low                |
+    |  K  x      |   Q  x  x   | Low (T) K (N T)    |
+    |  K  x      |   Q 10  x   | Low                |
+    |  K  x      |   A 10  x   | Low                |
+    |  K  x      |   A  J  x   | Low                |
+    |  Q  J  x   |   x  x  x   | Jack               |
+    |  Q  J  x   |   A  x  x   | Jack               |
+    |  Q 10  x   |   A  x  x   | Low                |
+    |  Q  x  x   |   K  x  x   | Low                |
+    |  Q  x  x   |   x  x  x   | Low                |
+    |  Q  x      |   A  x  x   | Queen              |
+    |  Q  x      |   A 10  x   | Low                |
+    |  Q  x      |   A  J  x   | Low                |
+    |  Q  x      |   K  x  x   | Low (T) Q (N T)    |
+    |  Q  x      |   J  x  x   | Low                |
+    |  Q  x      |   x  x  x   | Queen              |
+    |  J 10  x   |   A  K  x   | Ten                |
+    |  J 10  x   |   A  x  x   | Ten                |
+    |  J 10  x   |   K  x  x   | Ten                |
+    |  J  x      |   K 10  x   | Low                |
+    |  J  x      |   K  x  x   | Jack               |
+    |  J  x      |   Q  x  x   | Low                |
+    |  J  x      |   A  K  x   | Jack               |
+    |  J  x      |   A  Q  x   | Low                |
+    | 10  x      |   A  K  x   | Ten                |
+    | 10  x      |   A  Q  x   | Ten                |
+    | 10  x      |   A  J  x   | Low                |
+    +------------+-------------+--------------------+
+
+(T) means with a declared trump.
+
+(N T) means with no trumps.
+
+[Illustration: ILLUSTRATIVE HANDS]
+
+
+NOTES ON ILLUSTRATIVE HAND NO. 1
+
+TRICK 1.--The dealer refuses to give up the A of spades, as he wishes to
+exhaust the spades in one hand before he attempts to clear his club
+suit.
+
+TRICK 4.--B, hoping to take the last club from the dealer's hand,
+refuses to part with the A of clubs.
+
+TRICK 6.--B tries to put his partner in the lead so that he may make the
+spades.
+
+
+ILLUSTRATIVE HAND NO. 1
+
+_Keeping the Command of the Adversaries' Suit._
+
+The score is love-all, rubber game. The dealer, Z, makes it no-trump. A
+leads for the first trick. The underlined card wins the trick and the
+card under it is the one led for the next trick.
+
+                      [S] 9
+                      [C] K Q J 5 4 2
+                      [D] Q 6 5
+                      [H] 7 6 3
+                     +---------+
+     [S] K Q J 8 6 2 |    Y    | [S] 10 7 5
+     [C] 9 8         |         | [C] A 7
+     [D] 9 4         |A       B| [D] J 10 8 7
+     [H] 10 8 2      |         | [H] A J 9 5
+                     |    Z    |
+                     +---------+
+                     [S] A 4 3
+                     [C] 10 6 3
+                     [D] A K 3 2
+                     [H] K Q 4
+
+    +-------+---------------+---------------+---------------+---------------+
+    | TRICK |       A       |       Y       |       B       |       Z       |
+    +-------+---------------+---------------+---------------+---------------+
+    |   1   |    <f>K[S]</f>|       9[S]    |       5[S]    |       3[S]    |
+    |   2   |    <f>Q[S]</f>|    [H]3       |       7[S]    |       4[S]    |
+    |   3   |       2[S]    |    [H]6       |      10[S]    |    <f>A[S]</f>|
+    |   4   |    [C]8       |    [C]2       |    [C]7       | <f>[C]10</f>  |
+    |   5   |    [C]9       |    [C]J       | <f>[C]A</f>   |    [C]6       |
+    |   6   |    [H]2       |    [H]7       |    [H]5       | <f>[H]K</f>   |
+    |   7   |       6[S]    | <f>[C]4</f>   |    [H]9       |    [C]3       |
+    |   8   |       8[S]    | <f>[C]5</f>   |    [H]J       |    [H]4       |
+    |   9   |       J[S]    | <f>[C]Q</f>   |       7[D]    |    [H]Q       |
+    |  10   |       4[D]    | <f>[C]K</f>   |       8[D]    |       2[D]    |
+    |  11   |       9[D]    |    <f>Q[D]</f>|      10[D]    |       3[D]    |
+    |  12   |    [H]8       |       6[D]    |       J[D]    |    <f>K[D]</f>|
+    |  13   |    [H]10      |       5[D]    |    [H]A       |    <f>A[D]</f>|
+    +-------+---------------+---------------+---------------+---------------+
+
+The dealer wins ten tricks.
+
+
+NOTES ON ILLUSTRATIVE HAND NO. 2
+
+TRICK 1.--A leads from his longest suit.
+
+TRICK 2.--B returns his partner's lead with his highest card, which the
+dealer refuses to take, as he wishes to wait until B has no more of the
+suit.
+
+TRICK 3.--A again leads a diamond, as he has the K of spades for
+re-entry and wishes to establish the diamond suit.
+
+TRICK 4.--The dealer plays for the clubs, his longest suit, and takes
+the first trick, as he holds J and 10 and can clear the suit in one more
+lead.
+
+TRICK 6.--B, having no diamonds, opens his heart suit, hoping to put his
+partner in the lead. The dealer applying the "Rule of Eleven," and
+finding that he holds the four cards above the seven, passes so as to
+take the lead in the dummy hand.
+
+TRICK 7.--Leading through.
+
+TRICKS 8 AND 9.--Making the clubs and putting the dummy hand in the lead
+so as to come through the K and J of hearts.
+
+
+ILLUSTRATIVE HAND NO. 2
+
+_Playing for the Longest Suit in the Two Hands._
+
+The score is love-all, rubber game. The dealer, Z, makes it no-trump and
+A leads for the first trick.
+
+                     [S] 8 6 4
+                     [C] 7 6 5 2
+                     [D] A 6 3
+                     [H] 9 5 4
+                    +---------+
+     [S] K J 10 2   |    Y    | [S] Q 7 5
+     [C] 9 8        |         | [C] K Q 3
+     [D] Q J 7 5 4  |A       B| [D] K 8 2
+     [H] 6 3        |         | [H] K J 8 7
+                    |    Z    |
+                    +---------+
+                    [S] A 9 3
+                    [C] A J 10 4
+                    [D] 10 9
+                    [H] A Q 10 2
+
+    +-------+---------------+---------------+---------------+---------------+
+    | TRICK |       A       |       Y       |       B       |       Z       |
+    +-------+---------------+---------------+---------------+---------------+
+    |   1   |       5[D]    |       3[D]    |    <f>K[D]</f>|       9[D]    |
+    |   2   |    <f>J[D]</f>|       6[D]    |       8[D]    |      10[D]    |
+    |   3   |       4[D]    |    <f>A[D]</f>|       2[D]    |       3[S]    |
+    |   4   |    [C]8       |    [C]2       |    [C]Q       | <f>[C]A</f>   |
+    |   5   |    [C]9       |    [C]5       | <f>[C]K</f>   |    [C]J       |
+    |   6   |    [H]3       | <f>[H]9</f>   |    [H]7       |    [H]2       |
+    |   7   |    [H]6       |    [H]4       |    [H]8       | <f>[H]10</f>  |
+    |   8   |       2[S]    |    [C]6       |    [C]3       | <f>[C]10</f>  |
+    |   9   |      10[S]    | <f>[C]7</f>   |       5[S]    |    [C]4       |
+    |  10   |       7[D]    |    [H]5       |    [H]J       | <f>[H]Q</f>   |
+    |  11   |       Q[D]    |       4[C]    |    [H]K       | <f>[H]A</f>   |
+    |  12   |       J[S]    |       6[S]    |       7[S]    |    <f>A[S]</f>|
+    |  13   |    <f>K[S]</f>|       8[S]    |       Q[S]    |       9[S]    |
+    +-------+---------------+---------------+---------------+---------------+
+
+The dealer wins nine tricks.
+
+
+NOTES ON ILLUSTRATIVE HAND NO. 3
+
+TRICK 1.--A opens his fourth best heart, as his hand is strong, and he
+wishes his partner to return that suit.
+
+THE DEALER.--As the longest suit in the two hands is diamonds, the
+dealer takes the first trick with the A of hearts, so that he may be
+able, if necessary, to put the dummy hand in the lead; also so that the
+adversaries may not know the cards he holds in the heart suit.
+
+TRICK 2.--A refuses to part with the commanding card of the diamond
+suit.
+
+TRICK 3.--The dealer takes the lead in the dummy hand in order to
+establish his diamond suit.
+
+TRICK 4.--As the dealer has now no diamonds, it is useless to hold up
+any longer.
+
+TRICK 6.--If A leads either clubs or spades he must lose a trick; his
+best play is to continue with the heart suit.
+
+
+ILLUSTRATIVE HAND NO. 3
+
+_Making a Re-entry Card for Dummy's Long Suit._
+
+The score is 24 to 0 against the dealer on the rubber game. The dealer,
+Z, makes it no-trump and A leads for the first trick.
+
+                    [S] A 2
+                    [C] J 10
+                    [D] Q J 9 5 4 3 2
+                    [H] Q 7
+                    +---------+
+     [S] K J 4      |    Y    | [S] 10 9 7 5
+     [C] A 4        |         | [C] Q 9 6 3
+     [D] A 8 6      |A       B| [D] 10 7
+     [H] 10 8 6 5 4 |         | [H] 9 3 2
+                    |    Z    |
+                    +---------+
+                    [S] Q 8 6 3
+                    [C] K 8 7 5 2
+                    [D] K
+                    [H] A K J
+
+    +-------+---------------+---------------+---------------+---------------+
+    | TRICK |       A       |       Y       |       B       |       Z       |
+    +-------+---------------+---------------+---------------+---------------+
+    |   1   |    [H]5       |    [H]7       |    [H]9       | <f>[H]A</f>   |
+    |   2   |       6[D]    |       2[D]    |       7[D]    |    <f>K[D]</f>|
+    |   3   |    [H]4       | <f>[H]Q</f>   |    [H]2       |    [H]J       |
+    |   4   |    <f>A[D]</f>|       Q[D]    |      10[D]    |    [C]2       |
+    |   5   |    [H]6       |    [C]10      |    [H]3       | <f>[H]K</f>   |
+    |   6   |       4[S]    |    <f>A[S]</f>|       5[S]    |       3[S]    |
+    |   7   |       8[D]    |    <f>J[D]</f>|    [C]3       |    [C]5       |
+    |   8   |    [C]4       |    <f>9[D]</f>|       7[S]    |    [C]7       |
+    |   9   |       J[S]    |    <f>5[D]</f>|       9[S]    |       6[S]    |
+    |  10   |    [H]8       |    <f>4[D]</f>|      10[S]    |       8[S]    |
+    |  11   |    [H]10      |    <f>3[D]</f>|    [C]6       |       Q[S]    |
+    |  12   | <f>[C]A</f>   |    [C]J       |    [C]Q       |    [C]K       |
+    |  13   |    <f>K[S]</f>|       2[S]    |    [C]9       |    [C]8       |
+    +-------+---------------+---------------+---------------+---------------+
+
+The dealer wins ten tricks.
+
+
+NOTES ON ILLUSTRATIVE HAND NO. 4
+
+TRICK 2.--As the adversaries must take one trick in the spade suit, the
+dealer allows them to win the first trick, in order to take the third
+round with the A, the A being the only re-entry card in the dummy.
+
+TRICK 3.--A continues with his long suit. The dealer, hoping that the A
+of diamonds is in B's hand, refuses to give up the commanding card.
+
+TRICK 5.--The dealer, so that the suit will not be blocked, leads the K
+of spades.
+
+TRICK 6.--The diamond discard loses a trick.
+
+TRICK 9.--The dealer, holding the A of clubs for re-entry, now clears
+the diamond suit.
+
+
+ILLUSTRATIVE HAND NO. 4
+
+_Saving a Re-entry Card for the Dummy's Long Suit._
+
+The score is love-all, rubber game. The dealer, Z, makes it no-trump,
+and A leads for the first trick.
+
+                   [S] A 9 6 5 2
+                   [C] 9 8 7
+                   [D] 6 5 4
+                   [H] 6 5
+                  +---------+
+    [S] J 10      |    Y    | [S] Q 7 4
+    [C] K 10      |         | [C] Q J 5 4 3
+    [D] J 9 7 2   |A       B| [D] A 3
+    [H] K J 8 4 2 |         | [H] 10 9 7
+                  |    Z    |
+                  +---------+
+                  [S] K 8 3
+                  [C] A 6 2
+                  [D] K Q 10 8
+                  [H] A Q 3
+
+    +-------+---------------+---------------+---------------+---------------+
+    | TRICK |       A       |       Y       |       B       |       Z       |
+    +-------+---------------+---------------+---------------+---------------+
+    |   1   |    [H]4       |    [H]5       |    [H]9       | <f>[H]Q</f>   |
+    |   2   |   <f>10[S]</f>|       2[S]    |       4[S]    |       3[S]    |
+    |   3   | <f>[H]J</f>   |    [H]6       |    [H]7       |    [H]3       |
+    |   4   |    [H]2       |    [C]7       |    [H]10      | <f>[H]A</f>   |
+    |   5   |       J[S]    |       5[S]    |       7[S]    |    <f>K[S]</f>|
+    |   6   |       2[D]    |    <f>A[S]</f>|       Q[S]    |       8[S]    |
+    |   7   |       7[D]    |    <f>9[S]</f>|    [C]3       |    [C]2       |
+    |   8   |       9[D]    |    <f>6[S]</f>|       3[D]    |    [C]6       |
+    |   9   |       J[D]    |       4[D]    |    <f>A[D]</f>|       8[D]    |
+    |  10   |    [C]10      |    [C]8       |    [C]4       | <f>[C]A</f>   |
+    |  11   |    [H]8       |       5[D]    |    [C]5       |    <f>K[D]</f>|
+    |  12   |    [H]K       |       6[D]    |    [C]J       |    <f>Q[D]</f>|
+    |  13   |    [C]K       |    [C]9       |    [C]Q       |   <f>10[D]</f>|
+    +-------+---------------+---------------+---------------+---------------+
+
+The dealer wins ten tricks.
+
+NOTES ON ILLUSTRATIVE HAND NO. 5
+
+TRICK 1.--A opens his longest suit with the fourth best card.
+
+TRICK 2.--B returns his partner's lead.
+
+TRICK 3.--A continues with his suit in order to establish it, as he
+holds the K of diamonds and the Q of clubs for re-entry.
+
+TRICK 4.--The dealer has the choice of three suits, the spades, clubs,
+and diamonds being of equal length. If he leads a spade he takes away
+the re-entry card for the dummy's club suit. If he takes the lead in the
+dummy and attempts to catch the K of diamonds by leading the Q up to the
+A, he gives A an opportunity of making his two hearts and of saving the
+game. In order to win three by-cards and the game, he must prevent A
+from getting the lead; he therefore leads the club and allows B to win
+the trick.
+
+TRICK 5.--The dealer must play the A of diamonds; for if the clubs fall
+evenly the rest of the tricks are his.
+
+
+ILLUSTRATIVE HAND NO. 5
+
+_Keeping the Hand Holding an Established Suit from Getting into the
+Lead._
+
+The score is 24 to 0 against the dealer, Z, who makes it no-trump. A
+leads for the first trick.
+
+                    [S] Q 10 8
+                    [C] A K 9 8 7 2
+                    [D] Q 9
+                    [H] J 2
+                   +---------+
+    [S] 5 4 2      |    Y    | [S] 9 7 6
+    [C] Q 4 3      |         | [C] J 10 6
+    [D] K 8        |A       B| [D] 5 4 3 2
+    [H] K 10 5 4 3 |         | [H] A 9 6
+                   |    Z    |
+                   +---------+
+                    [S] A K J 3
+                    [C] 5
+                    [D] A J 10 7 6
+                    [H] Q 8 7
+
+  +-------+---------------+---------------+---------------+---------------+
+  | TRICK |       A       |       Y       |       B       |       Z       |
+  |-------+---------------+---------------+---------------+---------------|
+  |   1   |    [H]4       |    [H]2       | <f>[H]A</f    |    [H]7       |
+  |   2   |   <f>[H]K</f> |    [H]J       |    [H]9       |    [H]8       |
+  |   3   |    [H]3       |       8[S]    |    [H]6       | <f>[H]Q</f>   |
+  |   4   |    [C]3       |    [C]7       | <f>[C]10</f>  |    [C]5       |
+  |   5   |       8[D]    |       9[D]    |       2[D]    | <f>A[D]</f>   |
+  |   6   |       2[S]    |   <f>Q[S]</f> |       6[S]    |       3[S]    |
+  |   7   |    [C]4       |   <f>[C]A</f> |    [C]6       |       6[D]    |
+  |   8   |    [C]Q       |   <f>[C]K</f> |    [C]J       |       7[D]    |
+  |   9   |       4[S]    |   <f>[C]9</f> |       7[S]    |      10[D]    |
+  |  10   |       5[S]    |   <f>[C]8</f> |       9[S]    |       J[D]    |
+  |  11   |    [H]5       |   <f>[C]2</f> |       3[D]    |       J[S]    |
+  |  12   |    [H]10      |      10[S]    |       4[D]    | <f>K[S]</f>   |
+  |  13   |       K[D]    |       Q[D]    |       5[D]    | <f>A[S]</f>   |
+  +-------+---------------+---------------+---------------+---------------+
+
+The dealer wins ten tricks.
+
+
+NOTES ON ILLUSTRATIVE HAND NO. 6
+
+TRICK 1.--A leads from his only four-card suit. The dealer plays the ace
+second in hand in order to trump his losing diamond.
+
+TRICK 2.--The dealer false-cards so that the adversaries will not know
+that he holds the queen.
+
+TRICK 3.--As A led the deuce of diamonds, showing but four cards in the
+suit, the dealer knows that B has one more diamond. He therefore, before
+leading trumps, allows dummy to trump a losing card.
+
+TRICKS 4, 5, AND 6.--The dealer now proceeds to lead trumps, and, as he
+has no strength in clubs in his own hand, he throws away clubs from the
+dummy hand.
+
+TRICK 7.--Holding but six spades in the two hands, the dealer tries to
+force discards of spades.
+
+TRICK 8.--Forcing another discard with the best diamond.
+
+TRICKS 9, 10, AND 11.--The spades fall, leaving dummy with the best
+spade and the ace of clubs as re-entry.
+
+ILLUSTRATIVE HAND NO. 6
+
+_Allowing the Weaker of the Two Hands to "Ruff" before Leading Trumps._
+
+The score is love-all. The dealer, Z, makes it hearts, having four
+honours in one hand. A leads to the first trick.
+
+                 [S] A 6 4 3
+                 [C] A J 9 4 3
+                 [D] A 4
+                 [H] 9 5
+                +---------+
+    [S] Q 10 5  |    Y    | [S] 9 8 7 2
+    [C] 8 7 6   |         | [C] K Q 10
+    [D] J 9 7 2 |A       B| [D] 10 8 6
+    [H] 7 6 4   |         | [H] 10 3 2
+                |    Z    |
+                +---------+
+                 [S] K J
+                 [C] 5 2
+                 [D] K Q 5 3
+                 [H] A K Q J 8
+
+    +-------+---------------+---------------+---------------+---------------+
+    | TRICK |       A       |       Y       |       B       |       Z       |
+    |-------+---------------+---------------+---------------+---------------|
+    |   1   |       2[D]    | <f>A[D]</f>   |       6[D]    |       3[D]    |
+    |   2   |       7[D]    |       4[D]    |       8[D]    | <f>K[D]</f>   |
+    |   3   |       9[D]    | <f>[H]5</f>   |      10[D]    |       5[D]    |
+    |   4   |    [H]4       |    [H]9       |    [H]2       |<f>[H]A</f>    |
+    |   5   |    [H]6       |    [C]3       |    [H]3       |<f>[H]K</f>    |
+    |   6   |    [H]7       |    [C]4       |    [H]10      |<f>[H]Q</f>    |
+    |   7   |    [C]6       |    [C]9       |    [C]10      |<f>[H]J</f>    |
+    |   8   |       J[D]    |    [C]J       |       2[S]    | <f>Q[D]</f>   |
+    |   9   |       5[S]    |       3[S]    |       7[S]    | <f>K[S]</f>   |
+    |  10   |       Q[S]    | <f>A[S]</f>   |       8[S]    |       J[S]    |
+    |  11   |      10[S]    |       4[S]    |       9[S]    |<f>[H]8</f>    |
+    |  12   |    [C]7       | <f>[C]A</f>   |    [C]Q       |    [C]2       |
+    |  13   |    [C]8       | <f>6[S]</f>   |    [C]K       |    [C]5       |
+    +-------+---------------+---------------+---------------+---------------+
+
+The dealer makes a grand slam.
+
+NOTES ON ILLUSTRATIVE HAND NO. 7
+
+TRICK 1.--The scheme which the dealer must adopt for the play of the two
+hands is to exhaust trumps and to establish the club suit. Holding the
+A, Q, and J of diamonds, in order to catch the K, the lead must come
+from the dummy; and so that he may lead up to his tenace in trumps, the
+dealer trumps the Q of hearts.
+
+TRICK 2.--As the finesse succeeds the dealer must place the lead in
+dummy so that he may again lead through the K of diamonds.
+
+TRICK 3.--The dealer holds too many clubs, so must use the A of spades
+to get the lead in dummy, even though it clears the spade suit for the
+adversaries.
+
+TRICKS 4 AND 5.--The trumps fall evenly, leaving the dealer with the
+last trump.
+
+TRICK 6.--The K of clubs, being guarded, must make.
+
+ILLUSTRATIVE HAND NO. 7
+
+_Trumping Your Own Trick to get the Lead into the Right Hand._
+
+The score is 18 to 0 in favour of the dealer, Z, who has a game in and
+makes it diamonds, having four honours.
+
+                      [S] A 8 7 6 5
+                      [C] A Q 10 5 4
+                      [D] 8 7 6
+                      [H] None
+                     +---------+
+    [S] K J 9 3      |    Y    | [S] Q 10 4
+    [C] None         |         | [C] K 7
+    [D] 5 4 3        |A       B| [D] K 9 2
+    [H] K J 10 8 4 2 |         | [H] 9 7 6 5 3
+                     |    Z    |
+                     +---------+
+                      [S] 2
+                      [C] J 9 8 6 3 2
+                      [D] A Q J 10
+                      [H] A Q
+
+    +-------+---------------+---------------+---------------+---------------+
+    | TRICK |       A       |       Y       |       B       |       Z       |
+    |-------+---------------+---------------+---------------+---------------|
+    |   1   |    [H]10      | <f>6[D]</f>   |    [H]3       |    [H]Q       |
+    |   2   |       3[D]    |       7[D]    |       2[D]    | <f>Q[D]</f>   |
+    |   3   |       3[S]    | <f>A[S]</f>   |       4[S]    |       2[S]    |
+    |   4   |       4[D]    |       8[D]    |       9[D]    | <f>J[D]</f>   |
+    |   5   |       5[D]    |       5[S]    |       K[D]    | <f>A[D]</f>   |
+    |   6   |    [H]2       |    [C]10      |<f>[C]K</f>    |    [C]2       |
+    |   7   |    [H]4       |       6[S]    |    [H]5       |<f>[H]A</f>    |
+    |   8   |    [H]8       |<f>[C]Q</f>    |    [C]7       |    [C]3       |
+    |   9   |    [H]J       |<f>[C]A</f>    |    [H]6       |    [C]6       |
+    |  10   |    [H]K       |    [C]5       |    [H]7       |<f>[C]8</f>    |
+    |  11   |       9[S]    |    [C]4       |    [H]9       |<f>[C]9</f>    |
+    |  12   |       J[S]    |       7[S]    |      10[S]    |<f>[C]J</f>    |
+    |  13   |       K[S]    |       8[S]    |       Q[S]    |<f>10[D]</f>   |
+    +-------+---------------+---------------+---------------+---------------+
+
+The dealer makes a little slam.
+
+NOTES ON ILLUSTRATIVE HAND NO. 8
+
+TRICK 1.--By playing the king of spades second in hand, the dealer hopes
+to win two tricks in that suit.
+
+TRICK 2.--As the adversaries must make one trick in the club suit, Z
+tries to place the lead in A's hand so that the queen of spades may be
+led up to.
+
+The eight of clubs is a clever play. If the king were led, A would know
+positively that Z held the ace.
+
+TRICK 3.--The leader has but little information to guide him in his next
+play. He does not dare to lead the hearts, as it may establish that suit
+against him; the lead of the queen of clubs is tempting; but judging
+from the development of the hand the ace of spades is probably his best
+play.
+
+ILLUSTRATIVE HAND NO. 8
+
+_Throwing the Lead and Refusing to take First Trick in Long Suit._
+
+The score is 22 to 0 against the dealer, Z, who makes it no-trump. A
+leads for the first trick.
+
+                    [S] K 7
+                    [C] K 8
+                    [D] Q 10 7 3
+                    [H] Q 10 5 4 3
+                   +---------+
+    [S] A J 6 4 3  |    Y    | [S] 10 8 2
+    [C] Q 10       |         | [C] J 4 2
+    [D] 8 6 4 2    |A       B| [D] 9 5
+    [H] 8 7        |         | [H] A K J 9 2
+                   |    Z    |
+                   +---------+
+                    [S] Q 9 5
+                    [C] A 9 7 6 5 3
+                    [D] A K J
+                    [H] 6
+
+    +-------+---------------+---------------+---------------+---------------+
+    | TRICK |       A       |       Y       |       B       |       Z       |
+    |-------+---------------+---------------+---------------+---------------|
+    |   1   |       4[S]    | <f>K[S]</f>   |       2[S]    |       5[S]    |
+    |   2   | <f>[C]10</f>  |    [C]8       |    [C]2       |    [C]3       |
+    |   3   | <f>A[S]</f>   |       7[S]    |       8[S]    |       9[S]    |
+    |   4   |       3[S]    |    [H]3       |      10[S]    | <f>Q[S]</f>   |
+    |   5   |    [C]Q       |<f>[C]K</f>    |    [C]4       |    [C]5       |
+    |   6   |       2[D]    |       3[D]    |       5[D]    | <f>A[D]</f>   |
+    |   7   |       6[S]    |    [H]4       |    [C]J       |<f>[C]A</f>    |
+    |   8   |       J[S]    |    [H]5       |    [H]2       |<f>[C]9</f>    |
+    |   9   |       4[D]    |    [H]10      |    [H]9       |<f>[C]7</f>    |
+    |  10   |       6[D]    |    [H]Q       |    [H]J       |<f>[C]6</f>    |
+    |  11   |       8[D]    |       7[D]    |       9[D]    | <f>K[D]</f>   |
+    |  12   |    [H]7       | <f>Q[D]</f>   |    [H]K       |       J[D]    |
+    |  13   |    [H]8       | f>10[D]</f>   |    [H]A       |    [H]6       |
+    +-------+---------------+---------------+---------------+---------------+
+
+The dealer wins eleven tricks.
+
+NOTES ON ILLUSTRATIVE HAND NO. 9
+
+TRICK 1.--The correct second in hand play of this combination is the
+queen, hoping to win two tricks in the suit. Z, in order to win three
+by-cards and the rubber, must take a finesse in spades; and so not only
+refuses to play the queen second in hand, but will not take the trick
+fourth in hand. His object is to wait until B's last heart has been
+played.
+
+TRICK 2.--If B starts the diamond suit, the dealer cannot make more than
+the odd trick; but the situation looks as if A holds both ace and king
+of hearts.
+
+TRICK 3.--A, having a possible re-entry card, must establish his suit.
+
+TRICK 4.--Z leads the club suit in order to force discards, and arranges
+the lead so that his tenace in spades may be led up to.
+
+TRICK 9.--Z cannot afford to let A get the lead.
+
+ILLUSTRATIVE HAND NO. 9
+
+_Refusing to Win Either the First or the Second Round of the
+Adversaries' Suit._
+
+It is the rubber game. Score 24 to 0 against the dealer. Z, the dealer,
+makes it no-trump, and A leads for the first trick.
+
+                     [S] A Q 8 7 3
+                     [C] K J 8 5
+                     [D] J 9
+                     [H] Q 5
+                    +---------+
+    [S] 6 4         |    Y    | [S] K 9 5
+    [C] 7 3         |         | [C] 9 6 4
+    [D] K 10 5      |A       B| [D] Q 8 6 4 2
+    [H] A J 9 7 4 3 |         | [H] 10 8
+                    |    Z    |
+                    +---------+
+                     [S] J 10 2
+                     [C] A Q 10 2
+                     [D] A 7 3
+                     [H] K 6 2
+
+    +-------+---------------+---------------+---------------+---------------+
+    | TRICK |       A       |       Y       |       B       |       Z       |
+    |-------+---------------+---------------+---------------+---------------|
+    |   1   |    [H]7       |    [H]5       |<f>[H]10</f>   |    [H]2       |
+    |   2   |<f>[H]A</f>    |    [H]Q       |    [H]8       |    [H]6       |
+    |   3   |    [H]3       |    [C]5       |    2[D]       |<f>[H]K</f>    |
+    |   4   |    [C]3       |<f>[C]K</f>    |    [C]4       |    [C]2       |
+    |   5   |    [C]7       |<f>[C]J</f>    |    [C]6       |    [C]10      |
+    |   6   |       4[S]    |    [C]8       |    [C]9       |<f>[C]Q</f>    |
+    |   7   |       5[D]    |       9[D]    |       5[S]    |<f>[C]A</f>    |
+    |   8   |       6[S]    |       3[S]    | <f>K[S]</f>   |       J[S]    |
+    |   9   |      10[D]    |       J[D]    |       4[D]    |<f>A[D]</f>    |
+    |  10   |    [H]4       |       7[S]    |       9[S]    |<f>10[S]</f>   |
+    |  11   |    [H]9       | <f>A[S]</f>   |       6[D]    |       2[S]    |
+    |  12   |    [H]J       | <f>Q[S]</f>   |       8[D]    |       3[D]    |
+    |  13   |       K[D]    | <f>8[S]</f>   |       Q[D]    |       7[D]    |
+    +-------+---------------+---------------+---------------+---------------+
+
+The dealer wins ten tricks.
+
+
+NOTES ON ILLUSTRATIVE HAND NO. 10
+
+TRICK 1.--As A may have both king and queen of diamonds, Z passes the
+first trick, hoping to win with his ten.
+
+TRICK 2.--Many players would lead the club suit because of dummy's
+weakness; but in the original play of this hand B led the queen of
+hearts.
+
+TRICK 3.--Z starts the spade suit and finds the queen is guarded in A's
+hand.
+
+TRICK 4.--In order to prevent the queen of spades from winning, Z must
+get the lead in his own hand. If he takes the finesse in clubs and it
+loses, the adversaries must make the entire heart suit. The finesse can
+win only _one_ trick, and it might lose five or six tricks.
+
+TRICK 5--To catch the queen of spades is now easy.
+
+TRICK 7--- A clever play to get the lead and to play through the king of
+diamonds.
+
+
+ILLUSTRATIVE HAND NO. 10
+
+_Leading Through._
+
+The score is love-all. The dealer, Z, passes the make. Y declares
+no-trump. A leads for the first trick.
+
+                 [S] A K J 10 5 2
+                 [C] 2
+                 [D] A J 9 4 3
+                 [H] A
+                 +---------+
+    [S] Q 8 3    |    Y    | [S] NONE
+    [C] K 8 4    |         | [C] J 10 9 7 6 5
+    [D] K 8 6 2  |A       B| [D] Q
+    [H] K 5 4    |         | [H] Q J 10 9 8 7
+                 |    Z    |
+                 +---------+
+                 [S] 9 7 6 4
+                 [C] A Q 3
+                 [D] 10 7 5
+                 [H] 6 3 2
+
+    +-------+---------------+---------------+---------------+---------------+
+    | TRICK |       A       |       Y       |       B       |       Z       |
+    +-------+---------------+---------------+---------------+---------------+
+    |   1   |       2[D]    |       3[D]    |    <f>Q[D]</f>|       5[D]    |
+    |   2   |    [H]4       | <f>[H]A</f>   |    [H]Q       |    [H]2       |
+    |   3   |       3[S]    |    <f>K[S]</f>|    [C]5       |       4[S]    |
+    |   4   |    [C]4       |    [C]2       |    [C]9       | <f>[C]A</f>   |
+    |   5   |       8[S]    |   <f>10[S]</f>|    [C]6       |       6[S]    |
+    |   6   |       Q[S]    |    <f>A[S]</f>|    [H]7       |       7[S]    |
+    |   7   |    [H]K       |       2[S]    |    [C]7       |    <f>9[S]</f>|
+    |   8   |       6[D]    |       4[D]    |    [H]8       |   <f>10[D]</f>|
+    |   9   |       8[D]    |    <f>9[D]</f>|    [C]10      |       7[D]    |
+    |  10   |       K[D]    |    <f>A[D]</f>|    [H]9       |    [H]3       |
+    |  11   |    [C]8       |    <f>J[D]</f>|   [C]J        |    [H]6       |
+    |  12   |    [H]5       |    <f>J[S]</f>|     [H]10     |    [C]3       |
+    |  13   |    [C]K       |    <f>5[S]</f>|    [H]J       |    [C]Q       |
+    +-------+---------------+---------------+---------------+---------------+
+
+The dealer makes a little slam.
+
+
+NOTES ON ILLUSTRATIVE HAND NO. 11
+
+TRICK 1.--A leads from his long suit, and Z wins the trick with the
+singleton ace.
+
+TRICK 2.--The dealer, having eight clubs and eight spades in the two
+hands, has now a choice of suits. The king of spades _must_ make against
+him while he has a finesse in the club suit. If he leads the clubs first
+he is compelled to guess in which hand to take the finesse; he therefore
+leads the spade, hoping by establishing that suit to force discards and
+find out where the two queens are.
+
+TRICK 3.--B might make it more difficult for A by not playing the king
+of spades.
+
+TRICKS 5, 6, 7, AND 8.--A's two discards of clubs show that the queen is
+not in his hand, while B's heart discard indicates that he does not hold
+the queen of hearts. The queen of hearts is also marked in A's hand by
+the fact that he is discarding his winning diamonds and protecting
+hearts.
+
+
+ILLUSTRATIVE HAND NO. 11
+
+_Choice of Suits.--Watching the Adversaries' Discards._
+
+The score is love-all. The dealer, Z, makes it no-trump, and A leads for
+the first trick.
+
+                    [S] A 9 7 5
+                    [C] K J 3 2
+                    [D] K 8
+                    [H] K 10 7
+                    +---------+
+    [S] J 3         |    Y    | [S] K 6 4
+    [C] 6 5         |         | [C] Q 9 7
+    [D] Q 9 7 6 5 4 |A       B| [D] J 10 3 2
+    [H] Q 9 3       |         | [H] 6 5 4
+                    |    Z    |
+                    +---------+
+                    [S] Q 10 8 2
+                    [C] A 10 8 4
+                    [D] A
+                    [H] A J 8 2
+
+    +-------+---------------+---------------+---------------+---------------+
+    | TRICK |       A       |       Y       |       B       |       Z       |
+    +-------+---------------+---------------+---------------+---------------+
+    |   1   |       6[D]    |       8[D]    |      10[D]    |    <f>A[D]</f>|
+    |   2   |       3[S]    |    <f>A[S]</f>|       4[S]    |       2[S]    |
+    |   3   |       J[S]    |       5[S]    |    <f>K[S]</f>|       8[S]    |
+    |   4   |       4[D]    |    <f>K[D]</f>|       J[D]    |    [C]4       |
+    |   5   |    [C]5       |       7[S]    |       6[S]    |    <f>Q[S]</f>|
+    |   6   |    [C]6       |       9[S]    |    [H]4       |   <f>10[S]</f>|
+    |   7   |       5[D]    | <f>[C]K</f>   |    [C]7       |    [C]8       |
+    |   8   |       7[D]    |    [C]2       |    [C]9       | <f>[C]10</f>  |
+    |   9   |       9[D]    |    [C]3       |    [C]Q       | <f>[C]A</f>   |
+    |  10   |    [H]3       | <f>[H]10</f>  |    [H]5       |    [H]2       |
+    |  11   |       Q[D]    | <f>[C]J</f>   |       2[D]    |    [H]8       |
+    |  12   |    [H]9       | <f>[H]K</f>   |    [H]6       |    [H]J       |
+    |  13   |    [H]Q       |    [H]7       |       3[D]    | <f>[H]A</f>   |
+    +-------+---------------+---------------+---------------+---------------+
+
+The dealer makes a little slam.
+
+
+NOTES ON ILLUSTRATIVE HAND NO. 12
+
+TRICKS 1 AND 2.--A leads high, hoping in three leads to drop all the
+diamonds.
+
+TRICK 3.--B discards a spade, plainly indicating the suit he wishes A to
+lead.
+
+If the discard of a heart is made, indicating weakness, A is compelled
+to choose between the clubs and spades, and as he cannot afford to lead
+from the king of spades once protected will undoubtedly lead the jack of
+clubs.
+
+The discard from weakness in this hand, should A guess the wrong suit,
+may lose six or seven tricks.
+
+
+ILLUSTRATIVE HAND NO. 12
+
+_The Discard of Strength versus Weakness._
+
+The score is 24 to 0 against the dealer on the rubber game. The dealer,
+Z, makes it no-trump, and A leads for the first trick.
+
+                 [S] 9 8 7 6
+                 [C] 8 3 2
+                 [D] 9 6 2
+                 [H] 10 5 2
+                 +---------+
+    [S] K 10     |    Y    | [S] A Q J 5 4 3 2
+    [C] J 10 5   |         | [C] None
+    [D] A K Q 4  |A       B| [D] 7 5
+    [H] 7 6 4 3  |         | [H] K J 9 8
+                 |    Z    |
+                 +---------+
+                 [S] None
+                 [C] A K Q 9 7 6 4
+                 [D] J 10 8 3
+                 [H] A Q
+
+    +-------+---------------+---------------+---------------+---------------+
+    | TRICK |       A       |       Y       |       B       |       Z       |
+    +-------+---------------+---------------+---------------+---------------+
+    |   1   |    <f>K[D]</f>|       2[D]    |       5[D]    |       3[D]    |
+    |   2   |    <f>Q[D]</f>|       6[D]    |       7[D]    |       8[D]    |
+    |   3   |    <f>A[D]</f>|       9[D]    |       2[S]    |      10[D]    |
+    |   4   |    <f>K[S]</f>|       8[S]    |       3[S]    |    [H]Q       |
+    |   5   |      10[S]    |       7[S]    |    <f>A[S]</f>|    [C]4       |
+    |   6   |       4[D]    |       8[S]    |    <f>Q[S]</f>|    [C]6       |
+    |   7   |    [H]3       |       9[S]    |    <f>J[S]</f>|    [C]7       |
+    |   8   |    [H]4       |    [C]2       |    <f>5[S]</f>|    [C]9       |
+    |   9   |    [H]6       |    [C]3       |    <f>4[S]</f>|    [C]Q       |
+    |  10   |    [H]7       |    [H]2       |    [H]8       | <f>[H]A</f>   |
+    |  11   |    [C]5       |    [C]8       |    [H]9       | <f>[C]A</f>   |
+    |  12   |    [C]10      |    [H]5       |    [H]J       | <f>[C]K</f>   |
+    |  13   |    [C]J       |    [H]10      |    [H]K       |    <f>J[D]</f>|
+    +-------+---------------+---------------+---------------+---------------+
+
+The dealer loses three by-cards and the rubber.
+
+
+BRIDGE FOR THREE PLAYERS
+
+When the game is played by three persons the cards are cut to decide
+which shall have the dummy; the one cutting the lowest card has the deal
+and a permanent dummy during the game or the rubber, as the case may be.
+It is then customary for each player to have dummy in turn, during one
+game or rubber.
+
+In playing rubbers, 100 points are added to the score of the winning
+side.
+
+In playing games, 50 points are added to score of the winning side.
+
+If the make is passed to dummy, four aces or three aces constitute a
+compulsory "no-trump" declaration; otherwise, dummy must declare the
+longest suit.
+
+When there are two suits of equal length, dummy must select the suit
+which counts most by spots, the ace counting eleven and the other
+honours ten each. If the suits are still equal, dummy declares the one
+having the higher trick valuation.
+
+Only one adversary, the leader, can double.
+
+If the dealer has seen the two hands, he is not allowed to re-double.
+
+The dummy hand is not exposed until the doubling has been settled and a
+card led.
+
+When the dummy is the leader, his partner must look at dummy hand and
+lead from it before seeing his own cards; and dummy alone has the right
+to double.
+
+
+DUPLICATE BRIDGE
+
+Bridge, when first introduced, was played almost entirely for a stake;
+but, in the last few years, many players have taken up the game--_per
+se_--on account of its interesting possibilities and the intellectual
+pleasure it gives. Duplicate and Progressive Bridge have, therefore,
+become very popular.
+
+The object of Duplicate Bridge is to eliminate, as nearly as is
+possible, the element of luck, and to make the game not so much a
+question of holding good cards as a comparative test of skill between
+players. A perfect test cannot be made by a single trial, as an unusual
+distribution of the cards might defeat two strong players, but in a
+series of duplicate games, good makes and good plays will undoubtedly
+mark the better Bridge players.
+
+As Duplicate Bridge is played for points, not games or rubbers, the
+honour score requires as much attention as the trick score.
+
+Remember that holding three red honours you can stand the loss of two
+odd tricks (unless the mate is doubled) without losing on the deal, and
+that there is almost an even chance that your partner will hold another
+honour.
+
+It you make it red with but one honour, your adversaries will probably
+secure the honour score.
+
+If you declare "no-trump" with but one ace the honours will probably be
+even; but you may find three aces against you.
+
+Remember that four honours in clubs count as much as the average deal is
+worth.
+
+
+PROGRESSIVE BRIDGE
+
+Progressive Bridge may be played in much the same manner as Progressive
+Euchre. While to win at this game is very largely a matter of holding
+good cards, it forms an interesting social amusement; and, to players
+who are unaccustomed to the arrangement of the cards in Duplicate
+Bridge, is much less confusing.
+
+In Progressive Bridge the players are usually numbered, 1, 2, 3, 4
+playing at Table 1, and 5, 6, 7, 8 at Table 2, etc.
+
+At each table the cards are cut in the usual manner for partners and for
+the deal; and a stated number of hands played for points, tricks and
+honours included, without regard to games or rubbers.
+
+After playing the number of deals decided upon, the winning pair move
+to the next table, where the cards are again cut for partners, and for
+the deal.
+
+An individual score is kept of the points lost and won during the entire
+game; the points lost being deducted from those won, and the player
+making the best net score being declared the winner.
+
+
+
+
+THE LAWS OF BRIDGE
+
+REVISED, 1905
+
+_The laws of Bridge published in this edition have been prepared by the
+author, who has used as a foundation the codes accepted by the principal
+clubs of the world. The author does not favour the exaction of a penalty
+for the dealer's lead out of turn. The American opinion on this point is
+divided, but the English practice is to exact no penalty. Otherwise the
+various club codes show but minor differences._
+
+
+THE RUBBER
+
+1. The partners first winning two games win the rubber. If the first two
+games be won by the same partners, the third game is not played.
+
+
+SCORING
+
+2. A game consists of thirty points obtained by tricks alone, exclusive
+of any points counted for honours, chicane or slam.
+
+3. Every hand is played out, and any points in excess of thirty points
+necessary for the game are counted.
+
+4. Each trick above six counts two points when spades are trumps, four
+points when clubs are trumps, six points when diamonds are trumps,
+eight points when hearts are trumps, and twelve points when there are no
+trumps.
+
+5. Honours are ace, king, queen, knave and ten of the trump suit; or the
+aces when no trump is declared.
+
+6. Honours are credited to the original holders and are valued as
+follows:
+
+    +------------------------------------+-----+-----+-----+-----+--------+
+    |        Declaration.                | [S] | [C] | [D] | [H] |  No    |
+    |                                    |     |     |     |     | Trumps |
+    +------------------------------------+-----+-----+-----+-----+--------+
+    |          Each Trick above Six      |  2  |  4  |  6  |  8  |   12   |
+    |        { 3 Honours                 |  4  |  8  | 12  | 16  |   30   |
+    |        { 4    "                    |  8  | 16  | 24  | 32  |   40   |
+    |HONOURS { 4    "   (All in one hand)| 16  | 32  | 48  | 64  |  100   |
+    |        { 5    "                    | 10  | 20  | 30  | 40  |   --   |
+    |        { 5    "   (4 in one hand)  | 18  | 36  | 64  | 72  |   --   |
+    |        { 5    "   (All in one hand)| 20  | 40  | 60  | 80  |   --   |
+    |                     Chicane        |  4  |  8  | 12  | 16  |   --   |
+    +------------------------------------+-----+-----+-----+-----+--------+
+    |             Rubber 100, Grand Slam 40, Little Slam 20.              |
+    +---------------------------------------------------------------------+
+
+7. If a player and his partner make thirteen tricks, independently of
+any tricks gained by the revoke penalty, they score Grand Slam and add
+forty points to their honour count.
+
+8. Little slam is twelve tricks similarly scored, and adds twenty points
+to the honour count.
+
+9. Chicane (one hand void of trumps) is equal in value to three
+honours, _i.e._, if partner of player having chicane scores honours he
+adds the value of three honours to his honour score, while, if the
+adversaries score honours, it deducts an equal value from their honour
+score. Double Chicane (a player and his partner both void of trumps) is
+equal in value to four honours, and the value thereof may be deducted
+from the total honour score of the adversaries.
+
+10. The value of honours, slam, little slam, or chicane, is in nowise
+affected by doubling or redoubling.
+
+11. At the conclusion of a rubber the scores for tricks, honours,
+Chicane, and Slam, obtained by each side are added, and one hundred
+points are added to the score of the winners of the rubber. The
+difference between the completed scores is the number of points won or
+lost by the winners of the rubber.
+
+12. If an erroneous score affecting tricks be proven, such mistake must
+be corrected prior to the conclusion of the game in which it has
+occurred, and such game shall not be considered as concluded until the
+following deal has been completed and the trump declared, unless it be
+that the game is the last one of the rubber,--then the score is subject
+to inquiry until an agreement between the sides (as to the value of the
+rubber) shall have been reached.
+
+13. If an erroneous score affecting honours, chicane or slam be proven,
+such mistake may be corrected at any time before the score of the rubber
+has been made up and agreed upon.
+
+
+CUTTING
+
+14. The ace is the lowest card.
+
+15. In all cases every player must cut from the same pack.
+
+16. Should a player expose more than one card, he must cut again.
+
+
+FORMING TABLES
+
+17. The prior right of playing is with those first in the room. If there
+are more than four candidates for seats at a table, the privilege of
+playing is decided by cutting. The four who cut the lowest cards play
+first.
+
+18. After the table is formed, the players cut to decide on partners;
+the two lowest play against the two highest. The lowest is the dealer,
+who has choice of cards and seats, and who, having once made his
+selection, must abide by it.
+
+19. Should the two players who cut lowest, secure cards of equal value,
+they shall re-cut to determine which of the two shall deal, and the
+lower on the re-cut deals.
+
+20. Should three players cut cards of equal value, they cut again; if
+the fourth card be the highest, the two lowest of the new cut are
+partners and the lower of the two the dealer; if, however, the fourth
+card be the lowest, the two highest on the re-cut are partners and the
+original lowest the dealer.
+
+21. Six players constitute a full table, and no player shall have a
+right to cut into a game which is complete.
+
+22. When there are more than six candidates, the right to succeed any
+player who may retire is acquired by announcing the desire to do so, and
+such announcement shall constitute a prior right to the first vacancy.
+
+
+CUTTING OUT
+
+23. If at the end of a rubber, should admission be claimed by one or two
+candidates, the player or players having played a greater number of
+consecutive rubbers shall withdraw; but when all have played the same
+number, they must cut to decide upon the outgoers; the highest are out.
+
+
+RIGHTS OF ENTRY
+
+24. A candidate desiring to enter a table must declare such wish before
+any player at the table cuts a card, either for the purpose of beginning
+a new rubber or of cutting out.
+
+25. In the formation of new tables, those candidates who have neither
+belonged to nor played at any other table have the prior right of entry.
+Those who have already played decide their right of admission by
+cutting.
+
+26. A player who cuts into one table while belonging to another, shall
+forfeit his prior right of re-entry into the latter, unless by doing so
+he enables three candidates to form a fresh table. In this event he may
+signify his intention of returning to his original table, and his place
+at the new one can be filled.
+
+27. Should any player quit the table during the progress of a rubber, he
+may, with the consent of the other three players, appoint a substitute
+during his absence; but such appointment shall become void with the
+conclusion of the rubber, and shall not in any way affect the
+substitute's rights.
+
+28. If anyone break up a table, the remaining players have a prior right
+to play at other tables.
+
+
+SHUFFLING
+
+29. The pack must neither be shuffled below the table nor so the face of
+any card be seen.
+
+30. The dealer's partner must collect the cards for the ensuing deal and
+he has the first right to shuffle the cards. Each player has the right
+to shuffle subsequently. The dealer has the right to shuffle last, but
+should a card or cards be seen during his shuffling, or whilst giving
+the pack to be cut, he must re-shuffle.
+
+31. Each player, after shuffling, must place the cards properly
+collected and face downward to the left of the player next to deal.
+
+
+THE DEAL
+
+32. Each player deals in his turn; the order of dealing goes to the
+left.
+
+33. The player on the dealer's right cuts the pack, and in dividing it
+he must not leave fewer than four cards in either packet; if in cutting
+or in replacing one of the two packets a card be exposed, or if there be
+any confusion of the cards or a doubt as to the exact place in which
+the pack was divided, there must be a fresh cut.
+
+34. When the player whose duty it is to cut has once separated the pack
+he can neither re-shuffle nor re-cut the cards.
+
+35. Should the dealer shuffle the cards, after the pack is cut, the pack
+must be cut again.
+
+36. The fifty-two cards shall be dealt face downward. The deal is not
+completed until the last card has been dealt face downward.
+
+37. THERE IS NO MISDEAL.
+
+
+A NEW DEAL
+
+38. There must be a new deal--
+
+_a_ If the cards be not dealt into four packets, one at a time, and in
+regular rotation, beginning at the dealer's left.
+
+_b_ If, during a deal, or during the play of a hand, the pack be proven
+incorrect or imperfect.
+
+_c_ If any card be faced in the pack.
+
+_d_ If any player have dealt to him a greater number of cards than
+thirteen.
+
+_e_ If the dealer deal two cards at once and then deal a third before
+correcting the error.
+
+_f_ If the dealer omit to have the pack cut and the adversaries call
+attention to the fact prior to the conclusion of the deal and before
+looking at their cards.
+
+_g_ If the last card do not come in its regular order to the dealer.
+
+39. There may be a new deal--
+
+_a_ If the dealer or his partner expose a card. The eldest hand may
+claim a new deal.
+
+_b_ If either adversary expose a card. The dealer or his partner may
+claim a new deal.
+
+_c_ If, before fifty-one cards are dealt, the dealer should look at any
+card. His adversaries have the right to see it, and the eldest hand may
+exact a new deal.
+
+_d_ If, in dealing, one of the last cards be exposed by the dealer or
+his partner, and the deal is completed before there is reasonable time
+for the eldest hand to decide as to a new deal. But in all other cases
+such penalties must be claimed prior to the completion of the deal.
+
+40. The claim for a new deal by reason of a card exposed during the deal
+may not be made by a player who has looked at any of his cards. If a new
+deal does not take place, the card exposed during the deal cannot be
+called.
+
+41. Should three players have their right number of cards, and should
+the fourth, not being dummy, have less than thirteen and not discover
+such deficiency until he has played any of his cards, the deal stands
+good; should he have played, he is answerable for any revoke he may have
+made as if the missing card or cards had been in his hand. The other
+pack may be searched for the missing card or cards.
+
+42. If during the play of a deal a pack be proven incorrect or
+imperfect, such proof renders only the current deal void, and does not
+affect any prior score. The dealer must deal again (Law 38, _b_).
+
+43. Anyone dealing with the adversaries' cards must be corrected before
+the play of the first card, otherwise the deal stands good. If anyone
+deals when it is the turn of an adversary, such error must be corrected
+before the cards are dealt for the following deal.
+
+44. A player can neither shuffle, cut nor deal for his partner without
+the permission of his adversaries.
+
+
+DECLARING TRUMPS
+
+45. The trump is declared. No card is turned.
+
+_a_ The dealer may either make the trump or pass the declaration to his
+partner.
+
+_b_ If the declaration be passed to partner, he must make the trump.
+
+46. Should the dealer's partner make the trump without receiving
+permission from the dealer, the eldest hand may demand,
+
+    1st. That the trump shall stand, or
+
+    2d. That there shall be a new deal.
+
+But if any declaration as to doubling, or not doubling, shall have been
+made, or if a new deal be not claimed, the declaration wrongly made
+shall stand. The eldest hand is the player on the left of the dealer.
+
+47. Should the dealer's partner pass the declaration to the dealer it
+shall be the right of the eldest hand to claim a new deal or to compel
+the offending player to declare the trump; provided, that no declaration
+as to doubling has been made.
+
+48. If either of the dealer's adversaries make or pass the declaration,
+the dealer may, after looking at his hand, either claim a new deal or
+proceed as if no declaration had been made.
+
+49. A declaration once made cannot be altered.
+
+
+DOUBLING, RE-DOUBLING, ETC.
+
+50. The effect of doubling, re-doubling, and so on, is that the value of
+each trick above six is doubled, quadrupled, and so on.
+
+51. After the trump declaration has been made by the dealer or his
+partner, their adversaries have the right to double. The eldest hand has
+the first right. If he does not wish to double, he may ask his partner,
+"May I lead?" His partner shall answer, "Yes" or "I double."
+
+52. If either of their adversaries elect to double, the dealer and his
+partner have the right to re-double. The player who has declared the
+trump shall have the first right. He may say, "I re-double" or
+"Satisfied." Should he say the latter, his partner may re-double.
+
+53. If the dealer or his partner elect to re-double, their adversaries
+shall have the right to again double. The original doubler has the first
+right.
+
+54. If the right-hand adversary of the dealer double before his partner
+has asked "May I lead?" the declarer of the trump shall have the right
+to say whether or not the double shall stand. If he decide that the
+double shall stand, the process of re-doubling may continue as described
+in paragraphs 52, 53, 55.
+
+55. The process of re-doubling may be continued indefinitely.[B] The
+first right to continue the re-doubling on behalf of a partnership
+belongs to that player who has last redoubled. Should he, however,
+express himself satisfied, the right to continue the re-doubling passes
+to his partner. Should any player re-double out of turn, the adversary
+who last doubled shall decide whether or not such double shall stand. If
+it is decided that the re-double shall stand, the process of re-doubling
+may continue as described in this and foregoing laws (52 and 53). If any
+double or re-double out of turn be not accepted there shall be no
+further doubling in that hand. Any consultation between partners as to
+doubling or re-doubling will entitle the maker of the trump or the
+eldest hand, without consultation, to a new deal.
+
+56. If the eldest hand lead before the doubling be completed, his
+partner may re-double only with the consent of the adversary who last
+doubled; but such lead shall not affect the right of either adversary to
+double.
+
+    [B] In some clubs, doubling ceases whenever the value of the
+    odd trick exceeds one hundred points; in other clubs the limit is placed
+    at two hundred points.
+
+57. When the question, "May I lead?" has been answered in the
+affirmative or when the player who has the last right to continue the
+doubling, expresses himself satisfied, the play shall begin.
+
+58. Should the eldest hand lead without asking permission, his partner
+may double, but only if the maker of the trump consent.
+
+59. Should the right-hand adversary of the dealer ask permission to
+lead, the eldest hand does not thereby lose his right to double. Should
+the right-hand adversary of the dealer double before his partner has
+asked "May I lead?" the maker of the trump shall have the right to say
+whether or not the double shall stand. If he decide that the double
+shall stand, the process of re-doubling may continue as described in
+Laws 52, 53, 55.
+
+60. If the right-hand adversary of the dealer lead out of turn, the
+maker of the trump may call a suit from the eldest hand, who may only
+double if the maker of the trump consent.
+
+A declaration as to doubling or re-doubling once made cannot be altered.
+
+
+DUMMY
+
+61. As soon as the eldest had has led, the dealer's partner shall place
+his cards face upward on the table, and the duty of playing the cards
+from that hand shall devolve upon the dealer, unassisted by his partner.
+
+62. Before exposing his cards, the dealer's partner has all the rights
+of a player, but after his cards have been shown the dealer's partner
+takes no part whatever in the play, except that he has the right--
+
+_a_ To ask the dealer whether he has none of the suit in which he may
+have renounced.
+
+_b_ To ask the dealer when called upon to play his highest or lowest
+card whether he has conformed to the penalty.
+
+_c_ To call the dealer's attention to the fact that a trick has not been
+completed.
+
+_d_ To correct the claim of either adversary to a penalty to which the
+latter is not entitled.
+
+_e_ To call attention to the fact that a trick has been erroneously
+taken by either side.
+
+_f_ To participate in the discussion of any disputed question of fact
+which may arise between the dealer and either adversary.
+
+_g_ To correct an erroneous score.
+
+63. Should the dealer's partner call attention to any other incident of
+the play, in consequence of which any penalty might be exacted, the fact
+of his so doing precludes the dealer exacting such penalty.
+
+64. If the dealer's partner, by touching a card or otherwise, suggest
+the play of a card from dummy, either of the adversaries may, but
+without consultation, call upon the dealer to play or not to play the
+card suggested.
+
+65. Dummy is not liable to the penalty for a revoke; and if he should
+revoke and the error be not discovered until the trick is turned and
+quitted, the trick stands good.
+
+66. A card from the dealer's hand is not played until actually quitted;
+but should the dealer name or touch a card from the dummy hand, such
+card is considered as played, unless the dealer in touching the card or
+cards says, "I arrange," or words to that effect.
+
+
+CARDS EXPOSED BEFORE PLAY
+
+67. If, after the deal has been completed and before the trump
+declaration has been made, either the dealer or his partner expose a
+card from his hand, the eldest hand may, without consulting with his
+partner, claim a new deal.
+
+68. If, after the deal has been completed and before a card is led, any
+player shall expose a card, his partner shall forfeit any right to
+double or re-double which he otherwise would have been entitled to
+exercise; and in case of a card being so exposed by the leader's
+partner, the dealer may either call the card or require the leader not
+to lead the suit of the exposed card.
+
+
+CARDS EXPOSED DURING PLAY
+
+69. All cards exposed by the dealer's adversaries are liable to be
+called, and such cards must be left face upward on the table.
+
+70. The following are exposed cards:
+
+1st. Two or more cards played at once.
+
+2d. Any card dropped with its face upward, or in any way exposed on or
+above the table, even though snatched up so quickly that no one can name
+it.
+
+3d. Every card so held by a player that his partner can see any portion
+of its face.
+
+71. A card dropped on the floor or elsewhere below the table is not an
+exposed card.
+
+72. If two or more cards be played at once, by either of the dealer's
+adversaries, the dealer shall have the right to call which one be
+pleases to the current trick, and the other card or cards shall remain
+face upward on the table and may be called at any time.
+
+73. If, without waiting for his partner to play, either of the dealer's
+adversaries should play on the table the best card or lead one which is
+a winning card, as against the dealer and dummy, or should continue
+(without waiting for his partner to play) to lead several such cards,
+the dealer may demand that the partner of the player in fault, win, if
+he can, the first, or any other of these tricks, and the other cards
+thus improperly played are exposed cards.
+
+74. If either or both of the dealer's adversaries throw his or their
+cards on the table face upward, such cards are exposed and are liable to
+be called; but if either adversary retain his hand he cannot be forced
+to abandon it. If, however, the dealer should say, "I have the rest," or
+any other words indicating that the remaining tricks are his, the
+adversaries of the dealer are not liable to have any of their cards
+called should they expose them, believing the dealer's claim to be true,
+should it subsequently prove false.
+
+75. If a player who has rendered himself liable to have the highest or
+lowest of a suit called (Laws 82, 91, 92 and 100), fail to play as
+directed, or if, when called on to lead one suit, lead another, having
+in his hand one or more cards of the suit demanded (Law 76), or if
+called upon to win or lose a trick, fail to do so when he can (Laws 73,
+82 and 100), he is liable to the penalty for revoke, unless such play be
+corrected before the trick is turned and quitted.
+
+
+LEADS OUT OF TURN
+
+76. If either of the dealer's adversaries lead out of turn, the dealer
+may call the card erroneously led, or may call a suit when it is the
+turn of either adversary to lead.
+
+77. If the dealer lead out of turn, either from his own hand or dummy,
+he incurs no penalty; but he may not rectify the error after the second
+hand has played.
+
+78. If any player lead out of turn and the other three follow him, the
+trick is complete and the error cannot be rectified; but if only the
+second, or second and third play to the false lead, their cards may be
+taken back; there is no penalty against anyone except the original
+offender, who, if he be one of the dealer's adversaries, may be
+penalised as provided in Laws 60 and 76.
+
+79. In no case can a player he compelled to play a card which would
+oblige him to revoke.
+
+80. The call of an exposed card may be repeated at every trick until
+such card has been played.
+
+81. If a player called on to lead a suit have none of it, the penalty is
+paid.
+
+
+CARDS PLAYED IN ERROR
+
+82. Should the third hand not have played and the fourth play before his
+partner, the latter (not being dummy or dealer) may be called upon to
+play his highest or lowest card of the suit played, or to win or lose
+the trick.
+
+83. If anyone, not being dummy, omit playing to a former trick and such
+error be not corrected until he has played to the next, the adversaries
+may claim a new deal; should they decide that the deal stands good, the
+surplus card at the end of the hand is considered to have been played to
+the imperfect trick, but does not constitute a revoke therein.
+
+84. If anyone (except dummy) play two cards to the same trick, or mix a
+card with a trick to which it does not belong, and the mistake be not
+discovered until the hand is played out, he is answerable for any
+consequent revokes he may have made. If during the play of the hand the
+error be detected, the tricks may be counted face downward, in order to
+ascertain whether there be among them a card too many; should this be
+the case, the trick which contains a surplus card may be examined and
+the card restored to its original holder, who (not being dummy) shall
+be liable for any revoke he may meanwhile have made.
+
+
+THE REVOKE
+
+85. A revoke occurs when a player (other than dummy), holding one or
+more cards of the suit led, plays a card of a different suit. The
+penalty for a revoke takes precedence of all other counts.
+
+86. A revoke is established if the trick in which it occurs be turned
+and quitted, _i.e._, the hand removed from the trick after it has been
+gathered and placed face downward on the table; or if either the
+revoking player or his partner, whether in his right turn or otherwise,
+have led or played to the following trick.
+
+87. The penalty for a revoke is three tricks taken from the revoking
+player and added to those of the adversaries.
+
+88. The penalty is applicable only to the score of the game in which it
+occurs.
+
+89. Under no circumstances can the revoking side score game in that
+hand. Whatever their previous score may have been, the side revoking
+cannot attain a higher score toward game than twenty-eight.
+
+90. A player may ask his partner whether he has not a card of the suit
+which he has renounced; should the question be asked before the trick is
+turned and quitted, subsequent turning and quitting does not establish a
+revoke, and the error may be corrected unless the question be answered
+in the negative or unless the revoking player or his partner has led or
+played to the following trick.
+
+91. If a player correct his mistake in time to save a revoke, any player
+or players who have followed him may withdraw their cards and substitute
+others, and the cards so withdrawn are not exposed cards. If the player
+in fault be one of the dealer's adversaries, the card played in error is
+an exposed card, and the dealer can call it whenever he pleases; or he
+may require the offender to play his highest or lowest card or the suit
+to the trick in which he has renounced.
+
+92. If the player in fault be the dealer, the eldest hand may require
+him to play the highest or lowest card of the suit in which he has
+renounced, provided both adversaries of the dealer have played to the
+current trick; but this penalty cannot be exacted against the dealer
+when he is fourth in hand, nor can it be enforced at all from dummy.
+
+93. At the end of a hand the claimants of a revoke may search all the
+tricks. If the cards have been mixed the claim may be urged and proved
+if possible; but no proof is necessary, and the revoke is established
+if, after it has been claimed, the accused player or his partner mix the
+cards before they have been sufficiently examined by the adversaries.
+
+94. A revoke must be claimed before the cards have been cut for the
+following deal.
+
+95. Should the players on both sides subject themselves to the revoke
+penalty neither can win the game by that hand.
+
+96. The revoke penalty may be claimed for as many revokes as occur
+during a hand; but the accumulated penalty shall in no event exceed
+thirteen tricks. (See Law 7.)
+
+
+GENERAL RULES
+
+97. There should not be any consultation between partners as to the
+enforcement of penalties. If they do so consult, the penalty is paid.
+
+98. Once a trick is complete, turned and quitted it must not be looked
+at (except under Law 84), until the end of the hand.
+
+99. Any player during the play of a trick or after the four cards are
+played and before they are touched for the purpose of gathering them
+together, may demand that the cards be placed before their respective
+players.
+
+100. If either of the dealer's adversaries, prior to his partner's
+playing, should call attention to the trick, either by saying it is his,
+or, without being requested so to do, by naming his card or drawing it
+toward him, the dealer may require that opponent's partner to play his
+highest or lowest card of the suit led, or to win or lose the trick.
+
+101. Either of the dealer's adversaries may call his partner's attention
+to the fact that he is about to lead out of turn, but if he make any
+unauthorised reference to any incident of the play the dealer may call a
+suit from the adversary whose turn it is next to lead.
+
+102. In all cases where a penalty has been incurred, the offender is
+bound to give reasonable time for the decision of his adversaries; but
+if a wrong penalty be demanded none can be enforced.
+
+103. The partner of the eldest hand may inform him that their
+adversaries have incurred a penalty, but may not give any further
+information. Should he suggest the penalty, or demand the enforcement
+of it, such action shall be deemed a consultation, and no penalty can be
+enforced.
+
+
+NEW CARDS
+
+104. Unless a pack be imperfect, no player shall have the right to call
+for one new pack. If fresh cards are demanded, two packs must be
+furnished and paid for by the player who has demanded them. If they are
+furnished during a rubber, the adversaries shall have their choice of
+new cards. If it is the beginning of a new rubber, the dealer, whether
+he or one of his adversaries be the party calling for the new cards,
+shall have the choice. New cards must be called for before the pack is
+cut for a new deal.
+
+105. A card or cards torn or marked must be replaced by agreement or new
+cards furnished.
+
+
+BYSTANDERS
+
+106. While a bystander, by agreement among the players, may decide any
+question, yet he must on no account say anything unless appealed to; and
+if he make any remark which calls attention to an oversight affecting
+the score, or to the exaction of a penalty, he is liable to be called on
+by the players to pay the stakes on that rubber.
+
+
+SPADE CONVENTION
+
+I.--Where players agree "not to play spades" the rule is, that if the
+spade make is not doubled, the hand shall be played where either side is
+20 or over.
+
+II.--If the third hand player ask, "Shall I play?" or should he lead out
+of turn, or should the eldest hand lead without asking permission to
+play, the spade maker may take two on the score or may call a lead and
+require the hand to be played out.
+
+III.--Should the third hand player double before his partner asks
+permission to play, the spade maker may decide whether the double shall
+stand or not; but the hand must be played out.
+
+
+ETIQUETTE
+
+It has been truthfully said that there is no game in which slight
+intimations can convey so much information as that of Bridge. In justice
+to those who, by their manner, give information, it may be stated that
+most of the apparent unfairness at the Bridge table is unintentional.
+Hesitation and mannerisms, however, cannot be too carefully avoided;
+such a breach of etiquette is an offence for which the adversaries have
+no redress except perhaps a refusal to continue the play.
+
+It is obviously a greater fault to take advantage of information thus
+given. A play in your judgment may be perfectly sound, but you leave
+yourself open to criticism if it is in any way contingent on information
+obtained from your partner's manner.
+
+Cultivate uniformity in your style of play; let there be no remarkable
+haste or hesitation in making or passing; try always to use the same
+formula of words, and do not call attention to the score after the cards
+have been dealt.
+
+Remember that any undue hesitancy in regard to doubling will deprive a
+fair-minded partner of the privilege of so doing. Such delays are too
+frequent at spade declarations.
+
+Emphasise no play of your own and show no pleasure or displeasure at any
+other play.
+
+Do not ask to have the cards placed unless it is solely for your own
+information.
+
+It is an offence either to revoke purposely or to make a second revoke
+in order to conceal the first.
+
+The dealer's partner should not call attention to the score nor to any
+card or cards that he or the other players hold, and neither should he
+leave his seat for the purpose of watching his partner's play.
+
+When there is an unusual distribution of the cards, no remarks of any
+kind should be allowed.
+
+After a hand has been played, it may be discussed to the common benefit;
+but the bore who is continually blowing up his partner to show his
+superior knowledge, together with the player who interrupts the game to
+discuss the play, should be ostracised from the card-room. Superiority
+of skill is shown by the play of the cards, not by mannerisms.
+
+It is often difficult to refrain from showing _pleasure_ at the
+accomplishment of a desired purpose, but undue elation is most
+aggravating to the adversaries.
+
+Do not make a dig at the adversaries by confiding to your partner that
+your success was due to an ill-judged play of the opponent.
+
+It is not good form to complain of poor cards, as you imply that the
+adversaries profit by your weak hands and not by their skill.
+
+The better players rarely criticise unless asked to do so; it is usually
+the inexperienced player who offers an astonishing amount of gratuitous
+and unsought-for advice.
+
+Do not tell your partner, after seeing all the cards, what he should
+have done, but think what you would have done in your partner's place.
+Do not criticise at all, but if you must, criticise fairly.
+
+
+
+
+GLOSSARY
+
+
+=Book.=--The first six tricks won by the same partners.
+
+=By-cards.=--The number of tricks won, more than six, or over the "book,"
+is the number "by-cards." For instance, eight tricks are equal to two
+by-cards.
+
+=Card of Re-entry.=--A winning card which will bring into play another
+suit. Sometimes the re-entry is in the suit itself, but when a suit with
+a re-entry is spoken of it means that the re-entry is in another suit.
+
+=Command.=--The best card or cards of a suit. The ability to stop the suit
+at any time.
+
+=Covering.=--Putting a higher card on the trick when not the last player.
+
+=Discarding.=--When unable to follow suit, throwing away some card of
+another suit which is not trumps.
+
+=Doubling.=--Increasing the value of the trick points.
+
+=Doubtful Card.=--Cards which may or may not win the trick. The king is
+led, and you do not know who holds the ace; the king is therefore a
+doubtful card.
+
+=Dummy.=--The player whose cards are exposed on the table. The dealer's
+partner.
+
+=Duplicate.=--A modification in which each hand is played more than once,
+usually in tournaments.
+
+=Echo.=--Playing a higher card before a lower, when no attempt is made to
+win the trick.
+
+=Eldest Hand.=--The player on the dealer's left.
+
+=Established Suit.=--A suit in which the partners can win every trick, no
+matter who leads it.
+
+=Exposed Card.=--Any card which is shown, but is not played to the trick,
+such as two cards played at once, one of which is an exposed card.
+
+=False Cards.=--Playing the ace, holding the king, or any similar attempt
+to conceal the cards held.
+
+=Finesse.=--Any attempt to win a trick with a card which is not the best
+in the hand, nor in sequence with it.
+
+=Forcing.=--Making a player trump a suit which he does not want to trump.
+See Ruffing.
+
+=Fourchette.=--The cards above and below another card. A Q are fourchette
+over the K.
+
+=Fourth-best.=--Counting from the highest card in the suit.
+
+=Going Over.=--Doubling the value of the trick points.
+
+=Guarded Suits.=--A high card so protected by smaller cards that it cannot
+be caught by the adversaries leading higher cards.
+
+=Holding Up.=--Refusing to play the best card of a suit.
+
+=Honours.=--In trumps, the A K Q J 10 of the suit. At no-trump, the four
+aces.
+
+=Leader.=--The first player in any trick.
+
+=Leading Up To.=--Playing a suit with a view to what the fourth hand holds
+in it.
+
+=Leading Through.=--Leading a suit with a view to what the second hand
+holds in it.
+
+=Little Slam.=--Twelve tricks won out of thirteen.
+
+=Losing Card.=--Any card which cannot possibly take a trick.
+
+=Love-all.=--The state of the score before either side has made a point.
+
+=Odd Trick.=--The first trick over the book of six.
+
+=Original Lead.=--The opening of the hand or suit.
+
+=Re-entry.=--See Card of Re-entry.
+
+=Revoke.=--Renouncing, while still holding cards of the suit led.
+
+=Rubber.=--Two out of three games.
+
+=Ruffing.=--Trumping a trick willingly. See Forcing.
+
+=Slam.=--Winning all thirteen tricks.
+
+=Tenace.=--The best and third best of a suit. A and Q are tenace.
+
+=Third Hand.=--The leader's partner.
+
+=Unblocking.=--Getting rid of any card which might stop the run of a long
+suit.
+
+=Weakness.=--Inability to stop a suit.
+
+=Weak Suits.=--Those in which tricks are impossible, or very improbable.
+
+
+
+
+INDEX
+
+
+Aces, second hand, playing, 23
+
+Advantages of discarding strength, 41
+
+Avoid leading certain combinations, 27
+
+Avoid leading trumps, 57
+
+
+Bad red-suit makes, 22
+
+Beating dummy's cards, 43
+
+Black suit declarations, 16
+
+Bridge, duplicate, 97
+
+Bridge for three players, 96
+
+Bridge, laws of, 101
+
+Bridge, progressive, 98
+
+Bystanders, 125
+
+
+Cards played in error, 120
+
+Chicane and double chicane, 7
+
+Choice of seats and cards, 1
+
+Clubs, 16
+
+Combining hands of dealer and dummy, 64
+
+Commanding card, holding up, 54
+
+Conversation of the game, 4
+
+Covering honours with honours, 42
+
+Cutting, 104
+
+Cutting for the right to play, 1
+
+Cutting out, 105
+
+Dealer's play at no-trump, 53
+
+Dealer's play with a declared trump, 45
+
+Dealer's play with a trump, 49
+
+Dealing, 1, 107
+
+Declaration, the, 9
+
+Declaring trumps, 110
+
+Determining value of the rubber, 9
+
+Diamond make, rules for, 16
+
+Diamonds, 14
+
+Different systems of discarding, 39
+
+Discard after showing a suit, 38
+
+Discard, the reverse, 41
+
+Discarding, 38
+
+Discarding, hints on, 41
+
+Discarding strength always, 38
+
+Don't change suits, 48
+
+Don'ts for bridge players, 58
+
+Doubling no-trumpers, 23
+
+Doubling, rules for, 23
+
+Doubling spades, 23
+
+Doubling trick values, 3
+
+Doubling with success, 22
+
+Doubtful no-trumpers, 43
+
+Dummy, 114
+
+Dummy bridge, 64
+
+Dummy's hand and duties, 4
+
+Dummy holding tenaces, 43
+
+Duplicate bridge, 97
+
+
+Echo at no trump, 45
+
+Echo, the, 44
+
+Echo to show you can ruff, 45
+
+Eleven, the rule of, 30
+
+Entry, rights of, 106
+
+Error, cards played in, 120
+
+Estimating value of hands, 22
+
+Examples of original leads, 32
+
+Examples of original makes, 20
+
+Exposing cards before play, 116
+
+Exposing cards during play, 117
+
+
+Finessing, 66
+
+Finessing by the dealer, 57
+
+Finessing on partner's lead, 44
+
+First trick, after the, 34
+
+Forcing the strong trump hand, 35
+
+Forming tables, 104
+
+Fourth-best leads, 30
+
+
+Game, points in the, 2
+
+General rules of play, 123
+
+Giving partner information, 29
+
+Glossary, 130
+
+Going over, 111
+
+Good suits to lead, 29
+
+Guarded suits, meaning of, 12
+
+
+Hand, estimating value of, 22
+
+Heart contention, 26
+
+Hearts, 13
+
+Hearts instead of no-trump, 13
+
+Hearts led at double no-trump, 26
+
+Hearts, rules for make, 14
+
+High cards, second hand, 43
+
+Hints for discarding, 41
+
+Holding a combination, 56
+
+Holding up the command, 55
+
+Honours are a separate score, 2
+
+Honours, value of, 7
+
+Honours when there is trump, 7
+
+Honours when there is no trump, 7
+
+
+Illustrative hands, 73
+
+Importance of good makes, 10
+
+Importance of the score, 9
+
+Inferences, 62
+
+Inferring what dealer holds, 48
+
+
+Judgment in the makes, 10
+
+
+Keeping command of a suit, 73
+
+
+Laws of bridge, 101
+
+Lead when partner has doubled, 25
+
+Leading aces first, 29
+
+Leading from three honours, 29
+
+Leading from weakness to strength, 34, 56
+
+Leading high cards, 27
+
+Leading red suits instead of black, 51
+
+Leading short suits, 36
+
+Leading through strength, 56
+
+Leading to partner's suit, 48
+
+Leading trumps, 46
+
+Leading up to weakness, 31
+
+Leading weak suits, 51
+
+Leads out of turn, 117
+
+Letting the weak hand ruff, 47
+
+Longest suit should be played first, 54
+
+
+Makes, examples of original, 20
+
+Makes, passed, 19
+
+Making the trump, 10
+
+Making up the table, 1
+
+Mannerisms, 59
+
+Memory, 60
+
+Method of scoring, 6
+
+Misdeals, none in bridge, 2
+
+
+New cards, 125
+
+New deal, 108
+
+Non-dealer's play against a declared trump, 27
+
+Non-dealer's play at no-trump, 47
+
+Non-dealer's play, second hand, 42
+
+Non-dealer's play, third hand, 43
+
+No-trump declaration by dealer, rules for, 12
+
+No-trump makes, 10
+
+
+Object of leading through strength, 56
+
+Object of the game, 2
+
+Opening leads at "no-trump," 50
+
+Opening leads, examples of, 32
+
+Original lends against a declared trump, 28
+
+Original leads in no-trump, 52
+
+Original leads with a trump, 28
+
+Original makes, examples of, 20
+
+Original no-trump makes, 17
+
+
+Partner doubles, suit to lead, 22
+
+Partner's suit, leading to, 49
+
+Passed makes, 19
+
+Placing aces, second hand, 43
+
+Placing cards by eleven rule, 30
+
+Play of the cards, 4
+
+Players, number of, 1
+
+Playing your suit, not partner's, 49
+
+Points in the game, 2
+
+Preventing revokes, 6
+
+Probable value of partner's hand, 11
+
+Progressive bridge, 98
+
+Protection, or guarded suits, 12
+
+Protecting suits and honours, 42
+
+
+Rank of cards in cutting, 1
+
+Rank of cards in play, 4
+
+Redoubling trick values, 3, 4
+
+Re-entry cards, 77
+
+Returning partner's suits, 48
+
+Reverse discards, 41
+
+Revoke, the, 121
+
+Revoke, to prevent a, 6
+
+Rights of entry, 106
+
+Rubber, the, 101
+
+Rubber points added, 2
+
+Ruff before leading trumps, 83
+
+Rules for discarding, 38, 41
+
+Rules for doubling, 23
+
+Rules for finessing, 59, 66
+
+Rules for forcing, 35
+
+Rules for inferences, 62
+
+Rules for leading short suits, 36
+
+Rules for leading trumps, 46
+
+Rules for no-trump makes, 12
+
+Rules for passed makes, 19
+
+Ruled for playing to the score, 9
+
+
+Score-sheet, how used, 8
+
+Scoring, 6, 101
+
+Scoring, knowledge of, 9
+
+Scoring, method of, 8
+
+Second-hand play, dealer and dummy, 65
+
+Second-hand plays, 67
+
+Seeing dummy's hand, 27
+
+Short suits, when to lead, 36
+
+Shuffling, 107
+
+Shuffling the still pack, 1
+
+Slams and their value, 7
+
+Spade makes, defensive, 17
+
+Spades, 16
+
+Specimen score-sheet, 8
+
+Suggestions for doubting, 23
+
+Suggestions for the non-dealer, 63
+
+
+Table of honour values, 7
+
+Table of leads at no-trump, 52
+
+Tables, forming, 104
+
+Taking the lead, 54
+
+Three-handed bridge, 96
+
+Trick values, table of, 3
+
+Trump, declaring the, 3
+
+Trump, the, 102
+
+Trumps, avoid leading, 57
+
+Trumps, declaring, 110
+
+Trumps, how made, 5
+
+Trumps, leading, 46
+
+
+Unblocking, 53
+
+
+Value of any hand, 22
+
+Value of partner's hand, 11
+
+Value of trumps you hold, 23
+
+
+Weak no-trump makes, 21
+
+Weakness, leading up to, 31
+
+Weak suits at doubled no-trump, 31
+
+Weak-suit convention, 25
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Bridge; its Principles and Rules of Play, by 
+J.B. Elwell
+
+*** END OF THIS PROJECT GUTENBERG EBOOK BRIDGE ***
+
+***** This file should be named 38000.txt or 38000.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/8/0/0/38000/
+
+Produced by Chuck Greif and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This book was
+produced from scanned images of public domain material
+from the Google Print project.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

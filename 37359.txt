@@ -1,0 +1,2417 @@
+Project Gutenberg's Motor Truck Logging Methods, by Frederick Malcolm Knapp
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Motor Truck Logging Methods
+       Engineering Experiment Station Series, Bulletin No. 12
+
+Author: Frederick Malcolm Knapp
+
+Release Date: September 8, 2011 [EBook #37359]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MOTOR TRUCK LOGGING METHODS ***
+
+
+
+
+Produced by Harry Lame, Greg Bergquist and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/American Libraries.)
+
+
+
+
+
+
+
+
+
+  +-------------------------------------------------------------------+
+  |                                                                   |
+  |                      Transcriber's Notes:                         |
+  |                                                                   |
+  |* Words printed in italics in the original document are represented|
+  |  here between underscores, as in _text_; bold text is similarly   |
+  |  represented between =, as in =text=. Small caps in the original  |
+  |  have been converted to ALL CAPITALS.                             |
+  |* Some of the tables have been laid out differently than in the    |
+  |  original book, with every effort made to keep the original data  |
+  |  and meaning unchanged.                                           |
+  |* All inconsistencies in spelling, lay-out, hyphenation, etc. in   |
+  |  the original document have been preserved in this text, except   |
+  |  when mentioned below.                                            |
+  |* Changes made to the original text:                               |
+  |  * page 5: 'and the used of' changed to 'and the use of';         |
+  |  * page 13: 'distance, is it, of course' changed to 'distance,    |
+  |    it is, of course';                                             |
+  |  * page 13: 'four year depreciation' changed to 'four-year        |
+  |    depreciation';                                                 |
+  |  * page 16: 'twisting the the rubber' changed to 'twisting of     |
+  |    the rubber';                                                   |
+  |  * page 26: 'page --' changed to 'page 25';                       |
+  |  * page 39: 'plank' changed to 'planks';                          |
+  |  * page 39: 'is handy' changed to 'is a handy';                   |
+  |  * page 46, table: 'A.M.' moved down one row, similar to 'P.M.'   |
+  |    further down in the table;                                     |
+  |  * Table of Contents: page number '4' changed to '5' (2 changes); |
+  |  * Table of Contents: 'Loading and Hauling' changed to 'Loading   |
+  |    and Unloading' as in text;                                     |
+  |  * Table of Contents: 'Fires' changed to 'Tires' as in text.      |
+  |* Footnotes have been moved to directly below the paragraph or     |
+  |  table to which they refer.                                       |
+  |* Other issues:                                                    |
+  |  * Page 33 contained a reference to an illustration on page 40,   |
+  |    but this page has no illustration. The reference has been      |
+  |    changed to 'page 38', which is probably the illustration the   |
+  |    author intended.                                               |
+  |  * Both 'Meicklejohn and Brown' and 'Meickeljohn and Brown' occur |
+  |    in the text, as do 'Hillard' and Hilliard'.                    |
+  |                                                                   |
+  +-------------------------------------------------------------------+
+
+
+
+
+The Engineering Experiment Station of the University of Washington was
+established in December, 1917, in order to coordinate investigations in
+progress and to facilitate the development of engineering and industrial
+research in the University. Its purpose is to aid in the industrial
+development of the state and nation by scientific research and by
+furnishing information for the solution of engineering problems.
+
+     The scope of the work is twofold:--
+
+     (a) To investigate and to publish information concerning
+     engineering problems of a more or less general nature that would
+     be helpful in municipal, rural and industrial affairs.
+
+     (b) To undertake extended research and to publish reports on
+     engineering and scientific problems.
+
+The control of the Station is vested in a Station Staff consisting of
+the President of the University, the Dean of the College of Engineering
+as ex-officio Director, and seven members of the Faculty. The Staff
+determines the character of the investigations to be undertaken and
+supervises the work. For administrative purposes the work of the Station
+is organized into seven divisions--
+
+  1. Forest Products
+  2. Mining and Metallurgy
+  3. Chemical Engineering and Industrial Chemistry
+  4. Civil Engineering
+  5. Electrical Engineering
+  6. Mechanical Engineering
+  7. Physics Standards and Tests
+
+The results of the investigations are published in the form of
+bulletins. Requests for copies of the bulletins and inquiries for
+information on engineering and industrial problems should be addressed
+to the Director, Engineering Experiment Station, University of
+Washington, Seattle.
+
+
+
+
+  BULLETIN
+
+  UNIVERSITY OF WASHINGTON
+
+  ENGINEERING EXPERIMENT STATION
+
+  ENGINEERING EXPERIMENT STATION SERIES
+
+  BULLETIN NO. 12
+
+  MOTOR TRUCK LOGGING METHODS
+
+  BY
+
+  FREDERICK MALCOLM KNAPP
+
+  Student in the College of Forestry,
+  University of Washington.
+
+  [Illustration]
+
+  SEATTLE, WASHINGTON
+  PUBLISHED QUARTERLY BY THE UNIVERSITY
+  APRIL, 1921
+
+  Entered as second class matter, at Seattle, under the Act of
+  July 16, 1894.
+
+
+
+
+CONTENTS
+
+
+                                                                    Page
+
+  INTRODUCTION                                                         5
+
+  HISTORY OF TRUCK LOGGING                                             5
+  First use of motor truck in logging--Development of logging
+  trailer--Possibilities in the use of motor trucks.
+
+  TRANSPORTATION OF LOGS--RAILROADS VERSUS MOTOR TRUCKS                7
+  Comparative advantages and uses of motor trucks and railroads--
+  Relative cost of road construction--Advantage of flexibility of
+  motor trucks.
+
+  COSTS                                                                8
+  Operating costs of a typical 5-ton truck--Actual cash outlay--
+  Total expense--Variable charges--Recapitulation of work
+  performed.
+
+  ROLLING STOCK EQUIPMENT                                             10
+  Rigid versus flexible truck bodies--Chain drive versus worm
+  drive--Weight of trucks--Speed--Depreciation.
+
+  INSURANCE                                                           14
+  Fire and theft insurance--Collision insurance--Liability
+  insurance--Property damage insurance.
+
+  TRUCK EQUIPMENT                                                     14
+  Bunks--Tires--Relative advantages of different types of  tires
+  --Laws governing operation of motor vehicles--Legal limit of
+  weight of load--Chain drives--Tops.
+
+  TRAILERS                                                            17
+  Draw-bar pull of motor trucks--Effect of grades on draw-bar
+  pull--Advantage of trailer--Description of trailer--Brakes on
+  trailer--Air brakes on trailers.
+
+  LIFE AND DEPRECIATION                                               20
+
+  COST DATA                                                           20
+  Operating expenses for 31/2 and 5-ton trucks--Fixed charges--
+  Total expenses.
+
+  ROAD CONSTRUCTION                                                   24
+  Sub-grade--Cross-plank roads--Fore and aft pole roads--Cement
+  roads--Guard rails--Cost of road construction.
+
+  BRIDGES                                                             36
+
+  TURNING DEVICES AND TURNOUTS                                        37
+  Construction of turn-tables--Turning of trucks.
+
+  TELEPHONES                                                          39
+
+  INCLINES                                                            39
+  Snubbing methods--Practicability of inclines.
+
+  YARDING                                                             41
+
+  LOADING AND HAULING                                                 41
+  Methods of loading trucks--Loading with boom--Rigging of
+  boom--Unloading.
+
+  TIME STUDIES                                                        45
+
+  CONCLUSION                                                          46
+  Future use of the motor truck--Motor trucks and forestry.
+
+  BIBLIOGRAPHY                                                        48
+
+
+
+
+INTRODUCTION
+
+
+In this paper an attempt has been made to bring together some useful
+facts concerning the application of the motor truck to the logging
+industry. The term "motor truck" as here used is applied to the ordinary
+truck type of motor vehicle with trailer adapted to carrying logs, and
+does not include the "tractor" and the "caterpillar tractor." These
+latter types present special problems of their own. In the following
+pages the discussion of motor truck logging is premised upon conditions
+as they exist in the forests of the Pacific Northwest.
+
+
+
+
+HISTORY OF TRUCK LOGGING
+
+
+Motor trucks in the logging industry are a comparatively recent
+development. As nearly as can be determined, the first use of a truck in
+a logging operation was made in this region by Palms and Shields near
+Covington, Washington, in the spring of 1913. Since that time various
+types of road construction suitable for heavy trucks have been devised
+and the use of the motor truck for logging has steadily increased until
+at the present time there are about six hundred trucks operating in the
+woods in the Northwest.
+
+The first real progress in the use of the motor truck for logging
+purposes came with the development of the trailer. Although the motor
+truck has been brought to its present high state of perfection in
+eastern factories the problem of adapting it to the hauling of massive
+logs was solved in Seattle, Washington, with the perfecting of a trailer
+which could carry unprecedented loads and stand up under the speed
+attained by a motor truck. In the early attempts to design a trailer,
+it was found that too great tractive effort on the part of the truck
+was required if the trailer was patterned after older types with
+simply increased dimensions in all of its parts. Through successive
+improvements the modern form of heavy duty trailer was finally evolved.
+It has solved a serious problem by permitting the hauling of heavier
+weights with the aid of the trailer than is possible with the use of the
+truck alone. With the help of the trailer and an adjustable reach, the
+motor truck has successfully entered the logging field.
+
+In the Pacific Northwest tracts of timber of sufficient area well
+situated for economical logging by old established methods are no longer
+plentiful. Almost every logging chance which exists today presents its
+own peculiar conditions and individual problems. An operator must
+therefore analyze the situation thoroughly before arriving at a decision
+as to the most economical logging methods that will apply in any
+particular case. Even in different sections of the same operation it is
+often necessary to use different methods. Since proper cost accounting
+systems are not usually kept by logging companies, particularly the
+smaller concerns, these companies often do not know that they are losing
+money upon one part of an operation because the success of the whole
+absorbs this loss.
+
+[Illustration: Pioneer logging with a motor truck in 1913.]
+
+The use of a motor truck has proved to be practicable in many instances,
+and bids fair to become of increasing importance. It will therefore
+be advantageous for every operator to inquire into its possible
+applications. It should be emphasized, however, that the motor truck is
+not economically adapted to all conditions. There have been many
+failures. Each projected application of the motor truck in the logging
+field must be thoroughly analyzed and if a doubt as to its successful
+performance exists, expert advice should be sought.
+
+
+
+
+TRANSPORTATION OF LOGS--RAILROADS VERSUS MOTOR TRUCKS
+
+
+The principal methods of transporting logs are by rail, by motor truck
+and by animal power. The last of these methods is, for obvious reasons,
+impracticable in the Northwest, and so needs no further comment. While
+it is impossible to give specific details in a general discussion of
+this kind to show where the motor truck may be more economically suited
+to the conditions at hand than the railroad, a comparison of the
+fundamental principles involved should enable any operator familiar with
+logging to determine whether or not to use the truck for his particular
+chance.
+
+In general the choice between railroad and motor truck logging depends,
+fundamentally, upon two things: (1) comparative cost, and (2)
+adaptability. Sufficient motive power and rolling stock can be obtained
+much more cheaply for motor truck logging than for a railroad. There
+are, of course, many situations where the locomotive and car costs, as
+well as those of constructing a logging railroad, are obviously
+prohibitive, and the question revolves entirely upon the adaptability of
+the motor truck to existing conditions. There is no question at all that
+the logging railroad is not adapted to small, isolated and scattering
+tracts, and to certain portions of larger operations. There are almost
+innumerable tracts situated close to public highways, or where temporary
+roads can be built, which may be very serviceable during the summer
+months, giving ample time to clean up the timber before wet weather sets
+in. In such instances, road construction and maintenance costs are of
+very minor importance. In the larger operations and in the use of the
+motor truck as an auxiliary to railroad logging, there are many
+opportunities for the reduction of logging costs. However, it is
+impossible to discuss these problems specifically in a paper of this
+kind. They will need to be worked out on the ground with each case as a
+distinct problem. The fundamental problems covered in this paper will
+serve as a basis for the more detailed problems that must be solved on
+the ground.
+
+Wherever the item of road construction is important, it may be stated in
+general that the time required and the cost of building roads for motor
+trucks are very much less than for a logging railroad. This is due to
+the lesser importance of grades, curves, ballasting, bridges and other
+construction work, all of which is much cheaper and takes less time. In
+case a pole road is built the material found adjacent to the right of
+way can be utilized for what it costs to fell it.
+
+From the standpoint of adaptability the motor truck is very flexible. It
+can operate on grades and curves that are impossible with the railroad.
+The whole logging equipment, including the donkey engine, can be loaded
+on the truck and trailer and easily moved from one setting to another.
+By replacing the log bunk with a platform the truck can take out all the
+smaller marketable material, such as shingle bolts, poles and cordwood.
+The modern truck can also be provided with the necessary equipment for
+use in snaking out the logs in stands of small timber and when used with
+a winch and an "A" shaped boom, will load itself. If the truck becomes
+mired in a mud hole, the winch may be used to pull it out. Finally, the
+item of fire risk is practically negligible.
+
+
+
+
+COSTS
+
+
+In order to arrive at definite figures as a basis for a comparison
+between railroad and motor truck transportation costs, the following
+case is cited as an example representing average good conditions:[1] A
+5-ton truck with trailer was used, operating on a seven and one-half
+mile haul over ordinary unpaved roads. An average of four trips a day
+were made and the actual running expense for hauling was $.901/2 per
+thousand feet. Adding to this the overhead expenses of interest,
+depreciation, etc., the total cost of hauling was $1.44 per thousand
+feet. The statement of this cost is as follows:
+
+
+ACTUAL CASH OUTLAY IN HAULING 128,420 BOARD FEET OF LOGS
+
+  Gasoline, 284 gallons @ $.19                   $53.96
+  Oil, 3 gallons @ $.60                            1.80
+  Oil, 201/2 gallons @ $.45                          9.23
+  Incidentals--One electric light globe             .35
+    Hardware                                       4.03
+    Blacksmith                                     3.00
+  Driver, 11 days @ $4.00                         44.00
+                                               --------
+                  Total                         $116.37
+
+128,420 feet @ $116.37, or $.901/2 per thousand feet.
+
+  [1] West Coast Lumberman. Nov. 1, 1916, page 266. Labor, gas and oil
+      have since advanced in cost.
+
+
+TOTAL EXPENSE OF HAULING 128,420 BOARD FEET OF LOGS
+
+  Investment:
+    Chassis                        $4,900.00
+    Trailer                           700.00
+                                  ----------
+    Total Investment               $5,600.00
+
+
+VARIABLE CHARGES
+
+  Gasoline, 284 gallons @ $.19                           $53.96
+  Oil, 3 gallons @ $.60                                    1.80
+  Oil, 201/2 gallons @ $.45                                  9.23
+  Tires, $.071/2 per mile on 615 miles                      46.12
+  Incidentals                                              7.43
+                                                        -------
+                    Total variable charges              $118.54
+
+  Depreciation  (based on 15% per annum on $5,600, less
+    $560, the cost of the tires, or $5,040.00)            $1.349
+  Interest on amortized value at 7%                         .63
+  Storage, $5.00 a month                                    .20
+  Driver @ $4.00 a day                                     4.00
+                                                        --------
+                   Total fixed charges                    $6.179
+
+  Total variable charges                          $118.54
+  Total fixed charges at $6.179 a day for 11 days   67.97
+                                                  -------
+                  Total cost                      $186.51
+
+128,420 board feet of logs @ $186.51, or $1.44 per 1000 feet.
+
+
+Following is a recapitulation of the work performed by a 5-ton logging
+truck, Jan. 20 to Jan. 31, 1916, inclusive. The logs were hauled from
+O'Neill's Camp on the Bothell-Everett road 71/2 miles and dumped into Lake
+Washington at Bothell.
+
+
+   Date    Trips   Mileage  No. Ft. Hauled   Gas Used   Oil Used
+
+  1/20/16    4       60        10,768           30       2.25
+  1/21/16    4       60        11,888           24       2.25
+  1/22/16    4       60        11,707           30       2.25
+  1/23/16 Did not haul. Roads in bad condition.
+  1/24/16    4       60         8,894           34       2.25
+  1/25/16    2       30         5,200           16    [2]1.00
+  1/26/16    4       60        16,174           29       2.25
+  1/27/16    4       60        11,276           25       2.25
+  1/28/16    4       60        15,514           26       2.25
+  1/29/16    4       60        15,511           31       2.25
+  1/30/16    3       45         9,152           20    [3]2.25
+  1/31/16    4       60        12,336           19       2.25
+            --      ---       -------          ---      -----
+   Total    41      615       128,420          284      23.50
+
+  [2] Freight truck in the ditch. Four hours lost getting the road
+      cleared.
+
+  [3] Two hours lost at the landing due to a spring slipping out of
+      place, which made it necessary to unload and load again.
+
+
+Many loggers who have used both the steam railroad and the motor truck
+claim that the latter is preferable in some cases and often is the only
+method by means of which logs can be gotten to the mill at a reasonable
+cost. Where the stand is scattered and of poor quality, the building of
+a railroad is not practical. In such a case the motor truck may offer
+the only solution.
+
+The motor truck makes the best showing when hauling from one "side."
+With a two or three side operation the railroad is by far the more
+practical. It must be remembered, however, that the railroad and the
+motor truck are not competitors in the logging industry--they are
+allies.
+
+
+
+
+ROLLING STOCK EQUIPMENT
+
+
+In general two plans are followed in building a motor truck. The first
+is to build a rigid truck so that it will resist all shocks and
+distortions that come from rough and uneven roads. The second plan is to
+build a flexible body so that the chassis will "give" rather than resist
+when subjected to hard strains. Although the rigidly-built truck may be
+entirely satisfactory for most forms of trucking, it is practically
+impossible to build one on the rigid principle that will stand up under
+the heavy strains to which a logging truck is subjected unless it is to
+be operated over good paved roads. When only ordinary unpaved public
+roads are available, flexibility is one of the most important
+characteristics to look for when selecting a truck. Where the operator
+is hauling over his own pole or plank road this consideration does not
+play so important a part, as the road bed then is more likely to be free
+from holes and irregularities.
+
+All makes of trucks are more or less alike in general construction,
+differing only in minor details, so that the personal whims of the buyer
+will largely determine the kind he will select. It is advantageous to
+have as long a distance as possible between the driver's seat and the
+bunk over the rear axle, in order to allow more of the load to be
+carried by the truck, and less by the trailer, giving better traction to
+the drive wheels, but necessitating extra strong rear springs and axles.
+
+The type of power transmission best suited to the use of the logging
+truck is a question that has received a great deal of attention. There
+are three general methods of transmitting the power: (1) by chain; (2)
+by worm drive, and (3) by internal gear drive. Each has its advantages.
+It is claimed by many that the chain drive saves many hours of
+"shut-down time" due to the fact that if anything breaks in the
+transmission, it will be a link in the chain as this is the weakest
+point. It is then only a matter of a few minutes to insert another link.
+With the worm driven vehicle, a break in the transmission requires an
+expensive shut-down before the matter can be repaired. The worm drive,
+on the other hand, very seldom breaks if proper care is used.
+
+The chain drive also allows the replacement of the sprocket with one of
+a larger or smaller diameter thereby giving a higher or lower gear
+ratio, which cannot be done with the worm gear. This seems to be of some
+advantage to an operator when changing his setting from one with a short
+haul and steep grades where a low gear ratio is required, to one where
+the haul is long and fairly level, and where speed in transit is an
+advantage.
+
+On the other hand, in starting on slippery grades or wherever the
+traction is poor, the worm drive will give better traction than a chain
+drive because there is difficulty in taking up the slack that is always
+present in the chain before letting in the clutch fully. The slightest
+jerk given to the wheels when the slack is taken up is likely to cause
+them to spin, thereby losing all the tractive power of the drive wheels.
+In the worm gear there is no slack to take up and the power can be
+applied more gradually, thus reducing the chances of spinning the wheels
+and losing the traction.
+
+The question of the weight of the truck used for logging purposes is not
+as important now as it will be in the future. Laws are being passed in
+nearly every state limiting the maximum weight to be carried on each
+wheel by trucks using state or county roads so that the total weight of
+the truck without load will be important. When operating over state or
+county roads the load is limited to from 2400 to 3000 feet, B. M., of
+Douglas fir, depending upon the locality. In such cases, it is an
+advantage to have a lighter truck, say one of 31/2 tons capacity. By
+adding additional leaves to the rear springs of a truck of this capacity
+it may be made to carry a larger load than it would be possible to put
+on a 5-ton truck and still comply with the law. The pulling power of the
+31/2-ton truck and the 5-ton truck is practically the same so that the
+difference in dead weight between the two may be carried in a profitable
+manner by adding four or five hundred feet B. M. of logs. Another
+advantage of the lighter weight truck is _speed_. The 31/2-ton truck is
+geared to make from 14 to 16 miles an hour, while the 5-ton truck is
+usually limited to from 10 to 12 miles an hour.
+
+Whenever the legal weight limit does not enter into the problem, as in
+operating over a pole or plank road for the entire distance, it is, of
+course, advantageous to carry the largest loads possible. In such cases
+a 5-ton truck with an 81/2-ton trailer is the most profitable investment.
+This allows a much larger load to be carried in proportion to the
+overhead charges. The disadvantage of the 5-ton truck is that it is very
+heavy and unless the roads are good, it will easily sink into the ground
+and cause trouble. A common fault of the 5-ton truck today is the
+overweight of the front end, which is too heavy for the width of tire on
+the front wheels. This can be very easily overcome by the use of wider
+tires.
+
+
+
+
+LIFE AND DEPRECIATION
+
+
+The life of a truck is directly proportional to the care that it
+receives, hence, a good driver is a most important consideration. If the
+right man can be secured his wages should be a secondary consideration.
+
+The charge to be made for the depreciation of a truck is an uncertain
+question. Some loggers figure on the basis of four and a half years,
+others on as much as seven years. The depreciation charge on a truck
+used in the logging industry should depend largely upon the type of road
+over which it is operated. Loggers in general over-rate the life of
+their equipment because they do not fully realize the severity of the
+work. Over a fore and aft plank road or a cement road, where the jar and
+vibration are reduced to a minimum, the wear and tear on the equipment
+is very much less than where the truck is operated over a cross-plank
+road or an unpaved public road. The matter of depreciation, then, will
+depend largely upon the type of road over which the truck is to operate.
+In general a four-year depreciation charge less 25% sale value at the
+end of that time should be used as a basis for figuring costs unless the
+hauling conditions are very favorable. Only under very rare
+circumstances should more than four years be allowed. It should be
+remembered that the depreciation on a truck is very heavy during the
+first year, and the sale value at the end of a year is only half the
+original price. Many truck operators now hauling over good roads who are
+depreciating on the basis of five years say that a four-year
+depreciation would be more nearly correct. Another factor in favor of a
+four-year depreciation charge is that methods of logging are changing
+constantly and that trucks in that time may be improved upon to such an
+extent that the use of the old equipment would be unprofitable and
+inefficient.
+
+[Illustration: Swivel bunk on truck equipped for motor truck logging.
+The base on which the bunk rests is made of two heavy timbers about 18
+inches by 24 inches in section and 4 feet long, bolted together and
+clamped to the frame of the truck by means of heavy N-bolts, (D). The
+bunk is fastened by a king-pin (E) to the base and is free to rotate
+upon a steel center plate and two side-bearing plates (F).]
+
+
+
+
+INSURANCE
+
+
+The insurance rates on trucks depend upon the use to which they are put.
+The insurance usually carried by loggers covers fire and theft, although
+some companies also carry liability and either collision or property
+damage insurance. The equipment can be insured for only ninety per cent
+of its value.
+
+Fire and theft insurance is based upon the list price of the truck and
+body when new and the usual premium for the logging truck is one dollar
+for every hundred dollars of insured value. Theft rates on the trailer
+are based on a flat charge of twenty-five cents per hundred dollars of
+insurance taken, regardless of age, list price, etcetera.
+
+Collision insurance is based upon the list price of the equipment and
+covers full value at the time of loss of the damage to the truck by
+colliding with anything movable or immovable.
+
+The liability rate for logging trucks is $33.75 and is based upon
+occupation alone. This covers the public as well as the employee and is
+limited to $5,000 for one person and $10,000 for two persons or more.
+
+The property damage rate for logging trucks is $13.50, and covers the
+damage done to the property of others. It is arrived at in the same way
+as liability insurance. The usual limit for property damage is $1,000.
+
+
+
+
+TRUCK EQUIPMENT
+
+
+_Bunks._ All trucks for use in log hauling are equipped with a patent
+bunk over the rear axle on which the logs rest (see illustration on page
+13). This is essentially a steel I-beam (A) which grips the logs so that
+they will not slip. At each end of the bunk are V-shaped iron
+chock-blocks (B) held by chains which run under the I-beam and are
+fastened by an iron gooseneck hook (C) so that the load is kept from
+spreading. These blocks may be adjusted to any width of load. The whole
+bunk is mounted on a swivel so that it will turn with the logs when
+rounding a sharp turn in the road. When dumping the logs at the landing,
+each block is loosened from the opposite side so that the danger of the
+logs rolling off on the men is greatly lessened.
+
+_Tires._ Solid rubber tires are generally conceded to be the best suited
+for the heavy duty required in logging. The use of steel tires is
+rapidly declining. The jar on the equipment is in itself enough to
+condemn their use. Rubber tires double the mileage of a day's work, more
+than double the life of the equipment, allow the weight of the equipment
+to be cut in half, and work well on dirt, cement, or any other type of
+road. The saving on the life of a pole or plank road by the use of
+rubber tires is also an item of considerable importance. There are three
+general types of solid rubber tires in use on the logging truck: the
+so-called giant tires, the duals, and the non-skid or caterpillar tires.
+It is a question as to which of the three is the best. Traction for the
+drive wheels and also for the trailer wheels, if the latter are equipped
+with brakes, is the problem to be solved.
+
+The duals are satisfactory with light loads and easy grades, on cement,
+brick, or other perfect surface road, but when the haul is heavy and the
+braking difficult on account of heavy grades, the larger single-tread
+giant tires are more efficient. During dry weather it is safe to work
+with the single-tread tires on grades as high as nine or ten per cent,
+but in wet weather a seven per cent grade should be the maximum unless
+some extra means are taken to secure traction, and even then the wheels
+will skid if particles of soil get on the surface of a plank road,
+unless chains are used or the wheel is wrapped with a light cable.[4]
+For very heavy-duty trucking, where resiliency and long service are
+prime considerations, the giant type is rapidly superseding the old dual
+type as the former contains more rubber and gives more mileage with the
+least truck vibration.
+
+  [4] West Coast Lumberman. October, 1919. Page 25.
+
+The non-skid or caterpillar tire may well be used on heavy grades or
+where the traction is very poor, the general opinion being that it gives
+a firmer grip on the road and makes it safer to handle the truck in wet
+weather.
+
+There is no standard width of tread for truck wheels. The widths usually
+used on the drive wheels of the logging truck and the wheels of the
+trailer are twelve and fourteen inches, respectively. The use of tires
+of smaller width on either trailer or truck cannot be recommended. The
+wider the tires on the trailer, the better it is both for the life of
+the equipment and for ease in handling the load. When the surface of the
+giant tires becomes worn down so that the grooves become very shallow,
+it is desirable to have the tires re-grooved. They will last a great
+deal longer if this is done and will also give better traction on the
+road. The groove makes the tire lobes act separately on the uneven
+places in the road so that only one lobe is subjected to the strain of
+the irregularities instead of the whole tire. This is also true with
+reference to the strains that are set up internally due to the twisting
+of the rubber.
+
+
+     LAWS GOVERNING THE OPERATION OF MOTOR VEHICLES
+
+     The Laws governing the operation of motor vehicles upon the
+     public highways of the State of Washington are contained and
+     summarized in Senate Bill No. 220, Session of 1921 of the
+     Legislature of the State of Washington. They include the
+     following provisions governing the operation of motor trucks and
+     trailers:
+
+     (a) Chapter 153 of the laws of 1913 and Chapter 142 of the laws
+     of 1915 are repealed.
+
+     (b) Motor truck vehicles weighing less than 1,500 pounds must pay
+     an annual license fee of ten dollars ($10.00); Trucks weighing
+     more than 1,500 pounds and not to exceed 6,500 pounds, ten
+     dollars ($10.00) plus forty cents per hundredweight for all in
+     excess of 1,500 pounds and in addition thereto fifty cents per
+     hundredweight at the rated carrying capacity. Motor trucks
+     weighing more than 6,500 pounds must pay a license fee of ten
+     dollars ($10.00) plus fifty cents per hundredweight for all in
+     excess of 1,500 pounds and in addition thereto fifty cents per
+     hundredweight at the rated carrying capacity. Trailers =used as
+     trucks= shall be classified and rated as, and shall pay the same
+     fees as hereinbefore provided for motor trucks of like weight and
+     capacity.
+
+     (c) No vehicle of four wheels or less whose gross weight with
+     load is over 24,000 pounds is permitted to operate over or along
+     a public highway. Any vehicle having a greater weight than 22,400
+     pounds on one axle, or any vehicle having a combined weight of
+     800 pounds per inch-width of tire concentrated upon the surface
+     of the highway (said width of tire in the case of solid rubber
+     tires to be measured between the flanges of the rim) is also
+     barred by the provisions of this law, with the following
+     exception:
+
+     PROVIDED, that in special cases vehicles whose weight including
+     loads whose weight exceeds those herein prescribed, may operate
+     under special written permits, which must be first obtained and
+     under such terms and conditions as to time, route, equipment,
+     speed and otherwise as shall be determined by the director of
+     licenses if it is desired to use a state highway; the county
+     commissioners, if it is desired to use a county road; the city or
+     town council, if it is desired to use a city or town street; from
+     each of which officer or officers such permit shall be obtained
+     in the respective cases. Provided, that no motor truck or trailer
+     shall be driven over or on a public highway with a load exceeding
+     the licensed capacity.
+
+
+_Chain Drive._ Trucks equipped with a chain drive should be supplied
+with an extra set of chains so that they may be changed and cleaned
+every week. To clean the chains, they should be soaked in kerosene which
+removes the dirt, grease and gum that has accumulated. By doing this the
+life of the chains will be quadrupled. The small amount of time that it
+takes will pay.
+
+_Top._ The truck should come equipped with a top over the driver's seat
+that is easily detachable. In bad weather the driver should be protected
+from the elements, but the top should be removed in good weather as it
+is in constant danger of being broken during loading. Many operators
+leave the top off entirely and the driver must dress for the weather. A
+good demountable top will add to the comfort of the men and often helps
+to keep a good man at his job.
+
+
+
+
+TRAILERS
+
+
+The development of the trailer has made motor truck logging practical.
+Every truck has greater tractive power than it can utilize in the
+propulsion of the ordinary load. Its limitations are due to a short-bulk
+carrying capacity and not to any lack of pulling power. The ordinary
+truck has a draw-bar pull of 2600 pounds. The draw-bar pull per ton of
+load varies from the minimum of 50 pounds on a level pavement to 250
+pounds on a level dirt road, depending upon the character of surface.[5]
+Twenty pounds of additional pull are required for each degree of
+gradient. For example, a fore and aft plank road offers a resistance of
+about 60 pounds pull to a ton of load. If this were located on a seven
+per cent grade, it would require a 60 pound pull to overcome the load
+resistance plus seven times twenty or 140 pounds additional pull for the
+grade, a total of 200 pounds to pull one ton. Dividing 2600, the
+draw-bar pull of the truck, by 200, the resistance offered by road and
+grade, gives 13 tons as the load that can be pulled by the truck over
+this surface and grade. As this must include the weight of the trailer,
+which when equipped for logging is about three tons, it leaves a total
+of 10 tons that the truck can pull. This is equivalent to about 3000
+feet B. M. of Douglas fir logs, the average load that is hauled. While
+such an adverse grade as cited in this illustration is avoided if
+possible with a loaded truck, the illustration will serve to show the
+pulling capacity of the truck. The hauling of loads of this size would
+be impossible without the use of the trailer. The normal load, then, may
+be increased two, three, or even four times, by the use of the trailer,
+over the maximum load that can be carried by the truck alone.
+
+  [5] Operating Cost of Motor Truck Computed. Timberman. Feb., 1918.
+      Page 60.
+
+Objection to the trailer that it tends to shorten the life of the truck
+is hardly worth consideration. According to a careful analysis it has
+been estimated that the use of the trailer does not shorten the life of
+the truck by more than one year, which is of little consequence when the
+saving due to the size of the load that can be carried is taken into
+consideration.
+
+_Description of the Trailer_: The frame of the trailer is constructed of
+heavy steel channel bars which support the twin bunks used for logging,
+and for the substructure to carry the body when used for other service.
+The steel frame is supported by semi-elliptic springs held by shackles
+similar to those of the truck. The springs rest securely upon the axle,
+are clamped to it by U-bolts, and are relieved from side stresses by
+radius rods which connect the axle to the frame.
+
+The trailer is coupled to the truck by a reach which is passed through
+guides secured to the hounds of the trailer. The latter may slide upon
+the reach and is held in the desired position with reference to the
+truck by means of clamps. The hounds are located fore and aft of the
+axle and are connected to it by steel plates. The square reach is more
+favored generally by loggers than the round type for the reason that it
+can be more easily adjusted, particularly the round reach that is cut in
+the woods, which is irregular and has to be clamped very tightly in
+order to make it stay in place. Holes bored through the square reach
+makes the adjustment easy. Combination steel and wood reaches, the sides
+being of channel iron and the center of wood, are favored by some
+operators.
+
+The twin bunks of the trailer carry the load in balance upon the axle
+independent of the reach, thereby relieving the reach of all vertical
+stress. (See illustration below). The rear bunk is just an ordinary
+wooden affair designed only to help support the weight of the logs. The
+front bunk is of the same construction as the one on the truck
+(described above) and serves to hold the load in place.
+
+[Illustration: Type of trailer adapted for heavy Pacific coast logging.]
+
+The trailer is guided through the reach directly to the axles, thus
+relieving the springs and frame from side stresses. The springs and
+their suspension from the frame permit a limited movement of the frame
+and the load independent of the wheels and axles and vice versa. This
+enables the wheels to pass over an obstruction or drop into a hole
+without subjecting the trailer to shocks that would otherwise ensue.
+
+Other types of trailers are used to a limited extent. The trailer
+described above was evolved by local engineers and is in almost
+universal use in motor truck logging operations.
+
+_Brakes._ All trailers should be equipped with brakes when negotiating
+heavy grades. A device connecting the trailer brakes to the truck
+permits a ready control from the driver's seat on the truck. The brake
+outfit is easily attached to the truck and consists of a ratchet and
+lever which winds a one-quarter inch cable on a small drum. The cable
+winds around a second drum which is attached to the frame of the truck
+about six feet back of the driver's seat. A third drum in the center of
+the chassis attached to the shaft of the second drum winds a cable which
+goes to an equalizing bar just in front of the trailer brake. As the
+ratchet and drum are tightened, the motion is transmitted through the
+second and third drums to the equalizing bar. Two arms extend from this
+bar to roads which when pulled forward, move a bar attached to the road
+in such a way that the brake band in the inside of the brake shoe is
+extended against the shoe, applying the brakes evenly to each wheel no
+matter how uneven the road-bed or how sharp the curve. A spring attached
+to the reach clamp pulls back the equalizing bar when the brakes are
+released. A heavy spring on the drum in the center of the shaft on the
+truck allows for curves so that an even pressure is always maintained.
+
+The use of a trailer equipped with brakes will do away with the numerous
+devices for snubbing a load of logs down a grade not steeper than twelve
+per cent. Grades up to this degree of steepness are safe to operate over
+in dry weather without added braking power if the trailer is properly
+equipped.
+
+A simple and it is claimed an effective air brake for motor trucks and
+trailers is now being marketed by an air-brake concern of San Francisco
+but it has not yet been tried out in the logging industry. "Braking
+action is secured by means of a diaphragm and pressure plate. The
+diaphragm is directly connected to the brake-band lever. No air
+compressor is used in this system. A small air receiver or storage tank
+takes the spent gases from one of the cylinders by utilizing the outlet
+afforded by a priming cock. The brakes are applied by a control system
+mounted on the steering column. By means of a quickly adjusted hose
+connection, air can be applied to the wheels of the trailer using the
+control which governs the braking of the truck. The air pressure in the
+storage tank is automatically maintained by means of an accumulator
+valve which closes when the tank pressure reaches 150 to 175 pounds. If
+the tank should be empty at the top of a long grade, sufficient pressure
+is generated by the compression of the engine to operate the brakes.
+Opening the throttle to full emergency position will apply maximum
+braking effect without sliding the wheels."[6]
+
+  [6] Air Brakes for Trucks. Timberman. March, 1920. Page 48g.
+
+This system has not been tried out under the conditions as found in the
+woods but if it can be made to work satisfactorily it will be a big
+improvement over the old system as the driver will then have
+instantaneous control over the load at all times.
+
+
+
+
+LIFE AND DEPRECIATION
+
+
+The life of the trailer is about the same as that of the truck, and in
+depreciation, a period of four years is usually allowed. The maintenance
+and upkeep of the trailer is very low. It rarely gives out and with the
+ordinary usage requires only a few minor repairs every two or three
+years.
+
+
+
+
+COST DATA
+
+
+The items of expense are here segregated in such a manner that they may
+be used as a basis for figuring the cost of hauling logs under average
+conditions. These costs are for the truck and trailer as a unit. If a
+road has to be built, the overhead charge of the road per thousand feet
+of timber hauled over it together with the cost of upkeep must be added
+to the figures given below in order to know the total cost of
+transportation per thousand feet.
+
+
+3000 FOOT CAPACITY, OUTFIT COMPLETE
+
+The following figures are for a 31/2-ton logging truck with a 5-ton
+trailer. The figures are based upon a 275 working day year.
+
+  Cost of equipment (as a basis)                                $6700.00
+      Less resale value at expiration of 4 years at
+        25% of the original cost                     $1675.00
+      Less cost of tires,
+        2--36" x 6"           $140.50
+        4--40" x 12"           776.00                  916.50
+                            --------                 --------
+         Total                $916.50                $2591.50    2591.50
+                                                                --------
+                 Basis for computing                            $4108.50
+
+
+RUNNING EXPENSES PER MILE
+
+                                                                Per Mile
+  Tires, based on a cost of $916.50 and a life of 8000 miles     $ .1145
+  Gasoline, four miles to a gallon @ $ .28 per gal.                .07
+  Oil and grease                                                   .02
+  General repairs                                                  .03
+                                                                --------
+        Total running expenses per mile                          $ .2345
+
+
+FIXED CHARGES PER 275 WORKING DAY YEAR
+
+  Depreciation, based on 25% per year on $4108.50              $1027.12
+  Interest on money invested at 6% (figured on truck less
+      cost of tires)                                             347.01
+  Driver at $7.00 a day                                         1925.00
+  License                                                         27.00
+  Insurance, Fire, Theft and Liability based on $1 a hundred
+    on 90% of the value of the new truck for fire and theft,
+    and a flat rate of $33.75 for liability                       90.75
+                                                                -------
+  Total fixed charges for 275 day year                         $3416.88
+  Total fixed charges per day                                     12.418
+
+
+TOTAL EXPENSES
+
+                                 30      40      50       60      70
+                                miles   miles   miles    miles   miles
+  Uniform variable charges     $7.035  $9.38  $11.725   $14.07 $16.415
+  Fixed charges                12.418  12.418  12.418   12.418  12.418
+  Total charges (per day)      19.453  21.798  24.143   26.488  28.833
+  Total cost per mile, loaded
+    one way only                 .648    .545    .482     .441    .412
+  Total cost per 1000 ft. per
+    mile with 3000 ft. to the
+    load                         .216    .181    .160     .147    .137
+
+
+4000 FOOT CAPACITY, OUTFIT COMPLETE
+
+The following figures are for the 5-ton logging truck equipped with an
+81/2-ton trailer, based on a 275 working day year:
+
+  Cost of equipment (as a basis)                          $7600.00
+  Less resale value at expiration of four years
+    at 25% of original cost                     $1900.00
+  Less cost of tires:
+
+  2--36-in. x 6-in            $140.50
+  4--40-in. x 14-in            923.00
+                             --------
+    Total                    $1063.50            1063.50
+                                                --------
+                                                $2963.50   2963.50
+                                                          --------
+                Basis for computation                     $4636.50
+
+
+RUNNING EXPENSES PER MILE
+
+                                                               per mile
+  Tires, based on cost of $1063.50 and a life of 8000 miles       $.129
+  Gasoline, 31/2 miles to the gallon @ $.28 per gal.                 .08
+  Oil and grease                                                   .02
+  General repairs                                                  .035
+                                                                 ------
+                  Total running expenses per mile                 $.264
+
+
+FIXED CHARGES PER 275 DAY YEAR
+
+  Depreciation, based upon 25% per year on $4636.50           $ 1157.13
+  Interest on money invested at 6% (figured on equipment
+    less cost of tires)                                          392.19
+  Driver at $7.00 a day                                         1925.00
+  License                                                         27.00
+  Insurance, fire, theft and liability, based on $1 a hundred
+    on 90% of the value of the new truck for fire and
+    theft, and a flat rate of $33.75 for liability               101.75
+                                                                -------
+                  Total fixed charges for 275 day year         $3603.07
+                  Total fixed charges per day                     12.92
+
+
+TOTAL EXPENSES
+
+                                       30       40       50       60
+  Uniform variable charges per        miles    miles    miles    miles
+    mile $.247                       $ 7.92   $10.56   $13.20   $15.84
+  Fixed charges per day               12.92    12.92    12.92    12.92
+  Total charges per day               20.84    23.48    26.12    28.76
+  Total cost per mile loaded one way
+    only                                .694     .587     .522     .479
+  Total cost per 1000 feet per mile
+    with a 4000 foot load               .173     .146     .130     .119
+
+
+The above costs will be found to be approximately correct for average
+operations. They will vary somewhat with the road conditions, loads,
+grades, and the efficiency of the driver. These variations, however,
+will be slight. They will not amount to more than one cent per thousand
+feet per mile of haul. The investment pays the owner six per cent and
+provides renewals for all time. The interest charge is based on the
+total cost of the equipment less the cost of the tires. The tire cost is
+deducted in figuring the interest charges because this item is covered
+under running expenses. The resale value of the truck at the end of four
+years is not deducted from the interest charge, because this sum is tied
+up for that length of time. Renewal for the equipment is taken care of
+by the creation of a sinking fund based on an average life of four
+years. Theoretically, on a 5-ton truck, $1157.13 is put aside each year
+for four years at the expiration of which time the aggregate of these
+savings together with the resale value of $1900, automatically provides
+for the purchase of new equipment.[7]
+
+  [7] Timberman. Feb., 1918. Page 60.
+
+A fifty-mile haul may be used as an illustration for figuring the total
+running expense of the 5-ton truck. This means that the truck makes
+trips enough to total fifty miles for the day's run. The cost per mile,
+including gasoline, oil and repairs is 26.4 cents. It will, therefore,
+cost $13.20 for the fifty miles. To this amount must be added $12.92,
+daily overhead charge, making a total of $26.12 for fifty miles traveled
+or 52.2 cents a mile. With an average load of four thousand feet the
+cost will be 13.0 cents per mile per thousand feet. A glance at the
+table will show that the greater the mileage and the larger the load,
+the less will be the overhead expense and consequently the cost per mile
+per thousand feet. To these items must be added the cost and maintenance
+of the road if one has to be built.
+
+
+
+
+ROAD CONSTRUCTION
+
+
+The question of the kind of road for hauling logs with the motor truck
+is a very important one. It is impossible to move a fifteen-ton load day
+in and day out unless there are good roads, and no motor truck operation
+of reasonably large proportions can be successfully maintained without a
+road that is well constructed and which will not give way during any
+kind of weather, under the loads that are carried. One cannot
+successfully and continuously operate on dirt or even gravel roads as
+they are good only when dry. Good roads are as important to the motor
+truck operator as the railroad is to the transportation of logs by rail.
+
+The big handicap in motor truck logging in the past has been poor roads.
+The same man who will survey, grade, carefully lay and ballast the steel
+for a logging railroad will many times put a truck and trailer on a poor
+dirt road and expect the truck to haul economically and satisfactorily.
+A motor truck will haul over some mighty poor apologies for roads but it
+does not pay. A good road is an excellent investment. It makes larger
+loads and more trips a day possible, will save on tires and repairs, and
+will require less gasoline to the mile; the efficiency and output will
+be increased and the time and operating costs will be decreased.
+
+[Illustration: Sub-grade for motor truck logging road.]
+
+There have been some very successful operators who have secured a small
+body of timber at a low price on a public road who made the motor truck
+pay without building a road. This method of logging in a small way will
+continue to be carried on by small operators who will haul only during
+three seasons of the year or even less. However, the big future for the
+motor truck for logging is in the larger tracts of timber where it would
+not pay to put in a railroad but where a good type of motor truck road
+can be built cheaply and loads as large as the truck can handle be
+carried with no road restrictions as to the weight.
+
+In general four types of roads are used by loggers: (1) the cross-plank
+road, (2) the fore and aft pole road, (3) the fore and aft plank road,
+and (4) the cement road. The puncheon road is a modification of the fore
+and aft plank road and will be taken up with the latter. The methods and
+cost of construction, the advantages and the disadvantages of these
+various types of roads follow in detail.
+
+_Sub-Grade_: The sub-grade is put in the same way for each type of road.
+The average width of the truck is seven feet and six inches, calling for
+a road about eight and a half feet wide, so that the sub-grade should be
+twelve feet in width. An illustration of the amount of grading necessary
+is shown on page 25. Too much care cannot be taken in the matter of
+ditches for draining. In a rainy climate, the water should be carried
+away from the hill side of the grade every fifty feet.
+
+_Cross-Plank Road_: The cross-plank road is constructed by laying cull
+ties on hewn poles lengthwise of the road. Three rows, four feet apart
+are used and second grade ten foot plank, six inches thick and of random
+widths, are securely nailed to the ties. Great care must be taken to
+have the ties laid fairly smooth if the road is to be even. Plank less
+than six inches in thickness should not be used as the thinner ones very
+soon crack and go to piece under the excessive jar and vibration.
+
+This is a very expensive road to build as it wastes material. Six
+thousand feet of lumber is necessary for every hundred foot station, at
+a cost of $222 a station for the material alone, without considering the
+cost of laying it. The maintenance cost also is very heavy because the
+nails pull out as a result of the vibration caused by the truck. This
+type of road is used only over short stretches, such as swampy ground
+in connection with the dirt road, and on steep grades and sharp turns in
+connection with the pole or plank road.
+
+The Esary Logging Company at Camano Island, Washington, put in a
+cross-plank road for a short distance on a sharp curve and a steep
+grade, to see how it would affect the traction. It was found that cross
+planking was not necessary on curves where the grade is ten per cent or
+less when coming down with a load, providing trailer brakes are used. In
+the future the company will not use this type of road unless grades
+above this maximum are encountered. It is impossible to lay a
+cross-plank road smoothly because the stringers settle and make the road
+bumpy. The resulting jar on the equipment and the fact that these
+stretches have to be taken at a much reduced speed, furnish ample reason
+to condemn its use.
+
+The only real use for a cross-plank road is to secure better traction on
+grades exceeding ten or twelve per cent, and then it should be laid with
+a space of about one inch between the planks. Even in such cases it
+would be better to use some other method for securing traction, such as
+sanding the track or winding the drive wheels with a light cable. The
+waste of material and the excessive vibration limit the use of this type
+of road.
+
+_Fore and Aft Pole Road._ In the fore and aft pole road, poles from
+twelve to fourteen inches in diameter are hewn on one or more faces and
+laid longitudinally with the road, with one or more logs for each wheel
+track. This type of road is commonly used by motor truck loggers and is
+one that lends itself readily to their use. It is the most practical
+road that can be built unless there is a small saw-mill handy to saw
+planks for the fore and aft plank road. The smaller material growing
+along the right of way is used at an expense of only what it costs to
+fell it, hew it and put the poles in place. Hemlock poles may be used to
+advantage.
+
+Some operators use the single large pole placed on cross-ties eight or
+ten feet apart and use lighter eight-inch poles placed on the outside
+for a guard rail to keep the truck from leaving the track. The main pole
+is laid in a ditch about eight inches deep, leaving it half buried. This
+helps to keep the poles from spreading and increases their firmness and
+strength. The pole is notched into the cross-ties, which are made of
+logs not less than eight inches in diameter, and is securely nailed or
+bolted to prevent it from rolling. The outside guard rail is laid on
+the surface of the ground close to the main track and is securely braced
+from the outside by means of posts sunk into the ground or it may be
+spiked to the main pole or to the ties. When running with the trailer on
+this narrow type of road, the guard rail is very necessary.
+
+After the poles have been laid, the sub-grade should be ditched in the
+center deep enough to carry away the water that falls in the middle of
+the road. The success of the road depends to a large extent upon good
+drainage.
+
+The Meicklejohn and Brown Logging Company near Monroe, Washington,
+operate over a pole road with three poles for each wheel. The poles are
+from ten to twelve inches in diameter at the small end and are hewn to a
+six inch face, giving an eighteen inch bearing surface for each wheel.
+(See illustration on page 29.) The minimum sized pole that should be
+used for roads of this character is one eight inches in diameter at the
+small end. The road is constructed the same way as the single pole road
+and the poles are laid on cross ties twelve inches in diameter placed
+from eight to ten feet apart. Where the road is off the ground as when
+crossing over a small depression, these sleepers must not be over five
+feet apart. The guard rails at this operation are held in place by means
+of a wooden brace nailed from each end of the rail to a near-by stump.
+The ends of the poles used for the track are adzed so that they match
+evenly. By breaking the joints and hewing them the road presents a level
+surface with no bumps.
+
+In planning the curves, it is necessary to make the tracks somewhat
+wider than on straight stretches in order to keep the trailer from
+running off. The track should be three feet wide on sharp curves and
+provided with a stout guard rail if there is any danger of the truck
+leaving the track. The curves are banked on the opposite side from that
+used on railroad curves. That is, the inner rail is raised about three
+inches. This is to throw the load to the outside away from the inner
+guard rail, making it easier to make the turn without the rear wheels
+binding. In this way a 35 degree curve may be negotiated with forty or
+fifty foot logs. As the curves have to be passed at a much reduced
+speed, there is little danger of the logs rolling off due to the raised
+inner rail.
+
+The grading for a road of this construction is usually light. The grades
+should, if possible, be kept below five per cent. A truck will operate
+better on a ten per cent grade in dry weather than on a five per cent
+one in wet weather. On a road of this type, grades up to ten per cent
+can be operated over unless there is snow. When the grades are above
+this and the weather is wet, traction still may be secured by sanding
+the road or by tacking an old half inch steel cable to the road in the
+form of a figure "s". If this is sanded in addition, the truck may
+safely be taken up a steeper grade than it would be safe to bring it
+down without sanding.
+
+The pole road could be greatly improved by hewing the faces of the poles
+where they come together side by side so that an even fit is made. The
+details of this improved form of construction are shown in figure 1,
+page 30.
+
+[Illustration: The most common type of motor truck logging road--a
+fore-and-aft pole road.]
+
+[Illustration: Figure 1. Cross section of pole road. Scale--1 inch
+equals 2 feet.]
+
+At the present time this is not done and there are one or more ruts in
+the surface of the road due to the rounding off of the poles where they
+are placed side by side. The front wheels of the truck are constantly
+dropping into these ruts, tending to spread the track apart and making
+it harder for the driver to steer. The tires also suffer from uneven
+wear. With this deep groove in the track, a certain amount of the
+traction of the rear wheels is also lost. Hence a much better road would
+be one with the inner faces of the poles hewn so that a tight fit is
+secured.
+
+This road can be built of two large poles or three smaller ones to give
+a flat track two and a half feet wide for each wheel. Laid nearly flush
+with the ground the guard rail can be eliminated with this width of
+track, except on sharp curves and other locations where there would be
+danger if the truck left the track. On such a road the traction will
+also be increased, better time can be made, the truck will be easier to
+steer and hence safer to operate, and there will be less wear on the
+tires. Such a road can be very easily and cheaply built by bringing in a
+portable sawmill and slabbing the material on two sides to the desired
+face.
+
+The life of a good pole road is from three to four years if kept in good
+repair. The maintenance cost is very light if the road is properly
+constructed in the first place, consisting chiefly in removing a pole
+here and there that shows signs of too much wear, and in bracing guard
+rails where they weaken. The use of two or three hewn poles laid
+lengthwise for each wheel without cross-ties does not pay as the poles
+soon get out of place even when trenched, and the loss of traction due
+to the irregularities and of time and money in the upkeep of such a road
+more than justifies putting in a good road in the first place.
+
+The cost of a fore and aft pole road varies with the accessibility of
+the material and the cost of the labor. In the past they have been built
+for as low as $2000 a mile, but with the present prices costs will range
+from $5000 to $7000 a mile. One company within the year contracted the
+grading and construction of the road for $70 a hundred foot station, not
+including the cost of clearing and chunking out the right of way. The
+total cost was about $125 a station or $6600 a mile.
+
+Some of the advantages of the pole road are that it is tough and strong
+and does not crack, split or break easily so that if it is properly put
+in it lasts and requires but little maintenance. The material for its
+construction is found along the right of way and being small in diameter
+is less expensive than other road materials.
+
+_Fore and Aft Plank Roads._ This type of road is constructed by placing
+cross-ties from eight to ten feet apart, center to center, upon which
+are placed lengthwise for each wheel, two or three sawed timbers not
+less than six inches in thickness and from twelve to fifteen inches in
+width. A good road of this type will deliver 150 million feet of logs at
+a conservative estimate.
+
+The grading is usually light and in many places entirely unnecessary.
+Second-grade six by eight ties with the eight inch face placed down, or
+hewn poles are laid about eight feet apart. Where the road bed is soft,
+the ties are placed closer and in some places as near as two and a half
+feet apart. Over very swampy ground, the road known as the fore and aft
+puncheon road is used. It consists simply of cedar puncheon placed
+crosswise of the road with the usual planking nailed securely to it. The
+plank used should never be less than six inches in thickness in the main
+road as it has been proved that four inch plank very soon give way under
+the heavy loads. On the spur lines it is practicable to use four inch
+plank because the road is used only a short time.
+
+The total width of the road is eight feet and the plank are laid on top
+of the ground, but if they are sunk nearly to the level of the ground
+the road is made considerably more firm and enduring, and of course is
+safer. The ends are adzed smooth to present an even surface,
+drift-bolted to the ties, and all joints broken.
+
+The plank in the track are kept together by means of a three by four
+inch timber driven tightly between the tracks on top of the cross-ties
+at each joint, and a block nailed to the outside of the tie at each
+joint with a wedge-shaped piece of wood driven between it and the plank.
+(See illustration on page 33.) This wedge is driven in from time to time
+as occasion may demand. If, in addition to this construction, dirt or
+gravel is filled in the center to the level of the track, the road is
+made very solid.
+
+[Illustration: Fore-and-aft plank road with wedges on cross ties to
+facilitate the re-aligning of the planks.]
+
+With a good road of this type and a bearing surface of thirty inches,
+the trouble and expense of a guard rail may be eliminated. When a light
+truck is used for a small body of timber such a wide and heavily
+constructed road is not practical. In this case, a four inch plank with
+a fifteen inch surface and an eight inch pole for a guard rail would be
+used. Here again the track must be made wider on the sharp curves, often
+as wide as three and a half feet. Usually, the inner rail is made wider
+than the outer one. On very sharp curves the track may have to be
+planked solid to keep the trailer from running off. By sawing out chips
+from one-half to one inch wide two-thirds of the way through the plank,
+and about six feet apart on the inner side, a long plank may be bent
+around quite a sharp curve. The ties, of course, should be placed so as
+to allow the cut sections of the plank to rest squarely on them. This
+does away with the short pieces and so strengthens the track.
+
+The company logging at Camano Island, Washington, operates over a road
+of this type, an illustration of which is shown on page 38. The
+difficulties encountered in the construction of this particular road
+were very considerable as a cut through very hard shale, in some places
+as much as seven feet, was necessary. The maintenance on this road is
+heavier than is usual. Two men are employed to work on it continually.
+The work consists of blocking up the loose ties and plank, making any
+necessary repairs and keeping sand and gravel on the steep grades. The
+cost of this work is good insurance as it keeps the road in the best of
+condition at all times and saves on other operating expenses.
+
+[Illustration: Detailed view of fore-and-aft plank road, showing method
+of wedging.]
+
+_Cost._ The first cost of a road of this type is high but it more than
+pays in the long run if a large body of timber is to be hauled over it.
+The timber used in its construction amounts to about 160 thousand feet
+per mile. Second grade material can be used at a cost of approximately
+$5,500 a mile for the plank. The total cost per mile varies from $6,000
+to $8,000. The plank road at Camano Island cost $20,000 for two and
+three-quarter miles, which includes the cost of the plank, the grading
+and labor of putting the plank in place. This is at the rate of about
+$7,275 a mile, or approximately $138 a hundred foot station. The
+overhead charge for the road at this operation is $.75 a thousand feet
+of timber hauled over it. Plank roads of lighter construction have been
+built for $4,000 a mile. The length of life is about the same as that of
+a pole road, three to four years.
+
+The fore and aft plank road is one of the best roads that can be put in
+where the timber is of sufficient quantity to justify the expense. The
+big advantage is the speed that can be made and the saving in the
+equipment. Such a road is very free from bumps and the jar and vibration
+on the truck is no greater than on a city pavement. The depreciation on
+a truck depends to a great extent upon the road operated over. With the
+above type, depreciation on the truck will not be less than five years.
+In addition, tire mileage will be double that obtained over a pole road,
+and the gasoline and repair expense will be very materially cut. Owing
+to the very small vibration, a load of logs can be brought to the
+landing as fast as it is safe to let the truck glide on a down grade.
+Speeds as high as 20 miles an hour can easily be taken without excessive
+vibration. The traction is greater on this type of road than it is on
+the pole road, due to the greater bearing surface. Traction on grades up
+to 12% is easily secured by sanding the plank.
+
+_Concrete Roads._ Concrete has been suggested as an ideal road material.
+However, up to the present time, loggers have not been very enthusiastic
+about this type of road on account of the cost of construction, which is
+somewhat more expensive than the other types of roads, and on account of
+the permanence of the finished road which is beyond that needed. To the
+writer's knowledge, there is no company operating in the Northwest over
+a concrete road of their own building. In the future such roads may be
+used to a limited extent on the main haul by companies which have
+operations extending over at least a five year period. The spur roads
+will probably always be of some other material.
+
+In building such roads two tracks of concrete, one for each wheel are
+provided. The sub-grade should be well ditched in the center with cross
+ditches every fifty feet, as is done with the pole road. It has been
+suggested that the ditches holding the track be six inches deep and
+twenty-six inches wide. They are filled to the top with concrete and
+built with a lip four inches high and four inches wide along the outside
+on top of the main surface to serve as a guard rail. No forms are
+necessary except for the guard lip.
+
+A word of caution here may not be amiss. Concrete roads of this nature
+must be regarded as only experimental, for no specific data are
+available for determining the proper section of concrete to be used for
+carrying heavy loads on so narrow a bearing surface. It is evident that
+the carrying capacity of such strips of concrete would be greatly
+affected by the character of the sub-base. It will therefore be
+impossible to specify a standard that can be used under all conditions.
+
+The use of the concrete guard rail is one of the disadvantages of this
+road. The edges of the rail cannot be made rounding except by special
+forms and the rubbing of the tires against this rough surface would
+greatly reduce the tire mileage. In addition, the rail is so exposed to
+weather and hard wear that it cannot be relied upon to serve effectively
+for any great length of time. The placing of forms is also a
+considerable item of expense in building such a road. A method which
+would eliminate such an expense and at the same time provide a more
+practical rail would be an advantage.
+
+[Illustration: Figure 2. Cross section of concrete road. Scale--1 inch
+equals 2 feet.]
+
+It has already been said that guard rails are unnecessary with a thirty
+inch track except on sharp curves and otherwise dangerous places.
+However, where rails are necessary the wooden rail fastened by bolts
+embedded in the concrete as illustrated above, is quite effective and
+readily installed. This consists of a four by six inch plank placed on
+edge and drift-bolted to the concrete every three to five feet by a
+three-quarter inch bolt. These bolts are placed in the concrete when it
+is poured and should be embedded six inches. This will provide a rail
+less expensive to build than a concrete rail and one which will last
+longer and save on tires. Replacements are easily made by removing the
+nuts and placing a new plank in place of the old. With a guard rail of
+this type, there is left a twenty-six inch track for the wheels to run
+in.
+
+Experiments by W. D. Pence (Journ. West. Soc. Eng. Vol. VI, 1901, Page
+549) on 1:2:4 concrete give an average value of 0.0000055 inches per
+degree Fahrenheit for the coefficient of expansion. The richer the
+concrete, the greater the change in dimension. Due to the expansion, in
+laying the concrete the track must be broken every twenty-five or thirty
+feet by placing a half-inch board in the ditch when the concrete is
+being filled in. Later this board is removed and the joint filled with
+asphalt so that the concrete may expand without danger of cracking the
+road.
+
+_Cost._ The best mix to use in building this road is what is known as
+the 1:21/2:5. For one cubic yard of concrete, the following amounts of
+materials will be used for the above mix: 1.21 barrels of cement, 0.46
+cubic yards of sand, and 0.92 cubic yards of stone. At the present
+prices, the cost for the materials for this road is about twenty cents a
+cubic foot or about $4,400 a mile. The total cost of the road including
+the necessary grading, ditching and labor, will be from $7,000 to $9,000
+per mile.
+
+One of the big advantages of the concrete road is the large gain in
+traction secured when operating on steep grades. A motor truck will haul
+up a twelve per cent and down a fifteen per cent grade in wet weather on
+concrete due to the roughened surface on which the tires do not easily
+slip. This, of course, would be dangerous to attempt on the other types
+of roads. Another advantage is the small item of upkeep necessary. A
+road well laid in the first place should need no repair except to
+replace worn guard rails as they show signs of weakening. The concrete
+road, however, will not be generally used except on the mainline by the
+larger concerns, or for short distances on steep grades where greater
+traction is desired.
+
+
+
+
+BRIDGES
+
+
+In most cases the construction of bridges is unnecessary on account of
+the steep grades the trucks can take and because they can negotiate
+sharp curves, which make it easier to avoid expensive bridge work.
+Where they are absolutely necessary a serviceable bridge is made of
+cribwork.
+
+The Esary Logging Company of Camano Island, Washington, operates over a
+crib bridge 175 feet long and 15 feet high. The sub-structure of this
+bridge is made of logs laid alternately crosswise in tiers. Six by
+twelve inch plank are laid diagonally on the cribbing and four by twelve
+inch plank are placed on crosswise to the road on top. This makes a
+bumpy surface. A better one could be made with cross-ties placed on the
+cribbing with fore and aft planking on top. A guard rail is placed on
+all bridges.
+
+Short bridges up to eighty or ninety feet in length are constructed by
+the use of two large logs hewn flat on the upper surface. The logs
+should be at least thirty-six inches in diameter and perfectly sound.
+They are placed at the proper gauge and the regular road on cross-ties
+constructed on top. On such short stretches this type of bridge has been
+operated over without supports. It is not used, however, for long
+stretches. The long bridges are, of course, constructed of bents or
+piling but are very seldom used in connection with motor truck
+transportation on account of the expensive construction and because they
+are usually unnecessary.
+
+
+
+
+TURNING DEVICES AND TURNOUTS
+
+
+When the truck and trailer reach the place where they are to be loaded,
+some method must be used to turn them around. Various means are used to
+accomplish this. One is the motor truck turn-table. The turn-table
+should be slightly longer than the length of the truck and trailer
+combined. It is constructed of heavy plank and timbers so that each
+track is about 16 inches wide and tapers in thickness from about 14
+inches at the center to 4 inches at the ends. The two tracks are held
+together at the center and each end by heavy timbers. A heavy timber is
+sunk to the level of the road and at the center two circular saws are
+laid. A king bolt through the center brace of the turn-table and through
+the two saws into the sunken timber provides a pivot upon which the
+table turns. When properly balanced and with a little oil between the
+surfaces of the saws, the turn-table can be operated by hand with very
+little effort. It is usually placed at the end of the road. A turn-table
+can be loaded on the truck and trailer when it is desired to move it, so
+that as the road is extended into the timber, a means of turning the
+truck can be obtained close to the point where the logs are to be
+loaded. This device can be built at a cost of from $75 to $125 and is
+very serviceable. The main objection to its use is that the setting has
+to be just right to make it work satisfactorily and it is sometimes
+difficult to get a spot that is level enough. It is always a difficult
+problem and a different one for each set-up.
+
+The use of the "back around" is more common with truck loggers at
+present because it is easier to build. The back-around is simply a
+pocket or short spur along the road above the landing ground which is
+planked solid. The truck and trailer are backed into this far enough so
+that the truck can pull ahead in the opposite direction. This method of
+turning the truck requires only a little extra clearing and grading and
+is less expensive and more easily constructed than a turn-table.
+
+[Illustration: Turn out on fore-and-aft plank road.]
+
+When two or more truck units are to be used on a single track, a careful
+calculation must be made to determine the best passing places. The
+location of these points may determine the success of the operation.
+They should be placed so that the truck returning empty can reach the
+turnout before the loaded one comes along in order that the loaded one
+may not be held up. At the same time, the turnout should not be so far
+away from the loading ground that the loading crew will be idle for any
+length of time while waiting for an empty truck. It is better to have an
+extra turnout, even if seldom used, than conditions that would hinder
+efficient operation or might even result in a collision which would tie
+up the logging for several days.
+
+A few loggers build a turnout of the same material as the main road for
+a short distance to the side. An illustration of this type of turnout is
+shown above. Most of them, however, simply clear off a right of way and
+put in a gravel bottom for the road as the waiting truck at this point
+is empty and will not ordinarily sink into the ground and get stalled. A
+few heavy planks laid fore and aft in the form of a track are sometimes
+used. The construction of passing places is very simple--the only
+important thing to be taken into consideration is the proper point at
+which the trucks should pass in order to keep the operation going at
+maximum efficiency.
+
+
+
+
+TELEPHONES
+
+
+In connection with the passing places, the installation of a telephone
+line is an important but often neglected item. With two or more
+transportation units, a telephone line is a handy if not well nigh
+indispensable accessory. It is a great advantage to have such a system
+with stations at each end of the road and also at the passing places, as
+unavoidable delays will frequently allow a waiting truck to move on to
+another passing place, thus saving time. To avoid accidents, the driver
+at the passing place should call the loader at the spar tree to see if
+the road is clear before coming any farther.
+
+Very often something breaks on the yarding or loading donkey. With the
+telephone, perhaps a half day of shutdown may be saved by calling the
+main camp for the repair parts and having them brought up by the next
+truck. The saving due to avoided accidents and the saving of time more
+than pays for the initial expense of installation. The telephone line
+should not be neglected at the larger operations.
+
+
+
+
+INCLINES
+
+
+In rough country the use of the incline has been a great help and has
+proved to be entirely practical and quite economical. Grades as high as
+sixty or even seventy per cent can be safely taken with an incline if
+the proper measures are taken to prevent accidents.
+
+A typical incline is successfully operated by the Meickeljohn, Brown
+Logging Company near Monroe, Washington. It is fifteen hundred feet long
+and the steepest grade is twenty-eight per cent. An 11-in. x 14-in.
+roader donkey located at the top of the incline snubs the loads down and
+hauls up the empty trucks. A one and one-eighth inch wire cable is
+thrown around the logs and made fast by means of a clevis. This holds
+the truck and prevents the logs from slipping forward and injuring the
+driver. On all inclines, the line should be choked around the logs
+rather than simply attached to the truck to prevent them from slipping
+ahead.
+
+The snubbing device consists of an ordinary donkey engine fitted with a
+hand brake of extra large size and special air valves so that air is
+sucked into the cylinders and let out of the exhaust when the engine is
+being pulled backwards by the weight of the load. The load is controlled
+by the amount of air let out of the valves. The braking action is very
+positive and the load can be stopped in a few revolutions of the crank
+shaft.
+
+The average time to lower the load down the incline is three and a half
+minutes. At the bottom of the incline, the cable is released and the
+truck goes on its way. The cable is attached to the waiting truck by
+means of a ring fastened to the frame and the donkey pulls the empty
+truck to the top. The time taken to raise the trucks is three minutes.
+
+On grades too steep to operate a truck safely with the ordinary brakes
+and yet not steep enough to warrant the expense of the donkey snubber,
+the difficulty is overcome by means of a friction snubber. This consists
+simply of a cable which is hooked to the truck and extends through a
+system of three or four pulleys and thence on down the track. The
+friction of this line dragging on the ground and passing through the
+pulleys is enough to hold the load so that the truck engine must exert
+power to pull the load down the grade. The line is made long enough so
+that as the load reaches the bottom of the grade, the free end of the
+cable has been pulled up to the system of pulleys and is ready to be
+attached to the next load. This system is efficient for small grades, is
+inexpensive to install, and requires no further attention.
+
+By the use of the incline with the donkey engine snubber, very heavy
+grades can be taken. The construction of the incline is the same as the
+rest of the road and is only slightly more expensive to build because of
+the inconvenience of laying it on such a steep slope. The use of the
+incline will not slow up the operation to any great extent as from fifty
+to seventy thousand feet of logs (which is about the average yarding and
+loading capacity of one motor-truck side), can be taken over it in a
+day. This method of hauling down steep grades is used in several
+operations and has been found to be entirely successful.
+
+
+
+
+YARDING
+
+
+A variety of methods are used by motor truck loggers to get the logs to
+the landing to be loaded. The larger operations invariably use the
+high-lead method of yarding as the logs come in quicker and with fewer
+hang-ups. In a few places the old ground method of yarding with a bull
+block is still used. The horse team and skid road is used in a small
+timber where poles and piling are being marketed. The latter is a slow
+method but will keep one truck busy and is still used in some places
+where small stands are located along the highway or in other readily
+accessible places.
+
+
+
+
+LOADING AND UNLOADING
+
+
+The loading of a motor truck is very much the same proposition as the
+loading of a flat-car. The principal difficulties that trucks have had
+to contend with have been poor roads and inefficient methods of loading.
+In loading, the main trouble has been in regulating the yarding so that
+a supply of logs is always on hand. The use of the gin pole and crotch
+line operated by the straw drum of the yarding donkey ties up the
+yarding until the truck is loaded. This is being overcome by using a
+separate engine with the high lead for yarding and doing the logging
+independently of the yarding as is done in the case of railroad logging.
+In this way the yarder can keep ahead of the loading engine and there
+will be no delay at the landing.
+
+Most of the larger companies load with the Duplex loader and use tongs.
+This is a safer way to load than with the crotch line as the logs can be
+more easily controlled. The danger of dropping a log through the truck
+or of knocking off the top of the truck or the driver's seat is greatly
+lessened.
+
+In pole and piling timber where a skid road and horses are used, loading
+is done by hand or with a team. A landing is built of cribwork and the
+logs are simply rolled on the truck with peavies or cant hooks, or a
+parbuckle system with skids and horses is used. This works fairly well
+for small operations in small timber.
+
+[Illustration: Loading a motor truck and trailer through the use of a
+boom.]
+
+The latest development in loading is the boom. An illustration of this
+method is shown above. The boom itself is a fifty to sixty foot pole
+about eighteen inches in diameter at the base and is attached to the
+spar tree by means of a metal strap with two lugs which are fitted into
+holes bored in the spar to keep the strap from slipping. The base of the
+boom is fitted with a metal joint which moves freely on an upright pin
+set in the metal strap. (See A, above.) The whole rig is set high enough
+on the tree so that it may be swung in a semi-circle and clear the
+loaded truck by several feet. A light line (B) from the haulback drum of
+the donkey passes through a block attached low on the spar tree and
+thence to another block on a stump to the right of the landing. From
+here it passes through a third block at the end of the boom and back to
+the stump again. This secures the needed pulling power from the haulback
+drum.
+
+The lifting line from the mainline drum passes through a block half way
+up the tree and thence through a free swinging block (C) and back to the
+tree again. On the second block is a ring to which two one inch lines
+(D) are attached. These lines pass through the boom stick on rollers (E)
+about fifteen feet apart. On the ends of these lines hooks are attached.
+These two lines should be so arranged that the hooks remain parallel to
+the ground. Two three-quarters inch cables (F) with an eye splice in
+each end are attached to the hooks. These lines, or chokers, are then
+wrapped around the log and it is lifted clear of the ground by means of
+the block hold in the main line.
+
+The haulback line (B) from the donkey is slacked and the boom travels
+over to the truck by means of a line (G) attached from the boom to a
+dummy log running on a special guy line. A log two feet in diameter and
+sixteen feet long is wrapped at each end with a cable and fastened to a
+pulley. The two pulleys and attached dummy log travel up and down the
+guy line as the boom moves. A line is attached to the boom and runs
+through a pulley attached to the dummy log and extends back to the boom
+again. This pulls the boom over above the truck as the dummy log travels
+down the guy line. The logs are held parallel to the ground above the
+truck and the truck is run under the boom to the location designated by
+the head loader. With this system the logs will not drop suddenly on the
+trucks as the log will fall off while being carried over to the truck if
+there is any danger of its falling at all. After the log is placed, the
+boom is pulled back to the landing by the haulback line. This system has
+worked with success in a number of motor truck operations and is a safer
+method than loading with tongs because the logs cannot accidentally drop
+and injure the truck. However, the loading situation should be studied
+carefully. The most efficient loading device for the particular needs of
+the operation may be installed as any loss of time in loading seriously
+affects the output of the operation.
+
+Most of the truck loggers unload their logs into water; either into a
+lake, a river that can be driven, or into tide-water. A few, however,
+unload directly into the log pond at the mill or at the log yard in case
+the mill has no log pond.
+
+The road is usually planked solid at the unloading ground. A great help
+in unloading is a dock from six to twelve inches higher on one side
+than on the other so the logs will roll off the truck easily. The
+brow-skid should be close to the log bunks and just a little lower than
+these when the truck is tilted. When unloading into shallow water, such
+as a small river, six or eight skids a foot and a half in diameter are
+placed so that they slope from the brow-skid to the water at an angle of
+forty-five degrees. An illustration of this method of unloading is shown
+below. The skids are so placed that the unloading ground will not be
+undermined.
+
+[Illustration: Unloading truck and trailer through the use of an
+incline, showing brow-skids and roll-way.]
+
+When the truck comes to a stop on the incline, the chock blocks are
+released from the opposite side and the logs roll off of their own
+accord. In some instances a gill-poke has been used in connection with
+the unloading incline, the logs being sheared off as the truck moves
+ahead. Usually the logs roll off readily without the use of the
+gill-poke and if a load does stick it can be loosened with a cant-hook,
+so that the gill-poke really is unnecessary.
+
+Unloading on public wharves or roads where no permanent incline can be
+used is accomplished by placing a portable wedge-shaped timber in front
+of the outside truck and trailer wheels and driving upon it.
+
+[Illustration: Parbuckling a load of logs from the truck and trailer.]
+
+In the most efficient way of unloading the usual brow-skid is placed a
+few inches below the log bunk and the logs are parbuckled from the truck
+and trailer, an illustration of which is shown above. The trucks are run
+on an incline so that one side is raised about four inches. A
+crotch-line consisting of two half-inch cables is attached to the
+brow-skid and passed under the logs to a ring fastened to an inch cable.
+The larger cable passes thru a block located on a gin pole. A light
+yarding or a land clearing donkey furnishes the power to parbuckle the
+logs into the water. By this method the logs are lifted from the truck
+as they are rolled into the water with little danger of the top log
+dropping on the log bunk as is often the case when other methods are
+used, resulting in expensive repairs for broken springs or bearings.
+
+
+
+
+TIME STUDIES
+
+
+Time is a very important item in loading and unloading. Usually the most
+time is consumed in loading, for which reason any improvement that will
+reduce the time taken to load will greatly increase the efficiency of
+the operation. With the proper unloading devices, the truck may be
+unloaded in the time required to knock down the chock blocks.
+
+The following table is a record kept for one day of the actual time
+taken by a truck at each step in the hauling of logs at one operation.
+However, it is possible to give only arbitrary figures to fit the
+particular operation of which they are taken. No average figures can be
+given that fit all conditions.
+
+
+           DONKEY ENGINE                     DUMP AT MILL
+          Time            Time          Unload-          Time
+  Arrive Loading  Leave   Down   Arrive   ing    Leave    Up    Scale
+  A.M.
+   7:15  10 Min.   7:25  20 Min.  7:45  25 Min.   8:10  20 Min.  2592
+   8:30   5 Min.   8:35  27 Min.  8:57  13 Min.   9:10  20 Min.  2092
+   9:30  12 Min.   9:42  21 Min. 10:03   7 Min.  10:10  20 Min.  1908
+  10:30  12 Min.  10:42  33 Min. 11:15  30 Min.  11:45  20 Min.  3074
+  P.M.
+  12:05  10 Min.  12:15  35 Min. 12:50  17 Min.   1:07  20 Min.  2542
+   1:27  15 Min.   1:42  18 Min.  2:00  27 Min.   2:27  20 Min.  1828
+   2:47   8 Min.   2:55  21 Min.  3:16   8 Min.   3:24  20 Min.  1689
+   3:44  11 Min.   3:55  23 Min.  4:18   9 Min.   4:27  20 Min.  2407
+   4:47  14 Min.   5:01  26 Min.  5:27  12 Min.   5:39  20 Min.  2558
+                                                                -----
+                                               Total            20690
+
+
+Length of haul 5.9 miles round trip.
+
+Amount of gasoline, 15 gallons.
+
+The above figures were taken several years ago when the facilities for
+unloading were slower than the present day methods, which accounts for
+the excessive length of time taken to unload.[8]
+
+  [8] The writer is indebted to Mr. George Gunn, Jr., for these figures.
+
+The unloading of a truck is a time when a little care taken will save
+considerable expense for repairs. Such a method as the parbuckling
+system should be used by companies with sufficient stumpage to warrant
+the expense of the extra donkey, to prevent the top logs from dropping
+to the log bunks, thereby saving the cost of repairing broken springs
+and bearings.
+
+
+
+
+CONCLUSION
+
+
+At present, the possibilities for the use of the motor truck for logging
+are just beginning to be realized. What effect their use will have upon
+the future methods of logging remains to be seen. It is certain,
+however, that the advent of motor truck transportation will have a
+marked effect upon the science of forestry and will bring about a closer
+utilization of our timber resources.
+
+The motor truck and the portable band mill seem likely to furnish a
+combination which will do away with the old wasteful circular mill
+because it supplies the cheapness and efficiency of railroad
+transportation and is applicable to small and scattered tracts and to
+stands of low-grade lumber. The fact that the portable band mill may be
+moved for a cut of a million feet assures adaptability. This is not only
+an industrial advance but also a silvicultural advance in that it
+affords the possibility of cuttings at frequent intervals without
+greatly adding to the cost.
+
+A closer utilization of our present stands of timber may be practiced by
+the use of the motor truck. In the northwest, only the larger material
+is taken from the forest, leaving a large amount of good timber on the
+ground in the form of poles and piling and chunks too short to be made
+into saw lumber but from which high grade ties can be made. The truck,
+in connection with a band mill, will furnish a means of utilizing this
+present waste at a profit to the operator.
+
+The motor truck will be a valuable aid in the working out of a sound
+national forest policy for the proper use of our timber resources so
+that the timber will be utilized to the greatest possible extent and at
+the same time methods taken to provide for the perpetuation of the
+forest for future generations. This suggests a way of opening the timber
+for the market on some of our national forests. Most of the government
+owned forests are situated in more or less rugged country back from the
+regular routes of travel. The timber on a great many of these forests is
+over-mature and should be cut but at this time it is inaccessible. The
+problem confronting the country is how to make it accessible.
+
+The plan for opening these forests is to build permanent concrete or
+asphalt roads from the nearest commercial centers thru these tracts
+taking into consideration the aesthetic value of the location as well as
+the possibilities of logging the timber from them. The timber, then, is
+to be taken out, under some silvicultural system and under government
+supervision, by motor truck operators who build their own roads from the
+nearest concrete road to the timber to be cut. Under this system of
+management, the state and federal government pays a part of the expense
+of building the permanent road and the operator pays a small sum for the
+use of the road by being taxed additional stumpage.
+
+The system of management has many advantages. In the first place, the
+mature timber will be logged, the older decadent material coming out
+first, in small bodies and at the same time care being taken to
+reproduce a new stand. The total area is divided so that as the timber
+is logged in rotation a continuous cutting will be assured. Due to the
+use of the trucks and on account of the timber being cut in rotation,
+the fire danger will be greatly lessened. In case a fire gets beyond
+control, the roads thru the forest make an excellent way to bring in men
+and supplies to fight the fire. In this way, a fire is readily
+accessible in a few hours where formerly it took perhaps several days to
+organize the fire fighting party and reach the scene of action. The
+concrete roads themselves make good fire lines. By means of the good
+roads, the forest is opened to campers and tourists each of whom pays a
+small sum as they enter the forest to help pay for the cost of building
+the roads and to provide funds for more extensive highways. In this way
+the forest is opened for the timber, the best methods of utilization and
+forest regeneration are practiced, fire hazard is reduced, and the area
+is opened as a recreational ground so that the greatest possible value
+is obtained from the tract.
+
+A great many other uses of the motor truck for logging and scientific
+forest utilization are being recognized, as example, for transporting
+pulpwood, veneer stock, cordwood, rosin and turpentine, and other forest
+products. Suffice it to say that this method of transportation has
+found a place in the industry and is here to stay. Its value has been
+recognized beyond doubt and in the future will play an important part
+in the further development of this country.
+
+
+
+
+BIBLIOGRAPHY
+
+
+  1916. Motor Truck Logging.
+        The Power Wagon. Sept. 15. Page 34. (Periodical).
+
+  1916. The Law of the Public Highway in Washington.
+        West Coast Lumberman. Sept. 15. Page 23. (Periodical).
+
+  1916. Motor Truck Logging Now Making Great Strides on the Pacific
+        Coast. West Coast Lumberman. Nov. 1. Page 260. (Periodical).
+
+  1917. Motor Truck Logging in the Pacific Northwest.
+        West Coast Lumberman. Mar. 15. Page 70. (Periodical).
+
+  1917. Motor Trucks in High Favor Among Lumbermen.
+        Lumber World Review. Mar. 25. Page 23. (Periodical).
+
+  1917. Motor Truck Logging on Camano Island.
+        West Coast Lumberman. July 1. Page 28. (Periodical).
+
+  1917. Motor Truck Logging.
+        The Commercial Vehicle. Sept. 1. Page 12. (Periodical).
+
+  1918. Pole Roads. A. R. Hillard.
+        West Coast Lumberman. Feb. 1. Page 34. (Periodical).
+
+  1918. Operating Cost of Motor Trucks Computed. H. S. Finch.
+        Timberman. Feb. 1. Page 60. (Periodical).
+
+  1918. Winch for Motor Trucks.
+        American Lumberman. Mar. 2. Page 58. (Periodical).
+
+  1918. Motor Truck Roads.
+        American Lumberman. Mar. 16. Page 38. (Periodical).
+
+  1918. The Motor Truck in the Logging Industry. H. H. Warwood.
+        Timberman. April 1. Page 74. (Periodical).
+
+  1918. Road Construction for Motor Trucks. Jay C. Smith.
+        Timberman. April 1. Page 38. (Periodical).
+
+  1918. Adjustable Reach Logging Trailer.
+        American Lumberman. May 18. Page 63. (Periodical).
+
+  1918. Demonstrating Duplex Trucks.
+        American Lumberman. June 1. Page 63. (Periodical).
+
+  1918. Modern Motor Truck Solves Difficult Logging Problems.
+        West Coast Lumberman. July 1. Page 18D. (Periodical).
+
+  1918. Motor Trucks in Winter Logging. A. R. Hilliard.
+        West Coast Lumberman. Sept. 1. Page 25. (Periodical).
+
+  1919. The Effect of Changed Conditions Upon Forestry. W. W. Ashe.
+        Journal of Forestry. Oct. 1. Page 657. (Periodical).
+
+  1919. Puget Sound Logger Tells Congress How to Log With Motor Trucks.
+        West Coast Lumberman. October. Page 25. (Periodical).
+
+  1920. Air Brakes for Trucks.
+        Timberman. Mar. 1. Page 48g. (Periodical).
+
+The writer has drawn freely from the material found in the above
+periodicals and trade journals, but wishes to acknowledge the greater
+bulk of information in writing this paper received from the various
+truck salesmen and truck operators who were interviewed personally.
+Without their assistance, the gathering of this information would have
+been impossible.
+
+
+
+
+Publications of the Engineering Experiment Station University of
+Washington
+
+
+  =Bulletin No. 1=--Creosoted Wood Stave Pipe and Its Effect Upon Water
+  for Domestic and Irrigational Uses. 1917.
+  (Bureau of Industrial Research.) 20 pp. Price, 25 cents.
+
+  =Bulletin No. 2=--An Investigation of the Iron Ore Resources of the
+  North-west. By William Harrison Whittier. 1917.
+  (Bureau of Industrial Research.) 128 pp. Price, 60 cents.
+
+  =Bulletin No. 3=--An Industrial Survey of Seattle. By Curtis C. Aller.
+  1918.
+  (Bureau of Industrial Research.) 64 pp. Price, 50 cents.
+
+  =Bulletin No. 4=--A Summary of Mining and Metalliferous Mineral
+  Resources in the State of Washington with Bibliography.
+  By Arthur Homer Fischer. 1919. 124 pp. Price, 75 cents.
+
+  =Bulletin No. 5=--Electrometallurgical and Electrochemical Industry
+  in the State of Washington. By Charles Denham Grier.
+  1919. 43 pp. Price, 50 cents.
+
+  =Bulletin No. 6=--Ornamental Concrete Lamp Posts. By Carl Edward
+  Magnusson. 1919. 24 pp. Price, 40 cents.
+
+  =Bulletin No. 7=--Multiplex Radio Telegraphy and Telephony. 1920.
+  By F. M. Ryan, J. R. Tolmie, R. O. Bach. Price, 50 cents.
+
+  =Bulletin No. 8=--Voltage Wave Analysis with Indicating Instruments.
+  By Leslie Forrest Curtis. 1920. 28 pp. Price, 50 cents.
+
+  =Bulletin No. 9=--The Coking Industry of the Pacific Northwest.
+  By Joseph Daniels. 1920. 36 pp. Price, 60 cents.
+
+  =Bulletin No. 10=--An Investigation of Compressed Spruce Pulleys.
+  By George Samuel Wilson. 1920. 72 pp. Price, 80 cents.
+
+  =Bulletin No. 11=--The Theory of Linear-Sinoidal Oscillations.
+  By Henry Godfrey Cordes. 1920. 24 pp. Price, 40 cents.
+
+  =Bulletin No. 12=--Motor Truck Logging Methods.
+  By Frederick Malcolm Knapp. 1921. 52 pp. Price, 50 cents.
+
+
+Requests for bulletins should be addressed to the Director, Engineering
+Experiment Station, University of Washington, Seattle.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Motor Truck Logging Methods, by
+Frederick Malcolm Knapp
+
+*** END OF THIS PROJECT GUTENBERG EBOOK MOTOR TRUCK LOGGING METHODS ***
+
+***** This file should be named 37359.txt or 37359.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/7/3/5/37359/
+
+Produced by Harry Lame, Greg Bergquist and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/American Libraries.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
