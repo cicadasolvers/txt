@@ -1,0 +1,990 @@
+The Project Gutenberg EBook of Zenith Television Receiver Operating Manual, by
+Zenith Radio Corporation
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Zenith Television Receiver Operating Manual
+
+Author: Zenith Radio Corporation
+
+Release Date: January 21, 2009 [EBook #27832]
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ZENITH TELEVISION RECEIVER MANUAL ***
+
+
+
+
+Produced by Gerard Arthus, Meredith Bach, and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+[Illustration: THE ROYALTY
+OF RADIO AND TELEVISION
+
+A New World of Entertainment
+
+TELEVISION RECEIVER
+
+ZENITH(R)
+
+OPERATING MANUAL
+
+WARRANTY REGISTRATION CARD
+
+CAUTION: DEALER DO NOT REMOVE
+
+This Booklet Contains Customer's Registration Card and Serial Number]
+
+
+
+
+Warranty
+
+
+Zenith Radio Corporation warrants the parts, transistors, and tubes
+(including television picture tubes) in any Zenith black and white
+television receiver or Zenith black and white television combination
+receiver to be free from defects in material arising from normal usage.
+Its obligation under this warranty is limited to replacing, or at its
+option repairing any such parts or transistors or tubes of the receiver
+which, after regular installation and under normal usage and service,
+shall be returned within ninety (90) days (one year in case of
+television picture tubes only) from the date of original consumer
+purchase of the receiver to the authorized dealer from whom the purchase
+was made and which shall be found to have been thus defective in
+accordance with the policies established by Zenith Radio Corporation.
+
+The obligation of Zenith Radio Corporation does not include either the
+making or the furnishing of any labor in connection with the
+installation of such repaired or replacement parts, transistors or tubes
+nor does it include responsibility for any transportation expense.
+
+Zenith Radio Corporation assumes no liability for failure to perform or
+delay in performing its obligations with respect to the above warranty
+if such failure or delay results, directly or indirectly, from any cause
+beyond its control including but not limited to acts of God, acts of
+government, floods, fires, shortage of materials, and labor and/or
+transportation difficulties.
+
+
+CONDITIONS AND EXCLUSIONS
+
+This warranty is expressly in lieu of all other agreements and
+warranties, expressed or implied, and Zenith Radio Corporation does not
+authorize any person to assume for it the obligations contained in this
+warranty and neither assumes nor authorizes any representative or other
+person to assume for it any other liability in connection with such
+Zenith television receiver or parts or tubes or transistors thereof.
+
+The warranty herein extends only to the original consumer purchaser and
+is not assignable or transferable and shall not apply to any receiver or
+parts or transistors or tubes thereof which have been repaired or
+replaced by anyone else other than an authorized Zenith dealer, service
+contractor or distributor, or which have been subject to alteration,
+misuse, negligence or accident, or to the parts or tubes or transistors
+of any receiver which have had the serial number or name altered,
+defaced or removed.
+
+=Zenith Radio Corporation is under no obligation to extend this warranty
+to any receiver for which a Zenith warranty registration card has not
+been completed and mailed to the Corporation within fifteen (15) days
+after date of delivery.=
+
+ ZENITH RADIO CORPORATION                        CHICAGO, ILLINOIS 60639
+
+
+
+
+=NOTE:= UHF information in this book applies to models equipped for
+VHF-UHF reception.
+
+
+General Notes
+
+    1. Place receiver where no bright light will fall on the screen or
+    in the eyes of the viewers.
+
+    2. Viewers should not be seated closer than a distance of 5 ft.
+    from the screen for maximum comfort.
+
+    3. Place where unimpeded cabinet ventilation is allowed. If
+    receiver is to be placed along a wall allow several inches between
+    wall and cabinet back. This is important for proper ventilation.
+
+
+WARNING, HIGH VOLTAGE
+
+It is recommended that only your authorized Zenith television technician
+make repairs or adjustments inside the receiver. A severe shock can
+result from tampering.
+
+
+POWER SUPPLY
+
+Do not attempt to operate on DC or line supplies of other voltages or
+frequency ratings than those stated on the cabinet back.
+
+
+CABINET STAINS
+
+To preserve the finish on your Zenith Television cabinet, instruments or
+ornaments with rubber feet should not be placed on it. The chemicals in
+the rubber feet have a tendency to leave a stain.
+
+
+PICTURE GLASS
+
+Your Zenith is equipped with the new sealed picture glass and tube.
+Simply clean it from the front of the set when necessary.
+
+Use lukewarm water and a mild soap solution. Carefully wipe dry with a
+clean, damp chamois cloth.
+
+
+
+
+Controls
+
+
+PULL-PUSH ON-OFF SWITCH--VOLUME CONTROL
+
+To turn receiver ON, pull knob outward. To turn receiver OFF, push knob
+inward. Clockwise rotation of the knob increases the volume,
+counterclockwise rotation diminishes the volume.
+
+Allow the receiver to warm up for about 1 minute before you wish to use
+it.
+
+=CHANNEL SELECTOR (VHF)=
+
+Turn knob to channel desired.
+
+=PERMA-SET TUNING CONTROL (VHF) NOTE:= Your Zenith has the new Perma-set
+tuning control.
+
+Each channel has been correctly set at the factory for best picture and
+sound.
+
+
+[Illustration: FIG. 1--CONTROLS
+
+Note: Open panel door at front of
+cabinet for access to controls
+
+TONE
+CONTROL
+
+HORIZONTAL
+HOLD
+
+VERTICAL
+HOLD
+
+(SOME MODELS)
+PEAK
+PICTURE
+
+BRIGHTNESS
+
+CONTRAST]
+
+
+[Illustration: VHF CHANNEL
+SELECTOR
+
+VHF PERMA-SET
+TUNING KNOB
+
+VHF CHANNEL
+INDICATOR
+
+CHANNEL NUMBERS ILLUMINATED
+(SOME MODELS)]
+
+
+[Illustration: UHF CHANNEL
+INDICATOR
+
+UHF FINE
+TUNING KNOB
+
+UHF CHANNEL
+TUNING CONTROL
+
+PULL-PUSH
+ON-OFF SWITCH and
+VOLUME CONTROL
+
+=NOTE:= Knob Style Varies With Models]
+
+
+However, should the settings become mis-adjusted, it is a simple matter
+to adjust them as follows:
+
+    1. Turn the VHF channel selector knob to the channel number
+    desired.
+
+    2. Turn VHF perma-set tuning knob until there is no picture.
+
+    3. Then turn perma-set tuning knob back slowly for best picture and
+    sound.
+
+    4. Repeat for each channel to be set.
+
+
+TONE CONTROL
+
+Your Zenith is equipped with a tone control which enables you to
+personally select tonal values of unmatched richness and fidelity. The
+high tonal register and the "bass" or low frequencies are emphasized by
+turning the tone control knob. Set knob to the position most pleasing to
+your ear.
+
+
+UHF TUNING
+
+First, turn VHF CHANNEL SELECTOR to "UHF" Position. Turn UHF Channel
+Tuning Control for desired UHF Channel. Then carefully turn UHF Fine
+Tuning knob for best picture and sound.
+
+Disregard channel numbers 12 and 13 if they appear in the UHF indicator
+dial of your unit. These are VHF channels to be tuned in with the VHF
+selector.
+
+
+PEAK PICTURE (SOME MODELS)
+
+Set this control for best picture crispness in your location. The
+strength of the signal being received and your personal preference for
+picture detail will determine the optimum setting.
+
+
+SERVICE
+
+Your new Zenith television receiver is engineered for dependable long
+life service but like any mechanical or electrical instrument, it will
+occasionally require maintenance. For service consult your Zenith dealer
+or refer to the organization that installed your instrument. (See
+warranty.)
+
+
+
+
+Picture Adjustments
+
+
+BRIGHTNESS
+
+Rotate clockwise to increase the brightness; counterclockwise reduces
+the brightness. It is to be used in conjunction with the contrast
+control since its movement will also have an effect on picture contrast.
+
+[Illustration: FIG. 2]
+
+=NOTE:= The brightness control setting for the picture shown in Figure 2
+is set too high. Set the control below this level.
+
+
+CONTRAST
+
+Adjust the picture for best distinction between the black and white
+shading. Your own vision is the best judge in setting this control
+properly.
+
+[Illustration: FIG. 3]
+
+=NOTE:= The contrast control setting for the picture shown in Figure 3 is
+set too high. Set the control below this level.
+
+
+HORIZONTAL HOLD CONTROL
+
+If the picture appears to have a tendency to move across the screen, or
+if it assumes a broken streaked appearance, as indicated in Figure 4, it
+should be readjusted to a point where the pictures remain locked in
+properly on all channels.
+
+[Illustration: FIG. 4]
+
+
+VERTICAL HOLD CONTROL
+
+This control is used in correcting for vertical movement, or rolling up
+or down. Set control to lock picture. (Fig. 5)
+
+[Illustration: FIG. 5]
+
+
+
+
+Interference
+
+
+The most effective means of reducing interference to a minimum has been
+built into your Zenith Television receiver. Occasionally however, the
+picture may be affected by electrical interference or reflections.
+
+
+AUTO IGNITION AND APPLIANCES
+
+Automobile ignition, electrical appliances, etc., cause a speckled
+streaked appearing picture as shown. This condition is most noticeable
+in weak signal areas. (Fig. 6.)
+
+[Illustration: FIG. 6]
+
+
+DIATHERMY
+
+Diathermy produces a distinctive herringbone pattern and one or two
+horizontal bands across the face of the picture. (Fig. 7). It can
+sometimes be reduced or eliminated by the insertion of a filter trap at
+the antenna terminals.
+
+[Illustration: FIG. 7]
+
+
+R.F. INTERFERENCE
+
+Radio signals by a neighboring commercial, amateur or police station may
+cause interference in the form of moving ripples or diagonal streaks.
+Television or FM receivers operating near your receiver, can also be the
+reason for this reaction. (Fig. 8.)
+
+[Illustration: FIG. 8]
+
+The insertion of a filter trap at the antenna terminals of the TV
+receiver will sometimes eliminate or reduce this type of interference.
+
+
+
+
+Antenna Connections
+
+
+[Illustration: FIG. 9--ANTENNA CONNECTIONS AT CABINET BACK
+
+FIGURE 9. NOTES:
+
+1. FOR POSSIBLE BETTER PERFORMANCE
+CONNECT ADDITIONAL WIRE TO REMAINING
+ANTENNA TERMINAL
+
+2. TACK OR TWIST END OF WIRE TO CONVENIENT
+POINT UP AND AWAY FROM
+TV CHASSIS (VARY POSITION FOR BEST
+RECEPTION.)
+
+ADDITIONAL 10 FT LENGTH WIRE
+APPROX.
+
+TV RECEIVER]
+
+
+An outdoor type antenna is recommended for best reception. If such
+installation is impossible, different type indoor antenna may be used.
+Quality of reception also depends upon local signal conditions.
+
+Some models are equipped with a di-pole or mono-pole antenna mounted at
+the cabinet back. To use this antenna, raise and extend rods. Vary the
+length and position of the rods or rod for best picture and sound.
+
+Under favorable receiving conditions, satisfactory reception may be
+obtained with a 10 ft. length of antenna wire. (Supplied with some
+models). Stretch out wire for best reception.
+
+When using a regular outside antenna, disconnect the inside antenna
+leads from the antenna terminal screws. Connect the antenna transmission
+line to both of these terminal screws.
+
+
+THE PROOF OF ZENITH ANTENNA SUPERIORITY IS IN THE PICTURE.
+
+Zenith TV antennas are designed and constructed to provide you maximum
+service and superior performance. Contact your Zenith dealer for the one
+that will provide you with the best picture quality.
+
+
+DIPLEXER
+
+(SEE PAGE 8)
+
+When using a combination VHF-UHF antenna system with a single
+transmission line it is necessary to have an additional diplexer at the
+receiver.
+
+Make the transmission line lengths from the diplexer to the VHF and UHF
+antenna post terminals on the receiver as short as possible. See your
+Zenith dealer for additional information.
+
+
+OSCILLATOR ADJUSTMENTS (VHF)
+
+=NOTE:= _The VHF perma-set tuning control on the tuner is also the VHF
+channel oscillator adjustment._ No additional oscillator adjustments are
+incorporated. Therefore, should re-tuning of a VHF TV channel be
+required, select the channel and then manually turn the tuning knob for
+best picture and sound. Each individual VHF channel is tuned in this
+manner.
+
+
+
+
+Phonevision
+
+
+A three-year commercial trial of Zenith's Phonevision[A] systems of
+over-the-air subscription television has been in progress for the
+Hartford, Connecticut area since June 29, 1962.
+
+Authorized by the Federal Communications Commission, the trial has made
+it possible, for the first time, for about 5000 American TV homes to
+enjoy the convenience and economy of viewing top flight box-office
+entertainment and other features broadcast to their home receivers.
+Features at prices for the entire family no greater than a single
+admission at the theatre, stadium or concert hall. The Hartford test has
+already furnished factual information, rather than speculation,
+concerning this brand new television service. On the basis of this
+factual information, the F.C.C. has been requested to authorize
+nationwide operation. If the F.C.C. is persuaded by the results of the
+trial that subscription television is in the public interest and should
+be authorized nationally, then every home could have its own "television
+theatre" with the world's greatest and most costly entertainment offered
+for an admission well below the cost of witnessing these same events
+outside the home. With such premium-type programs added to entertainment
+now available from sponsored television, the home viewer would be able
+to obtain the ultimate of everything he wants to see on his own TV
+screen.
+
+
+[A] Reg. U.S. Pat. Off.
+
+
+FUSE REPLACEMENT
+
+Remove cabinet back for access to main chassis fuse if it ever becomes
+necessary to replace it.
+
+
+
+
+INSTALLATION INSTRUCTIONS FOR S-23427 ZENITH DIPLEXER
+
+
+The diplexer is designed for use with a combined VHF-UHF antenna system
+incorporating a single transmission line. Figures A, B, C, and D show
+diplexer installed on various chassis models. UHF reception should be
+tried with and without the inductance wire to obtain the best overall
+results. Disconnect leads from previous antenna system. Install diplexer
+assembly in manner most suitable to TV chassis model.
+
+NOTE: Always connect the diplexer assembly with coil terminal to VHF
+antenna terminal.
+
+
+[Illustration: FIG. A
+VHF ANTENNA TERMINALS
+ON TUNER
+
+CONNECT TRANSMISSION LINE
+FROM COMBINED VHF-UHF
+ANTENNA SYSTEM TO THESE
+TERMINALS
+
+UHF ANTENNA TERMINALS
+NOTE TO INSTALL DIPLEXER DISCONNECT
+CABINET ANTENNA LEADS]
+
+
+[Illustration: Fig. B
+
+VHF
+
+TO VHF TUNER
+
+NEW TERMINALS FOR COMBINATION
+VHF-UHF ANTENNA SYSTEM
+
+1 SNAP TERMINAL CUPS INTO HOLES LOCATED
+TO THE RIGHT OF VHF TERMINALS
+
+2 INSTALL DIPLEXER ASSEMBLY AS SHOWN
+
+3 CONNECT 300 OHM TRANSMISSION LINE (SUPPLIED WITH KIT)
+BETWEEN TERMINALS AS SHOWN
+
+UHF
+
+CONTINUOUS
+TUNER TERMINALS
+
+4 IF NECESSARY CONNECT UHF INDUCTANCE
+WIRE (SUPPLIED WITH KIT) AS SHOWN
+
+NOTE DISCONNECT PREVIOUS ANTENNA LEADS FROM VHF TERMINALS.
+
+DO NOT REMOVE LEADS FROM VHF TUNER TO ANTENNA TERMINALS.]
+
+
+[Illustration: Fig. C
+
+TO ANTENNA TERMINALS
+ON UHF TUNER
+
+TO ANTENNA
+
+INDUCTANCE WIRE
+
+TO ANTENNA TERMINALS
+ON VHF TUNER]
+
+
+[Illustration: Fig D.
+
+BEND DIPLEXER LUGS AND MOUNT AS SHOWN
+
+NOTE: DO NOT ALLOW DIPLEXER TERMINALS
+TO SHORT AGAINST CABINET BACK
+
+SOLDER LEADS & CONNECT
+TO UHF TERMINALS
+
+CONNECT
+300 OHM
+
+UHF
+
+NEW TERMINALS FOR COMBINATION
+VHF-UHF ANTENNA SYSTEM
+
+VHF ANTENNA TERMINALS ON TV SET]
+
+
+
+
+WHEN YOU MAIL THE REGISTRATION CARD BELOW THE WARRANTY ON YOUR
+
+ZENITH(R)
+
+TELEVISION RECEIVER BECOMES EFFECTIVE
+
+ 6711332
+ X2 317W
+ INST. BOOK
+
+WARRANTY IS VOID UNLESS REGISTRATION CARD IS RETURNED TO US WITHIN 15 DAYS
+AFTER DATE OF DELIVERY
+
+IMPORTANT--PLEASE FILL IN BOTH SECTIONS OF CARD
+
+ MAIL THIS CARD TODAY                                  MAIL THIS CARD TODAY
+
+
+
+
+                                                       SERIAL No.
+                                                       MODEL
+
+ OWNER'S NAME__________________________________
+
+ STREET________________________________________
+
+ CITY_______________________COUNTY___________STATE__________ZIP CODE_______
+
+ PURCHASED FROM______________________________________DATE__________________
+
+ ADDRESS___________________________________________________________________
+
+
+ MAIL THIS CARD TODAY                                  MAIL THIS CARD TODAY
+
+
+ ZENITH SALES CORPORATION
+
+ 6001 DICKENS AVENUE
+ CHICAGO, ILL. 60639
+
+ Printed in U.S.A.
+ G E D C B 202-2770
+
+
+
+
+
+End of the Project Gutenberg EBook of Zenith Television Receiver Operating
+Manual, by Zenith Radio Corporation
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ZENITH TELEVISION RECEIVER MANUAL ***
+
+***** This file should be named 27832.txt or 27832.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/7/8/3/27832/
+
+Produced by Gerard Arthus, Meredith Bach, and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
